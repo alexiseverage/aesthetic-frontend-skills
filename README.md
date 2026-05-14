@@ -1,4 +1,4 @@
-# aesthetic-frontend-skills
+# Aesthetic Frontend Skills ✨
 
 [![skills.sh](https://img.shields.io/badge/skills.sh-aesthetic--frontend--skills-blue)](https://skills.sh)
 
