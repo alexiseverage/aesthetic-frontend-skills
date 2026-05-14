@@ -6,21 +6,25 @@ description: >
   cottagecore, dark academia, etc.), wants to compare or disambiguate aesthetics, or needs
   formal characterization before producing design tokens or assets. Provides the 7-dimension
   framework (palette, type, texture, shape, motion, spatial conventions, cultural markers)
-  and a curated dictionary of 25 major aesthetics. Foundation for aesthetic-research,
+  and a curated dictionary of 21 major aesthetics. Foundation for aesthetic-research,
   image-analysis, asset-creation, and aesthetic-application.
+  Do not use for component implementation, layout, or accessibility decisions.
 metadata:
   version: "1.0.0"
   layer: foundation
   status: stable
   tags: "aesthetic-movements, design-era, visual-culture, aesthetic-dictionary, period-style, semiotics, connotation"
   activation_keywords: "aesthetic, look and feel, style like, Y2K, vaporwave, brutalist, cottagecore, dark academia, retro, vintage, era, period style, design movement, vibe"
+  known_limits: "Does not cover component implementation, layout, or accessibility; limited to the 21 dictionary entries and any research profiles present"
+  last_evaluated: ""
+  eval_suite: ""
 ---
 
 # Aesthetic Literacy
 
 ## Summary
 
-Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of ~25 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
+Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 21 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
 Used as the foundation for `aesthetic-research`, `image-analysis`, `asset-creation`, and `aesthetic-application`.
 

@@ -8,6 +8,7 @@ description: >
   structured knowledge profile to knowledge/aesthetics/<slug>.md. Profiles are append-only
   — new runs append a dated section, never overwrite. Requires internet access. Depends on
   aesthetic-literacy.
+  Do not use when a profile already exists and tokens are needed — use aesthetic-application instead.
 compatibility: Requires internet access to search image sources (Pinterest, Dribbble, Behance, Google Images).
 allowed-tools: browser, fetch
 metadata:
@@ -17,6 +18,9 @@ metadata:
   tags: "visual-research, knowledge-base, image-collection, dimension-analysis"
   activation_keywords: "research this aesthetic, find examples of, what does X look like visually, search for references, gather visual references, build a profile for, get me images of"
   depends_on: "aesthetic-literacy"
+  known_limits: "Does not produce design tokens or CSS values; image sourcing depends on tool availability and target site accessibility"
+  last_evaluated: ""
+  eval_suite: ""
 ---
 
 # Aesthetic Research
@@ -69,6 +73,7 @@ Slug format: lowercase-hyphenated (e.g., `dark-academia`, `frutiger-aero`, `neub
 - If the profile already exists, append the new term to its `aliases` frontmatter field if not already present.
 - If the profile is being created now, populate `aliases` with the requested term if it differs from the slug.
 - Also add the term to the `aliases` field of the matching dictionary entry in the `aesthetic-literacy` skill (`aesthetics/<slug>.md`, co-located with that skill's SKILL.md) if that file exists and does not already list it.
+  > **Note**: If the `aesthetic-literacy` skill is installed at a different path (e.g., user-global at `~/.agents/skills/` vs. the current project install), the dictionary file may not be writable or locatable. In that case, skip the dictionary write and record the alias only in the profile frontmatter `aliases` field.
 
 ### Step 2 — Construct query variants
 

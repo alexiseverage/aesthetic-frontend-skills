@@ -8,14 +8,19 @@ description: >
   outputs to typed React components. Not for UI components with behavior or structural
   layouts — use aesthetic-application for those. Gracefully degrades to manual prompt
   specifications when no image generation tool is configured.
+  Do not use for UI components with behavior, interaction, or layout structure.
 compatibility: Requires an image generation tool to generate assets. Gracefully degrades to providing manual prompt specifications when no tool is configured.
 allowed-tools: image-generation
 metadata:
   version: "1.2.0"
+  version_notes: "1.2.0 — extended graceful degradation paths and SVG-to-React conversion support"
   layer: applied
   status: stable
   tags: "asset-generation, svg, react-components, image-generation"
   activation_keywords: "generate an image, create a texture, make an SVG, vectorize, background image, generate an icon, create a background, SVG to React"
+  known_limits: "Depends on external image generation tool availability; vector output quality varies by tool; does not produce UI component code"
+  last_evaluated: ""
+  eval_suite: ""
 ---
 
 # Asset Creation

@@ -53,27 +53,6 @@ Save output to: knowledge/aesthetics/<your-slug>/generated/
 
 ---
 
-## Ideal response pattern — graceful degradation (no generation tools)
-
-**For prompt 5 (no image generation tools configured):**
-
-```
-No image generation tools are configured in this environment.
-Here's the full spec for manual generation:
-
-ASSET TYPE: Background texture
-ASSET FORMAT: Raster (PNG or WebP)
-
-PROMPT (ready to paste into any image generation tool):
-"abstract background, soft gradient, blurred bokeh lights, warm terracotta
-and cream color palette, organic noise texture, matte surface, soft diffuse
-lighting, interior lifestyle mood, no figures, no text"
-
-Save output to: knowledge/aesthetics/<your-slug>/generated/
-```
-
----
-
 ## Ideal response pattern — SVG to React component
 
 **For prompt 4 (SVG → React):**

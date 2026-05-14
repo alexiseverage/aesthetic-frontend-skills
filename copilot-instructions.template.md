@@ -47,7 +47,7 @@ directory automatically.
 
 ---
 
-## User-scope install (`npx skill -g` or manual copy to `~/.agents/skills/`)
+## User-scope install (`npx skills add alexiseverage/aesthetic-frontend-skills -g` or manual copy to `~/.agents/skills/`)
 
 If you installed skills to `~/.agents/skills/`, agent clients that support Agent Skills discover them automatically — no `.github/copilot-instructions.md` entry is needed for skill discovery.
 

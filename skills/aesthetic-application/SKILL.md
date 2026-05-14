@@ -8,6 +8,7 @@ description: >
   implementable values across all 7 dimensions. Use when the user asks to 'make it look
   like X', requests design tokens or CSS variables, or needs a developer handoff spec
   grounded in an aesthetic. Depends on aesthetic-literacy.
+  Do not use before an aesthetic is confirmed; do not use for accessibility resolution or component architecture.
 metadata:
   version: "1.0.0"
   layer: applied
@@ -15,6 +16,9 @@ metadata:
   tags: "design-tokens, css-variables, aesthetic-translation, component-spec, developer-handoff, dtcg"
   activation_keywords: "make it look, apply this aesthetic, design tokens for, translate this aesthetic, aesthetic but accessible, CSS variables for, design spec, full spec, component notes, cultural markers"
   depends_on: "aesthetic-literacy"
+  known_limits: "Does not resolve accessibility conflicts; does not cover component architecture, interaction design, or layout structure"
+  last_evaluated: ""
+  eval_suite: ""
 ---
 
 # Aesthetic Application

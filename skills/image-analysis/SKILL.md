@@ -8,6 +8,9 @@ description: >
   output is a concrete value, never a description. Use when the user asks to extract colors,
   get CSS values, analyze images for tokens, or identify typography and border-radius values
   from screenshots. Depends on aesthetic-literacy.
+  Do not use when no images are available; do not use for qualitative descriptions.
+compatibility: Requires visual reference images or screenshots to be provided or accessible via browser tools.
+allowed-tools: browser
 metadata:
   version: "1.0.0"
   layer: applied
@@ -15,6 +18,9 @@ metadata:
   tags: "image-analysis, color-extraction, css-values, typography-inference, design-tokens, knowledge-base"
   activation_keywords: "analyze these images, extract colors from, what CSS values, implementable values, extract the palette, get the border radius, what hex colors, what font weight, design values from images"
   depends_on: "aesthetic-literacy"
+  known_limits: "Cannot extract values without visual input; typography inference is approximate without embedded font metadata"
+  last_evaluated: ""
+  eval_suite: ""
 ---
 
 # Image Analysis
