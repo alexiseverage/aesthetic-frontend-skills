@@ -1,0 +1,5 @@
+knowledge/aesthetics/*/images/
+knowledge/aesthetics/*/generated/
+.env
+.env.local
+.DS_Store

@@ -1,0 +1,23 @@
+---
+slug: brutalism
+label: Brutalism
+family: historical-design-movements
+era: architecture 1950s; web 2014–present
+aliases: []
+---
+
+**Palette**: Stark black/white; HTML default values used deliberately; high contrast
+
+**Type**: Default system fonts used raw; no typographic refinement; browser defaults honored
+
+**Texture**: Raw: unstyled default browser rendering; visible structure
+
+**Shape**: Hard rectangular blocks; no border-radius; no softening
+
+**Motion**: Minimal; functional only
+
+**Spatial**: Dense and unapologetic; no aesthetic whitespace; anti-polish
+
+**Cultural markers**: Visible `<hr>`, underlined blue links, raw form fields, unstyled radio buttons, deliberate ugliness
+
+**Non-negotiables**: raw/unstyled aesthetic + high contrast + no decorative softening
