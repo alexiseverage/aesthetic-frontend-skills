@@ -6,7 +6,7 @@ description: >
   cottagecore, dark academia, etc.), wants to compare or disambiguate aesthetics, or needs
   formal characterization before producing design tokens or assets. Provides the 7-dimension
   framework (palette, type, texture, shape, motion, spatial conventions, cultural markers)
-  and a curated dictionary of 21 major aesthetics. Foundation for aesthetic-research,
+  and a curated dictionary of 56 major aesthetics. Foundation for aesthetic-research,
   image-analysis, asset-creation, and aesthetic-application.
   Do not use for component implementation, layout, or accessibility decisions.
 metadata:
@@ -15,7 +15,7 @@ metadata:
   status: stable
   tags: "aesthetic-movements, design-era, visual-culture, aesthetic-dictionary, period-style, semiotics, connotation"
   activation_keywords: "aesthetic, look and feel, style like, Y2K, vaporwave, brutalist, cottagecore, dark academia, retro, vintage, era, period style, design movement, vibe"
-  known_limits: "Does not cover component implementation, layout, or accessibility; limited to the 21 dictionary entries and any research profiles present"
+  known_limits: "Does not cover component implementation, layout, or accessibility; limited to the 56 dictionary entries and any research profiles present"
   last_evaluated: ""
   eval_suite: ""
 ---
@@ -24,7 +24,7 @@ metadata:
 
 ## Summary
 
-Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 21 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
+Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 56 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
 Used as the foundation for `aesthetic-research`, `image-analysis`, `asset-creation`, and `aesthetic-application`.
 
@@ -79,12 +79,14 @@ Dictionary entries are co-located with this skill in the `aesthetics/` subdirect
 
 **Lookup by slug**: `aesthetics/<slug>.md` (relative to this SKILL.md)
 
-| Family | Slugs |
-|---|---|
-| **Digital / Internet-Native** | [y2k](aesthetics/y2k.md), [vaporwave](aesthetics/vaporwave.md), [synthwave](aesthetics/synthwave.md), [early-internet](aesthetics/early-internet.md), [glitch](aesthetics/glitch.md), [frutiger-aero](aesthetics/frutiger-aero.md) |
-| **Contemporary Lifestyle** | [cottagecore](aesthetics/cottagecore.md), [dark-academia](aesthetics/dark-academia.md), [quiet-luxury](aesthetics/quiet-luxury.md), [maximalism](aesthetics/maximalism.md) |
-| **Historical Design Movements** | [art-nouveau](aesthetics/art-nouveau.md), [art-deco](aesthetics/art-deco.md), [swiss-international](aesthetics/swiss-international.md), [bauhaus](aesthetics/bauhaus.md), [memphis](aesthetics/memphis.md), [brutalism](aesthetics/brutalism.md) |
-| **Emerging / Hybrid** | [organic-digital](aesthetics/organic-digital.md), [solarpunk](aesthetics/solarpunk.md), [corporate-memphis](aesthetics/corporate-memphis.md), [glassmorphism](aesthetics/glassmorphism.md), [neubrutalism](aesthetics/neubrutalism.md) |
+| Family | Count | Representative Slugs |
+|---|---|---|
+| **Digital / Internet-Native** | 16 | y2k, vaporwave, synthwave, early-internet, glitch, frutiger-aero, 8-bit-pixel, skeuomorphism, web-2-gloss, flat-design, material-design, corporate-grunge, myspace-chaos, neumorphism, claymorphism, pen-and-pixel |
+| **Contemporary Lifestyle** | 5 | cottagecore, dark-academia, warm-minimalism (supersedes quiet-luxury), maximalism, 1990s-minimalism |
+| **Historical Design Movements** | 29 | art-nouveau, art-deco, swiss-international, bauhaus, memphis, brutalism, arts-and-crafts, vienna-secession, futurism, vorticism, suprematism, constructivism, de-stijl, streamline-moderne, wpa-poster-style, wartime-propaganda, scandinavian-modern, die-neue-typographie, mid-century-modern, pop-art, op-art, psychedelic, atomic-age, punk-zine, new-wave-typography, grunge-typography, desktop-publishing, rave-flyer, city-pop |
+| **Emerging / Hybrid** | 6 | organic-digital, solarpunk, corporate-memphis, glassmorphism, neubrutalism, quiet-luxury (redirect → warm-minimalism) |
+
+*Full listing: see `aesthetics/` directory. 56 total entries across 4 families.*
 
 Each entry specifies: palette, type, texture, shape, motion, spatial conventions, cultural markers, non-negotiables, connotation, and subsets/related aesthetics (where applicable). Fatigue notes appear where applicable.
 

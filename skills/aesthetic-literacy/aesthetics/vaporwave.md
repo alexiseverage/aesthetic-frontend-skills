@@ -3,23 +3,30 @@ slug: vaporwave
 label: Vaporwave
 family: digital-internet-native
 era: 2012–present
-aliases: [vapor]
+aliases: ["vapor"]
+scope: cultural-editorial
 ---
 
-**Palette**: Pastel pink, lavender, seafoam, sunset magenta; faded and slightly desaturated; neon accents on deep purple-blue
+**Scope caveat**: Vaporwave is primarily a **cultural/editorial aesthetic** with limited but real product-UI applicability. It is suitable for portfolio sites, music platforms, experimental web art, and editorial design. It is NOT suitable for functional product UI (e-commerce, SaaS, dashboards, accessibility-critical interfaces). This entry documents its visual language and CSS techniques for appropriate contexts; the scope flag is a design-tool recommendation, not a value judgment.
 
-**Type**: Japanese katakana mixed with early-90s serif display; wide-tracked; sometimes 80s corporate logotype style
+**Palette**: Two dominant modes. *Synthwave neon*: cyan-to-magenta (`#00FFFF` → `#FF00FF`), hot pink (`#FF69B4`), electric purple (`#8B00FF`), on deep purple-blue backgrounds (`#1A0033`, `#0D001A`). *Pastel utopian*: desaturated seafoam (`#7EC8E3`), lavender (`#C3B1E1`), sunset peach (`#FFDAB9`), pale pink (`#F8C8DC`), soft mint (`#98FF98`) — colours feel faded, like a sun-bleached photograph. Both modes share a deliberate 1980s/90s consumer palette referenced ironically. Neon accents on dark backgrounds; pastels on void-white or gradient grounds. CSS: `background: linear-gradient(135deg, #FF00FF, #00FFFF)` for synthwave hero gradients; `background: linear-gradient(180deg, #7EC8E3, #C3B1E1)` for pastel-vapor backgrounds.
 
-**Texture**: VHS static, scan lines, compression artifacts, CRT phosphor glow
+**Type**: Pixel fonts as primary signal — `'Press Start 2P'`, `'VT323'`, `'Silkscreen'` (Google Fonts). Wide-tracked sans-serif for header text (`letter-spacing: 0.3em`). Japanese katakana mixed with serif display faces — `'Noto Sans JP'` or `'M PLUS Rounded 1c'` for Japanese characters; `'Playfair Display'` or `'Cinzel'` for classical serif contrast. Outlined text (`-webkit-text-stroke: 1px #FF00FF; color: transparent`). The typographic strategy is: mix computer-terminal coldness with humanist warmth in ironic juxtaposition. CSS: `font-family: 'Press Start 2P', 'VT323', monospace; font-size: 14px; letter-spacing: 0.2em; text-transform: uppercase`.
 
-**Shape**: Classical marble busts, Greek columns; grid-floor perspective; 3D wireframe objects
+**Texture**: Degraded media as aesthetic — VHS static, CRT scanlines, compression artifacts, phosphor glow. Chromatic aberration via offset `text-shadow` layers: `text-shadow: 2px 0 #FF00FF, -2px 0 #00FFFF`. CRT scanlines via repeating `linear-gradient` overlay: `background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.1) 2px, rgba(0,0,0,0.1) 4px)`. Noise via SVG `feTurbulence`: `<filter><feTurbulence type="fractalNoise" baseFrequency="0.65"/><feColorMatrix type="saturate" values="0"/><feBlend in="SourceGraphic" mode="multiply"/></filter>`. Glitch distortion via `clip-path` offset or `transform: skewX()` on hover. CSS: `filter: contrast(120%) saturate(80%)` for the VHS-degraded look.
 
-**Motion**: Slowed-down, dreamy looping; uncanny delay
+**Shape**: Greco-Roman classical sculpture (marble busts, Greek columns) as the primary visual motif — a surreal juxtaposition of antiquity and 80s consumer technology. Grid-floor perspective (synthwave outrun grid). 3D wireframe objects (mountains, palm trees, geometric solids). Windows 95 dialogue boxes — hard rectangular boundaries with `border: 2px solid #C0C0C0`, raised `box-shadow` for 3D bevel. Checkerboard patterns. No rounded corners — `border-radius: 0`.
 
-**Spatial**: Surreal non-space; infinite void; objects float without ground
+**Motion**: Slowed-down, dreamy looping. GIF-like infinite scroll backgrounds (CSS `animation: infinite linear` on `background-position`). Drift animations (`transform: translateX()` with `ease-in-out`). Chopped-and-screwed tempo — animations with `animation-duration: 6-8s` to create an uncanny slowness. Neon flicker via `@keyframes` opacity pulsing at irregular intervals. Parallax layers at different scroll speeds for depth without realism. CSS: `@keyframes drift { from { transform: translateX(0); } to { transform: translateX(-100%); } }` on repeating background elements.
 
-**Cultural markers**: A E S T H E T I C spaced lettering, Greco-Roman sculpture, Windows 95 windows, Outrun grid, Japanese text as decoration
+**Spatial**: Surreal non-space — the defining spatial condition. Objects float without ground planes; Greek statues hover in gradient voids. Infinite perspective grids (outrun floor) receding to a vanishing point. No depth hierarchy — 2D and 3D elements coexist in flat, weightless composition. Backgrounds are gradients or starfields, not contextual environments. The spatial philosophy is: remove context to heighten ironic nostalgia. Content floats in an eternal, unplaceable "somewhere."
 
-**Non-negotiables**: pastel + VHS texture + hollow surreal space
+**Cultural markers**: A E S T H E T I C (full-width spaced lettering), Macintosh Plus — Floral Shoppe album art (2011), Greco-Roman marble bust as recurring motif, Windows 95/Solitaire/Minesweeper UI, Outrun sun-and-grid iconography, Japanese text as decorative element (not semantic), palm trees, checkered floor grids, Fiji water bottle, Arizona iced tea can, early internet geocities references. Tumblr (2011–2014) was vaporwave's distribution engine; Bandcamp its marketplace. The cultural stance is ironic nostalgia for consumer capitalism — a simultaneous embrace and critique of the unfulfilled techno-utopian promises of the 1980s and 1990s.
 
-**Connotation**: Ironic nostalgia for consumer capitalism; melancholy internet utopia
+**Non-negotiables**: pastel-to-neon gradient palette + degraded-media texture (VHS/scanline/noise) + surreal void spatiality + ironic Greco-Roman/mall-culture juxtaposition + pixel/wide-tracked typography
+
+**Connotation**: Melancholy utopia; irony-layered nostalgia; critique-through-celebration of late-capitalist visual culture
+
+**Subsets / Related**: *Synthwave / Outrun* — shares the neon palette, grid perspective, and 80s nostalgia but differs in tone: synthwave is earnestly cool (night-driving, fast cars, neon sunsets); vaporwave is ironically melancholy (empty malls, degraded media, statue-filled voids). A sister aesthetic, not a subset. *Seapunk* (2011) — predecessor; 90s computer graphics, ocean imagery, turquoise + neon green, 3D-rendered dolphins; fed directly into vaporwave's Tumblr-era emergence. *Simpsonwave* — a vaporwave sub-genre using Simpsons clips with slowed/reverbed music and VHS degradation; aesthetic identical to vaporwave with a specific cultural referent. *Frutiger Aero* (existing entry) — shares glossy gradients and nature motifs but differs fundamentally: Frutiger Aero is optimistic/sincere; vaporwave is ironic/melancholy. Frutiger Aero is the promise; vaporwave is the memory of the broken promise. *Y2K* (existing entry) — shares retro-futurism but Y2K's chrome/silver/cyber aesthetic is forward-looking and aspirational; vaporwave's degraded VHS aesthetic is backward-looking and elegiac.
+
+**CSS translation notes**: Glitch text via `text-shadow: 2px 0 #FF00FF, -2px 0 #00FFFF`. CRT scanline overlay via `::after` pseudo-element with `repeating-linear-gradient` and `pointer-events: none`. VHS noise via SVG `feTurbulence` filter applied to a full-viewport overlay. Neon glow via `text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 40px #FF00FF`. Pixel-perfect rendering via `image-rendering: pixelated` on scaled-up pixel assets. Outrun grid: `background` with `linear-gradient` perspective lines over a dark base. Google Fonts: Press Start 2P, VT323, Silkscreen, Noto Sans JP.
