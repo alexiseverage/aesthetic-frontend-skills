@@ -6,7 +6,7 @@ description: >
   cottagecore, dark academia, etc.), wants to compare or disambiguate aesthetics, or needs
   formal characterization before producing design tokens or assets. Provides the 7-dimension
   framework (palette, type, texture, shape, motion, spatial conventions, cultural markers)
-  and a curated dictionary of 56 major aesthetics. Foundation for aesthetic-research,
+  and a curated dictionary of 57 major aesthetics. Foundation for aesthetic-research,
   image-analysis, asset-creation, and aesthetic-application.
   Do not use for component implementation, layout, or accessibility decisions.
 metadata:
@@ -24,7 +24,7 @@ metadata:
 
 ## Summary
 
-Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 56 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
+Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 57 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
 Used as the foundation for `aesthetic-research`, `image-analysis`, `asset-creation`, and `aesthetic-application`.
 
@@ -81,12 +81,12 @@ Dictionary entries are co-located with this skill in the `aesthetics/` subdirect
 
 | Family | Count | Representative Slugs |
 |---|---|---|
-| **Digital / Internet-Native** | 16 | y2k, vaporwave, synthwave, early-internet, glitch, frutiger-aero, 8-bit-pixel, skeuomorphism, web-2-gloss, flat-design, material-design, corporate-grunge, myspace-chaos, neumorphism, claymorphism, pen-and-pixel |
+| **Digital / Internet-Native** | 17 | y2k, vaporwave, synthwave, early-internet, glitch, frutiger-aero, 8-bit-pixel, skeuomorphism, web-2-gloss, flat-design, material-design, corporate-grunge, myspace-chaos, neumorphism, claymorphism, pen-and-pixel, j-gov-futurism |
 | **Contemporary Lifestyle** | 5 | cottagecore, dark-academia, warm-minimalism (supersedes quiet-luxury), maximalism, 1990s-minimalism |
 | **Historical Design Movements** | 29 | art-nouveau, art-deco, swiss-international, bauhaus, memphis, brutalism, arts-and-crafts, vienna-secession, futurism, vorticism, suprematism, constructivism, de-stijl, streamline-moderne, wpa-poster-style, wartime-propaganda, scandinavian-modern, die-neue-typographie, mid-century-modern, pop-art, op-art, psychedelic, atomic-age, punk-zine, new-wave-typography, grunge-typography, desktop-publishing, rave-flyer, city-pop |
 | **Emerging / Hybrid** | 6 | organic-digital, solarpunk, corporate-memphis, glassmorphism, neubrutalism, quiet-luxury (redirect → warm-minimalism) |
 
-*Full listing: see `aesthetics/` directory. 56 total entries across 4 families.*
+*Full listing: see `aesthetics/` directory. 57 total entries across 4 families.*
 
 Each entry specifies: palette, type, texture, shape, motion, spatial conventions, cultural markers, non-negotiables, connotation, and subsets/related aesthetics (where applicable). Fatigue notes appear where applicable.
 
