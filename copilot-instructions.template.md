@@ -73,5 +73,5 @@ which path to use automatically.
   - **Project-level install**: `mkdir -p knowledge/aesthetics` at your project root
   - **User/global install (`-g`)**: `mkdir -p ~/.agents/skills/knowledge/aesthetics`
 - Skills resolve the correct path automatically: workspace-root `knowledge/aesthetics/` first, then `~/.agents/skills/knowledge/aesthetics/`.
-- The canonical project-level install location for Agent Skills is `.agents/skills/`. The `npx skill` CLI installs here by default.
+- The canonical project-level install location for Agent Skills is `.agents/skills/`. The `npx skills` CLI installs here by default.
 - Skill files are discovered by name. The `name` and `description` fields in each SKILL.md frontmatter control how the agent selects them.

@@ -1,0 +1,6 @@
+# Runtime dependency for scripts/validate_profile.py
+pyyaml>=6.0
+
+# Planned validator and local regression-test dependencies
+jsonschema>=4.0
+pytest>=8.0

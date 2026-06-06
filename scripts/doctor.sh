@@ -1,7 +1,7 @@
-#!/usr/bin/env env bash
+#!/usr/bin/env bash
 # doctor.sh — Readiness check for aesthetic-frontend-skills
 #
-# Usage: bash scripts/doctor.sh
+# Usage: ./scripts/doctor.sh
 #
 # Checks:
 #   1. knowledge/aesthetics/ exists at expected path(s)
