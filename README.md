@@ -111,4 +111,27 @@ Depending on your AI client or IDE, you may need to explicitly connect installed
 
 ---
 
+## Development
+
+Install the Python validation dependencies before running local checks:
+
+```bash
+python3 -m pip install -r requirements.txt
+```
+
+The repository scripts are executable and can also be invoked with their
+interpreters when a runtime strips executable bits:
+
+```bash
+make doctor      # ./scripts/doctor.sh
+make validate    # python3 scripts/validate_profile.py
+make test        # python3 -m pytest tests -q
+make check       # doctor + validate + test
+
+bash scripts/doctor.sh
+./scripts/doctor.sh
+python3 scripts/validate_profile.py
+./scripts/validate_profile.py
+```
+
 
