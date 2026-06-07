@@ -1,0 +1,16 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Aesthetic Design",
+      "description": "Skills for AI agents to research, analyze, and implement beautiful visual aesthetics across 7 formal dimensions — from literacy to production-ready CSS.",
+      "skills": [
+        "aesthetic-literacy",
+        "aesthetic-research",
+        "image-analysis",
+        "asset-creation",
+        "aesthetic-application"
+      ]
+    }
+  ]
+}
