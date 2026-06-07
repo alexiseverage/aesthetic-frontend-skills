@@ -2,7 +2,7 @@
 
 <p align="center"><strong><a href="https://aesthetic-design.art">aesthetic-design.art</a></strong> — documentation & full showcase</p>
 
-[![skills.sh](https://img.shields.io/badge/skills.sh-aesthetic--frontend--skills-blue)](https://skills.sh)
+[![skills.sh](https://skills.sh/b/alexiseverage/aesthetic-frontend-skills)](https://skills.sh/alexiseverage/aesthetic-frontend-skills)
 
 A focused collection of AI agent skills for building aesthetically beautiful, creative web frontend UIs. Covers visual aesthetics end-to-end: from literacy and research through image analysis, asset generation, and token output.
 
