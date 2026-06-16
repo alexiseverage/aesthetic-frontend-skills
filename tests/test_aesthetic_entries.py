@@ -5,11 +5,18 @@ import yaml
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 SELECTED_AESTHETICS = {
-    "high-performance-hmi": "High-performance HMI",
-    "risograph": "Risograph",
-    "mexican-rotulismo": "Mexican Rotulismo",
-    "guochao": "Guochao",
-    "decora-kei": "Decora Kei",
+    "magical-girl": "Magical Girl",
+    "witchcore": "Witchcore",
+    "sports-scorebug": "Sports Scorebug",
+    "konbini-utility": "Konbini Utility",
+    "blue-note-jazz-modernism": "Blue Note Jazz Modernism",
+    "harm-reduction-zine": "Harm Reduction Zine",
+    "queer-nightlife-ephemera": "Queer Nightlife Ephemera",
+    "prescription-label-clarity": "Prescription Label Clarity",
+    "bloomberg-terminal-monochrome": "Bloomberg Terminal Monochrome",
+    "cheminformatics-map-explorer": "Cheminformatics Map Explorer",
+    "convenience-store-backoffice": "Convenience-Store Back-Office Grid",
+    "b2b-quick-order-grid": "B2B Quick-Order Grid",
 }
 DIMENSION_HEADINGS = [
     "**Palette**",
@@ -78,7 +85,7 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
         encoding="utf-8"
     )
 
-    assert "curated dictionary of 62 major aesthetics" in text
-    assert "62 total entries" in text
+    assert "curated dictionary of 74 major aesthetics" in text
+    assert "74 total entries" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
