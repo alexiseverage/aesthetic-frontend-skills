@@ -103,6 +103,7 @@ skills=(
   "asset-creation/REFERENCES.md"
   "aesthetic-application/SKILL.md"
   "aesthetic-application/REFERENCES.md"
+  "aesthetic-expansion-kanban/SKILL.md"
 )
 
 skills_dir="$REPO_ROOT/skills"
