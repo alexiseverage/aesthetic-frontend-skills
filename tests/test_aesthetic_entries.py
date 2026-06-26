@@ -91,3 +91,35 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
     assert "76 total entries" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
+
+
+def test_lotto_realistic_scratchoff_guidance_is_specific():
+    dictionary_text = (
+        REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics" / "lotto.md"
+    ).read_text(encoding="utf-8").lower()
+    profile_text = (REPO_ROOT / "knowledge" / "aesthetics" / "lotto.md").read_text(
+        encoding="utf-8"
+    ).lower()
+    combined = f"{dictionary_text}\n{profile_text}"
+
+    required_phrases = [
+        "drag",
+        "brush path",
+        "grey/silver latex",
+        "debris",
+        "residue",
+        "price badge",
+        "lottery badge",
+        "validation box",
+        "void marker",
+        "serial",
+        "security print",
+        "paper grain",
+        "dense play grid",
+        "fictional",
+        "non-redeemable",
+        "casino",
+    ]
+
+    for phrase in required_phrases:
+        assert phrase in combined, f"lotto guidance missing: {phrase}"
