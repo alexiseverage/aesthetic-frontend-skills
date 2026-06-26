@@ -17,6 +17,7 @@ A focused collection of AI agent skills for building aesthetically beautiful, cr
 | [`image-analysis`](skills/image-analysis/SKILL.md) | applied | Extract implementable CSS values from collected reference images |
 | [`asset-creation`](skills/asset-creation/SKILL.md) | applied (optional) | Generate images and SVG components using available image generation tools; convert SVGs to React components |
 | [`aesthetic-application`](skills/aesthetic-application/SKILL.md) | applied | Translate a confirmed aesthetic into W3C design tokens, CSS custom properties, and component notes |
+| [`aesthetic-expansion-kanban`](skills/aesthetic-expansion-kanban/SKILL.md) | workflow | Coordinate new aesthetic additions through Kanban research, synthesis, implementation, website showcase, visual QA, and final review |
 
 ---
 
@@ -47,10 +48,10 @@ A small selection of generated components. Visit [aesthetic-design.art](https://
 **Fastest — no clone needed:**
 
 ```bash
-# All 5 skills, project-level (default)
+# All 6 skills, project-level (default)
 npx skills add alexiseverage/aesthetic-frontend-skills
 
-# All 5 skills, user-level (available across all your projects)
+# All 6 skills, user-level (available across all your projects)
 npx skills add alexiseverage/aesthetic-frontend-skills -g
 
 # Individual skill
@@ -103,6 +104,7 @@ npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-research
 npx skills add alexiseverage/aesthetic-frontend-skills@image-analysis
 npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-application
 npx skills add alexiseverage/aesthetic-frontend-skills@asset-creation
+npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-expansion-kanban
 ```
 
 ### 2. Register skills with your agent
