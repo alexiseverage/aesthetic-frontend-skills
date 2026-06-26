@@ -17,6 +17,8 @@ SELECTED_AESTHETICS = {
     "cheminformatics-map-explorer": "Cheminformatics Map Explorer",
     "convenience-store-backoffice": "Convenience-Store Back-Office Grid",
     "b2b-quick-order-grid": "B2B Quick-Order Grid",
+    "lotto": "Lotto Scratcher Commerce",
+    "casino": "Casino Neon Tableplay",
 }
 DIMENSION_HEADINGS = [
     "**Palette**",
@@ -85,7 +87,7 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
         encoding="utf-8"
     )
 
-    assert "curated dictionary of 74 major aesthetics" in text
-    assert "74 total entries" in text
+    assert "curated dictionary of 76 major aesthetics" in text
+    assert "76 total entries" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
