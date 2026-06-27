@@ -21,3 +21,5 @@ aliases: [webcore]
 **Cultural markers**: Hit counter, "Best viewed in Internet Explorer", "Under Construction" GIF, guestbook link, 88×31 button badges
 
 **Non-negotiables**: web-safe palette + tiling backgrounds + text blink/marquee
+
+**Connotation**: Amateur-web exuberance and personal homepage nostalgia; chaotic, sincere, and exploratory rather than polished.

@@ -21,3 +21,5 @@ aliases: []
 **Cultural markers**: Open books, quill/fountain pen, candles, ivy, telescopes, globes, classical sculpture
 
 **Non-negotiables**: sepia/warm-dark palette + old-style serif + aged analog texture
+
+**Connotation**: Scholarly melancholy and old-world seriousness; romantic, bookish, and secretive rather than bright or casual.

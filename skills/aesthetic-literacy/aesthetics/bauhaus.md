@@ -21,3 +21,5 @@ aliases: ["Staatliches Bauhaus"]
 **Cultural markers**: Kandinsky color-form theory, Bayer typography, Breuer furniture language
 
 **Non-negotiables**: primary palette + pure geometric forms + type-as-form
+
+**Connotation**: Rational optimism and educational modernity; disciplined, functional, and idealistic rather than decorative.

@@ -21,3 +21,5 @@ aliases: ["le style moderne", "Jazz Moderne"]
 **Cultural markers**: Sunburst, stepped pyramid, peacock-fan geometry, jazz-age figures, skyscraper ornament
 
 **Non-negotiables**: geometric luxury shapes + strong symmetry + gold/black palette
+
+**Connotation**: Premium glamour and civic monumentality; confident, ornamental, and aspirational rather than cozy or improvised.

@@ -21,3 +21,5 @@ aliases: ["Swiss Style", "International Typographic Style", "Schweizer Typografi
 **Cultural markers**: Müller-Brockmann grid, photographic halftone, objective text hierarchy, no decoration
 
 **Non-negotiables**: neutral grotesk type + mathematical grid + objective flat presentation
+
+**Connotation**: Institutional clarity and typographic authority; neutral, precise, and trustworthy rather than expressive.

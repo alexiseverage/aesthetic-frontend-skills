@@ -21,3 +21,5 @@ aliases: ["Memphis-Milano", "Memphis Design", "Memphis Group"]
 **Cultural markers**: Squiggly line, Sottsass lamp, bold geometric clashing pattern, 80s product design
 
 **Non-negotiables**: pastel + bold pattern mixing + anti-harmonious palette
+
+**Connotation**: Postmodern play and graphic irreverence; witty, youthful, and decorative rather than timeless or austere.

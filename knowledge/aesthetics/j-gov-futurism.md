@@ -6,7 +6,7 @@ last_updated: "2026-06-05"
 source: primary-source-screenshots + behance
 analyzed: "2026-06-05"
 image_count: 9
-evidence_level: standard
+evidence_level: limited
 new_aesthetic: true
 aliases: [sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism, diegetic-bureaucratic-ui]
 ---

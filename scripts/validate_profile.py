@@ -3,144 +3,128 @@
 validate_profile.py — Validate aesthetic knowledge profile frontmatter.
 
 Usage:
-    python scripts/validate_profile.py                    # validate all profiles
-    python scripts/validate_profile.py knowledge/aesthetics/y2k.md  # validate one
-
-Validates YAML frontmatter in knowledge/aesthetics/*.md against
-skills/aesthetic-research/knowledge/schema.json.
-
-Requirements: pyyaml (pip install pyyaml). No other third-party deps.
+    python scripts/validate_profile.py
+    python scripts/validate_profile.py knowledge/aesthetics/y2k.md
+    python scripts/validate_profile.py --allow-missing-frontmatter notes/plain.md
 """
 
+from __future__ import annotations
+
+import argparse
 import json
-import re
 import sys
+from datetime import date
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Any
 
 try:
-    import yaml
+    from jsonschema import Draft7Validator, FormatChecker
+except ImportError:
+    sys.exit("Error: jsonschema is required. Install it with: pip install jsonschema")
+
+try:
+    import yaml  # noqa: F401 - imported to preserve clear dependency failure with validation_common
 except ImportError:
     sys.exit("Error: pyyaml is required. Install it with: pip install pyyaml")
 
+from validation_common import split_frontmatter
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = REPO_ROOT / "skills" / "aesthetic-research" / "knowledge" / "schema.json"
 PROFILES_DIR = REPO_ROOT / "knowledge" / "aesthetics"
 
-FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---", re.DOTALL)
 
-
-def load_schema() -> Dict:
+def load_schema() -> dict[str, Any]:
     if not SCHEMA_PATH.exists():
         sys.exit(f"Schema not found at {SCHEMA_PATH}")
-    with SCHEMA_PATH.open() as f:
-        return json.load(f)
+    return json.loads(SCHEMA_PATH.read_text(encoding="utf-8"))
 
 
-def extract_frontmatter(path: Path) -> Optional[Dict]:
-    text = path.read_text(encoding="utf-8")
-    match = FRONTMATTER_RE.match(text)
-    if not match:
-        return None
-    return yaml.safe_load(match.group(1))
-
-
-def validate_against_schema(data: Dict, schema: Dict) -> List[str]:
-    errors: List[str] = []
-
-    required = schema.get("required", [])
-    for field in required:
-        if field not in data:
-            errors.append(f"Missing required field: '{field}'")
-
-    props = schema.get("properties", {})
-    for field, spec in props.items():
-        if field not in data:
-            continue
-        value = data[field]
-
-        # Type check
-        expected_type = spec.get("type")
-        type_map = {
-            "string": str,
-            "integer": int,
-            "boolean": bool,
-            "number": (int, float),
-            "array": list,
-            "object": dict,
-        }
-        if expected_type and expected_type in type_map:
-            if not isinstance(value, type_map[expected_type]):
-                errors.append(
-                    f"Field '{field}': expected {expected_type}, got {type(value).__name__}"
-                )
-                continue
-
-        # Enum check
-        if "enum" in spec and value not in spec["enum"]:
-            errors.append(
-                f"Field '{field}': value '{value}' not in allowed values {spec['enum']}"
-            )
-
-        # Pattern check (strings only)
-        if "pattern" in spec and isinstance(value, str):
-            if not re.fullmatch(spec["pattern"], value):
-                errors.append(
-                    f"Field '{field}': value '{value}' does not match pattern '{spec['pattern']}'"
-                )
-
-        # Format check for dates
-        if spec.get("format") == "date" and isinstance(value, str):
-            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
-                errors.append(
-                    f"Field '{field}': value '{value}' is not a valid ISO 8601 date (YYYY-MM-DD)"
-                )
-
-        # Minimum check (integers)
-        if "minimum" in spec and isinstance(value, (int, float)):
-            if value < spec["minimum"]:
-                errors.append(
-                    f"Field '{field}': value {value} is below minimum {spec['minimum']}"
-                )
-
-    # Slug must match filename
-    if "slug" in data:
-        return errors  # filename check done at call site
-
+def schema_errors(data: dict[str, Any], schema: dict[str, Any]) -> list[str]:
+    validator = Draft7Validator(schema, format_checker=FormatChecker())
+    errors: list[str] = []
+    for error in sorted(validator.iter_errors(data), key=lambda item: list(item.path)):
+        path = ".".join(str(part) for part in error.path)
+        if path:
+            errors.append(f"Field '{path}': {error.message}")
+        else:
+            errors.append(error.message)
     return errors
 
 
-def validate_file(path: Path, schema: Dict) -> bool:
-    frontmatter = extract_frontmatter(path)
+def parse_iso_date(value: Any) -> date | None:
+    if not isinstance(value, str):
+        return None
+    try:
+        return date.fromisoformat(value)
+    except ValueError:
+        return None
+
+
+def cross_field_errors(data: dict[str, Any]) -> list[str]:
+    errors: list[str] = []
+    evidence_level = data.get("evidence_level")
+    image_count = data.get("image_count")
+    if isinstance(image_count, int):
+        if evidence_level == "standard" and image_count < 10:
+            errors.append("standard evidence requires image_count >= 10")
+        if evidence_level == "limited" and image_count >= 10:
+            errors.append("limited evidence requires image_count < 10")
+
+    first_researched = parse_iso_date(data.get("first_researched"))
+    last_updated = parse_iso_date(data.get("last_updated"))
+    if first_researched and last_updated and last_updated < first_researched:
+        errors.append("last_updated must be on or after first_researched")
+    return errors
+
+
+def validate_file(path: Path, schema: dict[str, Any], *, allow_missing_frontmatter: bool) -> bool:
+    frontmatter, _body = split_frontmatter(path)
     if frontmatter is None:
-        print(f"  SKIP  {path.name} — no YAML frontmatter found")
-        return True
+        print(f"  SKIP  {path.name} — no YAML frontmatter found" if allow_missing_frontmatter else f"  FAIL  {path.name}")
+        if not allow_missing_frontmatter:
+            print("          no YAML frontmatter found")
+        return allow_missing_frontmatter
+    if "__frontmatter_type_error__" in frontmatter:
+        print(f"  FAIL  {path.name}")
+        print(f"          YAML frontmatter must be an object, got {frontmatter['__frontmatter_type_error__']}")
+        return False
 
-    errors = validate_against_schema(frontmatter, schema)
+    errors = schema_errors(frontmatter, schema)
 
-    # Slug-filename consistency
     slug = frontmatter.get("slug")
-    if slug and slug != path.stem:
-        errors.append(
-            f"Field 'slug': value '{slug}' does not match filename '{path.stem}'"
-        )
+    if isinstance(slug, str) and slug != path.stem:
+        errors.append(f"Field 'slug': value '{slug}' does not match filename '{path.stem}'")
+
+    errors.extend(cross_field_errors(frontmatter))
 
     if errors:
         print(f"  FAIL  {path.name}")
-        for err in errors:
-            print(f"          {err}")
+        for error in errors:
+            print(f"          {error}")
         return False
 
     print(f"  OK    {path.name}")
     return True
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Validate aesthetic profile frontmatter")
+    parser.add_argument(
+        "--allow-missing-frontmatter",
+        action="store_true",
+        help="Skip markdown files without YAML frontmatter instead of failing them",
+    )
+    parser.add_argument("paths", nargs="*", help="Profile markdown files to validate")
+    return parser.parse_args()
+
+
 def main() -> None:
+    args = parse_args()
     schema = load_schema()
 
-    if len(sys.argv) > 1:
-        paths = [Path(p) for p in sys.argv[1:]]
+    if args.paths:
+        paths = [Path(p) for p in args.paths]
     else:
         if not PROFILES_DIR.exists():
             sys.exit(f"Profiles directory not found: {PROFILES_DIR}\nRun scripts/doctor.sh to check your setup.")
@@ -155,7 +139,7 @@ def main() -> None:
             print(f"  ERROR {path} — file not found")
             failed += 1
             continue
-        if not validate_file(path, schema):
+        if not validate_file(path, schema, allow_missing_frontmatter=args.allow_missing_frontmatter):
             failed += 1
 
     total = len(paths)
@@ -164,8 +148,7 @@ def main() -> None:
     if failed:
         print(f", {failed} failed")
         sys.exit(1)
-    else:
-        print()
+    print()
 
 
 if __name__ == "__main__":

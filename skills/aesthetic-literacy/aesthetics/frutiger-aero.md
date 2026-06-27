@@ -23,3 +23,5 @@ aliases: ["Web 2.0 Gloss"]
 **Non-negotiables**: glass transparency + natural imagery background + bright clean palette
 
 **Subsets / Related**: *Web 2.0 Gloss* — the UI/interface expression of Frutiger Aero; shiny, reflective, bubbly controls; same era and palette but focused on interface chrome rather than the broader nature-organic world dimension. *Windows Aero* — Microsoft's specific implementation (glass taskbar chrome, Flip3D, translucent window borders); a named subset, not a synonym. You can have full Frutiger Aero with no Microsoft visual language at all.
+
+**Connotation**: Glossy techno-optimism and consumer-software freshness; clean, watery, and hopeful rather than ironic.
