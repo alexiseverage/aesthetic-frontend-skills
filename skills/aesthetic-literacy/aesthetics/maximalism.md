@@ -21,3 +21,5 @@ aliases: []
 **Cultural markers**: Excessive ornament, deliberate visual overwhelm, rejection of minimalist restraint
 
 **Non-negotiables**: palette maximalism + no restrained whitespace + layered ornament
+
+**Connotation**: Abundance, confidence, and expressive overload; celebratory and layered rather than restrained or neutral.

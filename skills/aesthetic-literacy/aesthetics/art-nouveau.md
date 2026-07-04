@@ -21,3 +21,5 @@ aliases: [Jugendstil, "Stile Liberty", Modernisme, "Modern Style"]
 **Cultural markers**: Mucha maidens, lily pad ornament, peacock feather, flowing hair integrated with floral, gilded frame language
 
 **Non-negotiables**: sinuous organic line + nature-as-structure + flowing figure-ground integration
+
+**Connotation**: Romantic craft luxury with organic sophistication; sensuous and botanical, not minimal or machine-neutral.

@@ -23,3 +23,5 @@ aliases: []
 **Non-negotiables**: blur transparency + colorful background visible through panel
 
 **Fatigue note**: MODERATE — still functional but no longer surprising
+
+**Connotation**: Premium digital translucency and ambient depth; airy, futuristic, and app-native when contrast remains controlled.

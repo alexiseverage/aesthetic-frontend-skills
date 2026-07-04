@@ -23,3 +23,5 @@ aliases: [Alegria, "Big Tech Art Style"]
 **Non-negotiables**: flat illustration + blob figures + desaturated corporate palette
 
 **Fatigue note**: HIGH — peaked ~2019–2021; now reads as generic SaaS; active avoidance often better than adoption
+
+**Connotation**: Approachable startup optimism and safe playfulness; friendly and illustrative, but often generic when overused.

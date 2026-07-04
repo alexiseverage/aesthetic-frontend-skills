@@ -21,3 +21,5 @@ aliases: []
 **Cultural markers**: Vertical gardens, solar panels, cooperative community imagery, warm communal gatherings
 
 **Non-negotiables**: solar yellow + nature integrated with technology + optimist warmth
+
+**Connotation**: Ecological optimism and communal repair; hopeful, regenerative, and practical rather than dystopian.

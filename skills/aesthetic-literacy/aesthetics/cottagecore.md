@@ -21,3 +21,5 @@ aliases: [farmcore, countrycore]
 **Cultural markers**: Pressed flowers, hand-lettered recipes, mushrooms, bees, overflowing bookshelves, candlelight
 
 **Non-negotiables**: warm organic palette + botanical/natural motifs + handcrafted texture
+
+**Connotation**: Pastoral comfort and handmade nostalgia; gentle, domestic, and escapist rather than urban or high-tech.

@@ -25,6 +25,7 @@
     "label": {
       "type": "string",
       "description": "Human-readable display name.",
+      "minLength": 1,
       "examples": ["Dark Academia", "Frutiger Aero", "Neubrutalism"]
     },
     "first_researched": {
@@ -42,6 +43,7 @@
     "source": {
       "type": "string",
       "description": "Primary image source(s) used during research.",
+      "minLength": 1,
       "examples": ["pinterest", "dribbble", "behance", "google-images", "mixed"]
     },
     "image_count": {
@@ -57,6 +59,16 @@
     "new_aesthetic": {
       "type": "boolean",
       "description": "true if this aesthetic is not in the aesthetic-literacy dictionary. Marks it as a candidate for promotion to the dictionary."
+    },
+    "aliases": {
+      "type": "array",
+      "description": "Optional lowercase or display aliases for the aesthetic profile.",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
     }
-  }
+  },
+  "additionalProperties": true
 }

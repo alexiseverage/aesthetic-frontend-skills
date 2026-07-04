@@ -21,3 +21,5 @@ aliases: ["neo-brutalism", neobrutalism, "new brutalism"]
 **Cultural markers**: Hard solid-drop-shadow cards, thick 3–4px borders, bold block-color buttons
 
 **Non-negotiables**: thick visible borders + hard/no border-radius + primary-dominant palette
+
+**Connotation**: Deliberate anti-polish and internet-native confidence; loud, direct, and playful rather than refined.

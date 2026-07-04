@@ -5,3 +5,4 @@ knowledge/aesthetics/*/generated/
 .DS_Store
 __pycache__/
 .pytest_cache/
+.hermes/

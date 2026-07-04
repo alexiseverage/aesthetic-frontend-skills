@@ -21,3 +21,5 @@ aliases: [blobcore]
 **Cultural markers**: Gradient blob hero sections, floating orb UI, Stripe/Figma landing page aesthetic
 
 **Non-negotiables**: blob/amoeba shapes + fluid gradient fills + organic movement
+
+**Connotation**: Biomorphic technology and soft futurism; adaptive, humane, and nature-coded rather than mechanical.

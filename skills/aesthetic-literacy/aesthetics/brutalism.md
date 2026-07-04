@@ -21,3 +21,5 @@ aliases: []
 **Cultural markers**: Visible `<hr>`, underlined blue links, raw form fields, unstyled radio buttons, deliberate ugliness
 
 **Non-negotiables**: raw/unstyled aesthetic + high contrast + no decorative softening
+
+**Connotation**: Raw institutional force and anti-polish; honest, confrontational, and weighty rather than friendly or luxurious.
