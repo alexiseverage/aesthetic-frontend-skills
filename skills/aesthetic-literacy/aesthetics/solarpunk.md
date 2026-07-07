@@ -23,3 +23,7 @@ aliases: []
 **Non-negotiables**: solar yellow + nature integrated with technology + optimist warmth
 
 **Connotation**: Ecological optimism and communal repair; hopeful, regenerative, and practical rather than dystopian.
+
+## Robotics / Speculative-Tech Notes
+
+Solarpunk helper-bots belong inside Solarpunk rather than a separate entry. Add ecological service robots through plant-tending drones, field assistants, pollinators, repair bots, greenhouse monitors, matte warm-white shells, tool arms, and calm maintenance motion. The robot should read as a neighbor/caretaker embedded in community infrastructure, not a sleek consumer gadget or militarized machine.
