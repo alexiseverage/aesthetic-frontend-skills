@@ -176,7 +176,7 @@ The characters in *Psycho-Pass* interact with the Sibyl System fluidly and witho
 
 ## Research Updates
 
-*2026-06-05 — Initial profile created from primary-source anime screenshots (9 images from `~/Desktop/psychopass/`, all capturing the Sibyl System interface in *Psycho-Pass*). Research analysis document at `temp/psycho-pass.md` provides full dimension breakdown, typographic analysis, panel-element inventory, and thematic reading. New aesthetic — not currently in the 56-entry aesthetic-literacy dictionary. `new_aesthetic: true` — candidate for promotion after cross-source evidence is gathered.*
+*2026-06-05 — Initial profile created from primary-source anime screenshots (9 images from a local reference set, all capturing the Sibyl System interface in *Psycho-Pass*). Research analysis notes provide full dimension breakdown, typographic analysis, panel-element inventory, and thematic reading. New aesthetic — not currently in the 56-entry aesthetic-literacy dictionary. `new_aesthetic: true` — candidate for promotion after cross-source evidence is gathered.*
 
 ## Research Update 2026-06-05
 

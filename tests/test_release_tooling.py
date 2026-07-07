@@ -1,4 +1,5 @@
 import os
+import re
 from pathlib import Path
 
 
@@ -62,3 +63,38 @@ def test_python_test_artifacts_are_ignored():
 
     assert "__pycache__/" in gitignore
     assert ".pytest_cache/" in gitignore
+
+
+def test_public_markdown_uses_portable_examples():
+    user_facing_roots = [
+        REPO_ROOT / ".hermes" / "plans",
+        REPO_ROOT / "knowledge",
+        REPO_ROOT / "skills",
+        REPO_ROOT / "README.md",
+        REPO_ROOT / "copilot-instructions.template.md",
+    ]
+    blocked_patterns = [
+        re.compile(r"/home/[A-Za-z0-9._-]+"),
+        re.compile(r"/Users/[A-Za-z0-9._-]+"),
+        re.compile(r"~/Desktop\b"),
+        re.compile(r"\banotherletter\b", re.IGNORECASE),
+        re.compile(r"\btailscale\b|\btailnet\b|\.ts\.net\b", re.IGNORECASE),
+        re.compile(r"workspace/aesthetic", re.IGNORECASE),
+    ]
+
+    paths = []
+    for root in user_facing_roots:
+        if root.is_file():
+            paths.append(root)
+        elif root.exists():
+            paths.extend(root.rglob("*.md"))
+            paths.extend(root.rglob("*.json"))
+
+    failures = []
+    for path in sorted(paths):
+        text = path.read_text(encoding="utf-8")
+        for line_number, line in enumerate(text.splitlines(), 1):
+            if any(pattern.search(line) for pattern in blocked_patterns):
+                failures.append(f"{path.relative_to(REPO_ROOT)}:{line_number}: {line}")
+
+    assert not failures

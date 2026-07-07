@@ -53,8 +53,8 @@ Resolve these variables at the start of every run. Do not hardcode the lotto/cas
 | `<topic>` | Human-readable expansion theme or family | `gambling`, `festival signage`, `regional food packaging` |
 | `<slug-list>` | Comma-separated aesthetic slugs to add | `lotto, casino` |
 | `<slug>` | One specific aesthetic slug | `lotto` |
-| `<skills_repo>` | Canonical skills repository checkout | `/home/alexis/workspace/aesthetic-frontend-skills` |
-| `<showcase_repo>` | Canonical showcase website checkout | `/home/alexis/workspace/aesthetic-frontend-skills-www-canonical` |
+| `<skills_repo>` | Canonical skills repository checkout | `<workspace>/aesthetic-frontend-skills` |
+| `<showcase_repo>` | Canonical showcase website checkout | `<workspace>/aesthetic-frontend-skills-www` |
 | `<research_root>` | Project-local research folder | `<skills_repo>/.hermes/research/<topic>-aesthetics/` |
 | `<board>` | Hermes Kanban board slug or active board | `aesthetic-frontend-skills` |
 | `<source_policy>` | Source access boundary | public-only, authenticated-user-authorized, internal archive |
