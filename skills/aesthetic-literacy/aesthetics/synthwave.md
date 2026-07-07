@@ -25,3 +25,7 @@ aliases: [retrowave]
 **Connotation**: Earnest 80s sci-fi romance; nostalgia without irony
 
 **Related / Subsets**: *Retrowave* — true synonym; more common in European usage, "synthwave" dominant in North American/internet usage. *Outrun* — contested; strict reading: the racing-game-inspired visual subset (horizontal grid road, low sun, fast cars, Sega 1986 palette); casual reading: used as a flat synonym for the whole genre. Best treated as synonym in casual use, subcategory in precise use — the ambiguity is a known community debate, not a resolved taxonomy.
+
+## Robotics / Speculative-Tech Notes
+
+Synthwave can include cyborg heroes, chrome bodies, and robot sentinels when they preserve the dark horizon, neon magenta/cyan glow, outrun grid, and action-poster energy. Boundary: cyberpunk adds rain, density, prosthetic street infrastructure, and social coercion; cassette-futurism adds beige hardware, CRTs, and physical switches.

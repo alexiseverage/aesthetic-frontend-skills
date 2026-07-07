@@ -19,6 +19,22 @@ SELECTED_AESTHETICS = {
     "b2b-quick-order-grid": "B2B Quick-Order Grid",
     "lotto": "Lotto Scratcher Commerce",
     "casino": "Casino Neon Tableplay",
+    "cyberpunk": "Cyberpunk",
+    "cassette-futurism": "Cassette Futurism",
+    "nanopunk": "Nanopunk",
+    "techno-noir": "Techno-noir",
+    "apple-core-tech": "Apple-core Tech",
+    "uncanny-android": "Uncanny Android / Humanoid Realism",
+    "dieselpunk": "Dieselpunk",
+    "steampunk": "Steampunk",
+    "post-apocalyptic-scavenged-tech": "Post-apocalyptic / Scavenged Tech",
+    "space-western": "Space Western",
+    "cute-tech": "Kawaii / Cute-Tech",
+    "companion-bot": "Companion-Bot / Pet-Bot",
+    "mecha-kaiju": "Mecha / Kaiju",
+    "anime-mecha-realism": "Anime Mecha-Realism",
+    "biomechanical": "Biomechanical / Biopunk",
+    "chibi-mecha": "Chibi Mecha",
 }
 DIMENSION_HEADINGS = [
     "**Palette**",
@@ -87,8 +103,8 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
         encoding="utf-8"
     )
 
-    assert "curated dictionary of 76 major aesthetics" in text
-    assert "76 total entries" in text
+    assert "curated dictionary of 92 major aesthetics" in text
+    assert "92 total entries" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
 

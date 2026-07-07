@@ -23,3 +23,7 @@ aliases: ["Memphis-Milano", "Memphis Design", "Memphis Group"]
 **Non-negotiables**: pastel + bold pattern mixing + anti-harmonious palette
 
 **Connotation**: Postmodern play and graphic irreverence; witty, youthful, and decorative rather than timeless or austere.
+
+## Robotics / Speculative-Tech Notes
+
+Memphis Design robotics is best handled as a product/object branch of Memphis, anchored by Masanori Umeda's Ginza Robot cabinet and toy-like postmodern object language. Translate it with clashing segmented color, laminate-like pattern, playful antennae, ball-wheel bases, sticker labels, and anti-functional humor. Source anchors: https://memphis.it/en/authors/masanori-umeda and https://thedesignedit.com/object-of-the-week/ginza-robot-cabinet-1982

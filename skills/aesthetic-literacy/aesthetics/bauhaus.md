@@ -23,3 +23,7 @@ aliases: ["Staatliches Bauhaus"]
 **Non-negotiables**: primary palette + pure geometric forms + type-as-form
 
 **Connotation**: Rational optimism and educational modernity; disciplined, functional, and idealistic rather than decorative.
+
+## Robotics / Speculative-Tech Notes
+
+Bauhaus-industrial robotics is an applied mode of Bauhaus: primary geometry, industrial neutrals, visible axis articulation, fabrication/process legibility, and sparse functional labeling. Use it for rational robotics labs, fabrication rigs, modular devices, and STEM product storytelling. Boundary: Apple-core tech hides seams and softens objecthood; Bauhaus exposes geometric construction.

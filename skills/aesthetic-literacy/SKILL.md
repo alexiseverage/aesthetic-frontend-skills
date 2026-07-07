@@ -6,7 +6,7 @@ description: >
   cottagecore, dark academia, etc.), wants to compare or disambiguate aesthetics, or needs
   formal characterization before producing design tokens or assets. Provides the 7-dimension
   framework (palette, type, texture, shape, motion, spatial conventions, cultural markers)
-  and a curated dictionary of 76 major aesthetics. Foundation for aesthetic-research,
+  and a curated dictionary of 92 major aesthetics. Foundation for aesthetic-research,
   image-analysis, asset-creation, and aesthetic-application.
   Do not use for component implementation, layout, or accessibility decisions.
 metadata:
@@ -15,7 +15,7 @@ metadata:
   status: stable
   tags: "aesthetic-movements, design-era, visual-culture, aesthetic-dictionary, period-style, semiotics, connotation"
   activation_keywords: "aesthetic, look and feel, style like, Y2K, vaporwave, brutalist, cottagecore, dark academia, retro, vintage, era, period style, design movement, vibe"
-  known_limits: "Does not cover component implementation, layout, or accessibility; limited to the 74 dictionary entries and any research profiles present"
+  known_limits: "Does not cover component implementation, layout, or accessibility; limited to the 92 dictionary entries and any research profiles present"
   last_evaluated: ""
   eval_suite: ""
 ---
@@ -24,7 +24,7 @@ metadata:
 
 ## Summary
 
-Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 76 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
+Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 92 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
 Used as the foundation for `aesthetic-research`, `image-analysis`, `asset-creation`, and `aesthetic-application`.
 
@@ -88,8 +88,9 @@ Dictionary entries are co-located with this skill in the `aesthetics/` subdirect
 | **Technical / Institutional** | 5 | high-performance-hmi, sports-scorebug, prescription-label-clarity, bloomberg-terminal-monochrome, cheminformatics-map-explorer |
 | **Material / Print Craft** | 3 | risograph, harm-reduction-zine, queer-nightlife-ephemera |
 | **Vernacular / Commercial** | 7 | mexican-rotulismo, guochao, konbini-utility, convenience-store-backoffice, b2b-quick-order-grid, lotto, casino |
+| **Speculative / Robotics** | 16 | cyberpunk, cassette-futurism, nanopunk, techno-noir, apple-core-tech, uncanny-android, dieselpunk, steampunk, post-apocalyptic-scavenged-tech, space-western, cute-tech, companion-bot, mecha-kaiju, anime-mecha-realism, biomechanical, chibi-mecha |
 
-*Full listing: see `aesthetics/` directory. 76 total entries across 7 families.*
+*Full listing: see `aesthetics/` directory. 92 total entries across 8 families.*
 
 Each entry specifies: palette, type, texture, shape, motion, spatial conventions, cultural markers, non-negotiables, connotation, and subsets/related aesthetics (where applicable). Fatigue notes appear where applicable.
 

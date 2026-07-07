@@ -23,3 +23,7 @@ aliases: []
 **Non-negotiables**: raw/unstyled aesthetic + high contrast + no decorative softening
 
 **Connotation**: Raw institutional force and anti-polish; honest, confrontational, and weighty rather than friendly or luxurious.
+
+## Robotics / Speculative-Tech Notes
+
+Brutalist robotics extends Brutalism beyond raw browser defaults into object mass, exposed structure, rough material, and anti-softened machine bodies. Use concrete gray, gunmetal, coarse surfaces, squared sensor housings, heavy limbs, structural ribs, and severe state labels. Boundary: post-apocalyptic scavenged tech adds scarcity and patchwork; brutalism itself is blunt and structurally honest.
