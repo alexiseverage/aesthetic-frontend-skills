@@ -36,7 +36,7 @@
 1. Write frontmatter with trigger-focused description and stable metadata.
 2. Include sections for prerequisites, configurable variables, exact Kanban decomposition, source collection strategy, worker/task specs, verification gates, and final integration review.
 3. Keep concrete examples generic with placeholders like `<topic>`, `<slug>`, `<skills_repo>`, and `<showcase_repo>` rather than hardcoding lotto/casino only.
-4. Document that global install into `~/.hermes/skills` should be proposed rather than performed by workers unless explicitly authorized for the active profile.
+4. Document that global profile installation should be proposed rather than performed by workers unless explicitly authorized for the active profile.
 
 ### Task 3: Verify and hand off for review
 
