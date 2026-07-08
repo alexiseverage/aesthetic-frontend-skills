@@ -35,6 +35,26 @@ SELECTED_AESTHETICS = {
     "anime-mecha-realism": "Anime Mecha-Realism",
     "biomechanical": "Biomechanical / Biopunk",
     "chibi-mecha": "Chibi Mecha",
+    "gorpcore": "Gorpcore",
+    "balletcore": "Balletcore",
+    "barbiecore": "Barbiecore",
+    "coastal-grandmother": "Coastal Grandmother",
+    "goblincore": "Goblincore",
+    "liminal-space-backrooms": "Liminal Space / Backrooms",
+    "dreamcore-weirdcore": "Dreamcore / Weirdcore",
+    "chinoiserie": "Chinoiserie",
+    "gothic-revival": "Gothic Revival",
+    "nu-goth-pastel-goth": "Nu-Goth / Pastel Goth",
+    "cybersigilism": "Cybersigilism",
+    "ai-slop-synthetic-corporate-art": "AI Slop / Synthetic Corporate Art",
+    "tiki-polynesian-pop": "Tiki / Polynesian Pop",
+    "wabi-sabi-slow-living": "Wabi-Sabi / Slow Living",
+    "hauntology": "Hauntology",
+    "chicano-lowrider-art": "Chicano Lowrider Art",
+    "fairground-carnival-poster-art": "Fairground / Carnival Poster Art",
+    "board-game-box-art": "Board Game Box Art",
+    "trading-card-game-design": "Trading Card Game Design",
+    "scandi-noir": "Scandi Noir",
 }
 DIMENSION_HEADINGS = [
     "**Palette**",
@@ -103,8 +123,8 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
         encoding="utf-8"
     )
 
-    assert "curated dictionary of 92 major aesthetics" in text
-    assert "92 total entries" in text
+    assert "curated dictionary of 112 major aesthetics" in text
+    assert "112 total entries" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
 
