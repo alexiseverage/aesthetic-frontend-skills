@@ -1,0 +1,37 @@
+{
+  "skill": "aesthetic-literacy",
+  "should_trigger": [
+    {
+      "request": "What is Y2K aesthetic? Describe it formally.",
+      "reason": "Asks for formal characterization of a named visual aesthetic."
+    },
+    {
+      "request": "Explain vaporwave as a design system across palette, type, texture, shape, motion, space, and cultural markers.",
+      "reason": "Requests the 7-dimension aesthetic-literacy framework for a named aesthetic."
+    },
+    {
+      "request": "What are the non-negotiables of brutalism?",
+      "reason": "Asks for identity-critical properties of an aesthetic, not implementation output."
+    },
+    {
+      "request": "What's the difference between cottagecore and dark academia?",
+      "reason": "Compares and disambiguates two visual aesthetics."
+    },
+    {
+      "request": "What fonts are canonical for the Bauhaus aesthetic?",
+      "reason": "Asks for aesthetic literacy about type conventions in a named movement."
+    }
+  ],
+  "should_not_trigger": [
+    {
+      "request": "Build a design token spec for dark academia.",
+      "better_fit": "aesthetic-application",
+      "reason": "The user needs developer-ready token output, not just characterization."
+    },
+    {
+      "request": "My button component has insufficient contrast against the Y2K background — fix it.",
+      "better_fit": "out of scope: accessibility implementation tooling",
+      "reason": "The task is accessibility resolution and component implementation, which this skill explicitly excludes."
+    }
+  ]
+}

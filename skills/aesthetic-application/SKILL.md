@@ -13,12 +13,36 @@ metadata:
   version: "1.0.0"
   layer: applied
   status: stable
-  tags: "design-tokens, css-variables, aesthetic-translation, component-spec, developer-handoff, dtcg"
-  activation_keywords: "make it look, apply this aesthetic, design tokens for, translate this aesthetic, aesthetic but accessible, CSS variables for, design spec, full spec, component notes, cultural markers"
-  depends_on: "aesthetic-literacy"
-  known_limits: "Does not resolve accessibility conflicts; does not cover component architecture, interaction design, or layout structure"
-  last_evaluated: ""
-  eval_suite: ""
+  compatibility:
+    agent_skills: true
+    notes: "No non-portable allowed-tools frontmatter; uses skill-local markdown references only."
+  hermes:
+    tags:
+      - design-tokens
+      - css-variables
+      - aesthetic-translation
+      - component-spec
+      - developer-handoff
+      - dtcg
+    related_skills:
+      - aesthetic-literacy
+    activation_keywords:
+      - make it look
+      - apply this aesthetic
+      - design tokens for
+      - translate this aesthetic
+      - aesthetic but accessible
+      - CSS variables for
+      - design spec
+      - full spec
+      - component notes
+      - cultural markers
+    depends_on:
+      - aesthetic-literacy
+    known_limits:
+      - Does not resolve accessibility conflicts.
+      - Does not cover component architecture, interaction design, or layout structure.
+    eval_suite: tests/trigger-evals/aesthetic-application.json
 ---
 
 # Aesthetic Application
@@ -26,6 +50,10 @@ metadata:
 ## Summary
 
 Translates a named aesthetic into a complete, developer-ready design specification: a structured token specification table, cultural marker lists, component-level notes, and a flags section for conflicts. All decisions are concrete and implementable — never abstract mood descriptions. Covers all 7 dimensions of the aesthetic framework.
+
+## Compatibility / Tooling
+
+This skill intentionally does not declare `allowed-tools` frontmatter. It is portable across Agent Skills-compatible runtimes and relies on reading this SKILL.md plus skill-local `references/` markdown files and the installed `aesthetic-literacy` dictionary. If an agent has file-reading tools, use them to load those files; otherwise ask the user to provide the relevant excerpt.
 
 ## When to Apply This Skill
 

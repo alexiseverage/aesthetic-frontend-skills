@@ -12,11 +12,39 @@ metadata:
   version: "1.0.0"
   layer: foundation
   status: stable
-  tags: "aesthetic-movements, design-era, visual-culture, aesthetic-dictionary, period-style, semiotics, connotation"
-  activation_keywords: "aesthetic, look and feel, style like, Y2K, vaporwave, brutalist, cottagecore, dark academia, retro, vintage, era, period style, design movement, vibe"
-  known_limits: "Does not cover component implementation, layout, or accessibility; limited to the 123 dictionary entries and any research profiles present"
-  last_evaluated: ""
-  eval_suite: ""
+  compatibility:
+    agent_skills: true
+    notes: "No non-portable allowed-tools frontmatter; uses skill-local markdown references only."
+  hermes:
+    tags:
+      - aesthetic-movements
+      - design-era
+      - visual-culture
+      - aesthetic-dictionary
+      - period-style
+      - semiotics
+      - connotation
+    related_skills:
+      - aesthetic-application
+    activation_keywords:
+      - aesthetic
+      - look and feel
+      - style like
+      - Y2K
+      - vaporwave
+      - brutalist
+      - cottagecore
+      - dark academia
+      - retro
+      - vintage
+      - era
+      - period style
+      - design movement
+      - vibe
+    known_limits:
+      - Does not cover component implementation, layout, or accessibility decisions.
+      - Limited to dictionary entries and skill-local references present in the package.
+    eval_suite: tests/trigger-evals/aesthetic-literacy.json
 ---
 
 # Aesthetic Literacy
@@ -26,6 +54,10 @@ metadata:
 Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 123 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
 Used as the foundation for `aesthetic-application`.
+
+## Compatibility / Tooling
+
+This skill intentionally does not declare `allowed-tools` frontmatter. It is portable across Agent Skills-compatible runtimes and relies on reading this SKILL.md plus skill-local `references/` and `aesthetics/` markdown files. If an agent has file-reading tools, use them to load the referenced files; otherwise ask the user to provide the relevant excerpt.
 
 ## When to Apply This Skill
 

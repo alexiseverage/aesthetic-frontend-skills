@@ -1,0 +1,42 @@
+{
+  "skill": "aesthetic-application",
+  "should_trigger": [
+    {
+      "request": "Build a token spec for vaporwave.",
+      "reason": "Requests developer-ready design tokens for a named aesthetic."
+    },
+    {
+      "request": "Give me CSS custom properties for dark academia.",
+      "reason": "Asks to translate an aesthetic into implementable CSS values."
+    },
+    {
+      "request": "Make this landing page feel like Art Deco; give developer-ready notes.",
+      "reason": "Requests applied aesthetic guidance for a frontend handoff."
+    },
+    {
+      "request": "Translate Bauhaus into colors, type, shape, and spacing tokens.",
+      "reason": "Asks for concrete tokenized values across aesthetic dimensions."
+    },
+    {
+      "request": "Write component notes for buttons, cards, inputs, and modals in Y2K style.",
+      "reason": "Requests component-level notes grounded in a named aesthetic."
+    }
+  ],
+  "should_not_trigger": [
+    {
+      "request": "What does this aesthetic look like?",
+      "better_fit": "aesthetic-literacy",
+      "reason": "The user needs characterization before an application handoff."
+    },
+    {
+      "request": "Is vaporwave different from synthwave?",
+      "better_fit": "aesthetic-literacy",
+      "reason": "The request is comparison/disambiguation, not developer-ready output."
+    },
+    {
+      "request": "Fix my React component architecture.",
+      "better_fit": "out of scope: component architecture tooling",
+      "reason": "Component architecture work is not covered by this aesthetic handoff skill."
+    }
+  ]
+}
