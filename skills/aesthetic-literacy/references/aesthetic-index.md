@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 121
+- Full entries: 122
 - Redirect entries: 1
 - Families: 8
 
@@ -69,6 +69,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `organic-digital` | Organic Digital / Blobcore | blobcore |
 | `scandi-noir` | Scandi Noir | Nordic noir, Nordic crime aesthetic, Scandinavian noir |
 | `solarpunk` | Solarpunk | — |
+| `storybook-gothic` | Storybook Gothic | fairytale gothic, fantasy gothic, story driven gothic, storybook gothic branding |
 
 ## historical-design-movements
 
