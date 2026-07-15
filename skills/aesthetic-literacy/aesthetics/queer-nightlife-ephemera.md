@@ -4,7 +4,21 @@ label: Queer Nightlife Ephemera
 family: material-print-craft
 era: 1970s–present
 aliases: ["queer club ephemera", "LGBTQ nightlife archive", "queer event flyer archive"]
+status: canonical
+evidence_level: limited
+related: ["rave-flyer", "punk-zine"]
+subsets: []
 ---
+
+# Queer Nightlife Ephemera
+
+Queer Nightlife Ephemera is a material print-and-archive aesthetic built from flyers, tickets, stickers, stamps, venue traces, and coded community memory. It should preserve specificity and intimacy rather than flatten queer nightlife into generic Pride color or sanitized party neon.
+
+## Scope
+
+Use Queer Nightlife Ephemera for event archives, community calendars, oral-history portals, venue memory, zines, and cultural maps. Keep names, dates, locations, and access details recoverable even when the composition mimics crowded physical ephemera.
+
+## 7-Dimension Profile
 
 **Palette**: Smoky black, xerox grey, nicotine white, lipstick magenta, violet, safety orange, and occasional metallic/sweat-gloss accents (`#111111`, `#6B7280`, `#F1E7D0`, `#D81B60`, `#7C3AED`, `#FF6B00`).
 
@@ -20,14 +34,44 @@ aliases: ["queer club ephemera", "LGBTQ nightlife archive", "queer event flyer a
 
 **Cultural markers**: Venue posters, bar handouts, club nights, coded social artifacts, queer-bar archive matter, chosen-family memory, door stamps, benefit nights, community notices.
 
+## Non-Negotiables
+
 **Non-negotiables**: archival ephemera layering + queer social coding and intimacy + print-trace textures + discovered-object composition. If these are removed, the result becomes a generic adjacent style rather than Queer Nightlife Ephemera.
 
 ## Connotation
 
-**Nostalgic quotation or authentic archive mode**. It should preserve community specificity and avoid reducing queer nightlife to generic rainbow branding or sanitized party neon.
+Queer Nightlife Ephemera reads as a source-backed aesthetic system whose meaning depends on the cultural frame as much as the surface treatment.
 
-## Scope
+## Related / Subsets
 
-Suitable for event archives, community memory boards, nightlife directories, oral-history portals, and cultural calendars. Not suitable for generic corporate Pride skins.
+- `rave-flyer` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
+- `punk-zine` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
+- No canonical subsets are defined for this entry yet.
 
-**Related / Subsets**: Distinct from `rave-flyer`, which centers high-energy promotion and electronic-event spectacle. Distinct from `punk-zine`, which is more oppositional; this is sensual, coded, social, and archival.
+## Frontend / UI Guidance
+
+Layer cards like saved flyers, tickets, stamps, stickers, tape, and annotated scans. Use z-index depth and discovered-object hovers, but put event essentials on readable fields rather than under heavy texture.
+
+## CSS Translation
+
+- Color roles: `--bg-smoke`, `--surface-xerox`, `--accent-lipstick`, `--accent-violet`, `--accent-safety-orange`, `--line-tape`.
+- Borders/dividers: flyer edges, ticket perforations, tape strips, stamps, admission bands, and torn tabs.
+- Radius language: mostly paper rectangles, hand-cut inserts, stickers, and imperfect scanned corners.
+- Effects: photocopy grain, worn paper, sticker residue, folds, pinholes, marker ink, and sweat-gloss highlights.
+- Layout: bulletin-board stacking, archive drawers, overlapping z-index cards, and readable event-detail fields.
+- Motion: poster swaps, discovered-trace hovers, ticket flips, drawer expansions, and reduced-motion layer changes.
+
+## Typography / Fonts
+
+Use mixed flyer type, condensed grotesks, stamps, handwriting, club display faces, and archive captions. Collisions are acceptable, but event name, date, venue, access, and CTA text must remain recoverable.
+
+## Cultural / Ethical Notes
+
+Protect community specificity, privacy, and historical vulnerability. Do not use archival queer nightlife codes as anonymous texture when the project cannot honor the people, venues, or risks behind them.
+
+## Anti-Patterns
+
+- Generic rainbow Pride branding with no archive, venue, or ephemera logic.
+- Rave-flyer energy that erases queer social coding and intimate memory.
+- Texture so heavy that event access details become illegible.
+- Anonymous extraction of vulnerable community history as decoration.
