@@ -164,3 +164,42 @@ def test_lotto_realistic_scratchoff_guidance_is_specific():
 
     for phrase in required_phrases:
         assert phrase in combined, f"lotto guidance missing: {phrase}"
+
+
+def test_wave_1_zero_image_profiles_do_not_label_text_sources_as_image_descriptions():
+    wave_1_slugs = [
+        "ulm-school",
+        "polish-poster-school",
+        "shaker-design",
+        "high-tech-architecture",
+        "prairie-school",
+    ]
+    for slug in wave_1_slugs:
+        path = REPO_ROOT / "knowledge" / "aesthetics" / f"{slug}.md"
+        metadata = _frontmatter(path)
+        assert metadata["image_count"] == 0
+
+        text = path.read_text(encoding="utf-8")
+        section = text.split("## Image Descriptions", 1)[1].split("## ", 1)[0]
+        assert "No image corpus" in section, f"{slug} should state that no image corpus was collected"
+        assert "Text/source review" not in section, f"{slug} should not present text sources as image descriptions"
+        assert "1. https://" not in section, f"{slug} should not list source URLs as image descriptions"
+
+
+def test_wave_1_profiles_do_not_retain_known_broken_review_urls():
+    broken_urls = {
+        "https://www.centrepompidou.fr/en/collection/oeuvre/cXjKAy",
+        "https://franklloydwright.org/architecture/prairie-style/",
+    }
+    combined = "\n".join(
+        (REPO_ROOT / "knowledge" / "aesthetics" / f"{slug}.md").read_text(encoding="utf-8")
+        for slug in [
+            "ulm-school",
+            "polish-poster-school",
+            "shaker-design",
+            "high-tech-architecture",
+            "prairie-school",
+        ]
+    )
+    for url in broken_urls:
+        assert url not in combined

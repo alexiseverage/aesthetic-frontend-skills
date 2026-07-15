@@ -33,8 +33,7 @@ Evidence is limited because this Kanban pass synthesized authoritative text sour
 
 ## Image Descriptions
 
-1. https://en.wikipedia.org/wiki/Ulm_School_of_Design — Text/source review used for origin, practitioner/institution, and visible-form synthesis; no local image corpus was downloaded in this pass.
-2. https://www.hfg-archiv.museumulm.de/en/hfg-ulm/ — Text/source review used for origin, practitioner/institution, and visible-form synthesis; no local image corpus was downloaded in this pass.
+No image corpus was collected for this limited-evidence pass. The source links in `## Source Summary` were used for contextual research only and should not be treated as image descriptions or visual corpus entries.
 
 ## Historical / Origin Notes
 
@@ -60,7 +59,7 @@ Bauhaus supplies the earlier workshop-modernist foundation; swiss-international 
 
 ## Research Updates
 
-- 2026-07-15: Initial limited-evidence profile created for Wave 1 candidate processing. Follow-up image research could raise `evidence_level` to `standard` by collecting 10–25 source images.
+- 2026-07-15: Initial limited-evidence profile created for repository review. Follow-up image research could raise `evidence_level` to `standard` by collecting 10–25 source images.
 
 ## Dictionary Promotion Notes
 
