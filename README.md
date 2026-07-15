@@ -144,6 +144,12 @@ bash scripts/doctor.sh
 ./scripts/doctor.sh
 python3 scripts/validate_profile.py
 ./scripts/validate_profile.py
+python3 scripts/validate_trigger_evals.py
 ```
+
+Trigger-selection fixtures live in `tests/trigger-evals/`. Each public skill listed in
+`skills.sh.json` must have one JSON fixture with `should_trigger` and
+`should_not_trigger` examples. `make validate` runs the fixture validator and prints a
+short summary for maintainers; it does not run expensive model-based routing evals.
 
 

@@ -6,6 +6,7 @@ doctor:
 validate:
 	python3 scripts/validate_profile.py
 	python3 scripts/validate_skills.py
+	python3 scripts/validate_trigger_evals.py
 	python3 scripts/validate_dictionary.py
 	python3 scripts/validate_links.py
 
