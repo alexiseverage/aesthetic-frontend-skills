@@ -7,7 +7,7 @@ aliases: ["liminal spaces", "Backrooms aesthetic", "uncanny transitional archite
 status: canonical
 evidence_level: limited
 related: ["dreamcore-weirdcore", "hauntology"]
-subsets: ["liminal-space", "backrooms"]
+subsets: []
 ---
 
 # Liminal Space / Backrooms
@@ -40,13 +40,13 @@ Use Liminal Space / Backrooms for art, games, analog-horror campaigns, speculati
 
 ## Connotation
 
-Liminal Space / Backrooms reads as a source-backed contemporary characterization whose cues should be treated as a multi-dimensional system rather than a palette.
+Liminal Space / Backrooms comes from contemporary internet circulation around vacant transitional architecture, with the Backrooms branch descending from 2019 creepypasta lore. It can read wistful, uncanny, nostalgic, or horror-adjacent depending on how strongly the Backrooms fiction is emphasized. Use it when vacancy and unresolved circulation are intentional; avoid applying it to flows that must reassure, orient, or protect users.
 
 ## Related / Subsets
 
 - `dreamcore-weirdcore` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
 - `hauntology` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- Canonical subset labels are liminal-space, backrooms; use them only when branch distinction is useful.
+- No canonical subset entries are defined yet; use Liminal Space and Backrooms as internal branch labels when the distinction is useful.
 
 ## Frontend / UI Guidance
 

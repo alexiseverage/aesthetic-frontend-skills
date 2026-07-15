@@ -7,7 +7,7 @@ aliases: ["dreamcore", "weirdcore", "liminal dream edit"]
 status: canonical
 evidence_level: limited
 related: ["liminal-space-backrooms", "glitch", "vaporwave", "early-internet"]
-subsets: ["dreamcore", "weirdcore"]
+subsets: []
 ---
 
 # Dreamcore / Weirdcore
@@ -40,7 +40,7 @@ Use Dreamcore / Weirdcore for art projects, experimental editorial, music, horro
 
 ## Connotation
 
-Dreamcore / Weirdcore reads as a source-backed contemporary characterization whose cues should be treated as a multi-dimensional system rather than a palette.
+Dreamcore / Weirdcore emerged from late-2010s internet image circulation, especially Tumblr and later TikTok/Discord/YouTube communities. Dreamcore leans softened, nostalgic, and melancholic; Weirdcore is harsher, more disorienting, and more context-collapsed. Both can feel intimate and eerie, so use them where destabilization is intentional rather than where trust, safety, or conversion clarity is primary.
 
 ## Related / Subsets
 
@@ -48,7 +48,7 @@ Dreamcore / Weirdcore reads as a source-backed contemporary characterization who
 - `glitch` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
 - `vaporwave` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
 - `early-internet` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- Canonical subset labels are dreamcore, weirdcore; use them only when branch distinction is useful.
+- No canonical subset entries are defined yet; use Dreamcore and Weirdcore as internal branch labels when the distinction is useful.
 
 ## Frontend / UI Guidance
 
