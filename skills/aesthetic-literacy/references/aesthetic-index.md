@@ -77,7 +77,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | --- | --- | --- |
 | `1990s-minimalism` | 1990s Minimalism | 90s minimalism, CK minimalism, fashion minimalism, Calvin Klein aesthetic |
 | `aesthetic-movement` | Aesthetic Movement | Aestheticism, Art for art’s sake, Aesthetic style |
-| `art-deco` | Art Deco | le style moderne, Jazz Moderne |
+| `art-deco` | Art Deco | le style moderne, Jazz Moderne, Style Moderne |
 | `art-nouveau` | Art Nouveau | Jugendstil, Stile Liberty, Modernisme, Modern Style |
 | `arts-and-crafts` | Arts and Crafts Movement | Arts & Crafts, William Morris style |
 | `atomic-age` | Atomic Age / Space Age | Googie, Space Age, Populuxe, Atomic Era, Doo-Wop |
