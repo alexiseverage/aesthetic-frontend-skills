@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit consistency between canonical aesthetic entries and research profiles."""
+"""Audit target-schema compliance and dictionary/profile consistency."""
 
 from __future__ import annotations
 
@@ -7,16 +7,18 @@ import argparse
 from pathlib import Path
 from typing import Any
 
+from validate_dictionary import dictionary_paths, is_redirect, target_schema_warnings as dictionary_target_warnings
+from validate_profile import target_schema_warnings as profile_target_warnings
 from validation_common import split_frontmatter
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
 
-def markdown_frontmatter(path: Path) -> dict[str, Any] | None:
-    frontmatter, _ = split_frontmatter(path)
+def markdown_frontmatter_and_body(path: Path) -> tuple[dict[str, Any] | None, str]:
+    frontmatter, body = split_frontmatter(path)
     if frontmatter is None or "__frontmatter_type_error__" in frontmatter:
-        return None
-    return frontmatter
+        return None, body
+    return frontmatter, body
 
 
 def dictionary_dir(root: Path) -> Path:
@@ -27,12 +29,17 @@ def profiles_dir(root: Path) -> Path:
     return root / "knowledge" / "aesthetics"
 
 
-def load_by_slug(directory: Path) -> dict[str, dict[str, Any]]:
-    records: dict[str, dict[str, Any]] = {}
+def profile_paths(root: Path) -> list[Path]:
+    directory = profiles_dir(root)
     if not directory.exists():
-        return records
-    for path in sorted(directory.glob("*.md")):
-        frontmatter = markdown_frontmatter(path)
+        return []
+    return sorted(directory.glob("*.md"))
+
+
+def load_by_slug(paths: list[Path]) -> dict[str, dict[str, Any]]:
+    records: dict[str, dict[str, Any]] = {}
+    for path in paths:
+        frontmatter, _body = markdown_frontmatter_and_body(path)
         if not frontmatter:
             continue
         slug = frontmatter.get("slug")
@@ -41,9 +48,7 @@ def load_by_slug(directory: Path) -> dict[str, dict[str, Any]]:
     return records
 
 
-def audit(root: Path) -> list[str]:
-    dictionary = load_by_slug(dictionary_dir(root))
-    profiles = load_by_slug(profiles_dir(root))
+def relationship_warnings(dictionary: dict[str, dict[str, Any]], profiles: dict[str, dict[str, Any]]) -> list[str]:
     messages: list[str] = []
 
     for slug in sorted(dictionary.keys() & profiles.keys()):
@@ -55,7 +60,7 @@ def audit(root: Path) -> list[str]:
 
     for slug in sorted(dictionary.keys() - profiles.keys()):
         frontmatter = dictionary[slug]
-        if "redirect" in frontmatter or "superseded_by" in frontmatter:
+        if is_redirect(frontmatter):
             continue
         messages.append(f"dictionary entry has no research profile: {slug}")
 
@@ -65,9 +70,34 @@ def audit(root: Path) -> list[str]:
     return messages
 
 
+def audit(root: Path) -> list[str]:
+    messages: list[str] = []
+    dictionary_files = dictionary_paths(dictionary_dir(root)) if dictionary_dir(root).exists() else []
+    profile_files = profile_paths(root)
+    known_slugs = {path.stem for path in dictionary_files}
+
+    for path in dictionary_files:
+        frontmatter, body = markdown_frontmatter_and_body(path)
+        if not frontmatter or is_redirect(frontmatter):
+            continue
+        for warning in dictionary_target_warnings(frontmatter, body, known_slugs):
+            messages.append(f"dictionary target-schema warning for {path.stem}: {warning}")
+
+    for path in profile_files:
+        frontmatter, body = markdown_frontmatter_and_body(path)
+        if not frontmatter:
+            continue
+        for warning in profile_target_warnings(body):
+            messages.append(f"profile target-schema warning for {path.stem}: {warning}")
+
+    messages.extend(relationship_warnings(load_by_slug(dictionary_files), load_by_slug(profile_files)))
+    return messages
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", default=str(REPO_ROOT), help="Repository root to audit")
+    parser.add_argument("--strict", action="store_true", help="Exit non-zero when audit warnings are present")
     return parser.parse_args()
 
 
@@ -78,6 +108,8 @@ def main() -> None:
     for message in messages:
         print(f"  WARN  {message}")
     print(f"{len(messages)} schema audit warning(s)")
+    if args.strict and messages:
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
