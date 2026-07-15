@@ -67,6 +67,37 @@ SELECTED_AESTHETICS = {
     "japanese-metabolism": "Japanese Metabolism",
     "aesthetic-movement": "Aesthetic Movement",
 }
+ENTERTAINMENT_SPECULATIVE_CANONICAL_BATCH = [
+    "ai-slop-synthetic-corporate-art",
+    "anime-mecha-realism",
+    "apple-core-tech",
+    "board-game-box-art",
+    "casino",
+    "cassette-futurism",
+    "chibi-mecha",
+    "cute-tech",
+    "fairground-carnival-poster-art",
+    "magical-girl",
+    "mecha-kaiju",
+    "nanopunk",
+    "post-apocalyptic-scavenged-tech",
+    "space-western",
+    "steampunk",
+    "trading-card-game-design",
+    "uncanny-android",
+]
+CANONICAL_ENTRY_SECTIONS = [
+    "## Scope",
+    "## 7-Dimension Profile",
+    "## Non-Negotiables",
+    "## Connotation",
+    "## Related / Subsets",
+    "## Frontend / UI Guidance",
+    "## CSS Translation",
+    "## Typography / Fonts",
+    "## Cultural / Ethical Notes",
+    "## Anti-Patterns",
+]
 DIMENSION_HEADINGS = [
     "**Palette**",
     "**Type**",
@@ -126,6 +157,20 @@ def test_selected_aesthetic_knowledge_profiles_exist_with_evidence_links():
         assert metadata["image_count"] >= 0
         assert "https://" in text, f"{slug} profile must retain source links"
         for section in REQUIRED_PROFILE_SECTIONS:
+            assert section in text, f"{slug} missing {section}"
+
+
+def test_entertainment_speculative_batch_uses_canonical_dictionary_schema():
+    for slug in ENTERTAINMENT_SPECULATIVE_CANONICAL_BATCH:
+        path = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics" / f"{slug}.md"
+        text = path.read_text(encoding="utf-8")
+        metadata = _frontmatter(path)
+
+        assert metadata["status"] == "canonical", f"{slug} is not canonical"
+        assert metadata["evidence_level"] in {"standard", "limited"}
+        assert isinstance(metadata["related"], list)
+        assert "subsets" in metadata
+        for section in CANONICAL_ENTRY_SECTIONS:
             assert section in text, f"{slug} missing {section}"
 
 
