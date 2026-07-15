@@ -37,7 +37,7 @@ aliases: ["fairytale gothic", "fantasy gothic"]
 
 ## Analysis
 
-_To be populated by the image-analysis skill._
+_To be populated by the visual analysis workflow._
 
 ## Connections
 

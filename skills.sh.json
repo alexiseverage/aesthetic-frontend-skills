@@ -3,14 +3,10 @@
   "groupings": [
     {
       "title": "Aesthetic Design",
-      "description": "Skills for AI agents to research, analyze, and implement beautiful visual aesthetics across 7 formal dimensions — from literacy to production-ready CSS.",
+      "description": "Two core AI agent skills for understanding and applying visual aesthetics: literacy plus developer-ready design specifications.",
       "skills": [
         "aesthetic-literacy",
-        "aesthetic-research",
-        "image-analysis",
-        "asset-creation",
-        "aesthetic-application",
-        "aesthetic-expansion-kanban"
+        "aesthetic-application"
       ]
     }
   ]

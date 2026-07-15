@@ -6,8 +6,7 @@ description: >
   cottagecore, dark academia, etc.), wants to compare or disambiguate aesthetics, or needs
   formal characterization before producing design tokens or assets. Provides the 7-dimension
   framework (palette, type, texture, shape, motion, spatial conventions, cultural markers)
-  and a curated dictionary of 122 major aesthetics. Foundation for aesthetic-research,
-  image-analysis, asset-creation, and aesthetic-application.
+  and a curated dictionary of 122 major aesthetics. Foundation for aesthetic-application.
   Do not use for component implementation, layout, or accessibility decisions.
 metadata:
   version: "1.0.0"
@@ -26,7 +25,7 @@ metadata:
 
 Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 122 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
-Used as the foundation for `aesthetic-research`, `image-analysis`, `asset-creation`, and `aesthetic-application`.
+Used as the foundation for `aesthetic-application`.
 
 ## When to Apply This Skill
 
@@ -35,7 +34,7 @@ Apply when:
 - A user uses a vague descriptor ("retro", "cozy", "clean") that needs mapping to a concrete aesthetic
 - A user asks about the difference between two related aesthetics
 - A design aesthetic needs to be characterized before tokens or assets are produced
-- Another skill (`aesthetic-research`, `aesthetic-application`) needs to reason about aesthetic identity
+- Another workflow needs to reason about aesthetic identity before producing an application spec
 
 Do NOT apply when the request is purely about component implementation, layout structure, or accessibility. Those are outside the scope of this skill.
 
@@ -78,6 +77,15 @@ Connotation modes (use these terms explicitly):
 Dictionary entries are co-located with this skill in the `aesthetics/` subdirectory. Load the relevant file when characterizing a specific aesthetic.
 
 **Lookup by slug**: `aesthetics/<slug>.md` (relative to this SKILL.md)
+
+For installed users, start with the skill-local index at `references/aesthetic-index.md` when you need to discover a slug, alias, or family. Then load `aesthetics/<slug>.md` for the canonical production entry.
+
+Do not load root research logs for normal app-design workflows. Root `knowledge/aesthetics/` resources are provenance, maintenance, or research materials; use them only when the user explicitly asks for provenance, maintenance, or research detail, or when a canonical entry flags uncertainty that must be source-checked.
+
+Skill-local references for installed users:
+- `references/aesthetic-index.md` — generated slug/family/alias lookup
+- `references/artifact-schema.md` — compact artifact model and canonical-entry schema
+- `references/canonical-entry-example.md` — copyable canonical-entry shape
 
 | Family | Count | Representative Slugs |
 |---|---|---|
@@ -122,10 +130,10 @@ Do NOT run disambiguation when the aesthetic is named explicitly and unambiguous
 
 ## Knowledge Base Lookup
 
-Before characterizing any aesthetic, check whether a research profile exists at `knowledge/aesthetics/<slug>.md`. If it does, the profile supersedes dictionary definitions for dimension frequencies (canonical/common/variant tiers are empirically grounded there). Always prefer the profile's dimension analysis over the dictionary entry.
+Before characterizing any aesthetic for routine app design, load the canonical dictionary entry at `aesthetics/<slug>.md` and use its production guidance as the hot-path source of truth.
 
-**Path resolution**: check `knowledge/aesthetics/` at the workspace root first (identify workspace root by locating a parent directory containing `.git`, `package.json`, or `.agents/`); fall back to `~/.agents/skills/knowledge/aesthetics/` for user/global installs.
+Only check root `knowledge/aesthetics/<slug>.md` when the user asks for provenance, maintenance, or research, or when you are explicitly updating the repository's research artifacts. If a research profile is loaded for that purpose, its dimension analysis may supersede dictionary frequencies, but distill any design guidance back through the canonical entry instead of dumping research notes into the user-facing answer.
 
 Slug format: lowercase-hyphenated (e.g., `dark-academia`, `frutiger-aero`, `neubrutalism`).
 
-If a profile does not exist and the aesthetic is unknown or niche, defer to the `aesthetic-research` skill before proceeding.
+If a canonical entry does not exist and the aesthetic is unknown or niche, state that this public package does not yet contain enough source-grounded guidance instead of inventing values.

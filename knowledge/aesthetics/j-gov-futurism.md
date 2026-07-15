@@ -55,7 +55,7 @@ aliases: [sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism
 
 ## Analysis
 
-_Analyzed: 2026-06-05 | Images reviewed: 9 | Analyst: image-analysis skill_
+_Analyzed: 2026-06-05 | Images reviewed: 9 | Analyst: visual analysis workflow_
 
 ### Color
 

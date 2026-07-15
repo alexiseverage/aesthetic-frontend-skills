@@ -6,8 +6,8 @@
 # Checks:
 #   1. knowledge/aesthetics/ exists at expected path(s)
 #   2. The directory is writable
-#   3. Lists discovered profiles
-#   4. Verifies all required skill files are present
+#   3. Lists discovered provenance profiles
+#   4. Verifies the two public skill files are present
 
 set -euo pipefail
 
@@ -78,7 +78,7 @@ if [ -n "$KB_PATH" ]; then
   done < <(find "$KB_PATH" -maxdepth 1 -name "*.md" -print0 2>/dev/null | sort -z)
 
   if [ "$profile_count" -eq 0 ]; then
-    echo "$INFO  No profiles found — run aesthetic-research to create the first one."
+    echo "$INFO  No provenance profiles found — this is OK for installed-user workflows."
   else
     echo "$PASS  $profile_count profile(s) found"
   fi
@@ -94,16 +94,8 @@ echo "4. Skill files"
 skills=(
   "aesthetic-literacy/SKILL.md"
   "aesthetic-literacy/REFERENCES.md"
-  "aesthetic-research/SKILL.md"
-  "aesthetic-research/REFERENCES.md"
-  "aesthetic-research/knowledge/schema.json"
-  "image-analysis/SKILL.md"
-  "image-analysis/REFERENCES.md"
-  "asset-creation/SKILL.md"
-  "asset-creation/REFERENCES.md"
   "aesthetic-application/SKILL.md"
   "aesthetic-application/REFERENCES.md"
-  "aesthetic-expansion-kanban/SKILL.md"
 )
 
 skills_dir="$REPO_ROOT/skills"

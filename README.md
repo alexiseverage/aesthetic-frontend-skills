@@ -4,7 +4,7 @@
 
 [![skills.sh](https://skills.sh/b/alexiseverage/aesthetic-frontend-skills)](https://skills.sh/alexiseverage/aesthetic-frontend-skills)
 
-A focused collection of AI agent skills for building aesthetically beautiful, creative web frontend UIs. Covers visual aesthetics end-to-end: from literacy and research through image analysis, asset generation, and token output.
+A focused pair of AI agent skills for building aesthetically beautiful, creative web frontend UIs: one skill for aesthetic literacy and one for developer-ready application specs.
 
 **Scope boundary**: aesthetics only. Accessibility, performance, layout systems, and component architecture are explicitly out of scope.
 
@@ -12,12 +12,8 @@ A focused collection of AI agent skills for building aesthetically beautiful, cr
 
 | Skill | Layer | When to Use |
 |---|---|---|
-| [`aesthetic-literacy`](skills/aesthetic-literacy/SKILL.md) | foundation | Understand and characterize any named aesthetic across 7 formal dimensions |
-| [`aesthetic-research`](skills/aesthetic-research/SKILL.md) | applied | Research unknown/niche aesthetics by collecting visual references from available image sources |
-| [`image-analysis`](skills/image-analysis/SKILL.md) | applied | Extract implementable CSS values from collected reference images |
-| [`asset-creation`](skills/asset-creation/SKILL.md) | applied (optional) | Generate images and SVG components using available image generation tools; convert SVGs to React components |
+| [`aesthetic-literacy`](skills/aesthetic-literacy/SKILL.md) | foundation | Understand, compare, and characterize named aesthetics across 7 formal dimensions |
 | [`aesthetic-application`](skills/aesthetic-application/SKILL.md) | applied | Translate a confirmed aesthetic into W3C design tokens, CSS custom properties, and component notes |
-| [`aesthetic-expansion-kanban`](skills/aesthetic-expansion-kanban/SKILL.md) | workflow | Coordinate new aesthetic additions through Kanban research, synthesis, implementation, website showcase, visual QA, and final review |
 
 ---
 
@@ -48,23 +44,37 @@ A small selection of generated components. Visit [aesthetic-design.art](https://
 **Fastest — no clone needed:**
 
 ```bash
-# All 6 skills, project-level (default)
+# Both public skills, project-level (default)
 npx skills add alexiseverage/aesthetic-frontend-skills
 
-# All 6 skills, user-level (available across all your projects)
+# Both public skills, user-level (available across all your projects)
 npx skills add alexiseverage/aesthetic-frontend-skills -g
 
 # Individual skill
 npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-literacy
 ```
 
-For project-level installs, also scaffold the knowledge directory:
+Installed skills include compact skill-local references for normal app-design work:
+
+- `aesthetic-literacy/references/aesthetic-index.md` for slug, family, and alias lookup
+- `aesthetic-literacy/aesthetics/<slug>.md` for canonical production guidance
+- `aesthetic-application/references/` for output contracts, token templates, and CSS translation patterns
+
+Root `knowledge/aesthetics/` research profiles are optional provenance/maintenance resources. You do not need to copy bulky research logs for routine token generation or app-design workflows.
+
+For local development or pre-release testing from a clone, install every skill and nested reference with:
+
+```bash
+skills add . -l --full-depth
+```
+
+If you plan to maintain provenance notes beyond the installed skill-local references, scaffold the knowledge directory:
 
 ```bash
 mkdir -p knowledge/aesthetics
 ```
 
-For global installs (`-g`), create the global knowledge dir once:
+For global installs (`-g`) that will store provenance profiles, create the global knowledge dir once:
 
 ```bash
 mkdir -p ~/.agents/skills/knowledge/aesthetics
@@ -90,7 +100,7 @@ npx skills add alexiseverage/aesthetic-frontend-skills -g
 cp -r skills/* ~/.agents/skills/
 ```
 
-Agents discover these automatically. For global installs, create the knowledge directory once:
+Agents discover these automatically. Installed app-design workflows use skill-local entries and references first; create the global knowledge directory only if you will keep research/provenance profiles:
 
 ```bash
 mkdir -p ~/.agents/skills/knowledge/aesthetics
@@ -100,16 +110,16 @@ mkdir -p ~/.agents/skills/knowledge/aesthetics
 
 ```bash
 npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-literacy
-npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-research
-npx skills add alexiseverage/aesthetic-frontend-skills@image-analysis
 npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-application
-npx skills add alexiseverage/aesthetic-frontend-skills@asset-creation
-npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-expansion-kanban
 ```
 
 ### 2. Register skills with your agent
 
 Depending on your AI client or IDE, you may need to explicitly connect installed skills before your agent can use them. Consult your client's documentation for how to register or enable custom skills.
+
+### 3. Normal workflow after install
+
+For named aesthetics, agents should resolve the slug from `aesthetic-literacy/references/aesthetic-index.md`, load `aesthetic-literacy/aesthetics/<slug>.md`, and only then produce characterization, tokens, CSS, or component notes. Root provenance profiles/logs are for maintenance and source-checking tasks, not the default hot path.
 
 ---
 

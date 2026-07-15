@@ -139,7 +139,7 @@ Required body sections or labels:
 
 ### Structured research profile
 
-Required frontmatter should continue to match `skills/aesthetic-research/knowledge/schema.json` until a later RFC changes it. Required body sections should include:
+Required frontmatter should continue to match `docs/schemas/aesthetic-profile.schema.json` until a later RFC changes it. Required body sections should include:
 
 - `## Dimension Synthesis`
 - `## Image Descriptions` or an explicit statement that no image corpus was collected
