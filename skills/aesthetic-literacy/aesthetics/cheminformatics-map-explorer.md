@@ -3,31 +3,89 @@ slug: cheminformatics-map-explorer
 label: Cheminformatics Map Explorer
 family: technical-institutional
 era: 2010s–present
-aliases: ["chemical space explorer", "cheminformatics explorer", "molecule map UI"]
+aliases:
+- chemical space explorer
+- cheminformatics explorer
+- molecule map UI
+status: canonical
+evidence_level: limited
+related:
+- high-performance-hmi
+- material-design
+subsets: []
 ---
 
-**Palette**: White analytical canvas, navy side rails, blue/orange cluster coding, green status accents, grey metadata, and red outlier/error states (`#FFFFFF`, `#102A43`, `#2563EB`, `#F97316`, `#16A34A`, `#64748B`).
+# Cheminformatics Map Explorer
 
-**Type**: Plain scientific sans with metadata lists, tabular numerics, small caps for descriptors, and clear equation/value labels. Typography should disappear behind the analysis task.
-
-**Texture**: Crisp plotting, low ornament, diagrammatic molecule strokes, grid axes, hover markers, and clean inspector tables. Texture comes from scientific graphics rather than decorative UI.
-
-**Shape**: Rectangular cards, inspector panes, large plot viewport, molecule thumbnail tiles, tooltip boxes, and filter chips. Corners are practical (`4–10px`) and subordinate to the canvas.
-
-**Motion**: Hover reveal, cluster zoom/pan, selection highlight, task-status updates, and inspector replacement. Motion is analytical and reversible (`120–240ms`).
-
-**Spatial**: Three-zone workspace: primary chemical-space map, compact filter/metadata rail, and detail inspector. Keep canvas generous and metadata dense but navigable.
-
-**Cultural markers**: Molecule thumbnails, QSAR labels, descriptor sets, activity values, t-SNE/UMAP-like maps, assay metadata, scaffold clusters, similarity search.
-
-**Non-negotiables**: chemical-space map as primary stage + molecule structure preview panes + scientific metadata inspector pattern + restrained analytical palette. If these are removed, the result becomes a generic adjacent style rather than Cheminformatics Map Explorer.
-
-## Connotation
-
-**Authentic scientific exploration interface**. It should feel like a research tool, not generic lab SaaS or decorative chemistry wallpaper.
+Cheminformatics Map Explorer is a scientific workbench aesthetic centered on chemical-space maps, molecule previews, descriptor metadata, and restrained analytical interaction. Its signal comes from the object model of compound exploration, not from decorative chemistry icons.
 
 ## Scope
 
-Suitable for molecule search, compound libraries, research dashboards, model interpretation, and data exploration. Not suitable for patient-facing health apps or generic scientific branding without chemical structures.
+Use it for molecule search, compound libraries, assay dashboards, model interpretation, similarity exploration, QSAR tools, and data-science interfaces where chemical structures and metadata are central. Avoid it for patient-facing health apps or generic scientific branding without molecule-specific workflows.
 
-**Related / Subsets**: Distinct from `high-performance-hmi`: model-building and compound exploration, not live industrial telemetry. Distinct from `material-design`: molecule panes and chemical-space plots are core, not ornamental.
+## 7-Dimension Profile
+
+**Palette**: Clean analytical bases, blue/orange or cool/warm cluster accents, neutral inspector panels, clear selection states, and optional dark scientific workbench variants. Color should encode clusters, activity, and selection without becoming decoration.
+
+**Type**: Plain scientific sans, metadata lists, tabular numerics, small caps or compact labels for descriptors, and clear equation/value labels.
+
+**Texture**: Crisp plotting, low ornament, molecule structure strokes, grid axes, hover markers, scatter/embedding points, and clean inspector tables.
+
+**Shape**: Large plot viewports, rectangular cards, inspector panes, molecule thumbnail tiles, tooltip boxes, filter chips, and metadata table cells.
+
+**Motion**: Hover reveal, cluster zoom/pan, selection highlight, lasso/filter response, task-status updates, and inspector replacement. Motion should clarify exploration state.
+
+**Spatial**: A three-zone workspace: primary chemical-space map, compact filter/metadata rail, and detail inspector. Keep map, molecule preview, and assay data in the same working context.
+
+**Cultural markers**: Molecule thumbnails, QSAR labels, descriptor sets, activity values, t-SNE/UMAP-like maps, assay metadata, scaffold clusters, similarity search, and chemical library vocabulary.
+
+## Non-Negotiables
+
+**Non-negotiables**:
+
+- Chemical-space map or equivalent compound exploration surface.
+- Molecule structure previews connected to selected data points.
+- Scientific metadata/assay inspector pattern.
+- Restrained analytical styling with explicit selection/filter states.
+
+## Connotation
+
+**Mode:** authentic scientific exploration interface.
+
+It should feel like a research tool. Generic lab SaaS, decorative molecules, or chemistry wallpaper do not satisfy the aesthetic.
+
+## Related / Subsets
+
+- `high-performance-hmi` shares technical density, but this aesthetic supports model-building and compound exploration rather than live industrial telemetry.
+- `material-design` may supply component discipline, but molecule panes and chemical-space plots are core here, not ornamental add-ons.
+
+No canonical subsets are defined yet.
+
+## Frontend / UI Guidance
+
+Build around a primary map/plot component with linked molecule cards, filters, active selections, and a detail inspector. Preserve keyboard access to points, filters, and molecule previews; provide table alternatives for dense plotted data.
+
+## CSS Translation
+
+- Color roles: `--bg-lab`, `--surface-inspector`, `--line-axis`, `--cluster-a`, `--cluster-b`, `--selection`, and `--activity-high`.
+- Borders/dividers: plot axes, inspector rules, card outlines, and tooltip frames.
+- Radius language: low to moderate utility radii; avoid playful blobs.
+- Effects: focus rings, point highlights, selection halos, and subtle density overlays.
+- Layout: map-first split workspace with filter rail and inspector.
+- Motion: deterministic pan/zoom, hover, and inspector transitions with reduced-motion fallback.
+
+## Typography / Fonts
+
+Use a clear scientific UI sans with tabular numerics. Chemical names and descriptors may be long; prioritize wrapping, truncation disclosure, and scan-friendly metadata hierarchy.
+
+## Cultural / Ethical Notes
+
+Avoid implying clinical meaning from exploratory chemical-space position alone. Label modeled predictions, assay values, and confidence/status clearly.
+
+## Anti-Patterns
+
+- Decorative molecule backgrounds with no compound interaction.
+- Patient-facing health styling applied to research tools.
+- Overly colorful clusters without legends or accessible encodings.
+- 3D molecule spectacle that obscures search/filter workflows.
+- Generic dashboard cards with no linked map-inspector behavior.

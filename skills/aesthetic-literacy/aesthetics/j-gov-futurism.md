@@ -3,25 +3,99 @@ slug: j-gov-futurism
 label: J-Gov Futurism
 family: digital-internet-native
 era: 2012–present
-aliases: [sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism, diegetic-bureaucratic-ui]
+aliases:
+- sibyl-ui
+- institutional-brutalism
+- nihon-noir-tech
+- clinical-brutalism
+- diegetic-bureaucratic-ui
+status: canonical
+evidence_level: limited
+related:
+- brutalism
+- swiss-international
+- flat-design
+- neubrutalism
+- early-internet
+- skeuomorphism
+subsets: []
 ---
 
-**Palette**: Warm off-white/beige base (never dark background, never neon); vivid teal/cyan as the sole chromatic accent; dark charcoal section headers; near-black text on light ground; mid-gray rule lines; amber/gold reserved exclusively for scientific chart data lines. The palette never feels designed — it feels configured.
+# J-Gov Futurism
 
-**Type**: Two simultaneous registers: (1) monospace/tabular-figures in `# FIELD : VALUE` all-caps config-file format for all database labels — colon-spaced, `#`-prefixed, values right-aligned into clean vertical columns; (2) dense small paragraph text in Japanese + Latin bilingual for document/form fields. Large ultra-heavy numerals (weight 800–900) for the primary metric only — everything else thin to regular. Bold kanji primary name label + lighter-weight romanized subtitle. Zero display fonts, zero logotypes, nothing decorative.
+J-Gov Futurism is a diegetic bureaucratic interface aesthetic drawn from warm institutional panels, monospace field registers, chamfered hardware bezels, teal status accents, and dense Japanese/Latin administrative data layouts. It feels like a matte government-processing terminal from a speculative public-security system, not generic cyber UI.
 
-**Texture**: Flat matte institutional surface — no gradients, no gloss, no blur, no drop shadows; single- or double-pixel rule lines in mid-gray defining all sub-panel boundaries; repeating crosshatch/hatching strip at the full-width bottom bezel edge (ventilation grille or non-slip grip surface motif); faint dashed grid lines in chart areas only.
+## Scope
 
-**Shape**: `border-radius: 0` throughout; chamfered 45° diagonal corner cuts on all outer bezels (achieved via `clip-path: polygon(...)`, not CSS border-radius); strict bounded rectangular sub-panels with hard right-angle interior corners; no overlap, no bleed, no layering. Everything sits in its own clearly demarcated region. Hardware-casing geometry.
+Use it for fictional government systems, case files, risk scoring, anime-inspired institutional dashboards, dossier panels, and speculative civic/medical/security interfaces where bureaucracy is part of the worldbuilding. Avoid it for real public-service UX unless the form density, scoring, and surveillance implications are intentionally addressed.
 
-**Motion**: Linear only; progress bar fills transition without easing; data state changes are binary (loaded/not loaded); no spring, no bounce, no decorative animation. The system does not perform for the user.
+## 7-Dimension Profile
 
-**Spatial**: Maximum information density; multiple simultaneous sub-panels all active at once; whitespace exists only where data is absent (functional, never aesthetic breathing room); persistent address bars top and bottom of every screen (record ID, session ID, file-path string, barcode serial); strict non-overlapping grid throughout; spatial logic of a form or database table, not a canvas.
+**Palette**: Warm off-white or beige bases, near-black charcoal section headers, near-black text, vivid teal as the primary accent, amber/gold chart lines, mid-gray rules, and rare dark oscilloscope sub-panels. Teal is a signal color, not a text background.
 
-**Cultural markers**: `# FIELD : VALUE` colon-spaced monospace label format; session IDs in `TS No : 000000-0000` format; barcode-style record serial numbers at bottom (`00000 - XXXX - 00000 - 0`); chamfered bezel hardware framing; crosshatch grip strip at panel base; large isolated metric numeral as the only dramatic-scale element; small rectangular teal status chips/pills; bilingual kanji name + romanized subtitle for person records; anime-style illustrated portrait in bordered sub-panel; Japanese tab navigation row for record sub-sections
+**Type**: Monospace/tabular `# FIELD : VALUE` registers, all-caps data labels, large ultra-heavy numerals for primary metrics, dense bilingual Japanese/Latin body text, bold kanji labels, romanized subtitles, and compact status chips.
 
-**Non-negotiables**: warm beige/off-white base (not dark, not neon) + chamfered 45° corner cuts on all outer bezels (not rounded) + `# FIELD : VALUE` monospace data register as primary type mode + teal as the sole chromatic accent throughout
+**Texture**: Flat matte surfaces, no gradients, no gloss, no blur, single/double-pixel rule lines, dashed chart grids, crosshatch bottom strips, and occasional banded header textures.
 
-**Connotation**: Bureaucratic indifference made visual — the interface performs institutional processing of human beings as queryable records. The design is the ideology: a system that reduces persons to numeric scores should look exactly like this government database. Applicable earnestly for sci-fi dashboards, surveillance infrastructure UIs, and dystopian world-building; applicable critically/ironically to foreground algorithmic dehumanization. Explicitly NOT generic cyberpunk — cyberpunk glamorizes the machine; J-Gov Futurism refuses glamour entirely in favor of administrative banality.
+**Shape**: `border-radius: 0` panels, chamfered 45-degree outer bezels, strict rectangular sub-panels, thin teal left-edge stripes, small status chips, and tightly bounded hardware-like containers.
 
-**Related / Subsets**: Shares structural honesty and exposed function with *Brutalism*, but substitutes institutional matte beige for raw browser defaults and maintains internal polish. Shares grid austerity with *Swiss International* but is warm-toned, form-dense, and bilingual rather than cool, editorial, and Western. Monospace data register and terminal logic overlap with *early-internet*. Hard flat surfaces align with *flat-design* but warm palette and chamfered hardware geometry diverge significantly. Distinct from *synthwave* and *vaporwave* in every dimension — shares no palette family and inverts the glamour logic entirely.
+**Motion**: Linear progress/loading bars, binary loaded/not-loaded transitions, deterministic state changes, and no springy easing. Motion should feel procedural and bureaucratic.
+
+**Spatial**: High information density, simultaneous sub-panels, persistent top/bottom address bars, strict grid logic, large dominant score numerals, and record-in-hierarchy path strings.
+
+**Cultural markers**: `# FIELD : VALUE` labels, `TS No` session IDs, barcode serials, chamfered bezels, crosshatch hardware strips, teal status chips, bilingual kanji/romanized person records, score numerals, and oscilloscope-like sub-panels.
+
+## Non-Negotiables
+
+**Non-negotiables**:
+
+- Warm institutional beige/charcoal base with vivid teal signal accents.
+- Monospace bureaucratic field-register typography.
+- Chamfered hardware bezel or strict rectangular panel system.
+- Dense record hierarchy with score/status semantics.
+
+## Connotation
+
+**Mode:** speculative institutional interface.
+
+It suggests clinical bureaucracy, surveillance-adjacent scoring, and anime noir government systems. The mood is controlled, procedural, and administrative rather than hacker, military, or consumer futuristic.
+
+## Related / Subsets
+
+- `brutalism` shares exposed function, but J-Gov Futurism is matte institutional polish rather than deliberate ugliness.
+- `swiss-international` shares grid rigor, but this uses form-dense bilingual bureaucracy instead of editorial whitespace.
+- `flat-design` shares flat surfaces, but the warm beige, chamfering, and field-register typography are more specific.
+- `neubrutalism` shares visible system logic, but not thick playful borders or high-contrast poster color.
+- `early-internet` overlaps through monospace registers, but the skin is polished and institutional.
+- `skeuomorphism` appears only as structural hardware cues, not glossy material imitation.
+
+No canonical subsets are defined yet.
+
+## Frontend / UI Guidance
+
+Use dense dossier cards, record paths, field/value rows, score panels, status chips, teal severity stripes, chart strips, and fixed address/status bars. Make the scoring and surveillance semantics explicit in fictional contexts; for real products, avoid opaque risk labels.
+
+## CSS Translation
+
+- Color roles: `--bg-institution`, `--surface-panel`, `--bar-charcoal`, `--accent-teal`, `--accent-amber`, `--line-gray`, and `--panel-dark`.
+- Borders/dividers: 1–2px grid rules, header bars, chamfered bezels via `clip-path`, and crosshatch strips.
+- Radius language: square panels; at most tiny status-chip rounding.
+- Effects: matte fills, dashed grids, linear progress, and no drop shadows/glass.
+- Layout: dense bounded sub-panels, persistent address bars, large metric anchor, and strict grids.
+- Motion: linear progress and binary state changes with reduced-motion equivalents.
+
+## Typography / Fonts
+
+Pair a monospace data register with heavy sans numerals and readable bilingual body text. Preserve tabular figures and colon-spaced field alignment.
+
+## Cultural / Ethical Notes
+
+The source language is surveillance-adjacent. Do not use opaque scoring, biometric, or public-security cues in real civic products without accountability, consent, appeal, and accessibility safeguards.
+
+## Anti-Patterns
+
+- Neon cyberpunk, hacker terminals, or military HUD clichés.
+- Cool gray glassmorphism instead of warm matte institutional panels.
+- Rounded consumer cards and soft SaaS shadows.
+- Teal text on teal backgrounds with poor contrast.
+- Decorative Japanese text without real language support or context.
