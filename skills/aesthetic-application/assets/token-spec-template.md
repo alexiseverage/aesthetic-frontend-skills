@@ -32,11 +32,11 @@ A flat, system-agnostic table of all token values. Translate into your project's
 | `spacing-md` | Spacing | `Xpx` | Medium gap / padding |
 | `spacing-lg` | Spacing | `Xpx` | Large gap / padding |
 | `spacing-xl` | Spacing | `Xpx` | Extra-large section spacing |
-| `layout-columns` | Layout | `grid-template-columns: value` | Primary column structure; populate from image-analysis if available |
+| `layout-columns` | Layout | `grid-template-columns: value` | Primary column structure; populate from supplied reference analysis if available |
 | `layout-sidebar-width` | Layout | `Xpx` | Sidebar width if applicable; omit if no sidebar present |
 | `layout-content-max` | Layout | `Xpx` | Max content container width |
 | `layout-min-width` | Layout | `Xpx` | Minimum layout width before breakpoint |
 
-_Layout tokens are populated only when the `image-analysis` skill has extracted layout values from UI screenshots. Omit this section if no layout data is available._
+_Layout tokens are populated only when supplied reference analysis includes layout values from UI screenshots. Omit this section if no layout data is available._
 
 > **Output format note**: The token table above is the primary, format-agnostic output. If the developer explicitly requests DTCG JSON, CSS custom properties, or Tailwind config, translate the table into the requested format. A DTCG JSON example is in EXAMPLES.md.

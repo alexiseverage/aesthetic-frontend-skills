@@ -30,7 +30,7 @@ except ImportError:
 from validation_common import missing_body_markers, split_frontmatter
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-SCHEMA_PATH = REPO_ROOT / "skills" / "aesthetic-research" / "knowledge" / "schema.json"
+SCHEMA_PATH = REPO_ROOT / "docs" / "schemas" / "aesthetic-profile.schema.json"
 PROFILES_DIR = REPO_ROOT / "knowledge" / "aesthetics"
 TARGET_BODY_SECTIONS = (
     ("## Dimension Synthesis", ("## Dimension Synthesis",)),

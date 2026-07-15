@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://github.com/alexiseverage/aesthetic-frontend-skills/blob/main/skills/aesthetic-research/knowledge/schema.json",
+  "$id": "https://github.com/alexiseverage/aesthetic-frontend-skills/blob/main/docs/schemas/aesthetic-profile.schema.json",
   "title": "Aesthetic Knowledge Profile",
   "description": "Validates the YAML frontmatter for aesthetic profiles in knowledge/aesthetics/<slug>.md. Version-stamped so skills can handle migrations when the shape evolves.",
   "version": "1.0.0",
@@ -20,31 +20,49 @@
       "type": "string",
       "description": "Lowercase-hyphenated identifier. Must match the filename without extension.",
       "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
-      "examples": ["dark-academia", "frutiger-aero", "neubrutalism"]
+      "examples": [
+        "dark-academia",
+        "frutiger-aero",
+        "neubrutalism"
+      ]
     },
     "label": {
       "type": "string",
       "description": "Human-readable display name.",
       "minLength": 1,
-      "examples": ["Dark Academia", "Frutiger Aero", "Neubrutalism"]
+      "examples": [
+        "Dark Academia",
+        "Frutiger Aero",
+        "Neubrutalism"
+      ]
     },
     "first_researched": {
       "type": "string",
       "description": "ISO 8601 date of the first research run that created this profile.",
       "format": "date",
-      "examples": ["2026-01-15"]
+      "examples": [
+        "2026-01-15"
+      ]
     },
     "last_updated": {
       "type": "string",
       "description": "ISO 8601 date of the most recent append (research update or analysis).",
       "format": "date",
-      "examples": ["2026-03-22"]
+      "examples": [
+        "2026-03-22"
+      ]
     },
     "source": {
       "type": "string",
       "description": "Primary image source(s) used during research.",
       "minLength": 1,
-      "examples": ["pinterest", "dribbble", "behance", "google-images", "mixed"]
+      "examples": [
+        "pinterest",
+        "dribbble",
+        "behance",
+        "google-images",
+        "mixed"
+      ]
     },
     "image_count": {
       "type": "integer",
@@ -54,7 +72,10 @@
     "evidence_level": {
       "type": "string",
       "description": "standard = 10 or more images collected; limited = fewer than 10.",
-      "enum": ["standard", "limited"]
+      "enum": [
+        "standard",
+        "limited"
+      ]
     },
     "new_aesthetic": {
       "type": "boolean",

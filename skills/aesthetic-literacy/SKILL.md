@@ -6,8 +6,7 @@ description: >
   cottagecore, dark academia, etc.), wants to compare or disambiguate aesthetics, or needs
   formal characterization before producing design tokens or assets. Provides the 7-dimension
   framework (palette, type, texture, shape, motion, spatial conventions, cultural markers)
-  and a curated dictionary of 122 major aesthetics. Foundation for aesthetic-research,
-  image-analysis, asset-creation, and aesthetic-application.
+  and a curated dictionary of 122 major aesthetics. Foundation for aesthetic-application.
   Do not use for component implementation, layout, or accessibility decisions.
 metadata:
   version: "1.0.0"
@@ -26,7 +25,7 @@ metadata:
 
 Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 122 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
-Used as the foundation for `aesthetic-research`, `image-analysis`, `asset-creation`, and `aesthetic-application`.
+Used as the foundation for `aesthetic-application`.
 
 ## When to Apply This Skill
 
@@ -35,7 +34,7 @@ Apply when:
 - A user uses a vague descriptor ("retro", "cozy", "clean") that needs mapping to a concrete aesthetic
 - A user asks about the difference between two related aesthetics
 - A design aesthetic needs to be characterized before tokens or assets are produced
-- Another skill (`aesthetic-research`, `aesthetic-application`) needs to reason about aesthetic identity
+- Another workflow needs to reason about aesthetic identity before producing an application spec
 
 Do NOT apply when the request is purely about component implementation, layout structure, or accessibility. Those are outside the scope of this skill.
 
@@ -137,4 +136,4 @@ Only check root `knowledge/aesthetics/<slug>.md` when the user asks for provenan
 
 Slug format: lowercase-hyphenated (e.g., `dark-academia`, `frutiger-aero`, `neubrutalism`).
 
-If a profile does not exist and the aesthetic is unknown or niche, defer to the `aesthetic-research` skill before proceeding.
+If a canonical entry does not exist and the aesthetic is unknown or niche, state that this public package does not yet contain enough source-grounded guidance instead of inventing values.

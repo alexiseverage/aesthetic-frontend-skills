@@ -74,12 +74,12 @@ def test_public_markdown_uses_portable_examples():
         REPO_ROOT / "copilot-instructions.template.md",
     ]
     blocked_patterns = [
-        re.compile(r"/home/[A-Za-z0-9._-]+"),
-        re.compile(r"/Users/[A-Za-z0-9._-]+"),
+        re.compile("/" + r"home/[A-Za-z0-9._-]+"),
+        re.compile("/" + r"Users/[A-Za-z0-9._-]+"),
         re.compile(r"~/Desktop\b"),
-        re.compile(r"\banotherletter\b", re.IGNORECASE),
+        re.compile(r"\b" + "another" + r"letter\b", re.IGNORECASE),
         re.compile(r"\btailscale\b|\btailnet\b|\.ts\.net\b", re.IGNORECASE),
-        re.compile(r"workspace/aesthetic", re.IGNORECASE),
+        re.compile(r"workspace/" + "aesthetic", re.IGNORECASE),
     ]
 
     paths = []

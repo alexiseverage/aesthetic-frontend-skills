@@ -33,7 +33,7 @@ Apply when:
 - The user asks to "make it look like X", "apply this aesthetic", or "design tokens for X"
 - The user needs a developer-handoff spec from an aesthetic direction
 - The user asks for CSS variables, design tokens, or component notes grounded in an aesthetic
-- The `image-analysis` skill has produced grounded values that need to be formatted as tokens
+- The user has supplied grounded visual values that need to be formatted as tokens
 
 Do NOT apply when:
 - No aesthetic has been identified (run `aesthetic-literacy` disambiguation first)
@@ -42,7 +42,7 @@ Do NOT apply when:
 ## Dependencies
 
 Requires: `aesthetic-literacy` (7-dimension framework, dictionary, non-negotiables)  
-Works alongside: `image-analysis` (grounded values from images preferred over dictionary approximations when available)
+Works with user-supplied grounded values from reference images when available; prefer explicit supplied values over dictionary approximations.
 
 Skill-local references for installed users:
 - `references/output-contract.md` — required response shape and quality bar
@@ -69,7 +69,7 @@ Name the aesthetic explicitly. Do not proceed ambiguously.
 - If the user is vague ("make it look cool" / "futuristic feel"), apply the `aesthetic-literacy` disambiguation protocol first
 - If the requested term is a **subset or related aesthetic** (e.g., "outrun", "datamoshing", "old money", "Web 2.0 Gloss") rather than a canonical slug, identify the parent aesthetic, load its dictionary entry, read the **Subsets / Related** section, and note the subset's specific emphases that should be amplified. State: "Applying [parent aesthetic] in [connotation mode] mode, with [subset] emphasis."
 - Load `aesthetic-literacy/aesthetics/<slug>.md` and use it as the production guidance source
-- If no canonical entry exists and the aesthetic is unknown or niche, defer to `aesthetic-research` rather than inventing values
+- If no canonical entry exists and the aesthetic is unknown or niche, state that this public package does not yet contain enough source-grounded guidance instead of inventing values
 - State explicitly: "Applying [aesthetic name] in [connotation mode] mode."
 
 ### Step 2 — Establish connotation intent
