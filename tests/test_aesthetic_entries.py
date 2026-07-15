@@ -60,6 +60,11 @@ SELECTED_AESTHETICS = {
     "shaker-design": "Shaker Design",
     "high-tech-architecture": "High-Tech Architecture / Structural Expressionism",
     "prairie-school": "Prairie School",
+    "beaux-arts": "Beaux-Arts",
+    "italian-radical-design": "Italian Radical Design",
+    "new-objectivity": "New Objectivity / Neue Sachlichkeit",
+    "japanese-metabolism": "Japanese Metabolism",
+    "aesthetic-movement": "Aesthetic Movement",
 }
 DIMENSION_HEADINGS = [
     "**Palette**",
@@ -128,8 +133,8 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
         encoding="utf-8"
     )
 
-    assert "curated dictionary of 117 major aesthetics" in text
-    assert "117 total entries" in text
+    assert "curated dictionary of 122 major aesthetics" in text
+    assert "122 total entries" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
 
