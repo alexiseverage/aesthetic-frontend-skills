@@ -55,6 +55,7 @@ SELECTED_AESTHETICS = {
     "board-game-box-art": "Board Game Box Art",
     "trading-card-game-design": "Trading Card Game Design",
     "scandi-noir": "Scandi Noir",
+    "storybook-gothic": "Storybook Gothic",
     "ulm-school": "Ulm School / HfG Ulm",
     "polish-poster-school": "Polish Poster School",
     "shaker-design": "Shaker Design",
@@ -133,8 +134,8 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
         encoding="utf-8"
     )
 
-    assert "curated dictionary of 122 major aesthetics" in text
-    assert "122 total entries" in text
+    assert "curated dictionary of 123 major aesthetics" in text
+    assert "123 total entries" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
 
@@ -208,3 +209,38 @@ def test_wave_1_profiles_do_not_retain_known_broken_review_urls():
     )
     for url in broken_urls:
         assert url not in combined
+
+
+def test_storybook_gothic_pilot_has_canonical_profile_and_append_only_log():
+    dictionary_path = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics" / "storybook-gothic.md"
+    profile_path = REPO_ROOT / "knowledge" / "aesthetics" / "storybook-gothic.md"
+    log_path = REPO_ROOT / "knowledge" / "aesthetics" / "storybook-gothic" / "research-log.md"
+
+    assert dictionary_path.exists(), "missing canonical Storybook Gothic dictionary entry"
+    assert profile_path.exists(), "missing structured Storybook Gothic research profile"
+    assert log_path.exists(), "missing append-only Storybook Gothic research log"
+
+    dictionary = dictionary_path.read_text(encoding="utf-8")
+    profile = profile_path.read_text(encoding="utf-8")
+    research_log = log_path.read_text(encoding="utf-8")
+    metadata = _frontmatter(dictionary_path)
+
+    assert metadata["status"] == "canonical"
+    assert metadata["evidence_level"] == "limited"
+    assert "## Scope" in dictionary
+    assert "## Frontend / UI Guidance" in dictionary
+    assert "## CSS Translation" in dictionary
+    assert "## Cultural / Ethical Notes" in dictionary
+    assert "VistaPrint" in profile
+    assert "logged_at:" in research_log
+    assert "## Observation" in research_log
+    assert "## Canonical Entry Impact" in research_log
+
+    combined = f"{dictionary}\n{profile}\n{research_log}"
+    forbidden_fragments = [
+        "/" + "home/",
+        "~" + "/.hermes",
+        "aesthetic" + "-expansion" + "-kanban",
+    ]
+    for fragment in forbidden_fragments:
+        assert fragment not in combined
