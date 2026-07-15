@@ -79,6 +79,15 @@ Dictionary entries are co-located with this skill in the `aesthetics/` subdirect
 
 **Lookup by slug**: `aesthetics/<slug>.md` (relative to this SKILL.md)
 
+For installed users, start with the skill-local index at `references/aesthetic-index.md` when you need to discover a slug, alias, or family. Then load `aesthetics/<slug>.md` for the canonical production entry.
+
+Do not load root research logs for normal app-design workflows. Root `knowledge/aesthetics/` resources are provenance, maintenance, or research materials; use them only when the user explicitly asks for provenance, maintenance, or research detail, or when a canonical entry flags uncertainty that must be source-checked.
+
+Skill-local references for installed users:
+- `references/aesthetic-index.md` — generated slug/family/alias lookup
+- `references/artifact-schema.md` — compact artifact model and canonical-entry schema
+- `references/canonical-entry-example.md` — copyable canonical-entry shape
+
 | Family | Count | Representative Slugs |
 |---|---|---|
 | **Digital / Internet-Native** | 21 | y2k, vaporwave, synthwave, early-internet, glitch, frutiger-aero, 8-bit-pixel, skeuomorphism, web-2-gloss, flat-design, material-design, corporate-grunge, myspace-chaos, neumorphism, claymorphism, pen-and-pixel, j-gov-futurism, liminal-space-backrooms, dreamcore-weirdcore, ai-slop-synthetic-corporate-art, hauntology |
@@ -122,9 +131,9 @@ Do NOT run disambiguation when the aesthetic is named explicitly and unambiguous
 
 ## Knowledge Base Lookup
 
-Before characterizing any aesthetic, check whether a research profile exists at `knowledge/aesthetics/<slug>.md`. If it does, the profile supersedes dictionary definitions for dimension frequencies (canonical/common/variant tiers are empirically grounded there). Always prefer the profile's dimension analysis over the dictionary entry.
+Before characterizing any aesthetic for routine app design, load the canonical dictionary entry at `aesthetics/<slug>.md` and use its production guidance as the hot-path source of truth.
 
-**Path resolution**: check `knowledge/aesthetics/` at the workspace root first (identify workspace root by locating a parent directory containing `.git`, `package.json`, or `.agents/`); fall back to `~/.agents/skills/knowledge/aesthetics/` for user/global installs.
+Only check root `knowledge/aesthetics/<slug>.md` when the user asks for provenance, maintenance, or research, or when you are explicitly updating the repository's research artifacts. If a research profile is loaded for that purpose, its dimension analysis may supersede dictionary frequencies, but distill any design guidance back through the canonical entry instead of dumping research notes into the user-facing answer.
 
 Slug format: lowercase-hyphenated (e.g., `dark-academia`, `frutiger-aero`, `neubrutalism`).
 

@@ -44,18 +44,21 @@ Do NOT apply when:
 Requires: `aesthetic-literacy` (7-dimension framework, dictionary, non-negotiables)  
 Works alongside: `image-analysis` (grounded values from images preferred over dictionary approximations when available)
 
+Skill-local references for installed users:
+- `references/output-contract.md` — required response shape and quality bar
+- `references/token-template.md` — complete token table scaffold
+- `references/css-translation-patterns.md` — CSS implementation patterns by aesthetic dimension
+- `references/component-notes-contract.md` — required component-note coverage
+
 ## Knowledge Base Path
 
-Before loading any profile, resolve the knowledge base root:
+Before producing tokens or component notes, load the canonical dictionary entry from the installed `aesthetic-literacy` skill:
 
-| Context | Resolved path |
-|---|---|
-| Project-level install | `knowledge/aesthetics/` at the **workspace root** |
-| User/global install (`-g`) | `~/.agents/skills/knowledge/aesthetics/` |
+- Discover the slug with `aesthetic-literacy/references/aesthetic-index.md` when needed.
+- Load `aesthetic-literacy/aesthetics/<slug>.md` as the normal app-design source.
+- Load `references/output-contract.md` before drafting the final handoff.
 
-Identify the workspace root by locating a parent directory containing `.git`, `package.json`, or `.agents/`.
-
-> Throughout this skill, `knowledge/aesthetics/` refers to the resolved path above.
+Do not load root research logs for normal app-design workflows. Root `knowledge/aesthetics/` profiles and append-only logs are provenance, maintenance, or research resources; load them only when the user explicitly asks for provenance, maintenance, or research detail, or when the canonical entry flags uncertainty that must be source-checked.
 
 ## 6-Step Application Workflow
 
@@ -65,8 +68,8 @@ Name the aesthetic explicitly. Do not proceed ambiguously.
 
 - If the user is vague ("make it look cool" / "futuristic feel"), apply the `aesthetic-literacy` disambiguation protocol first
 - If the requested term is a **subset or related aesthetic** (e.g., "outrun", "datamoshing", "old money", "Web 2.0 Gloss") rather than a canonical slug, identify the parent aesthetic, load its dictionary entry, read the **Subsets / Related** section, and note the subset's specific emphases that should be amplified. State: "Applying [parent aesthetic] in [connotation mode] mode, with [subset] emphasis."
-- If the aesthetic has a knowledge profile at `knowledge/aesthetics/<slug>.md`, load it — especially the `## Analysis` section for grounded implementable values
-- If no profile exists, use the `aesthetic-literacy` dictionary as the starting point
+- Load `aesthetic-literacy/aesthetics/<slug>.md` and use it as the production guidance source
+- If no canonical entry exists and the aesthetic is unknown or niche, defer to `aesthetic-research` rather than inventing values
 - State explicitly: "Applying [aesthetic name] in [connotation mode] mode."
 
 ### Step 2 — Establish connotation intent
@@ -130,7 +133,7 @@ Produce all 4 output sections below.
 
 A flat, system-agnostic table of all token values covering Color (7 tokens), Typography (8 tokens), Shape (3), Motion (3), Spacing (6), and Layout (4 optional). Translate into your project's token system (CSS custom properties, Tailwind config, DTCG JSON, Sass variables, Swift/Android tokens, etc.).
 
-Load [assets/token-spec-template.md](assets/token-spec-template.md) for the full blank template with all token names, categories, and notes.
+Load [references/token-template.md](references/token-template.md) for the full blank template with all token names, categories, and notes.
 
 > **Output format note**: The token table is the primary, format-agnostic output. If the developer explicitly requests DTCG JSON, CSS custom properties, or Tailwind config, translate into the requested format. A DTCG JSON example is in EXAMPLES.md.
 
@@ -149,7 +152,7 @@ Load [assets/token-spec-template.md](assets/token-spec-template.md) for the full
 
 Brief, implementable notes for 12 key UI components: Buttons, Cards, Inputs, Navigation, Hero/header, Headings, Dividers, Links, Badges/tags, Modals/overlays, Alerts/notifications, Icons.
 
-Load [assets/component-notes-template.md](assets/component-notes-template.md) for the full template with all component rows.
+Load [references/component-notes-contract.md](references/component-notes-contract.md) for the full component coverage contract.
 
 ### 4. Flags
 

@@ -58,13 +58,27 @@ npx skills add alexiseverage/aesthetic-frontend-skills -g
 npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-literacy
 ```
 
-For project-level installs, also scaffold the knowledge directory:
+Installed skills include compact skill-local references for normal app-design work:
+
+- `aesthetic-literacy/references/aesthetic-index.md` for slug, family, and alias lookup
+- `aesthetic-literacy/aesthetics/<slug>.md` for canonical production guidance
+- `aesthetic-application/references/` for output contracts, token templates, and CSS translation patterns
+
+Root `knowledge/aesthetics/` research profiles are optional provenance/maintenance resources. You do not need to copy bulky research logs for routine token generation or app-design workflows.
+
+For local development or pre-release testing from a clone, install every skill and nested reference with:
+
+```bash
+~/.hermes/node/bin/skills add . -l --full-depth
+```
+
+If you plan to run new research rather than only apply existing aesthetics, scaffold the knowledge directory:
 
 ```bash
 mkdir -p knowledge/aesthetics
 ```
 
-For global installs (`-g`), create the global knowledge dir once:
+For global installs (`-g`) that will store research profiles, create the global knowledge dir once:
 
 ```bash
 mkdir -p ~/.agents/skills/knowledge/aesthetics
@@ -90,7 +104,7 @@ npx skills add alexiseverage/aesthetic-frontend-skills -g
 cp -r skills/* ~/.agents/skills/
 ```
 
-Agents discover these automatically. For global installs, create the knowledge directory once:
+Agents discover these automatically. Installed app-design workflows use skill-local entries and references first; create the global knowledge directory only if you will keep research/provenance profiles:
 
 ```bash
 mkdir -p ~/.agents/skills/knowledge/aesthetics
@@ -110,6 +124,10 @@ npx skills add alexiseverage/aesthetic-frontend-skills@aesthetic-expansion-kanba
 ### 2. Register skills with your agent
 
 Depending on your AI client or IDE, you may need to explicitly connect installed skills before your agent can use them. Consult your client's documentation for how to register or enable custom skills.
+
+### 3. Normal workflow after install
+
+For named aesthetics, agents should resolve the slug from `aesthetic-literacy/references/aesthetic-index.md`, load `aesthetic-literacy/aesthetics/<slug>.md`, and only then produce characterization, tokens, CSS, or component notes. Root research profiles/logs are for provenance, maintenance, and research tasks, not the default hot path.
 
 ---
 
