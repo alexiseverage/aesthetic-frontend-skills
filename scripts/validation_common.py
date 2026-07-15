@@ -28,3 +28,12 @@ def split_frontmatter(path: Path) -> tuple[dict[str, Any] | None, str]:
 
 def is_string_list(value: Any) -> bool:
     return isinstance(value, list) and all(isinstance(item, str) for item in value)
+
+
+def missing_body_markers(body: str, markers: tuple[tuple[str, tuple[str, ...]], ...]) -> list[str]:
+    """Return canonical marker names whose accepted variants are absent from markdown body."""
+    missing: list[str] = []
+    for canonical, alternatives in markers:
+        if not any(alternative in body for alternative in alternatives):
+            missing.append(canonical)
+    return missing

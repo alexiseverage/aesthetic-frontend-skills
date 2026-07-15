@@ -54,7 +54,7 @@ VALID_DICTIONARY_BODY = """**Palette**: red, blue
 
 def write_profile(root: Path, filename: str, frontmatter: str, body: str = "# Test profile\n") -> Path:
     profiles_dir = root / "knowledge" / "aesthetics"
-    profiles_dir.mkdir(parents=True)
+    profiles_dir.mkdir(parents=True, exist_ok=True)
     path = profiles_dir / filename
     path.write_text(f"---\n{frontmatter}---\n\n{body}", encoding="utf-8")
     return path
@@ -211,6 +211,62 @@ def test_validate_dictionary_rejects_missing_non_negotiables_and_connotation(tmp
     assert "Missing required body label: '**Connotation**:'" in result.stdout
 
 
+def test_validate_dictionary_warning_mode_reports_target_schema_gaps_without_failing(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "legacy-entry.md",
+        "slug: legacy-entry\nlabel: Legacy Entry\nfamily: test-family\naliases: []\n",
+        VALID_DICTIONARY_BODY,
+    )
+
+    result = run_validator(
+        "validate_dictionary.py",
+        "--schema-mode",
+        "warn",
+        str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"),
+    )
+
+    assert result.returncode == 0, result.stdout + result.stderr
+    assert "WARN  legacy-entry.md" in result.stdout
+    assert "Missing target frontmatter field: 'era'" in result.stdout
+    assert "Missing target body section: '## Scope'" in result.stdout
+    assert "target-schema warning" in result.stdout
+
+
+def test_validate_dictionary_strict_mode_fails_target_schema_gaps(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "legacy-entry.md",
+        "slug: legacy-entry\nlabel: Legacy Entry\nfamily: test-family\naliases: []\n",
+        VALID_DICTIONARY_BODY,
+    )
+
+    result = run_validator(
+        "validate_dictionary.py",
+        "--schema-mode",
+        "strict",
+        str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"),
+    )
+
+    assert result.returncode == 1
+    assert "Missing target frontmatter field: 'status'" in result.stdout
+    assert "Missing target body section: '## Frontend / UI Guidance'" in result.stdout
+
+
+def test_validate_dictionary_rejects_redirect_target_that_does_not_exist(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "bad-redirect.md",
+        "slug: bad-redirect\nlabel: Bad Redirect\nfamily: test-family\nredirect: missing-entry\nsuperseded_by: missing-entry\n",
+        "> Superseded by missing-entry.\n",
+    )
+
+    result = run_validator("validate_dictionary.py", str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"))
+
+    assert result.returncode == 1
+    assert "Redirect target 'missing-entry' does not exist" in result.stdout
+
+
 def test_validate_profile_accepts_valid_profile_with_aliases(tmp_path: Path):
     path = write_profile(
         tmp_path,
@@ -284,6 +340,112 @@ def test_validate_profile_rejects_last_updated_before_first_researched(tmp_path:
 
     assert result.returncode == 1
     assert "last_updated must be on or after first_researched" in result.stdout
+
+
+def test_validate_profile_warning_mode_reports_target_sections_without_failing(tmp_path: Path):
+    path = write_profile(
+        tmp_path,
+        "legacy-profile.md",
+        "slug: legacy-profile\nlabel: Legacy Profile\nfirst_researched: '2026-06-01'\nlast_updated: '2026-06-02'\nsource: mixed\nimage_count: 10\nevidence_level: standard\nnew_aesthetic: true\naliases: []\n",
+    )
+
+    result = run_validator("validate_profile.py", "--schema-mode", "warn", str(path))
+
+    assert result.returncode == 0, result.stdout + result.stderr
+    assert "WARN  legacy-profile.md" in result.stdout
+    assert "Missing target body section: '## Dimension Synthesis'" in result.stdout
+    assert "target-schema warning" in result.stdout
+
+
+def test_validate_profile_strict_mode_fails_missing_target_sections(tmp_path: Path):
+    path = write_profile(
+        tmp_path,
+        "legacy-profile.md",
+        "slug: legacy-profile\nlabel: Legacy Profile\nfirst_researched: '2026-06-01'\nlast_updated: '2026-06-02'\nsource: mixed\nimage_count: 10\nevidence_level: standard\nnew_aesthetic: true\naliases: []\n",
+    )
+
+    result = run_validator("validate_profile.py", "--schema-mode", "strict", str(path))
+
+    assert result.returncode == 1
+    assert "Missing target body section: '## Research Updates'" in result.stdout
+
+
+def test_aesthetic_schema_audit_reports_dictionary_profile_mismatches(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "shared-entry.md",
+        "slug: shared-entry\nlabel: Dictionary Label\nfamily: test-family\nera: contemporary\naliases: [\"dictionary alias\"]\nstatus: canonical\nevidence_level: legacy\nrelated: []\nsubsets: []\n",
+        """## Scope
+
+## 7-Dimension Profile
+
+**Palette**: red
+
+**Type**: sans
+
+**Texture**: smooth
+
+**Shape**: circles
+
+**Motion**: fades
+
+**Spatial**: layered
+
+**Cultural markers**: test
+
+## Non-Negotiables
+
+**Non-negotiables**: required features
+
+## Connotation
+
+## Related / Subsets
+
+## Frontend / UI Guidance
+
+## CSS Translation
+
+## Typography / Fonts
+
+## Cultural / Ethical Notes
+
+## Anti-Patterns
+""",
+    )
+    write_dictionary_entry(
+        tmp_path,
+        "dictionary-only.md",
+        "slug: dictionary-only\nlabel: Dictionary Only\nfamily: test-family\n",
+        VALID_DICTIONARY_BODY,
+    )
+    write_profile(
+        tmp_path,
+        "shared-entry.md",
+        "slug: shared-entry\nlabel: Profile Label\nfirst_researched: '2026-06-01'\nlast_updated: '2026-06-02'\nsource: mixed\nimage_count: 10\nevidence_level: standard\nnew_aesthetic: false\naliases: [\"profile alias\"]\n",
+        """## Dimension Synthesis
+
+## Image Descriptions
+
+## Analysis
+
+## Connections
+
+## Research Updates
+""",
+    )
+    write_profile(
+        tmp_path,
+        "profile-only.md",
+        "slug: profile-only\nlabel: Profile Only\nfirst_researched: '2026-06-01'\nlast_updated: '2026-06-02'\nsource: mixed\nimage_count: 10\nevidence_level: standard\nnew_aesthetic: true\naliases: []\n",
+    )
+
+    result = run_validator("audit_aesthetic_schema.py", "--root", str(tmp_path))
+
+    assert result.returncode == 0, result.stdout + result.stderr
+    assert "dictionary/profile mismatch for shared-entry: label" in result.stdout
+    assert "dictionary/profile mismatch for shared-entry: evidence_level" in result.stdout
+    assert "dictionary entry has no research profile: dictionary-only" in result.stdout
+    assert "research profile has no dictionary entry: profile-only" in result.stdout
 
 
 def test_validate_links_accepts_existing_relative_markdown_and_image_paths(tmp_path: Path):

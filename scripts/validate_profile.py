@@ -27,11 +27,18 @@ try:
 except ImportError:
     sys.exit("Error: pyyaml is required. Install it with: pip install pyyaml")
 
-from validation_common import split_frontmatter
+from validation_common import missing_body_markers, split_frontmatter
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = REPO_ROOT / "skills" / "aesthetic-research" / "knowledge" / "schema.json"
 PROFILES_DIR = REPO_ROOT / "knowledge" / "aesthetics"
+TARGET_BODY_SECTIONS = (
+    ("## Dimension Synthesis", ("## Dimension Synthesis",)),
+    ("## Image Descriptions", ("## Image Descriptions", "no image corpus was collected")),
+    ("## Analysis", ("## Analysis",)),
+    ("## Connections", ("## Connections",)),
+    ("## Research Updates", ("## Research Updates",)),
+)
 
 
 def load_schema() -> dict[str, Any]:
@@ -78,17 +85,27 @@ def cross_field_errors(data: dict[str, Any]) -> list[str]:
     return errors
 
 
-def validate_file(path: Path, schema: dict[str, Any], *, allow_missing_frontmatter: bool) -> bool:
-    frontmatter, _body = split_frontmatter(path)
+def target_schema_warnings(body: str) -> list[str]:
+    return [f"Missing target body section: '{section}'" for section in missing_body_markers(body, TARGET_BODY_SECTIONS)]
+
+
+def validate_file(
+    path: Path,
+    schema: dict[str, Any],
+    *,
+    allow_missing_frontmatter: bool,
+    schema_mode: str,
+) -> tuple[bool, int]:
+    frontmatter, body = split_frontmatter(path)
     if frontmatter is None:
         print(f"  SKIP  {path.name} — no YAML frontmatter found" if allow_missing_frontmatter else f"  FAIL  {path.name}")
         if not allow_missing_frontmatter:
             print("          no YAML frontmatter found")
-        return allow_missing_frontmatter
+        return allow_missing_frontmatter, 0
     if "__frontmatter_type_error__" in frontmatter:
         print(f"  FAIL  {path.name}")
         print(f"          YAML frontmatter must be an object, got {frontmatter['__frontmatter_type_error__']}")
-        return False
+        return False, 0
 
     errors = schema_errors(frontmatter, schema)
 
@@ -98,14 +115,27 @@ def validate_file(path: Path, schema: dict[str, Any], *, allow_missing_frontmatt
 
     errors.extend(cross_field_errors(frontmatter))
 
+    warnings: list[str] = []
+    if schema_mode != "legacy":
+        warnings = target_schema_warnings(body)
+        if schema_mode == "strict":
+            errors.extend(warnings)
+            warnings = []
+
     if errors:
         print(f"  FAIL  {path.name}")
         for error in errors:
             print(f"          {error}")
-        return False
+        return False, 0
+
+    if warnings:
+        print(f"  WARN  {path.name}")
+        for warning in warnings:
+            print(f"          {warning}")
+        return True, len(warnings)
 
     print(f"  OK    {path.name}")
-    return True
+    return True, 0
 
 
 def parse_args() -> argparse.Namespace:
@@ -114,6 +144,12 @@ def parse_args() -> argparse.Namespace:
         "--allow-missing-frontmatter",
         action="store_true",
         help="Skip markdown files without YAML frontmatter instead of failing them",
+    )
+    parser.add_argument(
+        "--schema-mode",
+        choices=("legacy", "warn", "strict"),
+        default="legacy",
+        help="Target schema enforcement: legacy default, warn-only audit, or strict failures",
     )
     parser.add_argument("paths", nargs="*", help="Profile markdown files to validate")
     return parser.parse_args()
@@ -134,12 +170,20 @@ def main() -> None:
             return
 
     failed = 0
+    warning_count = 0
     for path in paths:
         if not path.exists():
             print(f"  ERROR {path} — file not found")
             failed += 1
             continue
-        if not validate_file(path, schema, allow_missing_frontmatter=args.allow_missing_frontmatter):
+        valid, warnings = validate_file(
+            path,
+            schema,
+            allow_missing_frontmatter=args.allow_missing_frontmatter,
+            schema_mode=args.schema_mode,
+        )
+        warning_count += warnings
+        if not valid:
             failed += 1
 
     total = len(paths)
@@ -148,7 +192,10 @@ def main() -> None:
     if failed:
         print(f", {failed} failed")
         sys.exit(1)
-    print()
+    if warning_count:
+        print(f", {warning_count} target-schema warning(s)")
+    else:
+        print()
 
 
 if __name__ == "__main__":
