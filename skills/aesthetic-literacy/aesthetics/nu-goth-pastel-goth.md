@@ -7,7 +7,7 @@ aliases: ["nu goth", "pastel goth", "modern goth fashion"]
 status: canonical
 evidence_level: limited
 related: ["gothic-revival", "witchcore", "cyberpunk", "decora-kei"]
-subsets: ["nu-goth", "pastel-goth"]
+subsets: []
 ---
 
 # Nu-Goth / Pastel Goth
@@ -40,7 +40,7 @@ Use Nu-Goth / Pastel Goth for fashion, beauty, music, alt-community commerce, ev
 
 ## Connotation
 
-Nu-Goth / Pastel Goth reads as a source-backed contemporary characterization whose cues should be treated as a multi-dimensional system rather than a palette.
+Nu-Goth / Pastel Goth is a modern internet and alt-fashion update to goth styling, with Nu-Goth emphasizing black-forward streetwear and occult fashion while Pastel Goth collides black gothic anchors with cute pastel/kawaii codes. It should be descriptive rather than gatekeeping: the entry names branch differences without treating either as the only valid goth expression. Pastel Goth borrowing from kawaii/Harajuku influence should be acknowledged instead of flattened into generic cuteness.
 
 ## Related / Subsets
 
@@ -48,7 +48,7 @@ Nu-Goth / Pastel Goth reads as a source-backed contemporary characterization who
 - `witchcore` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
 - `cyberpunk` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
 - `decora-kei` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- Canonical subset labels are nu-goth, pastel-goth; use them only when branch distinction is useful.
+- No canonical subset entries are defined yet; use Nu-Goth and Pastel Goth as internal branch labels when the distinction is useful.
 
 ## Frontend / UI Guidance
 

@@ -1,9 +1,13 @@
 from pathlib import Path
+import sys
 
 import yaml
 
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(REPO_ROOT / "scripts"))
+
+from validate_dictionary import dictionary_paths, target_schema_warnings
 SELECTED_AESTHETICS = {
     "magical-girl": "Magical Girl",
     "witchcore": "Witchcore",
@@ -85,6 +89,12 @@ ENTERTAINMENT_SPECULATIVE_CANONICAL_BATCH = [
     "steampunk",
     "trading-card-game-design",
     "uncanny-android",
+]
+PROFILE_BACKED_NONCANONICAL_BATCH = [
+    "aesthetic-movement",
+    "dreamcore-weirdcore",
+    "liminal-space-backrooms",
+    "nu-goth-pastel-goth",
 ]
 CANONICAL_ENTRY_SECTIONS = [
     "## Scope",
@@ -172,6 +182,24 @@ def test_entertainment_speculative_batch_uses_canonical_dictionary_schema():
         assert "subsets" in metadata
         for section in CANONICAL_ENTRY_SECTIONS:
             assert section in text, f"{slug} missing {section}"
+
+
+def test_profile_backed_noncanonical_batch_has_no_target_schema_warnings():
+    dictionary_root = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics"
+    known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
+
+    for slug in PROFILE_BACKED_NONCANONICAL_BATCH:
+        path = dictionary_root / f"{slug}.md"
+        text = path.read_text(encoding="utf-8")
+        metadata = _frontmatter(path)
+
+        assert metadata["status"] == "canonical", f"{slug} is not canonical"
+        assert metadata["evidence_level"] in {"standard", "limited"}
+        assert isinstance(metadata["related"], list)
+        assert isinstance(metadata["subsets"], list)
+        for section in CANONICAL_ENTRY_SECTIONS:
+            assert section in text, f"{slug} missing {section}"
+        assert target_schema_warnings(metadata, text, known_slugs) == []
 
 
 def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
