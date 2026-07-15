@@ -2,12 +2,12 @@
 slug: risograph
 label: Risograph
 first_researched: "2026-06-16"
-last_updated: "2026-06-16"
+last_updated: "2026-07-15"
 source: print-process sources + design-community examples
 image_count: 0
 evidence_level: limited
 new_aesthetic: false
-aliases: [risography, "riso print", riso-print]
+aliases: [risography, "riso print", riso-print, "riso aesthetic", "spot-color print"]
 ---
 
 # Risograph
@@ -34,6 +34,12 @@ aliases: [risography, "riso print", riso-print]
 | **Motion** | static-first; ink-pass reveal and registration slip | poster pull or sheet-stack shifts | no elastic toy motion |
 | **Spatial** | editorial spread, zine/program grid, generous margins | asymmetric modules and margin notes | dashboard density is off-model |
 | **Cultural markers** | zines, print fairs, duplicator drums, fluorescent soy ink | small-run art publishing | generic vintage print without spot-color logic |
+
+---
+
+## Image Descriptions
+
+No image corpus was collected for this limited-evidence profile (`image_count: 0`). The dimensional synthesis above is grounded in the cited source links and the implementation brief rather than reviewed image evidence; future canonical migration should not treat this profile as having source-backed visual corpus descriptions until images are collected.
 
 ---
 

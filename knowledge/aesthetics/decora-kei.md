@@ -2,12 +2,12 @@
 slug: decora-kei
 label: Decora Kei
 first_researched: "2026-06-16"
-last_updated: "2026-06-16"
+last_updated: "2026-07-15"
 source: subculture writing + academic fashion research
 image_count: 0
 evidence_level: limited
 new_aesthetic: false
-aliases: [decora, "Harajuku decora", "decora fashion"]
+aliases: [decora, "Harajuku decora", "decora fashion", "kawaii accessory stacking", "decorative kei"]
 ---
 
 # Decora Kei
@@ -34,6 +34,12 @@ aliases: [decora, "Harajuku decora", "decora fashion"]
 | **Motion** | bounce, sticker pop, confetti, badge attach | elastic but quick microinteractions | slow ceremonial motion |
 | **Spatial** | dense edges with readable center; sticker-book/social profile logic | inventories, friend cards, collectible grids | pure chaos without content islands |
 | **Cultural markers** | Harajuku street snaps, hair clips, bead bracelets, kawaii characters | DIY accessory overload | cynical kawaii-overload parody |
+
+---
+
+## Image Descriptions
+
+No image corpus was collected for this limited-evidence profile (`image_count: 0`). The dimensional synthesis above is grounded in the cited source links and the implementation brief rather than reviewed image evidence; future canonical migration should not treat this profile as having source-backed visual corpus descriptions until images are collected.
 
 ---
 

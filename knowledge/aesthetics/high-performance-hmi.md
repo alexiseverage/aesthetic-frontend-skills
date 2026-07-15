@@ -2,12 +2,12 @@
 slug: high-performance-hmi
 label: High-performance HMI
 first_researched: "2026-06-16"
-last_updated: "2026-06-16"
+last_updated: "2026-07-15"
 source: ISA-101 + industrial HMI literature
 image_count: 0
 evidence_level: limited
 new_aesthetic: false
-aliases: ["HP HMI", "high-performance SCADA graphics", "process-operator graphics"]
+aliases: ["HP HMI", "High Performance SCADA", "high-performance SCADA graphics", "process-operator graphics", "operator-centered industrial UI"]
 ---
 
 # High-performance HMI
@@ -32,6 +32,12 @@ aliases: ["HP HMI", "high-performance SCADA graphics", "process-operator graphic
 | **Motion** | state-driven updates, trend scroll, alarm escalation | short linear value transitions | no decorative motion |
 | **Spatial** | overview-first dense dashboard; persistent alarm/status zones | split overview/detail layouts | mobile crops that reduce density but keep exception hierarchy |
 | **Cultural markers** | tank/pipe diagrams, KPI tiles, alarm priority tables, trends | operator logs and maintenance chips | SCADA nostalgia only if clearly subordinated to modern readability |
+
+---
+
+## Image Descriptions
+
+No image corpus was collected for this limited-evidence profile (`image_count: 0`). The dimensional synthesis above is grounded in the cited source links and the implementation brief rather than reviewed image evidence; future canonical migration should not treat this profile as having source-backed visual corpus descriptions until images are collected.
 
 ---
 
