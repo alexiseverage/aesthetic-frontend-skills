@@ -51,6 +51,40 @@ def test_makefile_exposes_standard_tooling_targets():
         assert f"{target}:" in text
 
 
+def test_readme_covers_public_positioning_and_maintainer_workflow():
+    readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
+
+    required_phrases = [
+        "turn named aesthetics into frontend design direction",
+        "CSS custom properties",
+        "design tokens",
+        "implementation guidance",
+        "Which skill should I use?",
+        "Example prompts",
+        "Data model",
+        "Maintainer workflow",
+        "Validation commands",
+        "Quick install",
+        "aesthetic-literacy",
+        "aesthetic-application",
+    ]
+
+    for phrase in required_phrases:
+        assert phrase in readme
+
+
+def test_ci_runs_release_validation_and_skills_discovery():
+    workflow = REPO_ROOT / ".github" / "workflows" / "check.yml"
+
+    assert workflow.exists()
+    text = workflow.read_text(encoding="utf-8")
+    assert "make check" in text
+    assert "python3 scripts/generate_aesthetic_index.py --check" in text
+    assert "npx skills add . -l --full-depth" in text
+    assert "/" + "home/" not in text
+    assert "~/" + ".hermes/node/bin" not in text
+
+
 def test_copilot_template_uses_skills_cli_name():
     text = (REPO_ROOT / "copilot-instructions.template.md").read_text(encoding="utf-8")
 
