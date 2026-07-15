@@ -2,12 +2,12 @@
 slug: mexican-rotulismo
 label: Mexican Rotulismo
 first_researched: "2026-06-16"
-last_updated: "2026-06-16"
+last_updated: "2026-07-15"
 source: regional design essays + sign-painter documentation
 image_count: 0
 evidence_level: limited
 new_aesthetic: false
-aliases: ["Mexican Rótulos", "rotulismo mexicano", "Mexican rotulos", "rótulo vernacular"]
+aliases: ["Mexican Rótulos", "rotulismo mexicano", "Mexican rotulos", "rótulo vernacular", "hand-painted Mexican signs"]
 ---
 
 # Mexican Rotulismo
@@ -33,6 +33,12 @@ aliases: ["Mexican Rótulos", "rotulismo mexicano", "Mexican rotulos", "rótulo 
 | **Motion** | bounce, mascot nudge, marquee pulse, paint wipe | short friendly attention cues | casino-like motion is off-model |
 | **Spatial** | dense friendly storefront stacking | image-plus-label service modules | gallery-poster isolation is a mismatch |
 | **Cultural markers** | neighborhood commerce, food mascots, pictorial service signs | Spanish outlined lettering, humor | tourist-kitsch stereotypes to avoid |
+
+---
+
+## Image Descriptions
+
+No image corpus was collected for this limited-evidence profile (`image_count: 0`). The dimensional synthesis above is grounded in the cited source links and the implementation brief rather than reviewed image evidence; future canonical migration should not treat this profile as having source-backed visual corpus descriptions until images are collected.
 
 ---
 

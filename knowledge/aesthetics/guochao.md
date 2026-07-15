@@ -2,12 +2,12 @@
 slug: guochao
 label: Guochao
 first_researched: "2026-06-16"
-last_updated: "2026-06-16"
+last_updated: "2026-07-15"
 source: marketing/design research sources
 image_count: 0
 evidence_level: limited
 new_aesthetic: false
-aliases: ["China-chic", "guochao branding", "guochao packaging", "国潮"]
+aliases: ["China-chic", "guochao branding", "guochao packaging", "国潮", "Chinese heritage revival branding"]
 ---
 
 # Guochao
@@ -33,6 +33,12 @@ aliases: ["China-chic", "guochao branding", "guochao packaging", "国潮"]
 | **Motion** | ceremonial reveals, stamp impacts, slow scroll procession | foil glints and restrained parallax | hyperactive kawaii/game motion |
 | **Spatial** | premium commerce heroes, framed story panels, product grids | dense accent zones around spacious product focus | unstructured maximalism |
 | **Cultural markers** | contemporary Chinese brand confidence, seals, calligraphy, festival packaging | opera/court/folk motifs used selectively | orientalist fantasy and shallow dragons |
+
+---
+
+## Image Descriptions
+
+No image corpus was collected for this limited-evidence profile (`image_count: 0`). The dimensional synthesis above is grounded in the cited source links and the implementation brief rather than reviewed image evidence; future canonical migration should not treat this profile as having source-backed visual corpus descriptions until images are collected.
 
 ---
 
