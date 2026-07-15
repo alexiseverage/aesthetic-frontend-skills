@@ -92,9 +92,20 @@ ENTERTAINMENT_SPECULATIVE_CANONICAL_BATCH = [
 ]
 PROFILE_BACKED_NONCANONICAL_BATCH = [
     "aesthetic-movement",
+    "corporate-grunge",
     "dreamcore-weirdcore",
     "liminal-space-backrooms",
+    "mid-century-modern",
     "nu-goth-pastel-goth",
+    "solarpunk",
+    "warm-minimalism",
+]
+DIGITAL_SYSTEM_CANONICAL_BATCH = [
+    "8-bit-pixel",
+    "flat-design",
+    "material-design",
+    "neumorphism",
+    "skeuomorphism",
 ]
 CANONICAL_ENTRY_SECTIONS = [
     "## Scope",
@@ -189,6 +200,24 @@ def test_profile_backed_noncanonical_batch_has_no_target_schema_warnings():
     known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
 
     for slug in PROFILE_BACKED_NONCANONICAL_BATCH:
+        path = dictionary_root / f"{slug}.md"
+        text = path.read_text(encoding="utf-8")
+        metadata = _frontmatter(path)
+
+        assert metadata["status"] == "canonical", f"{slug} is not canonical"
+        assert metadata["evidence_level"] in {"standard", "limited"}
+        assert isinstance(metadata["related"], list)
+        assert isinstance(metadata["subsets"], list)
+        for section in CANONICAL_ENTRY_SECTIONS:
+            assert section in text, f"{slug} missing {section}"
+        assert target_schema_warnings(metadata, text, known_slugs) == []
+
+
+def test_digital_system_batch_has_no_target_schema_warnings():
+    dictionary_root = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics"
+    known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
+
+    for slug in DIGITAL_SYSTEM_CANONICAL_BATCH:
         path = dictionary_root / f"{slug}.md"
         text = path.read_text(encoding="utf-8")
         metadata = _frontmatter(path)
