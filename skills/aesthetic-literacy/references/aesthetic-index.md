@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 122
+- Full entries: 123
 - Redirect entries: 1
 - Families: 8
 
@@ -54,6 +54,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `synthwave` | Synthwave / Retrowave | retrowave |
 | `vaporwave` | Vaporwave | vapor |
 | `web-2-gloss` | Web 2.0 Gloss | Web 2.0 design, beta aesthetic |
+| `xlyk` | Xlyk | — |
 | `y2k` | Y2K | Y2K Futurism, Cyber Y2K |
 
 ## emerging-hybrid
