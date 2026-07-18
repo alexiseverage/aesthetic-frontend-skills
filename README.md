@@ -1,15 +1,75 @@
-# Aesthetic Frontend Skills ✨
+<p align="center">
+  <a href="https://aesthetic-design.art">
+    <img src="screenshots/aesthetic-frontend-skills-logo.gif" alt="Aesthetic Frontend Skills" width="680" />
+  </a>
+</p>
 
-[![skills.sh](https://skills.sh/b/alexiseverage/aesthetic-frontend-skills)](https://skills.sh/alexiseverage/aesthetic-frontend-skills)
+<p align="center">
+  Turn named aesthetics into frontend design direction, CSS custom properties, design tokens, and implementation guidance for AI agents.
+</p>
 
-A focused two-skill package for AI agents that need to turn named aesthetics into frontend design direction, CSS custom properties, design tokens, and implementation guidance. Use it when a product brief says "make this feel like Y2K," "apply dark academia," or "give me usable tokens for a vaporwave interface" and the agent needs a grounded, repeatable way to move from cultural style language to developer-ready UI decisions.
+<p align="center">
+  <a href="https://aesthetic-design.art"><img alt="Browse the website" src="https://img.shields.io/badge/browse-aesthetic--design.art-ff5fa2?style=for-the-badge" /></a>
+  <a href="https://skills.sh/alexiseverage/aesthetic-frontend-skills"><img alt="Install on skills.sh" src="https://skills.sh/b/alexiseverage/aesthetic-frontend-skills" /></a>
+  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-111111?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <a href="#quick-install">Quick install</a>
+  ·
+  <a href="#which-skill-should-i-use">Choose a skill</a>
+  ·
+  <a href="#aesthetic-examples">Aesthetic examples</a>
+  ·
+  <a href="https://aesthetic-design.art">Live showcase</a>
+</p>
+
+## What it is
+
+A focused two-skill package for AI agents that need a grounded, repeatable way to move from cultural style language to developer-ready UI decisions. Use it when a product brief says "make this feel like Y2K," "apply dark academia," or "give me usable tokens for a vaporwave interface."
 
 The public package intentionally exposes only two skills:
 
-- `aesthetic-literacy` for identifying, disambiguating, and characterizing aesthetics.
-- `aesthetic-application` for translating a confirmed aesthetic into tokens, CSS variables, cultural markers, component notes, and implementation flags.
+| Skill | Use it for | Produces |
+| --- | --- | --- |
+| [`aesthetic-literacy`](skills/aesthetic-literacy/SKILL.md) | Identifying, disambiguating, and characterizing aesthetics | Canonical slugs, 7-dimension profiles, connotation notes, and anti-patterns |
+| [`aesthetic-application`](skills/aesthetic-application/SKILL.md) | Translating a confirmed aesthetic into frontend guidance | Tokens, CSS variables, cultural markers, component notes, and implementation flags |
 
 Scope boundary: this package covers aesthetics. It can flag accessibility, dark-mode, and reduced-motion conflicts, but it does not replace your product accessibility, layout, component architecture, or performance standards.
+
+## Aesthetic examples
+
+The website shows how the vocabulary becomes concrete interface direction across very different visual systems.
+
+This package includes 124 aesthetics. These are a small sample; browse the full live showcase at [aesthetic-design.art/showcase](https://aesthetic-design.art/showcase).
+
+These examples are generated components from the package's aesthetic vocabulary. They are illustrative, not a deployment guarantee.
+
+<div align="center">
+
+<table align="center">
+<tr>
+  <td align="center" width="50%"><a href="screenshots/claymorphism.png"><img src="screenshots/claymorphism.png" width="340" alt="Claymorphism showcase"/></a><br/><sub>Claymorphism</sub></td>
+  <td align="center" width="50%"><a href="screenshots/decora-kei.png"><img src="screenshots/decora-kei.png" width="340" alt="Decora Kei showcase"/></a><br/><sub>Decora Kei</sub></td>
+</tr>
+<tr>
+  <td align="center" width="50%"><a href="screenshots/polish-poster-school.png"><img src="screenshots/polish-poster-school.png" width="340" alt="Polish Poster School showcase"/></a><br/><sub>Polish Poster School</sub></td>
+  <td align="center" width="50%"><a href="screenshots/harm-reduction-zine.png"><img src="screenshots/harm-reduction-zine.png" width="340" alt="Harm Reduction Zine showcase"/></a><br/><sub>Harm Reduction Zine</sub></td>
+</tr>
+<tr>
+  <td align="center" width="50%"><a href="screenshots/risograph.png"><img src="screenshots/risograph.png" width="340" alt="Risograph showcase"/></a><br/><sub>Risograph</sub></td>
+  <td align="center" width="50%"><a href="screenshots/beaux-arts.png"><img src="screenshots/beaux-arts.png" width="340" alt="Beaux-Arts showcase"/></a><br/><sub>Beaux-Arts</sub></td>
+</tr>
+<tr>
+  <td align="center" width="50%"><a href="screenshots/prescription-label-clarity.png"><img src="screenshots/prescription-label-clarity.png" width="340" alt="Prescription Label Clarity showcase"/></a><br/><sub>Prescription Label Clarity</sub></td>
+  <td align="center" width="50%"><a href="screenshots/new-objectivity.png"><img src="screenshots/new-objectivity.png" width="340" alt="New Objectivity showcase"/></a><br/><sub>New Objectivity</sub></td>
+</tr>
+<tr>
+  <td align="center" colspan="2"><a href="screenshots/xlyk.png"><img src="screenshots/xlyk.png" width="680" alt="XLYK showcase"/></a><br/><sub>XLYK</sub></td>
+</tr>
+</table>
+
+</div>
 
 ## Outcomes
 
@@ -137,25 +197,3 @@ Trigger-selection fixtures live in `tests/trigger-evals/`. Each public skill lis
 
 5. Add or update trigger fixtures in `tests/trigger-evals/` when skill descriptions or routing behavior changes.
 6. Run the validation commands above and keep README/CI examples portable. Do not include machine-local paths in docs, generated files, commit messages, or PR text.
-
-## Screenshots
-
-These screenshots are examples of generated components from the package's aesthetic vocabulary. They are illustrative, not a deployment guarantee.
-
-<table>
-<tr>
-  <td align="center" width="33%"><a href="screenshots/claymorphism-component.png"><img src="screenshots/claymorphism-component.png" width="220" alt="Claymorphism"/></a><br/><sub>Claymorphism</sub></td>
-  <td align="center" width="33%"><a href="screenshots/dark-academia-component.png"><img src="screenshots/dark-academia-component.png" width="220" alt="Dark Academia"/></a><br/><sub>Dark Academia</sub></td>
-  <td align="center" width="33%"><a href="screenshots/new-wave-typography-component.png"><img src="screenshots/new-wave-typography-component.png" width="220" alt="New Wave Typography"/></a><br/><sub>New Wave Typography</sub></td>
-</tr>
-<tr>
-  <td align="center" width="33%"><a href="screenshots/op-art-component.png"><img src="screenshots/op-art-component.png" width="220" alt="Op Art"/></a><br/><sub>Op Art</sub></td>
-  <td align="center" width="33%"><a href="screenshots/suprematism-component.png"><img src="screenshots/suprematism-component.png" width="220" alt="Suprematism"/></a><br/><sub>Suprematism</sub></td>
-  <td align="center" width="33%"><a href="screenshots/vaporwave-component.png"><img src="screenshots/vaporwave-component.png" width="220" alt="Vaporwave"/></a><br/><sub>Vaporwave</sub></td>
-</tr>
-<tr>
-  <td align="center" width="33%"><a href="screenshots/wartime-propaganda-component.png"><img src="screenshots/wartime-propaganda-component.png" width="220" alt="Wartime Propaganda"/></a><br/><sub>Wartime Propaganda</sub></td>
-  <td align="center" width="33%"><a href="screenshots/web-2-gloss-component.png"><img src="screenshots/web-2-gloss-component.png" width="220" alt="Web 2.0 Gloss"/></a><br/><sub>Web 2.0 Gloss</sub></td>
-  <td align="center" width="33%"><a href="screenshots/y2k-component.png"><img src="screenshots/y2k-component.png" width="220" alt="Y2K"/></a><br/><sub>Y2K</sub></td>
-</tr>
-</table>
