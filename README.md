@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Turn named aesthetics into frontend design direction, CSS custom properties, design tokens, and implementation guidance for AI agents.
+  turn named aesthetics into frontend design direction, CSS custom properties, design tokens, and implementation guidance for AI agents.
 </p>
 
 <p align="center">
