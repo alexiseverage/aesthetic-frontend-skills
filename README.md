@@ -41,7 +41,7 @@ Scope boundary: this package covers aesthetics. It can flag accessibility, dark-
 
 The website shows how the vocabulary becomes concrete interface direction across very different visual systems.
 
-This package includes 124 aesthetics. These are a small sample; browse the full live showcase at [aesthetic-design.art/showcase](https://aesthetic-design.art/showcase).
+This package includes 127 aesthetics. These are a small sample; browse the full live showcase at [aesthetic-design.art/showcase](https://aesthetic-design.art/showcase).
 
 These examples are generated components from the package's aesthetic vocabulary. They are illustrative, not a deployment guarantee.
 

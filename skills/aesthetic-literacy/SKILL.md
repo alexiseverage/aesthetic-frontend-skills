@@ -6,7 +6,7 @@ description: >
   cottagecore, dark academia, etc.), wants to compare or disambiguate aesthetics, or needs
   formal characterization before producing design tokens or assets. Provides the 7-dimension
   framework (palette, type, texture, shape, motion, spatial conventions, cultural markers)
-  and a curated dictionary of 124 major aesthetics. Foundation for aesthetic-application.
+  and a curated dictionary of 127 major aesthetics. Foundation for aesthetic-application.
   Do not use for component implementation, layout, or accessibility decisions.
 metadata:
   version: "1.0.0"
@@ -51,7 +51,7 @@ metadata:
 
 ## Summary
 
-Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 124 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
+Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 127 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
 Used as the foundation for `aesthetic-application`.
 
@@ -121,16 +121,16 @@ Skill-local references for installed users:
 
 | Family | Count | Representative Slugs |
 |---|---|---|
-| **Digital / Internet-Native** | 22 | y2k, vaporwave, synthwave, early-internet, glitch, frutiger-aero, 8-bit-pixel, skeuomorphism, web-2-gloss, flat-design, material-design, corporate-grunge, myspace-chaos, neumorphism, claymorphism, pen-and-pixel, j-gov-futurism, liminal-space-backrooms, dreamcore-weirdcore, ai-slop-synthetic-corporate-art, hauntology, xlyk |
-| **Contemporary Lifestyle** | 14 | cottagecore, dark-academia, warm-minimalism (supersedes quiet-luxury), maximalism, 1990s-minimalism, decora-kei, magical-girl, witchcore, gorpcore, balletcore, barbiecore, coastal-grandmother, goblincore, nu-goth-pastel-goth |
-| **Historical Design Movements** | 43 | art-nouveau, art-deco, swiss-international, bauhaus, ulm-school, polish-poster-school, shaker-design, high-tech-architecture, prairie-school, beaux-arts, italian-radical-design, new-objectivity, japanese-metabolism, aesthetic-movement, memphis, brutalism, arts-and-crafts, vienna-secession, futurism, vorticism, suprematism, constructivism, de-stijl, streamline-moderne, wpa-poster-style, wartime-propaganda, scandinavian-modern, die-neue-typographie, mid-century-modern, pop-art, op-art, psychedelic, atomic-age, punk-zine, new-wave-typography, grunge-typography, desktop-publishing, rave-flyer, city-pop, blue-note-jazz-modernism, chinoiserie, gothic-revival, wabi-sabi-slow-living |
+| **Digital / Internet-Native** | 23 | y2k, vaporwave, synthwave, early-internet, glitch, frutiger-aero, 8-bit-pixel, skeuomorphism, web-2-gloss, flat-design, material-design, corporate-grunge, myspace-chaos, neumorphism, claymorphism, pen-and-pixel, j-gov-futurism, liminal-space-backrooms, dreamcore-weirdcore, ai-slop-synthetic-corporate-art, hauntology, xlyk, clowncore |
+| **Contemporary Lifestyle** | 15 | cottagecore, dark-academia, warm-minimalism (supersedes quiet-luxury), maximalism, 1990s-minimalism, decora-kei, magical-girl, witchcore, gorpcore, balletcore, barbiecore, coastal-grandmother, goblincore, nu-goth-pastel-goth, kidcore |
+| **Historical Design Movements** | 44 | art-nouveau, art-deco, swiss-international, bauhaus, ulm-school, polish-poster-school, shaker-design, high-tech-architecture, prairie-school, beaux-arts, italian-radical-design, new-objectivity, japanese-metabolism, aesthetic-movement, memphis, brutalism, arts-and-crafts, vienna-secession, futurism, vorticism, suprematism, constructivism, de-stijl, streamline-moderne, wpa-poster-style, wartime-propaganda, scandinavian-modern, die-neue-typographie, mid-century-modern, pop-art, op-art, psychedelic, atomic-age, punk-zine, new-wave-typography, grunge-typography, desktop-publishing, rave-flyer, city-pop, blue-note-jazz-modernism, chinoiserie, gothic-revival, wabi-sabi-slow-living, pierrotcore |
 | **Emerging / Hybrid** | 9 | organic-digital, solarpunk, corporate-memphis, glassmorphism, neubrutalism, quiet-luxury (redirect → warm-minimalism), cybersigilism, scandi-noir, storybook-gothic |
 | **Technical / Institutional** | 5 | high-performance-hmi, sports-scorebug, prescription-label-clarity, bloomberg-terminal-monochrome, cheminformatics-map-explorer |
 | **Material / Print Craft** | 4 | risograph, harm-reduction-zine, queer-nightlife-ephemera, fairground-carnival-poster-art |
 | **Vernacular / Commercial** | 11 | mexican-rotulismo, guochao, konbini-utility, convenience-store-backoffice, b2b-quick-order-grid, lotto, casino, tiki-polynesian-pop, chicano-lowrider-art, board-game-box-art, trading-card-game-design |
 | **Speculative / Robotics** | 16 | cyberpunk, cassette-futurism, nanopunk, techno-noir, apple-core-tech, uncanny-android, dieselpunk, steampunk, post-apocalyptic-scavenged-tech, space-western, cute-tech, companion-bot, mecha-kaiju, anime-mecha-realism, biomechanical, chibi-mecha |
 
-*Full listing: see `aesthetics/` directory. 124 total entries across 8 families.*
+*Full listing: see `aesthetics/` directory. 127 total entries across 8 families.*
 
 Each entry specifies: palette, type, texture, shape, motion, spatial conventions, cultural markers, non-negotiables, connotation, and subsets/related aesthetics (where applicable). Fatigue notes appear where applicable.
 
