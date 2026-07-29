@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 123
+- Full entries: 126
 - Redirect entries: 1
 - Families: 8
 
@@ -27,6 +27,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `decora-kei` | Decora Kei | decora, Harajuku decora, decora fashion, kawaii accessory stacking, decorative kei |
 | `goblincore` | Goblincore | mushroomcore, mosscore, dirtcore-adjacent |
 | `gorpcore` | Gorpcore | outdoorswear streetwear, trail utility fashion, hikingcore-adjacent |
+| `kidcore` | Kidcore | kid core, kidcore aesthetic |
 | `magical-girl` | Magical Girl | mahou shoujo, magical heroine, transformation heroine aesthetic |
 | `maximalism` | Maximalism | — |
 | `nu-goth-pastel-goth` | Nu-Goth / Pastel Goth | nu goth, pastel goth, modern goth fashion |
@@ -39,6 +40,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | --- | --- | --- |
 | `8-bit-pixel` | 8-Bit / Pixel Aesthetic | pixel art, 8-bit, CGA aesthetic, pixel aesthetic |
 | `ai-slop-synthetic-corporate-art` | AI Slop / Synthetic Corporate Art | AI slop, synthetic corporate art, AI-generated corporate illustration |
+| `clowncore` | Clowncore | clown core, clowncore aesthetic |
 | `desktop-publishing` | Desktop Publishing / Early Mac Aesthetic | DTP aesthetic, Macintosh Bitmap Era, early Mac aesthetic, PageMaker aesthetic |
 | `dreamcore-weirdcore` | Dreamcore / Weirdcore | dreamcore, weirdcore, liminal dream edit |
 | `early-internet` | Early Internet / Web 1.0 | webcore |
@@ -104,6 +106,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `new-wave-typography` | New Wave Typography / Swiss Punk | Swiss Punk, New Wave Design, Swiss New Wave, Weingart Style |
 | `op-art` | Op Art | Optical Art, Optical Illusion Art, Retinal Art |
 | `pen-and-pixel` | Pen & Pixel / Bling Era Graphics | Pen and Pixel, bling era, No Limit aesthetic, Cash Money graphics, Southern rap album design |
+| `pierrotcore` | Pierrotcore | pierrot core, pierrot aesthetic, harlequin, jestercore |
 | `polish-poster-school` | Polish Poster School | Polish School of Posters, Polska Szkoła Plakatu, Polish film poster art |
 | `pop-art` | Pop Art | Pop, Pop Art Movement |
 | `prairie-school` | Prairie School | Prairie style, Prairie architecture, Frank Lloyd Wright Prairie style |

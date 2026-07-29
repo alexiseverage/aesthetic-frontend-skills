@@ -70,6 +70,9 @@ SELECTED_AESTHETICS = {
     "new-objectivity": "New Objectivity / Neue Sachlichkeit",
     "japanese-metabolism": "Japanese Metabolism",
     "aesthetic-movement": "Aesthetic Movement",
+    "clowncore": "Clowncore",
+    "kidcore": "Kidcore",
+    "pierrotcore": "Pierrotcore",
 }
 ENTERTAINMENT_SPECULATIVE_CANONICAL_BATCH = [
     "ai-slop-synthetic-corporate-art",
@@ -236,8 +239,8 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
         encoding="utf-8"
     )
 
-    assert "curated dictionary of 124 major aesthetics" in text
-    assert "124 total entries" in text
+    assert "curated dictionary of 127 major aesthetics" in text
+    assert "127 total entries" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
 
