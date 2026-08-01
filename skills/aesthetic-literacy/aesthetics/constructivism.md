@@ -3,41 +3,69 @@ slug: constructivism
 label: Russian Constructivism
 family: historical-design-movements
 era: 1917–1934
-aliases: ["Constructivist", "Soviet Constructivism", "Russian avant-garde"]
+aliases:
+  - Constructivist
+  - Soviet Constructivism
+  - Russian avant-garde
+status: canonical
+evidence_level: limited
+related:
+  - die-neue-typographie
+  - suprematism
+  - wpa-poster-style
+subsets: []
 ---
 
-**Palette**: Revolutionary triad — red (#cc0000), black (#1a1a1a), white (#ffffff); yellow accent (#ffcc00) for urgency; occasional blue-gray (#4a5b6b) for industrial steel tones; strictly limited — 3 to 4 colors maximum
-
-**Type**: Bold condensed sans-serif, nearly always all-caps; angular, aggressively scaled; type is a weapon of mass communication, not a refinement; Rodchenko's typography as visual shouting
-
-**Texture**: Photomontage grain — layered photographic cutouts with visible edges; lithographic flat ink solids; no gradients, no painterly surface; industrial material honesty: paper, ink, metal
-
-**Shape**: Sharp triangles (the Red Wedge — Lissitzky's iconic form), circles, rectangles, diagonal thrust lines; interlocking geometric forms; nothing rounded, nothing soft
-
-**Motion**: Diagonal dynamic energy — compositions thrust across the frame at 30°–45° angles; overlapping planes create collision and urgency; nothing is static, nothing is at rest
-
-**Spatial**: Abstract, depthless — forms float or collide in an undefined space; overlapping geometric planes create depth without perspective; the diagonal rules every axis — there is no true horizontal or vertical
-
-**Cultural markers**: Lissitzky's *Beat the Whites with the Red Wedge* (1919); Rodchenko's photomontage posters; the ROSTA Windows (multi-panel sequential news posters); Stenberg brothers' film posters; art as political instrument for the masses
-
-**Non-negotiables**: diagonal dynamic composition + photomontage + red/black/white palette
-
-## Connotation
-
-**Authentic** — original Soviet Constructivism (1917–1934) was revolutionary propaganda, not decoration. The red/black/white palette, photomontage, and diagonal energy were tools for mass political communication — art into production, artists into engineers. **Nostalgic quotation** — post-Soviet and Western design (1980s–2000s) borrows Constructivist visual language for "revolutionary" or "radical" brand energy without the political content: album covers, fashion campaigns, activist graphics. **Contemporary revival** — modern political movements, street art, and agitprop designers return to Constructivist forms for genuine protest communication, closing the loop to authentic mode. **Ironic pastiche** — rare; Constructivism's association with serious political violence makes irony difficult and usually tasteless. The forms carry too much historical weight to be used lightly.
+# Russian Constructivism
 
 ## Scope
 
-**Suitable for**: political campaign materials, activist organization websites, protest art portfolios, social-justice platform branding, documentary film sites, East European cultural institutions — any project where combative, urgent, revolutionary energy is appropriate. The diagonal-thrust composition excels at billboard/hero-section impact. **NOT suitable for**: corporate websites, e-commerce, healthcare platforms, children's products, luxury branding, or any context requiring calm, trust, or approachability. The aesthetic is designed to agitate — it actively fights user comfort. Avoid in accessibility-critical interfaces (photocopy-textured backgrounds hurt readability). The aggressive spatial language works against information hierarchy and scannability.
+Russian Constructivism is revolutionary avant-garde communication built from diagonal geometry, photomontage, industrial materiality, and propaganda-grade typography. Use it for urgent public messaging, campaign surfaces, editorial systems, or product stories that need collective, industrial, high-impact force. It is not neutral edgy poster design, generic red-black branding, or soft geometric modernism.
 
-## Subsets / Related
-- [[bauhaus]] — distinct contemporary, frequently confused. Key differences: Constructivism uses **diagonals** (Bauhaus = orthogonal), **photomontage** (Bauhaus = painting/weaving/metalwork), a **strictly limited palette** (Bauhaus = broader), and serves **political/agitational purpose** (Bauhaus = craft-industry synthesis). Cross-pollination occurred (Moholy-Nagy, Kandinsky taught at Bauhaus) but the visual languages are independent.
-- [[futurism]] — precursor; Futurism's dynamic energy and angular composition fed into Constructivism, but Constructivism replaced machine-worship with social purpose and codified a stricter visual system
-- [[de-stijl]] — parallel abstraction; De Stijl is orthogonal grid, Constructivism is diagonal collision
+## 7-Dimension Profile
+
+**Palette**: Red, black, white, off-white paper, occasional yellow, and steel blue-gray. Keep the palette limited and signal-driven; color is urgency, labor, and contrast.
+
+**Type**: Bold condensed sans-serif, all-caps commands, angled headlines, numerals, captions, and typography as mass communication. Type should feel like a tool, placard, or megaphone.
+
+**Texture**: Photomontage grain, newsprint, poster paste, lithographic flat ink, rough paper, visible cut edges, and industrial metal cues. Avoid glossy gradient polish.
+
+**Shape**: Diagonal wedges, triangles, bars, circles, arrows, rays, interlocking planes, and strong crops. The “red wedge” logic and geometric collision should be legible.
+
+**Motion**: Urgent diagonal thrust, collision, overlap, zoom, and directional command. Motion should move the eye through argument and mobilization, not entertainment.
+
+**Spatial**: Depthless abstract field with overlapping planes, tilted axes, photomontage insertions, and strong diagonal hierarchy. Avoid calm centered symmetry.
+
+**Cultural markers**: Lissitzky’s wedge logic, Rodchenko photomontage, ROSTA-style public messaging, Stenberg film-poster energy, industrial production, and art-as-social-instrument rhetoric.
+
+## Non-Negotiables
+
+**Non-negotiables**: Diagonal command structure, limited revolutionary palette, propaganda-grade typography, and industrial/public-purpose framing are mandatory. Without them it becomes generic high-contrast modernism.
+
+## Connotation
+
+Constructivism is historically tied to Soviet revolutionary politics, propaganda, and the idea of artists as engineers for mass communication. It can feel urgent, collective, and materially purposeful; it can also feel coercive or propagandistic when used casually.
+
+## Related / Subsets
+
+Related: `die-neue-typographie` inherits asymmetry and sans-serif clarity but redirects them toward information design; `suprematism` shares Russian abstraction but is metaphysical and non-utilitarian; `wpa-poster-style` also serves public messaging but is more civic, illustrative, and centered.
+
+## Frontend / UI Guidance
+
+Use diagonal hero systems, bold command CTAs, montage-like media blocks, stark badges, and public-information hierarchy. Reserve the strongest red/black contrasts for calls to action, alerts, or editorial emphasis. Keep flows understandable; agitation should not break usability.
 
 ## CSS Translation
-- **Palette**: `--ct-red: #cc0000; --ct-black: #1a1a1a; --ct-white: #ffffff; --ct-yellow: #ffcc00;`
-- **Google Fonts**: Bebas Neue, Anton, Oswald — condensed bold sans-serifs; all-caps `text-transform: uppercase` is essential
-- **Texture**: `mix-blend-mode: multiply` for photomontage layering; `filter: grayscale() + contrast()` on photographic elements; flat ink solids with no gradients
-- **Border-radius**: 0px — sharp geometry; acute angles everywhere
-- **Layout**: Diagonal thrust — `transform: rotate(-15deg)` on key composition blocks; `position: absolute` layered elements; thick red/black rule lines as dividers; overlapping image and shape layers with blend modes
+
+Use skewed panels, clipped polygons, hard color blocks, halftone/noise overlays, duotone photos, thick rules, and layered absolute-positioned planes. Use transforms and clip-path for diagonal thrust, with accessible fallback layouts that preserve hierarchy without relying only on angle.
+
+## Typography / Fonts
+
+Choose bold condensed sans or sturdy grotesk families for display, with readable sans for body text. Use all caps selectively for commands and labels; do not set long passages in shouted display type.
+
+## Cultural / Ethical Notes
+
+Do not borrow revolutionary or Soviet propaganda rhetoric as empty decoration. Keep political references contextual, avoid authoritarian glamour, and be careful using the visual language for commercial manipulation or sensitive civic content.
+
+## Anti-Patterns
+
+Avoid soft rounded UI, pastel palettes, luxury scripts, neutral corporate grids, decorative diagonals with no message hierarchy, or treating photomontage as random collage noise.

@@ -110,6 +110,15 @@ DIGITAL_SYSTEM_CANONICAL_BATCH = [
     "neumorphism",
     "skeuomorphism",
 ]
+HISTORICAL_AVANT_GARDE_CANONICAL_BATCH = [
+    "arts-and-crafts",
+    "bauhaus",
+    "constructivism",
+    "de-stijl",
+    "die-neue-typographie",
+    "suprematism",
+    "vorticism",
+]
 CANONICAL_ENTRY_SECTIONS = [
     "## Scope",
     "## 7-Dimension Profile",
@@ -221,6 +230,24 @@ def test_digital_system_batch_has_no_target_schema_warnings():
     known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
 
     for slug in DIGITAL_SYSTEM_CANONICAL_BATCH:
+        path = dictionary_root / f"{slug}.md"
+        text = path.read_text(encoding="utf-8")
+        metadata = _frontmatter(path)
+
+        assert metadata["status"] == "canonical", f"{slug} is not canonical"
+        assert metadata["evidence_level"] in {"standard", "limited"}
+        assert isinstance(metadata["related"], list)
+        assert isinstance(metadata["subsets"], list)
+        for section in CANONICAL_ENTRY_SECTIONS:
+            assert section in text, f"{slug} missing {section}"
+        assert target_schema_warnings(metadata, text, known_slugs) == []
+
+
+def test_historical_avant_garde_batch_has_no_target_schema_warnings():
+    dictionary_root = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics"
+    known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
+
+    for slug in HISTORICAL_AVANT_GARDE_CANONICAL_BATCH:
         path = dictionary_root / f"{slug}.md"
         text = path.read_text(encoding="utf-8")
         metadata = _frontmatter(path)

@@ -3,39 +3,68 @@ slug: arts-and-crafts
 label: Arts and Crafts Movement
 family: historical-design-movements
 era: 1880–1910
-aliases: ["Arts & Crafts", "William Morris style"]
+aliases:
+  - Arts & Crafts
+  - William Morris style
+status: canonical
+evidence_level: limited
+related:
+  - aesthetic-movement
+  - art-nouveau
+  - shaker-design
+subsets: []
 ---
 
-**Palette**: Deep forest green (#2d4a22), terracotta (#c47351), indigo (#2b3a67), mustard (#d4953a), oxblood (#5e1f1f), cream (#f5f0e1), natural oak brown (#8b6914)
-
-**Type**: Gothic-revival letterforms; medieval-inspired hand-drawn initials; Kelmscott Press style — dense, decorative, integrated into the page as craft
-
-**Texture**: Hand-woven textile grain; visible wood grain (quartersawn oak); hammered metal surface; hand-stamped pattern repeats; unfinished edges — the maker's hand is always present
-
-**Shape**: Medieval vernacular forms — trefoils, quatrefoils, structured botanical curves; stylized flora organized into ordered repeats (not the sinuous whiplash of Art Nouveau)
-
-**Motion**: Still — the rhythm is in the pattern repeat, not in implied movement; contemplative rather than kinetic
-
-**Spatial**: Dense layered pattern ("horror vacui" in textiles and wallpapers); honest structural expression in furniture — every joint and tenon visible; rooms as integrated handcrafted environments
-
-**Cultural markers**: William Morris wallpaper repeats; Kelmscott Chaucer page design; Voysey's bird-and-tree motifs; Mackay Hugh Baillie Scott's inglenook fireplaces; the "truth to materials" credo
-
-**Non-negotiables**: visible handcraft texture + natural earth palette + medieval/botanical structured ornament
-
-## Connotation
-
-**Authentic** — the original movement (1880–1910) was a genuine anti-industrial protest: Morris and Ruskin argued for labor, beauty, and human dignity as moral positions, not style choices. The handcraft texture and truth-to-materials were political commitments. **Nostalgic quotation** — 1970s–1990s craft revival and boutique hospitality branding (farm-to-table restaurants, craft breweries, artisan bakeries) borrowing Morris patterns and handcraft signifiers to signal authenticity. **Contemporary revival** — the 2020s maker movement, visible mending, slow-design philosophy, and the reaction against AI-generated imagery: the visible human hand reclaimed as moral value. **Ironic pastiche** is virtually absent — the movement's earnest moral gravity resists irony.
+# Arts and Crafts Movement
 
 ## Scope
 
-**Suitable for**: artisan/craft brand websites, farm-to-table restaurant sites, boutique hospitality, maker portfolios, heritage/conservation organizations, book covers (literary fiction and poetry), slow-fashion e-commerce — any project where "handmade," "authentic," or "heritage" are core brand values. The aesthetic supports storytelling about craft, origin, and human care. **NOT suitable for**: tech startups, SaaS dashboards, fintech, corporate annual reports, government services, or any interface requiring speed/efficiency over contemplation. The dense pattern-and-texture language fights against scannability and quick information retrieval. Avoid when the audience expects modern minimalism — the aesthetic reads as "fussy" or "old-fashioned" rather than "crafted."
+Arts and Crafts is a late nineteenth- and early twentieth-century reform design language built around visible hand labor, honest materials, medieval and vernacular revival, and domestic-scale dignity. Use it when an interface should feel crafted, material, reform-minded, bookish, or workshop-rooted. It is not generic cottagecore, luxury rustic branding, or Art Nouveau: its botanical ornament is structured and made, not sinuous spectacle.
 
-## Subsets / Related
-- [[art-nouveau]] — historically adjacent; Arts and Crafts predates and philosophically opposes Art Nouveau's embrace of industrial materials, but both share a nature-derived visual vocabulary; the British Modern Style (Art Nouveau variant) grew directly from Arts and Crafts roots
+## 7-Dimension Profile
+
+**Palette**: Forest green, oxblood, indigo, terracotta, mustard, cream, and natural wood browns. Color should feel dyed, stained, woven, printed, or hand-mixed rather than synthetic.
+
+**Type**: Old-style serif or medievalist display, dense bookish initials, and humanist body faces. Lettering can be decorative, but should feel integrated into a page, border, or object rather than pasted on as advertising.
+
+**Texture**: Woven textile grain, wood grain, hammered metal, hand-block print irregularity, glazed tile, paper tooth, linen, and visible seams or joints. The maker's hand should remain legible.
+
+**Shape**: Trefoils, quatrefoils, structured botanical repeats, carved panels, honest joinery, rectilinear furniture frames, and vernacular domestic forms. Ornament is ordered and repeatable, not freeform whiplash.
+
+**Motion**: Mostly still and contemplative. If animated, use slow reveal, page-turn, weaving, stamping, or pattern-repeat motion rather than kinetic spectacle.
+
+**Spatial**: Dense patterned fields balanced by handcrafted framing, borders, panels, and room-like grouping. Let joints, dividers, and margins express construction rather than hiding it.
+
+**Cultural markers**: William Morris wallpaper repeats, Kelmscott Press density, Voysey bird-and-tree motifs, inglenook/fireplace domesticity, quartersawn oak, truth-to-materials language, and anti-industrial craft ethics.
+
+## Non-Negotiables
+
+**Non-negotiables**: Visible craft texture, material earth palette, structured medieval/botanical ornament, and an anti-industrial human scale must survive the translation. Remove those and the result becomes generic heritage decor.
+
+## Connotation
+
+Arts and Crafts carries authentic reformist and labor-critical associations: Morris and Ruskin argued that beauty, dignity, material honesty, and labor conditions belonged together. Contemporary use can feel warm, ethical, slow, and artisanal, but it can also become nostalgic boutique shorthand if separated from the craft and reform context.
+
+## Related / Subsets
+
+Related: `aesthetic-movement` is richer, more decadent, and less reformist; `art-nouveau` shares organic total-design ambition but uses more fluid whiplash line; `shaker-design` shares moral restraint and material honesty but is far more austere. Subsets can emphasize Morris-print editorial surfaces, craft-workshop product UI, or domestic interior framing, but keep all variants material and human-made.
+
+## Frontend / UI Guidance
+
+Use patterned headers, bordered cards, book-like sections, careful dividers, and warm material panels. Favor tactile affordances, visible construction, and slower content pacing. Buttons can feel carved, printed, stitched, or set into panels, but must remain accessible and not disappear into ornament.
 
 ## CSS Translation
-- **Palette**: `--ac-forest: #2d4a22; --ac-terracotta: #c47351; --ac-indigo: #2b3a67; --ac-mustard: #d4953a; --ac-oxblood: #5e1f1f; --ac-cream: #f5f0e1;`
-- **Google Fonts**: Cinzel Decorative (medieval/gothic titling), IM Fell English (Kelmscott-adjacent serif), UnifrakturCook (blackletter initials)
-- **Texture**: `background-image` repeating-pattern tiles (SVG or CSS `background-repeat`); noise/grain overlay via SVG feTurbulence for paper-like surfaces; border-image with organic repeat patterns
-- **Border-radius**: 0–4px — structural, not decorative; corners express joinery logic
-- **Layout**: Dense, filled compositions with patterned backgrounds; framed content areas; the page/card as an integrated handcrafted object, not a blank canvas
+
+Use layered botanical background patterns at low contrast, textured paper or linen overlays, inset borders, warm matte surfaces, and subtle wood/ink color tokens. Prefer flat shadows, engraved dividers, and patterned masks over gloss, glassmorphism, or neon gradients. Provide a reduced-pattern mode for readability.
+
+## Typography / Fonts
+
+Use readable old-style serif families, humanist serif/sans pairings, or medieval-revival display only for short headings and initials. Avoid blackletter for body copy. If using ornamental capitals, reserve them for sectional starts or hero treatments with a plain readable body face.
+
+## Cultural / Ethical Notes
+
+Do not flatten the movement into “cozy handmade” lifestyle branding. Its design politics include labor critique, anti-industrial reform, and historically specific British/North American craft revival contexts. Avoid using craft signifiers to greenwash mass-produced or exploitative products.
+
+## Anti-Patterns
+
+Do not use slick chrome, plastic gloss, candy-bright palettes, generic farmhouse clichés, unstructured vine clip art, or Art Nouveau whiplash as substitutes. Do not overload a product UI with unreadable pattern density or treat Morris-derived ornament as empty wallpaper.
