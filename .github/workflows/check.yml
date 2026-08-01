@@ -24,8 +24,5 @@ jobs:
       - name: Run repository checks
         run: make check
 
-      - name: Verify generated aesthetic index freshness
-        run: python3 scripts/generate_aesthetic_index.py --check
-
       - name: Verify skills CLI discovery
         run: npx skills add . -l --full-depth

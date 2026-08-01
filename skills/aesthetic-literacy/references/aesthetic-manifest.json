@@ -1,0 +1,1396 @@
+{
+  "schemaVersion": 1,
+  "fullEntryCount": 126,
+  "redirectCount": 1,
+  "familyCount": 8,
+  "entries": [
+    {
+      "slug": "1990s-minimalism",
+      "label": "1990s Minimalism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "90s minimalism",
+        "CK minimalism",
+        "fashion minimalism",
+        "Calvin Klein aesthetic"
+      ]
+    },
+    {
+      "slug": "8-bit-pixel",
+      "label": "8-Bit / Pixel Aesthetic",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "pixel art",
+        "8-bit",
+        "CGA aesthetic",
+        "pixel aesthetic"
+      ]
+    },
+    {
+      "slug": "aesthetic-movement",
+      "label": "Aesthetic Movement",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Aestheticism",
+        "Art for art’s sake",
+        "Aesthetic style"
+      ]
+    },
+    {
+      "slug": "ai-slop-synthetic-corporate-art",
+      "label": "AI Slop / Synthetic Corporate Art",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "AI slop",
+        "synthetic corporate art",
+        "AI-generated corporate illustration"
+      ]
+    },
+    {
+      "slug": "anime-mecha-realism",
+      "label": "Anime Mecha-Realism",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "real robot mecha",
+        "Gundam realism",
+        "mechanical-design anime"
+      ]
+    },
+    {
+      "slug": "apple-core-tech",
+      "label": "Apple-core Tech",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "minimalist tech robotics",
+        "Apple-core robotics",
+        "seamless consumer robotics"
+      ]
+    },
+    {
+      "slug": "art-deco",
+      "label": "Art Deco",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "le style moderne",
+        "Jazz Moderne",
+        "Style Moderne"
+      ]
+    },
+    {
+      "slug": "art-nouveau",
+      "label": "Art Nouveau",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Jugendstil",
+        "Stile Liberty",
+        "Modernisme",
+        "Modern Style",
+        "Secession style"
+      ]
+    },
+    {
+      "slug": "arts-and-crafts",
+      "label": "Arts and Crafts Movement",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Arts & Crafts",
+        "William Morris style"
+      ]
+    },
+    {
+      "slug": "atomic-age",
+      "label": "Atomic Age / Space Age",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Googie",
+        "Space Age",
+        "Populuxe",
+        "Atomic Era",
+        "Doo-Wop"
+      ]
+    },
+    {
+      "slug": "b2b-quick-order-grid",
+      "label": "B2B Quick-Order Grid",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "quick order grid",
+        "B2B order pad",
+        "SKU quick order"
+      ]
+    },
+    {
+      "slug": "balletcore",
+      "label": "Balletcore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "ballet aesthetic",
+        "dancer off-duty",
+        "ballet rehearsal style"
+      ]
+    },
+    {
+      "slug": "barbiecore",
+      "label": "Barbiecore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Barbie aesthetic",
+        "Barbie pink aesthetic",
+        "doll-pop glam"
+      ]
+    },
+    {
+      "slug": "bauhaus",
+      "label": "Bauhaus",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Staatliches Bauhaus"
+      ]
+    },
+    {
+      "slug": "beaux-arts",
+      "label": "Beaux-Arts",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Beaux-Arts architecture",
+        "École des Beaux-Arts style",
+        "Academic classicism"
+      ]
+    },
+    {
+      "slug": "biomechanical",
+      "label": "Biomechanical / Biopunk",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "bio-mechanical",
+        "biopunk",
+        "flesh-machine"
+      ]
+    },
+    {
+      "slug": "bloomberg-terminal-monochrome",
+      "label": "Bloomberg Terminal Monochrome",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Bloomberg terminal aesthetic",
+        "finance terminal UI",
+        "trader terminal monochrome"
+      ]
+    },
+    {
+      "slug": "blue-note-jazz-modernism",
+      "label": "Blue Note Jazz Modernism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Blue Note style",
+        "jazz sleeve modernism",
+        "Reid Miles style"
+      ]
+    },
+    {
+      "slug": "board-game-box-art",
+      "label": "Board Game Box Art",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "tabletop box cover art",
+        "modern board game packaging",
+        "boardgame cover art"
+      ]
+    },
+    {
+      "slug": "brutalism",
+      "label": "Brutalism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": []
+    },
+    {
+      "slug": "casino",
+      "label": "Casino Neon Tableplay",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "vegas casino",
+        "casino signage",
+        "table-game casino",
+        "gaming floor"
+      ]
+    },
+    {
+      "slug": "cassette-futurism",
+      "label": "Cassette Futurism",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "cassette futurism",
+        "analog futurism",
+        "used-future interfaces"
+      ]
+    },
+    {
+      "slug": "cheminformatics-map-explorer",
+      "label": "Cheminformatics Map Explorer",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "chemical space explorer",
+        "cheminformatics explorer",
+        "molecule map UI"
+      ]
+    },
+    {
+      "slug": "chibi-mecha",
+      "label": "Chibi Mecha",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "SD mecha",
+        "super-deformed mecha",
+        "mini mecha"
+      ]
+    },
+    {
+      "slug": "chicano-lowrider-art",
+      "label": "Chicano Lowrider Art",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "lowrider art",
+        "Chicano lowrider culture",
+        "low-and-slow automotive art"
+      ]
+    },
+    {
+      "slug": "chinoiserie",
+      "label": "Chinoiserie",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "European chinoiserie",
+        "chinoiserie revival",
+        "East Asian fantasy ornament"
+      ]
+    },
+    {
+      "slug": "city-pop",
+      "label": "City Pop Visual Language",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "citypop",
+        "City Pop aesthetic",
+        "Hiroshi Nagai style"
+      ]
+    },
+    {
+      "slug": "claymorphism",
+      "label": "Claymorphism",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "clay UI",
+        "puffy design",
+        "soft 3D"
+      ]
+    },
+    {
+      "slug": "clowncore",
+      "label": "Clowncore",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "clown core",
+        "clowncore aesthetic"
+      ]
+    },
+    {
+      "slug": "coastal-grandmother",
+      "label": "Coastal Grandmother",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Nancy Meyers chic",
+        "coastal auntie",
+        "easy coastal luxury"
+      ]
+    },
+    {
+      "slug": "companion-bot",
+      "label": "Companion-Bot / Pet-Bot",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "pet-bot",
+        "social robot companion",
+        "emotional support robot"
+      ]
+    },
+    {
+      "slug": "constructivism",
+      "label": "Russian Constructivism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Constructivist",
+        "Soviet Constructivism",
+        "Russian avant-garde"
+      ]
+    },
+    {
+      "slug": "convenience-store-backoffice",
+      "label": "Convenience-Store Back-Office Grid",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "c-store backoffice",
+        "convenience store operations dashboard",
+        "fuel retail backoffice"
+      ]
+    },
+    {
+      "slug": "corporate-grunge",
+      "label": "Corporate Grunge / Grunge™",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Grunge™",
+        "corporate grunge",
+        "commercial grunge",
+        "alternative branding"
+      ]
+    },
+    {
+      "slug": "corporate-memphis",
+      "label": "Corporate Memphis / Illustration Flat",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "Alegria",
+        "Big Tech Art Style"
+      ]
+    },
+    {
+      "slug": "cottagecore",
+      "label": "Cottagecore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "farmcore",
+        "countrycore"
+      ]
+    },
+    {
+      "slug": "cute-tech",
+      "label": "Kawaii / Cute-Tech",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "cute tech",
+        "kawaii robotics",
+        "soft companion tech"
+      ]
+    },
+    {
+      "slug": "cyberpunk",
+      "label": "Cyberpunk",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "cyberpunk robotics",
+        "high-tech low-life",
+        "megacity cybernetics"
+      ]
+    },
+    {
+      "slug": "cybersigilism",
+      "label": "Cybersigilism",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "cyber sigilism",
+        "post-human tattoo",
+        "nu-tribal cyber tattoo"
+      ]
+    },
+    {
+      "slug": "dark-academia",
+      "label": "Dark Academia",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "academic gothic",
+        "scholastic gothic"
+      ]
+    },
+    {
+      "slug": "de-stijl",
+      "label": "De Stijl / Neo-Plasticism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "De Stijl",
+        "Neo-Plasticism",
+        "Mondrian style",
+        "The Style"
+      ]
+    },
+    {
+      "slug": "decora-kei",
+      "label": "Decora Kei",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "decora",
+        "Harajuku decora",
+        "decora fashion",
+        "kawaii accessory stacking",
+        "decorative kei"
+      ]
+    },
+    {
+      "slug": "desktop-publishing",
+      "label": "Desktop Publishing / Early Mac Aesthetic",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "DTP aesthetic",
+        "Macintosh Bitmap Era",
+        "early Mac aesthetic",
+        "PageMaker aesthetic"
+      ]
+    },
+    {
+      "slug": "die-neue-typographie",
+      "label": "Die Neue Typographie",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "The New Typography",
+        "Tschichold's New Typography",
+        "Early Modernist Typography"
+      ]
+    },
+    {
+      "slug": "dieselpunk",
+      "label": "Dieselpunk",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "diesel punk",
+        "interwar retrofuture",
+        "WWII machine-age retrofuture"
+      ]
+    },
+    {
+      "slug": "dreamcore-weirdcore",
+      "label": "Dreamcore / Weirdcore",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "dreamcore",
+        "weirdcore",
+        "liminal dream edit"
+      ]
+    },
+    {
+      "slug": "early-internet",
+      "label": "Early Internet / Web 1.0",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "webcore"
+      ]
+    },
+    {
+      "slug": "fairground-carnival-poster-art",
+      "label": "Fairground / Carnival Poster Art",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "circus broadside",
+        "showman poster",
+        "vintage carnival poster"
+      ]
+    },
+    {
+      "slug": "flat-design",
+      "label": "Flat Design",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "flat UI",
+        "metro-inspired",
+        "Flat 2.0"
+      ]
+    },
+    {
+      "slug": "frutiger-aero",
+      "label": "Frutiger Aero",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Web 2.0 Gloss"
+      ]
+    },
+    {
+      "slug": "futurism",
+      "label": "Italian Futurism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Futurismo",
+        "Futurist movement"
+      ]
+    },
+    {
+      "slug": "glassmorphism",
+      "label": "Glassmorphism",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": []
+    },
+    {
+      "slug": "glitch",
+      "label": "Glitch / Datamosh",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": []
+    },
+    {
+      "slug": "goblincore",
+      "label": "Goblincore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "mushroomcore",
+        "mosscore",
+        "dirtcore-adjacent"
+      ]
+    },
+    {
+      "slug": "gorpcore",
+      "label": "Gorpcore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "outdoorswear streetwear",
+        "trail utility fashion",
+        "hikingcore-adjacent"
+      ]
+    },
+    {
+      "slug": "gothic-revival",
+      "label": "Gothic Revival",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Victorian Gothic Revival",
+        "medievalist revival",
+        "Gothic Revival architecture"
+      ]
+    },
+    {
+      "slug": "grunge-typography",
+      "label": "Grunge Typography",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "grunge design",
+        "Carson grunge",
+        "deconstructionist typography",
+        "Ray Gun aesthetic"
+      ]
+    },
+    {
+      "slug": "guochao",
+      "label": "Guochao",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "China-chic",
+        "guochao branding",
+        "guochao packaging",
+        "国潮",
+        "Chinese heritage revival branding"
+      ]
+    },
+    {
+      "slug": "harm-reduction-zine",
+      "label": "Harm Reduction Zine",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "mutual aid health zine",
+        "safer use zine",
+        "community care handout"
+      ]
+    },
+    {
+      "slug": "hauntology",
+      "label": "Hauntology",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "cultural hauntology",
+        "lost-futures aesthetic",
+        "Ghost Box-adjacent"
+      ]
+    },
+    {
+      "slug": "high-performance-hmi",
+      "label": "High-performance HMI",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "HP HMI",
+        "High Performance SCADA",
+        "high-performance SCADA graphics",
+        "process-operator graphics",
+        "operator-centered industrial UI"
+      ]
+    },
+    {
+      "slug": "high-tech-architecture",
+      "label": "High-Tech Architecture / Structural Expressionism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Structural Expressionism",
+        "High-tech architecture",
+        "Hi-tech architecture"
+      ]
+    },
+    {
+      "slug": "italian-radical-design",
+      "label": "Italian Radical Design",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Radical Design",
+        "Anti-design",
+        "Superstudio",
+        "Archizoom"
+      ]
+    },
+    {
+      "slug": "j-gov-futurism",
+      "label": "J-Gov Futurism",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "sibyl-ui",
+        "institutional-brutalism",
+        "nihon-noir-tech",
+        "clinical-brutalism",
+        "diegetic-bureaucratic-ui"
+      ]
+    },
+    {
+      "slug": "japanese-metabolism",
+      "label": "Japanese Metabolism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Metabolism",
+        "Metabolist architecture",
+        "Japanese Metabolist movement"
+      ]
+    },
+    {
+      "slug": "kidcore",
+      "label": "Kidcore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "kid core",
+        "kidcore aesthetic"
+      ]
+    },
+    {
+      "slug": "konbini-utility",
+      "label": "Konbini Utility",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Japanese convenience store utility",
+        "konbini design",
+        "convenience retail packaging utility"
+      ]
+    },
+    {
+      "slug": "liminal-space-backrooms",
+      "label": "Liminal Space / Backrooms",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "liminal spaces",
+        "Backrooms aesthetic",
+        "uncanny transitional architecture"
+      ]
+    },
+    {
+      "slug": "lotto",
+      "label": "Lotto Scratcher Commerce",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "scratch-off",
+        "scratch ticket",
+        "instant-win ticket",
+        "state lottery scratcher"
+      ]
+    },
+    {
+      "slug": "magical-girl",
+      "label": "Magical Girl",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "mahou shoujo",
+        "magical heroine",
+        "transformation heroine aesthetic"
+      ]
+    },
+    {
+      "slug": "material-design",
+      "label": "Material Design",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Material",
+        "Material UI",
+        "MDL"
+      ]
+    },
+    {
+      "slug": "maximalism",
+      "label": "Maximalism",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "more is more",
+        "decorative abundance"
+      ]
+    },
+    {
+      "slug": "mecha-kaiju",
+      "label": "Mecha / Kaiju",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "mecha kaiju",
+        "mechanized kaiju",
+        "giant robot monster"
+      ]
+    },
+    {
+      "slug": "memphis",
+      "label": "Memphis / Post-Modern",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Memphis-Milano",
+        "Memphis Design",
+        "Memphis Group"
+      ]
+    },
+    {
+      "slug": "mexican-rotulismo",
+      "label": "Mexican Rotulismo",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Mexican Rótulos",
+        "rotulismo mexicano",
+        "Mexican rotulos",
+        "rótulo vernacular",
+        "hand-painted Mexican signs"
+      ]
+    },
+    {
+      "slug": "mid-century-modern",
+      "label": "Mid-century Modern",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "MCM",
+        "Mid-Century",
+        "Midcentury Modern",
+        "Atomic Ranch"
+      ]
+    },
+    {
+      "slug": "myspace-chaos",
+      "label": "MySpace Chaos",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "MySpace aesthetic",
+        "profile customization era"
+      ]
+    },
+    {
+      "slug": "nanopunk",
+      "label": "Nanopunk",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "nanotech punk",
+        "nanobot aesthetic",
+        "programmable matter"
+      ]
+    },
+    {
+      "slug": "neubrutalism",
+      "label": "Neubrutalism",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "neo-brutalism",
+        "neobrutalism",
+        "new brutalism"
+      ]
+    },
+    {
+      "slug": "neumorphism",
+      "label": "Neumorphism / Soft UI",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "neo-skeuomorphism",
+        "soft UI",
+        "neumorphic design"
+      ]
+    },
+    {
+      "slug": "new-objectivity",
+      "label": "New Objectivity / Neue Sachlichkeit",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Neue Sachlichkeit",
+        "New Objectivity",
+        "Verism"
+      ]
+    },
+    {
+      "slug": "new-wave-typography",
+      "label": "New Wave Typography / Swiss Punk",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Swiss Punk",
+        "New Wave Design",
+        "Swiss New Wave",
+        "Weingart Style"
+      ]
+    },
+    {
+      "slug": "nu-goth-pastel-goth",
+      "label": "Nu-Goth / Pastel Goth",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "nu goth",
+        "pastel goth",
+        "modern goth fashion"
+      ]
+    },
+    {
+      "slug": "op-art",
+      "label": "Op Art",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Optical Art",
+        "Optical Illusion Art",
+        "Retinal Art"
+      ]
+    },
+    {
+      "slug": "organic-digital",
+      "label": "Organic Digital / Blobcore",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "blobcore"
+      ]
+    },
+    {
+      "slug": "pen-and-pixel",
+      "label": "Pen & Pixel / Bling Era Graphics",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Pen and Pixel",
+        "bling era",
+        "No Limit aesthetic",
+        "Cash Money graphics",
+        "Southern rap album design"
+      ]
+    },
+    {
+      "slug": "pierrotcore",
+      "label": "Pierrotcore",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "pierrot core",
+        "pierrot aesthetic",
+        "harlequin",
+        "jestercore"
+      ]
+    },
+    {
+      "slug": "polish-poster-school",
+      "label": "Polish Poster School",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Polish School of Posters",
+        "Polska Szkoła Plakatu",
+        "Polish film poster art"
+      ]
+    },
+    {
+      "slug": "pop-art",
+      "label": "Pop Art",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Pop",
+        "Pop Art Movement"
+      ]
+    },
+    {
+      "slug": "post-apocalyptic-scavenged-tech",
+      "label": "Post-apocalyptic / Scavenged Tech",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "scavenged tech",
+        "junkyard robotics",
+        "wasteland tech"
+      ]
+    },
+    {
+      "slug": "prairie-school",
+      "label": "Prairie School",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Prairie style",
+        "Prairie architecture",
+        "Frank Lloyd Wright Prairie style"
+      ]
+    },
+    {
+      "slug": "prescription-label-clarity",
+      "label": "Prescription Label Clarity",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "ClearRx style",
+        "prescription label design",
+        "medication label clarity"
+      ]
+    },
+    {
+      "slug": "psychedelic",
+      "label": "Psychedelic",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Psychedelia",
+        "Acid Aesthetic",
+        "Fillmore Poster Style",
+        "Trippy"
+      ]
+    },
+    {
+      "slug": "punk-zine",
+      "label": "Punk Zine / DIY Aesthetic",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Punk Design",
+        "Zine Aesthetic",
+        "Ransom Note Typography",
+        "DIY Design",
+        "Jamie Reid Style"
+      ]
+    },
+    {
+      "slug": "queer-nightlife-ephemera",
+      "label": "Queer Nightlife Ephemera",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "queer club ephemera",
+        "LGBTQ nightlife archive",
+        "queer event flyer archive"
+      ]
+    },
+    {
+      "slug": "quiet-luxury",
+      "label": "Quiet Luxury → see Warm Minimalism",
+      "family": "contemporary-lifestyle",
+      "status": "redirect",
+      "aliases": [],
+      "redirect": "warm-minimalism"
+    },
+    {
+      "slug": "rave-flyer",
+      "label": "Rave Flyer Aesthetic",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "rave aesthetic",
+        "rave poster",
+        "candy rave",
+        "90s rave flyer"
+      ]
+    },
+    {
+      "slug": "risograph",
+      "label": "Risograph",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "risography",
+        "riso print",
+        "riso-print",
+        "riso aesthetic",
+        "spot-color print"
+      ]
+    },
+    {
+      "slug": "scandi-noir",
+      "label": "Scandi Noir",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "Nordic noir",
+        "Nordic crime aesthetic",
+        "Scandinavian noir"
+      ]
+    },
+    {
+      "slug": "scandinavian-modern",
+      "label": "Scandinavian Modern",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Nordic Modern",
+        "Danish Modern",
+        "Swedish Modern",
+        "Scandi Minimalism"
+      ]
+    },
+    {
+      "slug": "shaker-design",
+      "label": "Shaker Design",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Shaker furniture",
+        "Shaker style",
+        "United Society of Believers design"
+      ]
+    },
+    {
+      "slug": "skeuomorphism",
+      "label": "Skeuomorphism",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "realistic UI",
+        "material mimicry"
+      ]
+    },
+    {
+      "slug": "solarpunk",
+      "label": "Solarpunk",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": []
+    },
+    {
+      "slug": "space-western",
+      "label": "Space Western",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "space western robotics",
+        "frontier sci-fi",
+        "dusty space opera"
+      ]
+    },
+    {
+      "slug": "sports-scorebug",
+      "label": "Sports Scorebug",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "score bug",
+        "broadcast score overlay",
+        "sports broadcast graphics"
+      ]
+    },
+    {
+      "slug": "steampunk",
+      "label": "Steampunk",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "steam punk",
+        "Victorian retrofuture",
+        "clockwork automatons"
+      ]
+    },
+    {
+      "slug": "storybook-gothic",
+      "label": "Storybook Gothic",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "fairytale gothic",
+        "fantasy gothic",
+        "story driven gothic",
+        "storybook gothic branding"
+      ]
+    },
+    {
+      "slug": "streamline-moderne",
+      "label": "Streamline Moderne",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Art Moderne",
+        "Streamline",
+        "Style Paquebot",
+        "Ocean Liner Style"
+      ]
+    },
+    {
+      "slug": "suprematism",
+      "label": "Suprematism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Suprematist",
+        "Malevich Abstraction"
+      ]
+    },
+    {
+      "slug": "swiss-international",
+      "label": "Swiss / International Typographic Style",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Swiss Style",
+        "International Typographic Style",
+        "Schweizer Typografie",
+        "Swiss / International Style"
+      ]
+    },
+    {
+      "slug": "synthwave",
+      "label": "Synthwave / Retrowave",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "retrowave"
+      ]
+    },
+    {
+      "slug": "techno-noir",
+      "label": "Techno-noir",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "tech noir",
+        "future noir",
+        "sci-fi noir"
+      ]
+    },
+    {
+      "slug": "tiki-polynesian-pop",
+      "label": "Tiki / Polynesian Pop",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Polynesian Pop",
+        "tiki bar Americana",
+        "mid-century tiki"
+      ]
+    },
+    {
+      "slug": "trading-card-game-design",
+      "label": "Trading Card Game Design",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "TCG design",
+        "CCG frame design",
+        "collectible card UI"
+      ]
+    },
+    {
+      "slug": "ulm-school",
+      "label": "Ulm School / HfG Ulm",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "HfG Ulm",
+        "Ulm School of Design",
+        "Hochschule für Gestaltung Ulm"
+      ]
+    },
+    {
+      "slug": "uncanny-android",
+      "label": "Uncanny Android / Humanoid Realism",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "humanoid realism",
+        "uncanny humanoid",
+        "android realism"
+      ]
+    },
+    {
+      "slug": "vaporwave",
+      "label": "Vaporwave",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "vapor"
+      ]
+    },
+    {
+      "slug": "vienna-secession",
+      "label": "Vienna Secession",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Wiener Secession",
+        "Wiener Werkstätte",
+        "Secession Style"
+      ]
+    },
+    {
+      "slug": "vorticism",
+      "label": "Vorticism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Vorticist",
+        "BLAST style"
+      ]
+    },
+    {
+      "slug": "wabi-sabi-slow-living",
+      "label": "Wabi-Sabi / Slow Living",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "wabi-sabi",
+        "slow living aesthetic",
+        "wabi-cha"
+      ]
+    },
+    {
+      "slug": "warm-minimalism",
+      "label": "Warm Minimalism / Quiet Luxury",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "quiet luxury",
+        "warm minimal",
+        "stealth wealth",
+        "silent luxury",
+        "clean girl aesthetic",
+        "calm interface"
+      ]
+    },
+    {
+      "slug": "wartime-propaganda",
+      "label": "Wartime Propaganda Poster Design",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "WWII Propaganda",
+        "Propaganda Poster",
+        "War Poster Design"
+      ]
+    },
+    {
+      "slug": "web-2-gloss",
+      "label": "Web 2.0 Gloss",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Web 2.0 design",
+        "beta aesthetic"
+      ]
+    },
+    {
+      "slug": "witchcore",
+      "label": "Witchcore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "witch aesthetic",
+        "occult cottage",
+        "modern witch aesthetic"
+      ]
+    },
+    {
+      "slug": "wpa-poster-style",
+      "label": "WPA Poster Style",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "WPA Posters",
+        "Federal Art Project style",
+        "WPA silkscreen"
+      ]
+    },
+    {
+      "slug": "xlyk",
+      "label": "Xlyk",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": []
+    },
+    {
+      "slug": "y2k",
+      "label": "Y2K",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Y2K Futurism",
+        "Cyber Y2K"
+      ]
+    }
+  ]
+}

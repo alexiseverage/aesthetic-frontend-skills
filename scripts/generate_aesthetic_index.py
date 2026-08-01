@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Generate the installed-user aesthetic index from dictionary frontmatter."""
+"""Generate public aesthetic catalog artifacts from dictionary frontmatter."""
 
 from __future__ import annotations
 
 import argparse
+import json
 import sys
 from collections import defaultdict
 from dataclasses import dataclass
@@ -14,6 +15,9 @@ from validation_common import split_frontmatter
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DICTIONARY_DIR = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics"
 INDEX_PATH = REPO_ROOT / "skills" / "aesthetic-literacy" / "references" / "aesthetic-index.md"
+MANIFEST_PATH = (
+    REPO_ROOT / "skills" / "aesthetic-literacy" / "references" / "aesthetic-manifest.json"
+)
 
 
 @dataclass(frozen=True)
@@ -105,23 +109,73 @@ def render_index(entries: list[Entry]) -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
+def render_manifest(entries: list[Entry]) -> str:
+    """Render the stable public catalog contract in deterministic slug order."""
+    ordered_entries = sorted(entries, key=lambda entry: entry.slug)
+    full_entries = [entry for entry in ordered_entries if entry.redirect is None]
+    redirects = [entry for entry in ordered_entries if entry.redirect is not None]
+    records: list[dict[str, object]] = []
+    for entry in ordered_entries:
+        record: dict[str, object] = {
+            "slug": entry.slug,
+            "label": entry.label,
+            "family": entry.family,
+            "status": "redirect" if entry.redirect is not None else "canonical",
+            "aliases": list(entry.aliases),
+        }
+        if entry.redirect is not None:
+            record["redirect"] = entry.redirect
+        records.append(record)
+
+    manifest = {
+        "schemaVersion": 1,
+        "fullEntryCount": len(full_entries),
+        "redirectCount": len(redirects),
+        "familyCount": len({entry.family for entry in full_entries}),
+        "entries": records,
+    }
+    return json.dumps(manifest, indent=2, ensure_ascii=False) + "\n"
+
+
+def _display_path(path: Path) -> str:
+    try:
+        return str(path.relative_to(REPO_ROOT))
+    except ValueError:
+        return str(path)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--check", action="store_true", help="fail if the generated index is stale")
+    parser.add_argument(
+        "--check", action="store_true", help="fail if either generated artifact is stale"
+    )
+    parser.add_argument("--index-path", type=Path, default=INDEX_PATH, help=argparse.SUPPRESS)
+    parser.add_argument("--manifest-path", type=Path, default=MANIFEST_PATH, help=argparse.SUPPRESS)
     args = parser.parse_args()
 
-    rendered = render_index(load_entries())
+    entries = load_entries()
+    artifacts = {
+        args.index_path: render_index(entries),
+        args.manifest_path: render_manifest(entries),
+    }
     if args.check:
-        current = INDEX_PATH.read_text(encoding="utf-8") if INDEX_PATH.exists() else ""
-        if current != rendered:
-            print(f"{INDEX_PATH.relative_to(REPO_ROOT)} is stale; run scripts/generate_aesthetic_index.py")
+        stale = []
+        for path, rendered in artifacts.items():
+            current = path.read_text(encoding="utf-8") if path.exists() else ""
+            if current != rendered:
+                stale.append(path)
+            else:
+                print(f"{path.name} is current")
+        if stale:
+            for path in stale:
+                print(f"{path.name} is stale; run scripts/generate_aesthetic_index.py")
             sys.exit(1)
-        print("aesthetic-index.md is current")
         return
 
-    INDEX_PATH.parent.mkdir(parents=True, exist_ok=True)
-    INDEX_PATH.write_text(rendered, encoding="utf-8")
-    print(f"wrote {INDEX_PATH.relative_to(REPO_ROOT)}")
+    for path, rendered in artifacts.items():
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(rendered, encoding="utf-8")
+        print(f"wrote {_display_path(path)}")
 
 
 if __name__ == "__main__":
