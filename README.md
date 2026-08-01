@@ -164,6 +164,8 @@ Each canonical aesthetic entry is designed to be small enough for routine agent 
 - Redirect entries point older or superseded terms to the canonical slug.
 - `scripts/generate_aesthetic_index.py` renders both the installed-user Markdown index and the JSON manifest from the same dictionary frontmatter records. `python3 scripts/generate_aesthetic_index.py --check` verifies both artifacts and fails if either is missing or stale.
 
+Public identity validation normalizes case, whitespace, and punctuation across slugs, labels, and aliases. A name may appear more than once only when every occurrence resolves through redirects to the same canonical entry; collisions across different canonical owners fail validation. Redirect chains must terminate at a canonical entry and cannot contain self-redirects or cycles.
+
 The versioned `aesthetic-manifest.json` is the public machine-readable integration contract. Its top-level counts and sorted `entries` expose only stable catalog fields: slug, label, family, status, aliases, and redirect target when applicable. Consumers should use `schemaVersion` when adapting to future contract changes. Research notes, source logs, and maintainer environment state are intentionally excluded.
 
 See [`skills/aesthetic-literacy/references/artifact-schema.md`](skills/aesthetic-literacy/references/artifact-schema.md) for the compact installed-user schema reference.

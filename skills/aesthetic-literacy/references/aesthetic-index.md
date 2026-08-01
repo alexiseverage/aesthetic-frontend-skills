@@ -45,7 +45,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `dreamcore-weirdcore` | Dreamcore / Weirdcore | dreamcore, weirdcore, liminal dream edit |
 | `early-internet` | Early Internet / Web 1.0 | webcore |
 | `flat-design` | Flat Design | flat UI, metro-inspired, Flat 2.0 |
-| `frutiger-aero` | Frutiger Aero | Web 2.0 Gloss |
+| `frutiger-aero` | Frutiger Aero | — |
 | `glitch` | Glitch / Datamosh | — |
 | `hauntology` | Hauntology | cultural hauntology, lost-futures aesthetic, Ghost Box-adjacent |
 | `j-gov-futurism` | J-Gov Futurism | sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism, diegetic-bureaucratic-ui |
@@ -81,7 +81,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `1990s-minimalism` | 1990s Minimalism | 90s minimalism, CK minimalism, fashion minimalism, Calvin Klein aesthetic |
 | `aesthetic-movement` | Aesthetic Movement | Aestheticism, Art for art’s sake, Aesthetic style |
 | `art-deco` | Art Deco | le style moderne, Jazz Moderne, Style Moderne |
-| `art-nouveau` | Art Nouveau | Jugendstil, Stile Liberty, Modernisme, Modern Style, Secession style |
+| `art-nouveau` | Art Nouveau | Jugendstil, Stile Liberty, Modernisme, Modern Style |
 | `arts-and-crafts` | Arts and Crafts Movement | Arts & Crafts, William Morris style |
 | `atomic-age` | Atomic Age / Space Age | Googie, Space Age, Populuxe, Atomic Era, Doo-Wop |
 | `bauhaus` | Bauhaus | Staatliches Bauhaus |

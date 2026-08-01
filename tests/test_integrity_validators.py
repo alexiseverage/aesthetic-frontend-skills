@@ -321,6 +321,158 @@ def test_validate_dictionary_rejects_redirect_target_that_does_not_exist(tmp_pat
     assert "Redirect target 'missing-entry' does not exist" in result.stdout
 
 
+def test_validate_dictionary_rejects_duplicate_normalized_canonical_labels(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "alpha.md",
+        "slug: alpha\nlabel: Shared Label\nfamily: test-family\naliases: []\n",
+        VALID_DICTIONARY_BODY,
+    )
+    write_dictionary_entry(
+        tmp_path,
+        "beta.md",
+        "slug: beta\nlabel: SHARED   LABEL\nfamily: test-family\naliases: []\n",
+        VALID_DICTIONARY_BODY,
+    )
+
+    result = run_validator(
+        "validate_dictionary.py",
+        str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"),
+    )
+
+    assert result.returncode == 1
+    assert "Identity 'shared label' conflicts across canonical owners" in result.stdout
+    assert "alpha.md field 'label'" in result.stdout
+    assert "beta.md field 'label'" in result.stdout
+
+
+def test_validate_dictionary_rejects_alias_to_alias_collision(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "alpha.md",
+        "slug: alpha\nlabel: Alpha\nfamily: test-family\naliases: [Shared Name]\n",
+        VALID_DICTIONARY_BODY,
+    )
+    write_dictionary_entry(
+        tmp_path,
+        "beta.md",
+        "slug: beta\nlabel: Beta\nfamily: test-family\naliases: [shared-name]\n",
+        VALID_DICTIONARY_BODY,
+    )
+
+    result = run_validator(
+        "validate_dictionary.py",
+        str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"),
+    )
+
+    assert result.returncode == 1
+    assert "alpha.md field 'aliases[0]'" in result.stdout
+    assert "beta.md field 'aliases[0]'" in result.stdout
+
+
+def test_validate_dictionary_rejects_alias_to_slug_and_label_collisions(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "alpha-name.md",
+        "slug: alpha-name\nlabel: Alpha Display\nfamily: test-family\naliases: []\n",
+        VALID_DICTIONARY_BODY,
+    )
+    write_dictionary_entry(
+        tmp_path,
+        "beta.md",
+        "slug: beta\nlabel: Beta Display\nfamily: test-family\naliases: [Alpha Name, Gamma Display]\n",
+        VALID_DICTIONARY_BODY,
+    )
+    write_dictionary_entry(
+        tmp_path,
+        "gamma.md",
+        "slug: gamma\nlabel: Gamma Display\nfamily: test-family\naliases: []\n",
+        VALID_DICTIONARY_BODY,
+    )
+
+    result = run_validator(
+        "validate_dictionary.py",
+        str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"),
+    )
+
+    assert result.returncode == 1
+    assert "alpha-name.md field 'slug'" in result.stdout
+    assert "beta.md field 'aliases[0]'" in result.stdout
+    assert "beta.md field 'aliases[1]'" in result.stdout
+    assert "gamma.md field 'label'" in result.stdout
+
+
+def test_validate_dictionary_rejects_self_redirect(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "self.md",
+        "slug: self\nlabel: Self\nfamily: test-family\nredirect: self\n",
+        "> Redirect.\n",
+    )
+
+    result = run_validator(
+        "validate_dictionary.py",
+        str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"),
+    )
+
+    assert result.returncode == 1
+    assert "Self-redirect: self.md field 'redirect' targets its own slug 'self'" in result.stdout
+
+
+def test_validate_dictionary_rejects_redirect_cycle(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "alpha.md",
+        "slug: alpha\nlabel: Alpha\nfamily: test-family\nredirect: beta\n",
+        "> Redirect.\n",
+    )
+    write_dictionary_entry(
+        tmp_path,
+        "beta.md",
+        "slug: beta\nlabel: Beta\nfamily: test-family\nredirect: alpha\n",
+        "> Redirect.\n",
+    )
+
+    result = run_validator(
+        "validate_dictionary.py",
+        str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"),
+    )
+
+    assert result.returncode == 1
+    assert "Redirect cycle detected" in result.stdout
+    assert "alpha.md field 'redirect' -> 'beta'" in result.stdout
+    assert "beta.md field 'redirect' -> 'alpha'" in result.stdout
+
+
+def test_validate_dictionary_accepts_redirect_chain_and_same_owner_identity(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "canonical.md",
+        "slug: canonical\nlabel: Canonical\nfamily: test-family\naliases: [Legacy Name]\n",
+        VALID_DICTIONARY_BODY,
+    )
+    write_dictionary_entry(
+        tmp_path,
+        "legacy-name.md",
+        "slug: legacy-name\nlabel: Legacy Name Redirect\nfamily: test-family\nredirect: canonical\n",
+        "> Redirect.\n",
+    )
+    write_dictionary_entry(
+        tmp_path,
+        "older-name.md",
+        "slug: older-name\nlabel: Older Name\nfamily: test-family\nredirect: legacy-name\n",
+        "> Redirect.\n",
+    )
+
+    result = run_validator(
+        "validate_dictionary.py",
+        str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"),
+    )
+
+    assert result.returncode == 0, result.stdout + result.stderr
+    assert "2 redirects valid" in result.stdout
+
+
 def test_validate_profile_accepts_valid_profile_with_aliases(tmp_path: Path):
     path = write_profile(
         tmp_path,

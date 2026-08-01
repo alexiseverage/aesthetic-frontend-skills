@@ -7,7 +7,7 @@ source: mixed
 image_count: 0
 evidence_level: limited
 new_aesthetic: false
-aliases: ["Web 2.0 Gloss"]
+aliases: []
 ---
 
 # Frutiger Aero
