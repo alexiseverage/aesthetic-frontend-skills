@@ -3,40 +3,68 @@ slug: vorticism
 label: Vorticism
 family: historical-design-movements
 era: 1914–1915
-aliases: ["Vorticist", "BLAST style"]
+aliases:
+  - Vorticist
+  - BLAST style
+status: canonical
+evidence_level: limited
+related:
+  - futurism
+  - constructivism
+  - grunge-typography
+subsets: []
 ---
 
-**Palette**: Stark black (#1a1a1a), hot pink/magenta (#e5007d), white (#ffffff) — the iconic BLAST magazine palette; industrial gray (#6b6b6b), blood red (#a80000) as secondary accents
-
-**Type**: Grotesque No. 9 — bold, condensed, sans-serif; all-caps headlines at maximum weight; large-scale display type as structural element, not accompaniment; the "Blast" and "Bless" typographic list format (manifesto as UI pattern)
-
-**Texture**: Machine-cut hard edges; newsprint flat ink; no painterly gesture — the surface is hard, industrial, unadorned; the "vortex" as concentrated energy pattern
-
-**Shape**: Intersecting sharp angles — acute triangles, jagged diagonals, hard-edged polygons; forms converge toward a central vortex point, then explode outward; no curves, no organic line
-
-**Motion**: Concentrated explosive energy — movement radiates from a central vortex, unlike Futurism's centrifugal scatter; the force is contained, compressed, then released
-
-**Spatial**: Blocky, compressed compositions; forms interlock like machine parts; tight crowding around a central axis; the vortex as spatial organizing principle — everything drawn toward or ejected from one point
-
-**Cultural markers**: *BLAST* magazine (1914–1915), only two issues — the purest artifact; Wyndham Lewis's angular figure compositions; Epstein's *Rock Drill*; Gaudier-Brzeska's carved forms; Pound's "Vortex" manifesto
-
-**Non-negotiables**: hard-edged angular geometry + black/pink palette + centralized explosive composition
-
-## Connotation
-**Mode: authentic.** Vorticism is the most extreme case in the collection: it was too short-lived (1914–1915, two magazine issues) and too aggressively avant-garde to be "revived" or "quoted" in a diluted form. When a designer uses black/pink angular geometry with centralized explosive composition, they are extending the Vorticist project — there is no "soft Vorticism," no "Vorticism-inspired." The aesthetic's defining quality is its refusal to accommodate the viewer. Nostalgic quotation is impossible because there was never a popular Vorticism to feel nostalgic for; ironic pastiche is impossible because the style is already operating at maximum intensity.
+# Vorticism
 
 ## Scope
-**Suitable:** Punk and experimental music artist sites, avant-garde fashion editorials and lookbooks, manifesto-style landing pages for creative projects, art school and design portfolio sites, event pages for underground/experimental culture, literary magazines with confrontational editorial stance. The "Blast/Bless" pattern (alternating pro/con lists in bold all-caps) is a distinctive UI pattern for feature comparisons and manifestos.
 
-**NOT suitable:** Corporate websites, e-commerce, financial services, healthcare, education platforms, government sites, anything requiring accessibility compliance or user comfort. Vorticism is deliberately hostile to conventional UX — its sharp angles, maximum-contrast palette, and compressed spatial language fight against readability and ease. Use it only where confrontation IS the desired user experience, and never as a complete site design system.
+Vorticism is a brief British avant-garde language of jagged machine-age geometry, manifesto typography, concentrated explosive force, and BLAST-like confrontation. Use it for polemical editorial surfaces, art-historical references, or high-impact campaign moments where angular compression is the point. It is not generic aggressive modernism, Futurist speed alone, or Constructivist social program.
 
-## Subsets / Related
-- [[futurism]] — parallel contemporary; Vorticism is the harder-edged British counterpoint — less romantic about speed, more industrial, more compressed; both share machine-age subject matter but diverge in composition (vortex vs. scatter)
-- [[constructivism]] — later influence; Vorticism's angular abstraction and bold typographic scale prefigure Constructivist poster language
+## 7-Dimension Profile
+
+**Palette**: Black, white, hot pink or magenta, red, and industrial gray in stark high-contrast blocks. Softer palettes dilute the confrontation.
+
+**Type**: Bold condensed all-caps grotesk, manifesto lists, oversized headings, “Blast” and “Bless” structures, and type as a structural impact device.
+
+**Texture**: Hard-edged print, newsprint flatness, machine-cut geometry, coarse paper, and minimal painterly softness. The surface should feel sharp and industrial.
+
+**Shape**: Jagged wedges, acute triangles, angular mechanical forms, fragmented cylinders, hard-edged polygons, and forms converging toward or exploding from a vortex.
+
+**Motion**: Compressed machine-age thrust, rotational force, sudden reveal, and confrontational visual impact rather than smooth speed or lyrical movement.
+
+**Spatial**: Blocky compression, tight crowding around a central axis, interlocking machine-like planes, and explosive composition that pulls inward before blasting outward.
+
+**Cultural markers**: BLAST magazine’s two issues, Wyndham Lewis’s angular figure compositions, Epstein’s Rock Drill, Gaudier-Brzeska’s carved forms, Pound’s “Vortex” manifesto, and polemical list rhetoric.
+
+## Non-Negotiables
+
+**Non-negotiables**: Angular mechanical geometry, manifesto-grade type, high-contrast impact, and British avant-garde framing must remain. Without the vortex compression, it becomes any loud angular poster.
+
+## Connotation
+
+Vorticism reads as abrasive, concentrated, intellectual, machine-age, and polemical. Because it was short-lived and strongly tied to BLAST, contemporary quotation should feel precise rather than loosely “edgy.”
+
+## Related / Subsets
+
+Related: `futurism` shares modern dynamism but is more Italian, speed-obsessed, and often more painterly; `constructivism` shares angular propaganda force but is more socially programmatic; `grunge-typography` may echo typographic aggression without the same modernist machine ethos.
+
+## Frontend / UI Guidance
+
+Use Vorticism sparingly for hero panels, posters, alerts, campaign landing pages, or editorial interruptions. Build strong typographic list blocks, jagged frames, and central-impact compositions. Keep core navigation and form controls calmer so the interface remains usable.
 
 ## CSS Translation
-- **Palette**: `--vrt-black: #1a1a1a; --vrt-pink: #e5007d; --vrt-white: #ffffff; --vrt-gray: #6b6b6b; --vrt-red: #a80000;`
-- **Google Fonts**: Anton (heavy condensed sans, closest to Grotesque No. 9), Barlow Condensed Black, Oswald (700 weight)
-- **Texture**: Flat solid blocks — `box-shadow: none`; hard edge everywhere; SVG vortex-radial patterns for background energy
-- **Border-radius**: 0px — sharp angles define the aesthetic; jagged clip-path polygons
-- **Layout**: Central-axis composition with radiating elements; `transform: rotate()` on angled blocks; the "Blast/Bless" pattern — alternating `ul` lists (pro vs. con, feature vs. anti-feature) with bold all-caps headings
+
+Use clip-path polygons, skewed blocks, high-contrast magenta/black/white tokens, rotated headings, radial or converging layouts, sharp borders, and compressed hero compositions. Avoid rounded corners, soft gradients, glass blur, and organic illustrations.
+
+## Typography / Fonts
+
+Use heavy condensed sans or grotesk display faces for short headings and manifesto lists. Pair with a sturdy readable sans for body and UI labels. Do not use polite editorial serifs as the dominant voice.
+
+## Cultural / Ethical Notes
+
+Low identity risk but historically narrow. Do not detach BLAST-style rhetoric from its avant-garde and wartime-era context, and avoid using aggressive manifesto form for sensitive civic or safety messaging where clarity and care matter more than impact.
+
+## Anti-Patterns
+
+Do not substitute random jagged shapes, punk collage, Futurist motion blur, Constructivist red wedges, soft organic curves, or generic brutalist UI. Do not overuse all-caps aggression across an entire product flow.

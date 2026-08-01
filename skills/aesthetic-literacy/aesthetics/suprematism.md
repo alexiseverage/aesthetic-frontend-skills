@@ -3,40 +3,68 @@ slug: suprematism
 label: Suprematism
 family: historical-design-movements
 era: 1915–1919
-aliases: ["Suprematist", "Malevich Abstraction"]
+aliases:
+  - Suprematist
+  - Malevich Abstraction
+status: canonical
+evidence_level: limited
+related:
+  - de-stijl
+  - constructivism
+  - op-art
+subsets: []
 ---
 
-**Palette**: Pure primaries on white void — red (#cc0000), blue (#225095), yellow (#fac901), black (#1a1a1a) on white (#ffffff); occasionally off-white ground (#f8f6f0); no midtones, no mixing, no earth colors
-
-**Type**: Minimal — small, sparse, often absent entirely; when present, simple sans-serif placed as a floating geometric element within the composition, not as a block of text
-
-**Texture**: Flat, matte, absolute — no brushwork, no grain, no material reference; the surface is a theoretical infinite white plane, not canvas or paper
-
-**Shape**: Floating rectangles, circles, crosses, and trapezoids — geometric forms suspended without gravity, horizon, or spatial anchor; each shape is a pure formal entity, not a depiction of anything
-
-**Motion**: Static yet weightless — forms hover in equilibrium; the "zero of form" means no kinetic energy, no direction, no force; pure presence without movement
-
-**Spatial**: Infinite white ground as active element — the space between forms is as important as the forms themselves; no perspective, no horizon, no up/down orientation; asymmetric equilibrium across the entire field
-
-**Cultural markers**: Malevich's *Black Square* (1915 — the "zero point" of painting); the *White on White* series; Suprematist architectons (3D floating-form sculptures); the complete rejection of representational reference
-
-**Non-negotiables**: floating geometric forms on white void + primary/black palette + asymmetric equilibrium
-
-## Connotation
-**Mode: authentic.** Suprematism is a pure art-movement aesthetic — the "zero point" of painting. When deployed faithfully (floating geometric primaries on white void, asymmetric equilibrium), it functions as an authentic extension of Malevich's project, not a revival or pastiche. There is no "nostalgia" for 1915; the aesthetic is too abstract to date. Contemporary web designers using Suprematist language are participating in an unbroken conversation about pure form, not quoting a dead style. This distinguishes Suprematism from most other historical-design-movement entries: it is arguably the least period-locked aesthetic in the collection.
+# Suprematism
 
 ## Scope
-**Suitable:** Art gallery and museum sites, avant-garde fashion lookbooks, editorial hero sections and magazine layouts, experimental/portfolio sites for designers and architects, event pages for arts organizations, conceptual brand identities. Suprematism excels as a high-impact hero treatment — a single floating composition on a white page makes an unforgettable first impression.
 
-**NOT suitable:** Data-heavy dashboards, e-commerce product listings, corporate websites, financial interfaces, medical/healthcare UIs, accessibility-critical applications (low contrast between primaries and white can fail WCAG), anything requiring conventional navigation or content density. Suprematism's spatial language — floating, decontextualized forms — fights against standard UX patterns. Use it where visual impact matters more than usability, and never as an entire site's design system.
+Suprematism is Russian avant-garde non-objective abstraction reduced to white-field openness, pure geometric forms, restrained color, and compositional tension detached from worldly depiction. Use it for art-referential interfaces, contemplative abstraction, or sparse geometric identity systems. It is not De Stijl grid order, Constructivist social utility, or casual geometric minimalism.
 
-## Subsets / Related
-- [[de-stijl]] — parallel abstraction; De Stijl codified the grid (strict horizontals/verticals) where Suprematism allowed diagonal and rotation; both share primary-color-on-white-ground vocabulary
-- [[bauhaus]] — indirect influence via Russian avant-garde emigration; Kandinsky and others carried Suprematist thinking into Bauhaus curriculum
+## 7-Dimension Profile
+
+**Palette**: White or off-white ground with black, red, blue, and yellow in sparse pure blocks. Color should read as absolute form rather than atmosphere.
+
+**Type**: Minimal or absent. When type appears, use small clean sans labels that remain subordinate to floating geometry.
+
+**Texture**: Flat matte surface, slight paper or paint evidence at most, and minimal material cue. The field should feel conceptually weightless.
+
+**Shape**: Squares, rectangles, circles, crosses, bars, trapezoids, and angled planar forms suspended without representational reference.
+
+**Motion**: Hovering, tilting, drifting, or barely perceptible planar movement. Avoid narrative action, speed effects, or utilitarian command energy.
+
+**Spatial**: Infinite white ground as active element, asymmetric equilibrium, no horizon, no perspective, no up/down certainty, and generous spacing between forms.
+
+**Cultural markers**: Malevich’s Black Square, White on White, the “zero of form,” Suprematist architectons, and rejection of depiction in favor of pure feeling/relationship.
+
+## Non-Negotiables
+
+**Non-negotiables**: White-field openness, pure geometric reduction, restrained palette, and non-objective compositional tension are required. If the forms become icons, diagrams, or decorations, the aesthetic weakens.
+
+## Connotation
+
+Suprematism feels metaphysical, spare, radical, and suspended. It carries the historical specificity of the Russian avant-garde and Malevich’s philosophical project; it should not be reduced to a generic tech minimalism pattern.
+
+## Related / Subsets
+
+Related: `de-stijl` organizes pure geometry through orthogonal grid order; `constructivism` redirects related abstraction toward social and industrial utility; `op-art` later uses geometry for retinal illusion rather than metaphysical feeling.
+
+## Frontend / UI Guidance
+
+Use generous negative space, sparse floating modules, quiet labels, and geometric accents that establish contemplative balance. Keep controls clear and accessible; do not let abstraction obscure primary actions. Best suited for editorial, gallery, onboarding, or brand moments rather than dense transactional screens.
 
 ## CSS Translation
-- **Palette**: `--sup-red: #cc0000; --sup-blue: #225095; --sup-yellow: #fac901; --sup-black: #1a1a1a; --sup-white: #ffffff;`
-- **Google Fonts**: Space Grotesk (geometric sans, light weight), Jost (clean modern sans), Inter (300 weight for minimal presence)
-- **Texture**: Absolute flat — `background: solid; box-shadow: none;`; no gradients, no noise, no materiality
-- **Border-radius**: 0px for rectangles — shapes express pure geometry; circles are true `border-radius: 50%`
-- **Layout**: Floating `position: absolute` or `transform: translate()` placement of shapes on a white `body`/container; generous negative space; CSS Grid with asymmetric item placement; hero sections with a single floating geometric form as focal point
+
+Use white/off-white backgrounds, absolute-positioned geometric blocks, flat colors, minimal borders, and slow transform/opacity changes. Avoid gradients, texture-heavy layers, perspective shadows, and overpopulated compositions. Provide normal-flow fallbacks for responsive layouts.
+
+## Typography / Fonts
+
+Use quiet sans-serif type with restrained scale and spacing. Keep text secondary to the field and never use expressive display lettering as the main identity. Long-form content should remain conventionally readable.
+
+## Cultural / Ethical Notes
+
+Low identity risk but historically precise. Acknowledge its Russian avant-garde philosophical context and avoid using “revolutionary” language interchangeably with Constructivist propaganda or Soviet political imagery.
+
+## Anti-Patterns
+
+Do not add icons, pictograms, grids, decorative confetti, gradients, stock-photo overlays, industrial propaganda typography, or busy dashboard density. Do not equate any floating square on white with Suprematism.
