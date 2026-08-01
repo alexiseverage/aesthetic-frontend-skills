@@ -113,7 +113,7 @@ Required frontmatter:
 - `era`: approximate period or `contemporary`
 - `aliases`: array of alternate names
 - `status`: usually `canonical`; redirect entries use a separate minimal schema
-- `evidence_level`: for example `researched`, `synthesis`, `legacy`, or another future enum value
+- `evidence_level`: `standard` or `limited`, matching the structured research profile
 - `related`: array of related aesthetic slugs, or an empty array
 - `subsets`: array of subset aesthetic slugs, or an empty array
 

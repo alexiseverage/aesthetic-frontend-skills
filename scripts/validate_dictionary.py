@@ -65,6 +65,9 @@ def target_schema_warnings(frontmatter: dict[str, object], body: str, known_slug
         value = frontmatter.get(field)
         if value is not None and (not isinstance(value, str) or not value.strip()):
             warnings.append(f"Field '{field}' must be a non-empty string")
+    evidence_level = frontmatter.get("evidence_level")
+    if isinstance(evidence_level, str) and evidence_level not in {"limited", "standard"}:
+        warnings.append("Field 'evidence_level' must be one of: limited, standard")
     for field in ("aliases", "related", "subsets"):
         value = frontmatter.get(field)
         if value is not None and not is_string_list(value):

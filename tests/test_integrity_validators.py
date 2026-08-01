@@ -253,6 +253,60 @@ def test_validate_dictionary_strict_mode_fails_target_schema_gaps(tmp_path: Path
     assert "Missing target body section: '## Frontend / UI Guidance'" in result.stdout
 
 
+def test_validate_dictionary_strict_mode_rejects_unknown_evidence_level(tmp_path: Path):
+    write_dictionary_entry(
+        tmp_path,
+        "unknown-evidence.md",
+        "slug: unknown-evidence\nlabel: Unknown Evidence\nfamily: test-family\nera: contemporary\naliases: []\nstatus: canonical\nevidence_level: researched\nrelated: []\nsubsets: []\n",
+        """## Scope
+
+## 7-Dimension Profile
+
+**Palette**: red
+
+**Type**: sans
+
+**Texture**: smooth
+
+**Shape**: circles
+
+**Motion**: fades
+
+**Spatial**: layered
+
+**Cultural markers**: test
+
+## Non-Negotiables
+
+**Non-negotiables**: required features
+
+## Connotation
+
+## Related / Subsets
+
+## Frontend / UI Guidance
+
+## CSS Translation
+
+## Typography / Fonts
+
+## Cultural / Ethical Notes
+
+## Anti-Patterns
+""",
+    )
+
+    result = run_validator(
+        "validate_dictionary.py",
+        "--schema-mode",
+        "strict",
+        str(tmp_path / "skills" / "aesthetic-literacy" / "aesthetics"),
+    )
+
+    assert result.returncode == 1
+    assert "Field 'evidence_level' must be one of: limited, standard" in result.stdout
+
+
 def test_validate_dictionary_rejects_redirect_target_that_does_not_exist(tmp_path: Path):
     write_dictionary_entry(
         tmp_path,

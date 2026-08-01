@@ -190,13 +190,16 @@ Trigger-selection fixtures live in `tests/trigger-evals/`. Each public skill lis
 ## Maintainer workflow
 
 1. Keep the public skill surface limited to `aesthetic-literacy` and `aesthetic-application` unless the project explicitly changes its positioning.
-2. Add or update canonical entries under `skills/aesthetic-literacy/aesthetics/`.
-3. Keep root `knowledge/aesthetics/` notes source-grounded and maintainer-focused; do not rely on them for routine installed-user workflows.
-4. Regenerate the installed-user index after dictionary changes:
+2. Before authoring a canonical entry, load [`docs/templates/canonical-aesthetic-entry.md`](docs/templates/canonical-aesthetic-entry.md) and preserve its current frontmatter and section contract. Do not maintain a second copied schema in prompts or contributor notes.
+3. Before creating or updating a research profile, load [`docs/schemas/aesthetic-profile.schema.json`](docs/schemas/aesthetic-profile.schema.json); the JSON schema is the source of truth for profile frontmatter.
+4. Add or update canonical entries under `skills/aesthetic-literacy/aesthetics/` and research profiles under `knowledge/aesthetics/`.
+5. Keep root `knowledge/aesthetics/` notes source-grounded and maintainer-focused; do not rely on them for routine installed-user workflows.
+6. Regenerate the installed-user index after dictionary changes:
 
    ```bash
    python3 scripts/generate_aesthetic_index.py
    ```
 
-5. Add or update trigger fixtures in `tests/trigger-evals/` when skill descriptions or routing behavior changes.
-6. Run the validation commands above and keep README/CI examples portable. Do not include machine-local paths in docs, generated files, commit messages, or PR text.
+7. Add or update trigger fixtures in `tests/trigger-evals/` when skill descriptions or routing behavior changes.
+8. Change schemas, templates, validators, and their regression coverage together in the same PR so authoring guidance cannot drift from enforcement.
+9. Run the validation commands above and keep README/CI examples portable. Do not include machine-local paths in docs, generated files, commit messages, or PR text.
