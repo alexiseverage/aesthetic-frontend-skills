@@ -5,7 +5,7 @@ family: digital-internet-native
 era: unknown
 aliases: []
 status: canonical
-evidence_level: synthesis
+evidence_level: limited
 related: [glitch, j-gov-futurism, techno-noir, cybersigilism, high-performance-hmi]
 subsets: []
 ---
