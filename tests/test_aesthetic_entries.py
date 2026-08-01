@@ -119,6 +119,16 @@ HISTORICAL_AVANT_GARDE_CANONICAL_BATCH = [
     "suprematism",
     "vorticism",
 ]
+COMMERCIAL_MODERNISM_AND_CIVIC_PRINT_BATCH = [
+    "1990s-minimalism",
+    "atomic-age",
+    "brutalism",
+    "corporate-memphis",
+    "desktop-publishing",
+    "streamline-moderne",
+    "vienna-secession",
+    "wpa-poster-style",
+]
 CANONICAL_ENTRY_SECTIONS = [
     "## Scope",
     "## 7-Dimension Profile",
@@ -248,6 +258,24 @@ def test_historical_avant_garde_batch_has_no_target_schema_warnings():
     known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
 
     for slug in HISTORICAL_AVANT_GARDE_CANONICAL_BATCH:
+        path = dictionary_root / f"{slug}.md"
+        text = path.read_text(encoding="utf-8")
+        metadata = _frontmatter(path)
+
+        assert metadata["status"] == "canonical", f"{slug} is not canonical"
+        assert metadata["evidence_level"] in {"standard", "limited"}
+        assert isinstance(metadata["related"], list)
+        assert isinstance(metadata["subsets"], list)
+        for section in CANONICAL_ENTRY_SECTIONS:
+            assert section in text, f"{slug} missing {section}"
+        assert target_schema_warnings(metadata, text, known_slugs) == []
+
+
+def test_commercial_modernism_and_civic_print_batch_has_no_target_schema_warnings():
+    dictionary_root = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics"
+    known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
+
+    for slug in COMMERCIAL_MODERNISM_AND_CIVIC_PRINT_BATCH:
         path = dictionary_root / f"{slug}.md"
         text = path.read_text(encoding="utf-8")
         metadata = _frontmatter(path)
