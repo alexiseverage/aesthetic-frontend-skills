@@ -4,32 +4,74 @@ label: Scandinavian Modern
 family: historical-design-movements
 era: 1930s–1960s (peak 1950s, enduring)
 aliases: ["Nordic Modern", "Danish Modern", "Swedish Modern", "Scandi Minimalism"]
+status: canonical
+evidence_level: limited
+related: ["mid-century-modern", "wabi-sabi-slow-living", "shaker-design"]
+subsets: []
 ---
 
-**Palette**: Muted, powdery, nature-grounded neutrals: warm white `#F5F0EB`, cream `#FFFDD0`, pale birch `#E8DCCA`, soft grey `#D3D3D3`. Gentle accents: muted sage `#9CAF88`, dusty blue `#7B9EB3`, warm terracotta `#C48E6E`, charcoal `#2D2D2D`. Palette is soft and low-contrast — never loud, never saturated. The light IS the color — spaces are designed around daylight.
+# Scandinavian Modern
 
-**Type**: Clean, quiet, functional sans-serifs — Futura, Gill Sans, Helvetica used sparingly. Type is never the star; it serves legibility. Google Fonts: Inter or Work Sans (primary), Lora (optional warm-serif body), Space Grotesk (headings). Tight tracking, modest sizes, generous leading. Typography breathes.
-
-**Texture**: Natural materials as primary texture language: pale wood grain (birch, ash, beech), wool knit, linen weave, matte ceramic, brushed brass, leather. No high-gloss, no chrome, no plastic sheen. CSS: subtle noise overlays, soft paper textures, matte surfaces via flat color + minimal gradients.
-
-**Shape**: Organic minimalism — gentle curves, tapered legs, soft rounded corners (4px–12px). Nothing sharp, nothing aggressive, nothing purely geometric. The visual equivalent of a rounded pebble or a smooth driftwood branch. CSS: `border-radius: 4px–12px`, gently curved organic shapes, tapered forms.
-
-**Motion**: Nearly imperceptible — functional, quiet, purpose-driven. Slow cross-fades. No bounce, no spring, no attention-demanding transitions. CSS: `transition: all 0.3s ease`, subtle hover states, nothing gratuitous.
-
-**Spatial**: Generous negative space, light-filled, uncluttered. Asymmetrical but never chaotic. Elements float in breathing room. The philosophy of "less but better" applied to spatial rhythm. CSS: generous padding and margins, airy grid layouts, negative space as a design element, single focal point per viewport.
-
-**Cultural markers**: Arne Jacobsen's Egg Chair, Hans Wegner's Wishbone Chair, Alvar Aalto's bentwood, Lunning Prize (1951–1970), "Design in Scandinavia" traveling exhibition (1954–1957). Hygge — the Danish concept of warm coziness. Democratic design — beauty for everyone, not luxury for the few. IKEA is the mass-market descendent.
-
-**Non-negotiables**: muted natural palette + natural material textures + organic gentle shapes + generous negative space + functional quiet typography
-
-## Connotation
-**Mode: authentic.** Scandinavian Modern is a genuine, unbroken design tradition — not a revival or ironic quotation. From its 1930s origins through mid-century peak to today's IKEA-descended practice, the aesthetic has never gone out of use. There is no "quotation mark" around Scandi Modern; when employed today, it carries the same functional, democratic ethos it always did. Contemporary digital applications (clean UI, lifestyle branding, wellness spaces) inherit the philosophy directly, not as nostalgia.
+Scandinavian Modern is Nordic functional modernism softened by daylight, natural materials, humane scale, and democratic domestic design. It should feel warm, useful, and craft-aware rather than blank, beige, or luxury-minimal.
 
 ## Scope
-**Suitable:** Clean UI/product design systems, lifestyle and wellness brands, architecture and interior design portfolios, editorial and publishing platforms, e-commerce for natural/home goods, museum and cultural institution sites, any brand positioning around sustainability or craft. Scandinavian Modern's restraint, warmth, and clarity make it a strong choice whenever the message is "quality without ostentation."
 
-**NOT suitable:** Gaming interfaces, entertainment and media brands (music, film — needs more energy), maximalist fashion, sports and fitness brands, children's products, crypto/Web3, high-energy marketing campaigns. The aesthetic's quietness reads as flat and underpowered when the brief calls for excitement, urgency, or spectacle.
+Use Scandinavian Modern for clean product systems, lifestyle and wellness brands, architecture/interior portfolios, home-goods commerce, cultural institutions, publishing, and sustainability or craft-oriented services. Avoid it for high-energy entertainment, gaming, sports, maximal fashion, crypto/Web3 spectacle, or campaigns that require urgency, shock, or loud personality.
 
-**Related**: *Japandi* — the contemporary fusion of Japanese minimalism and Scandinavian functionalism (2010s–present). Darker woods, more asymmetry, more wabi-sabi imperfection. *Organic Modern* — the broader 21st-century interior style blending Scandi neutrality with MCM warmth. Scandinavian Modern is the ancestor of both.
+## 7-Dimension Profile
 
-**Vs. Mid-century Modern (American)**: Scandi = muted, powdery, cool-warm, daylight-grounded, restraint-philosophy. American MCM = bold, saturated, warm-hot, color-driven, consumer-optimism philosophy. They share organic forms and clean lines but diverge in palette temperature and cultural energy — Scandi whispers, MCM declares.
+**Palette**: Warm white, cream, pale birch, light gray, muted sage, dusty blue, terracotta, charcoal, deeper forest accents, and daylight-oriented low contrast. Color should support calm domestic use, not dominate.
+
+**Type**: Quiet humanist or geometric sans, restrained serif support, clean signage/editorial hierarchy, generous leading, and type that disappears into use. Novelty display or luxury drama is off-model.
+
+**Texture**: Birch, ash, beech, teak, wool, linen, matte ceramic, leather, brushed metal, paper, stone, and diffused natural light. High-gloss synthetic texture weakens the warmth.
+
+**Shape**: Gentle rectilinear frames, softened corners, ergonomic curves, tapered legs, clean joinery, woven motifs, modest vessel forms, and organic minimal silhouettes. Nothing should feel aggressive or over-ornamented.
+
+**Motion**: Minimal, calm, useful fades or gentle slides with domestic breath. Motion should support orientation rather than perform; bounce, strobe, or theatrical spectacle disrupts the aesthetic.
+
+**Spatial**: Uncluttered rooms, generous negative space, daylight orientation, modular shelving, open domestic zones, intimate object spacing, and asymmetry held in calm balance. Digital density should preserve breathing room.
+
+**Cultural markers**: Denmark, Sweden, Finland, Norway, Iceland, Kaare Klint, Arne Jacobsen, Alvar Aalto, Danish modern furniture, Nordic housewares, 1950s design culture, craft plus industry, and welfare-modernist democratic design.
+
+## Non-Negotiables
+
+**Non-negotiables**: daylight-oriented muted palette; natural material texture; functional restraint; humane spacing; gentle ergonomic shape; and craft/social context. Generic beige minimalism is not Scandinavian Modern.
+
+## Connotation
+
+Scandinavian Modern connotes calm utility, democratic quality, domestic warmth, and design without ostentation. Its contemporary use often feels continuous rather than nostalgic, but it should not erase the Nordic craft and welfare-modernist roots.
+
+## Related / Subsets
+
+- `mid-century-modern` overlaps in period and furniture language but is broader, warmer-saturated, more American, and often more atomic or graphic.
+- `wabi-sabi-slow-living` shares restraint and material sensitivity but values imperfection and slowness over polished utility.
+- `shaker-design` shares honesty and simplicity but is more ascetic and religious in origin.
+- No canonical subsets are listed; Japandi and Organic Modern remain related contemporary variants rather than dictionary subsets here.
+
+## Frontend / UI Guidance
+
+Compose screens like light-filled rooms: airy grids, generous padding, muted surfaces, natural texture accents, clean product cards, and quiet human-centered forms. Let content and usability lead; reserve material motifs for warmth rather than decorative clutter.
+
+## CSS Translation
+
+- Color tokens: `--scandi-white: #f5f0eb; --scandi-cream: #fffdd0; --scandi-birch: #e8dcca; --scandi-gray: #d3d3d3; --scandi-sage: #9caf88; --scandi-blue: #7b9eb3; --scandi-terracotta: #c48e6e; --scandi-charcoal: #2d2d2d`.
+- Texture: subtle paper/noise overlays, pale wood-grain hints, linen-like backgrounds, matte surfaces, and soft daylight gradients.
+- Shape: 4–12px radius, soft cards, tapered/organic accents, and restrained joinery-like dividers.
+- Layout: generous margins, open modular grids, single focal points, and calm asymmetry.
+
+## Typography / Fonts
+
+Use Inter, Work Sans, Space Grotesk, clean humanist/geometric sans systems, and optional warm serif support such as Lora. Keep hierarchy modest with breathable leading; avoid loud novelty display or cold all-caps austerity as the main voice.
+
+## Cultural / Ethical Notes
+
+Avoid flattening Scandinavian Modern into generic “Scandi” beige lifestyle branding. Preserve the Nordic domestic, craft, social-democratic, and human-centered context instead of presenting the mode as universal neutral good taste.
+
+## Anti-Patterns
+
+- Blank white minimalism with no warmth, material, or craft logic.
+- Luxury spa beige that erases democratic function.
+- Saturated retro MCM color pasted onto Nordic restraint.
+- Decorative hygge clichés detached from design history.
+- Overly sparse screens that sacrifice usability or human scale.

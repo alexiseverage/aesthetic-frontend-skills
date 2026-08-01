@@ -4,51 +4,75 @@ label: Wartime Propaganda Poster Design
 family: historical-design-movements
 era: 1939–1945
 aliases: ["WWII Propaganda", "Propaganda Poster", "War Poster Design"]
+status: canonical
+evidence_level: limited
+related: ["wpa-poster-style", "new-objectivity", "pop-art", "constructivism"]
+subsets: []
 ---
 
-> [!important] Graphic-design-only entry
-> Wartime Propaganda is a poster-scale graphic design aesthetic, not a full design movement spanning furniture, architecture, or product design. It translates powerfully to hero sections, poster-style layouts, and brand-impact moments, but offers little for navigation, forms, data tables, or sustained reading. Use as an accent/hero language, not a full UI system.
+# Wartime Propaganda Poster Design
 
-**Palette**: Bold flat colors, 2–4 colors maximum per poster (printing economy). US variant: `#CC3333` (red), `#FFFFFF` (white), `#1A3C6D` (navy blue). UK variant: `#8B7355` (khaki), `#CC3333` (red), `#F5F0DC` (cream paper). Soviet variant: `#CC0000` (red), `#000000` (black), `#FFFFFF` (white). No gradients, no subtle transitions — flat color regions with dramatic contrast.
-
-**Type**: Condensed bold sans-serif display faces with urgent energy. Franklin Gothic Condensed, Alternate Gothic. Google Fonts: Bebas Neue, Oswald, Anton, Archivo Black. Generous tracking on all-caps headlines. Short imperative text — never paragraphs. Type is a weapon: bold, direct, unignorable.
-
-**Texture**: Production-limited textures: silkscreen grain, offset litho imperfections, aged paper patina, ink saturation variation. CSS: SVG `feTurbulence` for print grain, `mix-blend-mode: multiply` for ink-over-paper feeling, subtle noise overlays for vintage paper.
-
-**Shape**: Bold simplified silhouettes, flat color regions (no gradients), dramatic cropping. Iconic central figure dominates composition — soldier, worker, woman, hand. Forms are reduced to their most readable silhouette.
-
-**Motion**: Static by design — posters don't animate. In digital translation: deliberate, weighty reveals. CSS: hard cuts, `fade-in` with gravitas, no bounce or spring. Each frame should feel like a poster that happens to appear digitally.
-
-**Spatial**: Centered or strongly asymmetric. Large hero image with integrated headline. Footer slogan band. Poster-proportioned: tall vertical format with strong figure-ground hierarchy. CSS: portrait-aspect hero sections, dramatic whitespace around central figure, text anchored to image.
-
-**Cultural markers**: "We Can Do It" / Rosie the Riveter, "Keep Calm and Carry On" (UK), "I Want You" / Uncle Sam, Soviet constructivist-inspired bold geometry. State-messaging purpose, emotional direct address ("YOU!"), short imperative slogans. The aesthetic of collective mobilization — design in service of national urgency.
-
-**Non-negotiables**: bold flat 2–4 color palette + condensed bold display type + iconic central figure + short imperative text + dramatic figure-ground contrast
-
-## Google Fonts
-
-- **Bebas Neue** — tall condensed all-caps sans-serif with authoritative presence; ideal for short imperative headlines
-- **Oswald** — condensed bold sans-serif with multiple weights; versatile for headlines and subheadings with urgent energy
-- **Anton** — heavy condensed display face with maximum impact; echoes the bold poster typography of the era
-- **Archivo Black** — thick grotesque with commanding weight; works for single-word impact statements and logo treatment
-
-> [!tip] Note
-> All four fonts should be used in all-caps with generous letter-spacing (`letter-spacing: 0.05em–0.15em`). Wartime propaganda typography is never conversational — it is always declarative, imperative, and short.
-
-## Connotation
-
-**Collective urgency — authoritative, mobilizing, morally declarative.** Wartime Propaganda's primary mode is the voice of shared sacrifice: "we are all in this together, and this is what we must do." The aesthetic is authoritative but not corporate — it speaks for the nation, not the brand. In contemporary use, borrowing propaganda language carries deliberate political or activist charge: using "We Can Do It" composition or "I Want You" direct address is itself a statement about collective action. This is neither ironic (the visual language is too historically weighted for irony) nor nostalgic (it's too urgent for wistfulness) — it is a *revival of authoritative address*, deployed when you need to speak with the weight of collective mobilization.
+Wartime Propaganda Poster Design is a historically heavy poster-scale graphic language of state persuasion, mobilization, morale, rationing, recruitment, and direct public instruction. It is not a neutral vintage style and should never be used to hide coercive or militarized rhetoric inside decorative nostalgia.
 
 ## Scope
 
-**Hero-section, poster, and call-to-action contexts.** Wartime Propaganda aesthetics excel at landing page hero sections with strong CTA, political campaign and activist sites, event posters and promotional materials, cause-based marketing, and zine/editorial layouts with a deliberate political edge. The iconic central figure + short imperative text + dramatic figure-ground contrast translates directly to hero-section web layouts.
+Use this aesthetic only for poster-native hero sections, campaign or activist pages, archival/editorial storytelling, cause-based calls to action, museum framing, and deliberate political communication where authoritative collective address is intended. Avoid it for corporate SaaS, e-commerce, healthcare, civic neutrality, data-dense apps, or contexts where manipulative persuasion or militarized connotation would be inappropriate.
 
-**Avoid for:** corporate SaaS and B2B applications (the authoritative state-messaging tone clashes with customer-service ethos), e-commerce (propaganda language undermines consumer-choice framing), data-dense interfaces (the aesthetic provides no conventions for tables, forms, or navigation), and any context where the political connotations are undesirable or inappropriate. Wartime Propaganda is not a neutral design system — every use carries the weight of its historical associations. Deploy it when you intend to borrow that weight.
+## 7-Dimension Profile
 
-## Subsets / Related
+**Palette**: Flat red, navy, black, white, cream, khaki, and limited two-to-four-color regional systems: US red/white/navy, UK khaki/cream/red, or Soviet red/black/white. Gradients and decorative abundance weaken the print-economy urgency.
 
-- *US Home Front* — the "We Can Do It" / Rosie the Riveter wing: red-white-navy palette, factory-worker iconography, collective-effort messaging. The most commonly referenced variant in contemporary design.
-- *British Keep Calm* — the "Keep Calm and Carry On" wing: cream-paper background, red crown/type, understated stiff-upper-lip stoicism. More restrained and ironic-friendly than the US variant.
-- *Soviet Constructivist Propaganda* — bolder geometry, red-black-white palette, dynamic diagonal compositions, photomontage. More abstract and formally experimental than Western variants.
-- Distinct from **[[bauhaus]]** — Bauhaus shares the bold flat colors and condensed sans-serif type but is functional, systematic, and design-theory-driven. Wartime Propaganda is emotionally direct and message-driven.
-- Distinct from **[[constructivism]]** — Soviet Constructivist propaganda is a subset, but Constructivism as a broader movement predates WWII and has its own artistic/theoretical framework independent of state messaging.
+**Type**: Condensed bold sans, imperative poster headlines, short slogans, commanding hierarchy, all-caps tracking, and text readable at distance. Long subtle body-led typography is off-model.
+
+**Texture**: Silkscreen or lithographic flatness, paper grain, ink coverage variation, aged poster wear, brush illustration surfaces, and archival reproduction texture. Glossy digital polish erases the poster materiality.
+
+**Shape**: Hero figures, pointing arms, flags, hands, workers, soldiers, factory silhouettes, badges, diagonals, emphatic frames, and simplified central icons. Neutral decoration detached from message urgency is wrong.
+
+**Motion**: Static poster authority translated into deliberate reveals, hard cuts, panel swaps, or march-like transitions. Playful bounce, shimmer, or gamified delight conflicts with the tone.
+
+**Spatial**: Single-message hero composition, tall poster proportion, bold CTA hierarchy, figure-ground drama, footer slogan bands, dramatic cropping, and short copy blocks. It offers little for sustained navigation, forms, or tables.
+
+**Cultural markers**: Recruitment, rationing, morale, national duty, wartime labor, “We Can Do It,” “I Want You,” “Keep Calm and Carry On,” archive/museum framing, Soviet constructivist propaganda variants, and direct “YOU” address.
+
+## Non-Negotiables
+
+**Non-negotiables**: flat limited palette; poster-scale imperative type; iconic central figure or emblem; short directive copy; dramatic figure-ground contrast; and explicit acknowledgment of persuasion history. Generic bold vintage posters are not enough.
+
+## Connotation
+
+Wartime propaganda connotes collective urgency, authoritative address, sacrifice, moral declaration, and behavioral steering under crisis. Contemporary reuse is politically charged; it should make the borrow explicit rather than pretending the mode is neutral inspiration.
+
+## Related / Subsets
+
+- `wpa-poster-style` is also flat and poster-native but civic-educational and less militarized.
+- `new-objectivity` is critical and observational where propaganda is directive and mobilizing.
+- `pop-art` shares poster force, but Pop Art reflects on mass media while propaganda attempts to steer behavior directly.
+- `constructivism` informs some Soviet propaganda geometry but remains a broader prewar avant-garde movement.
+- No canonical subsets are listed; US Home Front, British Keep Calm, and Soviet variants are treated as internal variants here.
+
+## Frontend / UI Guidance
+
+Use the style for high-impact hero panels, archive cards, campaign CTAs, poster series, and editorial spreads. Keep donation, consent, policy, safety, navigation, and explanatory content outside the manipulative poster voice in clear accessible UI.
+
+## CSS Translation
+
+- Color tokens: `--wp-red: #cc3333; --wp-navy: #1a3c6d; --wp-cream: #f5f0dc; --wp-khaki: #8b7355; --wp-black: #000000; --wp-white: #ffffff`.
+- Texture: paper grain, multiply-blended ink fields, silkscreen masks, and subtle archival wear.
+- Shape: portrait hero frames, central figure silhouettes, badge/flag motifs, hard slogan bands, and dramatic crops.
+- Motion: weighty fades, hard cuts, panel reveals, and reduced-motion static poster states.
+
+## Typography / Fonts
+
+Use Bebas Neue, Oswald, Anton, Archivo Black, Franklin Gothic Condensed-like faces, Alternate Gothic-like faces, and other condensed bold display typography. Set imperative headlines in short all-caps bursts with generous tracking; use readable support type for context and disclaimers.
+
+## Cultural / Ethical Notes
+
+This aesthetic is bound to war, state persuasion, coercion, sacrifice, and national mobilization. Avoid manipulating users through false emergency, laundering militarized messaging into commerce, or borrowing iconic propaganda structures without acknowledging the violence and persuasion context.
+
+## Anti-Patterns
+
+- Treating propaganda as harmless “bold vintage” decoration.
+- Using state-mobilization tone to sell ordinary consumer products.
+- Hiding coercive or manipulative copy under nostalgic poster styling.
+- Applying the style to trust-sensitive public services without strong ethical framing.
+- Confusing all flat poster art with wartime propaganda.
