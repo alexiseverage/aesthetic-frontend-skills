@@ -147,6 +147,7 @@ Installed users primarily need the skill-local files:
 
 - `skills/aesthetic-literacy/SKILL.md` — trigger rules, 7-dimension framework, disambiguation protocol, and dictionary lookup workflow.
 - `skills/aesthetic-literacy/references/aesthetic-index.md` — generated slug, family, redirect, and alias index.
+- `skills/aesthetic-literacy/references/aesthetic-manifest.json` — generated public machine-readable integration contract for catalog consumers.
 - `skills/aesthetic-literacy/aesthetics/<slug>.md` — compact canonical production guidance for each supported aesthetic.
 - `skills/aesthetic-application/SKILL.md` — application workflow and output requirements.
 - `skills/aesthetic-application/references/` — output contract, token template, CSS translation patterns, and component-note contract.
@@ -161,7 +162,9 @@ Each canonical aesthetic entry is designed to be small enough for routine agent 
 - The body covers the 7-dimension profile: palette, type, texture, shape, motion, spatial conventions, and cultural markers.
 - Entries include non-negotiables, connotation guidance, related/subset notes, frontend/UI guidance, CSS translation notes, typography/font guidance, cultural/ethical notes, and anti-patterns.
 - Redirect entries point older or superseded terms to the canonical slug.
-- `scripts/generate_aesthetic_index.py` renders the installed-user index from dictionary frontmatter, and `python3 scripts/generate_aesthetic_index.py --check` verifies that index freshness.
+- `scripts/generate_aesthetic_index.py` renders both the installed-user Markdown index and the JSON manifest from the same dictionary frontmatter records. `python3 scripts/generate_aesthetic_index.py --check` verifies both artifacts and fails if either is missing or stale.
+
+The versioned `aesthetic-manifest.json` is the public machine-readable integration contract. Its top-level counts and sorted `entries` expose only stable catalog fields: slug, label, family, status, aliases, and redirect target when applicable. Consumers should use `schemaVersion` when adapting to future contract changes. Research notes, source logs, and maintainer environment state are intentionally excluded.
 
 See [`skills/aesthetic-literacy/references/artifact-schema.md`](skills/aesthetic-literacy/references/artifact-schema.md) for the compact installed-user schema reference.
 
@@ -174,7 +177,6 @@ Run these before opening a release or content PR:
 ```bash
 python3 -m pip install -r requirements.txt
 make check
-python3 scripts/generate_aesthetic_index.py --check
 npx skills add . -l --full-depth
 ```
 
@@ -183,6 +185,7 @@ npx skills add . -l --full-depth
 - `make doctor` for repository structure and executable-script checks.
 - `make validate` for strict profile and dictionary validation, plus skill metadata, trigger fixtures, generated index, and link validation.
 - `make audit` for strict dictionary/profile consistency and target-schema auditing.
+- `make generated` for Markdown index and JSON manifest freshness.
 - `make test` for the pytest regression suite.
 
 Trigger-selection fixtures live in `tests/trigger-evals/`. Each public skill listed in `skills.sh.json` must have one JSON fixture with positive and negative examples.
@@ -194,7 +197,7 @@ Trigger-selection fixtures live in `tests/trigger-evals/`. Each public skill lis
 3. Before creating or updating a research profile, load [`docs/schemas/aesthetic-profile.schema.json`](docs/schemas/aesthetic-profile.schema.json); the JSON schema is the source of truth for profile frontmatter.
 4. Add or update canonical entries under `skills/aesthetic-literacy/aesthetics/` and research profiles under `knowledge/aesthetics/`.
 5. Keep root `knowledge/aesthetics/` notes source-grounded and maintainer-focused; do not rely on them for routine installed-user workflows.
-6. Regenerate the installed-user index after dictionary changes:
+6. Regenerate the installed-user index and public JSON manifest after dictionary changes:
 
    ```bash
    python3 scripts/generate_aesthetic_index.py

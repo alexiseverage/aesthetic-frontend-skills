@@ -1,4 +1,4 @@
-.PHONY: python-version doctor validate test check audit
+.PHONY: python-version doctor validate audit generated test check
 
 python-version:
 	python3 scripts/check_python_version.py
@@ -16,7 +16,10 @@ validate:
 audit:
 	python3 scripts/audit_aesthetic_schema.py --strict
 
+generated:
+	python3 scripts/generate_aesthetic_index.py --check
+
 test:
 	python3 -m pytest tests -q
 
-check: python-version doctor validate audit test
+check: python-version doctor validate audit generated test

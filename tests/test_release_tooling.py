@@ -47,7 +47,7 @@ def test_makefile_exposes_standard_tooling_targets():
     assert makefile.exists()
     text = makefile.read_text(encoding="utf-8")
     assert ".PHONY:" in text
-    for target in ("python-version", "doctor", "validate", "test", "check"):
+    for target in ("python-version", "doctor", "validate", "generated", "test", "check"):
         assert f"{target}:" in text
 
 
@@ -56,7 +56,7 @@ def test_make_check_runs_python_version_preflight():
 
     text = makefile.read_text(encoding="utf-8")
     assert "python3 scripts/check_python_version.py" in text
-    assert re.search(r"^check: python-version doctor validate audit test$", text, re.MULTILINE)
+    assert re.search(r"^check: python-version doctor validate audit generated test$", text, re.MULTILINE)
 
 
 def test_make_check_enforces_strict_schema_and_audit_defaults():
@@ -66,7 +66,14 @@ def test_make_check_enforces_strict_schema_and_audit_defaults():
     assert "python3 scripts/validate_profile.py --schema-mode strict" in text
     assert "python3 scripts/validate_dictionary.py --schema-mode strict" in text
     assert "python3 scripts/audit_aesthetic_schema.py --strict" in text
-    assert re.search(r"^check: python-version doctor validate audit test$", text, re.MULTILINE)
+    assert re.search(r"^check: python-version doctor validate audit generated test$", text, re.MULTILINE)
+
+
+def test_make_check_enforces_generated_artifact_freshness():
+    makefile = (REPO_ROOT / "Makefile").read_text(encoding="utf-8")
+
+    assert "generated:" in makefile
+    assert "python3 scripts/generate_aesthetic_index.py --check" in makefile
 
 
 def test_readme_covers_public_positioning_and_maintainer_workflow():
@@ -86,6 +93,8 @@ def test_readme_covers_public_positioning_and_maintainer_workflow():
         "aesthetic-literacy",
         "aesthetic-application",
         "Python 3.10 or newer",
+        "aesthetic-manifest.json",
+        "public machine-readable integration contract",
     ]
 
     for phrase in required_phrases:
@@ -99,7 +108,6 @@ def test_ci_runs_release_validation_and_skills_discovery():
     text = workflow.read_text(encoding="utf-8")
     assert "make check" in text
     assert "python-version: '3.10'" in text
-    assert "python3 scripts/generate_aesthetic_index.py --check" in text
     assert "npx skills add . -l --full-depth" in text
     assert "/" + "home/" not in text
     assert "~/" + ".hermes/node/bin" not in text
