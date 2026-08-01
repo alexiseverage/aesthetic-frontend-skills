@@ -7,7 +7,7 @@ source: mixed text sources; no downloaded image corpus
 image_count: 0
 evidence_level: limited
 new_aesthetic: false
-aliases: ["Jugendstil", "Stile Liberty", "Modernisme", "Modern Style", "Secession style"]
+aliases: ["Jugendstil", "Stile Liberty", "Modernisme", "Modern Style"]
 ---
 
 # Art Nouveau

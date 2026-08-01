@@ -92,8 +92,7 @@
         "Jugendstil",
         "Stile Liberty",
         "Modernisme",
-        "Modern Style",
-        "Secession style"
+        "Modern Style"
       ]
     },
     {
@@ -547,9 +546,7 @@
       "label": "Frutiger Aero",
       "family": "digital-internet-native",
       "status": "canonical",
-      "aliases": [
-        "Web 2.0 Gloss"
-      ]
+      "aliases": []
     },
     {
       "slug": "futurism",

@@ -5,6 +5,9 @@ from __future__ import annotations
 
 import argparse
 import sys
+import unicodedata
+from collections import defaultdict
+from dataclasses import dataclass
 from pathlib import Path
 
 from validation_common import is_string_list, missing_body_markers, split_frontmatter
@@ -45,6 +48,13 @@ TARGET_BODY_SECTIONS = (
 )
 
 
+@dataclass(frozen=True)
+class IdentityReference:
+    path: Path
+    field: str
+    canonical_owner: str
+
+
 def dictionary_paths(root: Path) -> list[Path]:
     if root.is_file():
         return [root]
@@ -53,6 +63,126 @@ def dictionary_paths(root: Path) -> list[Path]:
 
 def is_redirect(frontmatter: dict[str, object]) -> bool:
     return "redirect" in frontmatter or "superseded_by" in frontmatter
+
+
+def normalize_identity(value: str) -> str:
+    """Normalize public names across case, whitespace, and punctuation variants."""
+    normalized = unicodedata.normalize("NFKC", value).casefold()
+    words = "".join(
+        character if character.isalnum() else " " for character in normalized
+    ).split()
+    return " ".join(words)
+
+
+def redirect_target(frontmatter: dict[str, object]) -> tuple[str, str] | None:
+    for field in ("redirect", "superseded_by"):
+        value = frontmatter.get(field)
+        if isinstance(value, str) and value.strip():
+            return field, value
+    return None
+
+
+def collection_errors(paths: list[Path]) -> dict[Path, list[str]]:
+    """Validate identities and redirect graphs that require collection-wide context."""
+    errors: dict[Path, list[str]] = defaultdict(list)
+    records: dict[str, tuple[Path, dict[str, object]]] = {}
+    for path in paths:
+        frontmatter, _ = split_frontmatter(path)
+        if frontmatter is None or "__frontmatter_type_error__" in frontmatter:
+            continue
+        slug = frontmatter.get("slug")
+        if isinstance(slug, str) and slug == path.stem:
+            records[slug] = (path, frontmatter)
+
+    redirects = {
+        slug: target
+        for slug, (_, frontmatter) in records.items()
+        if (target := redirect_target(frontmatter)) is not None
+    }
+    owner_cache: dict[str, str | None] = {}
+    reported_cycles: set[frozenset[str]] = set()
+
+    def resolve_owner(slug: str, trail: list[str]) -> str | None:
+        if slug in owner_cache:
+            return owner_cache[slug]
+        redirect = redirects.get(slug)
+        if redirect is None:
+            owner_cache[slug] = slug
+            return slug
+
+        field, target = redirect
+        path = records[slug][0]
+        if target == slug:
+            errors[path].append(
+                f"Self-redirect: {path.name} field '{field}' targets its own slug '{slug}'"
+            )
+            owner_cache[slug] = None
+            return None
+        if target in trail:
+            cycle = trail[trail.index(target) :] + [slug]
+            cycle_key = frozenset(cycle)
+            if cycle_key not in reported_cycles:
+                reported_cycles.add(cycle_key)
+                edges = []
+                for cycle_slug in cycle:
+                    cycle_path, cycle_frontmatter = records[cycle_slug]
+                    cycle_field, cycle_target = redirect_target(cycle_frontmatter) or (
+                        "redirect",
+                        "",
+                    )
+                    edges.append(
+                        f"{cycle_path.name} field '{cycle_field}' -> '{cycle_target}'"
+                    )
+                message = "Redirect cycle detected: " + "; ".join(edges)
+                for cycle_slug in cycle:
+                    errors[records[cycle_slug][0]].append(message)
+                    owner_cache[cycle_slug] = None
+            return None
+        if target not in records:
+            owner_cache[slug] = None
+            return None
+
+        owner = resolve_owner(target, [*trail, slug])
+        owner_cache[slug] = owner
+        return owner
+
+    for slug in records:
+        resolve_owner(slug, [])
+
+    identities: dict[str, list[IdentityReference]] = defaultdict(list)
+    for slug, (path, frontmatter) in records.items():
+        owner = owner_cache.get(slug)
+        if owner is None:
+            continue
+        values: list[tuple[str, str]] = [("slug", slug)]
+        label = frontmatter.get("label")
+        if isinstance(label, str) and label.strip():
+            values.append(("label", label))
+        aliases = frontmatter.get("aliases")
+        if isinstance(aliases, list):
+            values.extend(
+                (f"aliases[{index}]", alias)
+                for index, alias in enumerate(aliases)
+                if isinstance(alias, str) and alias.strip()
+            )
+        for field, value in values:
+            identity = normalize_identity(value)
+            if identity:
+                identities[identity].append(IdentityReference(path, field, owner))
+
+    for identity, references in sorted(identities.items()):
+        if len({reference.canonical_owner for reference in references}) < 2:
+            continue
+        ordered = sorted(references, key=lambda reference: (reference.path.name, reference.field))
+        details = "; ".join(
+            f"{reference.path.name} field '{reference.field}' (resolves to '{reference.canonical_owner}')"
+            for reference in ordered
+        )
+        message = f"Identity '{identity}' conflicts across canonical owners: {details}"
+        for path in {reference.path for reference in ordered}:
+            errors[path].append(message)
+
+    return errors
 
 
 def target_schema_warnings(frontmatter: dict[str, object], body: str, known_slugs: set[str]) -> list[str]:
@@ -153,8 +283,10 @@ def main() -> None:
     full_entry_failures = 0
     warning_count = 0
     known_slugs = {path.stem for path in paths}
+    identity_errors = collection_errors(paths)
     for path in paths:
         errors, warnings, redirect = validate_entry(path, schema_mode=args.schema_mode, known_slugs=known_slugs)
+        errors.extend(identity_errors.get(path, []))
         if redirect:
             redirects += 1
         else:

@@ -3,7 +3,7 @@ slug: frutiger-aero
 label: Frutiger Aero
 family: digital-internet-native
 era: 2004–2013
-aliases: ["Web 2.0 Gloss"]
+aliases: []
 status: canonical
 evidence_level: limited
 related: ["web-2-gloss", "skeuomorphism", "y2k", "vaporwave"]
