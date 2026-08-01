@@ -3,7 +3,7 @@ slug: dark-academia
 label: Dark Academia
 family: contemporary-lifestyle
 era: mid-2010s–present internet community; 2020 mainstream peak
-aliases: []
+aliases: ["academic gothic", "scholastic gothic"]
 status: canonical
 evidence_level: limited
 related: ["cottagecore", "storybook-gothic", "gothic-revival"]

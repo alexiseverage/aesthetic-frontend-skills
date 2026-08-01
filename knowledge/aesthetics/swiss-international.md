@@ -7,7 +7,7 @@ source: mixed text sources; no downloaded image corpus
 image_count: 0
 evidence_level: limited
 new_aesthetic: false
-aliases: ["Swiss Style", "International Typographic Style"]
+aliases: ["Swiss Style", "International Typographic Style", "Schweizer Typografie", "Swiss / International Style"]
 ---
 
 # Swiss / International Typographic Style

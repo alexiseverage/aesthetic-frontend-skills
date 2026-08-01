@@ -1,22 +1,22 @@
 ---
 slug: swiss-international
-label: Swiss / International Style
+label: Swiss / International Typographic Style
 family: historical-design-movements
 era: 1950–1970 (enduring)
-aliases: ["Swiss Style", "International Typographic Style", "Schweizer Typografie"]
+aliases: ["Swiss Style", "International Typographic Style", "Schweizer Typografie", "Swiss / International Style"]
 status: canonical
 evidence_level: limited
 related: ["die-neue-typographie", "ulm-school", "bauhaus", "new-objectivity"]
 subsets: []
 ---
 
-# Swiss / International Style
+# Swiss / International Typographic Style
 
-Swiss / International Style is a postwar graphic-design system centered on objective communication, sans-serif typography, mathematical grids, asymmetric order, photography, and disciplined whitespace. For frontend work, treat it as information architecture first and minimal styling second: the aesthetic succeeds when hierarchy, alignment, and content relationships become the design.
+Swiss / International Typographic Style is a postwar graphic-design system centered on objective communication, sans-serif typography, mathematical grids, asymmetric order, photography, and disciplined whitespace. For frontend work, treat it as information architecture first and minimal styling second: the aesthetic succeeds when hierarchy, alignment, and content relationships become the design.
 
 ## Scope
 
-Use Swiss / International Style for editorial systems, documentation, dashboards, institutional sites, museums, transit or wayfinding, product education, data-heavy explainers, portfolios, and brand systems that need clarity, neutrality, and typographic authority. It is especially strong when a page must make complex information feel calm and trustworthy.
+Use Swiss / International Typographic Style for editorial systems, documentation, dashboards, institutional sites, museums, transit or wayfinding, product education, data-heavy explainers, portfolios, and brand systems that need clarity, neutrality, and typographic authority. It is especially strong when a page must make complex information feel calm and trustworthy.
 
 Avoid using it as a synonym for generic minimalism. The style is not just black text on white space; it depends on precise grids, typographic scale, alignment, image cropping, and systematic hierarchy.
 

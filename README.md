@@ -179,7 +179,8 @@ npx skills add . -l --full-depth
 `make check` runs:
 
 - `make doctor` for repository structure and executable-script checks.
-- `make validate` for profile, skill metadata, trigger fixtures, dictionary, generated index, and link validation.
+- `make validate` for strict profile and dictionary validation, plus skill metadata, trigger fixtures, generated index, and link validation.
+- `make audit` for strict dictionary/profile consistency and target-schema auditing.
 - `make test` for the pytest regression suite.
 
 Trigger-selection fixtures live in `tests/trigger-evals/`. Each public skill listed in `skills.sh.json` must have one JSON fixture with positive and negative examples.

@@ -3,7 +3,7 @@ slug: art-nouveau
 label: Art Nouveau
 family: historical-design-movements
 era: 1890–1910
-aliases: ["Jugendstil", "Stile Liberty", "Modernisme", "Modern Style"]
+aliases: ["Jugendstil", "Stile Liberty", "Modernisme", "Modern Style", "Secession style"]
 status: canonical
 evidence_level: limited
 related: ["arts-and-crafts", "vienna-secession", "art-deco", "gothic-revival"]

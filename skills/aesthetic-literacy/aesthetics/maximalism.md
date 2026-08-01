@@ -3,7 +3,7 @@ slug: maximalism
 label: Maximalism
 family: contemporary-lifestyle
 era: cyclical historical stance; strong 2019–present revival
-aliases: []
+aliases: ["more is more", "decorative abundance"]
 status: canonical
 evidence_level: limited
 related: ["barbiecore", "dark-academia", "cottagecore"]

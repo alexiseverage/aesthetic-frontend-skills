@@ -23,13 +23,13 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `barbiecore` | Barbiecore | Barbie aesthetic, Barbie pink aesthetic, doll-pop glam |
 | `coastal-grandmother` | Coastal Grandmother | Nancy Meyers chic, coastal auntie, easy coastal luxury |
 | `cottagecore` | Cottagecore | farmcore, countrycore |
-| `dark-academia` | Dark Academia | — |
+| `dark-academia` | Dark Academia | academic gothic, scholastic gothic |
 | `decora-kei` | Decora Kei | decora, Harajuku decora, decora fashion, kawaii accessory stacking, decorative kei |
 | `goblincore` | Goblincore | mushroomcore, mosscore, dirtcore-adjacent |
 | `gorpcore` | Gorpcore | outdoorswear streetwear, trail utility fashion, hikingcore-adjacent |
 | `kidcore` | Kidcore | kid core, kidcore aesthetic |
 | `magical-girl` | Magical Girl | mahou shoujo, magical heroine, transformation heroine aesthetic |
-| `maximalism` | Maximalism | — |
+| `maximalism` | Maximalism | more is more, decorative abundance |
 | `nu-goth-pastel-goth` | Nu-Goth / Pastel Goth | nu goth, pastel goth, modern goth fashion |
 | `warm-minimalism` | Warm Minimalism / Quiet Luxury | quiet luxury, warm minimal, stealth wealth, silent luxury, clean girl aesthetic, calm interface |
 | `witchcore` | Witchcore | witch aesthetic, occult cottage, modern witch aesthetic |
@@ -81,7 +81,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `1990s-minimalism` | 1990s Minimalism | 90s minimalism, CK minimalism, fashion minimalism, Calvin Klein aesthetic |
 | `aesthetic-movement` | Aesthetic Movement | Aestheticism, Art for art’s sake, Aesthetic style |
 | `art-deco` | Art Deco | le style moderne, Jazz Moderne, Style Moderne |
-| `art-nouveau` | Art Nouveau | Jugendstil, Stile Liberty, Modernisme, Modern Style |
+| `art-nouveau` | Art Nouveau | Jugendstil, Stile Liberty, Modernisme, Modern Style, Secession style |
 | `arts-and-crafts` | Arts and Crafts Movement | Arts & Crafts, William Morris style |
 | `atomic-age` | Atomic Age / Space Age | Googie, Space Age, Populuxe, Atomic Era, Doo-Wop |
 | `bauhaus` | Bauhaus | Staatliches Bauhaus |
@@ -117,7 +117,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `shaker-design` | Shaker Design | Shaker furniture, Shaker style, United Society of Believers design |
 | `streamline-moderne` | Streamline Moderne | Art Moderne, Streamline, Style Paquebot, Ocean Liner Style |
 | `suprematism` | Suprematism | Suprematist, Malevich Abstraction |
-| `swiss-international` | Swiss / International Style | Swiss Style, International Typographic Style, Schweizer Typografie |
+| `swiss-international` | Swiss / International Typographic Style | Swiss Style, International Typographic Style, Schweizer Typografie, Swiss / International Style |
 | `ulm-school` | Ulm School / HfG Ulm | HfG Ulm, Ulm School of Design, Hochschule für Gestaltung Ulm |
 | `vienna-secession` | Vienna Secession | Wiener Secession, Wiener Werkstätte, Secession Style |
 | `vorticism` | Vorticism | Vorticist, BLAST style |

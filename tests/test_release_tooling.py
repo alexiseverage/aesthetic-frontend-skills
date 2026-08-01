@@ -51,6 +51,16 @@ def test_makefile_exposes_standard_tooling_targets():
         assert f"{target}:" in text
 
 
+def test_make_check_enforces_strict_schema_and_audit_defaults():
+    makefile = REPO_ROOT / "Makefile"
+
+    text = makefile.read_text(encoding="utf-8")
+    assert "python3 scripts/validate_profile.py --schema-mode strict" in text
+    assert "python3 scripts/validate_dictionary.py --schema-mode strict" in text
+    assert "python3 scripts/audit_aesthetic_schema.py --strict" in text
+    assert re.search(r"^check: doctor validate audit test$", text, re.MULTILINE)
+
+
 def test_readme_covers_public_positioning_and_maintainer_workflow():
     readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
 
