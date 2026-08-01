@@ -5,7 +5,7 @@ family: example-family
 era: example-era-or-date-range
 aliases: ["Example Alias", "Example Adjacent Name"]
 status: canonical
-evidence_level: researched
+evidence_level: limited
 related: []
 subsets: []
 ---
@@ -36,7 +36,7 @@ Define the aesthetic's usable boundary in one to three paragraphs. State what be
 
 ## Non-Negotiables
 
-List the two to four properties that must survive for the aesthetic to remain recognizable. If a property is uncertain, move it to the research profile or research log instead of canonizing it here.
+**Non-negotiables**: List the two to four properties that must survive for the aesthetic to remain recognizable. If a property is uncertain, move it to the research profile or research log instead of canonizing it here.
 
 ## Connotation
 

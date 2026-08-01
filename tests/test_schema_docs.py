@@ -1,3 +1,5 @@
+import subprocess
+import sys
 from pathlib import Path
 
 
@@ -67,3 +69,23 @@ def test_schema_templates_document_required_frontmatter_and_sections():
         "append-only",
     ]:
         assert phrase in research_log_template
+
+
+def test_canonical_entry_template_passes_strict_dictionary_validation(tmp_path: Path):
+    fixture = tmp_path / "example-aesthetic-slug.md"
+    fixture.write_text(CANONICAL_TEMPLATE_PATH.read_text(encoding="utf-8"), encoding="utf-8")
+
+    result = subprocess.run(
+        [
+            sys.executable,
+            str(REPO_ROOT / "scripts" / "validate_dictionary.py"),
+            "--schema-mode",
+            "strict",
+            str(fixture),
+        ],
+        text=True,
+        capture_output=True,
+        check=False,
+    )
+
+    assert result.returncode == 0, result.stdout + result.stderr
