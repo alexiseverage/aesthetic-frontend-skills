@@ -1,4 +1,7 @@
-.PHONY: doctor validate test check audit
+.PHONY: python-version doctor validate test check audit
+
+python-version:
+	python3 scripts/check_python_version.py
 
 doctor:
 	./scripts/doctor.sh
@@ -16,4 +19,4 @@ audit:
 test:
 	python3 -m pytest tests -q
 
-check: doctor validate audit test
+check: python-version doctor validate audit test
