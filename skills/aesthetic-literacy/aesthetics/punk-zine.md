@@ -4,32 +4,74 @@ label: Punk Zine / DIY Aesthetic
 family: historical-design-movements
 era: 1975–1985 (enduring influence)
 aliases: ["Punk Design", "Zine Aesthetic", "Ransom Note Typography", "DIY Design", "Jamie Reid Style"]
+status: canonical
+evidence_level: limited
+related: ["grunge-typography", "risograph", "harm-reduction-zine"]
+subsets: []
 ---
 
-**Palette**: Extreme constraint as aggression: black `#000000` + white `#FFFFFF` + one accent (hot pink `#FF1493`, safety yellow `#FFFF00`, or blood red `#CC0000`). Sometimes photocopier-gray `#808080` as incidental texture. No four-color process — punk was made on photocopiers and with found materials. The constraint is the aesthetic: you get what the machine gives you.
+# Punk Zine / DIY Aesthetic
 
-**Type**: Ransom-note typography — each character potentially from a different typeface, cut from different magazines, pasted together. Mismatched sizes, weights, and baselines within a single word. Google Fonts: no single recommendation — the technique IS the aesthetic. CSS approach: `@font-face` with deliberately mismatched fonts per letter, or use actual image cutouts. Type is never neutral — every letter choice is a small act of anti-design rebellion.
-
-**Texture**: Photocopy degradation — high-contrast Xerox artifacts, visible scissor marks, tape residue, torn paper edges. CSS: SVG `feTurbulence` + `feColorMatrix` for photocopy noise, `mix-blend-mode: multiply` on torn-paper textures, `filter: contrast(200%)` for that overcopied look. The texture IS the medium — punk's visual language is inseparable from its production process.
-
-**Shape**: Angular, hard-edged, torn — `border-radius: 0px` everywhere. Scissor-cut straight lines, ripped edges, nothing smooth, nothing digital. Shapes are produced, not designed — they bear the marks of their making.
-
-**Motion**: Deliberately crude — hard cuts, stuttering glitchy transitions, misalignment as animation language. CSS: `@keyframes` with step()-based animation (no smooth easing), `transform: rotate()` with jitter, flicker effects via opacity steps. Motion should feel like a broken photocopier, not a polished UI.
-
-**Spatial**: Deliberate misalignment — elements overlap at wrong angles, text runs off edges, collage logic over grid logic. CSS: Grid used against itself — `transform: rotate()` on grid children, negative margins for overlap. Nothing lines up because nothing should line up. Space is a battleground for attention, not a framework for order.
-
-**Cultural markers**: Jamie Reid's Sex Pistols artwork (ransom-note "God Save the Queen"), photocopied zines (Sniffin' Glue, Punk), safety-pin graphics, torn-and-taped collage, Letraset rub-down type, DIY as political stance. The aesthetic of "here are three chords, now form a band" — accessible because it rejects skill as gatekeeping.
-
-**Non-negotiables**: ransom-note typography + photocopy texture + black/white + one accent + deliberate misalignment + hard angular everything + visible production marks
-
-## Connotation
-
-**Authentic** — original punk design (1975–1985): anti-design, anti-authority, anti-skill-gatekeeping. Punk says "you don't need permission to make things." The aesthetic was a political position — rejecting polish was rejecting the systems that demanded it. Genuinely radical, not styled to look radical. Made with scissors, photocopiers, and found materials by people who were not designers. **Nostalgic quotation** — the dominant mode since the 1990s: punk visual language absorbed into fashion (Vivienne Westwood legacy, streetwear), music branding, and youth-culture marketing. These borrow the signifiers without the political urgency — a Sex Pistols t-shirt at a mall is nostalgic quotation par excellence. **Contemporary revival** — zine culture's resurgence (2020s), independent publishing, DIY political graphics, and digital tools replicating photocopy aesthetics (risograph revival, photocopy-filter apps). Genuinely DIY, but now with the internet as distribution network. **Ironic pastiche** — rare; punk's association with authentic anger makes irony feel cowardly. The aesthetic's core value is sincerity — pastiche is antithetical to punk.
+Punk Zine is the process-first visual language of DIY print culture, anti-authoritarian collage, photocopied urgency, and anti-professional page making. It succeeds when production marks and political stance remain visible; it fails when roughness becomes polished rebellion cosplay.
 
 ## Scope
 
-**Suitable for**: independent music/art platforms, zine and indie-publishing storefronts, activist campaign sites, streetwear brands, underground event promotion, artist portfolios, counterculture blogs — any project where DIY authenticity, anti-establishment energy, or creative freedom are core values. The aesthetic signals "this was made by people, not corporations." **NOT suitable for**: corporate websites, financial services, healthcare, education platforms, government services, accessibility-critical interfaces (photocopy textures and mismatched type destroy readability and fail WCAG comprehensively), or any context requiring trust, professionalism, or calm. The aesthetic is designed to alienate comfortable audiences — it will drive away users who expect polished interfaces. Avoid when the user's confidence in the organization matters more than the organization's cultural credibility.
+Use Punk Zine for independent music, zines, artist publishing, activist campaigns, underground events, streetwear, counterculture blogs, and projects where DIY autonomy or anti-establishment credibility is core. Avoid it for healthcare, finance, government services, corporate trust-building, accessibility-critical flows, or any context where mismatched type and photocopy damage would undermine comprehension or care.
 
-**Vs. 1990s Grunge**: Critical distinction — punk is **process-first** (made with scissors and photocopiers by non-designers with what was available), grunge is **effect-first** (digitally simulated distress using professional tools for commercial ends). Punk typography uses found mismatched letters from different physical sources; grunge typography uses digitally degraded fonts. Punk collages show visible scissor marks; grunge uses Photoshop blend modes. If you used Photoshop, it's grunge. If you used a photocopier, it's punk. The intention separates them: punk is political resistance, grunge is stylistic choice.
+## 7-Dimension Profile
 
-**Related**: *Anti-design philosophy* — the broader rejection of design conventions as political act. *Zine culture* — self-published, photocopied, distributed by hand. Punk zine aesthetic is the visual expression of anti-design; anti-design is the philosophy that produced it.
+**Palette**: Black, white, copier gray, and one violent accent such as red, yellow, or hot pink. The limited palette should feel like photocopy and cheap one- or two-color print economy, not refined branding.
+
+**Type**: Ransom-note assembly, cutout letters, mismatched sizes, rubber-stamp inserts, Letraset traces, crude monospaced scraps, and anti-professional hierarchy. Single-family consistency breaks the voice.
+
+**Texture**: Xerox grain, banding, tape residue, torn paper, scissor marks, staple damage, marker scrawl, newsprint wear, and visible paste-up seams. Smooth high-resolution surfaces remove the medium.
+
+**Shape**: Crooked rectangles, ripped edges, pasted strips, badges, stars, safety-pin/stencil motifs, hard angles, and abrupt collage interruptions. Friendly rounded product cards are off-model.
+
+**Motion**: Hard cuts, snap-in collage reveals, step-based jitter, crude misregistration, flicker, and broken-photocopier transitions. Luxury easing or delight motion weakens the stance.
+
+**Spatial**: Dense hand-assembled page logic, uneven margins, overlapping strips, tilted headlines, text running near or off edges, and collage over grid. Space is a battleground for attention rather than a calm framework.
+
+**Cultural markers**: Jamie Reid, Sex Pistols artwork, Sniffin’ Glue, Punk magazine, photocopied zines, safety-pin graphics, DIY publishing, anti-skill politics, and anti-authority visual address.
+
+## Non-Negotiables
+
+**Non-negotiables**: visible DIY production; photocopy texture; black/white plus one accent; mismatched cutout or ransom-note typography; deliberate misalignment; and anti-polish politics. Generic distress is not Punk Zine.
+
+## Connotation
+
+Punk Zine connotes sincere refusal, autonomy, urgency, and making without permission. Contemporary revival can be legitimate when tied to actual DIY publishing or politics; detached commercial faux-rebellion reads extractive.
+
+## Related / Subsets
+
+- `grunge-typography` is designerly and effect-first, often digitally distressed; Punk Zine is material, process-first, and political.
+- `risograph` shares indie print culture but foregrounds spot-ink craft where Punk Zine foregrounds urgency and anti-polish assembly.
+- `harm-reduction-zine` borrows zine clarity and care textures but should prioritize accessibility and trustworthy instruction over antagonistic aggression.
+- No canonical subsets are listed for this entry.
+
+## Frontend / UI Guidance
+
+Use Punk Zine for campaign posters, zine stores, event pages, editorial spreads, merch drops, and activist landing pages. Keep critical instructions, checkout, donation, safety, and accessibility text in readable support layers; use the collage layer for voice and urgency.
+
+## CSS Translation
+
+- Color tokens: `--punk-black: #000000; --punk-white: #ffffff; --punk-gray: #808080; --punk-red: #cc0000; --punk-yellow: #ffff00; --punk-pink: #ff1493`.
+- Texture: SVG turbulence, contrast filters, multiply-blended paper scraps, torn-edge masks, and scan/photocopy overlays.
+- Layout: rotated blocks, negative margins, overlapped strips, uneven gutters, and grid items intentionally displaced.
+- Motion: `steps()` jitter, abrupt reveals, flicker, and reduced-motion static collage states.
+
+## Typography / Fonts
+
+There is no single authentic font; the technique is the aesthetic. Combine cutout images, mismatched display faces, stamped monospace, crude sans, and hand-scrawled marks. Keep essential text in a legible sans outside the ransom-note layer.
+
+## Cultural / Ethical Notes
+
+Punk visual language carries anti-authoritarian and subcultural politics. Using it for authority-seeking institutions or empty consumer persuasion can strip the social logic while keeping the surface; preserve DIY agency, not only torn-paper style.
+
+## Anti-Patterns
+
+- Photoshop distress with no material or political logic.
+- Treating punk as generic youth marketing rebellion.
+- Using ransom-note type for critical instructions or body copy.
+- Cleaning the composition until it becomes grunge branding or editorial fashion.
+- Borrowing activist urgency for products that need trust, care, or institutional accountability.

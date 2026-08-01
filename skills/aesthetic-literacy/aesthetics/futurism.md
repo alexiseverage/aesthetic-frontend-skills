@@ -4,39 +4,74 @@ label: Italian Futurism
 family: historical-design-movements
 era: 1909–1916
 aliases: ["Futurismo", "Futurist movement"]
+status: canonical
+evidence_level: limited
+related: ["constructivism", "vorticism", "atomic-age"]
+subsets: []
 ---
 
-**Palette**: High-contrast aggression — racing red (#cc0000), ink black (#1a1a1a), metallic gray (#8c8c8c), electric blue (#0047ab), optical white (#ffffff); Divisionist color dots that vibrate optically
+# Italian Futurism
 
-**Type**: Bold condensed Grotesque/sans-serif; words set at conflicting angles and sizes in a single composition; type as explosive visual event, not linear reading; mixed weights and scales in collision
-
-**Texture**: Lithographic flat ink on rough paper; Divisionist dot fields creating optical vibration; metallic paint for speed-blur effects; the surface is a battleground of competing forms
-
-**Shape**: Sharp triangles, aggressive diagonals, intersecting circular arcs, acute angles; "lines of force" (directional thrust vectors); no repose, no symmetry — every shape is in motion
-
-**Motion**: The defining dimension — speed as composition; simultaneity (multiple moments in one frame); centrifugal energy radiating from multiple focal points; "the beauty of speed" as aesthetic principle
-
-**Spatial**: No single-point perspective; forms collide from multiple directions; depth created by overlapping velocity planes; the composition is a field of competing forces, not a window into space
-
-**Cultural markers**: Marinetti's typographic manifestos; Boccioni's "lines of force"; Balla's light-speed abstractions; the machine as heroic subject; war glorified as "hygiene of the world"
-
-**Non-negotiables**: aggressive angular composition + speed/motion as visual structure + red/black/metallic palette
-
-## Connotation
-
-**Authentic** — Italian Futurism (1909–1916) was a genuine avant-garde movement: Marinetti and his circle believed speed, violence, and machine-age energy would liberate humanity from the past. The aggressive typography and diagonal collision were not style — they were a manifesto enacted on the page. **Nostalgic quotation** — rare and usually problematic: Futurism's explicit embrace of war, misogyny, and fascism (Marinetti co-authored the Fascist Manifesto in 1919) makes nostalgic affection politically charged. Most borrowings extract the visual language and discard the ideology. **Contemporary revival** — speed lines, bold condensed typography, and diagonal-thrust energy absorbed into modern action-movie posters, racing-game UI, sports branding, and energy-drink marketing — stripped of political context, kept as pure velocity vocabulary. **Ironic pastiche** — the "Futurist" aesthetic in cyberpunk and retrofuturist contexts knowingly plays with the original movement's over-the-top machine-worship as camp.
+Italian Futurism is the early twentieth-century avant-garde language of speed, machinery, rupture, and aggressive modernity. In frontend work it is useful only when velocity, conflict, and adrenaline are the point; its political and militarist history must remain visible rather than laundered into generic action styling.
 
 ## Scope
 
-**Suitable for**: action-sports branding, racing/esports platforms, energy-drink marketing sites, action-movie promotional pages, fitness-app interfaces, streetwear brands — any project where speed, aggression, and adrenaline are the message. The diagonal-thrust energy is unmatched for conveying velocity in a static medium. **NOT suitable for**: corporate websites, healthcare, finance, education, government services, accessibility-first interfaces, or any context requiring calm, trust, or inclusivity. Futurism's visual language is inherently aggressive, masculinist, and confrontational — it alienates by design. Avoid in any project where the audience needs to feel safe or welcomed. The historical association with Italian fascism makes the aesthetic radioactive for political or institutional use.
+Use Futurism for racing, action-sports, esports, action-film, fitness, or campaign moments that need diagonal force, acceleration, and machine-age shock. Avoid it for healthcare, finance, education, civic services, accessibility-first tools, or any context requiring calm trust; the historical associations with militarism, misogyny, and later fascist politics make neutral institutional use especially risky.
 
-## Subsets / Related
-- [[constructivism]] — descendant; Constructivism absorbed Futurism's dynamic energy and angular composition but redirected it toward social/political purpose and stricter geometric discipline
-- [[vorticism]] — parallel British counterpoint; Vorticism's hard-edged industrial abstraction shares the machine-age subject but is stiffer, less romantic about speed
+## 7-Dimension Profile
+
+**Palette**: Racing red, ink black, optical white, metallic gray, electric blue, and Divisionist color vibration. Color should feel high-contrast, industrial, and explosive rather than nostalgic or softly retro.
+
+**Type**: Bold condensed grotesques, words-in-freedom scale shifts, angled headlines, mixed weights, and type used as kinetic collision rather than quiet reading. Long-form copy needs a separate stable layer.
+
+**Texture**: Lithographic ink, rough paper, Divisionist dot fields, metallic sheen, smoke, and layered print noise. Texture should amplify impact and industrial energy, not soften the composition.
+
+**Shape**: Sharp triangles, acute diagonals, arcs, thrust vectors, shattered planes, repeated limbs/forms, speed lines, and machine silhouettes. Static orthogonal order is off-model unless used as contrast.
+
+**Motion**: Acceleration, fragmentation, vibration, centrifugal sweeps, and simultaneous moments compressed into one field. Digital motion should be decisive and directional, with reduced-motion static thrust compositions.
+
+**Spatial**: Overlapping velocity planes, multiple focal directions, compressed perspective, montage, and collision fields. Space is organized by force rather than calm single-point perspective.
+
+**Cultural markers**: Marinetti, Boccioni, Balla, Severini, Russolo, manifestos, automobiles, airplanes, industrial cities, machine worship, and the movement’s troubling glorification of violence and war.
+
+## Non-Negotiables
+
+**Non-negotiables**: speed as structure; aggressive diagonals; high-contrast industrial palette; fragmented machine-age composition; and explicit historical framing. Generic sci-fi speed lines are not Futurism.
+
+## Connotation
+
+Futurism connotes avant-garde rupture, adrenaline, anti-tradition aggression, and machine-age force. Contemporary use is usually quotation or extraction: useful as a velocity vocabulary, but ethically unstable if it celebrates the movement’s politics or hides its militarist baggage.
+
+## Related / Subsets
+
+- `constructivism` absorbed dynamic angular energy but redirected it toward social purpose and stricter geometric discipline.
+- `vorticism` is a British machine-age counterpart, harder-edged and less romantic about pure speed.
+- `atomic-age` later commercializes technological optimism without Futurism’s prewar avant-garde militancy.
+- No canonical subsets are listed for this entry.
+
+## Frontend / UI Guidance
+
+Translate Futurism into poster-like hero sections, racing dashboards, campaign splashes, kinetic brand moments, and action cards. Keep navigation, forms, safety text, and legal copy in stable readable regions; use the Futurist layer for impact, not as a full accessibility-critical interface system.
 
 ## CSS Translation
-- **Palette**: `--ft-red: #cc0000; --ft-black: #1a1a1a; --ft-gray: #8c8c8c; --ft-blue: #0047ab; --ft-white: #ffffff;`
-- **Google Fonts**: Bebas Neue (bold condensed sans), Anton (heavy impact), Oswald (versatile condensed), Rubik Mono One (display-weight geometric)
-- **Texture**: High-contrast flat solids — no gradients; `mix-blend-mode: multiply` for layered ink effects; grain overlay for lithographic paper feel
-- **Border-radius**: 0px — sharp angles only; acute corners express the speed aesthetic
-- **Layout**: Diagonal thrust — `transform: rotate(-15deg)` on key elements; overlapping `position: absolute` blocks; CSS Grid with skewed tracks; asymmetric collision rather than alignment
+
+- Color tokens: `--ft-red: #cc0000; --ft-black: #1a1a1a; --ft-metal: #8c8c8c; --ft-blue: #0047ab; --ft-white: #ffffff`.
+- Layout: skewed grids, rotated headline strips, absolute overlaps, hard crops, and diagonal section breaks.
+- Texture: lithographic grain, multiply-blended ink layers, dot fields, and flat solids rather than glossy gradients.
+- Motion: fast directional wipes, velocity trails, staggered type collisions, and `prefers-reduced-motion` alternatives that preserve diagonal composition.
+
+## Typography / Fonts
+
+Use Bebas Neue, Anton, Oswald, Rubik Mono One, condensed grotesques, and manifesto-scale display settings. Avoid classical serif calm, friendly rounded UI type as the main voice, or paragraphs set in explosive headline treatments.
+
+## Cultural / Ethical Notes
+
+Italian Futurism’s art-historical importance is inseparable from its anti-past ideology, misogyny, militarism, and later fascist entanglements. Use the visual language critically or narrowly; do not turn war glorification or authoritarian rupture into aspirational brand energy.
+
+## Anti-Patterns
+
+- Using Futurism as a synonym for generic future-tech or sci-fi.
+- Celebrating speed, violence, or machine dominance without historical caveat.
+- Applying the aggressive style to civic, healthcare, or trust-sensitive products.
+- Softening it into harmless retro racing decoration with no avant-garde rupture.
+- Letting diagonal spectacle destroy reading order, focus states, or motion safety.

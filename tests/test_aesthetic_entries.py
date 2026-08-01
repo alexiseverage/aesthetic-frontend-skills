@@ -147,6 +147,14 @@ MUSIC_PRINT_AND_YOUTH_SUBCULTURE_BATCH = [
     "pop-art",
     "rave-flyer",
 ]
+SENSITIVE_EXPRESSIVE_AND_REGIONAL_BATCH = [
+    "futurism",
+    "op-art",
+    "psychedelic",
+    "punk-zine",
+    "scandinavian-modern",
+    "wartime-propaganda",
+]
 CANONICAL_ENTRY_SECTIONS = [
     "## Scope",
     "## 7-Dimension Profile",
@@ -330,6 +338,24 @@ def test_music_print_and_youth_subculture_batch_has_no_target_schema_warnings():
     known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
 
     for slug in MUSIC_PRINT_AND_YOUTH_SUBCULTURE_BATCH:
+        path = dictionary_root / f"{slug}.md"
+        text = path.read_text(encoding="utf-8")
+        metadata = _frontmatter(path)
+
+        assert metadata["status"] == "canonical", f"{slug} is not canonical"
+        assert metadata["evidence_level"] in {"standard", "limited"}
+        assert isinstance(metadata["related"], list)
+        assert isinstance(metadata["subsets"], list)
+        for section in CANONICAL_ENTRY_SECTIONS:
+            assert section in text, f"{slug} missing {section}"
+        assert target_schema_warnings(metadata, text, known_slugs) == []
+
+
+def test_sensitive_expressive_and_regional_batch_has_no_target_schema_warnings():
+    dictionary_root = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics"
+    known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
+
+    for slug in SENSITIVE_EXPRESSIVE_AND_REGIONAL_BATCH:
         path = dictionary_root / f"{slug}.md"
         text = path.read_text(encoding="utf-8")
         metadata = _frontmatter(path)
