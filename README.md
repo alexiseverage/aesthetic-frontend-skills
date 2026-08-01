@@ -167,6 +167,8 @@ See [`skills/aesthetic-literacy/references/artifact-schema.md`](skills/aesthetic
 
 ## Validation commands
 
+Contributor validation requires **Python 3.10 or newer**. The default `make check` target runs a version preflight and exits with an actionable error before invoking the Python validators or test suite when the interpreter is unsupported. Node.js and `npx` are also required for the final skills-discovery check.
+
 Run these before opening a release or content PR:
 
 ```bash
