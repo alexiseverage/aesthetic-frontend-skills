@@ -4,58 +4,75 @@ label: Rave Flyer Aesthetic
 family: historical-design-movements
 era: 1991–1997 (peak underground rave era); revival 2020–present (chrome type trend, nostalgia cycles)
 aliases: ["rave aesthetic", "rave poster", "candy rave", "90s rave flyer"]
+status: canonical
+evidence_level: limited
+related: ["psychedelic", "synthwave", "pen-and-pixel"]
+subsets: []
 ---
 
-**Palette**: Neon laser gradients on dark backgrounds. Core neon palette: magenta #FF00FF, cyan #00FFFF, yellow #FFFF00, neon green #39FF14, purple #8A2BE2, hot pink #FF6EC7, electric lime #CCFF00, near-black #0D0D0D. Candy rave variant: bright pastels at high saturation — aquamarine #7FFFD4, hot pink #FF6EC7, electric lime #CCFF00. Always dark-ground — black or deep purple base, with neon colours applied as glowing fills and strokes.
+# Rave Flyer Aesthetic
 
-**Type**: Condensed all-caps sans-serif, heavily drop-shadowed or 3D-extruded. Geometric, monospaced, or techno-style. Key faces: OCR-A, Template Gothic, Letraset dry-transfer faces, condensed grotesks. Type needed to read at a distance in dark rooms — extreme clarity via extreme contrast. 3D extruded chrome type achieved with multiple offset `text-shadow` layers.
-
-**Texture**: Photocopy grain from the reproduction chain (original → photocopied flyer → distributed in clubs); CRT scan lines; halftone dot patterns; `feColorMatrix` for scan-line overlays. `mix-blend-mode: screen` for light-based overlay effects.
-
-**Shape**: 3D extruded geometry — type and shapes with depth and bevel; wireframe grids and cyberpunk cityscape elements; sci-fi and surrealism mashup (alien landscapes + DJ portraits + neon vectors). Angular, synthetic, machine-precision — never organic or hand-drawn.
-
-**Motion**: Strobe-like colour cycling via `@keyframes` on gradient positions; type that "glitches" via intermittent `transform: skewX()` disruptions; fast cuts — rave motion is energetic, disorienting, sensory-overload. High BPM translated to CSS animation speed.
-
-**Spatial**: Maximum information density — DJ names, dates, locations, ticket prices, warning messages, map coordinates, all competing for attention in a single A5/A6 flyer. CSS Grid with tight cell overlaps, intentional overcrowding. The flyer is a poster, a ticket, a map, and a warning — all in one object.
-
-**Cultural markers**: 1990s UK rave scene, The Designers Republic (Wipeout game UI, Warp Records), photocopied flyer distribution, MDMA culture, PLUR ethos (Peace Love Unity Respect), smiley-face icon, whistle, glow sticks
-
-**Non-negotiables**: dark background + neon gradient palette + 3D extruded or heavily shadowed type + maximum information density
-
-**CSS translation**:
-- Neon gradient type: `background: linear-gradient(90deg, #FF00FF, #00FFFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent`
-- 3D extruded type: `text-shadow: 1px 1px 0 #FF00FF, 2px 2px 0 #FF00FF, 3px 3px 0 #00FFFF, 4px 4px 0 #00FFFF` — layered offset shadows in alternating neon colours
-- Dark ground: `background: #0D0D0D`
-- Scan line overlay: `background-image: repeating-linear-gradient(0deg, rgba(255,255,255,0.03) 0px, rgba(255,255,255,0.03) 1px, transparent 1px, transparent 3px)`
-- Conic gradient: `background: conic-gradient(from 0deg, #FF00FF, #00FFFF, #FFFF00, #FF00FF)` for circular neon effects
-- 3D type with CSS perspective: `transform: perspective(600px) rotateX(15deg)`
-- Colour cycling: `@keyframes strobe { 0%, 100% { filter: hue-rotate(0deg); } 50% { filter: hue-rotate(180deg); } }`
-- High-density grid: `display: grid; grid-template-columns: repeat(12, 1fr); gap: 2px` with items spanning overlapping areas
-- `border-radius: 0` — rave is angular, geometric, machine-like
-
-**Related / Subsets**: *Candy Rave* — the brighter, more saturated, pastel-leaning variant; "softer" neon, more playful, less aggressive. Overlaps with early Y2K but distinct in its underground/illegal-party origin. *3D Extruded Chrome Type* — the type treatment is so visually dominant it could be extracted as a standalone technique; used across rave flyers, early hip-hop design, and 2020s revival trends. *The Designers Republic / Wipeout Aesthetic* — a more polished, commercial offshoot; machine-age futurism applied to gaming (Wipeout) and music packaging (Warp Records). Overlaps with rave flyer but cleaner, more professional, less photocopied. Distinct from **Psychedelic (1960s)** — Psychedelic is organic, hand-drawn, warm-toned (orange/yellow/magenta), with flowing Art Nouveau-influenced lettering. Rave is synthetic, digital, cold-neon (cyan/magenta/lime/ultraviolet), with machine-precision geometric type and 3D extrusion. Distinct from **[[y2k]]** — Y2K is late-1990s/early-2000s futurism applied to consumer tech and fashion. Rave is earlier (1991–1997), underground, functionally specific (advertising illegal parties). Distinct from **[[early-internet]]** — Rave flyers are print artifacts (photocopied, distributed physically), not web pages.
-
----
-
-## Google Fonts
-
-- **Orbitron** — geometric sans-serif with a futuristic, techno character; captures the machine-age precision of rave type
-- **Audiowide** — electronic, digital-feeling display face; evokes the synthesized energy of rave culture
-- **Russo One** — bold, condensed display with industrial weight; works for all-caps headline impact
-- **Share Tech Mono** — monospaced techno face; echoes the functional, information-dense type of flyer details
-
-> [!tip] Note
-> Authentic rave flyer typefaces (OCR-A, Template Gothic, Letraset dry-transfer faces) are not available on Google Fonts. The recommendations above are the closest Google Fonts approximations in spirit. For maximum authenticity, use `@font-face` with licensed typefaces.
-
-## Connotation
-
-**Nostalgic quotation.** The 2020s revival of rave flyer aesthetics is a deliberate, self-conscious reconstruction of 1991–1997 underground rave culture. When used today, the aesthetic signals cultural literacy about a specific subcultural moment — it quotes a visual language rather than inhabiting it naively. The chrome type trend, neon palette, and photocopy grain are applied with knowing reference to their origins. This is not ironic pastiche (the affection for rave culture is genuine), but it is nostalgic quotation — the aesthetic is worn as a period-reference marker.
+Rave Flyer Aesthetic is the information-dense, neon, synthetic print ephemera of early-to-mid-1990s underground rave promotion, with crossover into The Designers Republic/Wipeout-era machine futurism. It is a flyer, ticket, map, warning, lineup sheet, and subcultural signal compressed into one dark, glowing object.
 
 ## Scope
 
-**High-impact, single-page, and event-driven contexts.** Rave flyer aesthetics excel at hero sections, event promotion landing pages, music/entertainment branding, festival websites, and poster-style layouts. The maximum-information-density grid translates well to single-page designs where everything competes for attention simultaneously. Strong for nightlife, underground culture, and youth-oriented brands.
+Use Rave Flyer for event promotion landing pages, music/nightlife branding, festival microsites, poster-style single-page layouts, underground-culture editorials, and youth-oriented campaigns where sensory overload is intentional. Avoid it for text-heavy reading, corporate or professional services, accessibility-critical flows, navigation-heavy applications, or calm transactional interfaces.
 
-**Avoid for:** text-heavy reading experiences (the dark background + neon type combination fatigues quickly), accessibility-critical interfaces (low contrast in some pairings, heavy animation can trigger vestibular issues), corporate/professional contexts, and navigation-heavy web applications. The aesthetic is deliberately overwhelming — use it where sensory overload is the goal, not where clarity and calm are required.
+## 7-Dimension Profile
 
-> [!info] Source attribution
-> Primary research: [[Research/decade-1990s-discovery.md]]. Sources: Envato Tuts+ (2022 overview), Studio 2am (2025 analysis with font/texture recommendations), multiple Instagram/Facebook archival communities, The Designers Republic / Wipeout documentation.
+**Palette**: Neon magenta, cyan, yellow, electric lime, ultraviolet, hot pink, candy-rave aquamarine, and saturated pastel-neon accents on near-black or deep purple grounds. Daylight palettes and muted earth tones remove the rave signal.
+
+**Type**: Condensed all-caps techno sans, OCR-derived faces, monospaced support text, stacked lineups, shadowed headlines, 3D extruded chrome or neon type, and extreme contrast for reading at a distance. Orbitron, Audiowide, Russo One, Share Tech Mono, OCR-A, and Template Gothic-like faces are useful references.
+
+**Texture**: Laser glow, photocopy grit, airbrushed gradients, metallic type, scan lines, halftone residue, CRT-like overlays, and print-production roughness. Texture should feel like small-format event ephemera moving through clubs and copy shops.
+
+**Shape**: Smiley icons, warning symbols, arrows, circles, hard geometric containers, grid lines, wireframes, cyberpunk city elements, orbital/tunnel motifs, and machine-precision frames. Organic psychedelic arabesque should not dominate.
+
+**Motion**: Strobe-adjacent flashes, hue cycling, type slam-ins, glitch-like skew, kinetic information sequencing, glow pulse, and fast high-BPM transitions. Always provide reduced-motion alternatives.
+
+**Spatial**: Maximum information density: lineups, dates, locations, ticket prices, warnings, logos, coordinates, and map fragments competing in compressed A5/A6-style poster space. Sparse luxury composition is off-model.
+
+**Cultural markers**: 1990s rave promotion, UK club/nightlife infrastructure, warehouse-party ephemera, photocopied flyer distribution, PLUR traces, smileys, whistles, glow sticks, The Designers Republic, Wipeout, and Warp-adjacent machine futurism.
+
+## Non-Negotiables
+
+**Non-negotiables**: dark ground; neon cold-light palette; extruded/shadowed techno type; high information density; and club/flyer event function. Generic EDM gradients without flyer DNA are not Rave Flyer.
+
+## Connotation
+
+Rave Flyer connotes nostalgic quotation of underground rave culture and 1990s event ephemera: energetic, synthetic, compressed, communal, and sensory-overloading. Contemporary use should feel like affectionate period reference rather than empty chrome trend-mining.
+
+## Related / Subsets
+
+- `psychedelic` shares poster nativity, but Psychedelic is organic, warm-toned, hand-drawn, and immersive while Rave Flyer is synthetic, cold-neon, machine-typed, and informational.
+- `synthwave` shares neon nostalgia, but Synthwave is cinematic night-drive fantasy while Rave Flyer is denser and rooted in club ephemera.
+- `pen-and-pixel` can share extruded type, but Pen & Pixel serves luxury-spectacle collage while Rave Flyer serves event information and subcultural distribution.
+- Subsets include Candy Rave, 3D Extruded Chrome Type, and the cleaner Designers Republic / Wipeout branch.
+
+## Frontend / UI Guidance
+
+Use Rave Flyer for poster-like hero pages, event schedules, lineup reveals, ticket promo cards, and compressed campaign surfaces. Let multiple information blocks compete only where that is the point; keep purchase, safety, location, and accessibility details available in a clean secondary layer.
+
+## CSS Translation
+
+- Color tokens: `--rave-bg: #0d0d0d; --rave-magenta: #ff00ff; --rave-cyan: #00ffff; --rave-lime: #39ff14; --rave-yellow: #ffff00; --rave-purple: #8a2be2`.
+- Type effects: gradient-clipped neon text, layered offset `text-shadow` extrusion, chrome reflection bands, and high-contrast outlines.
+- Texture: scanline overlays, halftone backgrounds, photocopy grain masks, and `mix-blend-mode: screen` light layers.
+- Layout: tight 12-column grids, overlapping cells, hard geometric frames, warning stripes, and information-density modules.
+- Motion: hue-rotate/strobe accents, slam-ins, skew glitches, glow pulses, and `prefers-reduced-motion` fallbacks.
+
+## Typography / Fonts
+
+Use Orbitron, Audiowide, Russo One, Share Tech Mono, OCR-A/Template Gothic-like licensed faces, condensed grotesks, and monospaced techno support text. Keep legal, venue, safety, and ticket details in readable high-contrast type even inside dense layouts.
+
+## Cultural / Ethical Notes
+
+Rave flyers are tied to underground nightlife, drug-policy discourse, youth subculture, and physical distribution networks. Commercial reuse should not strip all context into a chrome/neon trend; keep event function, subcultural specificity, and harm-reduction/accessibility information legible where relevant.
+
+## Anti-Patterns
+
+- Generic neon EDM branding with no flyer information density.
+- Organic psychedelic lettering treated as the dominant system.
+- Using strobe or hue cycling without reduced-motion alternatives.
+- Hiding venue, ticket, safety, or age information in decorative effects.
+- Making the style sparse, luxury, and calm.

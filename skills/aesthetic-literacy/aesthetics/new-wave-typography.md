@@ -4,38 +4,75 @@ label: New Wave Typography / Swiss Punk
 family: historical-design-movements
 era: 1972–1985
 aliases: ["Swiss Punk", "New Wave Design", "Swiss New Wave", "Weingart Style"]
+status: canonical
+evidence_level: limited
+related: ["swiss-international", "desktop-publishing", "grunge-typography"]
+subsets: []
 ---
 
-**Palette**: Inherits Swiss International's discipline with added expressive energy: black `#000000`, white `#FFFFFF`, and a single vibrant accent (electric blue `#0055FF`, hot red `#FF2200`, or vivid yellow `#FFDD00`). Sometimes CMYK process-color overlaps as deliberate effect. The palette is still restrained — New Wave rebels against Swiss grid orthodoxy but keeps Swiss color economy. No chaotic color; controlled, intentional accent.
+# New Wave Typography / Swiss Punk
 
-**Type**: Sans-serif pushed to its expressive limit while remaining sans-serif. Akzidenz-Grotesk, Univers, Helvetica — but with inconsistent letterspacing, varying weights within a single word, type set at angles, bold stairstep motifs. Google Fonts: Space Grotesk or Inter for body, with deliberate violations: `letter-spacing: -2px` on one word, `+8px` on the next. Type becomes kinetic sculpture — structured but freed from consistency.
-
-**Texture**: Transparent film collage — layered elements with varying opacity, registered with slight offset (like misaligned printing plates). CSS: `opacity: 0.7` layered blocks, `mix-blend-mode: multiply` or `screen` on overlapping elements, dot-screens via `background-size` + `background-position`. No grunge — New Wave texture is precise even when it's layered.
-
-**Shape**: Geometric foundations with diagonal interventions — Swiss grid as baseline, then disrupted with angled text blocks, stairstep motifs, and asymmetric cuts. CSS: `clip-path` for diagonal slices, `transform: rotate(-3deg)` on grid children. Shapes are still geometric — no organic curves — but freed from right-angle orthodoxy.
-
-**Motion**: Kinetic type — staggered entry animations, parallax-like depth through layered opacity, diagonal reveals. CSS: staggered `animation-delay` on type elements, scroll-triggered letter-spacing shifts, transform reveals that follow the diagonal energy. Motion is controlled chaos — every movement has a geometric logic even when it looks unpredictable.
-
-**Spatial**: Asymmetrical but grid-aware — the grid is present as a ghost, visible in the underlying structure, but content is freed from column lock. Elements overlap, break boundaries, and create depth through layering. CSS: `display: grid` with intentional overflow and asymmetry, `z-index` layering for depth, generous whitespace where Swiss would have it, deliberate violation where it wouldn't.
-
-**Cultural markers**: Wolfgang Weingart (Basel School experiments, 1972+), April Greiman (digital New Wave pioneer, "Does it make sense?" poster 1986), Dan Friedman, Katherine McCoy (Cranbrook). The bridge between Swiss precision and postmodern rebellion. New Wave asked: "What if the grid were a suggestion?"
-
-**Non-negotiables**: sans-serif type with deliberate inconsistency + geometric shapes with diagonal energy + Swiss color discipline + layered transparent texture + grid-aware but grid-freed spatial logic
-
-**Connotation**: **Authentic rebellion** — New Wave typography is the genuine article: trained designers who mastered the Swiss grid and then chose to break it. There is no irony, no nostalgia, no quotation. Weingart, Greiman, and Friedman were inventing in real time — they didn't reference a past style; they created one. New Wave is precision in rebellion: the designer knows every rule and chooses which to violate, which distinguishes it from punk's rule-ignorance and grunge's simulated distress. This is the controlled chaos option — postmodern energy without punk's raw aggression.
-
-**Vs. Punk Zine**: New Wave = controlled rebellion by trained designers using professional tools, punk = raw resistance by non-designers using whatever's available. New Wave breaks rules it understands; punk doesn't acknowledge rules exist. New Wave uses Helvetica at weird angles; punk uses ransom-note letters from different magazines. Both rebel, but New Wave does it with a Swiss accent.
-
-**Lineage**: Weingart (Basel) → Greiman (LA, digital) → Friedman, McCoy (Cranbrook postmodernism) → late 1980s/1990s experimental typography. New Wave is the critical bridge between Swiss International's grid discipline and the digital typographic explosion of the 1990s.
-
-## Google Fonts
-
-Space Grotesk (geometric sans with quirky, humanist details — ideal for body copy with New Wave character), Inter (clean neutral sans for body, to be deliberately violated), DM Sans (low-contrast geometric sans with warm personality), Syne (experimental geometric sans with unconventional widths and weights — a digital-era Weingart student). The strategy: pick one structurally disciplined face, then break it with deliberate inconsistency in letter-spacing, weight, and angle.
+New Wave Typography is the post-Swiss typographic rebellion associated with Wolfgang Weingart, April Greiman, Dan Friedman, Katherine McCoy, and Cranbrook-adjacent experimentation. It breaks strict grid orthodoxy through irregular spacing, angled type, weight collisions, and layered composition while retaining a disciplined understanding of the grid it violates.
 
 ## Scope
 
-Editorial hero sections, design/architecture portfolio sites, cultural institution pages (museums, galleries, foundations), and any context where conveying "we know the rules and choose when to break them" is the brand message. New Wave thrives in high-concept, low-content-density layouts — posters, landing pages, exhibition microsites — where type can be the primary visual element. Poor for forms, documentation, e-commerce, dashboards, or any interface where users need to quickly scan and act. Use New Wave as a brand-expression layer (hero type, section headers, navigation accents) with a clean Swiss-style grid as the structural fallback for functional content.
+Use New Wave Typography for editorial hero sections, design or architecture portfolios, cultural institution pages, exhibition microsites, poster-like landing pages, and brands that need to signal “we know the rules and choose when to break them.” Avoid it for forms, documentation, e-commerce flows, dashboards, dense navigation, or any interface where rotated and irregular type would slow essential comprehension.
 
-## Subsets / Related
+## 7-Dimension Profile
 
-*Swiss International Style* (existing entry) — the direct precursor; New Wave inherits Swiss tools (Helvetica, grid, color economy) and selectively violates them. The relationship is parent-child, not alternative. *Punk Zine* (1970s) — both rebel against design orthodoxy, but from opposite positions: New Wave rebels from inside the tradition (trained designers, professional tools), punk rebels from outside (non-designers, found materials, photocopiers). New Wave uses Helvetica at angles; punk uses ransom-note letters. *Postmodern Typography* (late 1980s/1990s) — the broader movement New Wave sparked; Cranbrook students (McCoy, Keedy, Fella) pushed New Wave's grid-breaking logic into full-blown deconstruction, influencing Carson-era grunge typography. *Digital New Wave* (Greiman, 1986+) — the branch where New Wave meets the Macintosh: pixel-based distortion, digitized images, and Quantel Paintbox effects layered with typographic experimentation. April Greiman's "Does it make sense?" poster is the canonical artifact.
+**Palette**: Black and white with sharp accent colors such as electric blue, hot red, vivid yellow, cyan, or CMYK overlaps. The palette remains restrained and poster-like; it is expressive but not chaotic color maximalism.
+
+**Type**: Sans-serif pushed to expressive limits: Akzidenz-Grotesk, Univers, Helvetica, Space Grotesk, Inter, DM Sans, Syne, or similar disciplined faces with inconsistent letterspacing, varying weights in one word, angled setting, abrupt crops, and type blocks treated as shapes.
+
+**Texture**: Typographic texture from overlap, scale shifts, transparent film-like layering, dot screens, poster grain, opacity changes, and print-era registration tension. No grunge abrasion; New Wave texture is precise even when disruptive.
+
+**Shape**: Diagonal dividers, slanted baselines, bars, rules, geometric text containers, stairstep motifs, abrupt crops, and off-axis captions. Shapes should feel geometric and grid-aware, not organic or randomly torn.
+
+**Motion**: Kinetic type via directional slides, snap-ins, staggered letter-spacing shifts, diagonal reveals, and layered parallax. Motion should follow typographic geometry and stop before it destabilizes reading.
+
+**Spatial**: Broken or subverted grids, asymmetric editorial fields, deliberate tension between order and disruption, visible ghost-grid logic, and overlapping type/image planes. Random misalignment without underlying structure misses the style.
+
+**Cultural markers**: Wolfgang Weingart’s Basel experiments, April Greiman’s digital New Wave, Dan Friedman, Katherine McCoy, Cranbrook, post-Swiss grid rebellion, and the bridge between Swiss International discipline and later deconstruction/grunge typography.
+
+## Non-Negotiables
+
+**Non-negotiables**: sans-serif typographic experimentation; deliberate inconsistency in spacing/weight/angle; geometric/diagonal energy; restrained Swiss-derived color discipline; and grid-aware rebellion. New Wave breaks rules it understands.
+
+## Connotation
+
+New Wave Typography connotes authentic rebellion from inside design training: precision in revolt rather than raw outsider resistance. Contemporary use carries design-literacy and high-concept editorial energy, not generic “bold type.”
+
+## Related / Subsets
+
+- `swiss-international` is the direct foil and parent discipline; New Wave inherits its grid, sans typography, and color economy, then selectively violates them.
+- `desktop-publishing` can overlap in page-making contexts, but DTP is tool/workspace oriented while New Wave is typographic rebellion.
+- `grunge-typography` inherits some deconstructive energy but adds abrasion, distress, and 1990s alternative-culture melancholy.
+- Subsets include Swiss New Wave, Digital New Wave, and the postmodern typography bridge into Cranbrook and later experimental type.
+
+## Frontend / UI Guidance
+
+Use New Wave as a brand-expression layer: hero type, exhibition openers, poster cards, pull quotes, and section headers. Keep body copy and transactional surfaces on more disciplined grids. Make the broken grid legible as a deliberate system with repeated rules for angles, spacing, and accents.
+
+## CSS Translation
+
+- Type: apply controlled span-level `letter-spacing`, `font-weight`, `transform: rotate()`, and abrupt cropping.
+- Layout: use CSS Grid as the underlying scaffold, then let selected elements overlap or rotate with visible intent.
+- Effects: `mix-blend-mode`, opacity layers, dot-screen backgrounds, `clip-path` diagonal slices, and CMYK-like offset overlays.
+- Color: black/white plus one or two sharp accent tokens, not a full rainbow.
+- Motion: snap-in type reveals and diagonal transitions with reduced-motion alternatives.
+
+## Typography / Fonts
+
+Use Space Grotesk, Inter, DM Sans, Syne, Helvetica/Univers/Akzidenz-style licensed faces, or clean grotesks that can survive deliberate spacing and weight violations. Avoid novelty fonts that fake chaos without Swiss typographic discipline.
+
+## Cultural / Ethical Notes
+
+Irregular spacing, angled text, and overlap can undermine readability quickly. Keep expressive disruption in display contexts, maintain accessible contrast, and avoid rotating dense paragraphs. The accessibility floor should be stronger than the visual rebellion.
+
+## Anti-Patterns
+
+- Random misalignment with no ghost-grid logic.
+- Applying distortion to body copy, labels, and forms.
+- Treating New Wave as punk zine, grunge, or generic messy design.
+- Using chaotic color instead of restrained Swiss-derived accenting.
+- Adding ornamental motion that competes with already-tense typography.
