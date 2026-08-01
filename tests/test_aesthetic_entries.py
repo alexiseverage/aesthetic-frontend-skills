@@ -138,6 +138,15 @@ DIGITAL_AND_WEB_NATIVE_CANONICAL_BATCH = [
     "vaporwave",
     "web-2-gloss",
 ]
+MUSIC_PRINT_AND_YOUTH_SUBCULTURE_BATCH = [
+    "city-pop",
+    "grunge-typography",
+    "memphis",
+    "new-wave-typography",
+    "pen-and-pixel",
+    "pop-art",
+    "rave-flyer",
+]
 CANONICAL_ENTRY_SECTIONS = [
     "## Scope",
     "## 7-Dimension Profile",
@@ -303,6 +312,24 @@ def test_digital_and_web_native_batch_has_no_target_schema_warnings():
     known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
 
     for slug in DIGITAL_AND_WEB_NATIVE_CANONICAL_BATCH:
+        path = dictionary_root / f"{slug}.md"
+        text = path.read_text(encoding="utf-8")
+        metadata = _frontmatter(path)
+
+        assert metadata["status"] == "canonical", f"{slug} is not canonical"
+        assert metadata["evidence_level"] in {"standard", "limited"}
+        assert isinstance(metadata["related"], list)
+        assert isinstance(metadata["subsets"], list)
+        for section in CANONICAL_ENTRY_SECTIONS:
+            assert section in text, f"{slug} missing {section}"
+        assert target_schema_warnings(metadata, text, known_slugs) == []
+
+
+def test_music_print_and_youth_subculture_batch_has_no_target_schema_warnings():
+    dictionary_root = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics"
+    known_slugs = {path.stem for path in dictionary_paths(dictionary_root)}
+
+    for slug in MUSIC_PRINT_AND_YOUTH_SUBCULTURE_BATCH:
         path = dictionary_root / f"{slug}.md"
         text = path.read_text(encoding="utf-8")
         metadata = _frontmatter(path)
