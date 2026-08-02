@@ -6,7 +6,7 @@ description: >
   cottagecore, dark academia, etc.), wants to compare or disambiguate aesthetics, or needs
   formal characterization before producing design tokens or assets. Provides the 7-dimension
   framework (palette, type, texture, shape, motion, spatial conventions, cultural markers)
-  and a curated dictionary of 127 major aesthetics. Foundation for aesthetic-application.
+  and a curated dictionary of 146 major aesthetics. Foundation for aesthetic-application.
   Do not use for component implementation, layout, or accessibility decisions.
 metadata:
   version: "1.0.0"
@@ -51,7 +51,7 @@ metadata:
 
 ## Summary
 
-Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 127 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
+Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 146 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
 Used as the foundation for `aesthetic-application`.
 
@@ -130,7 +130,7 @@ Skill-local references for installed users:
 | **Vernacular / Commercial** | 11 | mexican-rotulismo, guochao, konbini-utility, convenience-store-backoffice, b2b-quick-order-grid, lotto, casino, tiki-polynesian-pop, chicano-lowrider-art, board-game-box-art, trading-card-game-design |
 | **Speculative / Robotics** | 16 | cyberpunk, cassette-futurism, nanopunk, techno-noir, apple-core-tech, uncanny-android, dieselpunk, steampunk, post-apocalyptic-scavenged-tech, space-western, cute-tech, companion-bot, mecha-kaiju, anime-mecha-realism, biomechanical, chibi-mecha |
 
-*Full listing: see `aesthetics/` directory. 127 total entries across 8 families.*
+*Full listing: see `aesthetics/` directory. 146 full entries and 1 redirect across 8 families.*
 
 Each entry specifies: palette, type, texture, shape, motion, spatial conventions, cultural markers, non-negotiables, connotation, and subsets/related aesthetics (where applicable). Fatigue notes appear where applicable.
 

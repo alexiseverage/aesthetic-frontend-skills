@@ -64,7 +64,7 @@ def test_generator_writes_public_manifest_and_detects_stale_output(tmp_path):
     assert generated.returncode == 0, generated.stdout + generated.stderr
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     assert manifest["schemaVersion"] == 1
-    assert manifest["fullEntryCount"] == 126
+    assert manifest["fullEntryCount"] == 146
     assert manifest["redirectCount"] == 1
     assert manifest["familyCount"] == 8
     assert [entry["slug"] for entry in manifest["entries"]] == sorted(
