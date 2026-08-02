@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 126,
+  "fullEntryCount": 146,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -73,6 +73,16 @@
       ]
     },
     {
+      "slug": "apple-orchard-educational",
+      "label": "Apple Orchard Educational",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "orchard education",
+        "apple picking guide"
+      ]
+    },
+    {
       "slug": "art-deco",
       "label": "Art Deco",
       "family": "historical-design-movements",
@@ -116,6 +126,26 @@
         "Populuxe",
         "Atomic Era",
         "Doo-Wop"
+      ]
+    },
+    {
+      "slug": "autumn-field-guide-naturalism",
+      "label": "Autumn Field Guide Naturalism",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "fall field guide",
+        "naturalist autumn"
+      ]
+    },
+    {
+      "slug": "autumn-library-reading-challenge",
+      "label": "Autumn Library Reading Challenge",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "fall reading challenge",
+        "library autumn program"
       ]
     },
     {
@@ -301,6 +331,16 @@
       ]
     },
     {
+      "slug": "classroom-bulletin-board-halloween",
+      "label": "Classroom Bulletin Board Halloween",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "school Halloween bulletin board",
+        "classroom Halloween"
+      ]
+    },
+    {
       "slug": "claymorphism",
       "label": "Claymorphism",
       "family": "emerging-hybrid",
@@ -363,6 +403,16 @@
         "c-store backoffice",
         "convenience store operations dashboard",
         "fuel retail backoffice"
+      ]
+    },
+    {
+      "slug": "corn-maze-wayfinding",
+      "label": "Corn Maze Wayfinding",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "corn maze map",
+        "harvest maze signage"
       ]
     },
     {
@@ -478,6 +528,16 @@
       ]
     },
     {
+      "slug": "dia-de-los-muertos-calavera-graphics",
+      "label": "Dia de los Muertos Calavera Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Day of the Dead graphics",
+        "calavera graphics"
+      ]
+    },
+    {
       "slug": "die-neue-typographie",
       "label": "Die Neue Typographie",
       "family": "historical-design-movements",
@@ -542,6 +602,16 @@
       ]
     },
     {
+      "slug": "folk-horror-pastoral",
+      "label": "Folk Horror Pastoral",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "folk horror",
+        "uncanny pastoral"
+      ]
+    },
+    {
       "slug": "frutiger-aero",
       "label": "Frutiger Aero",
       "family": "digital-internet-native",
@@ -556,6 +626,16 @@
       "aliases": [
         "Futurismo",
         "Futurist movement"
+      ]
+    },
+    {
+      "slug": "german-expressionist-horror",
+      "label": "German Expressionist Horror",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "expressionist horror",
+        "caligari expressionism"
       ]
     },
     {
@@ -631,6 +711,16 @@
       ]
     },
     {
+      "slug": "halloween-store-vernacular",
+      "label": "Halloween Store Vernacular",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "seasonal Halloween retail",
+        "costume-store packaging"
+      ]
+    },
+    {
       "slug": "harm-reduction-zine",
       "label": "Harm Reduction Zine",
       "family": "material-print-craft",
@@ -639,6 +729,36 @@
         "mutual aid health zine",
         "safer use zine",
         "community care handout"
+      ]
+    },
+    {
+      "slug": "harvest-fair-vernacular",
+      "label": "Harvest Fair Vernacular",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "county fair harvest",
+        "agricultural fair signage"
+      ]
+    },
+    {
+      "slug": "harvest-market-chalkboard",
+      "label": "Harvest Market Chalkboard",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "farm market chalkboard",
+        "harvest chalk menu"
+      ]
+    },
+    {
+      "slug": "haunted-dark-ride",
+      "label": "Haunted Dark Ride",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "haunted-house ride",
+        "dark ride horror"
       ]
     },
     {
@@ -1024,6 +1144,16 @@
       ]
     },
     {
+      "slug": "pumpkin-patch-field-trip",
+      "label": "Pumpkin Patch Field Trip",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "pumpkin patch signage",
+        "fall field trip"
+      ]
+    },
+    {
       "slug": "punk-zine",
       "label": "Punk Zine / DIY Aesthetic",
       "family": "historical-design-movements",
@@ -1104,6 +1234,16 @@
       ]
     },
     {
+      "slug": "school-fall-festival",
+      "label": "School Fall Festival",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "fall festival flyer",
+        "school carnival fall"
+      ]
+    },
+    {
       "slug": "shaker-design",
       "label": "Shaker Design",
       "family": "historical-design-movements",
@@ -1125,6 +1265,16 @@
       ]
     },
     {
+      "slug": "slasher-vhs-rental",
+      "label": "Slasher VHS Rental",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "horror VHS",
+        "video-store slasher"
+      ]
+    },
+    {
       "slug": "solarpunk",
       "label": "Solarpunk",
       "family": "emerging-hybrid",
@@ -1140,6 +1290,26 @@
         "space western robotics",
         "frontier sci-fi",
         "dusty space opera"
+      ]
+    },
+    {
+      "slug": "spirit-photography-seance",
+      "label": "Spirit Photography Seance",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "spirit photography",
+        "seance cabinet card"
+      ]
+    },
+    {
+      "slug": "spooky-science-lab",
+      "label": "Spooky Science Lab",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Halloween science lab",
+        "spooky STEM"
       ]
     },
     {
@@ -1174,6 +1344,16 @@
         "fantasy gothic",
         "story driven gothic",
         "storybook gothic branding"
+      ]
+    },
+    {
+      "slug": "storybook-spooky-cute",
+      "label": "Storybook Spooky Cute",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "spooky cute",
+        "friendly Halloween storybook"
       ]
     },
     {
@@ -1292,6 +1472,26 @@
         "Wiener Secession",
         "Wiener Werkstätte",
         "Secession Style"
+      ]
+    },
+    {
+      "slug": "vintage-costume-pattern",
+      "label": "Vintage Costume Pattern",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "costume pattern",
+        "vintage sewing pattern"
+      ]
+    },
+    {
+      "slug": "vintage-halloween-postcard",
+      "label": "Vintage Halloween Postcard",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Halloween postcard",
+        "antique Halloween postcard"
       ]
     },
     {

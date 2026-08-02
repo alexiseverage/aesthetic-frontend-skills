@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 126
+- Full entries: 146
 - Redirect entries: 1
 - Families: 8
 
@@ -25,12 +25,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `cottagecore` | Cottagecore | farmcore, countrycore |
 | `dark-academia` | Dark Academia | academic gothic, scholastic gothic |
 | `decora-kei` | Decora Kei | decora, Harajuku decora, decora fashion, kawaii accessory stacking, decorative kei |
+| `folk-horror-pastoral` | Folk Horror Pastoral | folk horror, uncanny pastoral |
 | `goblincore` | Goblincore | mushroomcore, mosscore, dirtcore-adjacent |
 | `gorpcore` | Gorpcore | outdoorswear streetwear, trail utility fashion, hikingcore-adjacent |
 | `kidcore` | Kidcore | kid core, kidcore aesthetic |
 | `magical-girl` | Magical Girl | mahou shoujo, magical heroine, transformation heroine aesthetic |
 | `maximalism` | Maximalism | more is more, decorative abundance |
 | `nu-goth-pastel-goth` | Nu-Goth / Pastel Goth | nu goth, pastel goth, modern goth fashion |
+| `storybook-spooky-cute` | Storybook Spooky Cute | spooky cute, friendly Halloween storybook |
 | `warm-minimalism` | Warm Minimalism / Quiet Luxury | quiet luxury, warm minimal, stealth wealth, silent luxury, clean girl aesthetic, calm interface |
 | `witchcore` | Witchcore | witch aesthetic, occult cottage, modern witch aesthetic |
 
@@ -95,6 +97,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `de-stijl` | De Stijl / Neo-Plasticism | De Stijl, Neo-Plasticism, Mondrian style, The Style |
 | `die-neue-typographie` | Die Neue Typographie | The New Typography, Tschichold's New Typography, Early Modernist Typography |
 | `futurism` | Italian Futurism | Futurismo, Futurist movement |
+| `german-expressionist-horror` | German Expressionist Horror | expressionist horror, caligari expressionism |
 | `gothic-revival` | Gothic Revival | Victorian Gothic Revival, medievalist revival, Gothic Revival architecture |
 | `grunge-typography` | Grunge Typography | grunge design, Carson grunge, deconstructionist typography, Ray Gun aesthetic |
 | `high-tech-architecture` | High-Tech Architecture / Structural Expressionism | Structural Expressionism, High-tech architecture, Hi-tech architecture |
@@ -129,10 +132,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 
 | Slug | Label | Aliases |
 | --- | --- | --- |
+| `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |
+| `spirit-photography-seance` | Spirit Photography Seance | spirit photography, seance cabinet card |
+| `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
+| `vintage-halloween-postcard` | Vintage Halloween Postcard | Halloween postcard, antique Halloween postcard |
 
 ## speculative-robotics
 
@@ -159,10 +166,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 
 | Slug | Label | Aliases |
 | --- | --- | --- |
+| `apple-orchard-educational` | Apple Orchard Educational | orchard education, apple picking guide |
+| `autumn-library-reading-challenge` | Autumn Library Reading Challenge | fall reading challenge, library autumn program |
 | `bloomberg-terminal-monochrome` | Bloomberg Terminal Monochrome | Bloomberg terminal aesthetic, finance terminal UI, trader terminal monochrome |
 | `cheminformatics-map-explorer` | Cheminformatics Map Explorer | chemical space explorer, cheminformatics explorer, molecule map UI |
+| `corn-maze-wayfinding` | Corn Maze Wayfinding | corn maze map, harvest maze signage |
 | `high-performance-hmi` | High-performance HMI | HP HMI, High Performance SCADA, high-performance SCADA graphics, process-operator graphics, operator-centered industrial UI |
 | `prescription-label-clarity` | Prescription Label Clarity | ClearRx style, prescription label design, medication label clarity |
+| `spooky-science-lab` | Spooky Science Lab | Halloween science lab, spooky STEM |
 | `sports-scorebug` | Sports Scorebug | score bug, broadcast score overlay, sports broadcast graphics |
 
 ## vernacular-commercial
@@ -173,11 +184,20 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `board-game-box-art` | Board Game Box Art | tabletop box cover art, modern board game packaging, boardgame cover art |
 | `casino` | Casino Neon Tableplay | vegas casino, casino signage, table-game casino, gaming floor |
 | `chicano-lowrider-art` | Chicano Lowrider Art | lowrider art, Chicano lowrider culture, low-and-slow automotive art |
+| `classroom-bulletin-board-halloween` | Classroom Bulletin Board Halloween | school Halloween bulletin board, classroom Halloween |
 | `convenience-store-backoffice` | Convenience-Store Back-Office Grid | c-store backoffice, convenience store operations dashboard, fuel retail backoffice |
+| `dia-de-los-muertos-calavera-graphics` | Dia de los Muertos Calavera Graphics | Day of the Dead graphics, calavera graphics |
 | `guochao` | Guochao | China-chic, guochao branding, guochao packaging, 国潮, Chinese heritage revival branding |
+| `halloween-store-vernacular` | Halloween Store Vernacular | seasonal Halloween retail, costume-store packaging |
+| `harvest-fair-vernacular` | Harvest Fair Vernacular | county fair harvest, agricultural fair signage |
+| `harvest-market-chalkboard` | Harvest Market Chalkboard | farm market chalkboard, harvest chalk menu |
+| `haunted-dark-ride` | Haunted Dark Ride | haunted-house ride, dark ride horror |
 | `konbini-utility` | Konbini Utility | Japanese convenience store utility, konbini design, convenience retail packaging utility |
 | `lotto` | Lotto Scratcher Commerce | scratch-off, scratch ticket, instant-win ticket, state lottery scratcher |
 | `mexican-rotulismo` | Mexican Rotulismo | Mexican Rótulos, rotulismo mexicano, Mexican rotulos, rótulo vernacular, hand-painted Mexican signs |
+| `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |
+| `school-fall-festival` | School Fall Festival | fall festival flyer, school carnival fall |
+| `slasher-vhs-rental` | Slasher VHS Rental | horror VHS, video-store slasher |
 | `tiki-polynesian-pop` | Tiki / Polynesian Pop | Polynesian Pop, tiki bar Americana, mid-century tiki |
 | `trading-card-game-design` | Trading Card Game Design | TCG design, CCG frame design, collectible card UI |
 
