@@ -12,68 +12,64 @@ subsets: []
 
 # Harvest Market Chalkboard
 
-Harvest Market Chalkboard is seasonal food signage: chalk menus, produce prices, crate displays, kraft labels, handwritten hierarchy, and chalk dust. It fits local commerce, recipe, menu, and market interfaces.
+Harvest Market Chalkboard is the hand-updated price and availability language of farmstands, produce markets, and seasonal counters: painted wood frames, chalk hierarchy, ruled item rows, units, origin notes, sold-out marks, crate labels, and small produce drawings. It is commerce written by hand, not generic café coziness.
 
 ## Scope
 
-Use Harvest Market Chalkboard when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for menus, inventory, market pricing, pickup, recipes, or local-food interfaces. Every item needs an unambiguous name, unit, price, availability, and relevant origin/allergen note. Decorative chalk should support frequent updates.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use matte charcoal or deep green board, chalk white, dusty yellow, tomato red, leaf green, cider gold, and natural wood. Keep prices and availability at maximum contrast.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use hand-rendered block capitals, compact sign-painter serif/slab, chalk script only for tiny accents, and tabular numerals for prices/units. Avoid illegible coffee-shop calligraphy.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Chalk dust, erased ghosts, smudged rules, painted wood, crate stock, flour marks, masking-tape corrections, and hand-drawn produce create active market use.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use ruled menu rows, price boxes, unit fractions, sold-out slashes, crate-label medallions, corner flourishes, arrows, baskets, and simple produce silhouettes.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use chalk write-on, item strikeout, price flip, availability stamp, or board wipe between menus. Reduced motion changes text instantly while retaining erased-history texture.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Compose with market name and date high, items/units/prices in aligned rows, daily special or origin panel to one side, and pickup/allergen information anchored below.
 
-**Cultural markers**: Key markers include handwritten menu boards, produce pricing, chalk dust, kraft paper. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include per-pound/dozen/bag units, orchard/farm origin, seasonal availability, sold out, local, cash/card, pickup time, crate labels, chalk illustrations, and frequently revised pricing.
 
 ## Non-Negotiables
 
-**Non-negotiables**: handwritten menu boards + produce pricing + chalk dust. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: real item/unit/price hierarchy + chalk/erasure materiality + hand-updated availability + farmstand or market context.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary commercial vernacular. Handmade character should communicate freshness and local operation without making unsupported 'farm-to-table' claims.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Apple Orchard Educational it sells rather than teaches; unlike harvest fair it lists inventory rather than judges entries; unlike generic café chalkboard it foregrounds produce units, origin, and availability.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use market category filters, unit-aware quantities, availability, substitutions, pickup window, origin details, allergen notes, and sold-out states. Use live text and semantic lists rather than image-only menus.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--board`, `--chalk`, `--chalk-yellow`, `--tomato`, `--leaf`, `--wood`.
+- Use dashed/hand-drawn rules, localized smudge masks, erased text ghosts, wood inset shadows, and crate-label accents.
+- Keep menu fields square; hand-drawn produce can be organic.
+- Use aligned item/unit/price columns plus a special/origin side zone.
+- Motion: 150-500ms write/strike updates; reduced motion changes instantly.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a licensed hand-drawn block or slab for headings with a highly readable sans/serif for items and tabular numerals for prices. Do not sacrifice unit or allergen readability for chalk authenticity.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Do not invent farm origin, organic status, labor claims, or local sourcing. Present prices, units, allergens, substitutions, and sold-out states plainly and accessibly.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Coffee-shop script with decorative leaves.
+- Prices without units or availability.
+- Uniform digital white text with no hand-updated behavior.
+- Image-only menu inaccessible to assistive technology.
+- Unsupported local, organic, or farm-origin claims.

@@ -12,68 +12,64 @@ subsets: []
 
 # Autumn Field Guide Naturalism
 
-Autumn Field Guide Naturalism frames fall through observation and classification: leaves, fungi, seed pods, migration marks, specimen labels, and quiet naturalist hierarchy. It differs from Cottagecore by privileging cataloging and field study over domestic nostalgia.
+Autumn Field Guide Naturalism interprets the season through observation, classification, and field notation: measured leaves, fungi, seeds, bark, tracks, migration paths, specimen labels, habitat notes, and quiet plate hierarchy. It differs from cozy pastoral aesthetics by privileging evidence and comparison over atmosphere.
 
 ## Scope
 
-Use Autumn Field Guide Naturalism when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for educational, collection, research, nature, or catalog interfaces that can support field-guide logic. Identify what is observed versus illustrated, keep labels tied to specimens, and avoid implying scientific certainty when species or measurements are fictional.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use warm specimen paper, lichen and olive greens, bark brown, rust, ochre, and graphite. Saturated red should mark one specimen or field flag, not wash the interface in generic fall orange.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Pair readable old-style serif with italic scientific names, compact sans keys, monospaced specimen IDs, and tabular measurements. Hierarchy should resemble plates, captions, and marginal notes.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Pressed leaves, paper tooth, graphite, watercolor wash, pinholes, tape, envelope glassine, soil rub, and restrained foxing establish field handling. Avoid scrapbook glitter or heavy cozy filters.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use plate grids, specimen silhouettes, scale bars, numbered callouts, leaf-margin diagrams, sectional details, map contours, and pinned labels. Shapes stay organic inside a disciplined rectangular catalog.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Prefer page turns, lens/zoom inspection, annotation reveal, specimen sorting, or migration-line progress. Reduced motion keeps labels and scale visible in one plate.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Reserve a large specimen field, then align taxonomy, habitat, date, scale, and notes in margins. White space is observational room, not luxury minimalism.
 
-**Cultural markers**: Key markers include annotated specimens, mushrooms and leaves, migration charts, muted seasonal palettes. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include field notebooks, herbaria, taxonomic plates, collection numbers, habitat/location notes, seasonal phenology, bird migration, fungi, seed pods, and leaf morphology.
 
 ## Non-Negotiables
 
-**Non-negotiables**: annotated specimens + mushrooms and leaves + migration charts. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: observed specimen focus + label/taxonomy system + scale or measurement + restrained natural-material palette.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** educational adaptation and historical quotation. It should encourage close looking while clearly separating scientific fact from illustrative demonstration.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Cottagecore it is classificatory rather than domestic; unlike botanical luxury branding it values field evidence over ornament; unlike Autumn Library it organizes specimens rather than reading activity.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use specimen carousels, keys, comparison trays, filters by habitat/date, annotation layers, scale toggles, and field-note forms. Ensure color is not the only species distinction and provide text equivalents for diagrams.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--specimen-paper`, `--graphite`, `--lichen`, `--rust`, `--label-cream`, `--pin-metal`.
+- Use ruled margins, subtle paper grain, pinned labels, dashed migration paths, and thin plate keylines.
+- Keep labels square with 0-2px radius; specimen silhouettes stay organic.
+- Use a wide plate plus narrow annotation rail, or a measured modular specimen grid.
+- Motion: 300-600ms page/annotation changes; reduced motion swaps immediately.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a legible book serif, italic botanical naming, neutral sans keys, and mono IDs. Avoid ornate cottage scripts or tiny faux-scientific labels that cannot be read.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Do not invent Latin names or scientific claims without labeling them fictional. Avoid collecting-location details for sensitive species and do not present Indigenous ecological knowledge without permission, attribution, and context.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Pressed leaves arranged as cozy stationery.
+- No scale, label, taxonomy, or observational metadata.
+- Generic orange/brown palette with decorative acorns.
+- Unreadably tiny specimen captions.
+- Treating illustration as verified scientific identification.

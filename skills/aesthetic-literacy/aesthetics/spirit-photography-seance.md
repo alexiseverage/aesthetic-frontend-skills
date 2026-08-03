@@ -12,68 +12,64 @@ subsets: []
 
 # Spirit Photography Seance
 
-Spirit Photography Seance is built from Victorian photographic occult language: cabinet-card framing, double exposure, sepia tonal ranges, lace/table settings, captions, and archival residue. It should feel medium-specific and evidentiary, not a generic haunted collage.
+Spirit Photography Seance is an archival photographic system built from cabinet cards, albumen or tintype tonalities, solemn studio portraiture, double exposure, handwritten evidence notes, lace/parlor settings, and chemical wear. It should feel medium-specific and evidentiary, not like a modern ghost collage.
 
 ## Scope
 
-Use Spirit Photography Seance when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Frame the interface as a sitting register, plate archive, contact file, or cabinet-card drawer. The photographed subject and the photographic process must remain distinct from interface decoration. Historical spiritualism involved sincere belief, grief, fraud, experimentation, and contested evidence; avoid mocking sitters or claiming fabricated images are authentic records.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use tobacco sepia, oxidized cream, charcoal, silver gray, and dark walnut, with faded burgundy or blue-black annotation ink. Highlights should bloom softly while text sits on solid mount stock.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use restrained Victorian serif, engraved small caps, plate numbers, studio imprints, and monospaced archival metadata. Avoid theatrical séance script for body copy.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Cabinet-card board, albumen sheen, glass-plate scratches, emulsion bloom, vignette, silvering, foxing, lace, velvet, and pencil notes create provenance. Modern fog overlays break the medium.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Build from portrait mounts, oval or rectangular image wells, evidence envelopes, plate tabs, negative sleeves, seal marks, and exposure registers. Corners are mounted or worn rather than app-rounded.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use slow exposure bloom, plate dissolve, contact-sheet reveal, drawer pull, or a subtle second-image registration shift. Reduced motion shows both exposure layers without pulsing opacity.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Center the portrait as evidence, with narrow metadata and annotation columns. Layer mounts, sleeves, and notes shallowly; do not bury the sitter under decorative ectoplasm.
 
-**Cultural markers**: Key markers include sepia photography, double exposure, cabinet cards, archival residue. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include 19th-century studio dress, cabinet-card formats, photographer imprints, spiritualist sittings, double-exposed figures, séance tables, and archival catalog language. These require contextual, not sensational, treatment.
 
 ## Non-Negotiables
 
-**Non-negotiables**: sepia photography + double exposure + cabinet cards. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: period portrait medium + mounted card/plate anatomy + ambiguous double exposure + archival evidence metadata.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** historical quotation with critical ambiguity. The visual appeal comes from the tension between photographic evidence and constructed image, not from validating or ridiculing belief.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Gothic photography it foregrounds process and evidence; unlike Spiritcore it is historical and material; unlike generic Halloween collage it avoids luminous digital ghosts and cinematic fog.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use plate browsers, exposure A/B toggles, sitting records, negative IDs, annotation layers, and archive drawers. Describe essential image content in alt text and keep provenance labels live.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--mount-stock`, `--albumen-sepia`, `--plate-shadow`, `--annotation-ink`, `--silver-bloom`.
+- Use localized vignette, multiply overlays, edge foxing, subtle blur, and shallow mount shadows.
+- Use square/softly worn card corners and thin keylines; avoid glossy rounded panels.
+- Compose portrait-first with a 2:1 image-to-metadata balance.
+- Motion: 800-1600ms exposure dissolve; reduced motion uses a static composite or explicit A/B state.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Pair an old-style serif with engraved small caps or a sober condensed sans for archive labels. Handwriting may annotate one or two fields but must not carry instructions or long descriptions.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Do not present fictional generated portraits as real historical people. Respect grief and spiritualist belief, identify manipulations when known, avoid copied museum images without rights, and write alt text that does not sensationalize the sitter.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- White sheet ghost icon.
+- Modern glow, particles, or cinematic ectoplasm.
+- Sepia selfie without plate/mount metadata.
+- Mocking spiritualism or implying an invented image is authentic evidence.
+- Decorative script across essential controls.

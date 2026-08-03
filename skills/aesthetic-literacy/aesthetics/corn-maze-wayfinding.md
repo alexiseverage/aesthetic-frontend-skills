@@ -12,68 +12,64 @@ subsets: []
 
 # Corn Maze Wayfinding
 
-Corn Maze Wayfinding turns harvest navigation into a design system: map panels, path diagrams, checkpoint stamps, trail markers, and rustic directional arrows. It maps well to onboarding, progress flows, scavenger hunts, and lesson paths.
+Corn Maze Wayfinding turns a seasonal attraction into a resilient navigation system: overhead path maps, checkpoint punches, tall field markers, route choices, landmark towers, emergency exits, rustic arrows, and progress records. The maze can be playful only because its safety information is clear.
 
 ## Scope
 
-Use Corn Maze Wayfinding when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for navigation, onboarding, scavenger hunts, progress flows, or outdoor education. A recognizable path network and current position are mandatory. Never let aesthetic ambiguity hide exits, staff contact, weather closure, accessibility, or lost-child procedures.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use map cream, corn gold, field green, soil brown, barn red, and high-visibility white or safety orange. Current position, exit, and hazard colors must remain distinct and accessible.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use bold route sans, slab landmark names, mono checkpoint codes, large arrow labels, and tabular distance/time. Avoid decorative rustic script on directions.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Folded map stock, mud stamps, weathered plywood, galvanized sign brackets, punched cards, crop-row texture, faded ink, and reflective safety paint establish outdoor use.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use rectilinear path networks, dead ends, numbered posts, arrows, map keys, punch shapes, tower/gate silhouettes, boundary lines, and emergency cut-throughs.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use checkpoint progression, route tracing, location pulse, card punch, or sign reveal. Reduced motion uses a static high-contrast 'you are here' marker and highlighted route.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Give the path map most of the frame, with title/key top-left, progress or distance lower-right, and persistent exits/safety along an edge. Keep labels aligned to actual path landmarks.
 
-**Cultural markers**: Key markers include trail markers, checkpoint stamps, directional arrows, overhead path diagrams. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include corn rows, entrance/exit gates, observation towers, bridges, checkpoints, farm staff, weather closures, uneven terrain, group rules, and emergency routes.
 
 ## Non-Negotiables
 
-**Non-negotiables**: trail markers + checkpoint stamps + directional arrows. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: legible path network + persistent current-position marker + checkpoints/landmarks + unambiguous exit and safety layer.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary agritourism wayfinding. Rustic material can warm the system, but navigation performance outranks decoration.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Pumpkin Patch Field Trip it focuses on one maze and self-navigation; unlike a generic map aesthetic it uses crop rows, checkpoint cards, and agritourism safety; unlike folk horror it must reduce rather than cultivate uncertainty.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use zoomable map, route trace, checkpoint log, time/distance estimate, staff/help action, exit highlight, group code, and offline/print state. Never use color alone for route or checkpoint status.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--map`, `--corn`, `--field`, `--soil`, `--checkpoint`, `--safety`.
+- Use thick path strokes, dashed alternatives, stamped checkpoint marks, wood-sign frames, and folded-paper texture.
+- Keep signs/map panels square; route nodes can be circles or distinctive punch shapes.
+- Use map-first layout with key, checkpoint progress, and safety strip always visible.
+- Motion: 200-500ms route trace/location update; reduced motion swaps marker state without pulsing.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use bold condensed or humanist sans for signs, slab for attraction name, and mono checkpoint/time data. Enforce large minimum sizes for outdoor/phone use.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Prioritize accessibility, weather, heat, terrain, farm equipment, lost-child, and emergency information. Do not make users trade personal location data for basic safety unless clearly consented and necessary.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Decorative bar chart with the map below the fold.
+- No 'you are here,' exit, or emergency route.
+- Low-contrast green paths over aerial imagery.
+- Rustic script for directions.
+- Using disorientation as a visual effect outside the maze itself.

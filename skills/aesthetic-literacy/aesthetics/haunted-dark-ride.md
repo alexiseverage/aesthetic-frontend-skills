@@ -2,7 +2,7 @@
 slug: haunted-dark-ride
 label: Haunted Dark Ride
 family: vernacular-commercial
-era: 20th century amusement-park attraction design-present
+era: 20th century-present amusement and attraction design
 aliases: ["haunted-house ride", "dark ride horror"]
 status: canonical
 evidence_level: limited
@@ -12,68 +12,64 @@ subsets: []
 
 # Haunted Dark Ride
 
-Haunted Dark Ride translates amusement-park haunted-house design into interface form: facade signage, scenic flats, fake danger notices, stage lighting, and timed reveal logic. It is theatrical, spatial, and attraction-driven rather than Gothic Revival architecture or occult domesticity.
+Haunted Dark Ride is the designed environment of a ride-through or walk-through attraction: painted scenic flats, blacklight color, proscenium arches, bulb trim, plywood figures, track or cue rails, safety placards, ticket-booth lettering, and timed mechanical reveals. It should feel fabricated, sequenced, and publicly operated rather than like a generic haunted mansion.
 
 ## Scope
 
-Use Haunted Dark Ride when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for attraction maps, scene sequencing, ticketing, safety, queue, show-control, or playful reveal interfaces. Preserve the distinction between facade, queue, load platform, individual scenes, track path, and exit. Safety instructions must remain stable even when scenery moves or lighting changes.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Start with attraction black, plywood brown, ultraviolet violet, electric blue, glow green, warning yellow, carnival red, and warm exposed-bulb cream. Use fluorescent accents in contained scenic zones, not over body copy.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use hand-painted carnival slab or condensed capitals for facade/scene titles, block sans for safety, mono cue numbers, and ticket-booth numerals. Avoid elegant mansion serif as the sole identity.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Chipped scenic paint, plywood edge, visible brackets, blacklight pigment, faux stone/woodgrain, dust, bulb sockets, galvanized rail, grease pencil, and laminated safety signs expose the attraction's construction.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use proscenium arches, scene bays, track strips, ride-car silhouettes, cutout creatures, hinged doors, target markers, cue lamps, bulb borders, ticket windows, and safety placards.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use mechanical peek/drop/pop, cue-light change, ride-car progression, scene blackout, or bulb chase. Motion should be brief and clearly staged; reduced motion shows the revealed figure and scene path without surprise.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Compose as facade-to-track sequence or one theatrical bay with foreground car, middle scenic flat, and rear reveal. Keep queue/load/exit actions on a stable rail outside the moving scenery.
 
-**Cultural markers**: Key markers include painted flats, warning placards, mechanical reveal timing, theatrical shadows. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include admission tickets, height/safety rules, load platforms, scene numbers, blacklight paint, plywood flats, compressed-air/mechanical timing, carnival facades, ride operators, and maintenance/show-control cues.
 
 ## Non-Negotiables
 
-**Non-negotiables**: painted flats + warning placards + mechanical reveal timing. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: constructed scenic-stage material + track/scene sequencing + attraction safety/operations layer + timed mechanical reveal.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary attraction vernacular and nostalgic amusement quotation. The pleasure comes from visible theatrical fabrication and anticipation; real safety and accessibility cannot become part of the scare.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Gothic it exposes plywood, paint, track, and public operations; unlike Halloween Store it sells an experience rather than products; unlike German Expressionist Horror it uses attraction engineering and carnival craft rather than modernist psychological space.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use scene tabs, queue/load status, ticket codes, cue lights, ride-car progress, height/accessibility information, emergency stop/exit, and maintenance states. Never animate safety copy or hide exits behind a reveal.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--blacklight`, `--scenic-violet`, `--glow-green`, `--bulb`, `--warning`, `--plywood`.
+- Use layered clip-path flats, bulb-dot borders, paint chips, rail lines, cue lamps, and hard scenic shadows.
+- Use square placards and faceted arches; bulbs and cue lights provide circles.
+- Compose in three scenic depths plus a stable operations/safety strip.
+- Motion: steps-based 300-900ms mechanical reveal with long holds; reduced motion keeps reveal open and removes chase/flicker.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a carnival slab/condensed display paired with neutral safety sans and mono cue/ticket data. Avoid haunted-mansion luxury typography and never set safety rules in novelty lettering.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Do not copy protected attraction characters, logos, or scene designs. Provide photosensitivity, mobility, sensory, age, and fear-content information; avoid startle motion in controls and respect emergency egress standards.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Purple/gold haunted-mansion card.
+- Scenery with no track, queue, cue, or safety system.
+- Random floating ghosts rather than fabricated figures.
+- Continuous jump-scare animation.
+- Safety or accessibility information treated as themed decoration.

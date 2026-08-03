@@ -12,68 +12,64 @@ subsets: []
 
 # Dia de los Muertos Calavera Graphics
 
-Dia de los Muertos Calavera Graphics centers Mexican festive memorial visual language: papel picado, calavera illustration, marigold color, altar symmetry, hand lettering, and commemorative offerings. It must not be flattened into Halloween; use with cultural context, respect, and review.
+Día de los Muertos Calavera Graphics belongs to Mexican and Mexican American traditions of remembrance: ofrendas, family photographs, cempasúchil paths, candles, food and water, papel picado, calaveras, printmaking, and temporary memorial display. The memorial relationship comes first; it must never be flattened into Halloween décor.
 
 ## Scope
 
-Use Dia de los Muertos Calavera Graphics when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use only when the product, institution, community, or event has a credible relationship to Día de los Muertos and can support cultural review. Build from remembrance, named people, offerings, family/community participation, and regional variation. A decorative skull palette without memorial context does not qualify.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use marigold orange, candle cream, bougainvillea pink, papel turquoise, purple, green, and deep altar shadow in layered high contrast. Color should distinguish offerings, paper, flowers, and frames rather than become a generic rainbow.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use expressive hand-painted or print-derived display lettering for short headings, paired with highly readable Spanish/English support text where appropriate. Preserve accents in `Día`; do not invent pseudo-Mexican type.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Use tissue-paper translucency, cut edges, wood or cloth altar surfaces, candle wax, flower petals, framed photographs, relief-print ink, ceramic vessels, bread, fruit, and temporary assembly. Avoid glossy party-store plastic.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Build with altar tiers, arches, symmetrical or balanced frames, papel banners, scalloped nichos, flower paths, candles, vessels, and printmaking linework. Calaveras can be ornate, satirical, or affectionate but are not generic monster skulls.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Motion should be quiet and communal: candle steadiness, papel movement, petal-path progression, placing a photograph or offering. Reduced motion presents the completed memorial without flicker.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Organize around an ofrenda axis or memorial table: photograph/name at the emotional center, offerings on tiers, papel above, and petals forming a path. Do not make the calavera mascot the sole hero.
 
-**Cultural markers**: Key markers include papel picado, calavera illustration, marigold color, altar symmetry. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include November 1-2 remembrance, ofrendas, family and community gathering, cempasúchil, candles, water, salt, favorite foods, photographs, papel picado, calaveras, literary calaveras, and regional/community variation.
 
 ## Non-Negotiables
 
-**Non-negotiables**: papel picado + calavera illustration + marigold color. Removing these usually collapses the entry into Halloween novelty, folk horror, and Mexican rotulismo.
+**Non-negotiables**: explicit memorial purpose + ofrenda/photograph hierarchy + offerings or cempasúchil path + culturally grounded paper/print language.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** living cultural practice and contemporary community expression, not nostalgia or costume. Implementations require context and ideally review by knowledgeable Mexican or Mexican American participants.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against Halloween novelty, folk horror, and Mexican rotulismo; the boundary is the source artifact, not just color or subject matter.
+It is not Halloween Store Vernacular, folk horror, gothic skull art, or generic calavera branding. Mexican rotulismo may influence lettering, but Día is distinguished by remembrance, offerings, dates, and family/community practice.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use memorial contribution flows, photograph/name placement, offering categories, event schedules, bilingual labels, altar-level navigation, and respectful story captions. Provide alt text and never gamify grief or score memorial participation.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--altar-shadow`, `--marigold`, `--papel-pink`, `--papel-blue`, `--candle`, `--frame-gold`.
+- Use cut-paper masks, flower clusters, tiered grids, carved-frame rules, and relief-print linework.
+- Radii follow nichos, arches, petals, and cut paper; avoid generic bubbly cards.
+- Compose a centered memorial hierarchy with side offerings and a clear petal/path direction.
+- Motion: slow placement or gentle paper shift; reduced motion shows a complete, stable ofrenda.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Prefer real, licensed display lettering influenced by sign painting or printmaking, paired with readable serif/sans support. Keep Spanish terms accurate and accented. Avoid novelty 'fiesta' fonts, faux Aztec geometry, or decorative type for memorial narratives.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Día de los Muertos is a living Mexican and Mexican American memorial tradition with regional and personal variation. Seek knowledgeable review, name sources/participants, obtain consent for photographs and stories, avoid sacred/religious symbols outside context, and never treat calaveras as interchangeable Halloween skulls.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Sugar-skull mascot with no remembered person or offering.
+- Calling the practice 'Mexican Halloween.'
+- Neon skull party graphics, costume UI, or horror copy.
+- Pseudo-Mexican type, invented symbols, or mixed Latin American traditions.
+- Gamifying memorial participation or using private photographs without consent.

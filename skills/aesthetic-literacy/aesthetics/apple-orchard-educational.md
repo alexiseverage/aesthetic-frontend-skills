@@ -12,68 +12,64 @@ subsets: []
 
 # Apple Orchard Educational
 
-Apple Orchard Educational combines orchard maps, picking guides, crate labels, recipe cards, and classroom science diagrams. It is warm, practical, and instructional rather than purely rustic decoration.
+Apple Orchard Educational combines working-orchard wayfinding with classroom observation: row and variety markers, picking guidance, apple cross-sections, seed chambers, ripeness and taste notes, crate labels, pollination timelines, and cider-press sequences. It is warm and inviting because the information is concrete.
 
 ## Scope
 
-Use Apple Orchard Educational when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for farm education, U-pick guidance, field lessons, tasting, or food-science interfaces. Distinguish production areas from visitor areas and make row, variety, safety, allergen, and wash-before-eating guidance explicit. Do not reduce farm labor and plant science to rustic decoration.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use orchard green, apple red, cider gold, leaf yellow, bark brown, crate cream, and sky blue. Variety colors can help comparison, but labels and patterns must carry the same distinctions.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use agricultural bulletin serif/slab, bold row-marker sans, mono crate/lot IDs, classroom worksheet labels, and clear tabular times or measurements. Avoid rustic wedding script.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Crate paper, folded worksheets, painted wood arrows, fruit skin, leaf rubbings, kraft labels, cider stains, galvanized press parts, and laminated lesson cards establish field use.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use orchard row grids, apple cross-sections, seed-star diagrams, variety cards, crate labels, arrows, picking-bag markers, press-flow diagrams, and pollination/timeline bands.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use route progression, variety sorting, cross-section reveal, taste recording, or press-stage flow. Reduced motion displays complete process arrows and active row.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Compose a map/row field with a lesson rail for variety, anatomy, taste, and process notes. Keep visitor routes and production boundaries visually separate.
 
-**Cultural markers**: Key markers include orchard maps, picking guides, crate labels, recipe cards. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include cultivars, row numbers, blossom/fruit cycle, pollination, picking technique, ripeness, washing, tasting, cider pressing, farm labor, crates, and visitor safety.
 
 ## Non-Negotiables
 
-**Non-negotiables**: orchard maps + picking guides + crate labels. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: orchard row/variety system + plant or fruit anatomy + step-based lesson activity + real visitor/food safety guidance.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary agricultural education. Warmth should support curiosity while respecting the orchard as a food-production workplace.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Pumpkin Patch Field Trip it foregrounds plant/food learning over trip logistics; unlike Harvest Market Chalkboard it teaches before selling; unlike Field Guide Naturalism it includes farm production and visitor workflow.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use row finder, cultivar compare, harvest calendar, taste recorder, anatomy diagram, picking/food safety, accessibility route, and cider process. Support non-color variety identification and plain-language allergy information.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--orchard-green`, `--apple-red`, `--cider`, `--crate`, `--bark`, `--lesson-blue`.
+- Use row grids, wood arrows, crate labels, cross-section SVGs, ruled worksheets, and process arrows.
+- Square labels and maps; organic fruit/leaf silhouettes provide roundness.
+- Use map/row field as primary and lesson/taste rail as secondary.
+- Motion: 200-500ms sort/process transitions; reduced motion shows all steps and active state.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use an agricultural bulletin slab/serif with a neutral sans and mono row/lot data. Keep labels large enough for outdoor use and avoid decorative scripts.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Credit farm and cultivar information, represent labor and production accurately, and include accessibility, pesticide/production boundary, allergy, washing, and animal-contact guidance where relevant.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Plain tan table with apple icons.
+- Farmhouse script and gingham without row or lesson structure.
+- Invented cultivar facts presented as science.
+- No wash, boundary, terrain, or allergy information.
+- Treating the orchard only as a picturesque backdrop.

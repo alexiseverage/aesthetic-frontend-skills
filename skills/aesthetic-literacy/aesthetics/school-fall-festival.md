@@ -12,68 +12,64 @@ subsets: []
 
 # School Fall Festival
 
-School Fall Festival is the flyer-and-booth language of community school events: raffle tickets, bake-sale labels, craft tables, booth signs, paper forms, and multipurpose-gym organization. It is useful for event dashboards and family-facing logistics.
+School Fall Festival is the operational paper language of a PTA or school-community event: photocopied flyers, booth forms, raffle stubs, volunteer slots, bake-sale labels, gym maps, ticket bundles, sponsor notes, and pickup/cleanup instructions. Its charm comes from organized community effort, not generic fall branding.
 
 ## Scope
 
-Use School Fall Festival when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for event planning, volunteer coordination, booth registration, ticketing, schedules, or family information. Preserve plain-language logistics and inclusive participation. Avoid assuming every family can donate money, food, or unpaid labor.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use copier white or manila, construction-paper orange/yellow, school red or blue, marker black, and one leaf green accent. Keep ticket and safety colors distinct from decoration.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use bold flyer sans or slab, marker subheads, mono ticket serials, form labels, and clear schedule numerals. Avoid polished event-brand script.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Photocopy grain, staple marks, perforated tickets, cardstock, masking tape, marker, cafeteria paper, stamp ink, and bulletin-board pinholes create the event system.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use booth rectangles, gym grids, raffle strips, tear-off tabs, signup lines, ticket stacks, volunteer checkboxes, table numbers, and arrows to entrances/exits.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use ticket printing, signup confirmation, booth pinning, schedule highlighting, or raffle-stub tear. Reduced motion shows the confirmed form and printable stub.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Organize as a flyer/form plus ticket or volunteer rail. Group information by before-event, during-event, and cleanup; keep date/time/location persistent.
 
-**Cultural markers**: Key markers include raffle tickets, booth signs, bake-sale labels, gym event logic. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include PTA/PTO communication, multipurpose gym or playground, bake sale, games, craft tables, volunteer shifts, raffle tickets, setup/cleanup, family attendance, and school policies.
 
 ## Non-Negotiables
 
-**Non-negotiables**: raffle tickets + booth signs + bake-sale labels. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: event logistics hierarchy + booth/volunteer form + ticket or flyer material + clear date/location/schedule.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary community vernacular. It should feel accessible and collective, not like a commercial lifestyle festival.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Classroom Bulletin Board Halloween it coordinates a public event rather than classroom work; unlike Harvest Fair it does not judge exhibits; unlike Halloween Store it is community-run rather than retail.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use booth registration, volunteer capacity, ticket quantities, accessibility, food/allergy fields, schedule/map, setup/cleanup assignments, and printable confirmation. Support translation and do not expose volunteer contact data publicly.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--flyer-paper`, `--school-red`, `--ticket-yellow`, `--leaf-green`, `--marker`, `--copier-gray`.
+- Use perforations, staple dots, form rules, stamp marks, and offset photocopy texture.
+- Use square forms and tickets; circles only for stamps or booth numbers.
+- Compose flyer/form as primary and detachable ticket/volunteer rail as secondary.
+- Motion: form stamp or ticket print 150-350ms; reduced motion displays confirmation directly.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a bold school-flyer sans/slab, neutral form sans, and mono serials. Keep multilingual copy readable and avoid decorative fonts for schedules or allergy information.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Use inclusive caregiver language, accessible pricing and volunteering options, allergy-aware food labels, and privacy-safe forms. Do not assume a religious holiday or two-parent household.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Marketing hero with autumn leaves and no event operations.
+- Raffle visuals that obscure rules or costs.
+- Tiny volunteer schedules and inaccessible form controls.
+- Rustic wedding typography.
+- Publicly displaying family or volunteer personal data.
