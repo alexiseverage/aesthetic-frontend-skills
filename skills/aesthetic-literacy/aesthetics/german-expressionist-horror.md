@@ -12,68 +12,64 @@ subsets: []
 
 # German Expressionist Horror
 
-German Expressionist Horror uses stark contrast, jagged geometry, theatrical typography, painted shadow, and distorted space to make unease structural. It is a modernist horror grammar, not simply black-and-white Halloween styling.
+German Expressionist Horror translates Weimar-era stage, film, graphic, and poster experiments into a system of distorted perspective, painted shadow, jagged silhouette, compressed intertitles, and psychologically charged space. It is not simply monochrome Halloween styling: the environment itself must become unstable.
 
 ## Scope
 
-Use German Expressionist Horror when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use the aesthetic when subjective distortion can meaningfully frame narrative, theatrical, editorial, or exploratory content. Ground references in expressionist set and print logic: synthetic flats, oblique streets, exaggerated bodies, and contrast. Avoid turning a complex historical movement into a single film imitation.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use chalk white, soot black, dirty gray, and paper ivory with selective silent-film tints such as nicotine amber, bruised blue, or chemical green. Contrast should create planes and shadows, not merely invert a modern UI.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use severe display serifs, compressed grotesques, hand-cut intertitle capitals, and uneven poster hierarchy. Text can tilt within short title cards; paragraphs and controls remain level and readable.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Painted canvas, rough wood flats, lithographic ink, film grain, scratches, flicker, matte black shadow paint, and paper intertitles communicate the constructed stage. Avoid polished 3D gloss.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Favor acute triangles, trapezoid doors, inclined facades, splintered windows, elongated figures, staircase wedges, and shadows that disobey natural perspective. Rounded components should be rare.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use stepped film flicker, iris reveal, intertitle cuts, silhouette crossing, and abrupt scene changes rather than smooth app easing. Reduced motion holds a high-contrast stage tableau.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Compose diagonally with forced perspective and compressed depth. Architecture can crowd figures or push hierarchy off-axis; essential controls need a stable accessible zone.
 
-**Cultural markers**: Key markers include jagged silhouettes, painted shadows, distorted rooms, unstable perspective. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include Weimar silent cinema, expressionist theater, woodcut-like graphics, painted set shadows, intertitles, theatrical makeup, and subjective urban anxiety. Reference movements and works accurately rather than branding all angular horror 'Caligari.'
 
 ## Non-Negotiables
 
-**Non-negotiables**: jagged silhouettes + painted shadows + distorted rooms. Removing these usually collapses the entry into gothic-revival, techno-noir, and film noir.
+**Non-negotiables**: distorted constructed space + painted/high-contrast shadow + acute geometry + theatrical or intertitle hierarchy.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** historical quotation and later horror inheritance. Use precise attribution and recognize that German Expressionism covered more than horror and emerged from a specific modernist and postwar context.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against gothic-revival, techno-noir, and film noir; the boundary is the source artifact, not just color or subject matter.
+Differentiate it from film noir through synthetic distortion rather than photographic realism; from Brutalism through theatrical psychology; and from generic gothic through modernist angular abstraction.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Treat screens as acts, scenes, or title cards. Use angular navigation rails, scene markers, silhouette diagrams, and intertitle-like confirmations. Keep forms and body copy on stable light fields while the surrounding stage distorts.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--chalk`, `--soot`, `--tint-amber`, `--stage-gray`, `--film-scratch`.
+- Use clip-path polygons, skewed grid tracks, hard box shadows, repeating film perforations, and controlled grain.
+- Keep corners square; use acute cut corners and thick painted rules.
+- Build one dominant diagonal and two or three counter-planes rather than random rotation.
+- Motion: steps-based 3-8fps flicker/cuts; reduced motion removes animation without flattening geometry.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a high-contrast or heavy serif for intertitles paired with a compact grotesque. Distort containers and hierarchy more than individual glyphs; avoid warped body text and pseudo-German blackletter clichés.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Do not collapse Weimar culture into Nazi-era imagery or use nationalist symbols. Attribute film/stage references carefully, avoid copied stills without rights, and preserve readable alternatives for tilted or decorative text.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Black-and-white palette on a normal grid.
+- Random skew applied to every element.
+- Film-noir photography without painted stage distortion.
+- Blackletter used as a generic German signal.
+- Fast strobing or contrast flicker without accessibility safeguards.

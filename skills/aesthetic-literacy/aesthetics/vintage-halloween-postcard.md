@@ -12,68 +12,64 @@ subsets: []
 
 # Vintage Halloween Postcard
 
-Early Halloween greeting-card and postcard graphics turn seasonal fear into collectible print ephemera: hand-lettered greetings, moon faces, silhouettes, novelty borders, and orange/black spot color. Use it when the interface should feel mailed, printed, and charmingly uncanny rather than cinematic horror.
+Early Halloween greeting cards and postcards turn seasonal unease into collectible postal ephemera: spot-color printing, theatrical greetings, anthropomorphic moons and vegetables, silhouettes, decorative rules, and visibly handled card stock. Use it when an interface should feel mailed, printed, and charmingly uncanny rather than cinematic or retail-driven.
 
 ## Scope
 
-Use Vintage Halloween Postcard when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Anchor the system in a postcard, greeting-card rack, correspondence ledger, or postal route. The card must remain the organizing artifact: address and message fields, stamp corners, publisher marks, borders, and print registration matter more than simply adding old Halloween motifs. Avoid it for serious archival claims unless the date, printer, and object provenance are known.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Build from oxidized cream or warm buff stock, carbon black ink, and pumpkin-orange spot color. Small moss green, faded violet, or postal red accents can identify stamps and routes; avoid modern neon and smooth orange gradients.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Pair a compact display serif or handbill-style face with small caps, ornamented initial letters, and practical postal sans or mono for addresses and edition numbers. Greetings can arc or stack, but body copy stays upright and readable.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Show paper tooth, foxing, deckled or rubbed edges, offset ink, halftone, plate misregistration, pencil address marks, and stamp cancellation. Aging should vary by edge and handling rather than sit as a uniform sepia filter.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use landscape card proportions, double rules, cameo medallions, stamp rectangles, crescent arcs, black silhouettes, corner ornaments, and small publisher seals. Corners are nearly square or softly worn, never app-like pills.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Prefer intentional stillness, a card turn, postal stamp, or slow rack shuffle. Any movement should feel handled and mechanical; reduced motion shows the complete front/back card state.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Compose as front and message side, card rack, or overlapping mailed stack. Preserve generous image fields, narrow correspondence columns, and a clear stamp/address zone instead of centered-card UI.
 
-**Cultural markers**: Key markers include vintage print greeting, orange and black spot color, moonlit silhouettes, paper grain. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include period greeting language, postal denominations, moon or harvest personification, black cats, witches, bonfires, and early commercial print ornament. These are visual references, not proof that a new artifact is historically authentic.
 
 ## Non-Negotiables
 
-**Non-negotiables**: vintage print greeting + orange and black spot color + moonlit silhouettes. Removing these usually collapses the entry into witchcore, storybook-spooky-cute, and slasher-vhs-rental.
+**Non-negotiables**: postcard geometry + orange/black spot-color logic + period greeting hierarchy + visibly printed/handled paper.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** nostalgic quotation. The appeal is collectible, strange, and often playful. Keep period cues internally coherent and avoid presenting newly made art as an antique original.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against witchcore, storybook-spooky-cute, and slasher-vhs-rental; the boundary is the source artifact, not just color or subject matter.
+Distinguish it from Storybook Spooky Cute through postal structure and period printing; from Halloween Store Vernacular through low-volume print craft rather than fluorescent merchandising; and from witchcore through correspondence, not occult lifestyle.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use card-front previews, address forms, stamp filters, route/status cancellations, edition tabs, and a front/back flip. Make controls resemble labels or postal marks without reducing target size or contrast. Keep essential copy live rather than burned into decorative imagery.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--postcard-stock`, `--ink-black`, `--spot-orange`, `--stamp-red`, `--foxing-brown`, `--rule-ink`.
+- Use double rules, hairlines, stamp boxes, deckled masks, localized radial stains, and slight color-channel offsets.
+- Keep radii between 0-4px; use offset print shadows rather than soft elevated-card shadows.
+- Use a landscape grid with art field, correspondence column, address rules, and stamp corner.
+- Motion: 250-500ms card turn or stamp press; reduced motion swaps state without rotation.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use sturdy old-style or transitional serif display with small-caps support, paired with readable serif/sans and mono numerals. Letterspacing can open short greetings and publisher lines; never space long prose or imitate illegible pseudo-Victorian script.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Reference user-provided or rights-cleared artifacts analytically; do not reproduce copyrighted card illustrations or claim generated work is historical. Avoid treating ethnic caricature, disability, or period stereotypes found in some ephemera as reusable nostalgia.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Sepia filter plus generic pumpkin clip art.
+- Modern rounded cards, gradients, or neon Halloween purple.
+- A greeting without postal/address/stamp structure.
+- Uniform distress that lowers text contrast.
+- Presenting newly generated imagery as a documented antique.

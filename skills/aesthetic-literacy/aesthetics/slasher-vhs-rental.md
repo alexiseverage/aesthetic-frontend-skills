@@ -12,68 +12,64 @@ subsets: []
 
 # Slasher VHS Rental
 
-Slasher VHS Rental is horror media-store packaging language: lurid tape boxes, warning stickers, genre shelves, magnetized late-night color, and analog wear. Use it for media catalogs, launches, queues, or recommendations that need home-video menace without adopting generic cyberpunk or grunge.
+Slasher VHS Rental is character-first horror packaging inside a video-store inventory system: lurid painted cover art, black clamshell plastic, stacked spines, cassette windows, rental stickers, shelf codes, tiny billing blocks, magnetic-tape wear, and late-night fluorescent color. It must look rentable and handled, not like a modern dark modal with scanlines.
 
 ## Scope
 
-Use Slasher VHS Rental when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for media catalogs, recommendations, queues, releases, or fictional genre browsing. Build original fictional titles and characters, then anchor them in front/back/spine/cassette anatomy and store operations. Avoid safety-critical contexts and do not reproduce protected film posters, masks, performers, rating marks, studio logos, or retailer branding.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use black plastic, near-black shelf shadow, oxidized cream sticker paper, deep burgundy, and blood red. Add sodium yellow late-fee labels, hot pink or acid green staff picks, sickly cyan tracking highlights, and electric blue shelf tabs in small commercial bursts.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use condensed all-caps poster titles, heavy commercial sans stickers, mono shelf codes, tiny billing rows, barcode-like numerals, and slanted review/tagline strips. Keep synopses and controls readable.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Show clamshell gloss, cassette ribs, reel-window translucency, adhesive residue, shelf dust, tracking noise, rubbed corners, sun-faded ink, photocopied labels, and loose magnetic tape. Texture should imply circulation.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use tall sleeve fronts, narrow spines, cassette rectangles, circular reels, clamshell hinges, shelf rails, barcode blocks, price stickers, return labels, and character-first painted portrait composition.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use tracking drift, case flip, shelf pull, inventory scan, rewind progress, sticker stamp, or title jitter. Keep analog noise low-frequency; reduced motion shows the complete cover/cassette state.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Organize as late-night rental shelf, case inspector, front/back/spine comparison, or endcap. The cover character/title dominates; store labels and cassette evidence establish the artifact around it.
 
-**Cultural markers**: Key markers include lurid box typography, rental stickers, tape wear, black-red contrast. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include fictional slasher cover stars, lurid taglines, one-night rental, staff pick, cult horror, be kind rewind, late fees, shelf codes, run time, mono/stereo, inventory numbers, and fluorescent closing-time atmosphere.
 
 ## Non-Negotiables
 
-**Non-negotiables**: lurid box typography + rental stickers + tape wear. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: original character-first cover + VHS case/cassette anatomy + rental-store sticker/inventory system + analog handling/playback wear.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** nostalgic quotation and original genre pastiche. Its excess can be scary or campy, but it must remain clearly fictional and distinct from existing franchises.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike generic VHS/glitch it requires rental inventory and physical case anatomy; unlike Halloween Store it merchandises media rather than costumes; unlike synthwave it uses fluorescent commercial decay rather than futuristic nostalgia.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use shelf browsing, cover inspection, front/back/spine/cassette views, genre tabs, inventory/availability, staff notes, rewind state, late-fee math, and return-slot actions. Keep horror art optional where audience sensitivity requires it.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--plastic`, `--case-red`, `--sticker`, `--late-fee`, `--staff-pick`, `--tracking`.
+- Use clamshell rims, cassette ribs/reels, adhesive residue, hard sticker shadows, scanlines, and localized chromatic offset.
+- Mostly square case/label corners; circles belong to reels and adhesive dots.
+- Use dominant cover, spine shelf, cassette/return area, and sticker clusters.
+- Motion: steps-based tracking/case handling; reduced motion removes drift and preserves all labels.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use condensed grotesque display, heavy sans labels, mono shelf codes, and tiny decorative billing rows. Do not use a generic novelty spooky font for every text layer.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Keep characters and art original; do not copy movie titles, masks, costumes, posters, studio marks, performers, MPAA graphics, or rental brands. Provide content sensitivity and avoid explicit gore unless the context and audience support it.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Dark modal with a red title and scanlines.
+- Recognizable franchise killer, poster, costume, or logo.
+- VHS noise without case, cassette, shelf, or sticker anatomy.
+- Cover art where the threat is tiny or absent.
+- Modern streaming cards relabeled as rentals.

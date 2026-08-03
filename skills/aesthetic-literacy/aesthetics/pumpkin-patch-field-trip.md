@@ -12,68 +12,64 @@ subsets: []
 
 # Pumpkin Patch Field Trip
 
-Pumpkin Patch Field Trip uses family-farm event language: hayride maps, patch signs, produce tags, ticket stubs, plaid accents, and kid-friendly illustration. It works for booking, education, event, or family seasonal flows.
+Pumpkin Patch Field Trip combines school-trip logistics with family agritourism: hayride tickets, farm maps, patch-row markers, group assignments, produce tags, safety signs, cider stops, and weather-ready route information. It should feel practical, supervised, outdoors, and warmly seasonal.
 
 ## Scope
 
-Use Pumpkin Patch Field Trip when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for booking, check-in, route, education, or family event flows. The interface must prioritize group identity, timing, terrain, weather, allergies, animal areas, and pickup instructions before decorative pumpkins. Avoid romanticizing a working farm in ways that obscure real safety rules.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use kraft and map cream with pumpkin orange, tractor green, hay gold, barn red, and overcast blue. Keep safety signs high contrast and separate from decorative plaid or harvest accents.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use hand-painted farm-sign display, bold route sans, ticket mono, classroom worksheet labels, and large tabular times. Avoid rustic wedding script.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Weathered wood, ticket stock, folded map paper, mud stamps, hay, galvanized metal, plaid fabric, crate labels, and laminated group cards establish the visit.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use route lines, row grids, wagon tickets, map pins, arrow boards, gate markers, produce tags, barn silhouettes, group badges, and perforated stubs.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use route checkpoint progression, ticket punch, wagon movement along a map, group check-in, or weather alert reveal. Reduced motion shows the entire route and current stop.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Organize around a farm map with entrance, parking, barn, patch rows, animal boundary, wash station, shelter, and pickup. Keep schedule/group data in a stable side rail.
 
-**Cultural markers**: Key markers include hayride maps, farm signs, ticket stubs, soft orange-green palettes. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include chaperones, bus/group numbers, hayrides, patch rows, cider or snack stops, handwashing, animal-zone notices, uneven terrain, ticketing, and take-home produce.
 
 ## Non-Negotiables
 
-**Non-negotiables**: hayride maps + farm signs + ticket stubs. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: farm route/map + supervised group logistics + ticket or row-marker system + visible safety/weather information.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary agritourism and school vernacular. It can be nostalgic, but the working farm and visitor responsibilities must remain visible.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Corn Maze Wayfinding it supports a multi-stop supervised visit rather than a single navigation puzzle; unlike Apple Orchard Educational it centers trip logistics more than plant science; unlike Harvest Fair it is experiential rather than competitive.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use group check-in, route progress, timed wagon slots, row assignment, weather and footwear notices, accessibility info, allergy/safety labels, and pickup confirmation. Do not rely on a picturesque map for emergency directions.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--map-paper`, `--pumpkin`, `--tractor-green`, `--barn-red`, `--hay`, `--safety-blue`.
+- Use dashed routes, perforated tickets, wood-sign arrows, folded-map shadows, and stamped checkpoints.
+- Mostly square ticket/map geometry with rounded produce markers.
+- Use a dominant map plus schedule/group rail and persistent safety strip.
+- Motion: route marker advances 250-500ms; reduced motion jumps directly and retains path context.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a sturdy slab or sign-painter display paired with a neutral sans and mono ticket/time data. Avoid faux-rustic script and tiny map labels.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Represent farms as working environments, not costume backdrops. Include accessibility, allergy, weather, animal-contact, and handwashing information. Obtain permission for real farm names, maps, and photographs.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Pumpkin clip art with no route or group logistics.
+- Unreadable decorative farm script.
+- Hiding safety notices in rustic styling.
+- A map without entrance, pickup, shelter, or accessible route.
+- Treating farm labor and animals as scenery only.

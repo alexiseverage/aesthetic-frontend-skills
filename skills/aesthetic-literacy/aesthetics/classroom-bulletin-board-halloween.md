@@ -12,68 +12,64 @@ subsets: []
 
 # Classroom Bulletin Board Halloween
 
-Classroom Bulletin Board Halloween is a friendly K-12 seasonal display system: construction-paper cutouts, scalloped borders, laminated icons, sticker rewards, and high-contrast classroom type. It is intentionally low-threat and instructional.
+Classroom Bulletin Board Halloween is a teacher-made display system built from construction paper, scalloped borders, staples, laminated labels, student names, job pockets, sticker rewards, and friendly seasonal cutouts. It is instructional, collaborative, visibly handmade, and intentionally low-threat.
 
 ## Scope
 
-Use Classroom Bulletin Board Halloween when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for elementary classroom tasks, progress, attendance, learning games, or family communication. The board needs a classroom purpose beyond decoration. Keep language inclusive, age-appropriate, and readable from a distance; do not import retail horror, gore, or punishment framing.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use bulletin-board cork or painted backing with construction-paper orange, purple, yellow, leaf green, white, and black. Reserve red for teacher marks or warnings and keep every label high contrast.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use large teacher-lettering sans or slab capitals, cut-paper headings, marker notes, name-label print, and child-readable support type. Avoid decorative scripts and tiny faux-handwriting.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Cork, construction paper fibers, scissor edges, staples, pushpins, laminate glare, dry-erase marker, yarn, glue residue, and reused border trim communicate classroom making.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use scalloped borders, pockets, task strips, name leaves, paper-chain links, reward rosettes, clothespins, die-cut bats/pumpkins, and rectangular laminated labels. Shapes can be friendly but should stay organized.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use sticker placement, name-card movement, task completion, page flip, or gentle paper lift. Reduced motion shows all assignments and statuses without bouncing decoration.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Compose as one large board with a strong header, repeatable student/task zones, reward or progress area, and a teacher information corner. Preserve predictable scan order.
 
-**Cultural markers**: Key markers include construction paper cutouts, scalloped borders, laminated icons, sticker badges. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include room numbers, classroom jobs, curriculum prompts, attendance, teacher notes, student artwork, laminated icons, safe seasonal vocabulary, and family-facing reminders.
 
 ## Non-Negotiables
 
-**Non-negotiables**: construction paper cutouts + scalloped borders + laminated icons. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: teacher-made board materiality + visible instructional purpose + repeatable student/task labels + friendly age-appropriate seasonal cues.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary school vernacular. Its appeal comes from communal making and practical classroom display, not from infantilizing users in unrelated products.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike School Fall Festival it manages classroom learning rather than event logistics; unlike Halloween Store Vernacular it uses paper and lamination rather than disposable retail plastic; unlike Storybook Spooky Cute it is a display system, not a narrative world.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use task pockets, draggable name cards, sticker progress, attendance rows, assignment filters, and teacher note zones. Maintain large type, generous targets, plain-language status, and patterns/icons in addition to color.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--board`, `--paper-orange`, `--paper-purple`, `--marker-black`, `--laminate-white`, `--reward-yellow`.
+- Use scalloped masks, dashed cut lines, staple dots, paper shadows, and localized laminate highlights.
+- Mix square labels with safe rounded cutouts; do not turn every task into a pill.
+- Use a header band, task grid, progress marker, and teacher-note edge zone.
+- Motion: 150-300ms card placement; reduced motion uses direct state changes.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a friendly, highly legible sans or slab with a plain text companion. Keep letterspacing normal for children and dyslexic readers; avoid all-caps paragraphs and novelty spooky faces.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Use inclusive family language, avoid ranking children publicly, protect student names/data, and ensure decorations do not stigmatize disability, religion, or families that do not celebrate Halloween.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Generic orange dashboard with bat icons.
+- Public leaderboards of named children.
+- Retail packaging, gore, or frightening monsters.
+- Every label rendered as a rounded software pill.
+- Decorative type too small to read across a classroom.

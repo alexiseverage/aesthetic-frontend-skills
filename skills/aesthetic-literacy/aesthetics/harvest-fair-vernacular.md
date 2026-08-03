@@ -2,7 +2,7 @@
 slug: harvest-fair-vernacular
 label: Harvest Fair Vernacular
 family: vernacular-commercial
-era: agricultural fair signage and display traditions; ongoing
+era: agricultural and county-fair display traditions; contemporary
 aliases: ["county fair harvest", "agricultural fair signage"]
 status: canonical
 evidence_level: limited
@@ -12,68 +12,64 @@ subsets: []
 
 # Harvest Fair Vernacular
 
-Harvest Fair Vernacular is the design language of county fairs and agricultural display: ribbons, produce labels, painted boards, crate grids, judging tags, gingham, and event maps. It supports markets, competitions, school events, and food-system interfaces.
+Harvest Fair Vernacular is the competitive display and recordkeeping language of county and agricultural fairs: premium books, division/class/lot numbers, exhibit tags, judging cards, handwritten scores, blue/red/white and champion ribbons, produce crates, hall tables, and public result displays. It is civic and procedural, not simply rustic fall beige.
 
 ## Scope
 
-Use Harvest Fair Vernacular when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for exhibits, judging, registration, results, community showcases, or award workflows. Preserve division/class/lot hierarchy, entrant privacy, judging criteria, ribbon status, and pickup/release procedures. Do not imply official 4-H, extension, fair, or county affiliation without permission.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use kraft, score-card cream, hay gold, crate brown, ink black, blue/red/white award colors, champion purple, and agricultural green. Keep ribbon colors labeled and criteria readable independently of color.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use agricultural premium-book slab/serif, hand-painted hall signs, mono lot numbers, stamped divisions, handwriting for judge notes, and clear sans criteria. Avoid rustic wedding script.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Kraft tags, clipboard board, pencil scores, stamp ink, ribbon satin, rosette pleats, crate wood, burlap, seed packet paper, tablecloth, and staple/pin marks establish public exhibition.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use rosettes, ribbon tails, exhibit tags, lot cards, ruled judging sheets, premium-book columns, crate labels, clipboards, table signs, division tabs, and result stamps.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use check-in stamp, score writing, ribbon placement, result posting, table sorting, or exhibit release. Reduced motion directly applies the award while preserving score and criteria.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Compose as judging table or exhibit hall: award/lot identity at left, criteria and entry center, result/ribbon visible, and registry table below or beside. Keep public display and staff workflow distinct.
 
-**Cultural markers**: Key markers include prize ribbons, produce crates, hand-painted signs, agricultural display hierarchy. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include division, class, lot, premium book, exhibit building, open class/4-H contexts, judging assistants, criteria, score, ribbon placement, champion/advancement, public display, and exhibit release.
 
 ## Non-Negotiables
 
-**Non-negotiables**: prize ribbons + produce crates + hand-painted signs. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: division/class/lot hierarchy + physical judging/exhibit card + visible ribbon/result system + fair-hall material context.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary community and agricultural vernacular. The aesthetic should honor participant effort and transparent process rather than turn judging into decorative gamification.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Harvest Market Chalkboard it awards exhibits rather than sells produce; unlike School Fall Festival it follows premium-book and judging procedure; unlike generic farmhouse it uses civic records, lots, and results.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use registration, division/class selection, lot tags, judging criteria, score/notes, ribbon status, result posting, pickup/release, and privacy controls. Label colors, explain criteria, and support appeal/accommodation workflows where applicable.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--tag-kraft`, `--score-cream`, `--ribbon-blue`, `--ribbon-red`, `--champion-purple`, `--crate`.
+- Use ruled cards, tag holes/string, stamp marks, rosette pleats, crate grain, clipboard clips, and premium-book columns.
+- Square tags/cards with organic ribbon pleats and tails.
+- Use prize-table hero plus structured result ledger in the first viewport.
+- Motion: 150-400ms stamp/ribbon placement; reduced motion applies states directly.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a sturdy slab/serif for hall headings, neutral sans for criteria, mono lot/score data, and optional handwriting only for judge notes. Avoid decorative script in rules or results.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Represent actual fair, 4-H, extension, county, entrant, and award systems only with permission and accurate policy. Protect youth/entrant data, support accommodations, and avoid mocking rural or agricultural communities.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Tan data table with no tags, criteria, or ribbons.
+- Ribbon color without a text result.
+- Invented official logos or institutional affiliation.
+- Farmhouse script and gingham as the whole aesthetic.
+- Decorative awards detached from transparent judging process.

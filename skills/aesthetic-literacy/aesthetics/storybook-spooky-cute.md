@@ -12,68 +12,64 @@ subsets: []
 
 # Storybook Spooky Cute
 
-Storybook Spooky Cute turns Halloween into gentle illustrated suspense: rounded lettering, friendly silhouettes, soft night skies, paper texture, and cozy houses. It should stay playful and child-safe rather than gothic, occult, or jump-scare driven.
+Storybook Spooky Cute creates gentle illustrated suspense through a small narrative world: moonlit paths, friendly ghosts, shy pumpkins, crooked houses with warm windows, tactile paint, page rhythm, and reassuring resolutions. It is a children's publishing system, not a sticker pack in purple.
 
 ## Scope
 
-Use Storybook Spooky Cute when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for child-facing stories, onboarding, reading, bedtime, games, or emotionally gentle seasonal content. Every scene should imply a beginning, movement, and safe destination. Keep fear mild and opt-in; avoid occult, death, gore, or jump-scare conventions.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Balance midnight blue or aubergine with warm paper cream, dusty lavender, faded coral, pumpkin orange, leaf brown, and pale moon yellow. Warm light should counter the night palette.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use friendly book serif or humanist sans, sentence-case story headings, generous line height, and small page/series labels. Lettering may wobble subtly but must remain effortless to read.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Gouache, colored pencil, crayon edge, paper tooth, dry brush, collage scraps, and printed page wear provide warmth. Avoid glossy vector gradients and plastic 3D characters.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use soft asymmetric silhouettes, crooked-but-welcoming houses, round moons, lanterns, winding paths, tiny bats, expressive pumpkins, page borders, and recurring visual characters. Cards should not replace scenes.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use page turns, lantern glow changes, tiny character walks, drifting leaves, or gentle reveal. Motion is slow and predictable; reduced motion shows a complete still illustration.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Compose as a full picture-book spread with live text placed in genuine sky/wall negative space, page numbers, and a clear visual journey. Leave a hint of the next page or scene.
 
-**Cultural markers**: Key markers include rounded lettering, gentle night skies, friendly silhouettes, soft suspense. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include bedtime cadence, friendly supernatural figures, safe homes, child-scale journeys, seasonal gardens, repetition, page numbering, and a reassuring emotional ending.
 
 ## Non-Negotiables
 
-**Non-negotiables**: rounded lettering + gentle night skies + friendly silhouettes. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: narrative illustrated scene + tactile picture-book medium + gentle suspense balanced by warmth + child-safe resolution.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary children's publishing. Cute styling should support emotional safety and story, not merely make horror merchandise more marketable to children.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Classroom Bulletin Board Halloween it is narrative rather than instructional; unlike kawaii it uses picture-book material and seasonal storytelling; unlike Gothic it resolves tension with warmth and safety.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use page/spread navigation, read-aloud progress, character-led choices, quiet sound controls, large touch targets, and text placed outside busy illustration. Provide reduced motion and avoid autoplay audio or surprise transitions.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--night-blue`, `--paper-cream`, `--moon-yellow`, `--pumpkin`, `--coral`, `--lavender`.
+- Use image masks with painted edges, paper grain, shallow page gutters, and warm localized light.
+- Use soft 4-8px page corners; organic character shapes carry most rounding.
+- Build full-bleed spreads with a stable text zone and visible page number/progress.
+- Motion: 400-900ms page/character changes; reduced motion crossfades or swaps without parallax.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a highly readable book serif or humanist sans with normal letterspacing. Avoid infantile bubble fonts, all-caps story text, and overly thin cream text on busy night scenes.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Respect age ratings, fear sensitivity, and caregiver expectations. Do not appropriate folklore or religious symbols as cute monsters without context. Keep generated or licensed artwork provenance clear.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Purple rounded card with ghost stickers.
+- No story action, destination, or emotional resolution.
+- Glossy vector mascots on a gradient.
+- Scary imagery labeled safe only because it is pastel.
+- Text placed over the character or busy illustration.

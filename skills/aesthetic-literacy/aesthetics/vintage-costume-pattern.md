@@ -12,68 +12,64 @@ subsets: []
 
 # Vintage Costume Pattern
 
-Vintage Costume Pattern uses sewing-pattern envelopes, numbered construction steps, measurement grids, tissue-paper textures, and retro illustration. It is craft/instruction driven, distinct from retail Halloween packaging or slasher media.
+Vintage Costume Pattern is an instructional print system derived from sewing-pattern envelopes and tissue sheets: idealized garment illustration, pattern number and size block, cut-layout diagrams, notches, grainlines, seam allowances, measurement charts, fabric requirements, and numbered construction steps.
 
 ## Scope
 
-Use Vintage Costume Pattern when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for making, customization, sizing, assembly, or craft workflows. The interface should explain how parts become a garment or costume. Preserve measurement clarity and separate historic visual quotation from modern fit, body, and accessibility standards.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use envelope cream, tissue beige, carbon linework, faded coral, mustard, teal, and one deep brown/black registration color. Keep diagrams high contrast and do not age measurement text into illegibility.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use mid-century commercial sans or slab for pattern number/title, condensed size blocks, neutral instruction sans, mono measurements, and italic note callouts. Avoid fashion-magazine script.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Tissue translucency, fold creases, pinholes, dotted cut lines, transfer marks, envelope wear, offset print, pencil alterations, and fabric swatches establish the making process.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use tall pattern envelopes, flap geometry, garment silhouettes, tissue-piece polygons, notches, grainline arrows, measurement grids, size tables, numbered circles, and cutting-layout rectangles.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use tissue unfold, step progression, piece highlight, size/yardage recalculation, or seam-path draw. Reduced motion shows all pieces and highlights the active step without unfolding animation.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Compose envelope art beside an instruction grid or cut layout. Keep pattern number/size/fabric requirements prominent and allow diagrams to expand without losing step context.
 
-**Cultural markers**: Key markers include pattern envelopes, instruction diagrams, measurement grids, tissue-paper texture. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include pattern numbers, views A/B, size ranges, notions, fabric yardage, seam allowance, cut-on-fold, notches, grainline, transfer marks, tissue sheets, and illustrated finished views.
 
 ## Non-Negotiables
 
-**Non-negotiables**: pattern envelopes + instruction diagrams + measurement grids. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: pattern envelope hierarchy + recognizable tissue-piece notation + measurements/size system + numbered construction sequence.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** nostalgic quotation and practical craft adaptation. Period graphics can inspire hierarchy, but modern sizing should not inherit exclusionary assumptions uncritically.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Halloween Store Vernacular it teaches garment construction rather than selling a bagged costume; unlike Desktop Publishing it is specialized around cutting and sewing; unlike fashion illustration it requires technical pattern notation.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use view selector, size/measurement inputs, fabric calculator, piece inventory, cut layout, step navigator, seam/notch highlights, print controls, and accessible diagram descriptions. Do not encode fit only as a gendered body ideal.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--envelope`, `--tissue`, `--registration`, `--view-coral`, `--instruction-teal`, `--pencil`.
+- Use transparent piece overlays, dotted cut paths, notch triangles, grid rulers, fold arrows, and envelope shadows.
+- Square envelope/panel corners; irregular polygons belong to tissue pieces.
+- Use envelope left and expandable instruction/layout field right.
+- Motion: 250-700ms unfold/highlight; reduced motion swaps piece/step state directly.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use a strong commercial sans/slab for the envelope, neutral sans for steps, and mono/tabular numerals for sizes and measurements. Maintain unit clarity and avoid compressed microtype for instructions.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Use inclusive, current sizing and body language; support multiple units, mobility needs, and adaptive garment notes. Avoid copying protected pattern-envelope art, brands, or proprietary pattern diagrams.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Retro fashion illustration with no construction system.
+- Tissue texture used as generic parchment.
+- Missing grainlines, notches, sizes, or measurements.
+- Period gender/body stereotypes repeated as product requirements.
+- Long instructions set in tiny condensed type.

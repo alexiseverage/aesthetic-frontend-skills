@@ -12,68 +12,64 @@ subsets: []
 
 # Halloween Store Vernacular
 
-Halloween Store Vernacular is the commercial language of seasonal aisles: bargain signs, costume packaging, mask hangtags, glossy plastic, product grids, and theatrical retail color. It is useful for merchandising, catalog, promo, and inventory interfaces that should read as temporary, loud, and shoppable.
+Halloween Store Vernacular is the temporary, high-volume language of seasonal aisles: pegboard, bagged costumes, mask hangtags, fluorescent price bursts, corrugated endcaps, glossy plastic, product grids, and aggressively legible promotions. Use it for merchandising and inventory experiences that should feel loud, disposable, and immediately shoppable.
 
 ## Scope
 
-Use Halloween Store Vernacular when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+The core artifact is a seasonal retail aisle or endcap, not a haunted scene. Products need hooks, package fronts, shelf rails, prices, size/age labels, and stock states. Keep merchandising hierarchy usable and avoid deploying its visual noise in medical, emergency, or other high-stakes flows.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Start with charcoal pegboard, fluorescent white store light, and cheap package black. Use safety orange, acid green, hot pink, purple, and yellow as competing retail signals, with white for label legibility.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Use compressed all-caps sale type, blunt retail sans, stencil aisle numbers, price-gun numerals, and small package specification text. Display novelty lettering belongs on fictional product art, not navigation or forms.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Plastic bag glare, blister reflections, heat-sealed seams, punched hang tabs, corrugated board, pegboard holes, scuffed laminate, tape, and disposable vinyl are more important than atmospheric fog.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Build from tall hanging packages, header cards, J-hooks, shelf strips, starbursts, price rectangles, size dots, and stacked endcaps. Product silhouettes should repeat densely but retain clear SKU boundaries.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Use inventory scan, hook restock, package sway, price-label stamp, and brief fluorescent flicker. Keep movement low amplitude and disable sway/flicker under reduced motion.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Favor vertical bays and dense modular product grids with a loud header sign and price rail. Filters can read as aisle tabs; checkout actions should remain visually dominant.
 
-**Cultural markers**: Key markers include retail aisle signage, costume tags, plastic packaging, fluorescent sale accents. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include costume-wall categories, age/size callouts, seasonal clearance, one-size packaging, BOGO labels, plastic masks, foam props, and temporary-store wayfinding. Avoid real retailer marks unless licensed.
 
 ## Non-Negotiables
 
-**Non-negotiables**: retail aisle signage + costume tags + plastic packaging. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: pegboard or shelf infrastructure + hanging package anatomy + fluorescent promotion hierarchy + visible price/stock language.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary vernacular quotation, often campy. Its energy comes from temporary commerce and genre excess, not from claiming handmade authenticity.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Slasher VHS Rental it sells costumes and props rather than media; unlike Classroom Bulletin Board Halloween it is transactional and plastic; unlike spooky-cute it tolerates louder contrast and commercial clutter.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use aisle navigation, product hook grids, size/stock chips, price rails, cart quantities, clearance flags, and package-detail drawers. Preserve keyboard focus and do not make price or availability dependent on color alone.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--pegboard`, `--package-black`, `--sale-orange`, `--promo-pink`, `--stock-green`, `--label-yellow`.
+- Create pegboard with radial backgrounds, package glare with clipped linear highlights, and rails with inset shadows.
+- Use mostly square 0-4px packaging; reserve circles for price bursts and size markers.
+- Grid densely in vertical bays with consistent hook/header/price alignment.
+- Motion: short scan sweep or package settle; provide static stock labels for reduced motion.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Choose a condensed grotesque for promotions, heavy sans for product names, and mono/tabular numerals for aisle and price data. Do not use one novelty horror font across the entire store.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Do not copy protected costume characters, packaging, retailer identities, or movie properties. Make fictional products clearly original. Loud color and flashing light still require contrast and photosensitivity safeguards.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- A dark ecommerce card grid with pumpkins added.
+- Floating neon without pegboard, hooks, packages, or prices.
+- Protected characters or recognizable retail branding.
+- Every label styled as a sale burst.
+- Unreadable novelty type for size, stock, or checkout.

@@ -12,68 +12,64 @@ subsets: []
 
 # Folk Horror Pastoral
 
-Folk Horror Pastoral makes the countryside uncanny through village notices, harvest symbols, handmade masks, old paper, muddy greens, and ritual stillness. It differs from Cottagecore by turning pastoral familiarity into social unease.
+Folk Horror Pastoral turns familiar countryside into social unease through isolated landscapes, parish authority, old boundaries, seasonal labor, handmade markers, weathered notices, and customs whose meaning is controlled by the community. Its horror comes from land, history, and group pressure, not a generic inventory of occult props.
 
 ## Scope
 
-Use Folk Horror Pastoral when the product context can credibly support its source artifacts and seasonal logic. The aesthetic should operate as an information system, not a mood-board layer: preserve its native labels, surfaces, display conventions, and hierarchy before adding decorative motifs.
-
-Avoid using it where seasonal novelty, horror, school culture, food culture, memorial culture, or historical reference would distract from safety-critical, medical, legal, or emergency workflows.
+Use it for narrative, editorial, cultural, or exploratory products where place and community can drive the experience. Establish a specific rural geography, institution, season, and material culture. Do not imply that real rural communities or folk practices are inherently primitive, violent, or supernatural.
 
 ## 7-Dimension Profile
 
-**Palette**: Anchor color around the source setting rather than a generic fall gradient: combine a stable neutral surface with two or three seasonal accents, reserve high-saturation color for labels, warnings, stamps, or calls to action, and keep body text at accessible contrast.
+**Palette**: Use lichen, peat, straw, chalk, mud, weathered wood, overcast gray, and faded blood-red thread or notice ink. Keep saturation low and natural; avoid one-note brown or fashionable witchy black.
 
-**Type**: Favor artifact-specific lettering: display serifs, hand-lettered sign styles, classroom sans, label-maker mono, route-map captions, or instruction-sheet type depending on the interface metaphor. Decorative type belongs in headings, badges, and short labels; long copy needs readable support typography.
+**Type**: Pair parish-notice serif, utilitarian handbill sans, stamped dates, map labels, and occasional hand-lettered local signs. Avoid decorative occult scripts and faux-medieval type.
 
-**Texture**: Use print grain, paper tooth, chalk dust, plastic sheen, photographic fading, wood, crate stock, laminated classroom surfaces, or worn ticket edges only where the source artifact supports it. Texture should clarify material provenance rather than lower legibility.
+**Texture**: Dry grass, twine, rough wood, stone wall, damp paper, church noticeboard cork, field mud, faded 16mm grain, and handmade paint provide material tension. Everything should look locally made or weathered by use.
 
-**Shape**: Build components from native shapes: tags, labels, trays, maps, envelopes, cards, placards, ribbons, stickers, checkout slips, charts, or signage panels. Radii should follow the artifact: squared printed labels, soft classroom cutouts, rounded packaging, or irregular hand-cut edges.
+**Shape**: Use gates, boundary stones, field paths, parish boards, harvest bundles, masks or figures made from local materials, church towers, and enclosing hedgerows. Silhouettes should feel functional before uncanny.
 
-**Motion**: Motion is optional and should come from the aesthetic's implied behavior: reveal timing, page turning, ticket stamping, route progress, chalk marking, flickering signage, sorting, or inventory scanning. Provide reduced-motion static states and avoid jump-scare interaction unless the context explicitly calls for it.
+**Motion**: Favor long stillness, a distant figure crossing, daylight fading, notice pinning, gate closure, or wind moving crops. Reduced motion preserves the unresolved landscape tableau.
 
-**Spatial**: Organize information with the source layout logic: postcard frames, retail aisles, route maps, specimen grids, class-board borders, farmstand price boards, library ledgers, or instruction sheets. Density can be high when it mirrors catalogs, labels, or event boards, but primary actions must stay obvious.
+**Spatial**: Use wide low horizons, isolating distance, converging paths, and a small institutional landmark. Human-made notices and boundaries interrupt pastoral openness and direct the user's route.
 
-**Cultural markers**: Key markers include rural ritual imagery, weathered notices, handmade masks, muddy greens. Treat these as contextual signals, not interchangeable clip art.
+**Cultural markers**: Markers include landscape isolation, village/parish systems, seasonal labor, inherited custom, oral warning, old routes, handmade ritual objects, and tensions between insiders and outsiders. These are narrative devices, not claims about actual folk belief.
 
 ## Non-Negotiables
 
-**Non-negotiables**: rural ritual imagery + weathered notices + handmade masks. Removing these usually collapses the entry into nearby fall, horror, classroom, retail, or craft aesthetics.
+**Non-negotiables**: landscape-first composition + isolated social institution + local handmade material + unresolved custom or warning.
 
 ## Connotation
 
-**Mode:** nostalgic quotation and contemporary practical adaptation.
-
-The aesthetic reads best when it respects the everyday artifact system behind the look: a mailed card, shop aisle, attraction facade, classroom board, farm map, laboratory worksheet, or library challenge. It can become campy quickly, so keep the operating purpose visible.
+**Mode:** contemporary media lineage and critical pastoral inversion. The aesthetic should examine power, belonging, and history instead of treating rural life as exotic menace.
 
 ## Related / Subsets
 
-No canonical subsets are defined for this entry yet. Compare against nearby fall, horror, classroom, retail, or craft aesthetics; the boundary is the source artifact, not just color or subject matter.
+Unlike Cottagecore it removes domestic comfort; unlike witchcore it is not a lifestyle of magical objects; unlike Gothic it favors daylight, fields, parish systems, and collective pressure over castles and aristocratic decay.
 
 ## Frontend / UI Guidance
 
-Choose a concrete interface metaphor: a ticket counter, map checkpoint, classroom assignment board, specimen tray, product shelf, reading log, or pattern instruction sheet. Use badges, tabs, filters, progress marks, and labels as native artifacts. Keep controls modern enough to use while letting typography, borders, texture, and spacing carry the reference.
+Use parish notices, field maps, boundary markers, route closures, seasonal calendars, oral-history cards, and slow landscape navigation. Make warnings legible and never hide essential safety information inside narrative ambiguity.
 
 ## CSS Translation
 
-- Color roles: `--surface-paper`, `--surface-shadow`, `--accent-seasonal`, `--accent-warning`, `--text-ink`, and `--line-print`.
-- Borders/dividers: use double rules, perforations, torn-paper edges, chalk strokes, ticket notches, map routes, label frames, or shelf rails according to the metaphor.
-- Radius language: artifact-specific; avoid one-size-fits-all pill cards.
-- Effects: subtle noise, print offset, chalk dust, lamination gloss, paper fibers, stamped ink, or photographic fading.
-- Layout: artifact-led grids, map panels, label stacks, catalogue rows, sign boards, or ledger columns.
-- Motion: use slow reveal, stamped state changes, route progress, gentle flicker, or intentional stillness with a reduced-motion branch.
+- Roles: `--lichen`, `--straw`, `--peat`, `--chalk`, `--notice-red`, `--storm-gray`.
+- Use wide photographic/painterly landscape fields, paper notices, rough rules, map paths, and localized film grain.
+- Keep signs nearly square; organic irregularity belongs to materials and paths.
+- Compose with one broad landscape, one institutional anchor, and one close handmade marker.
+- Motion: 2-8s environmental drift or intentional stillness; reduced motion holds the final scene.
 
 ## Typography / Fonts
 
-Use system fonts when licensing is unclear, then tune weight, case, and spacing to match the artifact. Display lettering can be condensed, serifed, hand-painted, school-room friendly, or label-like; body and form text should remain readable, with generous line height and no tiny decorative paragraphs.
+Use sober book serif and parish/municipal sans with mono dates. Hand lettering should feel local and practical. Avoid rune-like alphabets, blackletter, or occult novelty fonts.
 
 ## Cultural / Ethical Notes
 
-Do not make unsupported historical claims or copy protected characters, package designs, film titles, institutional logos, or living cultural symbols. For culturally specific entries, especially Dia de los Muertos Calavera Graphics, preserve context, names, diacritics where appropriate, and seek knowledgeable review before using memorial symbols commercially.
+Do not invent a real community's rituals, label rural people superstitious, or borrow sacred/Indigenous practices as props. Make fictional settings explicit and research any referenced custom, garment, church, or regional symbol.
 
 ## Anti-Patterns
 
-- Reducing the aesthetic to pumpkins, cobwebs, orange/black, or generic fall leaves.
-- Using decorative type for long paragraphs or low-contrast labels.
-- Mixing source systems until the artifact logic disappears.
-- Treating school, memorial, agricultural, retail, or occult signals as interchangeable Halloween decoration.
+- Pentagrams, antlers, candles, and herbs with no landscape or social system.
+- Cozy countryside recolored dark green.
+- Copied film effigies or iconic ritual scenes.
+- Rural people portrayed as a single threatening stereotype.
+- Fast jump scares replacing sustained place-based unease.
