@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 146
+- Full entries: 156
 - Redirect entries: 1
 - Families: 8
 
@@ -41,7 +41,9 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | Slug | Label | Aliases |
 | --- | --- | --- |
 | `8-bit-pixel` | 8-Bit / Pixel Aesthetic | pixel art, 8-bit, CGA aesthetic, pixel aesthetic |
+| `88x31-badge-webring` | 88×31 Badge & Webring Culture | 88x31 button, web badge, webring, 88x31 badge |
 | `ai-slop-synthetic-corporate-art` | AI Slop / Synthetic Corporate Art | AI slop, synthetic corporate art, AI-generated corporate illustration |
+| `browser-chrome-netscape` | Browser Chrome / Netscape-Era Browser UI | netscape chrome, 90s browser frame, browser chrome, throbber era |
 | `clowncore` | Clowncore | clown core, clowncore aesthetic |
 | `desktop-publishing` | Desktop Publishing / Early Mac Aesthetic | DTP aesthetic, Macintosh Bitmap Era, early Mac aesthetic, PageMaker aesthetic |
 | `dreamcore-weirdcore` | Dreamcore / Weirdcore | dreamcore, weirdcore, liminal dream edit |
@@ -54,6 +56,8 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `liminal-space-backrooms` | Liminal Space / Backrooms | liminal spaces, Backrooms aesthetic, uncanny transitional architecture |
 | `material-design` | Material Design | Material, Material UI, MDL |
 | `myspace-chaos` | MySpace Chaos | MySpace aesthetic, profile customization era |
+| `personal-homepage-builder` | Personal Homepage Builder / Site-Builder Wizard | site builder wizard, GeoCities PageBuilder, homepage builder UI, WYSIWYG web editor |
+| `skate-video-vhs-fisheye` | Skate Video VHS / Fisheye Title Cards | skate video aesthetic, VX1000 fisheye, VHS skate video, skate title cards |
 | `skeuomorphism` | Skeuomorphism | realistic UI, material mimicry |
 | `synthwave` | Synthwave / Retrowave | retrowave |
 | `vaporwave` | Vaporwave | vapor |
@@ -137,6 +141,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |
+| `skate-deck-screen-print` | Skate Deck Screen-Print Graphics | skateboard deck art, deck graphics, spot-color deck print, skate screen print |
 | `spirit-photography-seance` | Spirit Photography Seance | spirit photography, seance cabinet card |
 | `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
 | `vintage-halloween-postcard` | Vintage Halloween Postcard | Halloween postcard, antique Halloween postcard |
@@ -154,13 +159,16 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `cute-tech` | Kawaii / Cute-Tech | cute tech, kawaii robotics, soft companion tech |
 | `cyberpunk` | Cyberpunk | cyberpunk robotics, high-tech low-life, megacity cybernetics |
 | `dieselpunk` | Dieselpunk | diesel punk, interwar retrofuture, WWII machine-age retrofuture |
+| `fictional-user-interface-diegetic` | Fictional User Interface / Diegetic Screens | FUI, fantasy user interface, diegetic UI, screen graphics, fictional interface |
 | `mecha-kaiju` | Mecha / Kaiju | mecha kaiju, mechanized kaiju, giant robot monster |
 | `nanopunk` | Nanopunk | nanotech punk, nanobot aesthetic, programmable matter |
 | `post-apocalyptic-scavenged-tech` | Post-apocalyptic / Scavenged Tech | scavenged tech, junkyard robotics, wasteland tech |
 | `space-western` | Space Western | space western robotics, frontier sci-fi, dusty space opera |
 | `steampunk` | Steampunk | steam punk, Victorian retrofuture, clockwork automatons |
+| `tactical-sci-fi-utility-ui` | Tactical Sci-Fi Utility UI | tactical HUD, sci-fi HUD, military HUD, game HUD overlay |
 | `techno-noir` | Techno-noir | tech noir, future noir, sci-fi noir |
 | `uncanny-android` | Uncanny Android / Humanoid Realism | humanoid realism, uncanny humanoid, android realism |
+| `used-future-weathering` | Used-Future / Lived-In Sci-Fi Weathering | used future, lived-in sci-fi, prop weathering, weathered sci-fi materiality |
 
 ## technical-institutional
 
@@ -182,6 +190,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | --- | --- | --- |
 | `b2b-quick-order-grid` | B2B Quick-Order Grid | quick order grid, B2B order pad, SKU quick order |
 | `board-game-box-art` | Board Game Box Art | tabletop box cover art, modern board game packaging, boardgame cover art |
+| `bootleg-streetwear-logo-remix` | Bootleg / Parody Streetwear Logo Remix | bootleg logo, parody streetwear, brand flip, subversive logo, logo remix |
 | `casino` | Casino Neon Tableplay | vegas casino, casino signage, table-game casino, gaming floor |
 | `chicano-lowrider-art` | Chicano Lowrider Art | lowrider art, Chicano lowrider culture, low-and-slow automotive art |
 | `classroom-bulletin-board-halloween` | Classroom Bulletin Board Halloween | school Halloween bulletin board, classroom Halloween |
@@ -198,6 +207,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |
 | `school-fall-festival` | School Fall Festival | fall festival flyer, school carnival fall |
 | `slasher-vhs-rental` | Slasher VHS Rental | horror VHS, video-store slasher |
+| `sticker-bomb-slap` | Sticker-Bomb / Slap Materiality | sticker bombing, sticker art, slaps, sticker graffiti, sticker slapping |
 | `tiki-polynesian-pop` | Tiki / Polynesian Pop | Polynesian Pop, tiki bar Americana, mid-century tiki |
 | `trading-card-game-design` | Trading Card Game Design | TCG design, CCG frame design, collectible card UI |
 
