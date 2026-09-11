@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 146,
+  "fullEntryCount": 156,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -26,6 +26,18 @@
         "8-bit",
         "CGA aesthetic",
         "pixel aesthetic"
+      ]
+    },
+    {
+      "slug": "88x31-badge-webring",
+      "label": "88×31 Badge & Webring Culture",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "88x31 button",
+        "web badge",
+        "webring",
+        "88x31 badge"
       ]
     },
     {
@@ -243,6 +255,31 @@
         "tabletop box cover art",
         "modern board game packaging",
         "boardgame cover art"
+      ]
+    },
+    {
+      "slug": "bootleg-streetwear-logo-remix",
+      "label": "Bootleg / Parody Streetwear Logo Remix",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "bootleg logo",
+        "parody streetwear",
+        "brand flip",
+        "subversive logo",
+        "logo remix"
+      ]
+    },
+    {
+      "slug": "browser-chrome-netscape",
+      "label": "Browser Chrome / Netscape-Era Browser UI",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "netscape chrome",
+        "90s browser frame",
+        "browser chrome",
+        "throbber era"
       ]
     },
     {
@@ -588,6 +625,19 @@
         "circus broadside",
         "showman poster",
         "vintage carnival poster"
+      ]
+    },
+    {
+      "slug": "fictional-user-interface-diegetic",
+      "label": "Fictional User Interface / Diegetic Screens",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "FUI",
+        "fantasy user interface",
+        "diegetic UI",
+        "screen graphics",
+        "fictional interface"
       ]
     },
     {
@@ -1066,6 +1116,18 @@
       ]
     },
     {
+      "slug": "personal-homepage-builder",
+      "label": "Personal Homepage Builder / Site-Builder Wizard",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "site builder wizard",
+        "GeoCities PageBuilder",
+        "homepage builder UI",
+        "WYSIWYG web editor"
+      ]
+    },
+    {
       "slug": "pierrotcore",
       "label": "Pierrotcore",
       "family": "historical-design-movements",
@@ -1255,6 +1317,30 @@
       ]
     },
     {
+      "slug": "skate-deck-screen-print",
+      "label": "Skate Deck Screen-Print Graphics",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "skateboard deck art",
+        "deck graphics",
+        "spot-color deck print",
+        "skate screen print"
+      ]
+    },
+    {
+      "slug": "skate-video-vhs-fisheye",
+      "label": "Skate Video VHS / Fisheye Title Cards",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "skate video aesthetic",
+        "VX1000 fisheye",
+        "VHS skate video",
+        "skate title cards"
+      ]
+    },
+    {
       "slug": "skeuomorphism",
       "label": "Skeuomorphism",
       "family": "digital-internet-native",
@@ -1335,6 +1421,19 @@
       ]
     },
     {
+      "slug": "sticker-bomb-slap",
+      "label": "Sticker-Bomb / Slap Materiality",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "sticker bombing",
+        "sticker art",
+        "slaps",
+        "sticker graffiti",
+        "sticker slapping"
+      ]
+    },
+    {
       "slug": "storybook-gothic",
       "label": "Storybook Gothic",
       "family": "emerging-hybrid",
@@ -1400,6 +1499,18 @@
       ]
     },
     {
+      "slug": "tactical-sci-fi-utility-ui",
+      "label": "Tactical Sci-Fi Utility UI",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "tactical HUD",
+        "sci-fi HUD",
+        "military HUD",
+        "game HUD overlay"
+      ]
+    },
+    {
       "slug": "techno-noir",
       "label": "Techno-noir",
       "family": "speculative-robotics",
@@ -1452,6 +1563,18 @@
         "humanoid realism",
         "uncanny humanoid",
         "android realism"
+      ]
+    },
+    {
+      "slug": "used-future-weathering",
+      "label": "Used-Future / Lived-In Sci-Fi Weathering",
+      "family": "speculative-robotics",
+      "status": "canonical",
+      "aliases": [
+        "used future",
+        "lived-in sci-fi",
+        "prop weathering",
+        "weathered sci-fi materiality"
       ]
     },
     {
