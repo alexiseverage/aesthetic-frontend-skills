@@ -5,7 +5,7 @@ family: digital-internet-native
 era: 1997–2010
 aliases: ["DVD menu screen", "DVD menu interface", "DVD menu design", "DVD-Video menu", "interactive DVD menu", "disc menu"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["skeuomorphism", "y2k", "early-internet", "frutiger-aero", "web-2-gloss", "glitch", "fictional-user-interface-diegetic"]
 subsets: []
 ---
@@ -13,6 +13,8 @@ subsets: []
 # DVD Menu
 
 DVD Menu is the authored interactive interface language of DVD-Video discs: television-safe layouts, looping standard-definition video backgrounds, flat subpicture highlights, and remote-control navigation arranged into Play / Scenes / Extras / Setup hierarchies. It is not just "retro digital" decoration; it is a constrained media-navigation grammar where the menu feels like a small cinematic world.
+
+Evidence basis: a direct visual audit inspected 24 direct visual references (22 still screenshots and 2 motion captures) without reproducing copyrighted media. The audit confirmed the safe-area frame, limited-palette selected overlay, one-focused-item remote navigation, and looping ambient state; it also refined the texture and palette guidance below.
 
 ## Scope
 
@@ -22,19 +24,19 @@ Do not use it for high-stakes forms, data dashboards, urgent workflows, ordinary
 
 ## 7-Dimension Profile
 
-**Palette**: Standard-definition video color constrained by the DVD subpicture system. Use one dominant scene hue from the title world, plus one hard, high-contrast selected-state accent. The selected state should feel like a 2-bit overlay: flat, indexed, slightly crude, and separate from the background video. Favor studio-era tones such as TARDIS blue-green, Disney blue, Shrek green, warning amber, or horror red, but keep the active palette small; gradients and full-spectrum neon weaken the form.
+**Palette**: Standard-definition video color constrained by the DVD subpicture system. Use one dominant scene hue from the title world, plus one hard, high-contrast selected-state accent. Direct stills confirm saturated examples such as TARDIS blue-green, Disney blue, Shrek green, warning amber, and horror red, but also near-monochrome variants such as Black Swan's black/white contrast and Memento's clinical light/dark test-page look. The selected state should feel like a 2-bit overlay: flat, indexed, slightly crude, and separate from the background video. Keep the active palette small; gradients and full-spectrum neon weaken the form.
 
 **Type**: Logo wordmark plus short television-distance option labels. Labels are not native web text in spirit; they should feel composited over video as bitmap subpictures, with coarse antialiasing, hard drop shadows, all-caps or title-case brevity, and large remote-control readability. Use chunky sans, display/logo lettering, terminal labels, or franchise-world typography, but avoid dense SaaS copy and small hover-only microcopy.
 
-**Texture**: Looped MPEG-2 menu surface. Build the illusion with scanlines, interlace shimmer, compression blocks, coarse aliasing, non-square-pixel stretch, CRT bloom used sparingly, and a deliberately imperfect loop point. Texture should imply authored standard-definition video, not a generic retro website wallpaper. The highlight layer remains clean and flat over the noisy background.
+**Texture**: Looped MPEG-2 menu surface. Direct captures show both clean flat/3D-rendered menu worlds and photographic film stills composited under the hard-edged subpicture layer (District 9, King Kong, The Hurt Locker, Fight Club). Build the illusion with scanlines, interlace shimmer, compression blocks, coarse aliasing, non-square-pixel stretch, CRT bloom used sparingly, and a deliberately imperfect loop point. Texture should imply authored standard-definition video, not a generic retro website wallpaper. The highlight layer remains clean and flat over the noisy or photographic background.
 
-**Shape**: Few large buttons inside a visible safe-area frame. Buttons may be text labels, chapter thumbnails, vault doors, cockpit controls, TV-channel tiles, console screens, or other diegetic objects, but the focus target must be obvious. Selected and activated states use hard-edged rectangles, outlines, masks, or sticker-like color fills rather than soft glows, rounded pills, or material shadows.
+**Shape**: Few large buttons inside a visible safe-area frame. Buttons may be text labels, chapter thumbnails, vault doors, cockpit controls, TV-channel tiles, console screens, office-desk documents, character-window cells, or other diegetic objects, but the focus target must be obvious. Directly observed layouts include a 3×3 Shrek character-window grid, a Scooby-Doo floor-tile game grid, Rocky Horror's stage-curtain list, and Spooks' desk-of-files surface. Selected and activated states use hard-edged rectangles, outlines, masks, or sticker-like color fills rather than soft glows, rounded pills, or material shadows.
 
-**Motion**: Ambient looping background with a visible cut, plus short activated-state transitions. The menu may idle with a repeated character gag, a channel-surf flicker, a cockpit pan, curtains, static, or a title-world video loop. Selection movement is discrete and immediate; activation may flash, freeze, wipe, or play a short diegetic transition before changing panels. Respect reduced-motion by collapsing loops and transitions to still states.
+**Motion**: Ambient looping background with a visible cut, plus short activated-state transitions. Direct motion captures confirm looping children's-menu backgrounds, SD compression texture, and typographic rewriting across frames in an intelligence-document menu intro. The menu may idle with a repeated character gag, a channel-surf flicker, a cockpit pan, curtains, static, or a title-world video loop. Selection movement is discrete and immediate; activation may flash, freeze, wipe, or play a short diegetic transition before changing panels. Respect reduced-motion by collapsing loops and transitions to still states.
 
-**Spatial**: Root-menu hierarchy inside a TV-safe composition. Critical options sit in the 4:3-safe center even on a widescreen canvas; outer edges are decorative matte, bezel, letterbox, static, or scene dressing. Canonical structure is Main Menu → Play, Scene Selection, Special Features/Extras, Setup, with chapter grids and return/back affordances. The layout is sparse, theatrical, and remote-navigable rather than scroll-based.
+**Spatial**: Root-menu hierarchy inside a TV-safe composition. Critical options sit in the 4:3-safe center even on a widescreen canvas; outer edges are decorative matte, bezel, letterbox, static, curtain frame, or scene dressing. Canonical structure is Main Menu → Play, Scene Selection, Special Features/Extras, Setup, with chapter grids and return/back affordances. The layout is sparse, theatrical, and remote-navigable rather than scroll-based.
 
-**Cultural markers**: Play Movie / Scene Selection / Special Features / Setup labels; remote-control arrows and one-focused-item-at-a-time behavior; 4:3 safe-area frame; 2-bit subpicture highlight; looping background/audio; Disney FastPlay/EasyFind-style auto-advance; chapter thumbnail grids; language/subtitle/audio setup; diegetic interfaces from the title world; hidden Easter eggs triggered by arrow sequences, hidden logos, fake-out screens, or unlabeled scene objects.
+**Cultural markers**: Play Movie / Scene Selection / Special Features / Setup labels; remote-control arrows and one-focused-item-at-a-time behavior; 4:3 safe-area frame; 2-bit subpicture highlight; looping background/audio; Disney FastPlay/EasyFind-style auto-advance; chapter thumbnail grids; language/subtitle/audio setup; diegetic interfaces from the title world; hidden Easter eggs triggered by arrow sequences, hidden logos, fake-out screens, or unlabeled scene objects. The Doctor Who hidden-logo pattern is directly observed: a logo highlight state can unlock monochrome archive or bonus content.
 
 ## Non-Negotiables
 
@@ -62,9 +64,9 @@ DVD games are a subset/sibling: trivia, quiz, or branching gameplay implemented 
 
 ## Frontend / UI Guidance
 
-Start with a fixed-stage composition instead of a scroll page. Put the main navigation inside a visible safe-area rectangle, then let decorative video-like matter occupy the outer frame. Use arrow keys, WASD, or an on-screen D-pad to move focus between spatial targets. Keep mouse support as a fallback, but never make hover the only way to see state.
+Start with a fixed-stage composition instead of a scroll page. Put the main navigation inside a visible safe-area rectangle, then let decorative video-like matter occupy the outer frame. Use arrow keys, WASD, or an on-screen D-pad to move focus between spatial targets. Keep mouse support as a fallback, but never make hover the only way to see state. Prefer three to six root actions at couch distance, or a visibly gridded chapter/game surface, and make the current item the only selected item.
 
-Model the menu as stateful panels: Main Menu, Scene Selection, Special Features, Setup, and a hidden extra. Remember setup choices and show the current selected audio/subtitle state. Activation should have a short flash or transition before the panel changes. If adding an Easter egg, use a discoverable sequence or hidden target with accessible status text rather than an unlabeled trap.
+Model the menu as stateful panels: Main Menu, Scene Selection, Special Features, Setup, and a hidden extra. Remember setup choices and show the current selected audio/subtitle state. Activation should have a short flash or transition before the panel changes. If adding an Easter egg, use a discoverable sequence or hidden target with accessible status text rather than an unlabeled trap; a hidden-logo unlock can be modernized with an offscreen explanation and visible state announcement.
 
 ## CSS Translation
 

@@ -452,6 +452,32 @@ def test_wave_1_profiles_do_not_retain_known_broken_review_urls():
         assert url not in combined
 
 
+def test_dvd_menu_visual_analysis_records_direct_media_audit():
+    dictionary_text = (
+        REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics" / "dvd-menu.md"
+    ).read_text(encoding="utf-8")
+    profile_path = REPO_ROOT / "knowledge" / "aesthetics" / "dvd-menu.md"
+    profile_text = profile_path.read_text(encoding="utf-8")
+    metadata = _frontmatter(profile_path)
+
+    assert metadata["evidence_level"] == "standard"
+    assert metadata["image_count"] == 24
+
+    combined = f"{dictionary_text}\n{profile_text}".lower()
+    required_phrases = [
+        "24 direct visual references",
+        "22 still screenshots",
+        "2 motion captures",
+        "photographic film still",
+        "near-monochrome",
+        "doctor who hidden-logo",
+        "no copyrighted menu screenshots",
+    ]
+
+    for phrase in required_phrases:
+        assert phrase in combined, f"dvd-menu direct audit guidance missing: {phrase}"
+
+
 def test_storybook_gothic_pilot_has_canonical_profile_and_append_only_log():
     dictionary_path = REPO_ROOT / "skills" / "aesthetic-literacy" / "aesthetics" / "storybook-gothic.md"
     profile_path = REPO_ROOT / "knowledge" / "aesthetics" / "storybook-gothic.md"
