@@ -28,11 +28,11 @@ Do not use it for high-stakes forms, data dashboards, urgent workflows, ordinary
 
 **Type**: Logo wordmark plus short television-distance option labels. Labels are not native web text in spirit; they should feel composited over video as bitmap subpictures, with coarse antialiasing, hard drop shadows, all-caps or title-case brevity, and large remote-control readability. Use chunky sans, display/logo lettering, terminal labels, or franchise-world typography, but avoid dense SaaS copy and small hover-only microcopy.
 
-**Texture**: Looped MPEG-2 menu surface. Direct captures show both clean flat/3D-rendered menu worlds and photographic film stills composited under the hard-edged subpicture layer (District 9, King Kong, The Hurt Locker, Fight Club). Build the illusion with scanlines, interlace shimmer, compression blocks, coarse aliasing, non-square-pixel stretch, CRT bloom used sparingly, and a deliberately imperfect loop point. Texture should imply authored standard-definition video, not a generic retro website wallpaper. The highlight layer remains clean and flat over the noisy or photographic background.
+**Texture**: Looped MPEG-2 menu surface. Direct captures show both clean flat/3D-rendered menu worlds and photographic film stills composited under the hard-edged subpicture layer (District 9, King Kong, The Hurt Locker, Fight Club). Build the illusion with scanlines, interlace shimmer, compression blocks, coarse aliasing, non-square-pixel stretch, and CRT bloom used sparingly. Texture should imply authored standard-definition video, not a generic retro website wallpaper. The highlight layer remains clean and flat over the noisy or photographic background.
 
 **Shape**: Few large buttons inside a visible safe-area frame. Buttons may be text labels, chapter thumbnails, vault doors, cockpit controls, TV-channel tiles, console screens, office-desk documents, character-window cells, or other diegetic objects, but the focus target must be obvious. Directly observed layouts include a 3×3 Shrek character-window grid, a Scooby-Doo floor-tile game grid, Rocky Horror's stage-curtain list, and Spooks' desk-of-files surface. Selected and activated states use hard-edged rectangles, outlines, masks, or sticker-like color fills rather than soft glows, rounded pills, or material shadows.
 
-**Motion**: Ambient looping background with a visible cut, plus short activated-state transitions. Direct motion captures confirm looping children's-menu backgrounds, SD compression texture, and typographic rewriting across frames in an intelligence-document menu intro. The menu may idle with a repeated character gag, a channel-surf flicker, a cockpit pan, curtains, static, or a title-world video loop. Selection movement is discrete and immediate; activation may flash, freeze, wipe, or play a short diegetic transition before changing panels. Respect reduced-motion by collapsing loops and transitions to still states.
+**Motion**: Ambient looping background plus short activated-state transitions. Direct motion captures confirm looping children's-menu backgrounds, SD compression texture, and typographic rewriting across frames in an intelligence-document menu intro. Loops may be seamless in professional authoring or visibly imperfect in cheaper/older releases; the canonical cue is repeated authored background motion behind a separate highlight layer, not a required defect. The menu may idle with a repeated character gag, a channel-surf flicker, a cockpit pan, curtains, static, or a title-world video loop. Selection movement is discrete and immediate; activation may flash, freeze, wipe, or play a short diegetic transition before changing panels. Respect reduced-motion by collapsing loops and transitions to still states.
 
 **Spatial**: Root-menu hierarchy inside a TV-safe composition. Critical options sit in the 4:3-safe center even on a widescreen canvas; outer edges are decorative matte, bezel, letterbox, static, curtain frame, or scene dressing. Canonical structure is Main Menu → Play, Scene Selection, Special Features/Extras, Setup, with chapter grids and return/back affordances. The layout is sparse, theatrical, and remote-navigable rather than scroll-based.
 
@@ -45,7 +45,7 @@ Do not use it for high-stakes forms, data dashboards, urgent workflows, ordinary
 - Safe-area-centered layout with a visible overscan, matte, bezel, or letterbox frame.
 - Flat limited-palette selected-state overlay that feels like a DVD subpicture, not a soft web hover.
 - Discrete remote-control focus with exactly one selected item and directional navigation logic.
-- Looped background or ambient menu state with an intentionally perceptible loop cut, idle gag, or transition.
+- Looped background or ambient menu state, often with an idle gag, transition, or repeated title-world motion; visible loop cuts are an optional period artifact, not a requirement.
 
 ## Connotation
 
@@ -73,8 +73,8 @@ Model the menu as stateful panels: Main Menu, Scene Selection, Special Features,
 - Layout: `aspect-ratio: 4 / 3` safe-area wrapper centered inside a widescreen shell; outer `padding` or matte for overscan.
 - Selection: one accent color as a hard `outline`, `box-shadow: none`, clipped rectangle, SVG mask, or pseudo-element fill over the focused item.
 - Texture: scanline overlay, subtle MPEG block pattern, chroma bleed, non-square-pixel stretch on decorative layers, and low-resolution background gradients or SVG noise.
-- Motion: looped CSS keyframes with a deliberate snap at 95–100%, activated-state flash, curtain wipe, channel-static cut, or frozen-frame jump.
-- State: `aria-current`, `:focus-visible`, roving `tabindex`, and explicit active/selected classes; avoid purely visual state.
+- Motion: looped CSS keyframes that may be seamless or intentionally stepped, plus activated-state flash, curtain wipe, channel-static cut, or frozen-frame jump when that matches the concept.
+- State: use real DOM focus / `:focus-visible` for keyboard position, `aria-selected` for selectable widgets such as chapter grids or listboxes, and `aria-current` only for the current page/route or persistent current setting. Keep visual selected classes synchronized with the accessible state; avoid purely visual state.
 - Fallbacks: pause or flatten motion under `prefers-reduced-motion`; keep contrast fields behind text over moving backgrounds.
 
 ## Typography / Fonts
@@ -92,7 +92,7 @@ The source form often contains inaccessible choices: hidden navigation, auto-loo
 ## Anti-Patterns
 
 - A generic neon/Y2K or CRT page with pointer hover cards but no remote-control focus model.
-- Seamless luxury hero video with smooth gradients and no visible loop cut or subpicture overlay.
+- Seamless luxury hero video with smooth gradients but no menu state, safe-area hierarchy, or subpicture overlay.
 - Dense app navigation, sticky sidebars, infinite scroll, or dashboard grids masquerading as a menu.
 - Soft glows, glassmorphism, pill buttons, and springy material transitions as the primary interaction language.
 - Copying copyrighted menu screenshots, film stills, logos, audio, or video into the project.

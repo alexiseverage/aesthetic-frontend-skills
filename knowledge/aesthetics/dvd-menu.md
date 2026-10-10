@@ -54,7 +54,7 @@ Rights posture: underlying DVD menus usually contain studio-copyrighted stills, 
 | **Type** | Logo wordmark + short option labels, composited over video | Terminal, dossier, chapter-card, or franchise-world labels | Dense puzzle/document type only for deliberate menu concepts |
 | **Texture** | SD video artifacts, interlace/scanline feel, coarse antialiasing; hard subpicture highlight over a composited background | Metallic/chrome, CRT/terminal, static, 3D-rendered scene backgrounds, photographic film still backgrounds | Generic web noise without DVD interaction grammar |
 | **Shape** | Few large buttons/grids inside safe area; hard-edged highlight overlays | Diegetic controls: cockpit, vault doors, character windows, floor-tile games, desk documents, channel guide | Soft SaaS pills, hover cards, and smooth material components are off-model |
-| **Motion** | Looping animated background with visible loop cut; activation transition | Character idle gags, channel surf, curtains, cockpit movement, text rewriting across frames | Seamless hero-video luxury loops without menu state |
+| **Motion** | Looping or repeated authored background state plus activation transition | Character idle gags, channel surf, curtains, cockpit movement, visible loop cuts in some releases, text rewriting across frames | Seamless hero-video luxury loops without menu hierarchy or highlight state |
 | **Spatial** | Root menu → submenu hierarchy; critical UI clustered centre-safe | Decorative 16:9 outer region around 4:3-safe options | Edge-anchored app chrome or infinite scroll |
 | **Cultural markers** | Play / Scenes / Extras / Setup, subtitle/audio setup, remote-control focus | Disney FastPlay/EasyFind-like auto-advance, hidden Easter eggs, DVD games, Doctor Who hidden-logo unlocks | Blu-ray polish and 256-colour menus are adjacent but not DVD-specific |
 
@@ -106,7 +106,7 @@ Easter eggs are part of the culture: hidden logos revealed by arrow sequences, u
 
 - Safe area → inset layout, visible frame, overscan fringe, central control cluster.
 - 2-bit subpicture → flat selected/activated overlay with one accent and hard edges.
-- MPEG-2 loop → short ambient loop with a deliberately visible cut, freeze, or jump.
+- MPEG-2 loop → short ambient loop that may be seamless or visibly stepped; optional freeze/jump/cut artifacts can evoke older/cheaper authoring but are not required.
 - Remote focus → keyboard arrow model, focus-visible state, spatial navigation map, and no hover dependency.
 - VM/statefulness → remembered setup choices and current-option highlights.
 - Button limits → sparse menu options and chapter grids instead of dense nav bars.
