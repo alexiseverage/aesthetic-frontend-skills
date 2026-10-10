@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 156,
+  "fullEntryCount": 157,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -605,6 +605,20 @@
         "dreamcore",
         "weirdcore",
         "liminal dream edit"
+      ]
+    },
+    {
+      "slug": "dvd-menu",
+      "label": "DVD Menu",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "DVD menu screen",
+        "DVD menu interface",
+        "DVD menu design",
+        "DVD-Video menu",
+        "interactive DVD menu",
+        "disc menu"
       ]
     },
     {
