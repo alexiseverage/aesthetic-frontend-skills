@@ -73,6 +73,7 @@ SELECTED_AESTHETICS = {
     "clowncore": "Clowncore",
     "kidcore": "Kidcore",
     "pierrotcore": "Pierrotcore",
+    "dvd-menu": "DVD Menu",
 }
 ENTERTAINMENT_SPECULATIVE_CANONICAL_BATCH = [
     "ai-slop-synthetic-corporate-art",
@@ -374,8 +375,8 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
         encoding="utf-8"
     )
 
-    assert "curated dictionary of 156 major aesthetics" in text
-    assert "156 full entries and 1 redirect" in text
+    assert "curated dictionary of 157 major aesthetics" in text
+    assert "157 full entries and 1 redirect" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
 
