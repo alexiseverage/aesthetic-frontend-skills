@@ -16,6 +16,12 @@ DVD Menu is the authored interactive interface language of DVD-Video discs: tele
 
 Evidence basis: a direct visual audit inspected 24 direct visual references (22 still screenshots and 2 motion captures) without reproducing copyrighted media. The audit confirmed the safe-area frame, limited-palette selected overlay, one-focused-item remote navigation, and looping ambient state; it also refined the texture and palette guidance below.
 
+## Acknowledgement / Source
+
+Thank you @AleksandrMalinin for sending me through the rabbit hole of reading about DVD menus, leading to this much-deserved addition.
+
+Source / Recommended Essay: [Beauty in DVD Menus](https://vale.rocks/posts/dvd-menus).
+
 ## Scope
 
 Use DVD Menu for media showcases, archive browsers, film/music/game launch pages, chaptered interactive stories, nostalgic microsites, and playful keyboard-first experiences where a menu-as-world is desirable. It works best when users can explore, wait through a loop, trigger a short transition, and discover an extra without needing maximum efficiency.
