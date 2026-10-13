@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 157,
+  "fullEntryCount": 158,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -288,6 +288,16 @@
       "family": "historical-design-movements",
       "status": "canonical",
       "aliases": []
+    },
+    {
+      "slug": "bubble-chamber-track-photography",
+      "label": "Bubble-Chamber Track Photography",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "bubble-chamber photographic aesthetic",
+        "particle-track photography aesthetic"
+      ]
     },
     {
       "slug": "casino",

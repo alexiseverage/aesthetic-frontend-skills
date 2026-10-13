@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 157
+- Full entries: 158
 - Redirect entries: 1
 - Families: 8
 
@@ -178,6 +178,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `apple-orchard-educational` | Apple Orchard Educational | orchard education, apple picking guide |
 | `autumn-library-reading-challenge` | Autumn Library Reading Challenge | fall reading challenge, library autumn program |
 | `bloomberg-terminal-monochrome` | Bloomberg Terminal Monochrome | Bloomberg terminal aesthetic, finance terminal UI, trader terminal monochrome |
+| `bubble-chamber-track-photography` | Bubble-Chamber Track Photography | bubble-chamber photographic aesthetic, particle-track photography aesthetic |
 | `cheminformatics-map-explorer` | Cheminformatics Map Explorer | chemical space explorer, cheminformatics explorer, molecule map UI |
 | `corn-maze-wayfinding` | Corn Maze Wayfinding | corn maze map, harvest maze signage |
 | `high-performance-hmi` | High-performance HMI | HP HMI, High Performance SCADA, high-performance SCADA graphics, process-operator graphics, operator-centered industrial UI |
