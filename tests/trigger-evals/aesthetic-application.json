@@ -1,6 +1,10 @@
 {
   "skill": "aesthetic-application",
   "should_trigger": [
+	{
+	  "request": "Give me Pichwai-inspired gallery tokens, CSS guidance and accessible component notes, separating observed traits from proposed values.",
+	  "reason": "Requests a developer-ready application handoff for a newly cataloged aesthetic rather than research or historical characterization alone."
+	},
     {
       "request": "Build a token spec for vaporwave.",
       "reason": "Requests developer-ready design tokens for a named aesthetic."

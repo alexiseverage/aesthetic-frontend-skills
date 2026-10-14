@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 158,
+  "fullEntryCount": 168,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -60,6 +60,16 @@
         "AI slop",
         "synthetic corporate art",
         "AI-generated corporate illustration"
+      ]
+    },
+    {
+      "slug": "amsterdam-school",
+      "label": "Amsterdam School",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Amsterdamse School",
+        "Amsterdam School Design"
       ]
     },
     {
@@ -214,6 +224,17 @@
       ]
     },
     {
+      "slug": "biedermeier",
+      "label": "Biedermeier",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Biedermeier style",
+        "Biedermeier furniture",
+        "Biedermeier interiors"
+      ]
+    },
+    {
       "slug": "biomechanical",
       "label": "Biomechanical / Biopunk",
       "family": "speculative-robotics",
@@ -353,6 +374,18 @@
         "lowrider art",
         "Chicano lowrider culture",
         "low-and-slow automotive art"
+      ]
+    },
+    {
+      "slug": "chicha-poster-graphics",
+      "label": "Peruvian Chicha Poster Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Cartel Chicha",
+        "Afiches Chicha",
+        "Gráfica Chicha",
+        "Peruvian Chicha Graphics"
       ]
     },
     {
@@ -662,6 +695,17 @@
         "diegetic UI",
         "screen graphics",
         "fictional interface"
+      ]
+    },
+    {
+      "slug": "fileteado-porteno",
+      "label": "Fileteado Porteño",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Filete Porteño",
+        "Fileteado Porteno",
+        "Buenos Aires Fileteado"
       ]
     },
     {
@@ -1030,6 +1074,16 @@
       ]
     },
     {
+      "slug": "mingei",
+      "label": "Mingei",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Mingei movement",
+        "Japanese folk craft movement"
+      ]
+    },
+    {
       "slug": "myspace-chaos",
       "label": "MySpace Chaos",
       "family": "digital-internet-native",
@@ -1127,6 +1181,15 @@
       ]
     },
     {
+      "slug": "orphism",
+      "label": "Orphism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Orphic Cubism"
+      ]
+    },
+    {
       "slug": "pen-and-pixel",
       "label": "Pen & Pixel / Bling Era Graphics",
       "family": "historical-design-movements",
@@ -1152,6 +1215,17 @@
       ]
     },
     {
+      "slug": "pichwai",
+      "label": "Pichwai",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Pichhwai",
+        "Pichwai painting",
+        "Pichhwai temple hanging"
+      ]
+    },
+    {
       "slug": "pierrotcore",
       "label": "Pierrotcore",
       "family": "historical-design-movements",
@@ -1161,6 +1235,17 @@
         "pierrot aesthetic",
         "harlequin",
         "jestercore"
+      ]
+    },
+    {
+      "slug": "plakatstil",
+      "label": "Plakatstil",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "German Poster Style",
+        "Sachplakat",
+        "Object Poster"
       ]
     },
     {
@@ -1204,6 +1289,17 @@
         "Prairie style",
         "Prairie architecture",
         "Frank Lloyd Wright Prairie style"
+      ]
+    },
+    {
+      "slug": "precisionism",
+      "label": "Precisionism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Precisionist painting",
+        "The Immaculates",
+        "American Precisionism"
       ]
     },
     {
@@ -1338,6 +1434,16 @@
         "Shaker furniture",
         "Shaker style",
         "United Society of Believers design"
+      ]
+    },
+    {
+      "slug": "shin-hanga",
+      "label": "Shin-hanga",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Shin Hanga",
+        "Japanese New Prints"
       ]
     },
     {
