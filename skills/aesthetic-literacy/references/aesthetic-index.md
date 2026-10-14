@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 158
+- Full entries: 168
 - Redirect entries: 1
 - Families: 8
 
@@ -87,12 +87,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | --- | --- | --- |
 | `1990s-minimalism` | 1990s Minimalism | 90s minimalism, CK minimalism, fashion minimalism, Calvin Klein aesthetic |
 | `aesthetic-movement` | Aesthetic Movement | Aestheticism, Art for art’s sake, Aesthetic style |
+| `amsterdam-school` | Amsterdam School | Amsterdamse School, Amsterdam School Design |
 | `art-deco` | Art Deco | le style moderne, Jazz Moderne, Style Moderne |
 | `art-nouveau` | Art Nouveau | Jugendstil, Stile Liberty, Modernisme, Modern Style |
 | `arts-and-crafts` | Arts and Crafts Movement | Arts & Crafts, William Morris style |
 | `atomic-age` | Atomic Age / Space Age | Googie, Space Age, Populuxe, Atomic Era, Doo-Wop |
 | `bauhaus` | Bauhaus | Staatliches Bauhaus |
 | `beaux-arts` | Beaux-Arts | Beaux-Arts architecture, École des Beaux-Arts style, Academic classicism |
+| `biedermeier` | Biedermeier | Biedermeier style, Biedermeier furniture, Biedermeier interiors |
 | `blue-note-jazz-modernism` | Blue Note Jazz Modernism | Blue Note style, jazz sleeve modernism, Reid Miles style |
 | `brutalism` | Brutalism | — |
 | `chinoiserie` | Chinoiserie | European chinoiserie, chinoiserie revival, East Asian fantasy ornament |
@@ -110,19 +112,24 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `japanese-metabolism` | Japanese Metabolism | Metabolism, Metabolist architecture, Japanese Metabolist movement |
 | `memphis` | Memphis / Post-Modern | Memphis-Milano, Memphis Design, Memphis Group |
 | `mid-century-modern` | Mid-century Modern | MCM, Mid-Century, Midcentury Modern, Atomic Ranch |
+| `mingei` | Mingei | Mingei movement, Japanese folk craft movement |
 | `new-objectivity` | New Objectivity / Neue Sachlichkeit | Neue Sachlichkeit, New Objectivity, Verism |
 | `new-wave-typography` | New Wave Typography / Swiss Punk | Swiss Punk, New Wave Design, Swiss New Wave, Weingart Style |
 | `op-art` | Op Art | Optical Art, Optical Illusion Art, Retinal Art |
+| `orphism` | Orphism | Orphic Cubism |
 | `pen-and-pixel` | Pen & Pixel / Bling Era Graphics | Pen and Pixel, bling era, No Limit aesthetic, Cash Money graphics, Southern rap album design |
 | `pierrotcore` | Pierrotcore | pierrot core, pierrot aesthetic, harlequin, jestercore |
+| `plakatstil` | Plakatstil | German Poster Style, Sachplakat, Object Poster |
 | `polish-poster-school` | Polish Poster School | Polish School of Posters, Polska Szkoła Plakatu, Polish film poster art |
 | `pop-art` | Pop Art | Pop, Pop Art Movement |
 | `prairie-school` | Prairie School | Prairie style, Prairie architecture, Frank Lloyd Wright Prairie style |
+| `precisionism` | Precisionism | Precisionist painting, The Immaculates, American Precisionism |
 | `psychedelic` | Psychedelic | Psychedelia, Acid Aesthetic, Fillmore Poster Style, Trippy |
 | `punk-zine` | Punk Zine / DIY Aesthetic | Punk Design, Zine Aesthetic, Ransom Note Typography, DIY Design, Jamie Reid Style |
 | `rave-flyer` | Rave Flyer Aesthetic | rave aesthetic, rave poster, candy rave, 90s rave flyer |
 | `scandinavian-modern` | Scandinavian Modern | Nordic Modern, Danish Modern, Swedish Modern, Scandi Minimalism |
 | `shaker-design` | Shaker Design | Shaker furniture, Shaker style, United Society of Believers design |
+| `shin-hanga` | Shin-hanga | Shin Hanga, Japanese New Prints |
 | `streamline-moderne` | Streamline Moderne | Art Moderne, Streamline, Style Paquebot, Ocean Liner Style |
 | `suprematism` | Suprematism | Suprematist, Malevich Abstraction |
 | `swiss-international` | Swiss / International Typographic Style | Swiss Style, International Typographic Style, Schweizer Typografie, Swiss / International Style |
@@ -140,6 +147,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
+| `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |
 | `skate-deck-screen-print` | Skate Deck Screen-Print Graphics | skateboard deck art, deck graphics, spot-color deck print, skate screen print |
@@ -195,9 +203,11 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `bootleg-streetwear-logo-remix` | Bootleg / Parody Streetwear Logo Remix | bootleg logo, parody streetwear, brand flip, subversive logo, logo remix |
 | `casino` | Casino Neon Tableplay | vegas casino, casino signage, table-game casino, gaming floor |
 | `chicano-lowrider-art` | Chicano Lowrider Art | lowrider art, Chicano lowrider culture, low-and-slow automotive art |
+| `chicha-poster-graphics` | Peruvian Chicha Poster Graphics | Cartel Chicha, Afiches Chicha, Gráfica Chicha, Peruvian Chicha Graphics |
 | `classroom-bulletin-board-halloween` | Classroom Bulletin Board Halloween | school Halloween bulletin board, classroom Halloween |
 | `convenience-store-backoffice` | Convenience-Store Back-Office Grid | c-store backoffice, convenience store operations dashboard, fuel retail backoffice |
 | `dia-de-los-muertos-calavera-graphics` | Dia de los Muertos Calavera Graphics | Day of the Dead graphics, calavera graphics |
+| `fileteado-porteno` | Fileteado Porteño | Filete Porteño, Fileteado Porteno, Buenos Aires Fileteado |
 | `guochao` | Guochao | China-chic, guochao branding, guochao packaging, 国潮, Chinese heritage revival branding |
 | `halloween-store-vernacular` | Halloween Store Vernacular | seasonal Halloween retail, costume-store packaging |
 | `harvest-fair-vernacular` | Harvest Fair Vernacular | county fair harvest, agricultural fair signage |

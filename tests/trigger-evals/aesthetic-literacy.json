@@ -1,6 +1,10 @@
 {
   "skill": "aesthetic-literacy",
   "should_trigger": [
+	{
+	  "request": "How does Biedermeier differ from Shaker Design across materials, shape and cultural context?",
+	  "reason": "Compares a newly cataloged historical aesthetic with an existing neighbor; characterization and disambiguation belong to literacy."
+	},
     {
       "request": "What is Y2K aesthetic? Describe it formally.",
       "reason": "Asks for formal characterization of a named visual aesthetic."
