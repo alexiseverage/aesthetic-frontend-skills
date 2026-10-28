@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 168,
+  "fullEntryCount": 171,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -60,6 +60,16 @@
         "AI slop",
         "synthetic corporate art",
         "AI-generated corporate illustration"
+      ]
+    },
+    {
+      "slug": "alpine-winter-travel-posters",
+      "label": "Alpine Winter Travel Posters",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Alpine Winter Tourism Posters",
+        "Vintage Alpine Ski Posters"
       ]
     },
     {
@@ -674,6 +684,16 @@
       ]
     },
     {
+      "slug": "fair-isle",
+      "label": "Fair Isle",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Fair Isle Knitting",
+        "Fair Isle Colourwork"
+      ]
+    },
+    {
       "slug": "fairground-carnival-poster-art",
       "label": "Fairground / Carnival Poster Art",
       "family": "material-print-craft",
@@ -754,6 +774,16 @@
       "aliases": [
         "expressionist horror",
         "caligari expressionism"
+      ]
+    },
+    {
+      "slug": "german-romanticism",
+      "label": "German Romanticism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "German Romantic Art",
+        "Deutsche Romantik"
       ]
     },
     {

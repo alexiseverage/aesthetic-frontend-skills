@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 168
+- Full entries: 171
 - Redirect entries: 1
 - Families: 8
 
@@ -105,6 +105,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `die-neue-typographie` | Die Neue Typographie | The New Typography, Tschichold's New Typography, Early Modernist Typography |
 | `futurism` | Italian Futurism | Futurismo, Futurist movement |
 | `german-expressionist-horror` | German Expressionist Horror | expressionist horror, caligari expressionism |
+| `german-romanticism` | German Romanticism | German Romantic Art, Deutsche Romantik |
 | `gothic-revival` | Gothic Revival | Victorian Gothic Revival, medievalist revival, Gothic Revival architecture |
 | `grunge-typography` | Grunge Typography | grunge design, Carson grunge, deconstructionist typography, Ray Gun aesthetic |
 | `high-tech-architecture` | High-Tech Architecture / Structural Expressionism | Structural Expressionism, High-tech architecture, Hi-tech architecture |
@@ -145,6 +146,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | Slug | Label | Aliases |
 | --- | --- | --- |
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
+| `fair-isle` | Fair Isle | Fair Isle Knitting, Fair Isle Colourwork |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
 | `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
@@ -198,6 +200,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 
 | Slug | Label | Aliases |
 | --- | --- | --- |
+| `alpine-winter-travel-posters` | Alpine Winter Travel Posters | Alpine Winter Tourism Posters, Vintage Alpine Ski Posters |
 | `b2b-quick-order-grid` | B2B Quick-Order Grid | quick order grid, B2B order pad, SKU quick order |
 | `board-game-box-art` | Board Game Box Art | tabletop box cover art, modern board game packaging, boardgame cover art |
 | `bootleg-streetwear-logo-remix` | Bootleg / Parody Streetwear Logo Remix | bootleg logo, parody streetwear, brand flip, subversive logo, logo remix |
