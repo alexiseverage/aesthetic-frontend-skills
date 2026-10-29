@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 171
+- Full entries: 182
 - Redirect entries: 1
 - Families: 8
 
@@ -34,6 +34,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `nu-goth-pastel-goth` | Nu-Goth / Pastel Goth | nu goth, pastel goth, modern goth fashion |
 | `storybook-spooky-cute` | Storybook Spooky Cute | spooky cute, friendly Halloween storybook |
 | `warm-minimalism` | Warm Minimalism / Quiet Luxury | quiet luxury, warm minimal, stealth wealth, silent luxury, clean girl aesthetic, calm interface |
+| `whimsigothic` | Whimsigothic | Whimsigoth, Whimsical Mystical Gothic Celestial, Whimsy Goth |
 | `witchcore` | Witchcore | witch aesthetic, occult cottage, modern witch aesthetic |
 
 ## digital-internet-native
@@ -45,6 +46,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `ai-slop-synthetic-corporate-art` | AI Slop / Synthetic Corporate Art | AI slop, synthetic corporate art, AI-generated corporate illustration |
 | `browser-chrome-netscape` | Browser Chrome / Netscape-Era Browser UI | netscape chrome, 90s browser frame, browser chrome, throbber era |
 | `clowncore` | Clowncore | clown core, clowncore aesthetic |
+| `demoscene` | Demoscene | Demo Scene |
 | `desktop-publishing` | Desktop Publishing / Early Mac Aesthetic | DTP aesthetic, Macintosh Bitmap Era, early Mac aesthetic, PageMaker aesthetic |
 | `dreamcore-weirdcore` | Dreamcore / Weirdcore | dreamcore, weirdcore, liminal dream edit |
 | `dvd-menu` | DVD Menu | DVD menu screen, DVD menu interface, DVD menu design, DVD-Video menu, interactive DVD menu, disc menu |
@@ -70,6 +72,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 
 | Slug | Label | Aliases |
 | --- | --- | --- |
+| `afrofuturism` | Afrofuturism | Afro-Futurism, Afro Futurism |
 | `claymorphism` | Claymorphism | clay UI, puffy design, soft 3D |
 | `corporate-memphis` | Corporate Memphis / Illustration Flat | Alegria, Big Tech Art Style |
 | `cybersigilism` | Cybersigilism | cyber sigilism, post-human tattoo, nu-tribal cyber tattoo |
@@ -109,8 +112,10 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `gothic-revival` | Gothic Revival | Victorian Gothic Revival, medievalist revival, Gothic Revival architecture |
 | `grunge-typography` | Grunge Typography | grunge design, Carson grunge, deconstructionist typography, Ray Gun aesthetic |
 | `high-tech-architecture` | High-Tech Architecture / Structural Expressionism | Structural Expressionism, High-tech architecture, Hi-tech architecture |
+| `isotype` | Isotype | ISOTYPE, Vienna Method of Pictorial Statistics, Wiener Methode der Bildstatistik, International System of Typographic Picture Education |
 | `italian-radical-design` | Italian Radical Design | Radical Design, Anti-design, Superstudio, Archizoom |
 | `japanese-metabolism` | Japanese Metabolism | Metabolism, Metabolist architecture, Japanese Metabolist movement |
+| `light-and-space` | Light and Space | Light & Space, California Light and Space, Southern California Light and Space |
 | `memphis` | Memphis / Post-Modern | Memphis-Milano, Memphis Design, Memphis Group |
 | `mid-century-modern` | Mid-century Modern | MCM, Mid-Century, Midcentury Modern, Atomic Ranch |
 | `mingei` | Mingei | Mingei movement, Japanese folk craft movement |
@@ -132,6 +137,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `shaker-design` | Shaker Design | Shaker furniture, Shaker style, United Society of Believers design |
 | `shin-hanga` | Shin-hanga | Shin Hanga, Japanese New Prints |
 | `streamline-moderne` | Streamline Moderne | Art Moderne, Streamline, Style Paquebot, Ocean Liner Style |
+| `superflat` | Superflat | Super Flat, スーパーフラット |
 | `suprematism` | Suprematism | Suprematist, Malevich Abstraction |
 | `swiss-international` | Swiss / International Typographic Style | Swiss Style, International Typographic Style, Schweizer Typografie, Swiss / International Style |
 | `ulm-school` | Ulm School / HfG Ulm | HfG Ulm, Ulm School of Design, Hochschule für Gestaltung Ulm |
@@ -146,9 +152,12 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | Slug | Label | Aliases |
 | --- | --- | --- |
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
+| `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
+| `ebru` | Ebru | Turkish paper marbling, Turkish marbling, ebru art |
 | `fair-isle` | Fair Isle | Fair Isle Knitting, Fair Isle Colourwork |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
+| `paper-theatre` | Paper Theatre | Paper Theater, Toy Theatre, Toy Theater, Papiertheater, Théâtre de Papier, Juvenile Drama |
 | `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |
@@ -211,6 +220,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `convenience-store-backoffice` | Convenience-Store Back-Office Grid | c-store backoffice, convenience store operations dashboard, fuel retail backoffice |
 | `dia-de-los-muertos-calavera-graphics` | Dia de los Muertos Calavera Graphics | Day of the Dead graphics, calavera graphics |
 | `fileteado-porteno` | Fileteado Porteño | Filete Porteño, Fileteado Porteno, Buenos Aires Fileteado |
+| `global-village-coffeehouse` | Global Village Coffeehouse | GVC, Millennium Global Village, Millennium-Era Urbane-Sophistication World Vibes |
 | `guochao` | Guochao | China-chic, guochao branding, guochao packaging, 国潮, Chinese heritage revival branding |
 | `halloween-store-vernacular` | Halloween Store Vernacular | seasonal Halloween retail, costume-store packaging |
 | `harvest-fair-vernacular` | Harvest Fair Vernacular | county fair harvest, agricultural fair signage |
@@ -219,6 +229,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `konbini-utility` | Konbini Utility | Japanese convenience store utility, konbini design, convenience retail packaging utility |
 | `lotto` | Lotto Scratcher Commerce | scratch-off, scratch ticket, instant-win ticket, state lottery scratcher |
 | `mexican-rotulismo` | Mexican Rotulismo | Mexican Rótulos, rotulismo mexicano, Mexican rotulos, rótulo vernacular, hand-painted Mexican signs |
+| `pakistani-truck-art` | Pakistani Truck Art | Pakistan Truck Art, Pakistani Truck Painting |
 | `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |
 | `school-fall-festival` | School Fall Festival | fall festival flyer, school carnival fall |
 | `slasher-vhs-rental` | Slasher VHS Rental | horror VHS, video-store slasher |

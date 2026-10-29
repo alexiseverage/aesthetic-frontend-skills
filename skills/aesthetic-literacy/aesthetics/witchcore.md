@@ -6,7 +6,7 @@ era: 2010s–present
 aliases: ["witch aesthetic", "occult cottage", "modern witch aesthetic"]
 status: canonical
 evidence_level: limited
-related: ["dark-academia", "cottagecore", "storybook-gothic", "gothic-revival"]
+related: ["dark-academia", "cottagecore", "storybook-gothic", "gothic-revival", "whimsigothic"]
 subsets: []
 ---
 
@@ -48,6 +48,7 @@ Witchcore reads as a source-backed aesthetic system whose meaning depends on the
 - `cottagecore` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
 - `storybook-gothic` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
 - `gothic-revival` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
+- `whimsigothic` shares celestial ornament and some materials, but centers eccentric decorative objects, playful Gothic forms and expressive consumer graphics. Witchcore remains organized by ritual/apothecary purpose and correspondence; a sun-faced mirror or curled metal chair alone does not establish it.
 - No canonical subsets are defined for this entry yet.
 
 ## Frontend / UI Guidance
