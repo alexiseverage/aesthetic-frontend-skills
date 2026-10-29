@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 182
+- Full entries: 192
 - Redirect entries: 1
 - Families: 8
 
@@ -59,6 +59,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `liminal-space-backrooms` | Liminal Space / Backrooms | liminal spaces, Backrooms aesthetic, uncanny transitional architecture |
 | `material-design` | Material Design | Material, Material UI, MDL |
 | `myspace-chaos` | MySpace Chaos | MySpace aesthetic, profile customization era |
+| `palm-os-monochrome` | Palm OS Monochrome | PalmPilot monochrome UI, Classic Palm OS monochrome interface |
 | `personal-homepage-builder` | Personal Homepage Builder / Site-Builder Wizard | site builder wizard, GeoCities PageBuilder, homepage builder UI, WYSIWYG web editor |
 | `skate-video-vhs-fisheye` | Skate Video VHS / Fisheye Title Cards | skate video aesthetic, VX1000 fisheye, VHS skate video, skate title cards |
 | `skeuomorphism` | Skeuomorphism | realistic UI, material mimicry |
@@ -112,6 +113,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `gothic-revival` | Gothic Revival | Victorian Gothic Revival, medievalist revival, Gothic Revival architecture |
 | `grunge-typography` | Grunge Typography | grunge design, Carson grunge, deconstructionist typography, Ray Gun aesthetic |
 | `high-tech-architecture` | High-Tech Architecture / Structural Expressionism | Structural Expressionism, High-tech architecture, Hi-tech architecture |
+| `insular-manuscript-illumination` | Insular Manuscript Illumination | Insular illumination, Insular gospel-book ornament, Hiberno-Saxon manuscript illumination |
 | `isotype` | Isotype | ISOTYPE, Vienna Method of Pictorial Statistics, Wiener Methode der Bildstatistik, International System of Typographic Picture Education |
 | `italian-radical-design` | Italian Radical Design | Radical Design, Anti-design, Superstudio, Archizoom |
 | `japanese-metabolism` | Japanese Metabolism | Metabolism, Metabolist architecture, Japanese Metabolist movement |
@@ -138,8 +140,10 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `shin-hanga` | Shin-hanga | Shin Hanga, Japanese New Prints |
 | `streamline-moderne` | Streamline Moderne | Art Moderne, Streamline, Style Paquebot, Ocean Liner Style |
 | `superflat` | Superflat | Super Flat, スーパーフラット |
+| `supergraphics` | Supergraphics | Architectural supergraphics, Environmental supergraphics |
 | `suprematism` | Suprematism | Suprematist, Malevich Abstraction |
 | `swiss-international` | Swiss / International Typographic Style | Swiss Style, International Typographic Style, Schweizer Typografie, Swiss / International Style |
+| `taisho-roman` | Taishō Roman | Taisho Roman, Taishō Romanticism, Taisho Romanticism |
 | `ulm-school` | Ulm School / HfG Ulm | HfG Ulm, Ulm School of Design, Hochschule für Gestaltung Ulm |
 | `vienna-secession` | Vienna Secession | Wiener Secession, Wiener Werkstätte, Secession Style |
 | `vorticism` | Vorticism | Vorticist, BLAST style |
@@ -152,11 +156,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | Slug | Label | Aliases |
 | --- | --- | --- |
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
+| `brazilian-cordel-woodcut` | Brazilian Cordel Woodcut | Cordel woodcut, Xilogravura de cordel |
+| `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
 | `ebru` | Ebru | Turkish paper marbling, Turkish marbling, ebru art |
 | `fair-isle` | Fair Isle | Fair Isle Knitting, Fair Isle Colourwork |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
+| `ndebele-mural-art` | Ndebele Mural Art | Ndebele house painting, Southern Ndebele mural painting |
 | `paper-theatre` | Paper Theatre | Paper Theater, Toy Theatre, Toy Theater, Papiertheater, Théâtre de Papier, Juvenile Drama |
 | `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
@@ -199,6 +206,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `bloomberg-terminal-monochrome` | Bloomberg Terminal Monochrome | Bloomberg terminal aesthetic, finance terminal UI, trader terminal monochrome |
 | `bubble-chamber-track-photography` | Bubble-Chamber Track Photography | bubble-chamber photographic aesthetic, particle-track photography aesthetic |
 | `cheminformatics-map-explorer` | Cheminformatics Map Explorer | chemical space explorer, cheminformatics explorer, molecule map UI |
+| `chladni-resonance-patterns` | Chladni Resonance Patterns | Chladni figures, Chladni plate patterns |
 | `corn-maze-wayfinding` | Corn Maze Wayfinding | corn maze map, harvest maze signage |
 | `high-performance-hmi` | High-performance HMI | HP HMI, High Performance SCADA, high-performance SCADA graphics, process-operator graphics, operator-centered industrial UI |
 | `prescription-label-clarity` | Prescription Label Clarity | ClearRx style, prescription label design, medication label clarity |
@@ -220,12 +228,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `convenience-store-backoffice` | Convenience-Store Back-Office Grid | c-store backoffice, convenience store operations dashboard, fuel retail backoffice |
 | `dia-de-los-muertos-calavera-graphics` | Dia de los Muertos Calavera Graphics | Day of the Dead graphics, calavera graphics |
 | `fileteado-porteno` | Fileteado Porteño | Filete Porteño, Fileteado Porteno, Buenos Aires Fileteado |
+| `ghanaian-mobile-cinema-posters` | Ghanaian Mobile-Cinema Posters | Ghanaian hand-painted film posters, Ghanaian movie posters, Ghana painted cinema posters |
 | `global-village-coffeehouse` | Global Village Coffeehouse | GVC, Millennium Global Village, Millennium-Era Urbane-Sophistication World Vibes |
 | `guochao` | Guochao | China-chic, guochao branding, guochao packaging, 国潮, Chinese heritage revival branding |
 | `halloween-store-vernacular` | Halloween Store Vernacular | seasonal Halloween retail, costume-store packaging |
 | `harvest-fair-vernacular` | Harvest Fair Vernacular | county fair harvest, agricultural fair signage |
 | `harvest-market-chalkboard` | Harvest Market Chalkboard | farm market chalkboard, harvest chalk menu |
 | `haunted-dark-ride` | Haunted Dark Ride | haunted-house ride, dark ride horror |
+| `heritage-motorsport-livery` | Heritage Motorsport Livery | Classic racing livery, Vintage motorsport graphics, Historic race-car liveries |
 | `konbini-utility` | Konbini Utility | Japanese convenience store utility, konbini design, convenience retail packaging utility |
 | `lotto` | Lotto Scratcher Commerce | scratch-off, scratch ticket, instant-win ticket, state lottery scratcher |
 | `mexican-rotulismo` | Mexican Rotulismo | Mexican Rótulos, rotulismo mexicano, Mexican rotulos, rótulo vernacular, hand-painted Mexican signs |

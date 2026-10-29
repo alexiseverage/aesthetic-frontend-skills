@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 182,
+  "fullEntryCount": 192,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -312,6 +312,16 @@
       ]
     },
     {
+      "slug": "brazilian-cordel-woodcut",
+      "label": "Brazilian Cordel Woodcut",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Cordel woodcut",
+        "Xilogravura de cordel"
+      ]
+    },
+    {
       "slug": "browser-chrome-netscape",
       "label": "Browser Chrome / Netscape-Era Browser UI",
       "family": "digital-internet-native",
@@ -420,6 +430,16 @@
       ]
     },
     {
+      "slug": "chladni-resonance-patterns",
+      "label": "Chladni Resonance Patterns",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Chladni figures",
+        "Chladni plate patterns"
+      ]
+    },
+    {
       "slug": "city-pop",
       "label": "City Pop Visual Language",
       "family": "historical-design-movements",
@@ -470,6 +490,17 @@
         "Nancy Meyers chic",
         "coastal auntie",
         "easy coastal luxury"
+      ]
+    },
+    {
+      "slug": "color-infrared-landscape",
+      "label": "Color-Infrared Landscape",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Colour-infrared landscape",
+        "False-color infrared landscape",
+        "Aerochrome landscape photography"
       ]
     },
     {
@@ -828,6 +859,17 @@
       ]
     },
     {
+      "slug": "ghanaian-mobile-cinema-posters",
+      "label": "Ghanaian Mobile-Cinema Posters",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Ghanaian hand-painted film posters",
+        "Ghanaian movie posters",
+        "Ghana painted cinema posters"
+      ]
+    },
+    {
       "slug": "glassmorphism",
       "label": "Glassmorphism",
       "family": "emerging-hybrid",
@@ -973,6 +1015,17 @@
       ]
     },
     {
+      "slug": "heritage-motorsport-livery",
+      "label": "Heritage Motorsport Livery",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Classic racing livery",
+        "Vintage motorsport graphics",
+        "Historic race-car liveries"
+      ]
+    },
+    {
       "slug": "high-performance-hmi",
       "label": "High-performance HMI",
       "family": "technical-institutional",
@@ -994,6 +1047,17 @@
         "Structural Expressionism",
         "High-tech architecture",
         "Hi-tech architecture"
+      ]
+    },
+    {
+      "slug": "insular-manuscript-illumination",
+      "label": "Insular Manuscript Illumination",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Insular illumination",
+        "Insular gospel-book ornament",
+        "Hiberno-Saxon manuscript illumination"
       ]
     },
     {
@@ -1210,6 +1274,16 @@
       ]
     },
     {
+      "slug": "ndebele-mural-art",
+      "label": "Ndebele Mural Art",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Ndebele house painting",
+        "Southern Ndebele mural painting"
+      ]
+    },
+    {
       "slug": "neubrutalism",
       "label": "Neubrutalism",
       "family": "emerging-hybrid",
@@ -1302,6 +1376,16 @@
       "aliases": [
         "Pakistan Truck Art",
         "Pakistani Truck Painting"
+      ]
+    },
+    {
+      "slug": "palm-os-monochrome",
+      "label": "Palm OS Monochrome",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "PalmPilot monochrome UI",
+        "Classic Palm OS monochrome interface"
       ]
     },
     {
@@ -1737,6 +1821,16 @@
       ]
     },
     {
+      "slug": "supergraphics",
+      "label": "Supergraphics",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Architectural supergraphics",
+        "Environmental supergraphics"
+      ]
+    },
+    {
       "slug": "suprematism",
       "label": "Suprematism",
       "family": "historical-design-movements",
@@ -1777,6 +1871,17 @@
         "sci-fi HUD",
         "military HUD",
         "game HUD overlay"
+      ]
+    },
+    {
+      "slug": "taisho-roman",
+      "label": "Taishō Roman",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Taisho Roman",
+        "Taishō Romanticism",
+        "Taisho Romanticism"
       ]
     },
     {
