@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 171,
+  "fullEntryCount": 182,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -49,6 +49,16 @@
         "Aestheticism",
         "Art for art’s sake",
         "Aesthetic style"
+      ]
+    },
+    {
+      "slug": "afrofuturism",
+      "label": "Afrofuturism",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "Afro-Futurism",
+        "Afro Futurism"
       ]
     },
     {
@@ -549,6 +559,17 @@
       ]
     },
     {
+      "slug": "cyanotype",
+      "label": "Cyanotype",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "cyanotype print",
+        "sun print",
+        "cyanotype photogram"
+      ]
+    },
+    {
       "slug": "cyberpunk",
       "label": "Cyberpunk",
       "family": "speculative-robotics",
@@ -603,6 +624,15 @@
         "decora fashion",
         "kawaii accessory stacking",
         "decorative kei"
+      ]
+    },
+    {
+      "slug": "demoscene",
+      "label": "Demoscene",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Demo Scene"
       ]
     },
     {
@@ -681,6 +711,17 @@
       "status": "canonical",
       "aliases": [
         "webcore"
+      ]
+    },
+    {
+      "slug": "ebru",
+      "label": "Ebru",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Turkish paper marbling",
+        "Turkish marbling",
+        "ebru art"
       ]
     },
     {
@@ -799,6 +840,17 @@
       "family": "digital-internet-native",
       "status": "canonical",
       "aliases": []
+    },
+    {
+      "slug": "global-village-coffeehouse",
+      "label": "Global Village Coffeehouse",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "GVC",
+        "Millennium Global Village",
+        "Millennium-Era Urbane-Sophistication World Vibes"
+      ]
     },
     {
       "slug": "goblincore",
@@ -945,6 +997,18 @@
       ]
     },
     {
+      "slug": "isotype",
+      "label": "Isotype",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "ISOTYPE",
+        "Vienna Method of Pictorial Statistics",
+        "Wiener Methode der Bildstatistik",
+        "International System of Typographic Picture Education"
+      ]
+    },
+    {
       "slug": "italian-radical-design",
       "label": "Italian Radical Design",
       "family": "historical-design-movements",
@@ -999,6 +1063,17 @@
         "Japanese convenience store utility",
         "konbini design",
         "convenience retail packaging utility"
+      ]
+    },
+    {
+      "slug": "light-and-space",
+      "label": "Light and Space",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Light & Space",
+        "California Light and Space",
+        "Southern California Light and Space"
       ]
     },
     {
@@ -1217,6 +1292,30 @@
       "status": "canonical",
       "aliases": [
         "Orphic Cubism"
+      ]
+    },
+    {
+      "slug": "pakistani-truck-art",
+      "label": "Pakistani Truck Art",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Pakistan Truck Art",
+        "Pakistani Truck Painting"
+      ]
+    },
+    {
+      "slug": "paper-theatre",
+      "label": "Paper Theatre",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Paper Theater",
+        "Toy Theatre",
+        "Toy Theater",
+        "Papiertheater",
+        "Théâtre de Papier",
+        "Juvenile Drama"
       ]
     },
     {
@@ -1628,6 +1727,16 @@
       ]
     },
     {
+      "slug": "superflat",
+      "label": "Superflat",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Super Flat",
+        "スーパーフラット"
+      ]
+    },
+    {
       "slug": "suprematism",
       "label": "Suprematism",
       "family": "historical-design-movements",
@@ -1831,6 +1940,17 @@
       "aliases": [
         "Web 2.0 design",
         "beta aesthetic"
+      ]
+    },
+    {
+      "slug": "whimsigothic",
+      "label": "Whimsigothic",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Whimsigoth",
+        "Whimsical Mystical Gothic Celestial",
+        "Whimsy Goth"
       ]
     },
     {
