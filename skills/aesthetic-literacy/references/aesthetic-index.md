@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 202
+- Full entries: 212
 - Redirect entries: 1
 - Families: 8
 
@@ -74,6 +74,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | Slug | Label | Aliases |
 | --- | --- | --- |
 | `afrofuturism` | Afrofuturism | Afro-Futurism, Afro Futurism |
+| `agar-art` | Agar Art | Microbial agar art, Petri-dish art, Petri dish painting |
 | `claymorphism` | Claymorphism | clay UI, puffy design, soft 3D |
 | `corporate-memphis` | Corporate Memphis / Illustration Flat | Alegria, Big Tech Art Style |
 | `cybersigilism` | Cybersigilism | cyber sigilism, post-human tattoo, nu-tribal cyber tattoo |
@@ -156,6 +157,8 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 
 | Slug | Label | Aliases |
 | --- | --- | --- |
+| `albarello-pharmacy-ceramics` | Albarello Pharmacy Ceramics | Albarelli pharmacy jars, Painted albarello vessels, Albarelli, Albarelo pharmacy ceramics |
+| `anatomical-flap-atlases` | Anatomical Flap Atlases | Anatomical flap books, Anatomical fugitive sheets |
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
 | `brazilian-cordel-woodcut` | Brazilian Cordel Woodcut | Cordel woodcut, Xilogravura de cordel |
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
@@ -166,7 +169,9 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `fair-isle` | Fair Isle | Fair Isle Knitting, Fair Isle Colourwork |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
 | `greek-black-figure` | Greek Black-Figure | Greek black-figure pottery, Black-figure vase painting |
+| `haeckelian-biological-plates` | Haeckelian Biological Plates | Haeckelian natural-history plates, Kunstformen-inspired biological plates |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
+| `klecksography-inkblot` | Klecksography / Inkblot Graphics | Klecksography, Folded inkblot graphics, Kleksographie, Klecksographie, Inkblot graphics |
 | `ndebele-mural-art` | Ndebele Mural Art | Ndebele house painting, Southern Ndebele mural painting |
 | `paper-theatre` | Paper Theatre | Paper Theater, Toy Theatre, Toy Theater, Papiertheater, Théâtre de Papier, Juvenile Drama |
 | `photographic-contact-sheet` | Photographic Contact Sheet | Photographic proof sheet, Photography contact-sheet vernacular |
@@ -215,9 +220,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `chladni-resonance-patterns` | Chladni Resonance Patterns | Chladni figures, Chladni plate patterns |
 | `corn-maze-wayfinding` | Corn Maze Wayfinding | corn maze map, harvest maze signage |
 | `engraved-celestial-atlas` | Engraved Celestial Atlas | Engraved star atlas |
+| `entomological-specimen-drawers` | Entomological Specimen Drawers | Pinned insect collection drawers, Entomological collection trays |
 | `european-heraldic-design` | European Heraldic Design | European armorial design |
 | `guilloche-security-printing` | Guilloché Security Printing | Guilloche security printing, Security-print guilloché, Banknote guilloché |
 | `high-performance-hmi` | High-performance HMI | HP HMI, High Performance SCADA, high-performance SCADA graphics, process-operator graphics, operator-centered industrial UI |
+| `materia-medica-collections` | Materia Medica Collections | Materia medica cabinets, Pharmacognosy teaching collections, Materia medica teaching collections, Raw drug specimen collections |
+| `multisensory-room-design` | Multisensory Room Design | Multisensory environments, Sensory room interiors |
+| `neuroanatomical-ink-drawing` | Neuroanatomical Ink Drawing | Neurohistological ink studies, Neural ink illustration, Neural ink drawing, Cajal-school neural drawing |
+| `polarized-crystal-photomicrography` | Polarized Crystal Photomicrography | Polarized-light crystal photography, Crystal interference photomicrography, Polarised crystal photomicrography, Birefringent crystal photography |
 | `prescription-label-clarity` | Prescription Label Clarity | ClearRx style, prescription label design, medication label clarity |
 | `spooky-science-lab` | Spooky Science Lab | Halloween science lab, spooky STEM |
 | `sports-scorebug` | Sports Scorebug | score bug, broadcast score overlay, sports broadcast graphics |
