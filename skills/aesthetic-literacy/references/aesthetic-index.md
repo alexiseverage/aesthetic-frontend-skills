@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 192
+- Full entries: 202
 - Redirect entries: 1
 - Families: 8
 
@@ -106,6 +106,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `constructivism` | Russian Constructivism | Constructivist, Soviet Constructivism, Russian avant-garde |
 | `corporate-grunge` | Corporate Grunge / Grunge™ | Grunge™, corporate grunge, commercial grunge, alternative branding |
 | `de-stijl` | De Stijl / Neo-Plasticism | De Stijl, Neo-Plasticism, Mondrian style, The Style |
+| `deconstructivist-architecture` | Deconstructivist Architecture | Architectural deconstructivism, Deconstructivist architectural design |
 | `die-neue-typographie` | Die Neue Typographie | The New Typography, Tschichold's New Typography, Early Modernist Typography |
 | `futurism` | Italian Futurism | Futurismo, Futurist movement |
 | `german-expressionist-horror` | German Expressionist Horror | expressionist horror, caligari expressionism |
@@ -160,14 +161,19 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
 | `ebru` | Ebru | Turkish paper marbling, Turkish marbling, ebru art |
+| `edo-yokai-woodblock` | Edo Yōkai Woodblock | Edo supernatural woodblock, Edo yōkai prints |
+| `english-bestiary-illumination` | English Bestiary Illumination | English illuminated bestiary, English book-of-beasts illumination |
 | `fair-isle` | Fair Isle | Fair Isle Knitting, Fair Isle Colourwork |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
+| `greek-black-figure` | Greek Black-Figure | Greek black-figure pottery, Black-figure vase painting |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
 | `ndebele-mural-art` | Ndebele Mural Art | Ndebele house painting, Southern Ndebele mural painting |
 | `paper-theatre` | Paper Theatre | Paper Theater, Toy Theatre, Toy Theater, Papiertheater, Théâtre de Papier, Juvenile Drama |
+| `photographic-contact-sheet` | Photographic Contact Sheet | Photographic proof sheet, Photography contact-sheet vernacular |
 | `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |
+| `safavid-manuscript-painting` | Safavid Manuscript Painting | Safavid narrative painting, Safavid illustrated manuscript |
 | `skate-deck-screen-print` | Skate Deck Screen-Print Graphics | skateboard deck art, deck graphics, spot-color deck print, skate screen print |
 | `spirit-photography-seance` | Spirit Photography Seance | spirit photography, seance cabinet card |
 | `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
@@ -208,10 +214,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `cheminformatics-map-explorer` | Cheminformatics Map Explorer | chemical space explorer, cheminformatics explorer, molecule map UI |
 | `chladni-resonance-patterns` | Chladni Resonance Patterns | Chladni figures, Chladni plate patterns |
 | `corn-maze-wayfinding` | Corn Maze Wayfinding | corn maze map, harvest maze signage |
+| `engraved-celestial-atlas` | Engraved Celestial Atlas | Engraved star atlas |
+| `european-heraldic-design` | European Heraldic Design | European armorial design |
+| `guilloche-security-printing` | Guilloché Security Printing | Guilloche security printing, Security-print guilloché, Banknote guilloché |
 | `high-performance-hmi` | High-performance HMI | HP HMI, High Performance SCADA, high-performance SCADA graphics, process-operator graphics, operator-centered industrial UI |
 | `prescription-label-clarity` | Prescription Label Clarity | ClearRx style, prescription label design, medication label clarity |
 | `spooky-science-lab` | Spooky Science Lab | Halloween science lab, spooky STEM |
 | `sports-scorebug` | Sports Scorebug | score bug, broadcast score overlay, sports broadcast graphics |
+| `teletext` | Teletext | Broadcast teletext, Teletext design, Ceefax-style teletext |
 
 ## vernacular-commercial
 

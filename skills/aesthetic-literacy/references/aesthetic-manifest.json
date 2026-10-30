@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 192,
+  "fullEntryCount": 202,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -645,6 +645,16 @@
       ]
     },
     {
+      "slug": "deconstructivist-architecture",
+      "label": "Deconstructivist Architecture",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Architectural deconstructivism",
+        "Deconstructivist architectural design"
+      ]
+    },
+    {
       "slug": "decora-kei",
       "label": "Decora Kei",
       "family": "contemporary-lifestyle",
@@ -753,6 +763,44 @@
         "Turkish paper marbling",
         "Turkish marbling",
         "ebru art"
+      ]
+    },
+    {
+      "slug": "edo-yokai-woodblock",
+      "label": "Edo Yōkai Woodblock",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Edo supernatural woodblock",
+        "Edo yōkai prints"
+      ]
+    },
+    {
+      "slug": "english-bestiary-illumination",
+      "label": "English Bestiary Illumination",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "English illuminated bestiary",
+        "English book-of-beasts illumination"
+      ]
+    },
+    {
+      "slug": "engraved-celestial-atlas",
+      "label": "Engraved Celestial Atlas",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Engraved star atlas"
+      ]
+    },
+    {
+      "slug": "european-heraldic-design",
+      "label": "European Heraldic Design",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "European armorial design"
       ]
     },
     {
@@ -928,6 +976,16 @@
       ]
     },
     {
+      "slug": "greek-black-figure",
+      "label": "Greek Black-Figure",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Greek black-figure pottery",
+        "Black-figure vase painting"
+      ]
+    },
+    {
       "slug": "grunge-typography",
       "label": "Grunge Typography",
       "family": "historical-design-movements",
@@ -937,6 +995,17 @@
         "Carson grunge",
         "deconstructionist typography",
         "Ray Gun aesthetic"
+      ]
+    },
+    {
+      "slug": "guilloche-security-printing",
+      "label": "Guilloché Security Printing",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Guilloche security printing",
+        "Security-print guilloché",
+        "Banknote guilloché"
       ]
     },
     {
@@ -1428,6 +1497,16 @@
       ]
     },
     {
+      "slug": "photographic-contact-sheet",
+      "label": "Photographic Contact Sheet",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Photographic proof sheet",
+        "Photography contact-sheet vernacular"
+      ]
+    },
+    {
       "slug": "pichwai",
       "label": "Pichwai",
       "family": "material-print-craft",
@@ -1603,6 +1682,16 @@
         "riso-print",
         "riso aesthetic",
         "spot-color print"
+      ]
+    },
+    {
+      "slug": "safavid-manuscript-painting",
+      "label": "Safavid Manuscript Painting",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Safavid narrative painting",
+        "Safavid illustrated manuscript"
       ]
     },
     {
@@ -1893,6 +1982,17 @@
         "tech noir",
         "future noir",
         "sci-fi noir"
+      ]
+    },
+    {
+      "slug": "teletext",
+      "label": "Teletext",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Broadcast teletext",
+        "Teletext design",
+        "Ceefax-style teletext"
       ]
     },
     {
