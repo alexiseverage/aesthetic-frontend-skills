@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 202,
+  "fullEntryCount": 212,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -62,6 +62,17 @@
       ]
     },
     {
+      "slug": "agar-art",
+      "label": "Agar Art",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "Microbial agar art",
+        "Petri-dish art",
+        "Petri dish painting"
+      ]
+    },
+    {
       "slug": "ai-slop-synthetic-corporate-art",
       "label": "AI Slop / Synthetic Corporate Art",
       "family": "digital-internet-native",
@@ -70,6 +81,18 @@
         "AI slop",
         "synthetic corporate art",
         "AI-generated corporate illustration"
+      ]
+    },
+    {
+      "slug": "albarello-pharmacy-ceramics",
+      "label": "Albarello Pharmacy Ceramics",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Albarelli pharmacy jars",
+        "Painted albarello vessels",
+        "Albarelli",
+        "Albarelo pharmacy ceramics"
       ]
     },
     {
@@ -90,6 +113,16 @@
       "aliases": [
         "Amsterdamse School",
         "Amsterdam School Design"
+      ]
+    },
+    {
+      "slug": "anatomical-flap-atlases",
+      "label": "Anatomical Flap Atlases",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Anatomical flap books",
+        "Anatomical fugitive sheets"
       ]
     },
     {
@@ -795,6 +828,16 @@
       ]
     },
     {
+      "slug": "entomological-specimen-drawers",
+      "label": "Entomological Specimen Drawers",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Pinned insect collection drawers",
+        "Entomological collection trays"
+      ]
+    },
+    {
       "slug": "european-heraldic-design",
       "label": "European Heraldic Design",
       "family": "technical-institutional",
@@ -1022,6 +1065,16 @@
       ]
     },
     {
+      "slug": "haeckelian-biological-plates",
+      "label": "Haeckelian Biological Plates",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Haeckelian natural-history plates",
+        "Kunstformen-inspired biological plates"
+      ]
+    },
+    {
       "slug": "halloween-store-vernacular",
       "label": "Halloween Store Vernacular",
       "family": "vernacular-commercial",
@@ -1188,6 +1241,19 @@
       ]
     },
     {
+      "slug": "klecksography-inkblot",
+      "label": "Klecksography / Inkblot Graphics",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Klecksography",
+        "Folded inkblot graphics",
+        "Kleksographie",
+        "Klecksographie",
+        "Inkblot graphics"
+      ]
+    },
+    {
       "slug": "konbini-utility",
       "label": "Konbini Utility",
       "family": "vernacular-commercial",
@@ -1241,6 +1307,18 @@
         "mahou shoujo",
         "magical heroine",
         "transformation heroine aesthetic"
+      ]
+    },
+    {
+      "slug": "materia-medica-collections",
+      "label": "Materia Medica Collections",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Materia medica cabinets",
+        "Pharmacognosy teaching collections",
+        "Materia medica teaching collections",
+        "Raw drug specimen collections"
       ]
     },
     {
@@ -1322,6 +1400,16 @@
       ]
     },
     {
+      "slug": "multisensory-room-design",
+      "label": "Multisensory Room Design",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Multisensory environments",
+        "Sensory room interiors"
+      ]
+    },
+    {
       "slug": "myspace-chaos",
       "label": "MySpace Chaos",
       "family": "digital-internet-native",
@@ -1372,6 +1460,18 @@
         "neo-skeuomorphism",
         "soft UI",
         "neumorphic design"
+      ]
+    },
+    {
+      "slug": "neuroanatomical-ink-drawing",
+      "label": "Neuroanatomical Ink Drawing",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Neurohistological ink studies",
+        "Neural ink illustration",
+        "Neural ink drawing",
+        "Cajal-school neural drawing"
       ]
     },
     {
@@ -1538,6 +1638,18 @@
         "German Poster Style",
         "Sachplakat",
         "Object Poster"
+      ]
+    },
+    {
+      "slug": "polarized-crystal-photomicrography",
+      "label": "Polarized Crystal Photomicrography",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Polarized-light crystal photography",
+        "Crystal interference photomicrography",
+        "Polarised crystal photomicrography",
+        "Birefringent crystal photography"
       ]
     },
     {
