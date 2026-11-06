@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 212
+- Full entries: 213
 - Redirect entries: 1
 - Families: 8
 
@@ -82,6 +82,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `neubrutalism` | Neubrutalism | neo-brutalism, neobrutalism, new brutalism |
 | `neumorphism` | Neumorphism / Soft UI | neo-skeuomorphism, soft UI, neumorphic design |
 | `organic-digital` | Organic Digital / Blobcore | blobcore |
+| `otherworld-domestic` | Otherworld Domestic | Coraline-inspired domestic uncanny, otherworld domestic design |
 | `scandi-noir` | Scandi Noir | Nordic noir, Nordic crime aesthetic, Scandinavian noir |
 | `solarpunk` | Solarpunk | — |
 | `storybook-gothic` | Storybook Gothic | fairytale gothic, fantasy gothic, story driven gothic, storybook gothic branding |
