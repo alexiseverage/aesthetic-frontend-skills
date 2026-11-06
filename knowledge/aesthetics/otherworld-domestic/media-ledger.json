@@ -1,0 +1,1091 @@
+{
+  "media": [
+    {
+      "record_id": "uesugi-palace",
+      "artifact_id": "uesugi-palace",
+      "source_url": "https://www.awn.com/animationworld/tadahiro-uesugi-talks-coraline-design",
+      "media_url": "https://www.awn.com/sites/default/files/styles/original/public/image/attached/3908-tadahiro03coraline-tadahirouesugi-04.jpg?itok=E9gJxbm2",
+      "title": "Original design for the Pink Palace",
+      "creator": "Tadahiro Uesugi; published by Animation World Network; images credited LAIKA",
+      "accessed_at": "2026-11-06",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Violet and magenta pointed house rises above ochre ground; eccentric roofline, thin railings, dark clipped topiary, pale path; asymmetrical domestic miniature composition."
+        },
+        {
+          "dimensions": [
+            "texture"
+          ],
+          "observation": "Broken brush edges and mottled sky/ground coexist with large flat illustrative masses; no uniform grunge overlay."
+        }
+      ],
+      "resolution": {
+        "width": 462,
+        "height": 462
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "uesugi-garden",
+      "artifact_id": "uesugi-garden",
+      "source_url": "https://www.awn.com/animationworld/tadahiro-uesugi-talks-coraline-design",
+      "media_url": "https://www.awn.com/sites/default/files/styles/original/public/image/attached/3908-tadahiro04coraline-tadahirouesugi-05.jpg?itok=j9QWT5Yt",
+      "title": "Fantastic Garden at night",
+      "creator": "Tadahiro Uesugi; published by Animation World Network; images credited LAIKA",
+      "accessed_at": "2026-11-06",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "spatial",
+            "shape"
+          ],
+          "observation": "Near-black foreground porch columns and railing frame coral/orange vegetation with cyan/blue accents and violet architecture; deep foreground/background separation with a domestic viewing threshold."
+        },
+        {
+          "dimensions": [
+            "texture"
+          ],
+          "observation": "Small leaf/flower marks and uneven edges animate flat color areas. Static image provides no timing or easing evidence."
+        }
+      ],
+      "resolution": {
+        "width": 462,
+        "height": 462
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "krall-circus",
+      "artifact_id": "krall-circus",
+      "source_url": "https://www.dan-krall.com/shop",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/66182879e6d7944a79c8fe0f/c8d93bed-8726-4a36-9495-0af6b007ebf8/Circus+Stage+14.5+x+10.jpg",
+      "title": "Circus Stage",
+      "creator": "Dan Krall",
+      "accessed_at": "2026-11-06",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Pen-and-ink scalloped theatrical opening surrounds a deep stage with plank floor, ring, ladders and eccentric mechanical props. Bulb-studded title lettering belongs to a performance proscenium, not body UI."
+        }
+      ],
+      "resolution": {
+        "width": 2500,
+        "height": 3333
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "krall-dining",
+      "artifact_id": "krall-dining",
+      "source_url": "https://www.dan-krall.com/shop",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/66182879e6d7944a79c8fe0f/5c6416f9-bfd4-4a46-bd5a-b493dc0e8c66/other+dinig+room+1.jpg",
+      "title": "Other Dining Room",
+      "creator": "Dan Krall",
+      "accessed_at": "2026-11-06",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Small round dining table and chairs anchor an exaggerated high room; enormous fruit and curling plants surround deep doorway and diagonal tile grid. Domestic hospitality is magnified into surreal abundance."
+        }
+      ],
+      "resolution": {
+        "width": 2500,
+        "height": 1870
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "krall-greenhouse",
+      "artifact_id": "krall-greenhouse",
+      "source_url": "https://www.dan-krall.com/shop",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/66182879e6d7944a79c8fe0f/d3584753-3f75-43f9-a760-f4e01b754caa/Other+Garden+Greenhouse+8x8.5.jpg",
+      "title": "Other Garden Greenhouse",
+      "creator": "Dan Krall",
+      "accessed_at": "2026-11-06",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Radial greenhouse has ribbed glass domes, curling finials and curved entrances. Delicate structural repetition and uneven ink lines; monochrome drawing disproves a mandatory purple palette."
+        }
+      ],
+      "resolution": {
+        "width": 2500,
+        "height": 2220
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "krall-living",
+      "artifact_id": "krall-living",
+      "source_url": "https://www.dan-krall.com/shop",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/66182879e6d7944a79c8fe0f/be69bac2-236c-4f1a-9dc6-52204284f159/category+3f.jpg",
+      "title": "Other Living Room",
+      "creator": "Dan Krall",
+      "accessed_at": "2026-11-06",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Skull-headed furniture, claw-like teeth, stitched seams across wall and floor, framed fireplace and shelf objects turn familiar living-room equipment unsettling. Exaggerated perspective and focal empty floor support object staging."
+        }
+      ],
+      "resolution": {
+        "width": 1440,
+        "height": 1146
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "krall-spink",
+      "artifact_id": "krall-spink",
+      "source_url": "https://www.dan-krall.com/shop",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/66182879e6d7944a79c8fe0f/bbc420a1-8931-465f-9510-474128103555/IMG_9614+3+copy.jpg",
+      "title": "Spink and Forcible Apartment",
+      "creator": "Dan Krall",
+      "accessed_at": "2026-11-06",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Theatre posters, curtains and trophies crowd the walls above oddly shaped chairs and tea service. Large readable display words occupy framed posters while open floor retains a navigable center."
+        }
+      ],
+      "resolution": {
+        "width": 2500,
+        "height": 1755
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "krall-garden",
+      "artifact_id": "krall-garden",
+      "source_url": "https://www.dan-krall.com/shop",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/66182879e6d7944a79c8fe0f/fb49e42a-122c-4ef6-9ea8-0d518465ca58/category+3d.jpg",
+      "title": "Other Garden Design",
+      "creator": "Dan Krall",
+      "accessed_at": "2026-11-06",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Circular terraced fountain garden joined by sweeping stairs; elongated clipped topiary on tall plinths, curled rails and arcing sprays. A compact plan can feel deep through nested levels and framing."
+        }
+      ],
+      "resolution": {
+        "width": 1440,
+        "height": 1100
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "uesugi-rain-house",
+      "artifact_id": "uesugi-rain-house",
+      "source_url": "https://www.awn.com/animationworld/tadahiro-uesugi-talks-coraline-design",
+      "media_url": "https://www.awn.com/sites/default/files/styles/original/public/image/featured/3908-tadahiro-uesugi-talks-coraline-design.jpg?itok=422AEzA0",
+      "title": "Pink Palace in rain",
+      "creator": "Tadahiro Uesugi",
+      "accessed_at": "2026-11-06",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Pale blue-gray house with desaturated red roofs; black foreground branches frame a small red umbrella on a pale path. Rain hatching, muted value field and large house versus tiny figure contrast with violet/ochre alternate concept. Same setting but independently drawn composition, not crop/repost."
+        }
+      ],
+      "resolution": {
+        "width": 462,
+        "height": 462
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "film-collapse",
+      "artifact_id": "coraline-2009-film",
+      "source_url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/00/80/00/2021008000/2021008000.pdf#page=35",
+      "media_url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/21/00/80/00/2021008000/2021008000.pdf#page=35",
+      "title": "Other World collapses — figure 1.1",
+      "creator": "LAIKA / Henry Selick; reproduced by Bloomsbury Academic",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Receding set dissolves into thin blue-gray stems and rectangular blank panels; recognizable path persists underneath a collapsing constructed world. Whole printed page inspected at 692x1037, figure legible. All further film frames belong to this same film artifact."
+        }
+      ],
+      "resolution": {
+        "width": 692,
+        "height": 1037
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "riddell-family",
+      "artifact_id": "riddell-family-portrait",
+      "source_url": "https://api.pageplace.de/preview/DT0400.9781526634665_A40754289/preview-9781526634665_A40754289.pdf#page=11",
+      "media_url": "https://api.pageplace.de/preview/DT0400.9781526634665_A40754289/preview-9781526634665_A40754289.pdf#page=11",
+      "title": "Coraline illustrated preview PDF page 11",
+      "creator": "Chris Riddell / Bloomsbury",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "type",
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Fine crosshatched black ink figures occupy a courtyard with a Victorian house in the background. Normal family and large foreground child create a legible scale hierarchy, substantial white sky and structured rectangular picture-book border."
+        }
+      ],
+      "resolution": {
+        "width": 550,
+        "height": 843
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "riddell-door",
+      "artifact_id": "riddell-door-shadow",
+      "source_url": "https://api.pageplace.de/preview/DT0400.9781526634665_A40754289/preview-9781526634665_A40754289.pdf#page=19",
+      "media_url": "https://api.pageplace.de/preview/DT0400.9781526634665_A40754289/preview-9781526634665_A40754289.pdf#page=19",
+      "title": "Coraline illustrated preview PDF page 19",
+      "creator": "Chris Riddell / Bloomsbury",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "type",
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A tall white open doorway cuts through dense black crosshatching. Thin child and enormous elongated black shadow connect the domestic threshold to distorted identity; sparse palette and bright empty opening carry unease."
+        }
+      ],
+      "resolution": {
+        "width": 550,
+        "height": 843
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "making-doc",
+      "artifact_id": "making-doc",
+      "source_url": "https://www.youtube.com/watch?v=jXqqd0ZBEMA",
+      "media_url": "https://www.youtube.com/watch?v=jXqqd0ZBEMA",
+      "title": "Hand-Making Coraline: Behind LAIKA’s First Feature",
+      "creator": "LAIKA Studios",
+      "accessed_at": "2026-11-06",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sampled live playback spans include an inverted puppet head with glossy sculpted hair, tactile garden buds, manual craft handling and shower animation. Individual cloth, hair and plant surfaces retain distinct material identities. Documentary editing and film inserts do not establish a universal interface easing or rate."
+        }
+      ],
+      "resolution": {
+        "width": 1424,
+        "height": 1080
+      },
+      "timestamps": [
+        "142–171 seconds",
+        "285–327 seconds"
+      ],
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "armature-test",
+      "artifact_id": "armature-test",
+      "source_url": "https://www.laikahiddenworlds.com/coraline",
+      "media_url": "https://player.vimeo.com/video/806925063?h=48441a07d7&loop=1&autoplay=1",
+      "title": "Armature Test Video, Coraline, 2009",
+      "creator": "LAIKA Studios; armature test published by MoPOP / LAIKA",
+      "accessed_at": "2026-11-06",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A bare armature with finished head walks side-on across a gray studio field. Foot placement, opposing arm/leg poses and physical joint articulation show purposeful continuous character action; do not impose a crude 12fps stepped filter on all Coraline-derived motion."
+        }
+      ],
+      "resolution": {
+        "width": 1620,
+        "height": 1080
+      },
+      "timestamps": [
+        "loop sampled at 1.0025s and 1.4608s over repeated playback; media duration 4.254249s"
+      ],
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "rebuild-doc",
+      "artifact_id": "rebuild-doc",
+      "source_url": "https://www.youtube.com/watch?v=exRD3jFktGI",
+      "media_url": "https://www.youtube.com/watch?v=exRD3jFktGI",
+      "title": "Behind the Scenes: Rebuilding the Coraline Puppet",
+      "creator": "LAIKA Studios",
+      "accessed_at": "2026-11-06",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Contemporary restoration interview shows tiny hand sculpt and flexible arm structure, multiple physical puppets/costumes on a table, removable head/face handling and precise tiny gaps. Distinct new restoration recording, not another upload of the 2017 making-of. Supports material/craft scale, not invented web timing."
+        }
+      ],
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "timestamps": [
+        "211 seconds: hand/armature close-up",
+        "365–383 seconds: replacement-face/hair handling and demonstrators"
+      ],
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "choi-gourds",
+      "artifact_id": "choi-gourds",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=7",
+      "title": "Gourd and organic-object development sheet",
+      "creator": "Stef Choi",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Cream-ground sheet of irregular yellow, orange and green bulbous objects; curling stems, face-like marks, tapered necks and rough dry-brush texture. Treat as one authored development sheet, not dozens of separate artifacts. Establishes an organic playful variant without mandatory darkness."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "breton-threshold",
+      "artifact_id": "breton-threshold",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=12",
+      "title": "Porch and lower apartment threshold",
+      "creator": "Michel Breton (spread attribution in compilation)",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Desaturated gray-lilac porch crosses above sunken basement entrance, sloping wet path, crooked vertical supports and a black cat shape. Depth is generated by railings, stairs and overlapping domestic levels rather than saturated color."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "breton-bedroom",
+      "artifact_id": "breton-bedroom",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=15",
+      "title": "Attic bedroom with wardrobe",
+      "creator": "Michel Breton (opposite-page credit)",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Low ochre-brown attic room with slanted ceiling and long irregular floorboards; wrought bed, tall wardrobe, trunk and draped objects form a materially coherent domestic scene. Small green lights and distorted corners create unease without a purple field."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "uesugi-pink-house",
+      "artifact_id": "uesugi-pink-house",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=17",
+      "title": "Pink house exterior with curved rooflines",
+      "creator": "Tadahiro Uesugi",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Pink and white façade, violet roof and bushes, lime ground and broad white path. Broken white highlights, uneven railings and slightly bowed structural lines preserve drawing gesture. Distinct from previously viewed violet palace and rain-house works."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "schuhler-unpacking",
+      "artifact_id": "schuhler-unpacking",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=18",
+      "title": "Unpacking living room isometric concept",
+      "creator": "Andy Schuhler",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Cool gray-green parquet floor, pale patterned wallpaper, stacked boxes, leaning furniture, fireplace and oversized mirror compose a deliberately cockeyed isometric room. Exact layout differs from dining-room theatrical abundance. Domestic ordinary state has its own material detail."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "klassen-kitchen-pair",
+      "artifact_id": "klassen-kitchen-pair",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=14&viewrect=625,35,505,535",
+      "title": "Kitchen line/tone development pair",
+      "creator": "Jon Klassen",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Thin uneven room outlines, coffered ceiling, tiled floor and familiar kitchen appliances; companion colored study warms the same space with ochre lighting and decorative plate/pan borders. Counted as one paired design, not two color treatments."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "uesugi-hall",
+      "artifact_id": "uesugi-hall",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=20&viewrect=760,58,610,802",
+      "title": "Nested domestic hallway",
+      "creator": "Tadahiro Uesugi",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Warm cream and dusty rose corridor with repeated framed openings, bowed sketched columns, checkered floor and a very small figure. Linear depth and thresholds create a usable visual route."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "schuhler-piano",
+      "artifact_id": "schuhler-piano",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=21&viewrect=0,0,1040,710",
+      "title": "Other Father piano room",
+      "creator": "Andy Schuhler",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "An ordinary office is reimagined around a red grand piano, records, oversized speakers, turquoise vase and dissimilar chairs. Painterly broken outlines and magnified objects create seductive material abundance."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "uesugi-room-pair",
+      "artifact_id": "uesugi-room-pair",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=21&viewrect=0,723,1040,271",
+      "title": "Ordinary office / other living room companion paintings",
+      "creator": "Tadahiro Uesugi",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Two separately painted but deliberately paired rooms: cream-gray boxes and small desk versus violet piano, cobalt chairs, orange floor and dense yellow wallpaper. Conservatively counted as one paired artifact; defines doubled domesticity without requiring exact scene reproduction."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "klassen-basement",
+      "artifact_id": "klassen-basement",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=25&viewrect=25,128,747,372",
+      "title": "Basement tea room",
+      "creator": "Jon Klassen",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Muted olive-brown room has patterned floor, low beams, hanging garments, mismatched chairs and a small tea table. Warm domestic ritual sits inside a cramped eccentric volume; dense detail remains subordinate to central seated figures."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "appelhans-basement",
+      "artifact_id": "appelhans-basement",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=25&viewrect=18,529,552,331",
+      "title": "Basement warm-light scene",
+      "creator": "Chris Appelhans",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Rough exposed posts, wood floor, brick walls and a warm-lit sofa anchor a spare basement; miniature yellow-coated figure establishes scale. Different authored composition from Klassen version, not a colorization or alternate crop."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "krall-vortex",
+      "artifact_id": "krall-vortex",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=30",
+      "title": "Domestic fragments / ghost vortex",
+      "creator": "Dan Krall (composition attribution in compilation)",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Turquoise thread-like spirals surround floating bed, frames, furniture parts and ghost figures in black space. Broken household material becomes threat through loss of stable arrangement. Strong unsettling variant; never translate this into continuously moving task controls."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "krall-hallway",
+      "artifact_id": "krall-hallway",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=32&viewrect=0,0,800,840",
+      "title": "Aquarium-wall hallway concept",
+      "creator": "Dan Krall",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall jellyfish-like wall panels, jagged doorframe and animal-legged tables transform a hallway into a theatre of ordinary functions with impossible surfaces. Fine black crosshatching and severe perspective on white paper."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "krall-creature-room",
+      "artifact_id": "krall-creature-room",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=33",
+      "title": "Creature-furnished living room drawing",
+      "creator": "Dan Krall",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A distinct pen drawing from the skull-head room: fish-like chair, animal trophy furniture, tooth-edged doorway and a sun-like floor disc around a central tea service. Needle-like contours and long angular floor lines retain domestic organization."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "klassen-kitchen-scene",
+      "artifact_id": "klassen-kitchen-scene",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=35",
+      "title": "Diagonal kitchen / cooking scene",
+      "creator": "Jon Klassen",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "An independently drawn diagonal kitchen with a figure at the cooker, heavy pot rack, scalloped hood and curving chair backs; chalky ochre tone and tiny repeated floor hexagons create tactile fullness. Distinct action/composition from page14 central-perspective studies."
+        }
+      ],
+      "resolution": {
+        "width": 1432,
+        "height": 1050
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Analytical reference only; no permission to redistribute underlying artwork is asserted."
+    },
+    {
+      "record_id": "riddell-title",
+      "artifact_id": "riddell-family-portrait",
+      "source_url": "https://api.pageplace.de/preview/DT0400.9781526634665_A40754289/preview-9781526634665_A40754289.pdf#page=5",
+      "media_url": "https://api.pageplace.de/preview/DT0400.9781526634665_A40754289/preview-9781526634665_A40754289.pdf#page=5",
+      "title": "Coraline illustrated preview PDF page 5",
+      "creator": "Chris Riddell / Bloomsbury",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "type",
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Title-page figure repeats the family portrait pose and coat drawing, with parents and building omitted; conservative duplicate group with page11."
+        }
+      ],
+      "resolution": {
+        "width": 550,
+        "height": 843
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "duplicate_of": "riddell-family",
+      "handling": "Duplicate reproduction, excluded from the unique count."
+    },
+    {
+      "record_id": "riddell-cover",
+      "artifact_id": "riddell-family-portrait",
+      "source_url": "https://api.pageplace.de/preview/DT0400.9781526634665_A40754289/preview-9781526634665_A40754289.pdf#page=1",
+      "media_url": "https://api.pageplace.de/preview/DT0400.9781526634665_A40754289/preview-9781526634665_A40754289.pdf#page=1",
+      "title": "Coraline illustrated preview PDF page 1",
+      "creator": "Chris Riddell / Bloomsbury",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "type",
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cover uses violet lettering, blue-violet coat and house, yellow key/flowers and black cat. Conservatively group reused character/house composition with portrait rather than count color/crop differences independently."
+        }
+      ],
+      "resolution": {
+        "width": 550,
+        "height": 843
+      },
+      "generated": false,
+      "qualifying_example": true,
+      "duplicate_of": "riddell-family",
+      "handling": "Duplicate reproduction, excluded from the unique count."
+    },
+    {
+      "record_id": "art-rain-house-duplicate",
+      "artifact_id": "uesugi-rain-house",
+      "duplicate_of": "uesugi-rain-house",
+      "source_url": "https://animationobsessive.substack.com/p/the-unofficial-art-of-coraline",
+      "media_url": "https://archive.org/download/the-unofficial-art-of-coraline_202311/The%20Unofficial%20Art%20of%20Coraline.pdf#page=16",
+      "title": "Rain-house reproduction",
+      "creator": "Tadahiro Uesugi",
+      "accessed_at": "2026-11-06",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "spatial"
+          ],
+          "observation": "Right side repeats the already inspected AWN rain-house composition; larger reproduction does not create a new artwork."
+        }
+      ],
+      "generated": false,
+      "qualifying_example": true,
+      "handling": "Duplicate reproduction, excluded from the unique count."
+    }
+  ]
+}

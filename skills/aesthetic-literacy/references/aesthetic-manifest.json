@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 212,
+  "fullEntryCount": 213,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1535,6 +1535,16 @@
       "status": "canonical",
       "aliases": [
         "Orphic Cubism"
+      ]
+    },
+    {
+      "slug": "otherworld-domestic",
+      "label": "Otherworld Domestic",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "Coraline-inspired domestic uncanny",
+        "otherworld domestic design"
       ]
     },
     {
