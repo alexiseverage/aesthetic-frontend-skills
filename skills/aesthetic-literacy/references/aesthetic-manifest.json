@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 215,
+  "fullEntryCount": 216,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1702,6 +1702,16 @@
       "aliases": [
         "Pop",
         "Pop Art Movement"
+      ]
+    },
+    {
+      "slug": "pop-punk",
+      "label": "Pop-Punk",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Pop-Punk Graphics",
+        "Pop-Punk Merch Design"
       ]
     },
     {

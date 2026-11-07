@@ -6,7 +6,7 @@ description: >
   cottagecore, dark academia, etc.), wants to compare or disambiguate aesthetics, or needs
   formal characterization before producing design tokens or assets. Provides the 7-dimension
   framework (palette, type, texture, shape, motion, spatial conventions, cultural markers)
-  and a curated dictionary of 215 major aesthetics. Foundation for aesthetic-application.
+  and a curated dictionary of 216 major aesthetics. Foundation for aesthetic-application.
   Do not use for component implementation, layout, or accessibility decisions.
 metadata:
   version: "1.0.0"
@@ -51,7 +51,7 @@ metadata:
 
 ## Summary
 
-Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 215 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
+Gives an agent a structured framework for understanding named aesthetic movements as semiotic systems — not just visual preferences. Provides a 7-dimension decomposition model (palette, type, texture, shape, motion, spatial conventions, cultural markers) and a curated dictionary of 216 major aesthetics organized by family. Enables identification, characterization, disambiguation, and connotation-aware application of any named visual aesthetic.
 
 Used as the foundation for `aesthetic-application`.
 
@@ -126,11 +126,11 @@ Skill-local references for installed users:
 | **Historical Design Movements** | 63 | art-nouveau, art-deco, swiss-international, bauhaus, ulm-school, polish-poster-school, shaker-design, high-tech-architecture, prairie-school, beaux-arts, italian-radical-design, new-objectivity, japanese-metabolism, aesthetic-movement, memphis, brutalism, arts-and-crafts, vienna-secession, futurism, vorticism, suprematism, constructivism, de-stijl, streamline-moderne, wpa-poster-style, wartime-propaganda, scandinavian-modern, die-neue-typographie, mid-century-modern, pop-art, op-art, psychedelic, atomic-age, punk-zine, new-york-punk, new-wave-typography, grunge-typography, desktop-publishing, rave-flyer, city-pop, blue-note-jazz-modernism, chinoiserie, gothic-revival, wabi-sabi-slow-living, pierrotcore, plakatstil, shin-hanga, amsterdam-school, orphism, precisionism, mingei, biedermeier, german-romanticism, isotype, light-and-space, superflat, supergraphics, taisho-roman, insular-manuscript-illumination |
 | **Emerging / Hybrid** | 13 | agar-art, organic-digital, solarpunk, corporate-memphis, glassmorphism, neubrutalism, quiet-luxury (redirect → warm-minimalism), cybersigilism, scandi-noir, storybook-gothic, afrofuturism, otherworld-domestic |
 | **Technical / Institutional** | 20 | entomological-specimen-drawers, materia-medica-collections, polarized-crystal-photomicrography, neuroanatomical-ink-drawing, multisensory-room-design, high-performance-hmi, sports-scorebug, prescription-label-clarity, bloomberg-terminal-monochrome, cheminformatics-map-explorer, bubble-chamber-track-photography, chladni-resonance-patterns |
-| **Material / Print Craft** | 27 | emo, albarello-pharmacy-ceramics, haeckelian-biological-plates, klecksography-inkblot, anatomical-flap-atlases, risograph, harm-reduction-zine, queer-nightlife-ephemera, fairground-carnival-poster-art, skate-deck-screen-print, pichwai, fair-isle, cyanotype, ebru, paper-theatre, color-infrared-landscape, ndebele-mural-art, brazilian-cordel-woodcut |
+| **Material / Print Craft** | 28 | pop-punk, emo, albarello-pharmacy-ceramics, haeckelian-biological-plates, klecksography-inkblot, anatomical-flap-atlases, risograph, harm-reduction-zine, queer-nightlife-ephemera, fairground-carnival-poster-art, skate-deck-screen-print, pichwai, fair-isle, cyanotype, ebru, paper-theatre, color-infrared-landscape, ndebele-mural-art, brazilian-cordel-woodcut |
 | **Vernacular / Commercial** | 29 | mexican-rotulismo, guochao, konbini-utility, convenience-store-backoffice, b2b-quick-order-grid, lotto, casino, tiki-polynesian-pop, chicano-lowrider-art, board-game-box-art, trading-card-game-design, sticker-bomb-slap, bootleg-streetwear-logo-remix, fileteado-porteno, chicha-poster-graphics, alpine-winter-travel-posters, pakistani-truck-art, global-village-coffeehouse, heritage-motorsport-livery, ghanaian-mobile-cinema-posters |
 | **Speculative / Robotics** | 19 | cyberpunk, cassette-futurism, nanopunk, techno-noir, apple-core-tech, uncanny-android, dieselpunk, steampunk, post-apocalyptic-scavenged-tech, space-western, cute-tech, companion-bot, mecha-kaiju, anime-mecha-realism, biomechanical, chibi-mecha, used-future-weathering, fictional-user-interface-diegetic, tactical-sci-fi-utility-ui |
 
-*Full listing: see `aesthetics/` directory. 215 full entries and 1 redirect across 8 families.*
+*Full listing: see `aesthetics/` directory. 216 full entries and 1 redirect across 8 families.*
 
 Each entry specifies: palette, type, texture, shape, motion, spatial conventions, cultural markers, non-negotiables, connotation, and subsets/related aesthetics (where applicable). Fatigue notes appear where applicable.
 
