@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 231
+- Full entries: 241
 - Redirect entries: 1
 - Families: 8
 
@@ -45,8 +45,10 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `88x31-badge-webring` | 88×31 Badge & Webring Culture | 88x31 button, web badge, webring, 88x31 badge |
 | `ai-slop-synthetic-corporate-art` | AI Slop / Synthetic Corporate Art | AI slop, synthetic corporate art, AI-generated corporate illustration |
 | `browser-chrome-netscape` | Browser Chrome / Netscape-Era Browser UI | netscape chrome, 90s browser frame, browser chrome, throbber era |
+| `cd-rom-edutainment` | CD-ROM Edutainment Worlds | 1990s multimedia learning worlds, Illustrated CD-ROM learning interfaces |
 | `cloud-rap` | Cloud Rap | Cloud Rap Graphics, Cloud Rap Visuals |
 | `clowncore` | Clowncore | clown core, clowncore aesthetic |
+| `cyberdelic-editorial` | Cyberdelic Editorial | Cyberdelic magazine graphics, 1990s cyberculture editorial |
 | `demoscene` | Demoscene | Demo Scene |
 | `desktop-publishing` | Desktop Publishing / Early Mac Aesthetic | DTP aesthetic, Macintosh Bitmap Era, early Mac aesthetic, PageMaker aesthetic |
 | `digicore` | Digicore | Digicore Graphics, Digicore Visuals |
@@ -57,6 +59,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `frutiger-aero` | Frutiger Aero | — |
 | `glitch` | Glitch / Datamosh | — |
 | `hauntology` | Hauntology | cultural hauntology, lost-futures aesthetic, Ghost Box-adjacent |
+| `health-goth` | Health Goth | Healthgoth |
 | `hyperpop` | Hyperpop | Hyperpop Graphics, Hyper Pop Visuals |
 | `j-gov-futurism` | J-Gov Futurism | sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism, diegetic-bureaucratic-ui |
 | `jrpg-command-menus` | JRPG Command Menus | Japanese role-playing game menus, JRPG party menus |
@@ -65,11 +68,13 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `myspace-chaos` | MySpace Chaos | MySpace aesthetic, profile customization era |
 | `palm-os-monochrome` | Palm OS Monochrome | PalmPilot monochrome UI, Classic Palm OS monochrome interface |
 | `personal-homepage-builder` | Personal Homepage Builder / Site-Builder Wizard | site builder wizard, GeoCities PageBuilder, homepage builder UI, WYSIWYG web editor |
+| `seapunk` | Seapunk | Sea punk |
 | `skate-video-vhs-fisheye` | Skate Video VHS / Fisheye Title Cards | skate video aesthetic, VX1000 fisheye, VHS skate video, skate title cards |
 | `skeuomorphism` | Skeuomorphism | realistic UI, material mimicry |
 | `synthwave` | Synthwave / Retrowave | retrowave |
 | `vaporwave` | Vaporwave | vapor |
 | `vector-arcade-graphics` | Vector Arcade Graphics | Vector arcade display graphics, Vector-display arcade graphics |
+| `vectorbloom` | Vectorbloom | Digital botanical ornament |
 | `web-2-gloss` | Web 2.0 Gloss | Web 2.0 design, beta aesthetic |
 | `xlyk` | Xlyk | — |
 | `y2k` | Y2K | Y2K Futurism, Cyber Y2K |
@@ -130,6 +135,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `memphis` | Memphis / Post-Modern | Memphis-Milano, Memphis Design, Memphis Group |
 | `mid-century-modern` | Mid-century Modern | MCM, Mid-Century, Midcentury Modern, Atomic Ranch |
 | `mingei` | Mingei | Mingei movement, Japanese folk craft movement |
+| `neo-geo` | Neo-Geo | Neo-Geometric Conceptualism, 1980s Neo-Geo |
 | `new-objectivity` | New Objectivity / Neue Sachlichkeit | Neue Sachlichkeit, New Objectivity, Verism |
 | `new-wave-typography` | New Wave Typography / Swiss Punk | Swiss Punk, New Wave Design, Swiss New Wave, Weingart Style |
 | `new-york-punk` | New York Club Punk | 1970s New York punk graphics, CBGB-era band graphics, New York club punk design |
@@ -194,6 +200,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `spirit-photography-seance` | Spirit Photography Seance | spirit photography, seance cabinet card |
 | `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
 | `vintage-halloween-postcard` | Vintage Halloween Postcard | Halloween postcard, antique Halloween postcard |
+| `whole-earth-catalog-editorial` | Whole Earth Catalog Editorial | Whole Earth editorial vernacular, Whole Earth tool-catalog design |
 
 ## speculative-robotics
 
@@ -262,6 +269,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `classroom-bulletin-board-halloween` | Classroom Bulletin Board Halloween | school Halloween bulletin board, classroom Halloween |
 | `convenience-store-backoffice` | Convenience-Store Back-Office Grid | c-store backoffice, convenience store operations dashboard, fuel retail backoffice |
 | `dia-de-los-muertos-calavera-graphics` | Dia de los Muertos Calavera Graphics | Day of the Dead graphics, calavera graphics |
+| `disco-sleeve-graphics` | Disco Sleeve Graphics | 1970s disco record sleeves, Disco album graphics |
 | `fileteado-porteno` | Fileteado Porteño | Filete Porteño, Fileteado Porteno, Buenos Aires Fileteado |
 | `financial-newspaper-editorial` | Financial Newspaper Editorial | Financial press editorial design, Business newspaper editorial |
 | `ghanaian-mobile-cinema-posters` | Ghanaian Mobile-Cinema Posters | Ghanaian hand-painted film posters, Ghanaian movie posters, Ghana painted cinema posters |
@@ -274,8 +282,10 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `heritage-motorsport-livery` | Heritage Motorsport Livery | Classic racing livery, Vintage motorsport graphics, Historic race-car liveries |
 | `hotel-luggage-labels` | Hotel Luggage Labels | Vintage hotel luggage labels, Hotel baggage labels |
 | `konbini-utility` | Konbini Utility | Japanese convenience store utility, konbini design, convenience retail packaging utility |
+| `lomography` | Lomography | Lomographic photography |
 | `lotto` | Lotto Scratcher Commerce | scratch-off, scratch ticket, instant-win ticket, state lottery scratcher |
 | `mexican-rotulismo` | Mexican Rotulismo | Mexican Rótulos, rotulismo mexicano, Mexican rotulos, rótulo vernacular, hand-painted Mexican signs |
+| `nagel-era-fashion-illustration` | Nagel-era Fashion Illustration | Nagel illustration, Nagel poster aesthetic, 1980s planar fashion illustration |
 | `pakistani-truck-art` | Pakistani Truck Art | Pakistan Truck Art, Pakistani Truck Painting |
 | `plant-based-challenger-graphics` | Plant-Based Challenger Graphics | Plant-based challenger branding, Vegan challenger graphics |
 | `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |

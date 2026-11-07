@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 231,
+  "fullEntryCount": 241,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -447,6 +447,16 @@
       ]
     },
     {
+      "slug": "cd-rom-edutainment",
+      "label": "CD-ROM Edutainment Worlds",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "1990s multimedia learning worlds",
+        "Illustrated CD-ROM learning interfaces"
+      ]
+    },
+    {
       "slug": "cheminformatics-map-explorer",
       "label": "Cheminformatics Map Explorer",
       "family": "technical-institutional",
@@ -684,6 +694,16 @@
       ]
     },
     {
+      "slug": "cyberdelic-editorial",
+      "label": "Cyberdelic Editorial",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Cyberdelic magazine graphics",
+        "1990s cyberculture editorial"
+      ]
+    },
+    {
       "slug": "cyberpunk",
       "label": "Cyberpunk",
       "family": "speculative-robotics",
@@ -811,6 +831,16 @@
       "aliases": [
         "Digicore Graphics",
         "Digicore Visuals"
+      ]
+    },
+    {
+      "slug": "disco-sleeve-graphics",
+      "label": "Disco Sleeve Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "1970s disco record sleeves",
+        "Disco album graphics"
       ]
     },
     {
@@ -1217,6 +1247,15 @@
       ]
     },
     {
+      "slug": "health-goth",
+      "label": "Health Goth",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Healthgoth"
+      ]
+    },
+    {
       "slug": "heavy-metal",
       "label": "Heavy Metal",
       "family": "historical-design-movements",
@@ -1407,6 +1446,15 @@
       ]
     },
     {
+      "slug": "lomography",
+      "label": "Lomography",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Lomographic photography"
+      ]
+    },
+    {
       "slug": "lotto",
       "label": "Lotto Scratcher Commerce",
       "family": "vernacular-commercial",
@@ -1540,6 +1588,17 @@
       ]
     },
     {
+      "slug": "nagel-era-fashion-illustration",
+      "label": "Nagel-era Fashion Illustration",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Nagel illustration",
+        "Nagel poster aesthetic",
+        "1980s planar fashion illustration"
+      ]
+    },
+    {
       "slug": "nanopunk",
       "label": "Nanopunk",
       "family": "speculative-robotics",
@@ -1558,6 +1617,16 @@
       "aliases": [
         "Ndebele house painting",
         "Southern Ndebele mural painting"
+      ]
+    },
+    {
+      "slug": "neo-geo",
+      "label": "Neo-Geo",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Neo-Geometric Conceptualism",
+        "1980s Neo-Geo"
       ]
     },
     {
@@ -2001,6 +2070,15 @@
       ]
     },
     {
+      "slug": "seapunk",
+      "label": "Seapunk",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Sea punk"
+      ]
+    },
+    {
       "slug": "shaker-design",
       "label": "Shaker Design",
       "family": "historical-design-movements",
@@ -2364,6 +2442,15 @@
       ]
     },
     {
+      "slug": "vectorbloom",
+      "label": "Vectorbloom",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Digital botanical ornament"
+      ]
+    },
+    {
       "slug": "vienna-secession",
       "label": "Vienna Secession",
       "family": "historical-design-movements",
@@ -2459,6 +2546,16 @@
         "Whimsigoth",
         "Whimsical Mystical Gothic Celestial",
         "Whimsy Goth"
+      ]
+    },
+    {
+      "slug": "whole-earth-catalog-editorial",
+      "label": "Whole Earth Catalog Editorial",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Whole Earth editorial vernacular",
+        "Whole Earth tool-catalog design"
       ]
     },
     {
