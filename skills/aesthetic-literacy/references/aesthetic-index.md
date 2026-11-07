@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 217
+- Full entries: 218
 - Redirect entries: 1
 - Families: 8
 
@@ -149,6 +149,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `suprematism` | Suprematism | Suprematist, Malevich Abstraction |
 | `swiss-international` | Swiss / International Typographic Style | Swiss Style, International Typographic Style, Schweizer Typografie, Swiss / International Style |
 | `taisho-roman` | Taishō Roman | Taisho Roman, Taishō Romanticism, Taisho Romanticism |
+| `thrash-metal` | Thrash / Crossover Metal | Thrash Metal Graphics, Crossover Thrash Graphics |
 | `ulm-school` | Ulm School / HfG Ulm | HfG Ulm, Ulm School of Design, Hochschule für Gestaltung Ulm |
 | `vienna-secession` | Vienna Secession | Wiener Secession, Wiener Werkstätte, Secession Style |
 | `vorticism` | Vorticism | Vorticist, BLAST style |

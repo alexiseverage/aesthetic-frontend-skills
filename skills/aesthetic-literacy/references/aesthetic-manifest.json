@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 217,
+  "fullEntryCount": 218,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -2156,6 +2156,16 @@
         "Broadcast teletext",
         "Teletext design",
         "Ceefax-style teletext"
+      ]
+    },
+    {
+      "slug": "thrash-metal",
+      "label": "Thrash / Crossover Metal",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Thrash Metal Graphics",
+        "Crossover Thrash Graphics"
       ]
     },
     {
