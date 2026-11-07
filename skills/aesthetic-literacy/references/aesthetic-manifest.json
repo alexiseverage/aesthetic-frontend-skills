@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 216,
+  "fullEntryCount": 217,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1144,6 +1144,16 @@
         "cultural hauntology",
         "lost-futures aesthetic",
         "Ghost Box-adjacent"
+      ]
+    },
+    {
+      "slug": "heavy-metal",
+      "label": "Heavy Metal",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Heavy Metal Sleeve Art",
+        "Traditional Metal Graphics"
       ]
     },
     {

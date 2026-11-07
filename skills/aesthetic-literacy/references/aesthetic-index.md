@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 216
+- Full entries: 217
 - Redirect entries: 1
 - Families: 8
 
@@ -115,6 +115,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `german-romanticism` | German Romanticism | German Romantic Art, Deutsche Romantik |
 | `gothic-revival` | Gothic Revival | Victorian Gothic Revival, medievalist revival, Gothic Revival architecture |
 | `grunge-typography` | Grunge Typography | grunge design, Carson grunge, deconstructionist typography, Ray Gun aesthetic |
+| `heavy-metal` | Heavy Metal | Heavy Metal Sleeve Art, Traditional Metal Graphics |
 | `high-tech-architecture` | High-Tech Architecture / Structural Expressionism | Structural Expressionism, High-tech architecture, Hi-tech architecture |
 | `insular-manuscript-illumination` | Insular Manuscript Illumination | Insular illumination, Insular gospel-book ornament, Hiberno-Saxon manuscript illumination |
 | `isotype` | Isotype | ISOTYPE, Vienna Method of Pictorial Statistics, Wiener Methode der Bildstatistik, International System of Typographic Picture Education |
