@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 220,
+  "fullEntryCount": 221,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -502,6 +502,16 @@
         "clay UI",
         "puffy design",
         "soft 3D"
+      ]
+    },
+    {
+      "slug": "cloud-rap",
+      "label": "Cloud Rap",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Cloud Rap Graphics",
+        "Cloud Rap Visuals"
       ]
     },
     {

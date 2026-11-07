@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 220
+- Full entries: 221
 - Redirect entries: 1
 - Families: 8
 
@@ -45,6 +45,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `88x31-badge-webring` | 88×31 Badge & Webring Culture | 88x31 button, web badge, webring, 88x31 badge |
 | `ai-slop-synthetic-corporate-art` | AI Slop / Synthetic Corporate Art | AI slop, synthetic corporate art, AI-generated corporate illustration |
 | `browser-chrome-netscape` | Browser Chrome / Netscape-Era Browser UI | netscape chrome, 90s browser frame, browser chrome, throbber era |
+| `cloud-rap` | Cloud Rap | Cloud Rap Graphics, Cloud Rap Visuals |
 | `clowncore` | Clowncore | clown core, clowncore aesthetic |
 | `demoscene` | Demoscene | Demo Scene |
 | `desktop-publishing` | Desktop Publishing / Early Mac Aesthetic | DTP aesthetic, Macintosh Bitmap Era, early Mac aesthetic, PageMaker aesthetic |
