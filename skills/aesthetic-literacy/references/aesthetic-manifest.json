@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 218,
+  "fullEntryCount": 219,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1189,6 +1189,16 @@
         "Structural Expressionism",
         "High-tech architecture",
         "Hi-tech architecture"
+      ]
+    },
+    {
+      "slug": "hyperpop",
+      "label": "Hyperpop",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Hyperpop Graphics",
+        "Hyper Pop Visuals"
       ]
     },
     {

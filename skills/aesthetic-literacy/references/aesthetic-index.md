@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 218
+- Full entries: 219
 - Redirect entries: 1
 - Families: 8
 
@@ -55,6 +55,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `frutiger-aero` | Frutiger Aero | — |
 | `glitch` | Glitch / Datamosh | — |
 | `hauntology` | Hauntology | cultural hauntology, lost-futures aesthetic, Ghost Box-adjacent |
+| `hyperpop` | Hyperpop | Hyperpop Graphics, Hyper Pop Visuals |
 | `j-gov-futurism` | J-Gov Futurism | sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism, diegetic-bureaucratic-ui |
 | `liminal-space-backrooms` | Liminal Space / Backrooms | liminal spaces, Backrooms aesthetic, uncanny transitional architecture |
 | `material-design` | Material Design | Material, Material UI, MDL |
