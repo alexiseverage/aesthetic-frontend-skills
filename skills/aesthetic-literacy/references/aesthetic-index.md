@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 219
+- Full entries: 220
 - Redirect entries: 1
 - Families: 8
 
@@ -48,6 +48,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `clowncore` | Clowncore | clown core, clowncore aesthetic |
 | `demoscene` | Demoscene | Demo Scene |
 | `desktop-publishing` | Desktop Publishing / Early Mac Aesthetic | DTP aesthetic, Macintosh Bitmap Era, early Mac aesthetic, PageMaker aesthetic |
+| `digicore` | Digicore | Digicore Graphics, Digicore Visuals |
 | `dreamcore-weirdcore` | Dreamcore / Weirdcore | dreamcore, weirdcore, liminal dream edit |
 | `dvd-menu` | DVD Menu | DVD menu screen, DVD menu interface, DVD menu design, DVD-Video menu, interactive DVD menu, disc menu |
 | `early-internet` | Early Internet / Web 1.0 | webcore |

@@ -375,8 +375,8 @@ def test_aesthetic_literacy_index_includes_selected_aesthetics_and_count():
         encoding="utf-8"
     )
 
-    assert "curated dictionary of 219 major aesthetics" in text
-    assert "219 full entries and 1 redirect" in text
+    assert "curated dictionary of 220 major aesthetics" in text
+    assert "220 full entries and 1 redirect" in text
     for slug in SELECTED_AESTHETICS:
         assert slug in text
 

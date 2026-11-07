@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 219,
+  "fullEntryCount": 220,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -751,6 +751,16 @@
         "diesel punk",
         "interwar retrofuture",
         "WWII machine-age retrofuture"
+      ]
+    },
+    {
+      "slug": "digicore",
+      "label": "Digicore",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Digicore Graphics",
+        "Digicore Visuals"
       ]
     },
     {
