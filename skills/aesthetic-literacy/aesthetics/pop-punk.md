@@ -30,7 +30,7 @@ Use it for band campaigns, tour shops, merchandise configurators, fan-club publi
 
 **Shape**: Memorable mascots, exaggerated poses, badge/oval compositions, bursts, sticker-like outlines, title circles, square sleeves and photographic cutouts. A specific rabbit, smile/arrows, heart grenade or band's wordmark is owned identity, not a universal asset. An original character can carry humor without imitating a famous mascot.
 
-**Motion**: The researched graphic artifacts are stills. A drawn skating pose does not establish animated timing, and a static platform preview does not establish a video sequence. Intentional stillness and short user-triggered product feedback suit the application. Proposed 100–160ms colour changes are modern UI decisions; reduced motion removes transitions while preserving state.
+**Motion**: The researched graphic artifacts are stills. A drawn skating pose does not establish animated timing, and a static platform preview does not establish a video sequence. Intentional stillness and short user-triggered product feedback suit the application. Proposed 100–160 ms colour changes are modern UI decisions; reduced motion removes transitions while preserving state.
 
 **Spatial**: A strong central illustration/name or carefully placed photographic panel with a clear supporting information tier. Busy crowd scenes often keep a comparatively open title/sky area; sparse covers are real counterexamples. Badge boundaries and repeated identity make merchandise collectible. Give controls a stable grid even when decorative lettering tilts.
 
@@ -68,7 +68,7 @@ Keep native radio/checkbox/select behavior, visible focus, clear quantities and 
 ## CSS Translation
 
 - Proposed illustrated-branch tokens: ink `#171b19`, warm yellow `#f7da46`, cream `#fff9e8`, forest `#174b38`, pink `#f5a8c9`. These are new application values, not measured historical inks.
-- Use thick 2–3px borders, mostly square product panels, hard offset shadows and a few deliberately angled decorative labels. Keep controls upright.
+- Use thick 2–3 px borders, mostly square product panels, hard offset shadows and a few deliberately angled decorative labels. Keep controls upright.
 - A large italic heavy sans title with compressed leading can evoke merch identity; use a plain sans for prices, stock and instructions.
 - Bound art within its own colourful field. Avoid checkerboard or distress overlays that interfere with text. Let the illustration provide detail.
 - Desktop may pair an oversized character stage with a narrower configuration panel; narrow screens stack without reducing touch targets.

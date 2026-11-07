@@ -71,8 +71,8 @@ All controls must affect real state. Trigger audio only on an explicit action, a
 - Proposed glossy-branch roles: ink `#171235`, cobalt `#233caa`, pink `#f8d8e8`, ice `#e7f5fc`, acid `#d6fb6c`, white `#fffafc`. These are application decisions, not sampled source inks.
 - Reserve reflective gradients or outlined extended lettering for one short identity. Put functional text on solid cobalt, ice or pink with verified contrast.
 - Combine a large contained original object with square instrument modules and small pill indicators; do not make every control an unrecognizable blob.
-- Use a 4/8px rhythm, 16px body/control text, roughly 44px targets and obvious 3px focus rings. Stack the rail below the intact object on small screens.
-- Proposed feedback can use 180ms colour changes and one finite gentle object lift after play. Reduced motion removes transforms/transitions; sound remains explicitly controlled and optional.
+- Use a 4/8 px rhythm, 16 px body/control text, roughly 44 px targets and obvious 3 px focus rings. Stack the rail below the intact object on small screens.
+- Proposed feedback can use 180 ms colour changes and one finite gentle object lift after play. Reduced motion removes transforms/transitions; sound remains explicitly controlled and optional.
 
 ## Typography / Fonts
 

@@ -71,8 +71,8 @@ Use native details or accessible buttons, obvious selection, useful next/previou
 - Use one original rich painting and restrained metallic borders/highlights. Put essential text on solid navy/slate panels, not directly on complex clouds or fire.
 - A short heavy outlined/metallic name may carry identity; plain sans or serif text carries metadata and story. Keep decorative gradient stops sufficiently bright for contrast.
 - Preserve focal geometry and full-scene scale. Use intrinsic image dimensions and responsive sources; stack annotation panels instead of clipping the story.
-- Thin double rules, square panels and controlled 2–4px relief can suggest a sleeve/booklet. Avoid giving every control an ornate bevel.
-- Proposed feedback may use 100–160ms colour transitions. Reduced motion removes them; no automatic lightning, zoom, smoke or flashing is required.
+- Thin double rules, square panels and controlled 2–4 px relief can suggest a sleeve/booklet. Avoid giving every control an ornate bevel.
+- Proposed feedback may use 100–160 ms colour transitions. Reduced motion removes them; no automatic lightning, zoom, smoke or flashing is required.
 
 ## Typography / Fonts
 

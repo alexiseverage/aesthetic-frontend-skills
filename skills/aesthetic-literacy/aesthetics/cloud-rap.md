@@ -71,10 +71,10 @@ Keep image text available as HTML labels/descriptions. Validate and bound user t
 
 - Proposed dark studio roles: ink `#131327`, panel `#25213e`, violet `#cbc3f2`, paper `#f2effb`, citrus `#e2f7a1`, muted `#bdb4d3`, border `#746989`. These are new application choices, not recovered pigments.
 - Use one original image field or quiet synthetic space against solid readable controls. Subtle grain belongs to imagery; decorative glow should not obscure essential text or focus.
-- Large custom-treated system sans identity can use a silver gradient/outline with sufficient luminance; pair it with 16px sans body and 12–14px mono metadata. Essential reading never depends on tiny source lettering.
-- Fine 1px rules, square image bounds, 4–8px control corners, 4/8/16/24px spacing and roughly44px targets distinguish image versus tool planes.
+- Large custom-treated system sans identity can use a silver gradient/outline with sufficient luminance; pair it with 16 px sans body and 12–14 px mono metadata. Essential reading never depends on tiny source lettering.
+- Fine 1 px rules, square image bounds, 4–8 px control corners, 4/8/16/24 px spacing and roughly 44 px targets distinguish image versus tool planes.
 - Container queries should stack narrow embedded/gallery placements as well as mobile viewports. Preserve full image and meaningful title/credit information.
-- Proposed feedback: at most120ms colour changes, no ambient movement. Reduced motion removes transitions. No auto-pan, strobe, automatic audio or invented fake waveform.
+- Proposed feedback: at most 120 ms colour changes, no ambient movement. Reduced motion removes transitions. No auto-pan, strobe, automatic audio or invented fake waveform.
 
 ## Typography / Fonts
 
@@ -96,4 +96,4 @@ Public access, uploader verification and archival hosting do not establish reuse
 
 ## Source Notes
 
-The [research profile](../../../knowledge/aesthetics/cloud-rap.md) audits30 unique works,27 stills/3 actual videos, with edition, attribution and timing limits. Key firsthand sources include [Clams on his marble cover](https://www.villagevoice.com/qa-lil-b-producer-clams-casino-on-his-beautifully-bizarre-sound-his-new-mixtape-and-the-name-hes-now-stuck-with/), [Keyboard Kid](https://www.factmag.com/2012/02/20/keyboard-kid-on-based-life-and-building-beats-for-lil-b/), [Friendzone](https://web03125.microsites03.redbull.com/2013/09/friendzone-interview/), [Laurence's visual direction](https://www.killscreen.com/friendzone-q/), [Marra/Lil B's cover concepts](https://www.spinmagazine.com/2012/03/meet-lil-b-and-madlib-cover-artist-benjamin-marra/) and [Sad Boys' own account](https://www.thefader.com/2014/07/16/taking-arizona-iced-tea-and-making-it-cry-an-interview-with-yung-lean-and-the-sad-boys). They support bounded claims, not one universal visual formula.
+The [research profile](../../../knowledge/aesthetics/cloud-rap.md) audits 30 unique works, 27 stills / 3 actual videos, with edition, attribution and timing limits. Key firsthand sources include [Clams on his marble cover](https://www.villagevoice.com/qa-lil-b-producer-clams-casino-on-his-beautifully-bizarre-sound-his-new-mixtape-and-the-name-hes-now-stuck-with/), [Keyboard Kid](https://www.factmag.com/2012/02/20/keyboard-kid-on-based-life-and-building-beats-for-lil-b/), [Friendzone](https://web03125.microsites03.redbull.com/2013/09/friendzone-interview/), [Laurence's visual direction](https://www.killscreen.com/friendzone-q/), [Marra/Lil B's cover concepts](https://www.spinmagazine.com/2012/03/meet-lil-b-and-madlib-cover-artist-benjamin-marra/) and [Sad Boys' own account](https://www.thefader.com/2014/07/16/taking-arizona-iced-tea-and-making-it-cry-an-interview-with-yung-lean-and-the-sad-boys). They support bounded claims, not one universal visual formula.

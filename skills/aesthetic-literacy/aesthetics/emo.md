@@ -69,8 +69,8 @@ Use native forms and disclosures, visible selection, useful empty/reset states a
 - Quiet-branch proposed roles: paper `#f5efdf`, ink `#27232a`, oxblood frame `#38202c`, red accent `#8f2940`, blue `#324b66`. These are application tokens, not sampled historic inks.
 - Let bounded photographs, a cloth/paper frame or a small original ink ornament supply material; avoid a fixed noise overlay on labels and body text.
 - Use thin rules, mostly square edges and an asymmetric editorial grid. Stack contents and reading panels on narrow screens; preserve whole image composition when it is meaningful.
-- Start body text around 15–17px with 1.6–1.8 line height and a comfortable measure. Preserve contrast even when source text is faint or tiny.
-- Proposed feedback may use 100–160ms colour changes; reduced motion removes them. No jitter or flashing is required by the static evidence.
+- Start body text around 15–17 px with 1.6–1.8 line height and a comfortable measure. Preserve contrast even when source text is faint or tiny.
+- Proposed feedback may use 100–160 ms colour changes; reduced motion removes them. No jitter or flashing is required by the static evidence.
 
 ## Typography / Fonts
 

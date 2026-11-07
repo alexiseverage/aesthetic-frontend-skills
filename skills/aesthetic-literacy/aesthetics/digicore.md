@@ -71,10 +71,10 @@ Native search/select controls, named keyboard-operable item buttons and a revers
 
 - Proposed quiet-folder roles: ink `#202521`, paper `#e4e9df`, muted text `#485447`, olive `#526744`, violet `#6e477e`, pale green `#d1e4a7`, white `#fafbf6`. These are new application values, not recovered source pigments.
 - Use one original grainy photograph or small drawing beside a disciplined file/credit structure. Solid paper panels and thin dark rules preserve reading clarity; avoid a noisy overlay over controls.
-- A new serif/italic identity can sit beside 12–16px monospace metadata and 16px sans body text. Small source lettering is not a reason to shrink essential instructions.
-- Square or 2–4px corners, 1px rules, dotted separators and a 4/8px spacing rhythm can suggest a provisional archive. Keep roughly 44px targets and a visible 3px focus treatment.
+- A new serif/italic identity can sit beside 12–16 px monospace metadata and 16 px sans body text. Small source lettering is not a reason to shrink essential instructions.
+- Square or 2–4 px corners, 1 px rules, dotted separators and a 4/8 px spacing rhythm can suggest a provisional archive. Keep roughly 44 px targets and a visible 3 px focus treatment.
 - Use container-aware stacking for narrow gallery/embedded placements as well as small viewports. Retain full artwork and meaningful file labels.
-- Proposed feedback: immediate local state changes with at most 120ms colour transitions. Reduced motion removes transitions; no shake, automatic scrolling, fake waveform, strobe or ambient glitch loop.
+- Proposed feedback: immediate local state changes with at most 120 ms colour transitions. Reduced motion removes transitions; no shake, automatic scrolling, fake waveform, strobe or ambient glitch loop.
 
 ## Typography / Fonts
 

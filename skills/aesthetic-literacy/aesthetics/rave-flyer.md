@@ -66,7 +66,7 @@ Pair original event artwork with clear date, time, venue, age/arrival and access
 - Use a bounded original illustration or procedural optical graphic with essential event text in HTML.
 - Condensed or tightly spaced display lettering may use a controlled outline/offset shadow; body copy stays solid and comfortably sized.
 - Separate image, schedule and booking with printed rules, numbered sections and occasional bursts. Use grid for alignment, not arbitrary overlapping controls.
-- Feedback can be 120–180ms colour/opacity changes. Preserve the static composition and all state changes under `prefers-reduced-motion`; no strobe or perpetual hue cycle is necessary.
+- Feedback can be 120–180 ms colour/opacity changes. Preserve the static composition and all state changes under `prefers-reduced-motion`; no strobe or perpetual hue cycle is necessary.
 
 ## Typography / Fonts
 

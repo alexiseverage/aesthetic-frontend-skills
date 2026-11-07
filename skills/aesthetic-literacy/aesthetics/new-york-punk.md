@@ -68,7 +68,7 @@ Make a useful club board or band publication: a complete original portrait/poste
 - Use original photography/illustration or a deliberate halftone asset for the main visual. Keep its complete subject composition; preserve readable HTML for names, dates and actions.
 - Large consistent display capitals or a short hand-lettered mark can carry identity. Use ordinary sans or monospace support text with clear spacing.
 - Align event dates, artist names and availability in ruled rows. Apply a slight poster tilt or rough edge only when it serves the chosen branch, never to inputs or critical information.
-- Proposed feedback: 100–160ms colour changes, immediate search/filter state and native details. Reduced motion retains the static bill and all functional states.
+- Proposed feedback: 100–160 ms colour changes, immediate search/filter state and native details. Reduced motion retains the static bill and all functional states.
 
 ## Typography / Fonts
 

@@ -69,10 +69,10 @@ Provide keyboard-operable move buttons instead of requiring drag, labeled native
 
 - Proposed comic crew-sheet roles: ink `#15151b`, ivory `#f4efd8`, acid `#c6ef38`, violet `#6336a8`, orange `#ff8654`. These are new application values, not recovered historic inks.
 - Put a large slanted condensed name over a solid field, with restrained dark outline/offset relief. Use one original illustration and broad flat time panels; do not fill every button with flames.
-- Square 0–3px corners, 2px dark rules, 4px offset shadows and a compact 8px spacing rhythm can quote print. Keep decoration outside focus rings and text.
-- Use tabular numerals for time, 16px readable input/prose text and visible 3px focus outlines. Provide roughly 44px control targets even where the printed reference is crowded.
+- Square 0–3 px corners, 2 px dark rules, 4 px offset shadows and a compact 8 px spacing rhythm can quote print. Keep decoration outside focus rings and text.
+- Use tabular numerals for time, 16 px readable input/prose text and visible 3 px focus outlines. Provide roughly 44 px control targets even where the printed reference is crowded.
 - Preserve the full illustration with intrinsic dimensions and responsive sources. At narrow widths, stack image, summary and row fields; maintain table/header associations.
-- Proposed feedback: 120ms colour/border changes, no automatic shake, flashing, parallax or countdown. Reduced motion sets transitions to none.
+- Proposed feedback: 120 ms colour/border changes, no automatic shake, flashing, parallax or countdown. Reduced motion sets transitions to none.
 
 ## Typography / Fonts
 

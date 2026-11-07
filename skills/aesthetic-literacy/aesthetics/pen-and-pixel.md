@@ -66,7 +66,7 @@ Build a usable album-release or record-store surface: a complete original cover,
 - Use an actual original composite for the image's subject, objects and perspective. CSS text gradients cannot substitute for that work.
 - Bound the spectacle with a sleeve-like frame; use occasional embossed rules, inset panels or foil badges around readable controls.
 - Build depth inside the artwork; outside it, align edition, price and action without decorative overlap.
-- Proposed feedback: 120–200ms color/opacity changes; no flashing, mandatory animation or endlessly rotating jewelry. Reduced motion retains the still artwork and textual status.
+- Proposed feedback: 120–200 ms color/opacity changes; no flashing, mandatory animation or endlessly rotating jewelry. Reduced motion retains the still artwork and textual status.
 
 ## Typography / Fonts
 
