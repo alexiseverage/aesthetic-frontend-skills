@@ -1,0 +1,1368 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "FN01",
+      "artifact_id": "financial-edition-financial-times-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/financial-times-235903g3p8y29.webp",
+      "sha256": "feb37a7b830a3ae516555eab7e14123e0900cb2d7bfc1b3d68330f68554e2484",
+      "resolution": {
+        "width": 1195,
+        "height": 1942
+      },
+      "source_url": "https://www.frontpages.com/financial-times/",
+      "title": "financial-times — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Salmon paper, gigantic contrasting serif weekend masthead, photo-led upper feature/right rail, dense ruled financial article columns and small bottom market table."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN02",
+      "artifact_id": "financial-edition-australian-financial-review-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/australian-financial-review-23503486x6ner.webp",
+      "sha256": "6853b8316384d2ef0d0d679d4d92e77c1785a3a7ef79560243f5fc2980fb1d1d",
+      "resolution": {
+        "width": 751,
+        "height": 1094
+      },
+      "source_url": "https://www.frontpages.com/australian-financial-review/",
+      "title": "australian-financial-review — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White newsprint, cyan/black serif masthead, large multicolor comparative line chart with direct endpoint labels over main headline, ruled article columns and footer ad."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN03",
+      "artifact_id": "financial-edition-the-business-times-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/the-business-times-000625jahao2o.webp",
+      "sha256": "8d839cb5ff6087dc3edc31929e19280b72489fb0d5b3c58f41e2075d73fa181a",
+      "resolution": {
+        "width": 1200,
+        "height": 1599
+      },
+      "source_url": "https://www.frontpages.com/the-business-times/",
+      "title": "the-business-times — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black serif masthead with cyan weekend label, red sectional teaser bands, dominant architectural night photo, four column news briefs below; feature-led density exception."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN04",
+      "artifact_id": "financial-edition-the-economic-times-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/the-economic-times-064753zb560c7.webp",
+      "sha256": "dab07c9e63d171e3ac07cbde7bd90e1b2fa7d24ddc62408f9afb3994306d3856",
+      "resolution": {
+        "width": 1200,
+        "height": 1913
+      },
+      "source_url": "https://www.frontpages.com/the-economic-times/",
+      "title": "the-economic-times — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White/very pale warm paper, dark serif masthead, red headline/kicker blocks, narrow multiple story columns, economic tables and charts nested beside prose."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN05",
+      "artifact_id": "financial-edition-businessday-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/businessday-0708487zp5xy4.webp",
+      "sha256": "ec0553cf6c3bdb06a2c11fc6cafbfa490c14e4841e56ef9c5de4effdf8f939ea",
+      "resolution": {
+        "width": 1200,
+        "height": 1737
+      },
+      "source_url": "https://www.frontpages.com/businessday/",
+      "title": "businessday — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White rectangular red/black masthead blocks, broad main serif headline/photo, upper compact numeric market tables, side article column, separated bottom ad."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN06",
+      "artifact_id": "financial-edition-business-day-za-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/business-day-za-000659eztdgjx.webp",
+      "sha256": "a294b33d5e7cb352326c2844b4922d655fca5e84abaed9688d52d7e0f60f735c",
+      "resolution": {
+        "width": 1200,
+        "height": 2227
+      },
+      "source_url": "https://www.frontpages.com/business-day-za/",
+      "title": "business-day-za — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Tall white page, giant black/red serif two-line masthead, heavy horizontal rule, large main headline, narrow prose columns with green market chart sidebar and bottom story."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN07",
+      "artifact_id": "financial-edition-the-business-standard-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/the-business-standard-010344ca740mi.webp",
+      "sha256": "ce08f32372191656e4895341578e223a46bfb2056f865bca63074f17b63f48d2",
+      "resolution": {
+        "width": 1200,
+        "height": 2033
+      },
+      "source_url": "https://www.frontpages.com/the-business-standard/",
+      "title": "the-business-standard — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black serif TBS with pale cyan Saturday label, big headline and numeric infographic, smaller ruled columns, photo and colored chart modules; large adjacent advertisement."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN08",
+      "artifact_id": "financial-edition-gulf-times-business-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/gulf-times-business-051844cn01k0t.webp",
+      "sha256": "31297ccfcc8d6f0c57312ec9ff6f2e15479187e8d114d1ea1ccc9d3ab1c43e52",
+      "resolution": {
+        "width": 1137,
+        "height": 2007
+      },
+      "source_url": "https://www.frontpages.com/gulf-times-business/",
+      "title": "gulf-times-business — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark blue slab masthead, white paper, large serif headline with several prose columns, pale tinted sidebars and thin photo-caption treatment."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN09",
+      "artifact_id": "financial-edition-vietnam-investment-review-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/02/vietnam-investment-review-000754qfv63ir.webp",
+      "sha256": "2eca6142f9eb8e02c8cb20f03f8da5aa869dbbb014fa3c75a56b1a9ce2b552c5",
+      "resolution": {
+        "width": 1200,
+        "height": 1661
+      },
+      "source_url": "https://www.frontpages.com/vietnam-investment-review/",
+      "title": "vietnam-investment-review — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue serif masthead, green index/kickers, dominant conference photograph, large sans main headline, narrow left briefs and bottom section index."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN10",
+      "artifact_id": "financial-edition-malta-business-weekly-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/05/malta-business-weekly-024330pov1vsk.webp",
+      "sha256": "392723fab431062d40b4fb7ad8788b7d074cd8df4ebc139dbebfb69df0f0cfad",
+      "resolution": {
+        "width": 1200,
+        "height": 1688
+      },
+      "source_url": "https://www.frontpages.com/malta-business-weekly/",
+      "title": "malta-business-weekly — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red/gray rectangular serif masthead, broad serif main headline/photo, slim right opinion column with portraits, large clearly separate blue advertising rectangle."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN11",
+      "artifact_id": "financial-edition-dagens-naeringsliv-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/dagens-naeringsliv-0003167gv64aj.webp",
+      "sha256": "33869861f017a669b795b2dfeaa4d5af7ae8cb1f44ee984f5deef3836fe391fb",
+      "resolution": {
+        "width": 731,
+        "height": 1086
+      },
+      "source_url": "https://www.frontpages.com/dagens-naeringsliv/",
+      "title": "dagens-naeringsliv — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Weekend financial cover: salmon vertical masthead rail, dominant portrait with red falling graph stroke and condensed white headline, tiny market strip; no required full text grid."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN12",
+      "artifact_id": "financial-edition-svd-naringsliv-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/svd-naringsliv-064304v29901d.webp",
+      "sha256": "9940eeadf98197b5bf95cdbfcfe806fa956882b7181d86022289a472962b560c",
+      "resolution": {
+        "width": 482,
+        "height": 650
+      },
+      "source_url": "https://www.frontpages.com/svd-naringsliv/",
+      "title": "svd-naringsliv — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small complete 482x650 financial section front: black serif masthead, magenta teaser band and miniature chart pair, large trading-floor photograph, headline below and separate bottom ad; fine prose not resolved."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN13",
+      "artifact_id": "financial-edition-les-echos-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/les-echos-094408v0b1mf5.webp",
+      "sha256": "46014fd42d1dfba6827ab0211af9e4a41dcddbccbbdd3e4ae16d0621ac58c609",
+      "resolution": {
+        "width": 1200,
+        "height": 1764
+      },
+      "source_url": "https://www.frontpages.com/les-echos/",
+      "title": "les-echos — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White, black serif masthead, red rules/kickers and teaser blocks, huge headline above photo, serif editorial inset and slim right story/ad rail."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN14",
+      "artifact_id": "financial-edition-handelsblatt-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/handelsblatt-090449sp989gb.webp",
+      "sha256": "df49b93dd54c94d62480fe70db13a8b351d0cf6bff76cc05526465f8a1460c3d",
+      "resolution": {
+        "width": 1200,
+        "height": 1643
+      },
+      "source_url": "https://www.frontpages.com/handelsblatt/",
+      "title": "handelsblatt — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Orange full-bleed weekend cover with painterly figure and blue wave, small serif headline beneath orange-on-white masthead; cover exception to compulsory tables/columns."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN15",
+      "artifact_id": "financial-edition-valor-economico-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/valor-economico-053831yi22k0s.webp",
+      "sha256": "3276a2b01512071ca0bf057d3cf85faf7a1aa063884ffd929bdb13db6bf7bf13",
+      "resolution": {
+        "width": 1200,
+        "height": 2126
+      },
+      "source_url": "https://www.frontpages.com/valor-economico/",
+      "title": "valor-economico — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Teal serif masthead, black rules, compact top teasers, tall serif main headline, narrow text columns around large photo and small lower indicator table."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN16",
+      "artifact_id": "financial-edition-hong-kong-economic-journal-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/hong-kong-economic-journal-00050281j4h7k.webp",
+      "sha256": "c333d132b20ff31f65d921dc9648b67b84d8556e11d3d2bfe0f8546d99c28dfe",
+      "resolution": {
+        "width": 1200,
+        "height": 2038
+      },
+      "source_url": "https://www.frontpages.com/hong-kong-economic-journal/",
+      "title": "hong-kong-economic-journal — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Chinese calligraphic red masthead with black subtype, large black headline, blue composite chart/photo module, tight multicolumn text and right stock table. No exact CJK font identified."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN17",
+      "artifact_id": "financial-edition-commercial-times-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/commercial-times-000633zt95s2f.webp",
+      "sha256": "8ba647bc98e6b3abc41692c3b8397056f24a20fddeb6f6d75321aafa66be5a1a",
+      "resolution": {
+        "width": 1200,
+        "height": 2077
+      },
+      "source_url": "https://www.frontpages.com/commercial-times/",
+      "title": "commercial-times — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Chinese red square masthead, massive heavy black sans headline, cyan/pale yellow data tables, narrow prose columns, bottom index strip; sans display counterexample."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN18",
+      "artifact_id": "financial-edition-het-financieele-dagblad-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/het-financieele-dagblad-040040wmb43ys.webp",
+      "sha256": "592fcbf542e1babbf3e09b0046bd923693eb3914c88e984382dd38f8320ed81f",
+      "resolution": {
+        "width": 993,
+        "height": 1470
+      },
+      "source_url": "https://www.frontpages.com/het-financieele-dagblad/",
+      "title": "het-financieele-dagblad — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Salmon financial weekend front, top arrow/value market strip, photo-led masthead, large serif headline and teal bullets/line illustration. Published lower prose intentionally blurred: not evidence for exact body type or content."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN19",
+      "artifact_id": "financial-edition-expansion-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/expansion-080815c8v2lo1.webp",
+      "sha256": "8e31c86d825d0522cf3cb06d4d1eeddc1897037319c8198f8672ea59edbbf700",
+      "resolution": {
+        "width": 1200,
+        "height": 1581
+      },
+      "source_url": "https://www.frontpages.com/expansion/",
+      "title": "expansion — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Warm peach paper, giant black serif masthead, cyan and red accents, large serif principal headline beside portrait, narrow right brief rail and line chart inset."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN20",
+      "artifact_id": "financial-edition-naftemporiki-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/naftemporiki-013043dfx46qp.webp",
+      "sha256": "4419ce7cff02fd71c7e55e563c87e95eaf68a36a48509d5cbe7bb7edec072476",
+      "resolution": {
+        "width": 1200,
+        "height": 1492
+      },
+      "source_url": "https://www.frontpages.com/naftemporiki/",
+      "title": "naftemporiki — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White Greek financial front, condensed black masthead, huge serif main headline, blue teaser strip, ruled narrow prose around numeric callout, large map and bottom market strip."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN21",
+      "artifact_id": "financial-edition-bursa-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/bursa-000640vh79q6x.webp",
+      "sha256": "3daac1d8882dba62792a5adc4dcca68a55e6ff5f8c2f6aff08d07e05ae8387f6",
+      "resolution": {
+        "width": 1200,
+        "height": 2128
+      },
+      "source_url": "https://www.frontpages.com/bursa/",
+      "title": "bursa — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White Romanian business front, thin tall masthead and gold ribbon, red values in market strip, large light serif headline, narrow article columns around large industrial image."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN22",
+      "artifact_id": "financial-edition-el-financiero-mexico-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/el-financiero-mexico-0843217wl3a25.webp",
+      "sha256": "face876d9219551d6e9aa0330afb39b4eda4c6e56895ad1cc761072dcfe8bbce",
+      "resolution": {
+        "width": 1200,
+        "height": 1561
+      },
+      "source_url": "https://www.frontpages.com/el-financiero-mexico/",
+      "title": "el-financiero-mexico — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue reversed white serif masthead, giant mixed upright/italic black headline, red editorial rail, cyan line charts with visible values and axis dates, multiple article modules."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN23",
+      "artifact_id": "financial-edition-el-economista-mexico-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/el-economista-mexico-093814duf1rhq.webp",
+      "sha256": "1c35b1e496f79a2f2ebaeac2defc58bd3326896ea457698b47f7bce6bed53eae",
+      "resolution": {
+        "width": 1200,
+        "height": 1430
+      },
+      "source_url": "https://www.frontpages.com/el-economista-mexico/",
+      "title": "el-economista-mexico — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Salmon Mexican financial front, black serif masthead with teal emblem, large central serif headline, several turquoise/yellow charts and tiny prose; strong numeric rather than photo hierarchy."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN24",
+      "artifact_id": "financial-edition-ziarul-financiar-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/ziarul-financiar-000757hrbw0z6.webp",
+      "sha256": "bc4378a09164772283ce2b8cf89e395fc94cdb67ceccbe960916395cd99a2f91",
+      "resolution": {
+        "width": 1200,
+        "height": 1772
+      },
+      "source_url": "https://www.frontpages.com/ziarul-financiar/",
+      "title": "ziarul-financiar — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Deep red serif masthead with black lion mark, large thin serif central title, narrow prose columns, quotation rail and event photo; turquoise and pale yellow modular index strip."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN25",
+      "artifact_id": "financial-edition-o-jornal-economico-2026-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/06/o-jornal-economico-060035ibs6213.webp",
+      "sha256": "7279f08c8e5a6670375c83ff2fabaaf0378d3130750f07c07876ebe7d26ba134",
+      "resolution": {
+        "width": 1200,
+        "height": 1597
+      },
+      "source_url": "https://www.frontpages.com/o-jornal-economico/",
+      "title": "o-jornal-economico — November 2026 edition",
+      "creator": "Publisher editorial staff; individual design attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red masthead rectangle, large black serif headline, ruled tinted secondary headlines, photo-led lower story, yellow right briefs rail and small portraits."
+        }
+      ],
+      "limitations": "Full original front-page rendition only, not whole newspaper read. Source edition date checked on visible page; aggregation date can differ. No article facts or financial values reused."
+    },
+    {
+      "record_id": "FN26",
+      "artifact_id": "financial-broadsheet-FN26",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/05/city-am-085231xzydnrb.webp",
+      "sha256": "82392fc003fa97925f2aa607c5d11c01c5049a985c5d69c77163ffc15443ab6e",
+      "resolution": {
+        "width": 402,
+        "height": 533
+      },
+      "source_url": "https://www.frontpages.com/city-am/",
+      "title": "city-am front page",
+      "creator": "Issuing newspaper editorial team, individual design credit unestablished",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "City AM complete 402px-wide front: tall vertical left masthead, black/blue/white identity, image-heavy lead and ruled dense lower article columns. Only composition and major heads legible."
+        }
+      ],
+      "limitations": "Complete original available rendition, not an inspection of entire newspaper. No news assertions reused; smallest body text not claimed legible."
+    },
+    {
+      "record_id": "FN27",
+      "artifact_id": "financial-broadsheet-FN27",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/la-tribune-000658lwf5tjn.webp",
+      "sha256": "ffd6a6d9bb30aa5c1cee5072db0d1f9bf002e6f6e894953c05d70488391481a5",
+      "resolution": {
+        "width": 1200,
+        "height": 1677
+      },
+      "source_url": "https://www.frontpages.com/la-tribune/",
+      "title": "la-tribune front page",
+      "creator": "Issuing newspaper editorial team, individual design credit unestablished",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "La Tribune complete front: large navy/white sans masthead above nearly full-page photograph; huge white serif lead below, bottom four ruled teaser columns. Dense article columns are not required on every cover."
+        }
+      ],
+      "limitations": "Complete original available rendition, not an inspection of entire newspaper. No news assertions reused; smallest body text not claimed legible."
+    },
+    {
+      "record_id": "FN28",
+      "artifact_id": "financial-broadsheet-FN28",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.frontpages.com/g/2026/11/07/el-economista-000654cyudt00.webp",
+      "sha256": "f338217ddc835a91a081ee6ca644b4aac114ba604f012b37851cac1360b6b815",
+      "resolution": {
+        "width": 1200,
+        "height": 1584
+      },
+      "source_url": "https://www.frontpages.com/el-economista/",
+      "title": "el-economista front page",
+      "creator": "Issuing newspaper editorial team, individual design credit unestablished",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "El Economista Spain complete front: large black/orange serif identity, orange date rule, serif main head, sans side headlines, right brief rail and large economic feature image."
+        }
+      ],
+      "limitations": "Complete original available rendition, not an inspection of entire newspaper. No news assertions reused; smallest body text not claimed legible."
+    },
+    {
+      "record_id": "FNFT1",
+      "artifact_id": "ft-2014-redesign-case",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://designersinstitute.nz/assets/resized/sm/upload/e2/ai/w0/kz/klim-1-0-1010-0-1010.jpg?k=d760d7d0a3",
+      "sha256": "2e7abd4cbff532a03564413fde85b97dbf657c245eff2f4310c4d14acce8fa91",
+      "resolution": {
+        "width": 1010,
+        "height": 500
+      },
+      "source_url": "https://designersinstitute.nz/case-study/the-financial-times-redesign/",
+      "title": "FT 2014 redesign case image 1",
+      "creator": "Financial Times / Kevin Wilson, Mark Leeds, Kris Sowersby; Designers Institute case documentation",
+      "duplicate_of": "FNFT4",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three-page overview shows salmon surfaces, dark serif headlines and compartmented columns; overview only, no tiny body transcription."
+        }
+      ],
+      "limitations": "Four source case images inspected. One documented redesign counts once; overview images are not independent full-page evidence. Crop/detail supports only what is visible."
+    },
+    {
+      "record_id": "FNFT2",
+      "artifact_id": "ft-2014-redesign-case",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://designersinstitute.nz/assets/resized/sm/upload/43/zm/lq/4w/klim-3-0-1010-0-1010.jpg?k=d760d7d0a3",
+      "sha256": "37756653afa96edf3c06c3eb62ddd3d481848bb53215b9ab6fccf7242e570419",
+      "resolution": {
+        "width": 1010,
+        "height": 500
+      },
+      "source_url": "https://designersinstitute.nz/case-study/the-financial-times-redesign/",
+      "title": "FT 2014 redesign case image 2",
+      "creator": "Financial Times / Kevin Wilson, Mark Leeds, Kris Sowersby; Designers Institute case documentation",
+      "duplicate_of": "FNFT4",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Enlarged seafood visual-journalism detail combines illustrated fish and bright yellow/cyan numeric circles with a strong black serif headline."
+        }
+      ],
+      "limitations": "Four source case images inspected. One documented redesign counts once; overview images are not independent full-page evidence. Crop/detail supports only what is visible."
+    },
+    {
+      "record_id": "FNFT3",
+      "artifact_id": "ft-2014-redesign-case",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://designersinstitute.nz/assets/resized/sm/upload/68/9n/sx/jn/klim-2-0-1010-0-1010.jpg?k=6e437908d0",
+      "sha256": "e8c3f73629b16690a184259da20c2a9bda2058b019d0e8620057f2a6059e520d",
+      "resolution": {
+        "width": 1010,
+        "height": 500
+      },
+      "source_url": "https://designersinstitute.nz/case-study/the-financial-times-redesign/",
+      "title": "FT 2014 redesign case image 3",
+      "creator": "Financial Times / Kevin Wilson, Mark Leeds, Kris Sowersby; Designers Institute case documentation",
+      "duplicate_of": "FNFT4",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three-page overview integrates a large financial line chart into newspaper columns and uses maps and data plots; not three independently counted pages."
+        }
+      ],
+      "limitations": "Four source case images inspected. One documented redesign counts once; overview images are not independent full-page evidence. Crop/detail supports only what is visible."
+    },
+    {
+      "record_id": "FNFT4",
+      "artifact_id": "ft-2014-redesign-case",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://designersinstitute.nz/assets/resized/sm/upload/gs/cm/ci/jg/klim-4-0-1010-0-1010.jpg?k=6e437908d0",
+      "sha256": "2f8bac138f14b76cfefb462941e21689999376c91d327ee8dda840e47a46aa17",
+      "resolution": {
+        "width": 1010,
+        "height": 500
+      },
+      "source_url": "https://designersinstitute.nz/case-study/the-financial-times-redesign/",
+      "title": "FT 2014 redesign case image 4",
+      "creator": "Financial Times / Kevin Wilson, Mark Leeds, Kris Sowersby; Designers Institute case documentation",
+      "duplicate_of": null,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete published case image of sports section detail uses salmon paper, red serif section title, strong black horizontal rule, serif story column, large photo and labeled cyan quantitative graphic."
+        }
+      ],
+      "limitations": "Four source case images inspected. One documented redesign counts once; overview images are not independent full-page evidence. Crop/detail supports only what is visible."
+    },
+    {
+      "record_id": "FNFD1",
+      "artifact_id": "financial-broadsheet-FNFD1",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.btng.studio/images/cases/revamping-the-design-system-for-fd.webp",
+      "sha256": "36d1039a99435b50d7a096555580b3415f0738b6af4626149b664f9762150b8f",
+      "resolution": {
+        "width": 2000,
+        "height": 1500
+      },
+      "source_url": "https://www.btng.studio/nl/cases/revamping-the-design-system-for-fd/",
+      "title": "FD self-initiated system revisit 1",
+      "creator": "Philip Wallage / BTNG",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Salmon/teal system study uses editorial serif display with sans controls, rounded cards and generic SaaS pricing, settings and vendor dashboards; visual review finds it peripheral to financial newspaper reading grammar."
+        }
+      ],
+      "limitations": "Excluded from corpus count: self-initiated case, template SaaS content, not evidence of current newspaper deployment or newspaper editorial layout."
+    },
+    {
+      "record_id": "FNFD2",
+      "artifact_id": "financial-broadsheet-FNFD2",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.btng.studio/images/cases/revamping-the-design-system-for-fd-1.webp",
+      "sha256": "9eada23272ad9141445b7bdbb096cb375b4e72cecb9741c7d049e215f4fe7013",
+      "resolution": {
+        "width": 2000,
+        "height": 1500
+      },
+      "source_url": "https://www.btng.studio/nl/cases/revamping-the-design-system-for-fd/",
+      "title": "FD self-initiated system revisit 2",
+      "creator": "Philip Wallage / BTNG",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Salmon/teal system study uses editorial serif display with sans controls, rounded cards and generic SaaS pricing, settings and vendor dashboards; visual review finds it peripheral to financial newspaper reading grammar."
+        }
+      ],
+      "limitations": "Excluded from corpus count: self-initiated case, template SaaS content, not evidence of current newspaper deployment or newspaper editorial layout."
+    },
+    {
+      "record_id": "FNFD3",
+      "artifact_id": "financial-broadsheet-FNFD3",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.btng.studio/images/cases/revamping-the-design-system-for-fd-2.webp",
+      "sha256": "fcf44b8efcef25f59cebd2df38d60e458bb563cfb1878668d8b8ebff6edf4ff0",
+      "resolution": {
+        "width": 2000,
+        "height": 1500
+      },
+      "source_url": "https://www.btng.studio/nl/cases/revamping-the-design-system-for-fd/",
+      "title": "FD self-initiated system revisit 3",
+      "creator": "Philip Wallage / BTNG",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Salmon/teal system study uses editorial serif display with sans controls, rounded cards and generic SaaS pricing, settings and vendor dashboards; visual review finds it peripheral to financial newspaper reading grammar."
+        }
+      ],
+      "limitations": "Excluded from corpus count: self-initiated case, template SaaS content, not evidence of current newspaper deployment or newspaper editorial layout."
+    },
+    {
+      "record_id": "FNFD4",
+      "artifact_id": "financial-broadsheet-FNFD4",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.btng.studio/images/cases/revamping-the-design-system-for-fd-3.webp",
+      "sha256": "3143ecbc7073ee654ced595326bf514e825a46117318777e22b1904789c27ab2",
+      "resolution": {
+        "width": 2000,
+        "height": 1500
+      },
+      "source_url": "https://www.btng.studio/nl/cases/revamping-the-design-system-for-fd/",
+      "title": "FD self-initiated system revisit 4",
+      "creator": "Philip Wallage / BTNG",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Salmon/teal system study uses editorial serif display with sans controls, rounded cards and generic SaaS pricing, settings and vendor dashboards; visual review finds it peripheral to financial newspaper reading grammar."
+        }
+      ],
+      "limitations": "Excluded from corpus count: self-initiated case, template SaaS content, not evidence of current newspaper deployment or newspaper editorial layout."
+    },
+    {
+      "record_id": "FNFD5",
+      "artifact_id": "financial-broadsheet-FNFD5",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.btng.studio/images/cases/revamping-the-design-system-for-fd-4.webp",
+      "sha256": "116cb31e820a3b784bb12c1e51f6e2a4ccf514fed1b52e633b4ed40a0f537d25",
+      "resolution": {
+        "width": 2000,
+        "height": 1500
+      },
+      "source_url": "https://www.btng.studio/nl/cases/revamping-the-design-system-for-fd/",
+      "title": "FD self-initiated system revisit 5",
+      "creator": "Philip Wallage / BTNG",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Salmon/teal system study uses editorial serif display with sans controls, rounded cards and generic SaaS pricing, settings and vendor dashboards; visual review finds it peripheral to financial newspaper reading grammar."
+        }
+      ],
+      "limitations": "Excluded from corpus count: self-initiated case, template SaaS content, not evidence of current newspaper deployment or newspaper editorial layout."
+    },
+    {
+      "record_id": "FNFD6",
+      "artifact_id": "financial-broadsheet-FNFD6",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.btng.studio/images/cases/revamping-the-design-system-for-fd-5.webp",
+      "sha256": "c4475d6747fbe7a0d41d43757285e8d895296a72d84988a935718c53ae9c6ae7",
+      "resolution": {
+        "width": 2000,
+        "height": 1500
+      },
+      "source_url": "https://www.btng.studio/nl/cases/revamping-the-design-system-for-fd/",
+      "title": "FD self-initiated system revisit 6",
+      "creator": "Philip Wallage / BTNG",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Salmon/teal system study uses editorial serif display with sans controls, rounded cards and generic SaaS pricing, settings and vendor dashboards; visual review finds it peripheral to financial newspaper reading grammar."
+        }
+      ],
+      "limitations": "Excluded from corpus count: self-initiated case, template SaaS content, not evidence of current newspaper deployment or newspaper editorial layout."
+    }
+  ]
+}

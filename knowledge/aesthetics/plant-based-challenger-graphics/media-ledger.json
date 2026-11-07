@@ -1,0 +1,1157 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "PB01",
+      "artifact_id": "plant-based-challenger-packaging-PB01",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/oatly-masthead-2360.jpg",
+      "sha256": "eb688eaf67f8eb11aba7ad01550125d15579b623a7aba88359ae1bd57d933838",
+      "resolution": {
+        "width": 2360,
+        "height": 1172
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-01 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black irregular lettering and small illustrated marks form a dense kraft-paper brand expression sheet; varied swollen and outlined letters, no product photography."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB02",
+      "artifact_id": "plant-based-challenger-packaging-PB02",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/madeforhumans.webp",
+      "sha256": "2d88d6203f5c704d7b3a5b0e18aa135ddc02b69a7cddd805159a170ab5634015",
+      "resolution": {
+        "width": 800,
+        "height": 559
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-02 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large black bulbous mixed-case line breaks on white beside a blue-gray illustrated carton; carton grain and plain glass drawing."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB03",
+      "artifact_id": "plant-based-challenger-packaging-PB03",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/wownowcow.webp",
+      "sha256": "6ffcde44698d2f70bc3b60ef5f158b8ac468b8b9c663f45a36ed416a48c476a3",
+      "resolution": {
+        "width": 800,
+        "height": 497
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-03 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Multicolor carton lineup below arched black expressive headline; common oversized split wordmark and different use-case illustrations."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB04",
+      "artifact_id": "plant-based-challenger-packaging-PB04",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/billboard.webp",
+      "sha256": "4b1bdf1b4e5d83500f39d444bf2ce0e9d1dd1d9b948e5c5ab1b39727dfb49c37",
+      "resolution": {
+        "width": 800,
+        "height": 533
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-07 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Tall dark wall advertisement with deliberately informal white lettering and carton at right; environmental scale of humorous long copy."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB05",
+      "artifact_id": "plant-based-challenger-packaging-PB05",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/oatly3.jpeg",
+      "sha256": "c1426e3b9c5a74d7a026a5b79442942c4e73fcc4e9b8a643e2c91d502a17fc2f",
+      "resolution": {
+        "width": 1500,
+        "height": 844
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-08 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White shelter poster with oversized stacked black uppercase copy and a small dessert pack at bottom right; text dominates image."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB06",
+      "artifact_id": "plant-based-challenger-packaging-PB06",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/poster.webp",
+      "sha256": "89449b856407b5ae5292b24cfb735edacc1f941520b95a4272344bb219c5c3d3",
+      "resolution": {
+        "width": 800,
+        "height": 533
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-09 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Repeated narrow black copy-heavy wheatpaste posters below railway brickwork, adjacent short uppercase poster; repetition is placement, counted as one composition."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB07",
+      "artifact_id": "plant-based-challenger-packaging-PB07",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/oatly8.jpeg",
+      "sha256": "5a0376a945f1c4124ea3940ce32d69357ddb900f269f77c2f0cf7488908dc24a",
+      "resolution": {
+        "width": 1500,
+        "height": 1000
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-10 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Corner billboard uses large black arrows to point inward toward oversized pink dessert tub; plain black stacked lettering on white."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB08",
+      "artifact_id": "plant-based-challenger-packaging-PB08",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/Oatly_Busstop-copy.jpg",
+      "sha256": "f14fbe51f6d18946b1e3362a2d84e0df1222da64bdbf56c8c637412872773e0e",
+      "resolution": {
+        "width": 941,
+        "height": 1029
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-11 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White shelter poster, large black rounded uppercase question and response with gray carton right; ample margin and conversational reading sequence."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB09",
+      "artifact_id": "plant-based-challenger-packaging-PB09",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/Oatly_LA-copy.jpg",
+      "sha256": "92a2b0d9d26d7288449264eca162e41ab029a7d8c16cc8336601be67269a7b62",
+      "resolution": {
+        "width": 700,
+        "height": 350
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-12 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Bench advertisement uses wide compact black uppercase text and small carton; layout adapts copy to low horizontal space."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB10",
+      "artifact_id": "plant-based-challenger-packaging-PB10",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/Oatly_Mural-copy.jpg",
+      "sha256": "76bb96c7ff675966f970ead3a2ba469ca80e27338bb824257b9aa1901f4a3ac9",
+      "resolution": {
+        "width": 600,
+        "height": 400
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-13 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black mural with very large white sans copy, small secondary line and carton; deliberate contrast between outdoor scale and social-media reference."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB11",
+      "artifact_id": "plant-based-challenger-packaging-PB11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.forsman.com/wp-content/uploads/2024/02/Oatly_Subway-copy.jpg",
+      "sha256": "7cc79c17e1f63278243f030ff2a9ffd405a9a43ccbd457c8410ae0d26ea3672e",
+      "resolution": {
+        "width": 640,
+        "height": 447
+      },
+      "source_url": "https://www.forsman.com/work/oatly/",
+      "title": "oatly-14 complete composition",
+      "creator": "Forsman & Bodenfors / Oatly",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Subway shelter white poster with black short multi-line uppercase copy, small pack and beverage illustration; visible stock watermark is provenance, not stylistic texture."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB12",
+      "artifact_id": "plant-based-challenger-packaging-PB12",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://freight.cargo.site/t/original/i/5861eb5701c1b7cf46cca5576935b9a798e9bd7f859cc83c61a0dee144c18700/AB_NOTMILK_02-22_STILL-LIFE-12_web-copy.jpg",
+      "sha256": "eec48a7793dae62e52aaa89e993ad8105446c39b4ce865c4337986aa88e5f37a",
+      "resolution": {
+        "width": 1500,
+        "height": 1000
+      },
+      "source_url": "https://michellenahmad.com/NotCo",
+      "title": "notco-01 complete composition",
+      "creator": "Michelle Nahmad / NotCo",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Electric-blue still-life photograph with large white chocolate carton, sculptural fruit, flowers, candle and fabric; black diagonal crossing-out mark on illustrated cow."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB13",
+      "artifact_id": "plant-based-challenger-packaging-PB13",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://freight.cargo.site/t/original/i/c656a391492e252d8cf91cb126d2591acdbfbd5c32f9074ce648f238d5d608e2/AB_NOTMILK_02-22_PLANTS-02_1x1_web.jpg",
+      "sha256": "4d98e534fdf56efa4066560988ebbc494a0bb504f732f03992b6429d03b34dc0",
+      "resolution": {
+        "width": 750,
+        "height": 750
+      },
+      "source_url": "https://michellenahmad.com/NotCo",
+      "title": "notco-02 complete composition",
+      "creator": "Michelle Nahmad / NotCo",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cyan carton on white round plinth with plant stems and pink rose against cyan; rotated bold sans product name and clear flavor code."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB14",
+      "artifact_id": "plant-based-challenger-packaging-PB14",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://freight.cargo.site/t/original/i/a4cde4e9c308988fba2d8a83a75b33ea3033ec882eaca801656ed9b5ad18fdec/AB_NOTMILK_02-22_PLANTS-04_1x1_web.jpg",
+      "sha256": "27293befa69b6582a24c184d2f2661567fdf7183e4c20cba887f34e1b23ad87a",
+      "resolution": {
+        "width": 750,
+        "height": 750
+      },
+      "source_url": "https://michellenahmad.com/NotCo",
+      "title": "notco-03 complete composition",
+      "creator": "Michelle Nahmad / NotCo",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Brown-background chocolate carton pair on round white plinth with flowers; strong black/white type and brown flavor label."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB15",
+      "artifact_id": "plant-based-challenger-packaging-PB15",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://freight.cargo.site/t/original/i/fa7936e4a9fabc913e04dd4c11a731da7b321527bc98c047be8aad4910dc697e/AB_NOTMILK_02-22_PLANTS-03_1x1_web.jpg",
+      "sha256": "e88538ea598adba8a31f8613ad56ea0c63453a774db2753d6c5a2271e4fe324b",
+      "resolution": {
+        "width": 750,
+        "height": 750
+      },
+      "source_url": "https://michellenahmad.com/NotCo",
+      "title": "notco-04 complete composition",
+      "creator": "Michelle Nahmad / NotCo",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Lime background and matching low-fat carton with flowers on stepped plinth; bold rotated product naming and black diagonal animal mark."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB16",
+      "artifact_id": "plant-based-challenger-packaging-PB16",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://freight.cargo.site/t/original/i/713370efd4fec5faea91bdf6cdcf78182e08df10fdbc18c2dea499f535f15a06/AB_NOTMILK_02-22_PROD_WHOLE-ALL-copy.jpg",
+      "sha256": "fe87ba599ef8f55db49b109f9f8ad7e0476f45cdf8cb6ee211610f76cb392b2d",
+      "resolution": {
+        "width": 1500,
+        "height": 1000
+      },
+      "source_url": "https://michellenahmad.com/NotCo",
+      "title": "notco-05 complete composition",
+      "creator": "Michelle Nahmad / NotCo",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red still-life stack of white cartons, bold black/red naming and crossed-out cow; color coding organizes size variants."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB17",
+      "artifact_id": "plant-based-challenger-packaging-PB17",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://everland.dk/wp-content/uploads/2023/05/1_LaVie_Hero-scaled-1.jpg",
+      "sha256": "0da97991223d349682cd0eda6add9a98d955d7edbd5ba046a092de861f26e29e",
+      "resolution": {
+        "width": 2560,
+        "height": 1178
+      },
+      "source_url": "https://everland.dk/work/la-vie/",
+      "title": "la-vie-01 complete composition",
+      "creator": "Everland / La Vie, illustration Egle Zvirblyte",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue-background burger photograph, hands entering from sides, tiny condensed black brand flag and illustrated red bird with white ribbon."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB18",
+      "artifact_id": "plant-based-challenger-packaging-PB18",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://everland.dk/wp-content/uploads/2023/05/3_Lavie_pancake-1800x1065-1.jpg",
+      "sha256": "3b46cc6a8671c2997af14884ef757002985d538295ee4774ad6d2783d2c535cb",
+      "resolution": {
+        "width": 1800,
+        "height": 1065
+      },
+      "source_url": "https://everland.dk/work/la-vie/",
+      "title": "la-vie-02 complete composition",
+      "creator": "Everland / La Vie, illustration Egle Zvirblyte",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Diptych of breakfast food photography against yellow and blue, syrup pour and small brand flag; appetite texture and saturated flat backgrounds."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB19",
+      "artifact_id": "plant-based-challenger-packaging-PB19",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://everland.dk/wp-content/uploads/2023/05/Case_La_Vie_Lardons_Vegetaux_01_V1_03.jpg",
+      "sha256": "4a9e2b7538db841bb9baf79195199cd4fa4e8b3802ff3365c5965f3eea2408d5",
+      "resolution": {
+        "width": 2048,
+        "height": 1152
+      },
+      "source_url": "https://everland.dk/work/la-vie/",
+      "title": "la-vie-03 complete composition",
+      "creator": "Everland / La Vie, illustration Egle Zvirblyte",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two pink packs with heavy irregular condensed black identity, illustrated people and pigs sharing food; green/red lower product-code blocks and clear food windows."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB20",
+      "artifact_id": "plant-based-challenger-packaging-PB20",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://everland.dk/wp-content/uploads/2023/05/6_Lavie_t-shirt-1800x1185-1.jpg",
+      "sha256": "2d139c4c1a9f3d1603ed1da24bc31d3df6a1530244f135248723fad97bb3d07f",
+      "resolution": {
+        "width": 1800,
+        "height": 1185
+      },
+      "source_url": "https://everland.dk/work/la-vie/",
+      "title": "la-vie-05 complete composition",
+      "creator": "Everland / La Vie, illustration Egle Zvirblyte",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream tote and white shirt carry colorful human/pig/planet illustrations and small bold wordmarks; rounded flat illustration sits within spare merchandising layout."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB21",
+      "artifact_id": "plant-based-challenger-packaging-PB21",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://everland.dk/wp-content/uploads/2023/05/8_Lavie_yellow-1800x1065-1.jpg",
+      "sha256": "b9caec064e6d13f7c004a95a147feac2da3f26227c9ca3f2090e567173faabfb",
+      "resolution": {
+        "width": 1800,
+        "height": 1065
+      },
+      "source_url": "https://everland.dk/work/la-vie/",
+      "title": "la-vie-06 complete composition",
+      "creator": "Everland / La Vie, illustration Egle Zvirblyte",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Yellow-background diptych of hands folding flatbread and person holding macaroni; close food texture and monochrome prop color, no prominent type."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB22",
+      "artifact_id": "plant-based-challenger-packaging-PB22",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://everland.dk/wp-content/uploads/2023/05/Case_La_Vie_Lardons_Boulettes_01_V1_04.jpg",
+      "sha256": "b9170eb5080c4eb08690bdce6ce2adb4ee4a9e83612ae1fd8826efa4fd671fcc",
+      "resolution": {
+        "width": 2048,
+        "height": 1152
+      },
+      "source_url": "https://everland.dk/work/la-vie/",
+      "title": "la-vie-07 complete composition",
+      "creator": "Everland / La Vie, illustration Egle Zvirblyte",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink bags with illustrated convivial eating scenes, heavy condensed black logo, red/green flavor blocks, large food-on-fork photograph at sides."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB23",
+      "artifact_id": "plant-based-challenger-packaging-PB23",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://everland.dk/wp-content/uploads/2023/05/5-Focaccia-1800x1117-1.jpg",
+      "sha256": "f49ac4df77dcb80d17e53987b4e024198fe10b13883589d848faaaf3e81b90e2",
+      "resolution": {
+        "width": 1800,
+        "height": 1117
+      },
+      "source_url": "https://everland.dk/work/la-vie/",
+      "title": "la-vie-08 complete composition",
+      "creator": "Everland / La Vie, illustration Egle Zvirblyte",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three differently toned hands dipping topped bread into small white bowl on pink; food texture contrasts smooth saturated backdrop."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB24",
+      "artifact_id": "plant-based-challenger-packaging-PB24",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://fiasco.design/wp-content/uploads/2025/03/EatCurious_OOH_B.jpg",
+      "sha256": "43e878b9b8c8557b58169ceb106dea7a401dd91e5a1780764e19687f83e4f724",
+      "resolution": {
+        "width": 3000,
+        "height": 2000
+      },
+      "source_url": "https://fiasco.design/work/plant-based-brand-eat-curious/",
+      "title": "eat-curious-01 complete composition",
+      "creator": "Fiasco / Eat Curious, illustration Miguel Angel Camprubi",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink complete burger billboard, dark-green side identity panel and huge compressed headline behind food; adjacent lime nugget poster partly cropped and not counted separately."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB25",
+      "artifact_id": "plant-based-challenger-packaging-PB25",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://fiasco.design/wp-content/uploads/2025/03/Type-Expression-1-1024x1024.jpg",
+      "sha256": "361b1bc6a46c2f451be185a8da3cae52a06c8f1dec5bcae9927597d35ae69a76",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "source_url": "https://fiasco.design/work/plant-based-brand-eat-curious/",
+      "title": "eat-curious-02 complete composition",
+      "creator": "Fiasco / Eat Curious, illustration Miguel Angel Camprubi",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black-green heavily compressed letters stretch up and down on saturated pink; expressive type study for food-brand voice, grouped with other type-expression series."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB26",
+      "artifact_id": "plant-based-challenger-packaging-PB26",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://fiasco.design/wp-content/uploads/2025/03/EC_Nugget-Hero.jpg",
+      "sha256": "6e7ed16072e15616bd38ffa29f593c7d912c77473a6c9b586fd09c15b4e7fb2d",
+      "resolution": {
+        "width": 3000,
+        "height": 1243
+      },
+      "source_url": "https://fiasco.design/work/plant-based-brand-eat-curious/",
+      "title": "eat-curious-07 complete composition",
+      "creator": "Fiasco / Eat Curious, illustration Miguel Angel Camprubi",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Golden breaded nuggets photographed on black cooling grid against green; repeated food pattern and crispy texture."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB27",
+      "artifact_id": "plant-based-challenger-packaging-PB27",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://fiasco.design/wp-content/uploads/2025/03/CuriousBanger_Crop-768x768.png",
+      "sha256": "35b40da608364697c5bd68311d1c757041120c1bd89afb93edd45a269f3b39a5",
+      "resolution": {
+        "width": 768,
+        "height": 768
+      },
+      "source_url": "https://fiasco.design/work/plant-based-brand-eat-curious/",
+      "title": "eat-curious-08 complete composition",
+      "creator": "Fiasco / Eat Curious, illustration Miguel Angel Camprubi",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Plant-based hotdogs with mustard and onions repeated on saturated pink; diagonal arrangement and close appetizing texture."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB28",
+      "artifact_id": "plant-based-challenger-packaging-PB28",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://fiasco.design/wp-content/uploads/2025/03/CuriousBurger_Crop-768x768.png",
+      "sha256": "e9fec84f8e8c89cbf7f73e3312274dc3d79694866dd7b5ddd446831300a486f5",
+      "resolution": {
+        "width": 768,
+        "height": 768
+      },
+      "source_url": "https://fiasco.design/work/plant-based-brand-eat-curious/",
+      "title": "eat-curious-09 complete composition",
+      "creator": "Fiasco / Eat Curious, illustration Miguel Angel Camprubi",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Burger photographs repeated on golden yellow background; dense appetite crop and differentiated bun/vegetable layers."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB29",
+      "artifact_id": "plant-based-challenger-packaging-PB29",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://fiasco.design/wp-content/uploads/2025/03/EatCurious_OOH_1.jpg",
+      "sha256": "de7e3eab21c50a7643ba6f95a88d464fa7006554332ab6948715ad65d3095ebe",
+      "resolution": {
+        "width": 3000,
+        "height": 1245
+      },
+      "source_url": "https://fiasco.design/work/plant-based-brand-eat-curious/",
+      "title": "eat-curious-10 complete composition",
+      "creator": "Fiasco / Eat Curious, illustration Miguel Angel Camprubi",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark-green billboard with large lime three-line headline, floating nugget cutouts and small white wordmark; a white hand-drawn arrow directs attention."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB30",
+      "artifact_id": "plant-based-challenger-packaging-PB30",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://fiasco.design/wp-content/uploads/2025/03/Packaging-Stack_3x4_Pink_v01-768x1024.png",
+      "sha256": "792660ff5254dc15e01db23a4f6bfff88b18e8f221329e3ba768808cadaa96f3",
+      "resolution": {
+        "width": 768,
+        "height": 1024
+      },
+      "source_url": "https://fiasco.design/work/plant-based-brand-eat-curious/",
+      "title": "eat-curious-11 complete composition",
+      "creator": "Fiasco / Eat Curious, illustration Miguel Angel Camprubi",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three colored packaging boxes stacked in space on pink; large white identity, black condensed product naming and photographic ingredient/product pattern."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB31",
+      "artifact_id": "plant-based-challenger-packaging-PB31",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://fiasco.design/wp-content/uploads/2025/03/Brand-Narrative-Carousel-16_9-04.jpg",
+      "sha256": "4a8c6e5566c04103baad41629d8b4b3b8dd0648f0b04963fd1e2ed6cd0c3f36a",
+      "resolution": {
+        "width": 2160,
+        "height": 1215
+      },
+      "source_url": "https://fiasco.design/work/plant-based-brand-eat-curious/",
+      "title": "eat-curious-12 complete composition",
+      "creator": "Fiasco / Eat Curious, illustration Miguel Angel Camprubi",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark-green editorial panel with white condensed headline and rounded colorful illustration of shared table including wheelchair user; body sans is visibly calmer."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    },
+    {
+      "record_id": "PB32",
+      "artifact_id": "plant-based-challenger-packaging-PB32",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://fiasco.design/wp-content/uploads/2025/03/Eat-Curious_UI-Recipes_4_3.png",
+      "sha256": "7009434cca410a1f5e138a181be90e3d566d2bd7d6d6cbf0c3fb7a49d710a468",
+      "resolution": {
+        "width": 2049,
+        "height": 1536
+      },
+      "source_url": "https://fiasco.design/work/plant-based-brand-eat-curious/",
+      "title": "eat-curious-17 complete composition",
+      "creator": "Fiasco / Eat Curious, illustration Miguel Angel Camprubi",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete recipe web mockup: dark-green surface, large food cards, cream ingredient card with ingredient/steps tabs, bold white naming, pink footer strip; screenshot establishes layout, not actual interactivity."
+        }
+      ],
+      "limitations": "Still composition only; exact fonts, body copy, claims and timing not inferred. Multiple brand variants do not constitute independent design systems."
+    }
+  ]
+}

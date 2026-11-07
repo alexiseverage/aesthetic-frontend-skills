@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 221,
+  "fullEntryCount": 231,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -84,6 +84,16 @@
       ]
     },
     {
+      "slug": "airline-timetable-modernism",
+      "label": "Airline Timetable Modernism",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Mid-century airline timetables",
+        "Modernist airline schedules"
+      ]
+    },
+    {
       "slug": "albarello-pharmacy-ceramics",
       "label": "Albarello Pharmacy Ceramics",
       "family": "material-print-craft",
@@ -116,6 +126,16 @@
       ]
     },
     {
+      "slug": "analog-test-instruments",
+      "label": "Analog-Era Test Instruments",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Vintage laboratory instrument panels",
+        "Analog-era test equipment panels"
+      ]
+    },
+    {
       "slug": "anatomical-flap-atlases",
       "label": "Anatomical Flap Atlases",
       "family": "material-print-craft",
@@ -123,6 +143,16 @@
       "aliases": [
         "Anatomical flap books",
         "Anatomical fugitive sheets"
+      ]
+    },
+    {
+      "slug": "animal-rights-campaign-graphics",
+      "label": "Animal-Rights Campaign Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Animal rights advocacy graphics",
+        "Animal liberation campaign graphics"
       ]
     },
     {
@@ -155,6 +185,16 @@
       "aliases": [
         "orchard education",
         "apple picking guide"
+      ]
+    },
+    {
+      "slug": "architectural-property-editorial",
+      "label": "Architectural Property Editorial",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Architecture-led property editorial",
+        "Architecture-led real estate editorial"
       ]
     },
     {
@@ -922,6 +962,16 @@
       ]
     },
     {
+      "slug": "financial-newspaper-editorial",
+      "label": "Financial Newspaper Editorial",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Financial press editorial design",
+        "Business newspaper editorial"
+      ]
+    },
+    {
       "slug": "flat-design",
       "label": "Flat Design",
       "family": "digital-internet-native",
@@ -1212,6 +1262,16 @@
       ]
     },
     {
+      "slug": "hotel-luggage-labels",
+      "label": "Hotel Luggage Labels",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Vintage hotel luggage labels",
+        "Hotel baggage labels"
+      ]
+    },
+    {
       "slug": "hyperpop",
       "label": "Hyperpop",
       "family": "digital-internet-native",
@@ -1278,6 +1338,16 @@
         "Metabolism",
         "Metabolist architecture",
         "Japanese Metabolist movement"
+      ]
+    },
+    {
+      "slug": "jrpg-command-menus",
+      "label": "JRPG Command Menus",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Japanese role-playing game menus",
+        "JRPG party menus"
       ]
     },
     {
@@ -1712,6 +1782,16 @@
       ]
     },
     {
+      "slug": "plant-based-challenger-graphics",
+      "label": "Plant-Based Challenger Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Plant-based challenger branding",
+        "Vegan challenger graphics"
+      ]
+    },
+    {
       "slug": "polarized-crystal-photomicrography",
       "label": "Polarized Crystal Photomicrography",
       "family": "technical-institutional",
@@ -1939,6 +2019,16 @@
       "aliases": [
         "Shin Hanga",
         "Japanese New Prints"
+      ]
+    },
+    {
+      "slug": "silver-face-hi-fi",
+      "label": "Silver-Face Hi-Fi",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Silver-face stereo",
+        "Vintage silver hi-fi panels"
       ]
     },
     {
@@ -2261,6 +2351,16 @@
       "status": "canonical",
       "aliases": [
         "vapor"
+      ]
+    },
+    {
+      "slug": "vector-arcade-graphics",
+      "label": "Vector Arcade Graphics",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Vector arcade display graphics",
+        "Vector-display arcade graphics"
       ]
     },
     {

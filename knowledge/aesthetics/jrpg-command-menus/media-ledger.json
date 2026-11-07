@@ -1,0 +1,1474 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "JR1870",
+      "artifact_id": "jrpg-command-menus-JR1870",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy03242024-052712-42944.jpg",
+      "sha256": "3eac8782ba998028271321822be828d91888026106e57ae4dd4166e7d5bfe8eb",
+      "resolution": {
+        "width": 1242,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1870",
+      "title": "Final Fantasy",
+      "creator": "Original game publisher/developer; screenshots archived by Game UI Database",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue white-beveled windows divide four party members from left item/magic/equipment command list, currency and orb panels. Large white pixel type, hand selection cursor, current/maximum HP fractions."
+        }
+      ],
+      "notes": "Complete original archival capture, not gallery thumbnail. No source media reused or supplied to asset generation."
+    },
+    {
+      "record_id": "JR1899",
+      "artifact_id": "jrpg-command-menus-JR1899",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-IV03242024-105732-5007.jpg",
+      "sha256": "4ee5cc590d2b281c80c6e8fbee4da11f42e703a38b69df8eaa8ce092a1d9d644",
+      "resolution": {
+        "width": 1242,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1899",
+      "title": "Final Fantasy IV",
+      "creator": "Original game publisher/developer; screenshots archived by Game UI Database",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large navy party panel, white pixel type and character portraits; right vertical command window with hand cursor, grayed Save, separate time and currency windows."
+        }
+      ],
+      "notes": "Complete original archival capture, not gallery thumbnail. No source media reused or supplied to asset generation."
+    },
+    {
+      "record_id": "JR1895",
+      "artifact_id": "jrpg-command-menus-JR1895",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-IX03242024-090354-73350.jpg",
+      "sha256": "8e801cda5574cbdec114dc5dd2ef6c3c92db93588ccc6887da8e6fb6189bc7ae",
+      "resolution": {
+        "width": 1440,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1895",
+      "title": "Final Fantasy IX",
+      "creator": "Original game publisher/developer; screenshots archived by Game UI Database",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gray translucent-looking party rows over textured background, portrait column, aligned HP/MP fractions and blue jewel quantities; raised silver-bordered command list overlaps upper right, time/gil/location below."
+        }
+      ],
+      "notes": "Complete original archival capture, not gallery thumbnail. No source media reused or supplied to asset generation."
+    },
+    {
+      "record_id": "JR1901",
+      "artifact_id": "jrpg-command-menus-JR1901",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-VI03242024-104123-17908.jpg",
+      "sha256": "9fc76258c5f69c81b83ed081d4a1da8dd9b6867a0eaeb9c6e9c4c189b70e10fc",
+      "resolution": {
+        "width": 1242,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1901",
+      "title": "Final Fantasy VI",
+      "creator": "Original game publisher/developer; screenshots archived by Game UI Database",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue gradient party panel, portraits left, cyan LV/HP/MP labels and white numbers; white beveled right command window with hand cursor and separate time/steps/currency cells."
+        }
+      ],
+      "notes": "Complete original archival capture, not gallery thumbnail. No source media reused or supplied to asset generation."
+    },
+    {
+      "record_id": "JR1894",
+      "artifact_id": "jrpg-command-menus-JR1894",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-VII03242024-082735-47331.jpg",
+      "sha256": "24188b686b12c29828865e5736b6993ff7d980ad07902a42d249cb0b0d8b5cfb",
+      "resolution": {
+        "width": 1440,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1894",
+      "title": "Final Fantasy VII",
+      "creator": "Original game publisher/developer; screenshots archived by Game UI Database",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large blue gradient party panel with portraits, HP/MP fractions and colored progress bars; narrow right commands with hand cursor, time/gil box and location strip below."
+        }
+      ],
+      "notes": "Complete original archival capture, not gallery thumbnail. No source media reused or supplied to asset generation."
+    },
+    {
+      "record_id": "JR1896",
+      "artifact_id": "jrpg-command-menus-JR1896",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-VIII03242024-094616-1384.jpg",
+      "sha256": "e2cdddec75f13895b63aa13aad604a9851d50b4c35e868064bd26544e94fe8f5",
+      "resolution": {
+        "width": 1440,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1896",
+      "title": "Final Fantasy VIII",
+      "creator": "Original game publisher/developer; screenshots archived by Game UI Database",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gray party/status rows with no portraits, large white name and HP text, narrow right command list and hand cursor; HELP strip above, location footer and compact play/currency panel."
+        }
+      ],
+      "notes": "Complete original archival capture, not gallery thumbnail. No source media reused or supplied to asset generation."
+    },
+    {
+      "record_id": "JR796",
+      "artifact_id": "jrpg-system-796",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-XIII05162021-041331-83927.jpg",
+      "sha256": "87deaac8f093e3bd249adb2ecd8a07de0c2108db6e69ab4f836ebc1dc89c91fe",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=796",
+      "title": "Final Fantasy XIII",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale gray gradient full-screen menu, thin ruled black left command list with hand cursor, three large character portrait cards and HP/CP; help header and compact time/gil footer. Modern variant replaces compact party rows with portraits."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR29",
+      "artifact_id": "jrpg-system-29",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-VII-Remake06082020-090819-13731.jpg",
+      "sha256": "12c120112de7c738d422ee1e288a497d6317623be0858bd12c5edac7d564a212",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=29",
+      "title": "Final Fantasy VII Remake",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue layered full-screen menu, ruled left command list, cyan selected row, three full-body party members with vertically set names and aligned numeric HP/MP/EXP below. Tiny cyan frame geometry and help footer."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR1770",
+      "artifact_id": "jrpg-system-1770",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-Pixel-Remaster06042023-102823-20542.jpg",
+      "sha256": "6a38570e4afb2be8585efbdb07f8eadd193e3949a7dc2bc8571c8a10261f63a3",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1770",
+      "title": "Final Fantasy Pixel Remaster",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue gradient silver-beveled command and party windows, hand cursor and yellow selected command, sprite portraits, cyan labels and white numbers, low HP red, location and controller-help footer."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR2319",
+      "artifact_id": "jrpg-system-2319",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-III-Pixel-Remaster01232026-035311-9677.jpg",
+      "sha256": "29dab7e8e8183cc2973f709faa7189e32a9e49dc862f5112e430733705515aa7",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=2319",
+      "title": "Final Fantasy III Pixel Remaster",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Shares Pixel Remaster window/typography system with Final Fantasy Pixel Remaster; job-level columns and extra commands differ. Conservatively a repeated system variant, not independent evidence count."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR28",
+      "artifact_id": "jrpg-system-28",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-XII-The-Zodiac-Age07162020-035914-42560.jpg",
+      "sha256": "4a00486a367695b8bfb03e188d256b8791d8e7e7c4e5f0dbccd9530f5580d3d0",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=28",
+      "title": "Final Fantasy XII The Zodiac Age",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Parchment clan-primer screen, hand cursor and help headline, short command list and rank/points at foot. Does not establish party/command relationship; boundary view, seek fuller main-menu state."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR1762",
+      "artifact_id": "jrpg-system-1762",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Crisis-Core-Final-Fantasy-VII-Reunion07012023-031439-15409.jpg",
+      "sha256": "204b99387a03b51b65cd1c27daf1714677072ab882381c195dda793c3671106b",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1762",
+      "title": "Crisis Core Reunion",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Navy layered menu, cyan highlighted left command list, central character model, right aligned level/HP/MP/AP/status rows with colored bars; bottom description and currency footer."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR474",
+      "artifact_id": "jrpg-system-474",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-X01022021-030251-68656.jpg",
+      "sha256": "a47c2139ff6307a42e4a38f797c2f2ff30ee995aac69e0562e787c4dbb7dfd86",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=474",
+      "title": "Final Fantasy X",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale blue textured background with purple command buttons at right and stacked silver/purple party rows at left. Names, colored HP/MP labels and numbers aligned; yellow-arrow selection, help header and location footer."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR1101",
+      "artifact_id": "jrpg-system-1101",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Atelier-Ryza-2-Lost-Legends-and-the-Secret-Fairy07272021-072159-10129.jpg",
+      "sha256": "037e69894dd6fbdbdd5fd0542a2d80f51bb5cdfb426696e68aa77f267e004186",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1101",
+      "title": "Atelier Ryza 2",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Bright landscape with party models, dark translucent left icon-and-command rows, small name/level/HP cards near each character, currency upper right and controller legend below."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR138",
+      "artifact_id": "jrpg-system-138",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Atelier-Ryza-Ever-Darkness-amp-the-Secret-Hideout05262020-033759.jpg",
+      "sha256": "01a7a33ee241cbda3c0ee5d5864b4c8a572bc41aef278cd9a20f1647d0a17364",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=138",
+      "title": "Atelier Ryza",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Warm wood and stacked photo-paper background, gold circular command medallions down left, character models in a framed photograph with small HP/level cards; cyan selected icon ring. Ornate scrapbook variant, not a blue-window requirement."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR2195",
+      "artifact_id": "jrpg-system-2195",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.gameuidatabase.com/uploads/Atelier-Yumia-The-Alchemist-of-Memories-amp-the-Envisioned-Land10042025-021616-32744.jpg",
+      "sha256": "e165ce7c1d3d740fbdf9c08b9cf2a267b84c84ea2c8f72beb290403f680694fb",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=2195",
+      "title": "Atelier Yumia",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Diagonal dark tile command tray over gameplay scene, white selected tile/cyan edge, compact party HP portraits upper left and location/resources lower left. Modern action-RPG boundary; limited central command/status relation."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR753",
+      "artifact_id": "jrpg-system-753",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Bravely-Default05292021-012350-12587.jpg",
+      "sha256": "4e77c2a05e598b1a2210511930bc09b9dd2b102ca4ce01531e463756d1605276",
+      "resolution": {
+        "width": 800,
+        "height": 960
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=753",
+      "title": "Bravely Default",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dual-screen capture: cream/brown ruled four-member status table, portrait/class/HP/MP, compact left menu with hand cursor, bottom descriptive strip; decorative serif and paper-like panels."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR579",
+      "artifact_id": "jrpg-system-579",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.gameuidatabase.com/uploads/Disgaea-5-Complete02072021-011628-42433.jpg",
+      "sha256": "570da5296c91f2d60c0926d822fefd3200c32bdbd3716704587e58a1c1311317",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=579",
+      "title": "Disgaea 5 Complete",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Isometric hub world with labeled NPC/menu hotspots and ticker, no conventional party command window shown. Excluded boundary; do not use as evidence for command-panel grammar."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR2255",
+      "artifact_id": "jrpg-system-2255",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Dragon-Quest-IX11302025-015441-36601.jpg",
+      "sha256": "5e74e34448f397163477788aebb8278995b6a5c880e33b553f4074b474e09b01",
+      "resolution": {
+        "width": 768,
+        "height": 1152
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=2255",
+      "title": "Dragon Quest IX",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dual-screen scene with black gray-edged HP/MP status card and compact two-column command window, sword-shaped cursor, white pixel letters, grayed unavailable command. Menu overlays scene rather than replacing it."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR269",
+      "artifact_id": "jrpg-system-269",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Dragon-Quest-XI07162020-045656-95168.jpg",
+      "sha256": "f48b7d000615b0887fad6a11ff30d8dceb832429ea2428cc926839eb80f87965",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=269",
+      "title": "Dragon Quest XI",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Brown ornamental quick-command and adjacent help windows overlay 3D scene, gold sword cursor, white serif text. Local command/help relation, not party overview; useful secondary state."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR2504",
+      "artifact_id": "jrpg-system-2504",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Dragon-Warrior08222026-093257-36755.jpg",
+      "sha256": "6f78b9d660662abba4834f243b0d38156607ea7c376c384ac2c39d65f4524fcc",
+      "resolution": {
+        "width": 1024,
+        "height": 896
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=2504",
+      "title": "Dragon Warrior",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black rectangular white-bordered windows over tile scene, stacked stats at left, COMMAND box above and item submenu overlapping it, white triangular cursor and white pixel capitals. Nested window hierarchy."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR708",
+      "artifact_id": "jrpg-system-708",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Fantasian04252021-025844-9222.jpg",
+      "sha256": "abbea5f6aaaa9d183b625c97acec81f4354224ea6359c0641c21d32b264de2ec",
+      "resolution": {
+        "width": 1440,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=708",
+      "title": "Fantasian",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream paper-like map screen, rounded outlined right command capsule group for party/equipment/skills/items/story, black icons and bold sans, objective strip over diorama map, currency/time. Mobile adaptation with large hit areas."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR1651",
+      "artifact_id": "jrpg-system-1651",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.gameuidatabase.com/uploads/Harvestella12222022-105443-40983.jpg",
+      "sha256": "9196bc10e1e9dbf43958e9b5725bb96c4e7e227b8105a3475cb5311746093efd",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1651",
+      "title": "Harvestella",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Translucent dark diary menu over blurred scene, thin outlined top tabs, large illustrated Story/Quests/Memo cards and controller footer; broad RPG information navigation boundary, not defining party status evidence."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR1627",
+      "artifact_id": "jrpg-system-1627",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Koudelka12242022-012642-44194.jpg",
+      "sha256": "154fa90270ecfa5ca8761b001934a88a8b95d956b2d53501aa9b0eaaf7adb4e5",
+      "resolution": {
+        "width": 1406,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1627",
+      "title": "Koudelka",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Copper textured beveled command panel at right with black selected brush strip/yellow text; three small HP/MP stat cards above, portrait collage center and time panel below. Horror variant, no blue/pixel-font non-negotiable."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR595",
+      "artifact_id": "jrpg-system-595",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Persona-402132021-025556-17380.jpg",
+      "sha256": "9defcae9ba534967a0402b24a682ac508c0aa200ed985b638463529222cddeea",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=595",
+      "title": "Persona 4",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Saturated yellow status screen, oversized outlined black title, large character portrait, right party-name/level list with black selected row and white text; multicolor stripe edge. Pop graphic variant."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR72",
+      "artifact_id": "jrpg-system-72",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Persona-511142020-081939-92444.jpg",
+      "sha256": "73c50ce8fc3a71e38bf0b5c461a31b729a609224e7a0d04dccad314dc021c6ab",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=72",
+      "title": "Persona 5",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red/black/white graphic main menu, irregular pasted letter shapes in vertical command stack, cyan selected accent, large stylized character silhouette and star/halftone pattern, currency and help/controller text at foot. Strong game-specific art direction."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR1884",
+      "artifact_id": "jrpg-system-1884",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Persona-3-Reload02182024-103856-27402.jpg",
+      "sha256": "d1192e70359ddacbe8c2825254dde4468d5988a6d947ec47e87952f4759c92c5",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1884",
+      "title": "Persona 3 Reload",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue/cyan layered command screen with slanted heavy italic command list, white/pink selected wedge, stylized upside-down portrait, compact party bars at right, wallet upper left and contextual help lower right."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR1865",
+      "artifact_id": "jrpg-system-1865",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Persona-3-Portable02022024-104156-38832.jpg",
+      "sha256": "313a21b693156208e5e02993940e33e9f258ed2393b47c7aeb4e42e1620277aa",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1865",
+      "title": "Persona 3 Portable",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue/yellow geometric menu, plain sans uppercase command list at left with dark selected row, large character portrait at right, translucent HP/SP and Persona stat cards below, currency/help foot."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JR831",
+      "artifact_id": "jrpg-system-831",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Persona-Q-Shadow-of-the-Labyrinth05282021-102810-21979.jpg",
+      "sha256": "bce693bd25a191abc8449cca17b131ae52dc9b35e5bb841a54db565e31334063",
+      "resolution": {
+        "width": 800,
+        "height": 960
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=831",
+      "title": "Persona Q",
+      "creator": "Original game publisher/developer; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dual-screen hub menu: black dotted panel with hot-pink curve/selected row, white command list and help strip, 3D scene to right; lower screen repeats dark circular pattern. Local navigation variant, not party-status evidence."
+        }
+      ],
+      "notes": "Complete archival screenshot inspected; no source image used for asset generation or redistributed. Source footer restricts AI asset generation; analytical design observations only."
+    },
+    {
+      "record_id": "JRPDF-SMRPG",
+      "artifact_id": "jrpg-ui-survey-publication",
+      "source_url": "https://thegamedesignforum.com/features/JRPG_UI_SURVEY.pdf",
+      "media_url": "https://thegamedesignforum.com/features/JRPG_UI_SURVEY.pdf",
+      "title": "Super Mario RPG menu system",
+      "creator": "Original game developers; analytical publication The Game Design Forum, 2015",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1855,
+        "height": 2400
+      },
+      "inspected_states": "Complete PDF rendered at 2400px; distinct game screenshot on page 1 and other referenced states, one system counted once.",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red rounded rectangular windows on mottled gray; pale blue pixel type with dark outline, party portraits/stats left, vertical commands upper right and currency/flowers below. White glove cursor. Additional equipment state on page 2 groups inventory, party equipment and contextual description."
+        }
+      ],
+      "handling": "Private analytical PDF cache, linked descriptive record only. No copyrighted game art reused."
+    },
+    {
+      "record_id": "JRPDF-FF5",
+      "artifact_id": "jrpg-ui-survey-publication",
+      "source_url": "https://thegamedesignforum.com/features/JRPG_UI_SURVEY.pdf",
+      "media_url": "https://thegamedesignforum.com/features/JRPG_UI_SURVEY.pdf",
+      "title": "Final Fantasy V menu system",
+      "creator": "Original game developers; analytical publication The Game Design Forum, 2015",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1855,
+        "height": 2400
+      },
+      "inspected_states": "Complete PDF rendered at 2400px; distinct game screenshot on page 10 and other referenced states, one system counted once.",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue white-beveled large party window with sprite portraits and aligned HP/MP fractions; right Job/Ability and Item/Magic/Equip commands, hand cursor, time and currency windows below. Item state on page 9 shows two-column inventory with quantities and help strip."
+        }
+      ],
+      "handling": "Private analytical PDF cache, linked descriptive record only. No copyrighted game art reused.",
+      "duplicate_of": "JRPDF-SMRPG"
+    },
+    {
+      "record_id": "JRPDF-CT",
+      "artifact_id": "jrpg-ui-survey-publication",
+      "source_url": "https://thegamedesignforum.com/features/JRPG_UI_SURVEY.pdf",
+      "media_url": "https://thegamedesignforum.com/features/JRPG_UI_SURVEY.pdf",
+      "title": "Chrono Trigger menu system",
+      "creator": "Original game developers; analytical publication The Game Design Forum, 2015",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1855,
+        "height": 2400
+      },
+      "inspected_states": "Complete PDF rendered at 2400px; distinct game screenshot on page 5 and other referenced states, one system counted once.",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark beveled party cards at left, selected character portrait/class and equipment/status attributes in a larger right panel, white pixel type and hand cursor. Time/currency below party cards, gray mottled outer field."
+        }
+      ],
+      "handling": "Private analytical PDF cache, linked descriptive record only. No copyrighted game art reused.",
+      "duplicate_of": "JRPDF-SMRPG"
+    },
+    {
+      "record_id": "JRPDF-DQ6",
+      "artifact_id": "jrpg-ui-survey-publication",
+      "source_url": "https://thegamedesignforum.com/features/JRPG_UI_SURVEY.pdf",
+      "media_url": "https://thegamedesignforum.com/features/JRPG_UI_SURVEY.pdf",
+      "title": "Dragon Quest VI command system",
+      "creator": "Original game developers; analytical publication The Game Design Forum, 2015",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1855,
+        "height": 2400
+      },
+      "inspected_states": "Complete PDF page 8 at 1855x2400; full game-screen example and annotated repeat grouped once",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black gray/white bordered compact command window with two columns Talk/Spell, Item/Search, Info/Tactics over 3D-looking cave scene; triangular cursor, small lower-right HP/MP/level panel. Minimal party presentation is an exception to portrait-dominated layouts."
+        }
+      ],
+      "handling": "Private analytical PDF cache, linked descriptive record only. No copyrighted game art reused.",
+      "duplicate_of": "JRPDF-SMRPG"
+    },
+    {
+      "record_id": "JR28-party",
+      "artifact_id": "jrpg-system-28",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Final-Fantasy-XII-The-Zodiac-Age07162020-035917-18692.jpg",
+      "sha256": "a41ef1a23c9e8ceac4f8e4118901a2d7dd480f7ba80095171de568bf9c3a174a",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=28",
+      "title": "Final Fantasy XII party menu",
+      "creator": "Original game developer/publisher; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Translucent blue/gray full-screen menu, left white command list and hand cursor, four horizontally cropped portrait rows with large level digits and HP/MP fractions, short help header, gil and elapsed-time footer."
+        }
+      ]
+    },
+    {
+      "record_id": "JR579-stats",
+      "artifact_id": "jrpg-system-579",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Disgaea-5-Complete02072021-011630-78052.jpg",
+      "sha256": "34dadeef42f657b045008a31d022a7979f3eac17f7c7f7f0a97de879316a6667",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=579",
+      "title": "Disgaea 5 character status",
+      "creator": "Original game developer/publisher; Game UI Database archival capture",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Ornate dark framed status overlay, large illustrated portrait left, dense aligned HP/SP/attribute/equipment/resistance columns, colored icons and bars, tab icons across top and context-help strip below. Tactical RPG neighbor variant emphasizes dense character management."
+        }
+      ]
+    },
+    {
+      "record_id": "JRvideo12",
+      "artifact_id": "jrpg-system-28",
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=28",
+      "media_url": "https://www.gameuidatabase.com/uploads/video/Final-Fantasy-XII-The-Zodiac-Age07252024-095232-19559.mp4",
+      "title": "Final Fantasy XII party menu recorded menu flow",
+      "creator": "Original game developer; recorded by Game UI Database",
+      "accessed_at": "2026-11-07",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "duplicate_of": "JR28-party",
+      "source_verified": true,
+      "detail_legible": true,
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "inspected_states": "6.11 and 14.11 seconds of 17.8s, playing",
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "spatial"
+          ],
+          "observation": "Party summary with left command list and portrait/HP rows changes to large multi-column ability overlay; hand cursor and description header preserve selection context. Discrete playback states inspected, no exact transition duration measured."
+        }
+      ],
+      "handling": "Viewed live only; no source video redistributed or used in asset generation.",
+      "timestamps": [
+        "6.11 and 14.11 seconds of 17.8s, playing"
+      ]
+    },
+    {
+      "record_id": "JRvideo10",
+      "artifact_id": "jrpg-system-474",
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=474",
+      "media_url": "https://www.gameuidatabase.com/uploads/video/Final-Fantasy-X07192024-110817-10995.mp4",
+      "title": "Final Fantasy X recorded menu flow",
+      "creator": "Original game developer; recorded by Game UI Database",
+      "accessed_at": "2026-11-07",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "duplicate_of": "JR474",
+      "source_verified": true,
+      "detail_legible": true,
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "inspected_states": "7.12 and 24.88 seconds of 54.8s, playing",
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "spatial"
+          ],
+          "observation": "Two-column inventory with quantities and sort command changes to selected character overdrive list; yellow arrow, help header and party resource row persist as orientation cues. No exact easing claimed."
+        }
+      ],
+      "handling": "Viewed live only; no source video redistributed or used in asset generation.",
+      "timestamps": [
+        "7.12 and 24.88 seconds of 54.8s, playing"
+      ]
+    },
+    {
+      "record_id": "JRvideo13",
+      "artifact_id": "jrpg-system-796",
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=796",
+      "media_url": "https://www.gameuidatabase.com/uploads/video/Final-Fantasy-XIII08012024-105250-28899.mp4",
+      "title": "Final Fantasy XIII recorded menu flow",
+      "creator": "Original game developer; recorded by Game UI Database",
+      "accessed_at": "2026-11-07",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "duplicate_of": "JR796",
+      "source_verified": true,
+      "detail_legible": true,
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "inspected_states": "0.11 seconds playing, midpoint 5.22 seconds paused, end10.43seconds",
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "spatial"
+          ],
+          "observation": "Full party-portrait main menu at start/end; midpoint shows selected character portrait with equipment, attributes, roles and resistances surrounding it. Menu flow and context replacement verified, timing/easing unknown."
+        }
+      ],
+      "handling": "Viewed live only; no source video redistributed or used in asset generation.",
+      "timestamps": [
+        "0.11 seconds playing, midpoint 5.22 seconds paused, end10.43seconds"
+      ]
+    },
+    {
+      "record_id": "JR1195",
+      "artifact_id": "jrpg-system-1195",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Tales-of-Arise10192021-041810-55496.jpg",
+      "sha256": "c7bcbd1b38fd992056eb33a1d15b4ac1326ac0df4b6ff1d7e8ac57ffaaabb507",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1195",
+      "title": "Tales of Arise",
+      "creator": "Original Bandai Namco game; screenshot archived by Game UI Database",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Deep blue/cream painterly party collage, compact left rows of level circles/HP bars/names and SP, horizontal icon command row below with gold selected frame, currency above and controller legend beneath. Freeform modern variant retains command/resource relation."
+        }
+      ]
+    },
+    {
+      "record_id": "JR1206",
+      "artifact_id": "jrpg-system-1206",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Tales-of-Symphonia11022021-123523-18489.jpg",
+      "sha256": "c6e21a9cfe902e90a333ae093b66c478934a60ffdda4387d9b83d2a86e2d91de",
+      "resolution": {
+        "width": 1920,
+        "height": 1081
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1206",
+      "title": "Tales of Symphonia HD",
+      "creator": "Original Bandai Namco game; screenshot archived by Game UI Database",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Teal checkered gold-framed command header with two-row categories; four framed party rows with portraits, large HP/TP fractions and colored bars; narrow right currency/time/encounter panel. White outlined serif display labels and feather-like cursor."
+        }
+      ]
+    },
+    {
+      "record_id": "JR1207",
+      "artifact_id": "jrpg-system-1207",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.gameuidatabase.com/uploads/Tales-of-Vesperia11022021-123435-5798.jpg",
+      "sha256": "a7a969f9d4416c34f732abefd46404ec647ccf4f5cc84987353abfe13bfe0c00",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "source_url": "https://www.gameuidatabase.com/gameData.php?id=1207",
+      "title": "Tales of Vesperia Definitive",
+      "creator": "Original Bandai Namco game; screenshot archived by Game UI Database",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Warm brown/gold menu, top icon categories with feather selector and contextual heading; four parchment portrait cards with aligned level/HP/TP/next-exp bars, currency/time/over-limit footer. Card-based variant rather than narrow command column."
+        }
+      ]
+    }
+  ]
+}

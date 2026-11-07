@@ -1,0 +1,1085 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "AI01",
+      "artifact_id": "tek-465",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/e/ed/Tek_465_trace.jpg",
+      "sha256": "360962f563e0be92ccf38b5fa7c44fc35811d1ec5aa903837e00274573ff909a",
+      "resolution": {
+        "width": 1200,
+        "height": 639
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/465",
+      "title": "Tektronix 465 oscilloscope",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "White frontplate surrounds a cyan rectangular graticule display with two luminous wave traces. Repeated channel gain knobs sit left, timing and trigger groups right, each delimited by thin rules. Black ribbed coaxial knobs have red variable centers; tiny uppercase legends follow calibrated circular scales. Physical connectors and screw heads make a bounded measuring instrument. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI02",
+      "artifact_id": "tek-453",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/b/b7/Tek_453_2.jpg",
+      "sha256": "7a81bc3a1d7d1952e22c91e7f72cf8326a0d278e74b98967bf8965fb96ba1ba8",
+      "resolution": {
+        "width": 448,
+        "height": 336
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/453",
+      "title": "Tektronix 453 oscilloscope",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete small original front photograph: dark inactive CRT at upper left, clustered concentric dials right and below, cream face with red-centered controls, green/orange indicator lenses and black engraved-style uppercase. Much denser than a consumer stereo; group hierarchy is visible although the finest legends are unresolved. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI03",
+      "artifact_id": "tek-454",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/0/03/Tek_454_wp.jpg",
+      "sha256": "a738dcb3cd2c132f8ea97e9ac7c00c71e9c0c5d972e908b56ed2315a9bab7217",
+      "resolution": {
+        "width": 1519,
+        "height": 987
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/454",
+      "title": "Tektronix 454 oscilloscope",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream/silver front with cyan CRT and two green horizontal traces left. Large nested time/div dial dominates center-right, with red variable centers repeated in channel/trigger controls below. Thin printed brackets and straight rules associate tiny legends with functional groups; sockets run along bottom/right. Indicator lamps are bright separate points, not decorative field color. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI04",
+      "artifact_id": "tek-475",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/5/5c/Tek_475_square_sin.jpg",
+      "sha256": "4f55302ce20ec7029d6e12ea265b7c5219665bbbe4b22020eb2675dde1a2a1a2",
+      "resolution": {
+        "width": 1600,
+        "height": 1062
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/475",
+      "title": "Tektronix 475 oscilloscope",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Warm gray rectangular chassis and carrying handle enclose a large central blue graticule, one sine and one square trace. Channel knobs stack left; amber rectangular pushbuttons and trigger sliders stack right. Concentric black/red calibration dials, small black capitals and thin orange/black grid establish a physical signal workbench rather than a fictional dashboard. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI05",
+      "artifact_id": "tek-485",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/2/20/Tektronix_485_oscilloscope2.jpg",
+      "sha256": "d9aff06ed488c9cb8a0b2041559ac3f601d58d5602e1322a51e178bea9b4528e",
+      "resolution": {
+        "width": 745,
+        "height": 500
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/485",
+      "title": "Tektronix 485 oscilloscope",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Squarer cream frontplate: turquoise CRT upper-left, two blue-centered channel knobs below and a dark concentric timing dial upper-right. Gray printed blocks separate horizontal display, triggering and channel areas; small amber/white rectangular buttons provide a second scale of control. Edge radii are casing/bezel details rather than pill cards. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI06",
+      "artifact_id": "hp-200c",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/200c_q90/01.jpg",
+      "sha256": "634cd4c3331d4a211314966d9afd9e94c639bfb8f9c5363196ce29da48847328",
+      "resolution": {
+        "width": 480,
+        "height": 395
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/200c_q90/timeview.htm",
+      "title": "HP 200C audio generator",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete original open-case photograph. Plain gray horizontal metal front, enormous central black dial with wide white radial calibration ring, two smaller white calibrated dials either side, and a sparse row of toggles/terminals below. Visible valves and metal partitions are physical construction context, not a required decorative exposed-circuit motif. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI07",
+      "artifact_id": "hp-200cd",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/200cd/01.jpg",
+      "sha256": "da47fc9558cc92090bf28bbd40bd53592633f98bf03ac11d6200a7205ec00666",
+      "resolution": {
+        "width": 463,
+        "height": 480
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/200cd/timeview.htm",
+      "title": "HP 200CD audio generator",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall rounded gray frame surrounds cream frontplate and huge pale circular calibration disc with black fluted center knob. Three smaller dark rotary controls and red/black binding posts sit beneath; small upper-right toggle. Exposed case back is visible, but all principal front controls are presented. Hierarchy is built from scale and physical action. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI08",
+      "artifact_id": "hp-651b",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_b/anim/651b_q90/01.jpg",
+      "sha256": "ea645a0936776a623d29b863027027fe13019fbbd4cb0f7cc3ffaf33a24cf1b2",
+      "resolution": {
+        "width": 371,
+        "height": 479
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_b/anim/651b_q90/timeview.htm",
+      "title": "HP 651B test oscillator",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete original shows narrow gray face in rotated portrait orientation: long-axis composition has large white calibrated disc at one end, rectangular arc meter toward middle, smaller black dials and paired metal outputs. Mostly neutral face with restrained red scale annotations; exact small legends are not inferred. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI09",
+      "artifact_id": "hp-211a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/211a_q90/01.jpg",
+      "sha256": "de134f5a09a7e1fcb99e1d1f631466dfa1d8ef2c9cc6af2b0de4ea86222e8f67",
+      "resolution": {
+        "width": 438,
+        "height": 480
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/211a_q90/timeview.htm",
+      "title": "HP 211A square-wave generator",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall gray face with a large calibrated circular frequency control at top, two medium knobs under it, then a row of three smaller knobs, then toggle and socket rows. Fine uppercase legends are placed immediately at each physical control; red/black binding posts mark output connections. Open chassis and valves are secondary context. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI10",
+      "artifact_id": "hp-606b",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/606b_q90/01.jpg",
+      "sha256": "ba1f55d7b8b96433379056184db3280997738525fdd16f7492feeb6f564e4acd",
+      "resolution": {
+        "width": 480,
+        "height": 414
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/606b_q90/timeview.htm",
+      "title": "HP 606B RF signal generator",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Wide rackable gray front with a fan-shaped frequency scale above a large black dial at left and twin black-framed analog meters at right. Subordinate range/output rotary controls and connection points form lower rows. Sparse red settings distinguish calibration annotations while most typography remains quiet uppercase. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI11",
+      "artifact_id": "hp-428b",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/428b_q90/01.jpg",
+      "sha256": "1133dd96ab416351edd1856b25b358bcea48a041f0a95060382eb41cfba36155",
+      "resolution": {
+        "width": 479,
+        "height": 452
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/428b_q90/timeview.htm",
+      "title": "HP 428B clip-on DC milliammeter",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall gray rounded instrument bezel around large upper white analog meter and black meter surround. Below are range dial, red-centered vernier control, toggle and round connector with short uppercase labels. Needle, arc graduations and emphasized meter region form the primary hierarchy; housing metal is matte rather than glossy. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI12",
+      "artifact_id": "hp-434a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/434a_q90/01.jpg",
+      "sha256": "42b09696e0ad7129385fa4a86359bf19c0452d587e952129b3dbe6cedc3ef5cd",
+      "resolution": {
+        "width": 479,
+        "height": 399
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/434a_q90/timeview.htm",
+      "title": "HP 434A power meter",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Wide light-gray rack front with one black-framed analog meter centered high, small paired set controls to left, range dial below, and toggles/outputs spread along lower edge. Fine red and black labeling is subordinate to calibrated arcs. Open chassis photograph preserves complete front while exposing internal valves. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI13",
+      "artifact_id": "hp-p532a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/p532a_q90/01.jpg",
+      "sha256": "9d50bdc0fb46fe7d6a6b56d1b46af6a092c4638469a0ebd1010fbbc945dc5c6d",
+      "resolution": {
+        "width": 480,
+        "height": 319
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/p532a_q90/timeview.htm",
+      "title": "HP P532A frequency meter",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cylindrical measuring device rather than a rectangular console: huge ribbed black top knob, tall pale cylindrical calibrated numerical scale with a red reference line, small opposing side flanges and metal base. It is a physical scale/selector variant; do not force every artifact into a CRT/knob grid. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI14",
+      "artifact_id": "hp-521c",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/521c_q90/01.jpg",
+      "sha256": "9109ddb211d6505f9f54dce63431eb11a6d5dc771ad04925995c3940d2e8e594",
+      "resolution": {
+        "width": 428,
+        "height": 480
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/521c_q90/timeview.htm",
+      "title": "HP 521C frequency counter",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall gray front with five narrow vertical numeral windows across upper half, three black calibrated rotary controls in lower half and a bottom row of ports/toggles. Numerals and input/gate controls retain hardware-era measuring grammar even though the readout is digital. Visible valves sit above open case. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI15",
+      "artifact_id": "hp-103ar",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_b/anim/103ar_q90/01.jpg",
+      "sha256": "4647c5c7b9b882c32ee7d50484f4957399bca897df3d747e3eb6cb67e91c776f",
+      "resolution": {
+        "width": 464,
+        "height": 479
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_b/anim/103ar_q90/timeview.htm",
+      "title": "HP 103AR quartz oscillator",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Long rack panel photographed turned vertically: neutral gray metal, carrying handles at both ends, a small circular analog meter, one main black dial and a few small sockets/toggles. Sparse spacing and physically grouped controls demonstrate that density varies substantially within the scope. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI16",
+      "artifact_id": "hp-5340a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_b/anim/5340a_q90/01.jpg",
+      "sha256": "4272c4a165b640373890f5e8e7c79737c5739d8eb6d70331a541d514395ec86c",
+      "resolution": {
+        "width": 457,
+        "height": 480
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_b/anim/5340a_q90/timeview.htm",
+      "title": "HP 5340A microwave counter",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Thin long rack front in portrait orientation with a continuous dark display window, understated small black controls and input socket at one end, carry handles and pale metal margins. This digital-readout extension tests the analog-era boundary: no modern app menus, and a calibrated instrument enclosure still organizes the face. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI17",
+      "artifact_id": "hp-405ar",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/405ar_q90/01.jpg",
+      "sha256": "14d0ed21d572a74a81c003ff52b190f7bba12840f123bde8ec4925442e64f4ad",
+      "resolution": {
+        "width": 480,
+        "height": 369
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/405ar_q90/timeview.htm",
+      "title": "HP 405AR automatic digital voltmeter",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Wide silver-gray rack front with long dark numerical window upper left, handles at both ends, one primary rotary selector right, and a lower line of switches and red/black binding posts. Open chassis behind reveals valves. Mixes a digital readout with sparse physical measurement controls, so analog-era does not mean exclusively analog needles. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI18",
+      "artifact_id": "hp-721a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/721a_q90/01.jpg",
+      "sha256": "067f0f01558bc8c7e1226d1859072cf9f618d2a02a5c8773a01138e02fd3ae38",
+      "resolution": {
+        "width": 373,
+        "height": 480
+      },
+      "source_url": "https://www.hpmemoryproject.org/pict/wall_a/anim/721a_q90/timeview.htm",
+      "title": "HP 721A power supply",
+      "creator": "Hewlett-Packard; analytical photograph by HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Compact pale gray face photographed on its side. Large black-framed arc meter occupies one end, three ribbed black dials and red/black binding posts the other. Black uppercase labels, white power lamp and a steel toggle create a small repeatable measurement panel; red is semantic connection/control emphasis. Static artifact inspection only; no operating motion/timing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI19",
+      "artifact_id": "tek-547",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/8/8a/Tek_547_D-Alt-Trace.jpeg",
+      "sha256": "7989a9df7bbea655b164487318b007acc2e80b5470759429d41e68e23c30fa9e",
+      "resolution": {
+        "width": 2756,
+        "height": 3312
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/547",
+      "title": "Tektronix 547 oscilloscope",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall cream front with large circular green CRT upper left and a removable dual-trace amplifier bay below it. Time Base A and Main Time Base B are separately bracketed on right, with red-centered dials, black tiny capitals, circular calibration scales and repeated slim vertical sliders. Thin dark rules and aligned sockets make function groups visible. Static original photograph; operating timings not measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI20",
+      "artifact_id": "tek-556",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/4/4a/556-crop.jpg",
+      "sha256": "62ce9da37ebb7de6564acbb861ea3e9f3105ff3d0e14383f687bbb39881d976f",
+      "resolution": {
+        "width": 2870,
+        "height": 2318
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/556",
+      "title": "Tektronix 556 dual-beam oscilloscope",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Wide cream measuring face with a circular inactive CRT centered high. Nearly mirrored upper left/right trigger controls flank it; two independent plug-in panels occupy lower corners. Numerous red-centered black rotary controls and red/black label hierarchies establish channels and fine adjustments. Symmetry follows repeated measurement paths rather than decoration. Static original photograph; operating timings not measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI21",
+      "artifact_id": "tek-576",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/4/4c/576_front_1000.jpg",
+      "sha256": "f7b5863d2d85e927d718fceb05e4cec0a4148b07f47f730e183f03bb5d8af9fa",
+      "resolution": {
+        "width": 1000,
+        "height": 1184
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/576",
+      "title": "Tektronix 576 curve tracer",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Three-quarter complete cabinet view shows a pale turquoise enclosure, cyan rectangular CRT at upper-left and a narrow numerical readout strip beside it. Ivory/dark gray nested dials stack on right, small function buttons below, with a projecting socket test deck across the foot. Multiple physical working planes distinguish it from a flat onscreen terminal. Static original photograph; operating timings not measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI22",
+      "artifact_id": "tek-7603",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/e/ec/7603-4trace.jpg",
+      "sha256": "f38f2a3d84e4cee7b48b267ef1ad84f45754d4ce53f8b8ade7dc58ca5682ee77",
+      "resolution": {
+        "width": 3621,
+        "height": 4483
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/7603",
+      "title": "Tektronix 7603 modular oscilloscope",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall modular silver/gray front. Broad upper CRT shows multiple lime-green waveforms and unit annotations above/below the trace field. Narrow control strip right; three lower plug-ins have repeated channel/trigger groups with calibrated concentric knobs, cream square pushbuttons and tiny blue/black capitals. Slots, screws and consistent label placement make modularity explicit. Static original photograph; operating timings not measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI23",
+      "artifact_id": "tek-7704A",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://w140.com/tekwiki/images/2/25/Tek_7704a_trace.jpg",
+      "sha256": "be4a3baf93087db0f771948d8db4acda4fb8e7941f6367ca0ab8928dad404a34",
+      "resolution": {
+        "width": 1428,
+        "height": 1197
+      },
+      "source_url": "https://w140.com/tekwiki/wiki/7704A",
+      "title": "Tektronix 7704A oscilloscope system",
+      "creator": "Tektronix; photograph via TekWiki, individual attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Large light neutral screen module above four narrow plug-ins; green step traces and unit labels on dark graticule, with a spacious blank upper-right model/identity zone. Two horizontal backlit button strips bridge the modules. Repeated neutral concentric rotary controls and little square indicator lamps communicate state; color is localized to trace, selection and status. Static original photograph; operating timings not measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI24",
+      "artifact_id": "hp-3310a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_b/3310a.jpg",
+      "sha256": "5ab906ebbbad7cd036fb3998d36a38a68b99bdb8ed2a147eb5cebe9128e51a97",
+      "resolution": {
+        "width": 350,
+        "height": 308
+      },
+      "source_url": "https://www.hpmemoryproject.org/wb_pages/wall_b_page_10c.htm#hp3310a",
+      "title": "HP 3310A function generator",
+      "creator": "Hewlett-Packard; original analytical photograph from HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete original product photo: pale gray/blue box on a wire stand, large calibrated frequency disc left, four black subordinate knobs in a two-by-two group right, and a row of outputs across bottom. Tiny uppercase legends live above controls; one blue model strip marks identity. Fine details are not font-identification evidence. Static inspection only; no instrument timing/easing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI25",
+      "artifact_id": "hp-3200b",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_b/3200b.jpg",
+      "sha256": "ec0079a4bae850f605968d39c94c71f699c1a4cc2344f9d6f15228508c637762",
+      "resolution": {
+        "width": 350,
+        "height": 334
+      },
+      "source_url": "https://www.hpmemoryproject.org/wb_pages/wall_b_page_10b.htm#hp3200b",
+      "title": "HP 3200B VHF oscillator",
+      "creator": "Hewlett-Packard; original analytical photograph from HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete original product photograph: pale gray box on stand with a narrow black horizontal frequency scale at top and a red index. Small band dial at left and larger plain tuning knob right create an asymmetric hierarchy over sparse bottom sockets and a red lamp. Rectangular scale plus tactile selectors remain recognizable without a CRT. Static inspection only; no instrument timing/easing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI26",
+      "artifact_id": "hp-8640b",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_b/8640b.jpg",
+      "sha256": "634136eef79739b8d01ae32e7e15f57d8a08690b5df392b34be62337e1c48dc7",
+      "resolution": {
+        "width": 600,
+        "height": 284
+      },
+      "source_url": "https://www.hpmemoryproject.org/wb_pages/wall_b_page_10b.htm#hp8640b",
+      "title": "HP 8640B signal generator",
+      "creator": "Hewlett-Packard; original analytical photograph from HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete rack-width instrument, black top display strip holding white arc meter, status labels and red numerical frequency readout. Cream lower face groups pale rotary dials; very large tuning knob and a concentric output-range scale dominate right. Thin printed outlines and small colored function legends organize measurement rather than ornament. Static inspection only; no instrument timing/easing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI27",
+      "artifact_id": "hp-122a_right",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_a/122a_right.jpg",
+      "sha256": "23ed25ae1dfe029bdef6ce0aedf653c8a9f1832e77260ac8044183d3ac5abaf9",
+      "resolution": {
+        "width": 300,
+        "height": 280
+      },
+      "source_url": "https://www.hpmemoryproject.org/wa_pages/wall_a_page_12.htm",
+      "title": "HP 122A oscilloscope",
+      "creator": "Hewlett-Packard; original analytical photograph from HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete compact upright product view: narrow gray instrument with a circular cyan CRT upper-left, repeated dark knobs below/left, amber indicators and BNC inputs at bottom. A plain thick housing and inset circular bezel precede later rectangular screen formats. Fine small label text is unresolved and not used as factual evidence. Static inspection only; no instrument timing/easing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI28",
+      "artifact_id": "hp-4260a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_b/4260a.jpg",
+      "sha256": "678c9edcdd73c73a005045edd63544f02c6d9a9f606848760c8e47d9cd890d83",
+      "resolution": {
+        "width": 350,
+        "height": 295
+      },
+      "source_url": "https://www.hpmemoryproject.org/wb_pages/wall_b_page_09.htm#hp4260a",
+      "title": "HP 4260A universal bridge",
+      "creator": "Hewlett-Packard; original analytical photograph from HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete original shows gray tilted cabinet on a wire stand, black upper band with two mechanical numerical windows and a central null meter, then a small matrix of dark knobs and sockets on light gray. One red center and subordinate uppercase labels provide local emphasis; a measuring bridge combines scales with counters. Static inspection only; no instrument timing/easing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI29",
+      "artifact_id": "hp-4342a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_b/4342a.jpg",
+      "sha256": "bad318872f7724ab688eeb92ee5d002b9b30d79c9c4c2e122f6101d11259bf1f",
+      "resolution": {
+        "width": 400,
+        "height": 271
+      },
+      "source_url": "https://www.hpmemoryproject.org/wb_pages/wall_b_page_09.htm#hp4342a",
+      "title": "HP 4342A Q meter",
+      "creator": "Hewlett-Packard; original analytical photograph from HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Low sloping desktop measuring console, broad central white arc meter on dark strip, two little numerical windows either side and restrained red/black controls. Long rows of ivory square range keys and two black ribbed edge rollers dominate the lower work surface. A cylindrical top test attachment makes its use physically specific. Static inspection only; no instrument timing/easing measured."
+        }
+      ]
+    },
+    {
+      "record_id": "AI30",
+      "artifact_id": "hp-1740a_right",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.hpmemoryproject.org/pict/wall_b/1740a_right.jpg",
+      "sha256": "35b8e9612dfd5b5a4e2f6db7d9a221a1e0901b965523d8fc3fac437d8d8a6c16",
+      "resolution": {
+        "width": 350,
+        "height": 295
+      },
+      "source_url": "https://www.hpmemoryproject.org/wb_pages/wall_b_page_02.htm#hp1740",
+      "title": "HP 1740A oscilloscope",
+      "creator": "Hewlett-Packard; original analytical photograph from HP Memory Project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete three-quarter product photo: pale gray enclosure on adjustable black handle/stand, bright cyan rectangular screen at left with thin trace peaks, tightly grouped ivory knobs and colored square buttons right/below, and black probe cables exiting lower-left. Contrast between dark structural frame and pale functional face is clear; exact tiny lettering is not recoverable. Static inspection only; no instrument timing/easing measured."
+        }
+      ]
+    }
+  ]
+}
