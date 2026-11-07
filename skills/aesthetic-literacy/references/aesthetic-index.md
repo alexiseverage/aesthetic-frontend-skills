@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 213
+- Full entries: 221
 - Redirect entries: 1
 - Families: 8
 
@@ -45,9 +45,11 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `88x31-badge-webring` | 88×31 Badge & Webring Culture | 88x31 button, web badge, webring, 88x31 badge |
 | `ai-slop-synthetic-corporate-art` | AI Slop / Synthetic Corporate Art | AI slop, synthetic corporate art, AI-generated corporate illustration |
 | `browser-chrome-netscape` | Browser Chrome / Netscape-Era Browser UI | netscape chrome, 90s browser frame, browser chrome, throbber era |
+| `cloud-rap` | Cloud Rap | Cloud Rap Graphics, Cloud Rap Visuals |
 | `clowncore` | Clowncore | clown core, clowncore aesthetic |
 | `demoscene` | Demoscene | Demo Scene |
 | `desktop-publishing` | Desktop Publishing / Early Mac Aesthetic | DTP aesthetic, Macintosh Bitmap Era, early Mac aesthetic, PageMaker aesthetic |
+| `digicore` | Digicore | Digicore Graphics, Digicore Visuals |
 | `dreamcore-weirdcore` | Dreamcore / Weirdcore | dreamcore, weirdcore, liminal dream edit |
 | `dvd-menu` | DVD Menu | DVD menu screen, DVD menu interface, DVD menu design, DVD-Video menu, interactive DVD menu, disc menu |
 | `early-internet` | Early Internet / Web 1.0 | webcore |
@@ -55,6 +57,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `frutiger-aero` | Frutiger Aero | — |
 | `glitch` | Glitch / Datamosh | — |
 | `hauntology` | Hauntology | cultural hauntology, lost-futures aesthetic, Ghost Box-adjacent |
+| `hyperpop` | Hyperpop | Hyperpop Graphics, Hyper Pop Visuals |
 | `j-gov-futurism` | J-Gov Futurism | sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism, diegetic-bureaucratic-ui |
 | `liminal-space-backrooms` | Liminal Space / Backrooms | liminal spaces, Backrooms aesthetic, uncanny transitional architecture |
 | `material-design` | Material Design | Material, Material UI, MDL |
@@ -115,6 +118,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `german-romanticism` | German Romanticism | German Romantic Art, Deutsche Romantik |
 | `gothic-revival` | Gothic Revival | Victorian Gothic Revival, medievalist revival, Gothic Revival architecture |
 | `grunge-typography` | Grunge Typography | grunge design, Carson grunge, deconstructionist typography, Ray Gun aesthetic |
+| `heavy-metal` | Heavy Metal | Heavy Metal Sleeve Art, Traditional Metal Graphics |
 | `high-tech-architecture` | High-Tech Architecture / Structural Expressionism | Structural Expressionism, High-tech architecture, Hi-tech architecture |
 | `insular-manuscript-illumination` | Insular Manuscript Illumination | Insular illumination, Insular gospel-book ornament, Hiberno-Saxon manuscript illumination |
 | `isotype` | Isotype | ISOTYPE, Vienna Method of Pictorial Statistics, Wiener Methode der Bildstatistik, International System of Typographic Picture Education |
@@ -126,6 +130,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `mingei` | Mingei | Mingei movement, Japanese folk craft movement |
 | `new-objectivity` | New Objectivity / Neue Sachlichkeit | Neue Sachlichkeit, New Objectivity, Verism |
 | `new-wave-typography` | New Wave Typography / Swiss Punk | Swiss Punk, New Wave Design, Swiss New Wave, Weingart Style |
+| `new-york-punk` | New York Club Punk | 1970s New York punk graphics, CBGB-era band graphics, New York club punk design |
 | `op-art` | Op Art | Optical Art, Optical Illusion Art, Retinal Art |
 | `orphism` | Orphism | Orphic Cubism |
 | `pen-and-pixel` | Pen & Pixel / Bling Era Graphics | Pen and Pixel, bling era, No Limit aesthetic, Cash Money graphics, Southern rap album design |
@@ -147,6 +152,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `suprematism` | Suprematism | Suprematist, Malevich Abstraction |
 | `swiss-international` | Swiss / International Typographic Style | Swiss Style, International Typographic Style, Schweizer Typografie, Swiss / International Style |
 | `taisho-roman` | Taishō Roman | Taisho Roman, Taishō Romanticism, Taisho Romanticism |
+| `thrash-metal` | Thrash / Crossover Metal | Thrash Metal Graphics, Crossover Thrash Graphics |
 | `ulm-school` | Ulm School / HfG Ulm | HfG Ulm, Ulm School of Design, Hochschule für Gestaltung Ulm |
 | `vienna-secession` | Vienna Secession | Wiener Secession, Wiener Werkstätte, Secession Style |
 | `vorticism` | Vorticism | Vorticist, BLAST style |
@@ -166,6 +172,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
 | `ebru` | Ebru | Turkish paper marbling, Turkish marbling, ebru art |
 | `edo-yokai-woodblock` | Edo Yōkai Woodblock | Edo supernatural woodblock, Edo yōkai prints |
+| `emo` | Emo | Emo Record Graphics, Emo Sleeve Design |
 | `english-bestiary-illumination` | English Bestiary Illumination | English illuminated bestiary, English book-of-beasts illumination |
 | `fair-isle` | Fair Isle | Fair Isle Knitting, Fair Isle Colourwork |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
@@ -177,6 +184,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `paper-theatre` | Paper Theatre | Paper Theater, Toy Theatre, Toy Theater, Papiertheater, Théâtre de Papier, Juvenile Drama |
 | `photographic-contact-sheet` | Photographic Contact Sheet | Photographic proof sheet, Photography contact-sheet vernacular |
 | `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
+| `pop-punk` | Pop-Punk | Pop-Punk Graphics, Pop-Punk Merch Design |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |
 | `safavid-manuscript-painting` | Safavid Manuscript Painting | Safavid narrative painting, Safavid illustrated manuscript |

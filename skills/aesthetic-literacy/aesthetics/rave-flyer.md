@@ -2,77 +2,88 @@
 slug: rave-flyer
 label: Rave Flyer Aesthetic
 family: historical-design-movements
-era: 1991–1997 (peak underground rave era); revival 2020–present (chrome type trend, nostalgia cycles)
+era: late 1980s–1990s acid-house and rave ephemera; later revivals
 aliases: ["rave aesthetic", "rave poster", "candy rave", "90s rave flyer"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["psychedelic", "synthwave", "pen-and-pixel"]
 subsets: []
 ---
 
 # Rave Flyer Aesthetic
 
-Rave Flyer Aesthetic is the information-dense, neon, synthetic print ephemera of early-to-mid-1990s underground rave promotion, with crossover into The Designers Republic/Wipeout-era machine futurism. It is a flyer, ticket, map, warning, lineup sheet, and subcultural signal compressed into one dark, glowing object.
+Rave Flyer is a scene-specific event communication system: a memorable visual invitation connected to lineups, dates, rooms, tickets and routes. Late-1980s acid-house photocopies, painted sci-fi fantasies, early dimensional graphics, comic collages and restrained techno invitations all belong to its documented range. Neon, smileys and chrome identify particular branches; none is a universal requirement.
 
 ## Scope
 
-Use Rave Flyer for event promotion landing pages, music/nightlife branding, festival microsites, poster-style single-page layouts, underground-culture editorials, and youth-oriented campaigns where sensory overload is intentional. Avoid it for text-heavy reading, corporate or professional services, accessibility-critical flows, navigation-heavy applications, or calm transactional interfaces.
+Use it for club-night pages, festival programmes, event archives and music-community campaigns. Preserve a strong event identity and a legible logistics layer. The artwork and practical information may share one face or occupy separate sides. A contemporary web application can carry the artwork's intensity while making booking, accessibility and arrival details easy to use.
 
 ## 7-Dimension Profile
 
-**Palette**: Neon magenta, cyan, yellow, electric lime, ultraviolet, hot pink, candy-rave aquamarine, and saturated pastel-neon accents on near-black or deep purple grounds. Daylight palettes and muted earth tones remove the rave signal.
+**Palette**: Monochrome on white or coloured stock; black/gold; saturated rainbow and duotones; blue skies and clouds; metallic or luminous jewel tones. Choose an intentional limited print identity or a coherent illustrated world. Dark neon is a recurring option, not the definition. Exact CSS values are contemporary proposals.
 
-**Type**: Condensed all-caps techno sans, OCR-derived faces, monospaced support text, stacked lineups, shadowed headlines, 3D extruded chrome or neon type, and extreme contrast for reading at a distance. Orbitron, Audiowide, Russo One, Share Tech Mono, OCR-A, and Template Gothic-like faces are useful references.
+**Type**: Condensed grotesks, slabs, ornamental serifs, rough brush marks, handwriting, artist logos and beveled techno titles. Large event names coexist with smaller organized dates, rosters and ticket details. A short expressive identity and a readable information face matter more than a particular font.
 
-**Texture**: Laser glow, photocopy grit, airbrushed gradients, metallic type, scan lines, halftone residue, CRT-like overlays, and print-production roughness. Texture should feel like small-format event ephemera moving through clubs and copy shops.
+**Texture**: Photocopy edges, ink on stock, halftone, folds, painted/airbrushed transitions, photo montage, foil-like surfaces and early rendered objects. Use texture selectively around artwork and print margins; preserve clean type and controls. Artificial scan damage is optional, not proof of authenticity.
 
-**Shape**: Smiley icons, warning symbols, arrows, circles, hard geometric containers, grid lines, wireframes, cyberpunk city elements, orbital/tunnel motifs, and machine-precision frames. Organic psychedelic arabesque should not dominate.
+**Shape**: Circular/solar motifs, clouds, portals, perspective grids, comic bursts, speakers, hand-drawn symbols and illustrated figures. Some invitations are almost entirely typographic. Smileys are meaningful acid-house identifiers; sacred imagery, specific logos and cultural symbols are not interchangeable decoration.
 
-**Motion**: Strobe-adjacent flashes, hue cycling, type slam-ins, glitch-like skew, kinetic information sequencing, glow pulse, and fast high-BPM transitions. Always provide reduced-motion alternatives.
+**Motion**: The inspected corpus is print and still reproduction. Optical depth and light streaks imply energy, not measured animation. Historical timing and easing are unknown. Intentional stillness suits a printed invitation; proposed web feedback may use short user-triggered colour changes or disclosures. Avoid flashing; remove travel and looping effects under reduced motion.
 
-**Spatial**: Maximum information density: lineups, dates, locations, ticket prices, warnings, logos, coordinates, and map fragments competing in compressed A5/A6-style poster space. Sparse luxury composition is off-model.
+**Spatial**: Strong identity and focal image with a structured logistics layer: dates, two-room lineups, booking forms, maps and ticket outlets. Art-only fronts and spare invitations coexist with dense programme reverses. Preserve hierarchy rather than making every item compete. Mobile pages should stack information instead of shrinking a poster into illegible text.
 
-**Cultural markers**: 1990s rave promotion, UK club/nightlife infrastructure, warehouse-party ephemera, photocopied flyer distribution, PLUR traces, smileys, whistles, glow sticks, The Designers Republic, Wipeout, and Warp-adjacent machine futurism.
+**Cultural markers**: Acid-house and rave communities, DJs/MCs, promoter identities, record shops, physical invitation distribution and shared dance spaces. British, North American and other regional scenes overlap without a single uniform look. Credit individual designers, including George Georgiou and Junior Tomlin, instead of treating anonymous internet nostalgia as the origin.
 
 ## Non-Negotiables
 
-**Non-negotiables**: dark ground; neon cold-light palette; extruded/shadowed techno type; high information density; and club/flyer event function. Generic EDM gradients without flyer DNA are not Rave Flyer.
+**Non-negotiables**:
+
+- A distinctive event invitation tied to a dance-music community or an honestly fictional contemporary homage.
+- A deliberate identity/art hierarchy connected to usable event logistics.
+- Specific print/promotional grammar rather than a generic neon music banner.
 
 ## Connotation
 
-Rave Flyer connotes nostalgic quotation of underground rave culture and 1990s event ephemera: energetic, synthetic, compressed, communal, and sensory-overloading. Contemporary use should feel like affectionate period reference rather than empty chrome trend-mining.
+**Mode:** contemporary revival.
+
+Communal anticipation, escape, independent promotion and a night built around music. A restrained monochrome invitation can carry the same social function as elaborate fantasy artwork. Respect the scene's participants and designers; intensity does not require caricaturing drug use or making the interface exhausting.
 
 ## Related / Subsets
 
-- `psychedelic` shares poster nativity, but Psychedelic is organic, warm-toned, hand-drawn, and immersive while Rave Flyer is synthetic, cold-neon, machine-typed, and informational.
-- `synthwave` shares neon nostalgia, but Synthwave is cinematic night-drive fantasy while Rave Flyer is denser and rooted in club ephemera.
-- `pen-and-pixel` can share extruded type, but Pen & Pixel serves luxury-spectacle collage while Rave Flyer serves event information and subcultural distribution.
-- Subsets include Candy Rave, 3D Extruded Chrome Type, and the cleaner Designers Republic / Wipeout branch.
+- `psychedelic` shares optical rhythm, hand drawing and fantasy. Rave Flyer adds a particular dance-event communication context; organic colour and lettering are compatible, not forbidden.
+- `synthwave` overlaps in grids and retro digital space, but its cinematic night-drive imagery does not establish event identity or scene logistics.
+- `pen-and-pixel` overlaps in material lettering and composite fantasy; it centers an artist/record's constructed world rather than a night's programme and admission.
+
+Monochrome acid-house invitations, airbrushed fantasy, maximal dimensional flyers and minimal techno tickets are useful branches within this entry. The Designers Republic and Wipeout are adjacent graphic histories, not synonyms or required origins for all rave flyers.
 
 ## Frontend / UI Guidance
 
-Use Rave Flyer for poster-like hero pages, event schedules, lineup reveals, ticket promo cards, and compressed campaign surfaces. Let multiple information blocks compete only where that is the point; keep purchase, safety, location, and accessibility details available in a clean secondary layer.
+Pair original event artwork with clear date, time, venue, age/arrival and access information. Build useful room filters, semantic timetables, lineup disclosures, ticket tiers and quantity totals. Allow people to save selected sets without relying on colour alone. A simulated booking must say that no admission or payment is created. Use actual buttons/links and accessible state rather than decorative ticket actions.
 
 ## CSS Translation
 
-- Color tokens: `--rave-bg: #0d0d0d; --rave-magenta: #ff00ff; --rave-cyan: #00ffff; --rave-lime: #39ff14; --rave-yellow: #ffff00; --rave-purple: #8a2be2`.
-- Type effects: gradient-clipped neon text, layered offset `text-shadow` extrusion, chrome reflection bands, and high-contrast outlines.
-- Texture: scanline overlays, halftone backgrounds, photocopy grain masks, and `mix-blend-mode: screen` light layers.
-- Layout: tight 12-column grids, overlapping cells, hard geometric frames, warning stripes, and information-density modules.
-- Motion: hue-rotate/strobe accents, slam-ins, skew glitches, glow pulses, and `prefers-reduced-motion` fallbacks.
+- Choose role tokens for ink, stock, contrast accent, secondary room and rules; e.g. dark navy plus pale lemon/cyan is one proposed branch.
+- Use a bounded original illustration or procedural optical graphic with essential event text in HTML.
+- Condensed or tightly spaced display lettering may use a controlled outline/offset shadow; body copy stays solid and comfortably sized.
+- Separate image, schedule and booking with printed rules, numbered sections and occasional bursts. Use grid for alignment, not arbitrary overlapping controls.
+- Feedback can be 120–180 ms colour/opacity changes. Preserve the static composition and all state changes under `prefers-reduced-motion`; no strobe or perpetual hue cycle is necessary.
 
 ## Typography / Fonts
 
-Use Orbitron, Audiowide, Russo One, Share Tech Mono, OCR-A/Template Gothic-like licensed faces, condensed grotesks, and monospaced techno support text. Keep legal, venue, safety, and ticket details in readable high-contrast type even inside dense layouts.
+Match the chosen branch: a condensed grotesk/slab for an early invitation, an ornamental serif for fantasy, or an outlined/extended techno title for dimensional print. System Impact/Arial Narrow, Georgia and Arial are possible accessible fallbacks, not verified historical identifications. Keep lineup names and prices readable; do not apply display distortion to inputs, conditions or schedules.
 
 ## Cultural / Ethical Notes
 
-Rave flyers are tied to underground nightlife, drug-policy discourse, youth subculture, and physical distribution networks. Commercial reuse should not strip all context into a chrome/neon trend; keep event function, subcultural specificity, and harm-reduction/accessibility information legible where relevant.
+Use original fictional names, art and symbols for a new event rather than copying flyers, label logos or artist likenesses. Credit known work and qualify uncertain attribution. Keep access and arrival information visible. Avoid sacred/ethnic motifs as generic exotic ornament, fake promoter endorsement, counterfeit admission and historical drug-use stereotypes. Community care and inclusion should be concrete event information.
 
 ## Anti-Patterns
 
-- Generic neon EDM branding with no flyer information density.
-- Organic psychedelic lettering treated as the dominant system.
-- Using strobe or hue cycling without reduced-motion alternatives.
-- Hiding venue, ticket, safety, or age information in decorative effects.
-- Making the style sparse, luxury, and calm.
+- Requiring neon, darkness, chrome, a smiley or maximum density across every variant.
+- Turning static print energy into strobing or incessant animation.
+- Replacing event identity with an ungrounded EDM gradient.
+- Shrinking a whole flyer image and expecting it to serve as accessible navigation or booking.
+- Hiding ticket tiers, times, access information or form outcomes in effects.
+
+## Source Notes
+
+The [research profile](../../../knowledge/aesthetics/rave-flyer.md) audits 34 qualifying unique references. See the [Classic Trax photographed collection](https://www.classictrax.co.uk/classic-rave-flyers/), [George Georgiou's archive](https://www.georgegeorgiouclubart.com/club-flyers), [Rave Preservation Project's curated originals](https://www.ravepreservationproject.com/90s-rave-flyers.php), [Junior Tomlin's practitioner interview](https://mixmag.net/feature/junior-tomlin-rave-flyer-book-art-exhibition-90s) and [Dave Nicholson's acid-house collection context](https://velocitypress.uk/rarest-uk-acid-house-flyers/).

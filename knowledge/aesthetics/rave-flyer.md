@@ -2,52 +2,119 @@
 slug: rave-flyer
 label: Rave Flyer Aesthetic
 first_researched: "2026-07-15"
-last_updated: "2026-07-15"
-source: mixed text sources; no downloaded image corpus
-image_count: 0
-evidence_level: limited
+last_updated: "2026-11-06"
+source: "mixed: collector scans, artist archive, international preservation archive and practitioner interview reproductions"
+image_count: 34
+evidence_level: standard
 new_aesthetic: false
 aliases: ["rave aesthetic", "rave poster", "candy rave", "90s rave flyer"]
 ---
 
 # Rave Flyer Aesthetic
 
+Direct-media correction of the [initial text-only backfill](rave-flyer/research-2026-07-15.md). The previous profile had zero inspected images and prescribed dark neon, chrome, maximum density and strobe timing. Those claims were not measured. The present corpus contradicts the first three as universal rules; print cannot establish the fourth.
+
 ## Source / Evidence Links
 
-- https://en.wikipedia.org/wiki/The_Designers_Republic
-- https://www.thedesignersrepublic.com/project/wipeout
-- https://peoplesgdarchive.org/item/17488/wipeout-1995
+- [Classic Trax](https://www.classictrax.co.uk/classic-rave-flyers/): ten independently dated physical UK flyers from 1991–92, photographed on both sides. Collector captions locate events; designer credits remain unknown unless printed.
+- [George Georgiou's original archive](https://www.georgegeorgiouclubart.com/club-flyers) and [artist biography](https://www.georgegeorgiouclubart.com/about): five acid-house invitations plus one excluded contextual RAW photograph. The artist documents work on warehouse/club graphics from 1985 and Shoom/RAW/Special Branch identities. Not every item on this large portfolio page is treated as rave.
+- [Rave Preservation Project](https://www.ravepreservationproject.com/90s-rave-flyers.php): fifteen complete public lightbox works, including one associated ticket-outlet poster, across US, Canada and Germany. The archive describes collecting physical memorabilia and digitizing since 2013. This selection is not a random global survey. Individual page metadata can contain spelling/date/location contradictions; those are retained as caveats, not propagated as verified history.
+- [Isaac Irwin / Junior Tomlin, Mixmag, 12 March 2020](https://mixmag.net/feature/junior-tomlin-rave-flyer-book-art-exhibition-90s): four complete reproductions, three visibly signed. Tomlin describes sci-fi/fantasy/surrealist influences, an airbrush-to-digital practice, music-industry commissions and unity imagery. His recollections contextualize these works; no timing is inferred from stills.
+- [Dave Nicholson, Velocity Press guest essay](https://velocitypress.uk/rarest-uk-acid-house-flyers/): collector/practitioner context for photocopied/screen-printed 1988–89 invitations, maps, inventive folds and diverse designer practices. Text consulted, illustrations not counted. Its auction anecdotes are not a market valuation or required aesthetic traits.
+
+## Direct Media Audit
+
+The [ledger](rave-flyer/media-ledger.json) contains **45 inspected view records**: **34 qualifying unique works** (33 stills, 1 associated print artifact), 10 duplicate reverse views and 1 excluded contextual RAW work. Thirty-reference target and ten-reference floor met. Zero videos, generated assets or downloads count as historical evidence. Collection distribution: Classic Trax 10, George Georgiou 5, RPP 15, Tomlin interview 4. Four collections are not 34 independent creators: ten UK flyers have unidentified designers and RPP concentrates on its own curated holdings.
+
+Every counted work was opened individually as a complete useful scan or full lightbox image. Classic Trax uses advertised 768–1152 px renditions; an advertised original 23.jpg returned 503, so the useful 768 px rendition was inspected instead. Its other originals were not all separately attempted. Both sides of each event flyer count once. Georgiou originals range 433–2500 px wide; the small Shoom original is complete and legible. RPP public full-view renditions range 449–2200 px wide, often 700 px high; no larger public rendition was advertised. Signed expiring image URLs are omitted in favour of stable public artifact pages. Loading placeholders and thumbnail/grid views add zero. Re-observation confirmed images after initially pending loads. Tomlin reproductions are 662–1134 px wide.
+
+No account was created or restriction bypassed. Phatmedia was located as an alternate collection but not visually analyzed; Cornell's old finding-aid URL moved and did not supply evidence. A Resident Advisor application-reference page stayed at automatic device verification; it was not counted or interacted with. FOLD's accessible live event page supplied a separate modern interface reference, contributing zero historical works.
+
+### Coverage, deduplication and stopping decision
+
+The first ten UK front/back pairs exposed restrained and fantasy variants; the artist archive strengthened monochrome/hand-lettered early invitations. North American and German works added pulp comics, floral collage, playful speakers, minimal paired techno tickets, commercial parody and script typography. Four Tomlin reproductions added directly attributed painted work and community meaning. Final additions confirm identity/logistics hierarchy while contradicting a universal visual recipe. Selected dated Dreamscape works reuse a face/title series but are distinct event designs, not crops or mirrors. Monthly Life! dates count as one programme; Sickness/Recovery panels count once. No unresolved selected duplicate candidates remain.
+
+Motion is not a defining media requirement for printed ephemera. Historic animation remains unknown; no still corpus is presented as proof of strobe behavior. Exact fonts/ink values and the full global scene remain unverified. This is a purposive representative corpus, not a statistical census.
 
 ## Dimension Synthesis
 
-| Dimension | Canonical (≥70%) | Common (30–70%) | Variant / Avoid |
-|---|---|---|---|
-| Palette | neon magenta, cyan, lime, ultraviolet, and yellow on deep black or purple grounds. | candy-rave pastel neons and chrome-highlight variants. | daylight palettes or muted earth tones. |
-| Type | condensed techno sans, OCR-derived display faces, stacked information blocks, and shadowed or extruded headlines. | chrome 3D type and monospaced support text. | calligraphic warmth or subdued editorial serif treatment. |
-| Texture | laser-glow, photocopy grit, airbrushed gradients, metallic type, and print-production roughness. | scan grain and dot-screen poster residue. | soft matte natural materiality. |
-| Shape | smiley icons, warning symbols, arrows, circles, grid lines, hard geometric text containers, and machine-age framing. | orbital or tunnel motifs. | organic psychedelic arabesques as the dominant system. |
-| Motion | strobe-adjacent flashes, type slam-ins, and kinetic information sequencing. | slow chrome rotation or glow pulse. | calm contemplative pacing. |
-| Spatial | high-density flyer logic: dates, locations, lineups, warnings, and logos competing in compressed poster space. | hero-centered rave-poster adaptations. | sparse luxury composition. |
-| Cultural markers | 1990s rave promotion, club/nightlife infrastructure, The Designers Republic crossover, Wipeout-era machine futurism, and underground event ephemera. | PLUR and warehouse-party memory traces. | generic EDM festival branding with no underground flyer DNA. |
+| Dimension | Observed core / variants | Claim support | Confidence / limits |
+| --- | --- | --- | --- |
+| Palette | Limited print identities through saturated illustrated worlds; no mandatory dark-neon palette | Shoom, Eclipse, Raindance, Equinox, Summer Love, Holy Xmas | High for range; all CSS hex values proposed, not sampled historic inks |
+| Type | Large event/artist identity with differentiated logistics; condensed, slab, serif, script, brush and techno branches | Shoom Coldcut, SIN, Musicology, Mythology, Holy Xmas, Daft Punk | High for categories/hierarchy; exact font identification unknown |
+| Texture | Ink/photocopy/stock, folds, painted light, photos and rendered/foil objects | Classic Trax pairs, Tomlin signed work, Goldie, Atlantis | High for visible appearance; toolchain only source-supported for Tomlin's general practice |
+| Shape | Typography-led invitations, optical forms, illustrated figures, portals and material objects | SIN, Energetic, Fantazia, Life!, One Nation | High for diversity; cultural meanings require contextual testimony |
+| Motion | Static compositions, optical implied movement | All 34 print works | Unknown historical timings; stillness and user-feedback are proposed applications |
+| Spatial | Memorable identity/art plus organized logistics, often opposite sides; spare and dense variants | Eclipse, Richards, Dreamscape pairs, booking-form Weekender, minimal Sickness | High; source print does not establish responsive breakpoints |
+| Cultural markers | Specific promoters, dance communities, DJs/MCs, admission/routes/shops; designer agency | Reverse information, artist archive, Tomlin unity statement, RPP metadata | High for scoped context; moderate for broad regional generalization |
 
 ## Image Descriptions
 
-No image corpus was collected for this limited-evidence pass (`image_count: 0`). The links above were used to ground provenance, representative visual evidence, cultural context, and misuse cautions, but they should not be treated as a downloaded image set.
+Per-view URLs, dimensions, provenance, handling and observations are recorded in the ledger. One row below represents one qualifying underlying work; reverse scans never inflate the count.
+
+| Record | Artifact and observation |
+| --- | --- |
+| `rave-eclipse-1991-front` | Eclipse first anniversary, Cambridge Corn Exchange, 11 May 1991 — front — Black and matte gold front with an outlined raised-hand figure before a large sun and angular rays; no type beyond a small signature. Reverse is pale stock with black serif first-anniversary identity, exact date/time, two rooms, lineup, advance/door price, ticket-agent columns and over 18/access conditions. Contradicts mandatory dark-neon palette, chrome lettering and text-dense front: art and logistics can occupy separate sides. |
+| `rave-dance91-front` | Dance’91, Norwich Sports Village, 20 July 1991 — front — Warm rainbow front with large red/yellow extruded DANCE91 stack, wireframe forms and globe. Black reverse with white/gold serif hierarchy, Saturday date/time, DJs, sound/laser promises and dense yellow ticket-outlet columns. A neon-like front coexists with conventional serif logistics. |
+| `rave-richards-parties-front` | Richards Parties, Ocean Rooms Gorleston, 13 July 1991 — front — Black-and-white borrowed cinematic figure/submarine montage, orange title strips RUN SILENT RUN DEEP, film-credit-style footer. Pale reverse with serif/italic copy, three-tier arena information and reversed black ticket/contact band. No mandatory chrome or neon. |
+| `rave-raindance-front` | Raindance Indian Summer, Wicken, 28 September 1991 — front — Blue/red patterned frame, tiger/dancer illustration, light italic lowercase title and modest lineup. Cyan reverse organizes a hand-drawn map, coach and information panels, ticket-agent columns and a free-funfair burst. Fold lines establish print artifact; tiny body copy not used for exact claims. Culturally specific motifs are variant imagery, not generic mandatory decoration. |
+| `rave-energetic-weekender-front` | Energetic Weekender, Pontins Hemsby, 25–27 October 1991 — front — Nearly textless black front combines op-art spiral/checker disc, globe, small horse and perspective floor. Cream reverse uses two-column serif logistics with labels, live/DJ lists and an actual accommodation/coaches/quantity booking form. This is evidence for separating immersive artwork from functional booking. Historic financial fields and handwritten personal marks are not transcribed. |
+| `rave-dreamscape-1991-front` | Dreamscape, Denbigh Leisure Park, 6 December 1991 — front — Black front fuses a photographic face with green wireframe head/landscape, large white horizontally striped title, corner date and promoter logo. Cream reverse with red/blue/green blocks, venue photo, map, DJ and attractions polygons, ticket-agent columns and advance-ticket terms. Rendered/pictured dimensionality and ordinary readable logistics coexist. |
+| `rave-dreamscape-ii-front` | Dreamscape II, Denbigh Leisure Park, 28 February 1992 — front — Blue cloud montage with closed-eyed face, small silhouetted figure and central white striped title with green Roman II. Cream reverse repeats striped title, magenta starburst lineups/attractions, green ticket panels, crowd photograph and route map. Reuses event-series grammar but is a distinct dated event work; art is not an actual animated artifact. |
+| `rave-musicology-front` | Amnesia House Musicology, Donington Park, 14 March 1992 — front — Front uses a dark human profile silhouette filled by a radial golden light burst on blue and a large white tilted serif Amnesia House logo. Pale reverse uses spaced multicolour MUSIC OLOGY letters, black strips, coloured-rule boxes, large condensed DJ list and dense ticket/directions columns. Serifs and print grids qualify alongside optical spectacle. |
+| `rave-fantazia-summertime-front` | Fantazia Summertime, Matchams Park, 15 May 1992 — front — Front is a blue cloudy impossible corridor with receding portals, magenta wireframe floor, floating Earth and large white wedge-serif logo. Reverse has orange sunburst event banner, green and white two-arena lineup boxes and small multicolumn ticket agents. Illusion of motion/depth is static; two rooms carry different schedules. |
+| `rave-mythology-1992-front` | Mythology, Lower End Farm Oxford, 1 May 1992 — front — Royal-blue curtain and pale winged horse illustration frame white engraved serif title; plain white sans event details occupy lower half. Pale reverse repeats serif identity with horse line drawings, blue rules, multicolour list dots, lineup/attractions and dense ticket-agent columns. Fantasy illustration is a meaningful variant; no smiley, chrome or fluorescent palette required. |
+| `rave-shoom-coldcut` | Shoom Coldcut, February 27 (year not printed) — Black-and-white landscape flyer. Giant condensed slab COLD CUT, narrow condensed secondary copy, rotated edge logistics, black rectangular weights and a line smiley. A restrained typographic acid-house invitation counters mandatory rainbow/chrome. |
+| `rave-shoom-trance-dance` | Shoom Trance Dance, February 13 (year not printed) — Complete small original, legible at native 433 px. Monochrome portrait with handwritten Shoom Club, stacked jagged/slashed TRANCE DANCE lettering, very condensed centred venue/DJs, small smiley and ample blank stock. Distinct from neon 1990s CG trope. |
+| `rave-sin-original` | SIN at Wet Bike Centre, October 1 (year not printed) — Long monochrome flyer, huge rough condensed SIN, boxed crosshatched comic face and right-aligned heavy DJ roster with serif date/location. Three clear blocks; the event function and house DJs ground relationship, not a universal illustration vocabulary. |
+| `rave-sin-all-day` | SIN All Dayer, May 1, Second Summer of Love (year not printed) — Off-white stock with red I in huge black SIN, condensed ALL DAYER and BANK HOLIDAY headline, typewriter-like serif DJ rows, scribbled flower glyphs and abstract edge panel. Printed second summer of love wording; no invented exact year. |
+| `rave-sin-kraze` | SIN All Day Kraze, May 29 (year not printed) — Long pink-strip flyer: black rotated SIN, oversized irregular outlined KRAZE, flower doodles, handwritten notes, ruled vertical date/tickets panels. Event/DJ/ticket function remains clear while the wordmark supplies energy. |
+| `rave-rpp-truth` | Truth, Los Angeles Park Plaza, 9 March 1991 — Orange/yellow concentric rings, navy italic Truth with heavy white sticker-like outline and condensed black RAVE ON...TRIP OUT. Everyday commercial-package parody rather than techno chrome. Main complete lightbox front inspected, reverse thumbnail not counted. |
+| `rave-rpp-sunset-pacific` | Sunset Pacific Sound, Katospace SF (date not established) — Black rough hand-drawn border, leaves, central interlocking-circle geometry and small mask/creature on pale blue stock. Art-only front: no digital render or event type. Complete lightbox front inspected, back only thumbnail and not analyzed. |
+| `rave-rpp-equinox` | Equinox, Sacramento, Saturday April 18 (year not established) — Flat orange/yellow solar photograph/texture with curved yellow high-contrast serif Equinox upper left. Asymmetric visual field and quiet wordmark. Demonstrates warm duotone natural imagery rather than compulsory dark neon. Complete lightbox front inspected. |
+| `rave-rpp-maskarave2` | Maskarave 2, New York Coliseum, 30 October 1993 — Pulp-science-fiction comic cover: bold yellow/red perspective title, planets, costumed figures and angular yellow promotional bursts on navy. Heavy cover-story collage and drawn/printed texture, not abstract chrome. Date embedded under title; complete front with metadata inspected. |
+| `rave-rpp-summer-love` | Summer Love, Vancouver/BC, 6 August 1994 — Dense warm-brown ephemera collage with metallic embracing figures, daisy border and fluid purple outlined Summer Love lettering. Organic/flower/community imagery and dimensional collage coexist. Complete front inspected. Archive location gives Vancouver while venue description points to Revelstoke; do not use this as verified exact geographic history. |
+| `rave-rpp-airport94` | Atlantis Airlines ticket outlet poster, Airport 94 Toronto, 17 September 1994 — Associated ticket-outlet poster, not the event lineup flyer. Off-white folded stock, black/yellow outlined italic ATLANTIS, horizontal flight-speed wedges, black oval AIRLINES and reversed TICKET OUTLET band. Deliberately spare commercial print variant retained as boundary support. Event date/location from archive metadata, not pictured title panel. |
+| `rave-rpp-sickness-recovery` | Sickness / Recovery, Windsor, August 1996 (exact day metadata contradictory) — Paired black and cream rounded-ticket panels with small red identities, wide techno lettering SICKNESS and RECOVERY and huge blank areas. Minimal typography/shape is an intentional counterexample to compulsory maximalism. Archive day/date fields conflict; only month/year used. Two connected panels counted as one flyer work. |
+| `rave-rpp-holy-xmas` | Holy Xmas Rave, Dorian Gray Frankfurt, 24–26 December 1994 — Dark crimson satin-like drapery/photo field, oval ornamental picture frames, large silver X and flowing silver calligraphic Holy Xmas Rave. Folded two-panel front, date script lower right. Luxurious gothic/christmas variant challenges compulsory sans type and optical grids. |
+| `rave-rpp-ftt-goldie` | Funky Tekno Tribe / Goldie / Metalheadz, San Francisco, 10 May 1996 — Golden crinkled metallic field and large round blue/silver Metalheadz skull badge above outlined techno GOLDIE and angular METALHEADZ. Dimensional object plus foil texture creates focus without a dense multicolour all-over composition. Public full lightbox inspected after initial load remained pending; re-observation confirmed 506x 700. |
+| `rave-rpp-ftt-daft-punk` | Funky Tekno Tribe Daft Punk, San Francisco, 29 March 1997 — Black textured rectangle with yellow rough brush Daft Punk logotype, thin geometric arcs/circles and grid rules, small widely tracked techno event details and outlined date numeral. Two-colour foreground with a disciplined event grid; artist logo differs from body typography. |
+| `rave-rpp-life-may93` | Life! Sound Factory, San Francisco, May 1993 monthly programme — Magenta/green diagonal fields, blue starry cosmos, spherical Earth and MAY1993 orb, floating horn speakers and offset dimensional LIFE letters. Playful assembled 3D/music objects with readable date object. Four weekly dates in metadata belong to one monthly flyer, counted once. |
+| `rave-rpp-see-the-light` | See the Light Tour, San Francisco, 14 November 1993 — Purple radial light rays on black, large blue extruded LIVE and date, stacked distinctive artist logos with white contours. Poster hierarchy uses shared event/date headers while preserving individual artist identities. Static light streaks do not establish flashing or animation. |
+| `rave-rpp-wacky-citrus` | Wacky Citrus, San Francisco Bay Area, 16 May 1992 — Rainbow nested psychedelic wave borders, yellow/orange warped black-outline title, cut orange slices and receding turntables. Flat illustrated colour and cartoon objects rather than photoreal chrome. Complete 449 px-wide lightbox is useful and all main elements legible. |
+| `rave-rpp-wicked` | Wicked, San Francisco Bay Area, 9 April 1994 — White-stock invitation with curved rainbow scaly/serpent-like arch, stacked outlined decorative-serif DJ names, blue graffiti-like Wicked mark, rough black date and contact line. Large pale negative space and one spectral motif. Creature identity is visual interpretation, not verified meaning. |
+| `rave-rpp-toon-town` | Toon Town, San Francisco Bay Area, 11 April 1992 — Pale purple textured field, red saucer hovering under curved TOON TOWN, giant white-outline techno UFOs are real and strong condensed date/live title bands. Geometric/science-fiction object poster with clear event hierarchy, little high-frequency decoration. Exact performer identity is not inferred from the image; metadata explicitly lists it. |
+| `rave-tomlin-one-nation-valentines` | One Nation Valentines Ball, Roller Express London, 12 February 1994 — Airbrushed fantasy couple with metallic helmets/candle wicks and luminous heart background; blue/gold/magenta fabric, polished spherical details and small white date/venue footer. Painted sci-fi romance with meaningful emotional theme, not a generic computer render. Signature Junior Tomlin 94 visible. |
+| `rave-tomlin-dreamscape23` | Dreamscape 23 A View to a Thrill, Milton Keynes, 30 November 1996 — Large closed-eye face in blue clouds, metallic textured orbs, red extruded striped DREAMSCAPE title and silver beveled A VIEW TO A THRILL. White condensed date/venue and curved DJ-count line. Distinct dated iteration of ESP face/cloud series, not mirror of 1991/92 flyers. |
+| `rave-tomlin-peace-fest93` | Peace Fest 93 Half as Funky — Turquoise underwater field with dolphin, droplets and central smiling split-portrait, red dimensional PEACE FEST93 title and small unity badge. Artist describes such split portraits as unity statements; race/community meaning is contextual testimony, not inferred from skin-colour sampling. Legible complete art. |
+| `rave-tomlin-telepathy-step` | Telepathy / Inception Step in Time, Ilford, 24 June 1995 — Gold/blue airbrushed pharaonic figures, floating pyramids, outlined decorated TELEPATHY and light STEP IN TIME, compact white date/venue footer. Highly specific Egyptian imagery retained as a documented variant, not generic required ornament or a motif to casually copy. |
 
 ## Analysis
 
-Rave flyer aesthetics sit at the intersection of underground event promotion and the more polished machine-futurist graphics associated with The Designers Republic and Wipeout-era visual culture. The sources here skew toward adjacent design-documentation rather than comprehensive flyer archives, so the profile should remain explicitly limited-evidence.
+### Classification and claim boundaries
 
-Representative visual evidence is information-dense and event-functional: stacked lineups, dates, alarms, coordinates, techno type, and neon/glow systems built to compete on a small print surface. This makes rave-flyer distinct from psychedelic poster work, which is more organic and less machine-precise.
+This remains one canonical Rave Flyer entry, now grounded in actual event ephemera instead of adjacent Wipeout references. Observed: identities, print texture, variant illustration/type, focal composition and logistical organization. Source-supported: artist practice, dates where printed/verified, community/invitation contexts. Proposed: a responsive night programme, room filters, saved-set itinerary, ticket selectors, input focus and short feedback. Unknown: historical easing, universal fonts, original ink measurements and responsive behavior.
 
-Ethical and usage note: rave aesthetics are deeply tied to subcultural nightlife, drug-policy discourse, and underground distribution. Commercial reuse that strips out that context can quickly turn into empty trend-mining; keep the event-poster function and subcultural specificity visible.
+An original portal drawing is a legitimate contemporary variant, but a portal is not the aesthetic's sole identity. A minimal ticket can be as scene-specific as a crowded painted flyer. The consistently useful translation is event identity plus deliberate information architecture. The old prohibition on organic/serif/daylight imagery is removed. The Designers Republic/Wipeout adjacency remains a boundary rather than an origin story for all rave print.
+
+### Rights, ethics and limitations
+
+All source scans remain link-only analysis; no redistribution license was established and no reference image bytes ship. Use original fictional names and symbols in application artwork. Sacred/ethnic imagery observed in some works is specific historical content, not a generic motif kit. Do not reproduce historic booking-card fields, personal annotations or real phone numbers as interactive controls. No claim is made that archive admission language reflects present safety or legal requirements. FOLD's current policies are an interface-content example, not copied event terms for a fictional new night.
+
+The airport ticket-outlet poster is explicitly a contextual print artifact with a sparse commercial identity; it is not misrepresented as a full roster flyer. Sickness/Recovery metadata contradicts itself on day/date, so only August 1996 is used. Summer Love's archive city and venue mapping conflict; no precise geography is inferred. Dreamscape 23 is reproduced with Tomlin's interview but its per-piece authorship is not independently established; signed works carry stronger attribution.
 
 ## Connections
 
-- `psychedelic` — both are poster-native, but rave-flyer is synthetic, cold-neon, and machine-typed where psychedelic is warm and hand-drawn.
-- `synthwave` — synthwave shares neon nostalgia, but rave-flyer is denser, more informational, and rooted in club ephemera rather than cinematic retro fantasy.
-- `pen-and-pixel` — both may use extrusion, but rave-flyer serves event information while Pen & Pixel serves wealth spectacle.
+- `psychedelic`: substantial shared optical/organic poster vocabulary; event/social function scopes Rave Flyer.
+- `synthwave`: shares some digital fantasy, lacks necessary invitation/logistics context on its own.
+- `pen-and-pixel`: narrative collage and material type can overlap; record-persona and event-programme priorities differ.
 
 ## Research Updates
 
-- 2026-07-15: Initial limited-evidence profile created for canonical-migration backfill. Follow-up image collection could raise `evidence_level` to `standard` by adding a 10–25 image corpus.
+### 2026-07-15 — Text-only migration backfill
+
+Initial image_count 0 draft retained separately. Its percentages and universal palette/motion assertions were unmeasured and are superseded.
+
+### 2026-11-06 — Direct-media correction
+
+Inspected 34 qualifying unique works in 45 view records across four useful collections; 10 reverse duplicates, 1 excluded contextual work. Target met with important counterexamples. Corrected mandatory neon/chrome/density and unsupported historical motion; retained print/event function and designer attribution. Authoring-agent source review; no independent review claimed.

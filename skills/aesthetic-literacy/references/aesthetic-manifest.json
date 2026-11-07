@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 213,
+  "fullEntryCount": 221,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -505,6 +505,16 @@
       ]
     },
     {
+      "slug": "cloud-rap",
+      "label": "Cloud Rap",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Cloud Rap Graphics",
+        "Cloud Rap Visuals"
+      ]
+    },
+    {
       "slug": "clowncore",
       "label": "Clowncore",
       "family": "digital-internet-native",
@@ -754,6 +764,16 @@
       ]
     },
     {
+      "slug": "digicore",
+      "label": "Digicore",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Digicore Graphics",
+        "Digicore Visuals"
+      ]
+    },
+    {
       "slug": "dreamcore-weirdcore",
       "label": "Dreamcore / Weirdcore",
       "family": "digital-internet-native",
@@ -806,6 +826,16 @@
       "aliases": [
         "Edo supernatural woodblock",
         "Edo yōkai prints"
+      ]
+    },
+    {
+      "slug": "emo",
+      "label": "Emo",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Emo Record Graphics",
+        "Emo Sleeve Design"
       ]
     },
     {
@@ -1137,6 +1167,16 @@
       ]
     },
     {
+      "slug": "heavy-metal",
+      "label": "Heavy Metal",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Heavy Metal Sleeve Art",
+        "Traditional Metal Graphics"
+      ]
+    },
+    {
       "slug": "heritage-motorsport-livery",
       "label": "Heritage Motorsport Livery",
       "family": "vernacular-commercial",
@@ -1169,6 +1209,16 @@
         "Structural Expressionism",
         "High-tech architecture",
         "Hi-tech architecture"
+      ]
+    },
+    {
+      "slug": "hyperpop",
+      "label": "Hyperpop",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Hyperpop Graphics",
+        "Hyper Pop Visuals"
       ]
     },
     {
@@ -1498,6 +1548,17 @@
       ]
     },
     {
+      "slug": "new-york-punk",
+      "label": "New York Club Punk",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "1970s New York punk graphics",
+        "CBGB-era band graphics",
+        "New York club punk design"
+      ]
+    },
+    {
       "slug": "nu-goth-pastel-goth",
       "label": "Nu-Goth / Pastel Goth",
       "family": "contemporary-lifestyle",
@@ -1681,6 +1742,16 @@
       "aliases": [
         "Pop",
         "Pop Art Movement"
+      ]
+    },
+    {
+      "slug": "pop-punk",
+      "label": "Pop-Punk",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Pop-Punk Graphics",
+        "Pop-Punk Merch Design"
       ]
     },
     {
@@ -2115,6 +2186,16 @@
         "Broadcast teletext",
         "Teletext design",
         "Ceefax-style teletext"
+      ]
+    },
+    {
+      "slug": "thrash-metal",
+      "label": "Thrash / Crossover Metal",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Thrash Metal Graphics",
+        "Crossover Thrash Graphics"
       ]
     },
     {
