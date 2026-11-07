@@ -1,0 +1,1231 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "VA01",
+      "artifact_id": "vector-game-tac-scan",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/35/tac-scan-35351.jpg",
+      "sha256": "37e4265797eaebb3282525853b5914ed3645ef82202f0465f7a87f269404580b",
+      "resolution": {
+        "width": 360,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/tac-scan",
+      "title": "tac-scan",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black portrait field, blue/yellow outlined ship formation below, small colored projectiles and blue angular score upper left. Dark copy limits fine detail."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA02",
+      "artifact_id": "vector-game-solar-quest",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/33/solar-quest-33886.jpg",
+      "sha256": "c57014358e12771eb7bb1b79ec22bd59e490fc31b651023481cc71c32f58ad36",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/solar-quest",
+      "title": "solar-quest",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sparse black/blue field, blue outline ships around yellow central star; red thin-stroke score on top."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA03",
+      "artifact_id": "vector-game-gravitar",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/27/gravitar-27605.jpg",
+      "sha256": "5dcdb7475dce87357b9838610d11b2e5a3aa4ee8e19bb04f22cd6eb0931214d6",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/gravitar",
+      "title": "gravitar",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green angular terrain below, thin angular status across top, small outlined craft, broad empty center."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA04",
+      "artifact_id": "vector-game-armor-attack",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/23/armor-attack-23487.jpg",
+      "sha256": "c648b3bf1e33bc10fe34ef716a188f56e744f10a434fa11b8e1276cedc113e12",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/armor-attack",
+      "title": "armor-attack",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White unfilled helicopter and tank geometry; central radial explosion lines on black."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA05",
+      "artifact_id": "vector-game-black-widow",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/24/black-widow-24252.jpg",
+      "sha256": "92fd52f30adb1359ddb15f1637658bb7e1cfa828e1de330de3dfd4404145c4d2",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/black-widow",
+      "title": "black-widow",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue/green concentric polygon web, small multicolor insect outlines; red score header and green wave footer."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA06",
+      "artifact_id": "vector-game-tail-gunner",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/35/tail-gunner-35372.jpg",
+      "sha256": "9686a9f88c44b51b4444567bc9c55c44a66c00fe2b658b6fe61114fbde64540a",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/tail-gunner",
+      "title": "tail-gunner",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cyan wireframe craft converge near central crosshair; sparse dots and angular numerals on near-black."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA07",
+      "artifact_id": "vector-game-eliminator",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/26/eliminator-26434.jpg",
+      "sha256": "663f7c5e2580a13aad927663f567ae4779ca7b5b4fb0eaf5e6d0d19c42080cd8",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/eliminator",
+      "title": "eliminator",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Thin blue rectangular frame, orange irregular open ring, rainbow outline ships; angular green footer."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA08",
+      "artifact_id": "vector-game-space-fury",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/34/space-fury-34054.jpg",
+      "sha256": "9d67af36dfe7a705f953be483b49c432ec1a87536c2ab28719b3a1167e4d94f3",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/space-fury",
+      "title": "space-fury",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Yellow angular numerals above, multicolor outline craft scattered across black with small point projectiles."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA09",
+      "artifact_id": "vector-game-red-baron",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/32/red-baron-32590.jpg",
+      "sha256": "0ba2e429e940675c5f1ad47994c04cebb2a68c09d81cf61aba27846f8ed62921",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/red-baron",
+      "title": "red-baron",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cyan wireframe mountains and aircraft, central reticle, angular score labels; unfilled polygons convey depth."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA10",
+      "artifact_id": "vector-game-quantum-inadequate-view",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.arcade-museum.com/images-game/32/quantum-32166.jpg",
+      "sha256": "f61682eac3f765851dfff067758df745817b81bbb420afd81c56d61fb41cee5a",
+      "resolution": {
+        "width": 360,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/quantum",
+      "title": "quantum",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Very dark sparse capture with score and LEVEL text; central geometry too dim for substantive claims. Excluded."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA11",
+      "artifact_id": "vector-game-speed-freak",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/34/speed-freak-34261.jpg",
+      "sha256": "f5d0faa3fc5c9da82c25c7fce08821bc985642a16f4c1ea965b62263df43c610",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/speed-freak",
+      "title": "speed-freak",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White perspective road edges, dashed centerline, outlined car; angular score/time in upper corners."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA12",
+      "artifact_id": "vector-game-tempest",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/35/tempest-35583.jpg",
+      "sha256": "1660d1a12f7c7162db4fbddb9d1348aa00799f362f128bb83d49ec3c79a54971",
+      "resolution": {
+        "width": 360,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/tempest",
+      "title": "tempest",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue radial funnel web, yellow player shape and colored small objects; green angular score on black."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA13",
+      "artifact_id": "vector-game-cosmic-chasm",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/25/cosmic-chasm-25298.jpg",
+      "sha256": "fb5365402cf67130e3390cf94e1c8077b0a735039f407e510930b2eaf8bf0e43",
+      "resolution": {
+        "width": 360,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/cosmic-chasm",
+      "title": "cosmic-chasm",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Yellow polygon chamber surrounds red octagon; cyan diamond navigation map above; no surface fill."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA14",
+      "artifact_id": "vector-game-major-havoc",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/29/major-havoc-29765.jpg",
+      "sha256": "3d111644820f83a4a89609668ab13178b58610e275f868a514992ab37ce44b8e",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/major-havoc",
+      "title": "major-havoc",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green platform corridors, cyan outlined character, magenta zigzag hazards; colored oxygen/reactor status and map above."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA15",
+      "artifact_id": "vector-game-asteroids",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/23/asteroids-23546.jpg",
+      "sha256": "7038c2071c0482765e09f23bc59c09f5744408540e320b02e4200f2a84c79423",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/asteroids",
+      "title": "asteroids",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White unfilled rock polygons and triangular ship; angular top score, point projectiles, open black field."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA16",
+      "artifact_id": "vector-game-boxing-bugs-inadequate-view",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://www.arcade-museum.com/images-game/38/boxing-bugs-38853.jpg",
+      "sha256": "3187f88692280c384a06c1c9f30b79490fe1cc446b055b9cdd651a2c1658e46b",
+      "resolution": {
+        "width": 400,
+        "height": 280
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/boxing-bugs",
+      "title": "boxing-bugs",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Photograph shows colored outlined cartoon figures, but is cropped to monitor detail; exclude complete-work count."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA17",
+      "artifact_id": "vector-game-star-castle",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/34/star-castle-34421.jpg",
+      "sha256": "10e4c5bf4a49abb5a6de26a845db0ec5b0f37e44d6b1986da3dc770d0d2717fb",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/star-castle",
+      "title": "star-castle",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Concentric colored partial polygon rings enclose yellow wireframe craft; color overlays must be distinguished from RGB vectors."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA18",
+      "artifact_id": "vector-game-space-wars",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/34/space-wars-34206.jpg",
+      "sha256": "fddb3aa359c1b7370652e011ef97530a67f76aa0af8ca5da6c4c269565855572",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/space-wars",
+      "title": "space-wars",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small white ship outlines and points on black; top angular counters; lower instruction bezel is separate static artwork."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA19",
+      "artifact_id": "vector-game-star-wars",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/34/star-wars-34488.jpg",
+      "sha256": "e00137ba239c1ba8508374b4559d521a25ab9b755fa34c2a912967f55384f19a",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/star-wars",
+      "title": "star-wars",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red/blue wireframe objects in perspective, cyan reticle, green shield scale; large open center."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA20",
+      "artifact_id": "vector-game-warrior",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/36/warrior-36806.jpg",
+      "sha256": "28a416ba5d7c6210ecdd1458d61c2a7f82f79e539315548d30e629666f670f44",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/warrior",
+      "title": "warrior",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White vector fighters over detailed colored illustrated arena backdrop; counterexample to universally black compositions."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA21",
+      "artifact_id": "vector-game-rip-off",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/32/rip-off-32738.jpg",
+      "sha256": "7577fcd514c4bcf80599ebea7e949763f0a02092f6823fb500c2e7de0ed833f7",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/rip-off",
+      "title": "rip-off",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sparse white polygon craft, triangular player and point projectiles, no shading."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA22",
+      "artifact_id": "vector-game-space-duel",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/39/space-duel-39092.jpg",
+      "sha256": "a86d3f3ca4bb55b907a2580f2aadf3054f285966e252c21342ba70a33f815fed",
+      "resolution": {
+        "width": 722,
+        "height": 542
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/space-duel",
+      "title": "space-duel",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red/blue outlined cubes and geometric hazards on black, small green/white craft, red score/lives above."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA23",
+      "artifact_id": "vector-game-battlezone",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/24/battlezone-24025.jpg",
+      "sha256": "bf927e1fedf5dce41df8f26671196805bece2442c93dd067f5612cfc0a8cff17",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/battlezone",
+      "title": "battlezone",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green wireframe mountains/pyramids, red upper radar/score within separate illustrated bezel; black open foreground."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA24",
+      "artifact_id": "vector-game-demon",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/25/demon-25838.jpg",
+      "sha256": "8801a657fd322a379445497751376d7c5cb99d38792ea8904139dcb61ad23c35",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/demon",
+      "title": "demon",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White outline ships and irregular polygon obstacles, starburst and angular top counters on black."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA25",
+      "artifact_id": "vector-game-zektor",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/37/zektor-37247.jpg",
+      "sha256": "fceef6190596db395da0746ad0eb06dc7f5f7be494789fb8ffefaed8eb88daf3",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/zektor",
+      "title": "zektor",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Nested colored rectangular boundaries, orange segmented circular enemies, yellow craft and red angular numerals."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA26",
+      "artifact_id": "vector-game-lunar-lander",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/29/lunar-lander-29364.jpg",
+      "sha256": "672c861ba0ba3223cf27f0a64702fb364fe1049799b5db680169139d0dc741b1",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/lunar-lander",
+      "title": "lunar-lander",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White terrain polyline and lander, compact altitude/speed labels; lower instruction bezel separate from playfield."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA27",
+      "artifact_id": "vector-game-asteroids-deluxe",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/23/asteroids-deluxe-23560.jpg",
+      "sha256": "dbd0bf5c19e6188df1aa3e9757a35fe305a3f13db6e056e746411cea4251e821",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/asteroids-deluxe",
+      "title": "asteroids-deluxe",
+      "creator": "Game developer identified on linked Museum of the Game record; capture provenance varies",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cyan outline rocks, ships and angular score over illustrated asteroid backdrop; distinguish vector objects from static artwork."
+        }
+      ],
+      "notes": "Full accessible archive image inspected; native 360x480/640x480 typically. No exact CRT persistence, phosphor color or timing inferred."
+    },
+    {
+      "record_id": "VA28",
+      "artifact_id": "vector-game-quantum",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/32/quantum-32165.jpg",
+      "sha256": "5e21c680f99dcac251f779f04f1b30d0283eb2b28778f356a177cb9bfdf23293",
+      "resolution": {
+        "width": 360,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/quantum",
+      "title": "quantum",
+      "creator": "Original developer credited on linked Museum of the Game record",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Full portrait capture, sparse green/red point-like filled circles and small colored line fragments, white score above and green LEVEL footer. Important exception: not every object is an unfilled polygon."
+        }
+      ]
+    },
+    {
+      "record_id": "VA29",
+      "artifact_id": "vector-game-boxing-bugs",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/24/boxing-bugs-24533.jpg",
+      "sha256": "ea5060780075a096ec1ae64f5b167830bdab4c66bb898e30a645b42dae8ba688",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/boxing-bugs",
+      "title": "boxing-bugs",
+      "creator": "Original developer credited on linked Museum of the Game record",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Full frame with green outlined boxing glove, small bug outlines, central red radial burst and angular colored numerals above; black negative space."
+        }
+      ]
+    },
+    {
+      "record_id": "VA30",
+      "artifact_id": "vector-game-star-wars-empire-strikes-back",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/26/star-wars-empire-strikes-back-26460.jpg",
+      "sha256": "2d9e125e938817d29aadc7a74917c064b5e532e77bc63f3b4e3dd1ab10b77916",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/star-wars-empire-strikes-back",
+      "title": "star-wars-empire-strikes-back",
+      "creator": "Original developer credited on linked Museum of the Game record",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green wireframe asteroid ahead of cyan reticle, multicolor angular instruction and JEDI text, yellow shield meter, red/blue cockpit outlines below."
+        }
+      ]
+    },
+    {
+      "record_id": "VA31",
+      "artifact_id": "vector-game-starhawk",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/34/starhawk-34531.jpg",
+      "sha256": "9b7501b25051fe4cb12453a5dcea59296f7c59a47c0662e0ff2255b47b1e1aba",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/starhawk",
+      "title": "starhawk",
+      "creator": "Original developer credited on linked Museum of the Game record",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White wireframe trench-like perspective and craft, thin diagonal streaks, central reticle and angular score, large black regions."
+        }
+      ]
+    },
+    {
+      "record_id": "VA32",
+      "artifact_id": "vector-game-star-trek--sega",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.arcade-museum.com/images-game/34/star-trek--sega-34475.jpg",
+      "sha256": "b58a0e0088ca86ef5821ec12933970651c16aa9ef5e2fe3a5e1af24147317bb2",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "source_url": "https://www.arcade-museum.com/Videogame/star-trek--sega",
+      "title": "star-trek--sega",
+      "creator": "Original developer credited on linked Museum of the Game record",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Yellow thin rules divide left numeric/status column, upper radar-like map and lower first-person wireframe scanner with red enemy outlines and multicolor perspective diagonals."
+        }
+      ]
+    },
+    {
+      "record_id": "VA33",
+      "artifact_id": "vector-game-tempest",
+      "accessed_at": "2026-11-07",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://www.youtube.com/watch?v=_n-9rcpeCyc",
+      "media_url": "https://www.youtube.com/watch?v=_n-9rcpeCyc",
+      "title": "tempest recorded play",
+      "creator": "Shane McComas",
+      "duplicate_of": "VA12",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "inspected_states": "5.07–15.88s of 292.13s; playing 640x480",
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two inspected playback states show differently shaped blue radial webs, yellow player at rim and colored objects within lanes. Supports discrete changes and game-relative movement, not a measured easing curve."
+        }
+      ],
+      "timestamps": [
+        "5.07–15.88s of 292.13s; playing 640x480"
+      ]
+    },
+    {
+      "record_id": "VA34",
+      "artifact_id": "vector-game-asteroids",
+      "accessed_at": "2026-11-07",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://www.youtube.com/watch?v=8YMnf3-201E",
+      "media_url": "https://www.youtube.com/watch?v=8YMnf3-201E",
+      "title": "asteroids recorded play",
+      "creator": "retrogameclips",
+      "duplicate_of": "VA15",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "inspected_states": "7.95–20.67s of 38.75s; playing 640x480; advertisement excluded",
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two inspected playback states show white unfilled rocks displaced and reduced to small fragments, triangular ship and changed score; object state changes, no exact speed or phosphor persistence measured."
+        }
+      ],
+      "timestamps": [
+        "7.95–20.67s of 38.75s; playing 640x480; advertisement excluded"
+      ]
+    },
+    {
+      "record_id": "VA35",
+      "artifact_id": "vector-game-battlezone",
+      "accessed_at": "2026-11-07",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://www.youtube.com/watch?v=Ctr54kopo8I",
+      "media_url": "https://www.youtube.com/watch?v=Ctr54kopo8I",
+      "title": "battlezone recorded play",
+      "creator": "Shane McComas",
+      "duplicate_of": "VA23",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "inspected_states": "14.91–27.79s of 395.10s; playing 640x480",
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two inspected playback states show green wireframe tank larger and nearer central reticle, horizon geometry shifted, action status changes; perspective scale and displacement, no timing/easing measurements."
+        }
+      ],
+      "timestamps": [
+        "14.91–27.79s of 395.10s; playing 640x480"
+      ]
+    }
+  ]
+}

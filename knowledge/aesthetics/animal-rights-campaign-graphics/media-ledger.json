@@ -1,0 +1,1230 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "AR01",
+      "artifact_id": "animal-equality-italy-rights-demonstration-galan",
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/GP2nzBtdHEw680bIAugNn7gtbA.png?width=2464&height=1368",
+      "title": "Animal Equality Italian demonstration — DIRITTI PER GLI ANIMALI placard system",
+      "creator": "Animal Equality; creative system directed by Elena Galán; photograph attribution not established",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete nighttime demonstration photograph: a long black uppercase rights banner and repeated white portrait placards with condensed black uppercase stacks. Short selected words are reversed out of solid black bars. Placards alternate with animal photographs, creating a repeated public-address rhythm. People and setting establish a collective rights-action use rather than pet retail. Small footer marks and the front worker's black jacket retain organizational identity."
+        }
+      ],
+      "handling": "Linked analytical inspection only; no reuse permission established. Historical placard assertions recorded as visual evidence, not adopted as legal claims.",
+      "resolution": {
+        "width": 2464,
+        "height": 1368
+      },
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "AR02",
+      "artifact_id": "animal-equality-german-cage-campaign",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/7aacps8VbDv114xlydCj3etK0.jpg?width=2048&height=1365",
+      "title": "Animal Equality German cage campaign at Brandenburg Gate",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 2048,
+        "height": 1365
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "spatial",
+            "shape",
+            "cultural-markers"
+          ],
+          "observation": "Daylit wide event photograph. Repeated white tall placards carry the targeted retailer mark at the head and narrow uppercase demand text below, with the action verb isolated on a red rectangle. A dark landscape banner centers text between large chicken and pig photographic heads. A cage-like object anchors the assembly. Black clothing and repeated signs create organizational rhythm."
+        }
+      ]
+    },
+    {
+      "record_id": "AR02b",
+      "artifact_id": "animal-equality-german-cage-campaign",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/O9kwF8VrWlRtepvaWbWi6I2yba0.jpg?width=2047&height=1362",
+      "title": "Closer photograph of the same German campaign banner",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 2047,
+        "height": 1362
+      },
+      "duplicate_of": "AR02",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "spatial"
+          ],
+          "observation": "Closer view resolves the same centered condensed white demand, red verb block, animal photos at opposing ends, and small hashtag/footer. Confirms legibility and composition, but is the same underlying campaign/event as AR02 and does not increase the corpus."
+        }
+      ]
+    },
+    {
+      "record_id": "AR03",
+      "artifact_id": "animal-equality-madrid-derechos-demonstration",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/XJTaZUoyi9mlAidJhfiXFSQYZfY.jpg?width=2047&height=1365",
+      "title": "Animal Equality Madrid DERECHOS PARA LOS ANIMALES demonstration",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 2047,
+        "height": 1365
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "spatial",
+            "shape",
+            "cultural-markers"
+          ],
+          "observation": "Complete plaza event photograph. Long white banner carries black uppercase rights demand; black portrait clothing recedes behind printed animal images. Tall rectangular plinths present animal photography rather than decorative illustrations. A broad white ground banner names the organization. The animal image is a subject and the text a demand, a distinct relationship from retail product photography."
+        }
+      ]
+    },
+    {
+      "record_id": "AR04",
+      "artifact_id": "animal-equality-milan-gli-animali-sentono",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/dGmfndh2olTfXH60Tl5EkSqY.jpg?width=2047&height=1152",
+      "title": "Animal Equality Milan GLI ANIMALI SENTONO human letter placards",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 2047,
+        "height": 1152
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "spatial",
+            "shape",
+            "cultural-markers"
+          ],
+          "observation": "Complete public action photograph. Individually held square letter panels assemble an immense sentence along a horizontal baseline: black condensed capitals on white for the initial words and white on vivid blue for the final verb. Faces and uniforms sit above the typographic line. Type becomes collective public-address architecture; this variant uses no distressed texture."
+        }
+      ]
+    },
+    {
+      "record_id": "AR04b",
+      "artifact_id": "animal-equality-milan-gli-animali-sentono",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/S278dZ38w34f3gmmNhJRuikFgk.png?width=2622&height=1442",
+      "title": "Second view of Milan action with badge merchandise",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 2622,
+        "height": 1442
+      },
+      "duplicate_of": "AR04",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Second photograph of the same letter-panel event beside a badge-product photograph. Records blue-and-white badge extension but does not count the repeated event or incidental merchandise as additional qualifying artworks."
+        }
+      ]
+    },
+    {
+      "record_id": "AR05",
+      "artifact_id": "animal-equality-2025-midyear-impact-report",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/DTmWuxjF6avnu4g0bNFUNZ0hVk.png?width=2618&height=1724",
+      "title": "Animal Equality 2025 midyear impact overview",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 2618,
+        "height": 1724
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "spatial",
+            "shape"
+          ],
+          "observation": "White report page with a two-by-two photo and metric grid: wide cropped animal/supporter photographs, large narrow blue numerals, black uppercase captions. Alignment and repeated type hierarchy support accountability. This is a calmer report variant than confrontation posters. Values are historical source content, not verified impact estimates for reuse."
+        }
+      ]
+    },
+    {
+      "record_id": "AR05b",
+      "artifact_id": "animal-equality-2025-midyear-impact-report",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/e2nWcOUFhKWGQLTcrKErSdk1g.png?width=2614&height=1180",
+      "title": "Media-coverage table in the same impact presentation",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 2614,
+        "height": 1180
+      },
+      "duplicate_of": "AR05",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "spatial",
+            "shape"
+          ],
+          "observation": "Blue outlined statistical table with blue header band, large blue quantities, black condensed descriptions, and a publisher-logo strip. Same impact presentation as AR05, so counted once; provides a sober grid counterpoint to emotive campaigns."
+        }
+      ]
+    },
+    {
+      "record_id": "AR06",
+      "artifact_id": "animal-equality-spanish-cage-egg-business-banner",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/tItKXF0Ez1niSl5OYnMgBdi0Y.png?width=2618&height=1592",
+      "title": "Spanish cage-egg business campaign banner, foreground work",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 2618,
+        "height": 1592
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "spatial",
+            "shape"
+          ],
+          "observation": "Complete foreground landscape banner: large chicken head at right on a dark photograph, large white question at left, black rejection demand reversed onto white rectangular strips, small organization mark at foot. The image-text hierarchy remains legible without ornamental distress. Only this fully visible work is recorded here; overlapping report pages are excluded."
+        }
+      ]
+    },
+    {
+      "record_id": "AR07",
+      "artifact_id": "animal-equality-spanish-cage-egg-business-banner",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase. Counting correction: separately visible artwork in same presentation retained for analysis, conservatively grouped with AR06 to avoid one URL masquerading as two inspected resources.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/tItKXF0Ez1niSl5OYnMgBdi0Y.png?width=2618&height=1592",
+      "title": "MUSEUM OF SCIENCE AND INDUSTRY: OPPOSE ANIMAL CRUELTY, complete right-hand work",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 2618,
+        "height": 1592
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "spatial",
+            "shape",
+            "texture"
+          ],
+          "observation": "Complete right-hand portrait poster within the creator's original presentation. White field, stacked black uppercase addressee and a much larger white uppercase imperative reversed from offset red blocks; red drips beneath the blocks. Small black organization mark sits at foot. Bloodlike drips are a confrontational variant, not a universal requirement. This is independently authored artwork from the landscape banner in the same presentation."
+        }
+      ],
+      "duplicate_of": "AR06"
+    },
+    {
+      "record_id": "ARX01",
+      "artifact_id": "animal-equality-social-campaign-overview-montage",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "thumbnail",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "source_url": "https://elenagalan.com/design/animal-equality",
+      "media_url": "https://framerusercontent.com/images/lYgVqK91qc7FPQ7kZhP3aFwK0.jpg?width=1080&height=824",
+      "title": "Social campaign montage — discovery only",
+      "creator": "Animal Equality; Elena Galán creative direction",
+      "resolution": {
+        "width": 1080,
+        "height": 824
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type"
+          ],
+          "observation": "Montage suggests distressed white headline strips, animal closeups, red overlays and testimonial formats, but individual works are clipped/overlapped and small. Does not qualify as several full artworks and is excluded from the analyzed count."
+        }
+      ]
+    },
+    {
+      "record_id": "AR08",
+      "artifact_id": "animal-rights-campaign-graphics-AR08",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1464810645505-IOHUPVLEVEMMRGQ8YGYN/Abraham-Lincoln-Animal-Rights-Quote",
+      "sha256": "d5a55d46f108553208de5860d5b0bc266f6b2b09b93382f266d37445cfb909cd",
+      "resolution": {
+        "width": 2500,
+        "height": 4118
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Abraham Lincoln quotation poster",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A frontal grayscale historic portrait fills the tall frame; large white serif lines sit over the dark lower suit, above widely tracked sans attribution, a cyan folded-ribbon mark and the web address. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR09",
+      "artifact_id": "animal-rights-campaign-graphics-AR09",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1464814848244-HCOCLVOQOEV3ZKP53OHL/Alice-Walker-Animal-Rights-Quote",
+      "sha256": "6209686ef76444afeabe561ce48236f2fa6f994d43a9d9fe3018178e64663256",
+      "resolution": {
+        "width": 2500,
+        "height": 4118
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Alice Walker quotation poster",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A close monochrome face turns right and fills the tall page; the long centered serif quotation occupies the lower half. Wide-tracked attribution, orange ribbon mark and small web address sit below. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR10",
+      "artifact_id": "animal-rights-campaign-graphics-AR10",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1464814831771-Q4D3ARV8IC4R824V89M8/Jane-Goodall-Animal-Rights-Quote",
+      "sha256": "29ea3fdbc8a6c9876806fe84df3007a048fe4e3b5bbca5005232f9c6eae0cc53",
+      "resolution": {
+        "width": 2500,
+        "height": 4118
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Jane Goodall quotation poster",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A light grayscale face and folded hands dominate the upper page; lower-frame darkening carries a centered white serif quotation, white tracked attribution and lilac ribbon mark. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR11",
+      "artifact_id": "animal-rights-campaign-graphics-AR11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1464810737424-OWBLM6AQHIY62SC3FLAC/Albert-Einstein-Animal-Rights-Quote",
+      "sha256": "9b414bf101c12d043d66786b50cc36371af302e6128047ea4a618ee358feb07e",
+      "resolution": {
+        "width": 2500,
+        "height": 4118
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Albert Einstein quotation poster",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Gray portrait with dark sweater provides natural contrast for white centered serif quotation; the short lines and widely spaced uppercase attribution are followed by a cyan folded-ribbon mark. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR12",
+      "artifact_id": "animal-rights-campaign-graphics-AR12",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1525011371294-4J4HBBY497PMLT85KCFT/Martin-Luther-King-Jr-Animal-Rights-Quote.jpg",
+      "sha256": "4edc84da6a2fbdc9198cd1a265f6075d30fabbb1508a139f02694cb79776afb6",
+      "resolution": {
+        "width": 1821,
+        "height": 2999
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Martin Luther King Jr quotation poster",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Large grayscale upward-looking face with dark jacket; centered white serif quotation crosses the lower shoulder, with short attribution and cyan ribbon emblem. Quotation attribution not independently established. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR13",
+      "artifact_id": "animal-rights-campaign-graphics-AR13",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1464814869040-KOU2NW8RA16KUHUR9EA2/Ghandi-Animal-Rights-Quote",
+      "sha256": "b90d6495c6c1c469b12b51d5baedc9a391a2419cdbeeeedd203ae9ffd08c8fd8",
+      "resolution": {
+        "width": 2500,
+        "height": 4118
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Mahatma Gandhi quotation poster",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Gray head-and-shoulders photographic portrait above a centered white serif quotation; pale shawl is darkened at foot for contrast, followed by yellow-green ribbon mark and web address. Attribution not independently established. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR14",
+      "artifact_id": "animal-rights-campaign-graphics-AR14",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1464818431562-00ZCXE17YDDPR0HKYS7X/Lion-Canned-Hunting-Statistic",
+      "sha256": "0946ee0a471f3ca8cc9b95999cd340592ccd8827b3b82ddff95bb52cc9fff05d",
+      "resolution": {
+        "width": 2500,
+        "height": 1250
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Get Your Facts Straight — lion",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Color lion face stares frontally from the left half. Four widely tracked white uppercase words align down its face. The right off-white half holds centered black serif explanatory copy with italic emphasis and a cyan ribbon footer. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR15",
+      "artifact_id": "animal-rights-campaign-graphics-AR15",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1464818217927-LULJEPHP4QHW7ZTKMHT5/image-asset.jpeg",
+      "sha256": "341c19dcf10ad21295609a2b5996142ee261f53aaffea2be557423f01e038783",
+      "resolution": {
+        "width": 2500,
+        "height": 1250
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Get Your Facts Straight — laboratory monkey",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A small monkey frontal portrait fills the left half against soft dark background; the four-line spaced slogan crosses forehead and lower face. Right-side large black serif quantity statement uses selective italics; yellow-green emblem anchors footer. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR16",
+      "artifact_id": "animal-rights-campaign-graphics-AR16",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1525010879107-8G1BYV40AP7CM35GWROR/FACT_Bird-W.jpg",
+      "sha256": "c0604883de3610d0121dcc89b0ccfee299f9e7dbc2a6787246f8b7278e474722",
+      "resolution": {
+        "width": 2500,
+        "height": 1250
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Get Your Facts Straight — wild bird",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Extreme bird head crop and yellow eyes fill left half under the repeated white spaced slogan. Off-white right panel carries centered serif statement with italicized quantities and keywords, then cyan emblem. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR17",
+      "artifact_id": "animal-rights-campaign-graphics-AR17",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1525009239886-63TQ8Z71IMN4ZTNDIN9V/Animal-Matters-Orangutan-Habitat-Fact.jpg",
+      "sha256": "2b77ad275b69eafe9e22fb4c8b59054dc069e37d6d126c5e81185175858e4f09",
+      "resolution": {
+        "width": 2500,
+        "height": 1250
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Get Your Facts Straight — orangutan",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Seated orange orangutan and branch occupy the left half, giving more body/context than the facial closeups. Repeated white slogan overlays it; right panel centers a sparse black serif land-area claim with italic quantity and time phrase. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR18",
+      "artifact_id": "animal-rights-campaign-graphics-AR18",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1525010861401-AG2TJEADMWY58CM2UAK6/Elephant-Poaching-Statistic.jpg",
+      "sha256": "afd6b92a5794434d5eb23930d5161ab7568439e45db223bd676bfaae7d82ba84",
+      "resolution": {
+        "width": 2500,
+        "height": 1250
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Get Your Facts Straight — elephant",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Frontal elephant tusks/head in a grass landscape fill left half; white spaced slogan contrasts with textured skin. The right panel pairs upright and italic serif text about poaching and an emblem below. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR19",
+      "artifact_id": "animal-rights-campaign-graphics-AR19",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1464818203727-CI2J4CGN80Q2QKRM6TYX/image-asset.jpeg",
+      "sha256": "f6f9a21e87c6b6736c8f61a8e4d1fd32d5d3afaae328e73c88b343211e004797",
+      "resolution": {
+        "width": 2500,
+        "height": 1250
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Get Your Facts Straight — dog",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Chocolate-brown dog face is tightly cropped left; white slogan lies across eyes, muzzle and chest. The right white text panel uses black serif copy with italic quantity and frequency; lilac ribbon footer. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR20",
+      "artifact_id": "animal-rights-campaign-graphics-AR20",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1464818232873-KAHPS55GWE4Y2AJQHL7T/image-asset.jpeg",
+      "sha256": "78dbacdf33aefa8e803b8f85ddd79e04a18abf8d4b21d738dca3ca329b0e216f",
+      "resolution": {
+        "width": 2500,
+        "height": 1250
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Get Your Facts Straight — fox",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Orange fox face fills the left; four spaced white slogan lines overlay fur. On the right, two sentences form a longer serif block with quantities italicized and orange ribbon emblem at foot. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR21",
+      "artifact_id": "animal-rights-campaign-graphics-AR21",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://images.squarespace-cdn.com/content/v1/52d68a91e4b0201eed8ac929/1525009220668-NJGDDLB8LMWQRQN10GDF/Animal-Matters-Shark-Attack-Fact.jpg",
+      "sha256": "c588a90649e678c94c61bd59696c85a631e37dd3764cfd8e6312d3291d472c7e",
+      "resolution": {
+        "width": 2500,
+        "height": 1250
+      },
+      "source_url": "https://www.theartfulunion.com/animal-matters",
+      "title": "Animal Matters: Get Your Facts Straight — shark",
+      "creator": "The Artful Union for Animal Matters; photography attribution not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue underwater shark rises diagonally through left half beneath white slogan. The contrasting right half is centered black serif copy, italic quantities, and cyan ribbon emblem. Color belongs mainly to documentary subject rather than a painted decorative field. Complete original inspected. This is one designed communication in a repeated campaign series; the source quotations/statistics are visual content and are not independently verified or endorsed."
+        }
+      ]
+    },
+    {
+      "record_id": "AR22",
+      "artifact_id": "animal-rights-campaign-graphics-AR22",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.peta.org/wp-content/uploads/2020/07/End-Speciesism-Bat-Chicken-Pig.pdf",
+      "sha256": "2006839f14182d7f0cd52b77a1b65b81d5507a2d6bbd00511d669ff823ee453c",
+      "source_url": "https://www.peta.org/wp-content/uploads/2020/07/End-Speciesism-Bat-Chicken-Pig.pdf",
+      "title": "PETA End Speciesism — bat, chicken and pig billboard",
+      "creator": "PETA; photographs credited to iStock PrinPrince, dundanim and LordRunar",
+      "states": [
+        "Complete single-page PDF rendered at 2000 pixels wide"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Horizontal black billboard: bat, rooster and pig heads are cut out together at left and fade to black at foot. Large narrow slab-serif statement at right splits into cyan first sentence and white second sentence, with cyan square PETA block at bottom right. A multi-species comparison uses no gore. Historical advocacy assertions are source content, not scientific conclusions adopted here."
+        }
+      ]
+    },
+    {
+      "record_id": "AR23",
+      "artifact_id": "animal-rights-campaign-graphics-AR23",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.peta.org/wp-content/uploads/2023/02/bycatch-bus-shelter-ad.pdf",
+      "sha256": "b1ec9e8b6bd94d2e3ca4268f49e7f3fc4bf19d51cff7a19632d46ac79c0473a0",
+      "source_url": "https://www.peta.org/wp-content/uploads/2023/02/bycatch-bus-shelter-ad.pdf",
+      "title": "PETA bycatch bus-shelter poster",
+      "creator": "PETA; multiple small photographic credits printed at edge",
+      "states": [
+        "Complete single-page PDF rendered at 2000 pixels tall"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall underwater-blue poster: photographic marine-animal montage sits behind a fishing-net overlay in upper half, then large sans heading, aligned statistic bullets with bright yellow quantities, and a white uppercase demand on cyan strips. Oversized yellow action line closes the hierarchy above small brand mark. Dark-to-black lower gradient preserves text contrast. Statistics are historical campaign content, not verified values for publication."
+        }
+      ]
+    },
+    {
+      "record_id": "AR24",
+      "artifact_id": "animal-rights-campaign-graphics-AR24",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.peta.org/wp-content/uploads/2022/01/everybodys-somebodys-baby-easter-bb-2022-cows-300.pdf",
+      "sha256": "e25fda160c637f071605fe677b826493479471b63d5f3f7918db77aeab4a3e24",
+      "source_url": "https://www.peta.org/wp-content/uploads/2022/01/everybodys-somebodys-baby-easter-bb-2022-cows-300.pdf",
+      "title": "PETA Everybody’s Somebody’s Baby — Easter cow billboard",
+      "creator": "PETA; photographic creator not established",
+      "states": [
+        "Complete single-page PDF rendered at 2000 pixels wide"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Landscape billboard places cow nuzzling calf at right, on a green grass setting. At left, huge white/pink/white heavy uppercase headline is tightly stacked over dark green; pink slab-serif action sentence and black circular brand mark sit underneath. Relationship photography and emotional naming establish individual animals as subjects without injury images."
+        }
+      ]
+    },
+    {
+      "record_id": "AR25",
+      "artifact_id": "foa-action-line-winter-2014",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://marclevitt.design/wp-content/uploads/2016/12/Action-Line.jpg",
+      "sha256": "1593c2407cf9ae79cb8a0098969a5c3a332cf1b440996d110637d1d81475729f",
+      "resolution": {
+        "width": 1600,
+        "height": 1094
+      },
+      "source_url": "https://marclevitt.design/work/friends-of-animals/",
+      "title": "Friends of Animals Action Line — Winter 2014 issue",
+      "creator": "Marc Levitt / MSLK for Friends of Animals",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete creator presentation of one issue: cyan cover with vertical black ACTION LINE masthead and scratched underline, hand-drawn human figure with filmstrip, and organization mark replacing a struck-through adversarial word. Interior spreads use teal uppercase demands, serif reading columns, small Take Action box, and a pink animal-effects article panel. Illustration-led cover is a counterexample to photo being mandatory; small interior text is not used as factual evidence."
+        }
+      ]
+    },
+    {
+      "record_id": "AR26",
+      "artifact_id": "foa-action-line-fall-2014",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://marclevitt.design/wp-content/uploads/2016/12/MSLK-Action-Line-Spreads-2.jpg",
+      "sha256": "6ccfc570501d7ca0da7b20bb83c114a56e773962ff1f3a5e4320e72a5f994ed1",
+      "resolution": {
+        "width": 1600,
+        "height": 1094
+      },
+      "source_url": "https://marclevitt.design/work/friends-of-animals/",
+      "title": "Friends of Animals Action Line — Fall 2014 wild-horse issue",
+      "creator": "Marc Levitt / MSLK for Friends of Animals",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete one-issue presentation. Vertical black masthead and scratch underline sit beside an immense white horse-head silhouette containing loose green brush lettering. Interior uses full-bleed herd photography with white uppercase headline, followed by a blue diagram strip and serif report columns. Photography, brush lettering and plain grotesk all participate; single-font purity is not defining."
+        }
+      ]
+    },
+    {
+      "record_id": "AR27",
+      "artifact_id": "foa-action-line-summer-2014",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://marclevitt.design/wp-content/uploads/2016/12/MSLK-Action-Line-Spreads-3.jpg",
+      "sha256": "6b816e0712808aebb6715bf7fe097b6541657916147d47ac9bfbf7293ebe7d68",
+      "resolution": {
+        "width": 1600,
+        "height": 1094
+      },
+      "source_url": "https://marclevitt.design/work/friends-of-animals/",
+      "title": "Friends of Animals Action Line — Summer 2014 adoption issue",
+      "creator": "Marc Levitt / MSLK for Friends of Animals",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete issue presentation. Grayscale seated dog dominates black cover beside vertical white masthead; short pink/white uppercase contents above. Interior lead makes ADOPT very large in pink over an enlarged grayscale dog, with small serif reading columns on black. A further fashion spread uses pale yellow and conventional white columns. This editorial variant extends activism beyond a single poster without making distress universal."
+        }
+      ]
+    },
+    {
+      "record_id": "AR28",
+      "artifact_id": "animal-rights-campaign-graphics-AR28",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.peta.org/wp-content/uploads/2018/12/Give-Peas-a-Chance-BB.pdf",
+      "sha256": "8defe04c9fd45bb98a25a8e780acd29da87d3b901f9d8e97c5816e9d39aacd80",
+      "source_url": "https://www.peta.org/wp-content/uploads/2018/12/Give-Peas-a-Chance-BB.pdf",
+      "title": "PETA Give Peas a Chance billboard",
+      "creator": "PETA; see PDF edge credits for photographic rights",
+      "states": [
+        "Complete single-page PDF rendered with 2000-pixel long edge"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Black horizontal field. Pale mouse holding a green pea fills left; actual pea pods at lower right. Oversized irregular handwritten white slogan uses green on the ingredient word, with green handwritten action sentence below and small white organization mark. Kindness, wordplay and food bridge the appeal without a distress image. Any campaign assertions remain historical source content rather than verified scientific/statistical guidance."
+        }
+      ]
+    },
+    {
+      "record_id": "AR29",
+      "artifact_id": "animal-rights-campaign-graphics-AR29",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.peta.org/wp-content/uploads/2021/06/PETAvdayPIGbb.pdf",
+      "sha256": "06da16c5e9d63cef56e08fe09b61535f12255a6d7bd6f171f244043b67b3a0b4",
+      "source_url": "https://www.peta.org/wp-content/uploads/2021/06/PETAvdayPIGbb.pdf",
+      "title": "PETA Valentine pig billboard",
+      "creator": "PETA; see PDF edge credits for photographic rights",
+      "states": [
+        "Complete single-page PDF rendered with 2000-pixel long edge"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Pale pink landscape field scattered with darker heart silhouettes. Piglet closeup at far left, enormous magenta soft serif phrase at center/right, and rounded dark blue action sentence and brand at foot. A gentle seasonal emotional variant; dark black-and-red severity is not universal. Any campaign assertions remain historical source content rather than verified scientific/statistical guidance."
+        }
+      ]
+    },
+    {
+      "record_id": "AR30",
+      "artifact_id": "animal-rights-campaign-graphics-AR30",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.peta.org/wp-content/uploads/2019/07/Shark-BB-Deadliest-Jaws.pdf",
+      "sha256": "fa0e7c0e587c0d0920e2147380b263368951361e807bd43cddd85519ab3da41b",
+      "source_url": "https://www.peta.org/wp-content/uploads/2019/07/Shark-BB-Deadliest-Jaws.pdf",
+      "title": "PETA Deadliest Jaws shark billboard",
+      "creator": "PETA; see PDF edge credits for photographic rights",
+      "states": [
+        "Complete single-page PDF rendered with 2000-pixel long edge"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Extreme open human mouth with red lipstick at left, fading to black right. Immense distressed narrow white uppercase headline crosses both regions and ends in cyan emphasis. Small white quantity statement above and narrow action/brand footer right. This counterexample uses a human image to redirect agency rather than centering an animal portrait. Any campaign assertions remain historical source content rather than verified scientific/statistical guidance."
+        }
+      ]
+    },
+    {
+      "record_id": "AR31",
+      "artifact_id": "animal-rights-campaign-graphics-AR31",
+      "accessed_at": "2026-11-07",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.peta.org/wp-content/uploads/2021/06/Me_Not_Meat_Fish_Portrait.pdf",
+      "sha256": "c230fd6c1926eae37299e6c6bac3716e3d3b11cb918bee9d5eec02403b938fb4",
+      "source_url": "https://www.peta.org/wp-content/uploads/2021/06/Me_Not_Meat_Fish_Portrait.pdf",
+      "title": "PETA I’m Me, Not Meat — fish poster",
+      "creator": "PETA; see PDF edge credits for photographic rights",
+      "states": [
+        "Complete single-page PDF rendered with 2000-pixel long edge"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full-page blue underwater fish photograph with the animal occupying lower-right two-thirds. Tall thin irregular white handwritten headline sits upper left, smaller yellow handwritten action lines below, yellow circular organization mark bottom left. The first-person message individualizes the animal; no paper tears, condensed type or black background required. Any campaign assertions remain historical source content rather than verified scientific/statistical guidance."
+        }
+      ]
+    }
+  ]
+}

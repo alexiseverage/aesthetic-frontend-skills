@@ -1,0 +1,1095 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "AT01",
+      "artifact_id": "timetable-book-1",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/jl/jl6006uk/jl6006.pdf",
+      "sha256": "514824fce8e4db7ffd0fd97d52be5daefb25bd1e17195ddbe9fefc4698e41fd7",
+      "source_url": "https://www.timetableimages.com/ttimages/jl6006uk.htm",
+      "title": "JAL - Japan Air Lines — June 1, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cyan/white checker cover and spaced sans labels; black/white hospitality photo. Page4 shows blue header bands, nested ruled fares and local-time route tables with arrows and notes."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT02",
+      "artifact_id": "timetable-book-2",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/ml/ml67/ml67.pdf",
+      "sha256": "c4c1de1d520854fa2e1ef3f01d2d3f9b8974c16c5d4bea25523bfacb3d85feb2",
+      "source_url": "https://www.timetableimages.com/ttimages/ml67.htm",
+      "title": "MSA - Malaysia-Singapore Airlines — May 1, 1967",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Yellow/black cover with slanted condensed MSA block and calendar. Page4 has yellow carrier columns, black reversed table-number headers, daily columns, arrows, time zones and footnotes."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT03",
+      "artifact_id": "timetable-book-3",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/sq/sq7210a/sq7210a.pdf",
+      "sha256": "06ca9746c0a0757a6a194558b955e19f98d70fe307e8dfc7ca149bee7422c2e0",
+      "source_url": "https://www.timetableimages.com/ttimages/sq7210a.htm",
+      "title": "Singapore Airlines — October 1, 1972",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Yellow folded cover with bold black timetable label, small route network and monochrome service-photo montage. Only page1 inspected, not internal schedules."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT04",
+      "artifact_id": "timetable-book-4",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/th/th67/th67.pdf",
+      "sha256": "f2b8a6fc043ce7cfab1a328731c1f8e2188fb40d37c14ae1ab46bcf751e3acf4",
+      "source_url": "https://www.timetableimages.com/ttimages/th67.htm",
+      "title": "TAC - Thai Airways — January 1, 1967",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue/white Thai and Latin cover lettering, aircraft photo and multicolor route map. Page4 has bilingual information columns and blue-tinted aircraft photograph; schedule details not inspected."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT05",
+      "artifact_id": "timetable-book-5",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/tg/tg600501/tg600501.pdf",
+      "sha256": "882e4d68c26c9e37e68395a45884d1d95cda1440e466c4c21650a6736229e0c2",
+      "source_url": "https://www.timetableimages.com/ttimages/tg600501.htm",
+      "title": "Thai Airways International — May 1, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "White/gold/blue cover with pink orchid, slanted brand lettering, bold dashed/solid blue route graph and circular city nodes."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT06",
+      "artifact_id": "timetable-book-6",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/ei/ei6004/ei60.pdf",
+      "sha256": "aa0fcdb2363ccb7b0ad2158931a4df8599fbeb72b68e29db1d58c40635fe4649",
+      "source_url": "https://www.timetableimages.com/ttimages/ei6004.htm",
+      "title": "Aer Lingus — April 1, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream summer cover with red/cyan bands, slanted airline block, spaced date labels and paired hospitality portraits; bilingual headings."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT07",
+      "artifact_id": "timetable-book-7",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/af/af6008/af6008.pdf",
+      "sha256": "264a7e92f1fecb6a51ea00dd25d75d0a6f2271fa062bcdc7c0cd4dc62b247619",
+      "source_url": "https://www.timetableimages.com/ttimages/af6008.htm",
+      "title": "Air France — August 15, 1960  ¤",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue repeated sans airline name field, red flat aircraft silhouettes and line globe, white bottom timetable/date block."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT08",
+      "artifact_id": "timetable-book-8",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/az/az6006/az600601.pdf",
+      "sha256": "932413a5fb137e480687ae94ee74ed08c3e16b4ee38d0cc3120586e9900c8550",
+      "source_url": "https://www.timetableimages.com/ttimages/az600601.htm",
+      "title": "Alitalia — June 1, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Turquoise cover with outlined slanted sans brand, aircraft side illustration, linear framework and circular Olympic emblem; worn fold visible."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT09",
+      "artifact_id": "timetable-book-9",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/os/os60/os60.pdf",
+      "sha256": "9a018ec5d3c1068aa8371f23f6605b7051fdc1db80283f992e48697b22b0265f",
+      "source_url": "https://www.timetableimages.com/ttimages/os60.htm",
+      "title": "Austrian Airlines — April 1, 1960  ¤",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Gray-green cover, red vertical stripes and bird on white circle, white spaced title/date; serif airline name is a counterexample to mandatory sans branding."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT10",
+      "artifact_id": "timetable-book-10",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/be/be6011/be6011.pdf",
+      "sha256": "24c5d37e519e34b4e62f35c187a32e4652ba1729796adb9830861b019080f650",
+      "source_url": "https://www.timetableimages.com/ttimages/be6011.htm",
+      "title": "BEA — November 1, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Black/white BEA blocks, red international cover with flat plane silhouettes, squared red interruption border, contents columns and compact multilingual index."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT11",
+      "artifact_id": "timetable-book-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/complete/ba60/ba60.pdf",
+      "sha256": "ec8d4274852a2d90ff87fce19f7e0c4f873d4daf23aa2958db619d88b76a5fea",
+      "source_url": "https://www.timetableimages.com/ttimages/complete/ba60.htm",
+      "title": "BOAC — April 24, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Dark blue cover, orange arrow-like speedbirds and orange sans timetable, shaded globe; page4 dense blue ruled local-time schedule matrices with orange reading-direction arrows and region headers."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT12",
+      "artifact_id": "timetable-book-12",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/ba2/ba6406/ba6406.pdf",
+      "sha256": "fc20c419e29d6097e5f4f844031b602dba6b091dab66288a9f6a43b7052db396",
+      "source_url": "https://www.timetableimages.com/ttimages/ba6406.htm",
+      "title": "BOAC/BOAC-Cunard — June 1, 1964  ¤",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cyan/navy cover divided around a line globe and plane emblem; bold black timetable bands, white information and calendar fields."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT13",
+      "artifact_id": "timetable-book-13",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/complete/vf63/vf63.pdf",
+      "sha256": "a928142786098d6eb4cb6683bca928b51da21338d2709b3a12f32729d49186f8",
+      "source_url": "https://www.timetableimages.com/ttimages/complete/vf63.htm",
+      "title": "British United Air Ferries — January 1, 1963",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Red cover, large oblique white and outlined sans name, black illustrated car-loading plane; compact office list back, small script slogan."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT14",
+      "artifact_id": "timetable-book-14",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/jy/jy6804/jy6804.pdf",
+      "sha256": "c24b6d9d4c63082c34051f6ad8a967b9abfc1991f89edfec2bf5cd95462f1697",
+      "source_url": "https://www.timetableimages.com/ttimages/jy6804.htm",
+      "title": "British United Airways (C.I.) — April 1, 1968",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Ochre/cyan folded cover with bold title and beach photo, node/link route map, tall narrow office-information column. Source page1 clips far right panel edge: no exact cover width inferred."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT15",
+      "artifact_id": "timetable-book-15",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/br/br6010/br6010.pdf",
+      "sha256": "26ba08e1390b65ed4ca9e734c322749d1b5e422c0c80bb36009769c356746263",
+      "source_url": "https://www.timetableimages.com/ttimages/br6010.htm",
+      "title": "BUA - British United Airways — October 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "White/red cover, heavy informal Safari lettering and flat cheerful traveler illustration, serif office list. Colonial destination framing is historical content, not a motif to reproduce."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT16",
+      "artifact_id": "timetable-book-16",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/if1/dh6002lf/dh6002lf.pdf",
+      "sha256": "82ee7fe9e91f7c50487cd69a9d249e62c769af937c5ba9cf4d27925212284ff1",
+      "source_url": "https://www.timetableimages.com/ttimages/dh6002lf.htm",
+      "title": "Deutsche Lufthansa  (GDR) — February 24, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue/yellow cover with flat plane and stylized M mark; serif carrier name, sans timetable title, multilingual tabular fares and offices. GDR carrier distinct from West German Lufthansa."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT17",
+      "artifact_id": "timetable-book-17",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/ay/ay6006/ay60.pdf",
+      "sha256": "725f96e606b8a71eab95c20c1de6867c878c40f6ffef08eb707a2a437d8ab4cd",
+      "source_url": "https://www.timetableimages.com/ttimages/ay6006.htm",
+      "title": "Finnair — June 15, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue/violet cover, red script accent, flat jet/engine forms, tall condensed timetable labels and narrow index beside European network map."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT18",
+      "artifact_id": "timetable-book-18",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/ib/ib62/ib62.pdf",
+      "sha256": "fa6255a58fb5c107fe69f4b19d4fb9c708e07ba2233f8bdcb65ed5a53422b007",
+      "source_url": "https://www.timetableimages.com/ttimages/ib62.htm",
+      "title": "Iberia — April 1, 1962  ¤",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Yellow/orange and blue painterly aircraft cover with red script airline; page4 red category headings, blue rules and compact bilingual index/table references."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT19",
+      "artifact_id": "timetable-book-19",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/kl/kl6001/kl6001.pdf",
+      "sha256": "aa82057991339c84e1261a914cc4a56d169b3ba3d4eff4ce5971fecfd76eb7ba",
+      "source_url": "https://www.timetableimages.com/ttimages/kl6001.htm",
+      "title": "KLM — January 17, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Red/black and blue/black diagonal stripe bands, cream circular identity and globe/plane motifs; page4 blue tabbed alphabetic town/airport/table-reference columns."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT20",
+      "artifact_id": "timetable-book-20",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/lh/lh61/lh61.pdf",
+      "sha256": "2bfed9d77c4d55d47cf829755650288c44ab6488ee3c7434754a874837b382c3",
+      "source_url": "https://www.timetableimages.com/ttimages/lh61.htm",
+      "title": "Lufthansa — April 1, 1961",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue/yellow airline/aircraft cover with adjacent route network; page4 cyan sidebars, black ruled flight matrix, stacked multilingual weekday labels and numeric time columns with symbols."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT21",
+      "artifact_id": "timetable-book-21",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/sn/sn6001/sn6001.pdf",
+      "sha256": "5f98fb3e2c21779a258ba1790c94f86aa39b2394950ed8d2b895015616eadf52",
+      "source_url": "https://www.timetableimages.com/ttimages/sn6001.htm",
+      "title": "Sabena — January 23, 1960  ¤",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Orange/white/black narrow cover with long white S, oval name and plane silhouettes; adjacent monochrome aircraft illustration and mixed serif/script advertisement."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT22",
+      "artifact_id": "timetable-book-22",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/sk/sk6004p/sk6004p.pdf",
+      "sha256": "4756b41fea7c860a92e4ce24d0ecdb079227d7f595ca5eb1a02dee6c91a644f0",
+      "source_url": "https://www.timetableimages.com/ttimages/sk6004p.htm",
+      "title": "SAS — April 1, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream cover with blue/violet/red rising curved wedges, large blue italic SAS and advance-information title; aircraft technical side illustrations on back."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT23",
+      "artifact_id": "timetable-book-23",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/sr/sr6004/sr6004.pdf",
+      "sha256": "b63499abc509e9b0c12b652f0cc6143bf5a0277ab0a24aca8ba8e7bba4f69c52",
+      "source_url": "https://www.timetableimages.com/ttimages/sr6004.htm",
+      "title": "Swissair — April 1, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue cover, red expanded sans masthead, black plane with green/red/cream parallel ribbon wake; page4 red section bars, bilingual indexes, symbol legend and calendar."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT24",
+      "artifact_id": "timetable-book-24",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/cp/cp6004/cp6004.pdf",
+      "sha256": "0db002f96bd7936b8a69734ca787979460a4180eb84541b9db3df0672ef09eba",
+      "source_url": "https://www.timetableimages.com/ttimages/cp6004.htm",
+      "title": "Canadian Pacific Airlines — April 24, 1960  ¤",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Narrow cream/red diagonal system-timetable cover, blue script airline, stylized goose and bold slanted label; validity dates in small dark sans."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT25",
+      "artifact_id": "timetable-book-25",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/aa/aa6001/aa6001.pdf",
+      "sha256": "880a05263fd9cddba3110aa90bcde1bcc8ff6a17d36e9a6ca99ed453575e3f8e",
+      "source_url": "https://www.timetableimages.com/ttimages/aa6001.htm",
+      "title": "American Airlines — January 3, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue/cream cover, italic sans name, eagle wings and concentric line field; page4 dense blue ruled coast-to-coast matrices, reversed sans route strips and serif table labels. Historical family-fare gender assumptions are not modern UI requirements."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT26",
+      "artifact_id": "timetable-book-26",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/bn/bn60/bn60.pdf",
+      "sha256": "445a79462a4d6a5baf798904aaf194e2c7846f6e04d64367cea03bb54c139463",
+      "source_url": "https://www.timetableimages.com/ttimages/bn60.htm",
+      "title": "Braniff International Airways — April 24, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "White/red/blue cover with large block sans, script International, aircraft/globe image; full network map uses distinct route strokes, city dots, time-zone clocks and legend."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT27",
+      "artifact_id": "timetable-book-27",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/co/co63/co63.pdf",
+      "sha256": "753bd867945f1329aa630f64b4cd202e5f653be2f34a01ebac75707d40c3c3fe",
+      "source_url": "https://www.timetableimages.com/ttimages/co63.htm",
+      "title": "Continental Airlines — July 1, 1963  ¤",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Ochre/cream cover with horizontal monochrome staff/customer photo strips and heavy italic sans brand; adjacent route map and detailed abbreviation/reading-key bands."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT28",
+      "artifact_id": "timetable-book-28",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/dl/dl60/dl60.pdf",
+      "sha256": "653f1b6c59c76f8704205c37df6a3769160646c052ec100ba6485f37ca349f53",
+      "source_url": "https://www.timetableimages.com/ttimages/dl60.htm",
+      "title": "Delta Air Lines — October 30, 1960",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Red/black/cream folded cover with oval script logo, aircraft-engine illustration and calendar; adjacent red node network and legend."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT29",
+      "artifact_id": "timetable-book-29",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.timetableimages.com/ttimages/ea/ea6302/ea6302.pdf",
+      "sha256": "e6b98127ccac1da9ac27b4dd31b01c057579e75d7156141cf856971924a59b2d",
+      "source_url": "https://www.timetableimages.com/ttimages/ea6302.htm",
+      "title": "Eastern Air Lines — February 1, 1962",
+      "creator": "Issuing airline; individual designer unestablished; digitized collector attribution on linked record",
+      "pages_inspected": [
+        1,
+        4
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Black/cream cover, huge plain sans airline name and red speedbird, red serif validity/date. Actual visible cover February1–April27 1963 conflicts index1962. Page4 red FROM headers and column rules, dense aligned numeric schedule lines, full bottom symbol/time key."
+        }
+      ],
+      "limitations": "Complete scanned page(s) rendered at 2000px and individually inspected. One timetable book counts once; not a claim of reading the entire PDF. Page 1 can be an unfolded cover/back/interior sheet. No movement observed."
+    },
+    {
+      "record_id": "AT30",
+      "artifact_id": "pan-am-july-1960",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://static.sfomuseum.org/media/152/784/199/3/1527841993_5o7kY2lw65gb4y8bvGK4KTvlLUIHeXB9_b.jpg",
+      "sha256": "b4dc5c41d24e5db6913be995cce78c92344b0dc8c0baedec477d934a12ca74b5",
+      "resolution": {
+        "width": 373,
+        "height": 768
+      },
+      "source_url": "https://collection.sfomuseum.org/objects/1511936855/",
+      "title": "Pan American World Airways — July 1–31 1960 system timetable cover",
+      "creator": "Pan American World Airways; individual designer unestablished; SFO Museum collection",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Complete tall folded front cover, blue field beneath heavy black italic PAA and spaced SYSTEM TIMETABLE, thin white centered globe/flight line and plane silhouette; black left service list and widely tracked white bottom name. Legible original museum rendition 373x768; finest text not a font-identification source."
+        }
+      ],
+      "limitations": "Cover only; whole 35-page timetable not inspected; no movement inferred."
+    }
+  ]
+}

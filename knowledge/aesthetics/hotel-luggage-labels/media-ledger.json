@@ -1,0 +1,1154 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "HL01",
+      "artifact_id": "hotel-luggage-labels-HL01",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0696-web.jpg",
+      "sha256": "070bd13591cd28f1d258e537dbe8ba379dc4a96eebcc6d6b5a56f55affb9d039",
+      "resolution": {
+        "width": 3000,
+        "height": 1971
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Black and White, Watamu",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Brown oval border contains blue/lime/rust hospitality illustration; curved place caption, large uneven black display name, small club description. Restaurant boundary example, not a named hotel."
+        }
+      ]
+    },
+    {
+      "record_id": "HL02",
+      "artifact_id": "hotel-luggage-labels-HL02",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0818-web.jpg",
+      "sha256": "0a0884c0e31692a27e48377f3e31b2b5d0bdac75044f2b7ea9f50ca78d77930b",
+      "resolution": {
+        "width": 3000,
+        "height": 2307
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Baker Hotel, Mineral Wells",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Red rounded rectangle, yellow tall display lettering, white/navy hotel tower and tiny leisure figures establish a hotel-name/building/destination hierarchy."
+        }
+      ]
+    },
+    {
+      "record_id": "HL03",
+      "artifact_id": "hotel-luggage-labels-HL03",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0987-web.jpg",
+      "sha256": "38479c95e859589c5bd9b15a13bdfbf214eae9655041d3e311d619b74ff1615e",
+      "resolution": {
+        "width": 2661,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "London destination",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue rectangle, yellow vertical LONDON at left, oversized black clock tower and cream border; destination-only boundary example."
+        }
+      ]
+    },
+    {
+      "record_id": "HL04",
+      "artifact_id": "hotel-luggage-labels-HL04",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0235-web.jpg",
+      "sha256": "bdfbdfcf0cfc0aea8b2d190b203d78dae983c5141eb735e88e484321ccbe2698",
+      "resolution": {
+        "width": 3000,
+        "height": 2995
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Nara Hotel",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue circular field, white gestural script follows upper rim, yellow curved place caption and loose black frontage drawing."
+        }
+      ]
+    },
+    {
+      "record_id": "HL05",
+      "artifact_id": "hotel-luggage-labels-HL05",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_1042-web.jpg",
+      "sha256": "f6af6759b1914fc87553f01417d0ec0199bb111def2ec4744af4b0dadbdac9b6",
+      "resolution": {
+        "width": 3000,
+        "height": 2636
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Hôtel Lameloise",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Irregular green leaf silhouette carries cream stacked calligraphic lettering and flourishes; no architectural picture, showing silhouette and lettering can carry the label."
+        }
+      ]
+    },
+    {
+      "record_id": "HL06",
+      "artifact_id": "hotel-luggage-labels-HL06",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_1159-web.jpg",
+      "sha256": "7008a10e0dc4bb9a86f674ff016b93175b16b4d370f3005d0ba76072d58db81b",
+      "resolution": {
+        "width": 2123,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Kervan Oteli",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Red portrait field, blue left strip with tulip, large cream block hotel name, black Istanbul skyline and smaller place caption."
+        }
+      ]
+    },
+    {
+      "record_id": "HL07",
+      "artifact_id": "hotel-luggage-labels-HL07",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_1102-web.jpg",
+      "sha256": "60293d9c472697149bce248c1e5ca57d536a567259f2bc13fdc8b2fc3237d7f3",
+      "resolution": {
+        "width": 3000,
+        "height": 2804
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Astoria Oslo",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Triangular cream-edged label integrates brick hotel frontage above oversized cream/red ASTORIA, small Oslo/Norway baseline and flying bird mark."
+        }
+      ]
+    },
+    {
+      "record_id": "HL08",
+      "artifact_id": "hotel-luggage-labels-HL08",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0342-web.jpg",
+      "sha256": "847780d1fef262cf76939853b44d237608eccb91b5c3a17a4160bbff04e7ed32",
+      "resolution": {
+        "width": 3000,
+        "height": 1983
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Oriental Hotel Bangkok",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Red horizontal oval, cream elephant engraved in red, black serif hotel name across illustration and bold sans destination below; historical Siam naming retained only as artifact context."
+        }
+      ]
+    },
+    {
+      "record_id": "HL09",
+      "artifact_id": "hotel-luggage-labels-HL09",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_1221-web.jpg",
+      "sha256": "36bb924a93e711134e2b1ebfb653afc6246730136a822fcae2ea1ac9d06e8041",
+      "resolution": {
+        "width": 2794,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Hotel Filipinas Manila",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Wavy edged turquoise rectangle, red slab-serif name with cream outline, green floral side border and small map/building pointer locating Manila."
+        }
+      ]
+    },
+    {
+      "record_id": "HL10",
+      "artifact_id": "hotel-luggage-labels-HL10",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0692-web.jpg",
+      "sha256": "741f848e75a5f92eadd341a071e3cfcc0a0b263cc49cd84ccbe08314714573de",
+      "resolution": {
+        "width": 3000,
+        "height": 2154
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Terminus Nice",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Three diagonal red/cream/blue bands fill rectangular label; shadowed serif NICE/HOTEL surrounds heavier slanted sans TERMINUS. Type-only composition."
+        }
+      ]
+    },
+    {
+      "record_id": "HL11",
+      "artifact_id": "hotel-luggage-labels-HL11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0079-web.jpg",
+      "sha256": "45e8f164d519093a7bd5ca30c1fe7bcac4a4db5f550f0b59e8902e01303a665f",
+      "resolution": {
+        "width": 3000,
+        "height": 2102
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Hotel Central Luanda",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Brown oval, red curved HOTEL, huge yellow CENTRAL with red dimensional rays, small destination and historical colonial geographic caption around lower rim."
+        }
+      ]
+    },
+    {
+      "record_id": "HL12",
+      "artifact_id": "hotel-luggage-labels-HL12",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0762-web.jpg",
+      "sha256": "1d59860d9d7d4895063fe960dc077bed20ca82f74672a0fb91b98e6225f7801e",
+      "resolution": {
+        "width": 2984,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Copacabana Palace",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Circular yellow name ring, black/cream wave-pattern middle ring and central halftone beachfront hotel photograph. Ring text frames local architecture rather than a full scene poster."
+        }
+      ]
+    },
+    {
+      "record_id": "HL13",
+      "artifact_id": "hotel-luggage-labels-HL13",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_1105-web.jpg",
+      "sha256": "492d8323af1ddf0d5ab7e0306808f19e20f9d1ea36611af94cc1950da1e607c9",
+      "resolution": {
+        "width": 2038,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Hotel Duna Budapest",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Green rounded border on black; orange dimensional DUNA lettering becomes a building, tiny cars and stars reinforce large-name hierarchy."
+        }
+      ]
+    },
+    {
+      "record_id": "HL14",
+      "artifact_id": "hotel-luggage-labels-HL14",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0859-web.jpg",
+      "sha256": "f1e043fcf92410571cc0ba3c0ede6ee59d2c20d864d48fd2b8b5d438ab1eb3a8",
+      "resolution": {
+        "width": 2749,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Royal Danielli Venice",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream rectangle with saturated orange sky, dark blue waterfront and gondola; white outlined hotel name across center, yellow expressive VENEZIA lower caption; Richter printer credit."
+        }
+      ]
+    },
+    {
+      "record_id": "HL15",
+      "artifact_id": "hotel-luggage-labels-HL15",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0848-web.jpg",
+      "sha256": "f30a282dfdd5e6267bb614949b77c22ee5562fb192ceae21390cb1226268bc3f",
+      "resolution": {
+        "width": 3000,
+        "height": 2303
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Colomba d’Oro Verona",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Black rectangle, nested diagonal yellow/orange/red bands form central diamond; thin cream geometric lettering occupies center, angled place names in corners."
+        }
+      ]
+    },
+    {
+      "record_id": "HL16",
+      "artifact_id": "hotel-luggage-labels-HL16",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_1224-web.jpg",
+      "sha256": "70d326d3756610bdf6faec878c4df6f8d9ab948ac0abc85e3947d76daf01ea59",
+      "resolution": {
+        "width": 1949,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Hotel Jura Basel",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream portrait rectangle, rough red/blue overprinted figure drawing, tall slab-serif name top left and rotated BASEL bottom left; irregular printed patches, not universal Art Deco."
+        }
+      ]
+    },
+    {
+      "record_id": "HL17",
+      "artifact_id": "hotel-luggage-labels-HL17",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_1085-web.jpg",
+      "sha256": "5589cfaf540ba62fa34122ba605ff7d4d0659b3aa9829d96a319923e05b87416",
+      "resolution": {
+        "width": 2653,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Hotel Limmathaus Zurich",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream portrait rectangle, giant interlocking blue/red geometric letterforms, black plain sans hotel name crossing center and place at foot; stark modernist type-only variant."
+        }
+      ]
+    },
+    {
+      "record_id": "HL18",
+      "artifact_id": "hotel-luggage-labels-HL18",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0952-web.jpg",
+      "sha256": "49fbad9030bb99162c9934313bf1a0f09bcc1c98f6ffecee0bff81775e18f20e",
+      "resolution": {
+        "width": 2019,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Hotel Völkerfreundschaft Görlitz",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Black ruled portrait rectangle alternates rows of small flags with cream type strips; angular geometric black lettering. Political symbolism is historical context, not generic decoration."
+        }
+      ]
+    },
+    {
+      "record_id": "HL19",
+      "artifact_id": "hotel-luggage-labels-HL19",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_1107-web.jpg",
+      "sha256": "fe6f6546739b11d8a0b5a62f9281bdac7b68aa61d9341601f95563aa7be9a424",
+      "resolution": {
+        "width": 2408,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Hotel Grand Krakow",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Rounded yellow/pink label with name following perimeter, central flat red rooster and blue costumed rider outlined black; local folkloric illustration requires contextual care."
+        }
+      ]
+    },
+    {
+      "record_id": "HL20",
+      "artifact_id": "hotel-luggage-labels-HL20",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0481-web.jpg",
+      "sha256": "72642cbad21df8cf8744b160210b78a569f1024f77c2011cb361b3189cc4aad8",
+      "resolution": {
+        "width": 2023,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Alhambra Palace Granada",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream portrait rectangle, red patterned flamenco dress and guitarist, architectural linework upper right, yellow and blue display lettering below; cultural tourism imagery, not a neutral reusable regional shorthand."
+        }
+      ]
+    },
+    {
+      "record_id": "HL21",
+      "artifact_id": "hotel-luggage-labels-HL21",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0177-web.jpg",
+      "sha256": "d708e59ad72eb26e9788fe043009b8a163a0ef41c8ead52ac62cc27667fa22ec",
+      "resolution": {
+        "width": 3000,
+        "height": 2999
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Rambagh Palace Jaipur",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Circular red/yellow name ring encloses palace, landscape and decorated elephant with rider; multicolor halftone and tourism framing, no single palette prescribed."
+        }
+      ]
+    },
+    {
+      "record_id": "HL22",
+      "artifact_id": "hotel-luggage-labels-HL22",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0377-web.jpg",
+      "sha256": "b9f0d151302881d551574cde28c5c047bd0fcf3b94c553b63964073f6b87e4f5",
+      "resolution": {
+        "width": 3000,
+        "height": 2362
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Northern Hotels Fiji",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream/yellow/green diagonal weave-like backdrop, cropped portrait, large brush-lettered Fiji and brown horizontal hotel ribbon; historical exoticizing tourism framing requires critique."
+        }
+      ]
+    },
+    {
+      "record_id": "HL23",
+      "artifact_id": "hotel-luggage-labels-HL23",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0695-web.jpg",
+      "sha256": "6b174f192974c21b139c2d534cd1ab6a9456c056a7b7b3cd7172e5602fa6984a",
+      "resolution": {
+        "width": 3000,
+        "height": 2363
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Norfolk Hotel Nairobi",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream-edged rectangular montage divides hotel architecture, wildlife and attendant portrait; bold irregular yellow/black nameplate across bottom. Colonial service hierarchy should not be reproduced uncritically."
+        }
+      ]
+    },
+    {
+      "record_id": "HL24",
+      "artifact_id": "hotel-luggage-labels-HL24",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0861-web.jpg",
+      "sha256": "4f51387cc53c1f92c03bb493affa33a6efb1463cd1ac15eb386079231fe56ace",
+      "resolution": {
+        "width": 3000,
+        "height": 2125
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Pension Westend Napoli",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Blue/cream rectangular coastal silhouette, volcano and small boats; large cream expressive NAPOLI/PENSION WESTEND below, Richter print credit at foot."
+        }
+      ]
+    },
+    {
+      "record_id": "HL25",
+      "artifact_id": "hotel-luggage-labels-HL25",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0279-web.jpg",
+      "sha256": "a524a7b4e07bda69466bd02b9cd532281ffd66ed4a04fb0db39393f26e1b6ccf",
+      "resolution": {
+        "width": 1981,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Grand Hotel des Wagons Lits Pekin",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream rectangle encloses painterly red/gold robed figure and architectural column; white irregular serif hotel/place text above and company credit below; Dan Sweeney signature visible."
+        }
+      ]
+    },
+    {
+      "record_id": "HL26",
+      "artifact_id": "hotel-luggage-labels-HL26",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0278-web.jpg",
+      "sha256": "9af6e99a42f40cae2694c63cd077b804d10cd54060ee014244560c693233bc38",
+      "resolution": {
+        "width": 1982,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Peninsula Hotel Hong Kong",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream portrait rectangle; painterly rickshaw scene under striped awning, spaced dark outlined serif name above and destination below; Dan Sweeney signature. Colonial labor scene is context, not a recommended motif."
+        }
+      ]
+    },
+    {
+      "record_id": "HL27",
+      "artifact_id": "hotel-luggage-labels-HL27",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://letterformarchive.org/wp-content/uploads/2026/03/lfa_travel_0803-web.jpg",
+      "sha256": "07e39e947cdf0bcd9f3a471328dfe239d5961b916bf9991ee988899f5fc7a783",
+      "resolution": {
+        "width": 2928,
+        "height": 3000
+      },
+      "source_url": "https://letterformarchive.org/news/hotel-retro/",
+      "title": "Huntington San Francisco",
+      "creator": "Various historical designers; digitization Letterform Archive; individual attribution only where visible",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Dark green circle, pale green/white curved outlined serif name and place ring, central crest with laurel and tiger; heraldic variant rather than architecture."
+        }
+      ]
+    },
+    {
+      "record_id": "HL28",
+      "artifact_id": "hotel-luggage-labels-HL28",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://live.staticflickr.com/65535/49985184538_0a53645d60_b.jpg",
+      "sha256": "531be8f650d1200615f1d40f620421b19c7af26d84a79ce7fd408e25367f4205",
+      "resolution": {
+        "width": 748,
+        "height": 1024
+      },
+      "source_url": "https://www.flickr.com/photos/thomasfisherlibrary/49985184538/",
+      "title": "Hotel Vancouver",
+      "creator": "Historical printer/designer not established; Thomas Fisher Rare Book Library digitization",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream portrait rectangle, blue field, flat green/yellow/brown stepped hotel building, chunky dark name above and Canadian Pacific below; full label visible at 748 by 1024."
+        }
+      ]
+    },
+    {
+      "record_id": "HL29",
+      "artifact_id": "hotel-luggage-labels-HL29",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://live.staticflickr.com/65535/48523065892_0e16039113_b.jpg",
+      "sha256": "d1d217b53f6ce5c17af2ae2cd54837480b3c3081fc7d9dfdca7dc5f84cc05976",
+      "resolution": {
+        "width": 1024,
+        "height": 962
+      },
+      "source_url": "https://www.flickr.com/photos/thomasfisherlibrary/48523065892/",
+      "title": "The St. Francis",
+      "creator": "Historical printer/designer not established; Thomas Fisher Rare Book Library digitization",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Octagonal blue/yellow ornamental frame, central monochrome building photograph, palm linework, blue scroll nameplate and pink script city below; full label visible at 1024 by 962."
+        }
+      ]
+    },
+    {
+      "record_id": "HL30",
+      "artifact_id": "hotel-luggage-labels-HL30",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://live.staticflickr.com/65535/48522896691_be2e0d4f76_b.jpg",
+      "sha256": "97d86bd494fabbb7e8791de5ac01fda9027b0dc0ff8b489ad0ab34a6d3cffd62",
+      "resolution": {
+        "width": 1024,
+        "height": 964
+      },
+      "source_url": "https://www.flickr.com/photos/thomasfisherlibrary/48522896691/",
+      "title": "Hotel New Yorker",
+      "creator": "Historical printer/designer not established; Thomas Fisher Rare Book Library digitization",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Octagonal pink/black/gold label, central vertical building drawing, radiating beams and fans, heavy serif nameplate, small address below; full label visible at 1024 by 964."
+        }
+      ]
+    },
+    {
+      "record_id": "HL31",
+      "artifact_id": "hotel-luggage-labels-HL31",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://static.sfomuseum.org/media/176/289/365/9/1762893659_As4JwlyvDsACKOyFm3vK4LkpQ36egZWv_c.jpg",
+      "sha256": "8ef6613332f0ce7825dc52f31348eff75f68cd2e13d604685c29d646655b3aa4",
+      "resolution": {
+        "width": 451,
+        "height": 600
+      },
+      "source_url": "https://collection.sfomuseum.org/objects/1762886909/",
+      "title": "Continental Hotel Bogota",
+      "creator": "Pan American World Airways; SFO Museum digitization",
+      "date": "c. 1955",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Cream-edged blue rectangle, large cream flag carrying red condensed hotel/place text, brown Americas map, white jet and looping route ribbon; distinct destination-emblem hierarchy."
+        }
+      ]
+    },
+    {
+      "record_id": "HL32",
+      "artifact_id": "hotel-luggage-labels-HL32",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://static.sfomuseum.org/media/176/289/358/9/1762893589_NVqcFxz8f6us413hufliMSC3o5qdvC7t_c.jpg",
+      "sha256": "27b83115fa827beb3d44e3e0c3902eaa19f452e80345a1ca29dd2d642b19943b",
+      "resolution": {
+        "width": 436,
+        "height": 600
+      },
+      "source_url": "https://collection.sfomuseum.org/objects/1762888553/",
+      "title": "Pan American hotel network",
+      "creator": "Pan American World Airways; SFO Museum digitization",
+      "date": "1950s",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Yellow/blue/green rectangular label, cream three-language welcome block, simplified Caribbean/South American map and yellow route arrows linking three named hotel locations; condensed sans labels plus airline signature."
+        }
+      ]
+    }
+  ]
+}

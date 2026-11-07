@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 221
+- Full entries: 231
 - Redirect entries: 1
 - Families: 8
 
@@ -59,6 +59,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `hauntology` | Hauntology | cultural hauntology, lost-futures aesthetic, Ghost Box-adjacent |
 | `hyperpop` | Hyperpop | Hyperpop Graphics, Hyper Pop Visuals |
 | `j-gov-futurism` | J-Gov Futurism | sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism, diegetic-bureaucratic-ui |
+| `jrpg-command-menus` | JRPG Command Menus | Japanese role-playing game menus, JRPG party menus |
 | `liminal-space-backrooms` | Liminal Space / Backrooms | liminal spaces, Backrooms aesthetic, uncanny transitional architecture |
 | `material-design` | Material Design | Material, Material UI, MDL |
 | `myspace-chaos` | MySpace Chaos | MySpace aesthetic, profile customization era |
@@ -68,6 +69,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `skeuomorphism` | Skeuomorphism | realistic UI, material mimicry |
 | `synthwave` | Synthwave / Retrowave | retrowave |
 | `vaporwave` | Vaporwave | vapor |
+| `vector-arcade-graphics` | Vector Arcade Graphics | Vector arcade display graphics, Vector-display arcade graphics |
 | `web-2-gloss` | Web 2.0 Gloss | Web 2.0 design, beta aesthetic |
 | `xlyk` | Xlyk | — |
 | `y2k` | Y2K | Y2K Futurism, Cyber Y2K |
@@ -221,6 +223,8 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 
 | Slug | Label | Aliases |
 | --- | --- | --- |
+| `airline-timetable-modernism` | Airline Timetable Modernism | Mid-century airline timetables, Modernist airline schedules |
+| `analog-test-instruments` | Analog-Era Test Instruments | Vintage laboratory instrument panels, Analog-era test equipment panels |
 | `apple-orchard-educational` | Apple Orchard Educational | orchard education, apple picking guide |
 | `autumn-library-reading-challenge` | Autumn Library Reading Challenge | fall reading challenge, library autumn program |
 | `bloomberg-terminal-monochrome` | Bloomberg Terminal Monochrome | Bloomberg terminal aesthetic, finance terminal UI, trader terminal monochrome |
@@ -247,6 +251,8 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | Slug | Label | Aliases |
 | --- | --- | --- |
 | `alpine-winter-travel-posters` | Alpine Winter Travel Posters | Alpine Winter Tourism Posters, Vintage Alpine Ski Posters |
+| `animal-rights-campaign-graphics` | Animal-Rights Campaign Graphics | Animal rights advocacy graphics, Animal liberation campaign graphics |
+| `architectural-property-editorial` | Architectural Property Editorial | Architecture-led property editorial, Architecture-led real estate editorial |
 | `b2b-quick-order-grid` | B2B Quick-Order Grid | quick order grid, B2B order pad, SKU quick order |
 | `board-game-box-art` | Board Game Box Art | tabletop box cover art, modern board game packaging, boardgame cover art |
 | `bootleg-streetwear-logo-remix` | Bootleg / Parody Streetwear Logo Remix | bootleg logo, parody streetwear, brand flip, subversive logo, logo remix |
@@ -257,6 +263,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `convenience-store-backoffice` | Convenience-Store Back-Office Grid | c-store backoffice, convenience store operations dashboard, fuel retail backoffice |
 | `dia-de-los-muertos-calavera-graphics` | Dia de los Muertos Calavera Graphics | Day of the Dead graphics, calavera graphics |
 | `fileteado-porteno` | Fileteado Porteño | Filete Porteño, Fileteado Porteno, Buenos Aires Fileteado |
+| `financial-newspaper-editorial` | Financial Newspaper Editorial | Financial press editorial design, Business newspaper editorial |
 | `ghanaian-mobile-cinema-posters` | Ghanaian Mobile-Cinema Posters | Ghanaian hand-painted film posters, Ghanaian movie posters, Ghana painted cinema posters |
 | `global-village-coffeehouse` | Global Village Coffeehouse | GVC, Millennium Global Village, Millennium-Era Urbane-Sophistication World Vibes |
 | `guochao` | Guochao | China-chic, guochao branding, guochao packaging, 国潮, Chinese heritage revival branding |
@@ -265,12 +272,15 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `harvest-market-chalkboard` | Harvest Market Chalkboard | farm market chalkboard, harvest chalk menu |
 | `haunted-dark-ride` | Haunted Dark Ride | haunted-house ride, dark ride horror |
 | `heritage-motorsport-livery` | Heritage Motorsport Livery | Classic racing livery, Vintage motorsport graphics, Historic race-car liveries |
+| `hotel-luggage-labels` | Hotel Luggage Labels | Vintage hotel luggage labels, Hotel baggage labels |
 | `konbini-utility` | Konbini Utility | Japanese convenience store utility, konbini design, convenience retail packaging utility |
 | `lotto` | Lotto Scratcher Commerce | scratch-off, scratch ticket, instant-win ticket, state lottery scratcher |
 | `mexican-rotulismo` | Mexican Rotulismo | Mexican Rótulos, rotulismo mexicano, Mexican rotulos, rótulo vernacular, hand-painted Mexican signs |
 | `pakistani-truck-art` | Pakistani Truck Art | Pakistan Truck Art, Pakistani Truck Painting |
+| `plant-based-challenger-graphics` | Plant-Based Challenger Graphics | Plant-based challenger branding, Vegan challenger graphics |
 | `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |
 | `school-fall-festival` | School Fall Festival | fall festival flyer, school carnival fall |
+| `silver-face-hi-fi` | Silver-Face Hi-Fi | Silver-face stereo, Vintage silver hi-fi panels |
 | `slasher-vhs-rental` | Slasher VHS Rental | horror VHS, video-store slasher |
 | `sticker-bomb-slap` | Sticker-Bomb / Slap Materiality | sticker bombing, sticker art, slaps, sticker graffiti, sticker slapping |
 | `tiki-polynesian-pop` | Tiki / Polynesian Pop | Polynesian Pop, tiki bar Americana, mid-century tiki |

@@ -1,0 +1,1285 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "HF01",
+      "artifact_id": "hifi-marantz-2270",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2023/08/marantz-2270-receiver.jpg",
+      "sha256": "c5cd9d74887b573a86cbebc422307c9a4bf1b153dcfd0ad86ac18e44dc4775d1",
+      "resolution": {
+        "width": 850,
+        "height": 312
+      },
+      "source_url": "https://classicreceivers.com/marantz-2270",
+      "title": "marantz-2270",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood sleeve, brushed silver rectangular fascia, black upper tuning window with blue meters/scale and red stereo lamp; six large lower listening knobs, smaller selector buttons above, script model marking and bold brand."
+        }
+      ]
+    },
+    {
+      "record_id": "HF02",
+      "artifact_id": "hifi-marantz-1515",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2025/03/marantz-1515-receiver.jpg",
+      "sha256": "730b4c8cfdd9232a4eb7aeb8c7c150238a44ca6eaa0db32287a3c0d07d4e675c",
+      "resolution": {
+        "width": 850,
+        "height": 274
+      },
+      "source_url": "https://classicreceivers.com/marantz-1515",
+      "title": "marantz-1515",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver fascia, long light tuning window with blue scale and two meters; large right tuning knob, lower regular row for selector/bass/treble/balance/volume, small upper buttons, script header."
+        }
+      ]
+    },
+    {
+      "record_id": "HF03",
+      "artifact_id": "hifi-sansui-g-9000",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2012/09/sansui-g-9000.jpg",
+      "sha256": "3b7e8e419c76616138254e6ce8982a91d65d2a73603801fc1148a7c9f7f0e0b4",
+      "resolution": {
+        "width": 605,
+        "height": 294
+      },
+      "source_url": "https://classicreceivers.com/sansui-g-9000",
+      "title": "sansui-g-9000",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood case, wide amber tuning field and upper meter row, two dominant metal knobs below with smaller flanking controls; dense but regular printed legends, localized red indicator."
+        }
+      ]
+    },
+    {
+      "record_id": "HF04",
+      "artifact_id": "hifi-pioneer-sx-d5000",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2024/02/pioneer-sx-d5000-receiver.jpg",
+      "sha256": "b986965e14478ab92f9612af86047ad623670c212866677984ef7c2094c8322b",
+      "resolution": {
+        "width": 850,
+        "height": 318
+      },
+      "source_url": "https://classicreceivers.com/pioneer-sx-d5000",
+      "title": "pioneer-sx-d5000",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver panel with two raised rectangular modules for blue numeric/level displays, central dominant volume knob, rows of small rectangular controls and horizontal tone sliders. Digital readout variant within metal-face grammar."
+        }
+      ]
+    },
+    {
+      "record_id": "HF05",
+      "artifact_id": "hifi-marantz-2252",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2024/02/marantz-2252-receiver.jpg",
+      "sha256": "5b3f95c9e9a899e63e6dfafb44d4bf62bb88730173e5757685df87af4e1800d8",
+      "resolution": {
+        "width": 850,
+        "height": 261
+      },
+      "source_url": "https://classicreceivers.com/marantz-2252",
+      "title": "marantz-2252",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Brushed silver face, black long blue-illuminated tuning strip and two meters; lower knob row with large right volume, small toggle/pushbutton groups and script title."
+        }
+      ]
+    },
+    {
+      "record_id": "HF06",
+      "artifact_id": "hifi-marantz-1550",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2024/02/marantz-1550-receiver.jpg",
+      "sha256": "9fca3e3b390160d2c90da83989d4d419b162913d79e3426f1c9008073ec79d13",
+      "resolution": {
+        "width": 850,
+        "height": 272
+      },
+      "source_url": "https://classicreceivers.com/marantz-1550",
+      "title": "marantz-1550",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver wide panel, pale upper tuning field with two left meters, dark blue frequency scales, large right tuning knob; lower tone/balance/volume knobs and compact black uppercase labels."
+        }
+      ]
+    },
+    {
+      "record_id": "HF07",
+      "artifact_id": "hifi-marantz-1060",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2025/03/marantz-1060-amplifier.jpg",
+      "sha256": "11155049b16d1c0fa9aa845e7ea0fdf42b53636cffb5ef054e3386ed52667210",
+      "resolution": {
+        "width": 850,
+        "height": 280
+      },
+      "source_url": "https://classicreceivers.com/marantz-1060",
+      "title": "marantz-1060",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "All-silver amplifier without tuning window or meters; bass/mid/treble across upper center, selector/balance/volume below, small side buttons and headphone jacks. Key exception to obligatory meters."
+        }
+      ]
+    },
+    {
+      "record_id": "HF08",
+      "artifact_id": "hifi-kenwood-kr-9600",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2010/05/kenwood-kr-9600-front.jpg",
+      "sha256": "827a61318714d3e7da30676e53a311d424cbe1321fe95ea599e7bd233ffb770b",
+      "resolution": {
+        "width": 755,
+        "height": 210
+      },
+      "source_url": "https://classicreceivers.com/kenwood-kr-9600",
+      "title": "kenwood-kr-9600",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver wide face with dark upper tuning window and large upper-right dial, lower rotary row and black vertical switches; orange localized readouts, side handles."
+        }
+      ]
+    },
+    {
+      "record_id": "HF09",
+      "artifact_id": "hifi-kenwood-kr-3200",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2025/03/kenwood-kr-3200-receiver.jpg",
+      "sha256": "f9fd372081bf2ea1d39f6733df00b98d4a781d50e84ab908af179107c47165f9",
+      "resolution": {
+        "width": 850,
+        "height": 345
+      },
+      "source_url": "https://classicreceivers.com/kenwood-kr-3200",
+      "title": "kenwood-kr-3200",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood-sided silver body, long dark upper frequency window with green meter/scale and tuning knob at right, lower regular rotary row and compact black switch block."
+        }
+      ]
+    },
+    {
+      "record_id": "HF10",
+      "artifact_id": "hifi-marantz-model-18",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2025/08/marantz-model-18-front-panel.jpg",
+      "sha256": "fb9b50ef04753f155ff532699d7cd222b074d5e513535536571b9f2b17bc48bd",
+      "resolution": {
+        "width": 850,
+        "height": 267
+      },
+      "source_url": "https://classicreceivers.com/marantz-model-18",
+      "title": "marantz-model-18",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gold-tinted silver face, long black upper window with green small oscilloscope-like tuning display, white linear scale and right flywheel; lower large metal knob row. Brand sits in central divider, not always top."
+        }
+      ]
+    },
+    {
+      "record_id": "HF11",
+      "artifact_id": "hifi-pioneer-sx-1250",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2010/07/pioneer-sx-1250-front-panel.jpg",
+      "sha256": "203175937d980d1542402e78db99054dda35ab425603d97b4004e48425a0c19c",
+      "resolution": {
+        "width": 850,
+        "height": 260
+      },
+      "source_url": "https://classicreceivers.com/pioneer-sx-1250",
+      "title": "pioneer-sx-1250",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood ends, silver tuning field with frequency scales and two meters, giant upper-right dial; lower rotary tone/volume row plus toggle groups and small black legends."
+        }
+      ]
+    },
+    {
+      "record_id": "HF12",
+      "artifact_id": "hifi-sansui-7070",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2014/05/sansui-7070-front.jpg",
+      "sha256": "5c1c3919a1bfbdb1d0220c72fb4a55ad9bb6b36f01b0591c0420cbe5de9e1110",
+      "resolution": {
+        "width": 605,
+        "height": 260
+      },
+      "source_url": "https://classicreceivers.com/sansui-7070",
+      "title": "sansui-7070",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood silver case, dark upper tuning field, two cyan meters upper left and amber power meters below, large upper-right tuning dial; lower orderly knobs and switches."
+        }
+      ]
+    },
+    {
+      "record_id": "HF13",
+      "artifact_id": "hifi-sansui-9090db",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2010/05/Sansui-9090DB-2.jpg",
+      "sha256": "818d9e454faed890730c56633b0cc50213b66d52eff5af1c00353db6855f61e1",
+      "resolution": {
+        "width": 500,
+        "height": 281
+      },
+      "source_url": "https://classicreceivers.com/sansui-9090db",
+      "title": "sansui-9090db",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood sleeve, dark long display band with blue/cyan scales and meters, upper-right metal tuning knob; silver lower listening controls. Fine legends limited by 500px photograph, not inferred."
+        }
+      ]
+    },
+    {
+      "record_id": "HF14",
+      "artifact_id": "hifi-sansui-221",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2024/02/sansui-221-receiver.jpg",
+      "sha256": "75663d49d39bbef3768b5af53380a3f2d507614ac85f3d3b7de6d6045d2eeccb",
+      "resolution": {
+        "width": 850,
+        "height": 294
+      },
+      "source_url": "https://classicreceivers.com/sansui-221",
+      "title": "sansui-221",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver body, black green/yellow tuner strip, single meter left, large right tuning knob; lower power/tone/balance/volume/selector row and black buttons."
+        }
+      ]
+    },
+    {
+      "record_id": "HF15",
+      "artifact_id": "hifi-sansui-5000a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2024/10/Sansui-5000a-stereo.jpg",
+      "sha256": "f0825e0f3507cb6a16d4edc7e9c378575385cf1d0beced4ffeb64eb33f73dc23",
+      "resolution": {
+        "width": 850,
+        "height": 387
+      },
+      "source_url": "https://classicreceivers.com/sansui-5000a",
+      "title": "sansui-5000a",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood case, black upper tuning band with green meters and white scale, black large tuning dial upper right; silver lower metal knobs and square black buttons."
+        }
+      ]
+    },
+    {
+      "record_id": "HF16",
+      "artifact_id": "hifi-marantz-2325",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2023/06/marantz-2325-front.jpg",
+      "sha256": "559186cb983b6fb47d8cbe99b68f1ac0eb3378bd54c0713c3d751b93807730f6",
+      "resolution": {
+        "width": 850,
+        "height": 283
+      },
+      "source_url": "https://classicreceivers.com/marantz-2325",
+      "title": "marantz-2325",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood sleeve, black blue-illuminated tuning strip/two meters above broad silver control field; lower large rotary row and many small upper buttons. Strong scale/metal hierarchy."
+        }
+      ]
+    },
+    {
+      "record_id": "HF17",
+      "artifact_id": "hifi-marantz-2230",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2014/06/marantz-2230-front.jpg",
+      "sha256": "afe9b192146a22bd86d733ea407d7266d5e9dfddd1db51174c100526e7931ff6",
+      "resolution": {
+        "width": 705,
+        "height": 270
+      },
+      "source_url": "https://classicreceivers.com/marantz-2230",
+      "title": "marantz-2230",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver wide fascia and black blue tuning band, one left meter, right flywheel; lower five-knob row and small pushbuttons. Compact proportions without losing hierarchy."
+        }
+      ]
+    },
+    {
+      "record_id": "HF18",
+      "artifact_id": "hifi-pioneer-sa-8800",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2025/03/pioneer-sa-8800-amplifier.jpg",
+      "sha256": "bd2372e6b83f29e6d8d5135e8575f6ab14d4b883b7c48137ba0828204e0f22d1",
+      "resolution": {
+        "width": 850,
+        "height": 275
+      },
+      "source_url": "https://classicreceivers.com/pioneer-sa-8800",
+      "title": "pioneer-sa-8800",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Later Fluoroscan-style silver amplifier: blue horizontal level display, two dominant upper volume/function knobs, lower tone/balance/selector controls and compact toggles. Distinct from earlier Japanese SA-8800 photographed by Audio Database."
+        }
+      ]
+    },
+    {
+      "record_id": "HF19",
+      "artifact_id": "hifi-technics-sa-1000",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2012/04/tecnics-sa-1000-front.jpg",
+      "sha256": "fbaf4b88732e78a6334aa7c4df5b27a027a165e632db795ce0b05c64c721cd22",
+      "resolution": {
+        "width": 615,
+        "height": 260
+      },
+      "source_url": "https://classicreceivers.com/technics-sa-1000",
+      "title": "technics-sa-1000",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood enclosure, silver long tuner field and two large vertically stacked right knobs; lower small knobs/switches and compact printed legends. Pale display rather than mandatory blue glow."
+        }
+      ]
+    },
+    {
+      "record_id": "HF20",
+      "artifact_id": "hifi-pioneer-sx-3500",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2026/03/pioneer-sx-3500-front-2.jpg",
+      "sha256": "9cbfaedb85c2c85740a5ea6c4ebbac172c3324a737604e636f4e52ee1e5d9f9c",
+      "resolution": {
+        "width": 850,
+        "height": 257
+      },
+      "source_url": "https://classicreceivers.com/pioneer-sx-3500",
+      "title": "pioneer-sx-3500",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver broad fascia, recessed dark blue digital/level readouts above a linear tuner scale, giant upper-right tuning knob, lower rotary row and rectangular switches."
+        }
+      ]
+    },
+    {
+      "record_id": "HF21",
+      "artifact_id": "hifi-yamaha-cr-440",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2024/02/yamaha-cr-440-receiver.jpg",
+      "sha256": "7bff1af080d7f56bdbcccf5a462c0178e7ca359afc2bf363327a3dbbc25ae3ce",
+      "resolution": {
+        "width": 850,
+        "height": 316
+      },
+      "source_url": "https://classicreceivers.com/yamaha-cr-440",
+      "title": "yamaha-cr-440",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver panel with thin full-width pale tuner scale, two small yellow-lit meters, two large right knobs, blade-like selectors and lower small rotary controls; clear functional spacing."
+        }
+      ]
+    },
+    {
+      "record_id": "HF22",
+      "artifact_id": "hifi-sansui-331",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2025/03/sansui-331-receiver.jpg",
+      "sha256": "462dac2526dd75e8a9638ec1f3a7038660f20ba1f72185c0a30aeb0814767b67",
+      "resolution": {
+        "width": 850,
+        "height": 309
+      },
+      "source_url": "https://classicreceivers.com/sansui-331",
+      "title": "sansui-331",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood silver case, black upper green/cream tuning field with single left meter, large upper-right dial; lower power/tone/balance/volume row with black rectangular buttons."
+        }
+      ]
+    },
+    {
+      "record_id": "HF23",
+      "artifact_id": "hifi-luxman-r-1120",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2011/07/Luxman-r-1120.jpg",
+      "sha256": "54fbe9985b9f8ed83703f40d27f299fd41f449f0ab62e7af9a94a208fd77efa8",
+      "resolution": {
+        "width": 560,
+        "height": 280
+      },
+      "source_url": "https://classicreceivers.com/luxman-r-1120",
+      "title": "luxman-r-1120",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark wood case, silver face with long inset tuning field, two small meters, one dominant central dial and smaller lower knobs. 560px angled image supports hierarchy, not fine labels."
+        }
+      ]
+    },
+    {
+      "record_id": "HF24",
+      "artifact_id": "hifi-sony-str-7055",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2023/07/sony-str-7055-receiver.jpg",
+      "sha256": "1d6b7b4040e16b1f69cd3cf3a4864e89c11dbffc9497be51204fec90bce66c24",
+      "resolution": {
+        "width": 850,
+        "height": 274
+      },
+      "source_url": "https://classicreceivers.com/sony-str-7055",
+      "title": "sony-str-7055",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver face, black linear tuning window with green meter, large volume left and tuning right; lower grouped metal rotary controls, toggle switches and headphone jack."
+        }
+      ]
+    },
+    {
+      "record_id": "HF25",
+      "artifact_id": "hifi-yamaha-m-2",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2025/08/yamaha-m-2-amplifier.jpg",
+      "sha256": "60973ffd3f6d6a0779602ac23520a85199da9a53184ad54e01245b5e8f330a57",
+      "resolution": {
+        "width": 850,
+        "height": 357
+      },
+      "source_url": "https://classicreceivers.com/yamaha-m-2",
+      "title": "yamaha-m-2",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black power-amplifier front with three large colored buttons and small bar readout. Complete photo, but black fascia falls outside silver-face scope; excluded boundary."
+        }
+      ]
+    },
+    {
+      "record_id": "HF26",
+      "artifact_id": "hifi-realistic-sta-2000",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://classicreceivers.com/wp-content/uploads/2013/11/realistic-sta-2000-front.jpg",
+      "sha256": "c88660d0ca8ef4495e8b9041a56f00af120047f14b9e75bb101851d0f281f991",
+      "resolution": {
+        "width": 610,
+        "height": 256
+      },
+      "source_url": "https://classicreceivers.com/realistic-sta-2000",
+      "title": "realistic-sta-2000",
+      "creator": "Original manufacturer; photograph published by Classic Receivers, individual photographer not established",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver face with pale long frequency scale, one left meter and large right tuning dial; lower ordered rotary controls, toggles and a small button group. Fine legend details limited by 610px image."
+        }
+      ]
+    },
+    {
+      "record_id": "HF27",
+      "artifact_id": "hifi-hub-01_CA-1000",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://hub.yamaha.com/wp-content/uploads/2021/02/01_CA-1000.jpg",
+      "sha256": "2ea756e9c5ca8924d2ce38dce7484a4295e36826faed2e32cdf08543ac4a7d05",
+      "resolution": {
+        "width": 1370,
+        "height": 579
+      },
+      "title": "Yamaha CA-1000",
+      "source_url": "https://hub.yamaha.com/audio/a-history/cult-classics-part-1-vintage-yamaha-gear-of-the-1970s/",
+      "creator": "Yamaha manufacturer archive",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver plain rectangular fascia, light wood case, black thin functional labels, larger right volume knob, smaller bass/treble/loudness knobs and blade-like switches, no meters or tuning window. Quiet grouped asymmetry."
+        }
+      ]
+    },
+    {
+      "record_id": "HF28",
+      "artifact_id": "hifi-hub-06-CT7000",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://hub.yamaha.com/wp-content/uploads/2021/02/06-CT7000.jpg",
+      "sha256": "f6dfc50d0c2ba41cfd75fe201b615d3745afd831f13ea294113c3498ece4a15d",
+      "resolution": {
+        "width": 707,
+        "height": 264
+      },
+      "title": "Yamaha CT-7000",
+      "source_url": "https://hub.yamaha.com/audio/a-history/cult-classics-part-1-vintage-yamaha-gear-of-the-1970s/",
+      "creator": "Yamaha manufacturer archive",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver face/light wood case, long shallow tuner scale at left, twin meters at upper right, large lower-right knob and small aligned controls below scale. Pale low-chroma illumination, fine numerals not all legible."
+        }
+      ]
+    },
+    {
+      "record_id": "HF29",
+      "artifact_id": "hifi-hub-07-TC800GL-1",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://hub.yamaha.com/wp-content/uploads/2021/02/07-TC800GL-1.jpg",
+      "sha256": "aaea0ddcb82a4713bbced7272f68eb08e3ab62bded35f24e01b2b3cd73e1df9c",
+      "resolution": {
+        "width": 1079,
+        "height": 455
+      },
+      "title": "Yamaha TC-800GL",
+      "source_url": "https://hub.yamaha.com/audio/a-history/cult-classics-part-1-vintage-yamaha-gear-of-the-1970s/",
+      "creator": "Yamaha manufacturer archive",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black slanted portable cassette deck, red record key and parallel horizontal sliders. Original photograph inspected but outside silver upright fascia scope; boundary counterexample."
+        }
+      ]
+    },
+    {
+      "record_id": "HF30",
+      "artifact_id": "hifi-hub-02-CR2020refl",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://hub.yamaha.com/wp-content/uploads/2021/02/02-CR2020refl.jpg",
+      "sha256": "4bf59489ba7c505911b07738df111f4538300e1f8dc9e437844a5e03dedccc74",
+      "resolution": {
+        "width": 1000,
+        "height": 575
+      },
+      "title": "Yamaha CR-2020",
+      "source_url": "https://hub.yamaha.com/audio/a-history/cult-classics-part-1-vintage-yamaha-gear-of-the-1970s/",
+      "creator": "Yamaha manufacturer archive",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wood sleeve, silver brushed face, two left meters, upper linear tuning scale, two large right listening/tuning knobs, lower smaller knobs and rectangular blade switches. Thin black labels and sparse separators."
+        }
+      ]
+    },
+    {
+      "record_id": "HF31",
+      "artifact_id": "hifi-adb-sa-8800",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://audio-database.com/PIONEER-EXCLUSIVE/amp/sa-8800.JPG",
+      "sha256": "75dce66fec7963431ca0baf831820e3aa6e161d83ced18cb7a966a8f54328217",
+      "resolution": {
+        "width": 670,
+        "height": 319
+      },
+      "title": "Pioneer SA-8800 Japanese earlier model",
+      "source_url": "https://audio-database.com/PIONEER-EXCLUSIVE/amp/sa-8800-e.html",
+      "creator": "Pioneer original product; Audio Database archival image",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver amplifier face with paired upper tone knobs, central large volume and large right function knob, smaller lower selector and toggle groups. No illuminated display. Physically distinct earlier model from later same-named Fluoroscan-style export amplifier; provenance difference retained."
+        }
+      ]
+    },
+    {
+      "record_id": "HF32",
+      "artifact_id": "hifi-adb-sa-9900",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://audio-database.com/PIONEER-EXCLUSIVE/amp/sa-9900.JPG",
+      "sha256": "8b06577d46d0b9ae6c4ea0a7a09cb6df103b3dbf4b9567e222983c0be3f48d2a",
+      "resolution": {
+        "width": 703,
+        "height": 339
+      },
+      "title": "Pioneer SA-9900",
+      "source_url": "https://audio-database.com/PIONEER-EXCLUSIVE/amp/sa-9900-e.html",
+      "creator": "Pioneer original product; Audio Database archival image",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver wide fascia, central dominant volume knob and large right function knob, paired tone knobs at top left, blade switches/lower selectors and headphone jack; thin functional legends, restrained amber indicator, no large display."
+        }
+      ]
+    },
+    {
+      "record_id": "HF33",
+      "artifact_id": "hifi-inadequate-yamaha-ca-700",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://usa.yamaha.com/files/ca-700_fig_862f940a56d063e64f2e3e702cdcfc7a.jpg",
+      "sha256": "02f08bad7f1b378b93c45706ebb295fd8810ddc66ed48445852d81696f95e869",
+      "resolution": {
+        "width": 285,
+        "height": 487
+      },
+      "title": "yamaha-ca-700 composite detail",
+      "source_url": "https://usa.yamaha.com/products/contents/audio_visual/hifi_components/hifi-history/integrated-amplifier/index.html",
+      "creator": "Yamaha archive",
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture"
+          ],
+          "observation": "Complete supplied composite inspected; internal/rear views or black-face details dominate, with small front area. Inadequate for full silver fascia analysis; excluded. CA-1000 front studied separately via larger manufacturer photograph."
+        }
+      ]
+    },
+    {
+      "record_id": "HF34",
+      "artifact_id": "hifi-inadequate-yamaha-ca-1000",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://usa.yamaha.com/files/ca-1000_fig_fbd171c08933228b00a32db11f9386df.jpg",
+      "sha256": "93db026cad5f3ed96c1da98c912fa3cda624184ee98db92741a79b09e954ef85",
+      "resolution": {
+        "width": 313,
+        "height": 425
+      },
+      "title": "yamaha-ca-1000 composite detail",
+      "source_url": "https://usa.yamaha.com/products/contents/audio_visual/hifi_components/hifi-history/integrated-amplifier/index.html",
+      "creator": "Yamaha archive",
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture"
+          ],
+          "observation": "Complete supplied composite inspected; internal/rear views or black-face details dominate, with small front area. Inadequate for full silver fascia analysis; excluded. CA-1000 front studied separately via larger manufacturer photograph."
+        }
+      ]
+    },
+    {
+      "record_id": "HF35",
+      "artifact_id": "hifi-inadequate-yamaha-ca-2000",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://usa.yamaha.com/files/ca-2000_fig_40e6d885578376f10c5864d162e4e787.jpg",
+      "sha256": "fdf4a41448023275820cf198adafbe2970643e11a2818bcbcd68bbc5c74d84f1",
+      "resolution": {
+        "width": 326,
+        "height": 550
+      },
+      "title": "yamaha-ca-2000 composite detail",
+      "source_url": "https://usa.yamaha.com/products/contents/audio_visual/hifi_components/hifi-history/integrated-amplifier/index.html",
+      "creator": "Yamaha archive",
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture"
+          ],
+          "observation": "Complete supplied composite inspected; internal/rear views or black-face details dominate, with small front area. Inadequate for full silver fascia analysis; excluded. CA-1000 front studied separately via larger manufacturer photograph."
+        }
+      ]
+    },
+    {
+      "record_id": "HF36",
+      "artifact_id": "hifi-inadequate-yamaha-c-1",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://usa.yamaha.com/files/c-1_fig_4e201adf737178fd7c4636a57aafe473.jpg",
+      "sha256": "034373fd43bac3f5b831e671edc3c66a5aac093ecebe6adba98f8ec12b17c5d0",
+      "resolution": {
+        "width": 307,
+        "height": 343
+      },
+      "title": "yamaha-c-1 composite detail",
+      "source_url": "https://usa.yamaha.com/products/contents/audio_visual/hifi_components/hifi-history/separate-amplifier/index.html",
+      "creator": "Yamaha archive",
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture"
+          ],
+          "observation": "Complete supplied composite inspected; internal/rear views or black-face details dominate, with small front area. Inadequate for full silver fascia analysis; excluded. CA-1000 front studied separately via larger manufacturer photograph."
+        }
+      ]
+    },
+    {
+      "record_id": "HF37",
+      "artifact_id": "hifi-inadequate-yamaha-c-2a",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": false,
+      "media_url": "https://usa.yamaha.com/files/c-2a_fig_866f20eb280218eed59c3b8976d71871.jpg",
+      "sha256": "55b8157eff0c3a281e0dc5f45476c730afa99d34726537d0a0d8ae57e3070ce2",
+      "resolution": {
+        "width": 307,
+        "height": 512
+      },
+      "title": "yamaha-c-2a composite detail",
+      "source_url": "https://usa.yamaha.com/products/contents/audio_visual/hifi_components/hifi-history/separate-amplifier/index.html",
+      "creator": "Yamaha archive",
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture"
+          ],
+          "observation": "Complete supplied composite inspected; internal/rear views or black-face details dominate, with small front area. Inadequate for full silver fascia analysis; excluded. CA-1000 front studied separately via larger manufacturer photograph."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1157 @@
+{
+  "method": "Direct individual full-media inspection; source files retained only in a private analytical cache. Links and observations only are published. No generated media counts as reference evidence.",
+  "media": [
+    {
+      "record_id": "PE01",
+      "artifact_id": "property-report-1",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2026/10/Nunhead_Cemetry_2048-001.jpg",
+      "sha256": "910b367ca6325e6cca06e753c6de2917303b80d5c1df8cc46512682baf5e28a7",
+      "resolution": {
+        "width": 2048,
+        "height": 1365
+      },
+      "source_url": "https://aucoot.com/property/limesford-road-nunhead-london-se15/",
+      "title": "limesford-road-nunhead-london-se15 — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream kitchen with arched glazing, wood and pale stone, natural side light and corrected-looking verticals; material/light relationships dominate."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE02",
+      "artifact_id": "property-report-2",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2026/10/Liverpool_Road_2048-001-2-1.jpg",
+      "sha256": "a1701a7aed288b6fe5ea35d10f878479615b147b047a5feaf69acb987394f918",
+      "resolution": {
+        "width": 2048,
+        "height": 1365
+      },
+      "source_url": "https://aucoot.com/property/liverpool-road-islington-london-n7/",
+      "title": "liverpool-road-islington-london-n7 — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Formal pale stucco front, dark railings and green trees, broad calm daylight facade composition."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE03",
+      "artifact_id": "property-report-3",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2026/10/Middleton_Road_2048-001.jpg",
+      "sha256": "d311a060fa129b1751958ec215955d34863fb992ec3b8c01efd0fa94dde32635",
+      "resolution": {
+        "width": 2048,
+        "height": 1365
+      },
+      "source_url": "https://aucoot.com/property/middleton-road-ii-london-fields-e8/",
+      "title": "middleton-road-ii-london-fields-e8 — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Brick terrace with green door, foliage partially foregrounding facade, quiet autumn color and eye-level setting."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE04",
+      "artifact_id": "property-report-4",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2026/09/Ty.jpg",
+      "sha256": "569d862b6e633753bb78ed54dd59e9dbd5636b59b4f5abc4f695c247f70c23f4",
+      "resolution": {
+        "width": 4096,
+        "height": 2160
+      },
+      "source_url": "https://aucoot.com/property/ty-hedfan-pontfaen-wales/",
+      "title": "ty-hedfan-pontfaen-wales — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Warm wood-ceiling kitchen, olive cabinetry and large glazing, long table leads eye toward architectural opening."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE05",
+      "artifact_id": "property-report-5",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2026/09/Richmond_Road_2048-001-3.jpg",
+      "sha256": "ae606dfbf47657df2a87907e59b8ecee0f0df347ef6284637b82eefef5e7e000",
+      "resolution": {
+        "width": 2048,
+        "height": 1366
+      },
+      "source_url": "https://aucoot.com/property/richmond-road-iii-london-fields-london-e8/",
+      "title": "richmond-road-iii-london-fields-london-e8 — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gray/cream brick row houses, strong window alignment and autumn trees, no sales lettering imposed on image."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE06",
+      "artifact_id": "property-report-6",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2025/10/GIBBS_BARN_2048px_001-1.jpg",
+      "sha256": "3110fc45aa566a49c5d7042fc68788ba2646a5959004e703887875b615c6cfc7",
+      "resolution": {
+        "width": 2048,
+        "height": 1366
+      },
+      "source_url": "https://aucoot.com/property/gibbs-barn/",
+      "title": "gibbs-barn — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Light barn interior, white structure and pale stone, long diagonal table and smaller color furnishings; calm broad room view."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE07",
+      "artifact_id": "property-report-7",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2026/08/SPRUCE_2048px_002-2-1320x880.jpg",
+      "sha256": "d445da6d46b566173edadfa3a7ab05b613d8a8b191ab7f947cd65163bd139fce",
+      "resolution": {
+        "width": 1320,
+        "height": 880
+      },
+      "source_url": "https://aucoot.com/property/spruce-house-walthamstow-village-e17/",
+      "title": "spruce-house-walthamstow-village-e17 — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Slender pale modern infill behind garden foliage, gravel path and full-height glazing, neighboring context remains visible."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE08",
+      "artifact_id": "property-report-8",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2026/08/Canterbury_Crescent_2048-011-2.jpg",
+      "sha256": "e56ee7d0d7f9fe67d9e47fc203457ae91499119d885e8268b866f7ea548888dd",
+      "resolution": {
+        "width": 1970,
+        "height": 1313
+      },
+      "source_url": "https://aucoot.com/property/st-johns-buildings-brixton-sw9/",
+      "title": "st-johns-buildings-brixton-sw9 — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dense plant-filled double-height home with ceramics and mixed furniture; explicit counterexample to mandatory empty/minimal interiors."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE09",
+      "artifact_id": "property-report-9",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2026/08/Six_PIllars_2048-001-1-1320x880.jpg",
+      "sha256": "e3c0e9c27cb7a4b1847f4eba3231292a30686dd4fe9b52b5c97699264dc025ce",
+      "resolution": {
+        "width": 1320,
+        "height": 880
+      },
+      "source_url": "https://aucoot.com/property/six-pillars-dulwich-london-se26/",
+      "title": "six-pillars-dulwich-london-se26 — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White modernist stepped facade in garden, curved stair and gridded windows, subdued green/white image palette."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE10",
+      "artifact_id": "property-report-10",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://aucoot.com/wp-content/uploads/2026/07/STAMFORD_2048px_001.jpg",
+      "sha256": "05ade3af7a4e44b0eaf81bad59c2f1288278e879ae6d3695a3afa6d33393a95c",
+      "resolution": {
+        "width": 2048,
+        "height": 1366
+      },
+      "source_url": "https://aucoot.com/property/stamford-road-de-beauvoir-town-london-n1/",
+      "title": "stamford-road-de-beauvoir-town-london-n1 — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale contemporary kitchen extension, broad garden glazing, small colorful chairs/art and long horizontal worktop."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE11",
+      "artifact_id": "property-report-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/4buWunVLgkSZob6NK2UL0w.jpg",
+      "sha256": "f0683199f50671af86c41c3a35333ab87f5064bc1b3b66bd382080fa115e4ebb",
+      "resolution": {
+        "width": 1500,
+        "height": 1000
+      },
+      "source_url": "https://www.inigo.com/sales-list/the-old-chapel-i",
+      "title": "the-old-chapel-i — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Stone chapel conversion facade, pointed arches and dark door, natural overcast light and rich garden detail."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE12",
+      "artifact_id": "property-report-12",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/m08zJxM-WkquDjMtwHTcfg.jpg",
+      "sha256": "38c438046a65463c0105dc0d9e15e672cdb8a4397f795f59826588719424cc21",
+      "resolution": {
+        "width": 1600,
+        "height": 1067
+      },
+      "source_url": "https://www.inigo.com/sales-list/frog-end",
+      "title": "frog-end — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream pitched-ceiling room, tall bookcase and pastel-blue sofa, warm table foreground and windows establishing depth."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE13",
+      "artifact_id": "property-report-13",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/I_xrW_I-m0G5sjnFL53a9w.jpg",
+      "sha256": "cabd136a1e4ac864c1543956e2a409bdcd8258775259bfdb62b83dc162721e63",
+      "resolution": {
+        "width": 1619,
+        "height": 1080
+      },
+      "source_url": "https://www.inigo.com/sales-list/carlyle-mansions-ii",
+      "title": "carlyle-mansions-ii — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete full still photograph of red-brick mansion block framed by trees; replacement for excluded video poster. No playback claimed."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE14",
+      "artifact_id": "property-report-14",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/zBnnjE09_UqG0DS5q5zkqQ.jpg",
+      "sha256": "0e5714096cd010aefe5bb4e3f23dec25b48620947aa690ac14cdf4aaf8b2f877",
+      "resolution": {
+        "width": 1619,
+        "height": 1080
+      },
+      "source_url": "https://www.inigo.com/sales-list/queens-gate-mews-ii",
+      "title": "queens-gate-mews-ii — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete full still photograph of brick mews corner and pale window surrounds; replacement for excluded video poster."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE15",
+      "artifact_id": "property-report-15",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/YPWA4giPr0CRv9s_PCV66A.jpg",
+      "sha256": "2bc79322686b95a0aecab1ddd21dccb97ea8fa2a38e133989747cb0679d04605",
+      "resolution": {
+        "width": 1600,
+        "height": 1067
+      },
+      "source_url": "https://www.inigo.com/sales-list/northside",
+      "title": "northside — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Layered lived-in drawing room with pink/blue patterned seating, piano, framed art and cornice; material/color richness within restrained photography."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE16",
+      "artifact_id": "property-report-16",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/iSq6442-lUeXs_IKThYoWQ.jpg",
+      "sha256": "abaa8f828552ebbba0a4e771bd1be12ed8583cdd750416e8db52a7d067467a75",
+      "resolution": {
+        "width": 1500,
+        "height": 1000
+      },
+      "source_url": "https://www.inigo.com/sales-list/lavengro",
+      "title": "lavengro — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Thatched cottage elevation, gravel and small garden planting, muted cream/red/green color in clear daylight."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE17",
+      "artifact_id": "property-report-17",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/7Hn3RENUvU2ZqmXWx9e8oQ.jpg",
+      "sha256": "babc775e14f08ee74f64b751fc6aedf00b4709e5ea6d23adf27742153a202a14",
+      "resolution": {
+        "width": 1600,
+        "height": 1067
+      },
+      "source_url": "https://www.inigo.com/sales-list/eckington-house",
+      "title": "eckington-house — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green historic dining room with dark beams and timber chairs, central table/bowl foreground, intimate material view."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE18",
+      "artifact_id": "property-report-18",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/egHZROH9iLT1Kh64fVTSWwH3d_0.jpg",
+      "sha256": "d75d036467399af774d740b965850d888c43c54008a499c8c1dcb2be0d34e56c",
+      "resolution": {
+        "width": 1600,
+        "height": 1067
+      },
+      "source_url": "https://www.inigo.com/sales-list/french-court-farmhouse-ii",
+      "title": "french-court-farmhouse-ii — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Weathered tiled farmhouse facade behind tall meadow flowers, gray-green door, soft rural sunlight."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE19",
+      "artifact_id": "property-report-19",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/e86746M98KkjWYjMcApNmBXTESM.jpg",
+      "sha256": "045eb08e7ff7dd951b2d801b4f427e61ea257789164641a632da90544798edcc",
+      "resolution": {
+        "width": 1600,
+        "height": 1067
+      },
+      "source_url": "https://www.inigo.com/sales-list/nantuat",
+      "title": "nantuat — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale two-storey country house viewed with lawn and surrounding trees, modest three-quarter angle and contextual grounds."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE20",
+      "artifact_id": "property-report-20",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/E4cLWDItTUW02iVzVhts8Q.jpg",
+      "sha256": "167b7bae7bd7d914bd5b4855b90427e1d6ddec9ba686678f6a56d79c8871bfce",
+      "resolution": {
+        "width": 1620,
+        "height": 1080
+      },
+      "source_url": "https://www.inigo.com/sales-list/the-old-rectory-v",
+      "title": "the-old-rectory-v — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream/blue traditional kitchen with timber worktop, rustic floor and window light; ordinary domestic detail matters."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE21",
+      "artifact_id": "property-report-21",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.modernhouse.co/wp-content/uploads/2024/11/Environa_21-Fortescue_Lounge-to-kitchen.webp",
+      "sha256": "ca0a06ad570c3f87145cd5fdc19b3f7557da6f5969001fb1260f6b4cef1b4d87",
+      "resolution": {
+        "width": 4000,
+        "height": 2665
+      },
+      "source_url": "https://www.modernhouse.co/listings/chiswick-house/",
+      "title": "chiswick-house — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete large modern interior, pale cabinetry, double-height void, broad glazing and restrained furniture; full image replaces cropped gallery tile."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE22",
+      "artifact_id": "property-report-22",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.modernhouse.co/wp-content/uploads/2026/09/Reeves-House_Para_3.webp",
+      "sha256": "aad1bf311ee7a4dcb7144cf0cf887cb2e5f708a97b427cb928be2db61a92e566",
+      "resolution": {
+        "width": 4000,
+        "height": 2666
+      },
+      "source_url": "https://www.modernhouse.co/listings/reeves-house/",
+      "title": "reeves-house — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete long glazed living room, steel bracing, green couches and view of foliage; room structure and habitation coexist."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE23",
+      "artifact_id": "property-report-23",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.modernhouse.co/wp-content/uploads/2026/07/466-Cleveland-St_CplusC_Ext-07_Para04_HERO.webp",
+      "sha256": "fc3aaff814ac8abcdb9d7cc58c240f54b4cf396b6313a01866dbb413cc2087a6",
+      "resolution": {
+        "width": 4000,
+        "height": 2667
+      },
+      "source_url": "https://www.modernhouse.co/listings/delorean-victorian-cplusc/",
+      "title": "delorean-victorian-cplusc — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete twilight corner property elevation, warm illuminated former shopfront, street context and light trails. Static exposure, not observed animation."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE24",
+      "artifact_id": "property-report-24",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.modernhouse.co/wp-content/uploads/2026/03/25-Patonga-St_Peter-Lonergan_0055_Para.webp",
+      "sha256": "7712d13db636188d3629f83b90df771c7049e90696537d3ff663f584f2185449",
+      "resolution": {
+        "width": 4000,
+        "height": 2666
+      },
+      "source_url": "https://www.modernhouse.co/listings/patonga-house/",
+      "title": "patonga-house — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete low courtyard interior with glass partitions, concrete block, wood and pale furniture; visual continuity into courtyard."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE25",
+      "artifact_id": "property-report-25",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.modernhouse.co/wp-content/uploads/2025/07/NS_25_MH_IMG_0314_2.jpg",
+      "sha256": "02b6481624dd4ea89035f2053d6089792ca28cc74157bc4964bda939a5dbbe29",
+      "resolution": {
+        "width": 4000,
+        "height": 2666
+      },
+      "source_url": "https://www.modernhouse.co/listings/night-sky-robin-boyd/",
+      "title": "night-sky-robin-boyd — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete brick barrel-vaulted room, circular skylight and broad openings into landscape; URL wording differs visible page/property identity, no Robin Boyd attribution inferred from slug."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE26",
+      "artifact_id": "property-report-26",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.modernhouse.co/wp-content/uploads/2026/10/Rohaven_Morning.webp",
+      "sha256": "114ae86bf0845dab7f811a76a71d8e113340047b4928d7dc3e246685c45a5607",
+      "resolution": {
+        "width": 4000,
+        "height": 2666
+      },
+      "source_url": "https://www.modernhouse.co/listings/rohaven/",
+      "title": "rohaven — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete timber/brick modern living room overlooking trees/water, richly inhabited rather than empty."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE27",
+      "artifact_id": "property-report-27",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.modernhouse.co/wp-content/uploads/2026/01/VISTA_Parallax_2.webp",
+      "sha256": "fe8d457cc317ce55916ee14a7aecb9af26f2aa78f0ad1b82743c2566c59b1620",
+      "resolution": {
+        "width": 4000,
+        "height": 2666
+      },
+      "source_url": "https://www.modernhouse.co/listings/vista-house-by-peter-stutchbury/",
+      "title": "vista-house-by-peter-stutchbury — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete rammed-earth/timber courtyard with open landscape axis, restrained furniture and low horizon."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE28",
+      "artifact_id": "property-report-28",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.modernhouse.co/wp-content/uploads/2026/02/1476-037_high-res.webp",
+      "sha256": "bb33a3a6c69d42c52547633eeb6518ce4902b026666d09f3e391a340ed5cfdf1",
+      "resolution": {
+        "width": 4000,
+        "height": 2666
+      },
+      "source_url": "https://www.modernhouse.co/listings/ball-eastaway-house-by-glenn-murcutt/",
+      "title": "ball-eastaway-house-by-glenn-murcutt — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete corrugated metal raised house among trees, directional shadows and narrow timber path."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE29",
+      "artifact_id": "property-report-29",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://www.modernhouse.co/wp-content/uploads/2026/05/25-Greenfield-Ave_GIFFNEY-BENNETT-HOUSE_P1.jpg",
+      "sha256": "07d62c149e0753695ab28246b9f6128b842ed3ddb5b3f6bd58f231e0969b6274",
+      "resolution": {
+        "width": 4000,
+        "height": 2666
+      },
+      "source_url": "https://www.modernhouse.co/listings/giffney-bennett-house/",
+      "title": "giffney-bennett-house — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete pale-brick and warm-timber entrance/stair interior, long glazing and garden view, structural rhythm."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PE30",
+      "artifact_id": "property-report-30",
+      "accessed_at": "2026-11-07",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": true,
+      "qualifying_example": true,
+      "media_url": "https://cdn.themodernhouse.com/e8JR8y2OOWkMHIjMA6cCbATTBjY/J4aAK3bp0gXEGsIQeXIRV8Tulck/Photo/[3]/rcvX1D5i3eHDt-o3AkT1RZDOCxU.jpg",
+      "sha256": "7fed1198c9a383c7f82c51793d45815e02742f912975b2e27441e0cc07953bd0",
+      "resolution": {
+        "width": 1600,
+        "height": 1067
+      },
+      "source_url": "https://www.inigo.com/sales-list/northampton-square-ii",
+      "title": "northampton-square-ii — property editorial photograph",
+      "creator": "Listing publisher; individual photographer unestablished unless credited on linked report",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete brick terrace corner beneath tree canopy, railings and street setting; replacement for excluded video poster."
+        }
+      ],
+      "limitations": "One complete property photograph per independent sales report, counted once per property. These stills support image direction, not UI type or responsive behavior. Three actual site layouts separately inspected."
+    },
+    {
+      "record_id": "PEweb1",
+      "artifact_id": "property-report-1",
+      "accessed_at": "2026-11-07",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://aucoot.com/property/limesford-road-nunhead-london-se15/",
+      "media_url": "https://aucoot.com/property/limesford-road-nunhead-london-se15/",
+      "title": "Live property editorial states",
+      "duplicate_of": "PE01",
+      "states": [
+        "hero",
+        "description after native scroll"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "type",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "Aucoot: full hero and description state. Large italic serif property name, quiet sans navigation, pale peach price/section strip, narrow facts column beside wide serif narrative and pull quote. Photos/floorplan/location/viewing are real section links. No form submitted."
+        }
+      ],
+      "limitations": "Grouped with existing property work, zero extra unique count. Three desktop views at 1280px; no historical mobile or exact timing claims."
+    },
+    {
+      "record_id": "PEweb11",
+      "artifact_id": "property-report-11",
+      "accessed_at": "2026-11-07",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://www.inigo.com/sales-list/the-old-chapel-i",
+      "media_url": "https://www.inigo.com/sales-list/the-old-chapel-i",
+      "title": "Live property editorial states",
+      "duplicate_of": "PE11",
+      "states": [
+        "hero",
+        "description after native scroll"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "type",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "Inigo: hero and lower description state. Full-width home image, slate information panel, large serif property name and italic quotation; separate sans navigation, facts and request-viewing actions. Cookie overlay obscures lower screen; no claim of full end-to-end form test."
+        }
+      ],
+      "limitations": "Grouped with existing property work, zero extra unique count. Three desktop views at 1280px; no historical mobile or exact timing claims."
+    },
+    {
+      "record_id": "PEweb21",
+      "artifact_id": "property-report-21",
+      "accessed_at": "2026-11-07",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Private analytical cache only; copyrighted reference not cleared for redistribution. No source media reused in showcase.",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "source_url": "https://www.modernhouse.co/listings/chiswick-house/",
+      "media_url": "https://www.modernhouse.co/listings/chiswick-house/",
+      "title": "Live property editorial states",
+      "duplicate_of": "PE21",
+      "states": [
+        "hero",
+        "description after native scroll"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "type",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "Modern House AU: actual loading-title state resolves into white editorial page with generous architectural photograph. Huge sans property name, ruled two-column architect/area/specification metadata and broader introduction; gray serif pull quote. Confirms sans is also valid. No application timing measured."
+        }
+      ],
+      "limitations": "Grouped with existing property work, zero extra unique count. Three desktop views at 1280px; no historical mobile or exact timing claims."
+    }
+  ]
+}
