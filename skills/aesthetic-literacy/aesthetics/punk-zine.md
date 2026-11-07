@@ -6,7 +6,7 @@ era: 1975–1985 (enduring influence)
 aliases: ["Punk Design", "Zine Aesthetic", "Ransom Note Typography", "DIY Design", "Jamie Reid Style"]
 status: canonical
 evidence_level: limited
-related: ["grunge-typography", "risograph", "harm-reduction-zine"]
+related: ["grunge-typography", "risograph", "harm-reduction-zine", "new-york-punk"]
 subsets: []
 ---
 
@@ -47,6 +47,7 @@ Punk Zine connotes sincere refusal, autonomy, urgency, and making without permis
 - `grunge-typography` is designerly and effect-first, often digitally distressed; Punk Zine is material, process-first, and political.
 - `risograph` shares indie print culture but foregrounds spot-ink craft where Punk Zine foregrounds urgency and anti-polish assembly.
 - `harm-reduction-zine` borrows zine clarity and care textures but should prioritize accessibility and trustworthy instruction over antagonistic aggression.
+- `new-york-punk` is a scoped sibling for band/club image and press-bill hierarchy. Its photographs, comics and consistent wordmarks do not require this entry’s ransom-note assembly.
 - No canonical subsets are listed for this entry.
 
 ## Frontend / UI Guidance

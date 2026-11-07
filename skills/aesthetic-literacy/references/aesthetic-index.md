@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 213
+- Full entries: 214
 - Redirect entries: 1
 - Families: 8
 
@@ -126,6 +126,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `mingei` | Mingei | Mingei movement, Japanese folk craft movement |
 | `new-objectivity` | New Objectivity / Neue Sachlichkeit | Neue Sachlichkeit, New Objectivity, Verism |
 | `new-wave-typography` | New Wave Typography / Swiss Punk | Swiss Punk, New Wave Design, Swiss New Wave, Weingart Style |
+| `new-york-punk` | New York Club Punk | 1970s New York punk graphics, CBGB-era band graphics, New York club punk design |
 | `op-art` | Op Art | Optical Art, Optical Illusion Art, Retinal Art |
 | `orphism` | Orphism | Orphic Cubism |
 | `pen-and-pixel` | Pen & Pixel / Bling Era Graphics | Pen and Pixel, bling era, No Limit aesthetic, Cash Money graphics, Southern rap album design |

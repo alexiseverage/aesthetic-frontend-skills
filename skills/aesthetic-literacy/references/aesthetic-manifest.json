@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 213,
+  "fullEntryCount": 214,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1495,6 +1495,17 @@
         "New Wave Design",
         "Swiss New Wave",
         "Weingart Style"
+      ]
+    },
+    {
+      "slug": "new-york-punk",
+      "label": "New York Club Punk",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "1970s New York punk graphics",
+        "CBGB-era band graphics",
+        "New York club punk design"
       ]
     },
     {
