@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 214
+- Full entries: 215
 - Redirect entries: 1
 - Families: 8
 
@@ -167,6 +167,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
 | `ebru` | Ebru | Turkish paper marbling, Turkish marbling, ebru art |
 | `edo-yokai-woodblock` | Edo Yōkai Woodblock | Edo supernatural woodblock, Edo yōkai prints |
+| `emo` | Emo | Emo Record Graphics, Emo Sleeve Design |
 | `english-bestiary-illumination` | English Bestiary Illumination | English illuminated bestiary, English book-of-beasts illumination |
 | `fair-isle` | Fair Isle | Fair Isle Knitting, Fair Isle Colourwork |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 214,
+  "fullEntryCount": 215,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -806,6 +806,16 @@
       "aliases": [
         "Edo supernatural woodblock",
         "Edo yōkai prints"
+      ]
+    },
+    {
+      "slug": "emo",
+      "label": "Emo",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Emo Record Graphics",
+        "Emo Sleeve Design"
       ]
     },
     {
