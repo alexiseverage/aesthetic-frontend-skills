@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 257,
+  "fullEntryCount": 258,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1700,6 +1700,16 @@
         "nanotech punk",
         "nanobot aesthetic",
         "programmable matter"
+      ]
+    },
+    {
+      "slug": "napster-era-p2p-clients",
+      "label": "Napster-Era P2P Clients",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "early peer-to-peer client UI",
+        "Napster-era file-sharing interfaces"
       ]
     },
     {
