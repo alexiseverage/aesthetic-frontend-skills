@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 263,
+  "fullEntryCount": 264,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1536,6 +1536,17 @@
         "Japanese convenience store utility",
         "konbini design",
         "convenience retail packaging utility"
+      ]
+    },
+    {
+      "slug": "lcd-virtual-pet-toys",
+      "label": "LCD Virtual Pet Toys",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "LCD pet toys",
+        "keychain virtual pets",
+        "monochrome pocket pets"
       ]
     },
     {

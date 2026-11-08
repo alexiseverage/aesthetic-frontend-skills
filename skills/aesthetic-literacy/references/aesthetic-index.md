@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 263
+- Full entries: 264
 - Redirect entries: 1
 - Families: 8
 
@@ -65,6 +65,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `hyperpop` | Hyperpop | Hyperpop Graphics, Hyper Pop Visuals |
 | `j-gov-futurism` | J-Gov Futurism | sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism, diegetic-bureaucratic-ui |
 | `jrpg-command-menus` | JRPG Command Menus | Japanese role-playing game menus, JRPG party menus |
+| `lcd-virtual-pet-toys` | LCD Virtual Pet Toys | LCD pet toys, keychain virtual pets, monochrome pocket pets |
 | `liminal-space-backrooms` | Liminal Space / Backrooms | liminal spaces, Backrooms aesthetic, uncanny transitional architecture |
 | `material-design` | Material Design | Material, Material UI, MDL |
 | `myspace-chaos` | MySpace Chaos | MySpace aesthetic, profile customization era |
