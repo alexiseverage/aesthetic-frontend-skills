@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 251
+- Full entries: 254
 - Redirect entries: 1
 - Families: 8
 
@@ -46,6 +46,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `ai-slop-synthetic-corporate-art` | AI Slop / Synthetic Corporate Art | AI slop, synthetic corporate art, AI-generated corporate illustration |
 | `browser-chrome-netscape` | Browser Chrome / Netscape-Era Browser UI | netscape chrome, 90s browser frame, browser chrome, throbber era |
 | `cd-rom-edutainment` | CD-ROM Edutainment Worlds | 1990s multimedia learning worlds, Illustrated CD-ROM learning interfaces |
+| `classic-ray-traced-cgi` | Classic Ray-Traced CGI | classic raytracing, early ray-traced CGI, POV-Ray-era CGI |
 | `cloud-rap` | Cloud Rap | Cloud Rap Graphics, Cloud Rap Visuals |
 | `clowncore` | Clowncore | clown core, clowncore aesthetic |
 | `cyberdelic-editorial` | Cyberdelic Editorial | Cyberdelic magazine graphics, 1990s cyberculture editorial |
@@ -194,6 +195,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `grosvenor-school-linocut` | Grosvenor School Colour Linocut | Grosvenor School linocuts, Grosvenor colour linocut |
 | `haeckelian-biological-plates` | Haeckelian Biological Plates | Haeckelian natural-history plates, Kunstformen-inspired biological plates |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
+| `japanese-tattoo-composition` | Japanese Tattoo Composition | Japanese bodysuit composition, horimono composition, wabori composition |
 | `klecksography-inkblot` | Klecksography / Inkblot Graphics | Klecksography, Folded inkblot graphics, Kleksographie, Klecksographie, Inkblot graphics |
 | `ndebele-mural-art` | Ndebele Mural Art | Ndebele house painting, Southern Ndebele mural painting |
 | `paper-theatre` | Paper Theatre | Paper Theater, Toy Theatre, Toy Theater, Papiertheater, Théâtre de Papier, Juvenile Drama |
@@ -300,6 +302,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |
 | `school-fall-festival` | School Fall Festival | fall festival flyer, school carnival fall |
 | `shanghai-calendar-posters` | Shanghai Calendar Posters | Shanghai yuefenpai, 上海月份牌, Shanghai advertising calendars |
+| `shokuhin-sanpuru-display` | Shokuhin Sanpuru Display | Japanese food-replica display, food sample display, shokuhin sampuru display |
 | `silver-face-hi-fi` | Silver-Face Hi-Fi | Silver-face stereo, Vintage silver hi-fi panels |
 | `slasher-vhs-rental` | Slasher VHS Rental | horror VHS, video-store slasher |
 | `sticker-bomb-slap` | Sticker-Bomb / Slap Materiality | sticker bombing, sticker art, slaps, sticker graffiti, sticker slapping |

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 251,
+  "fullEntryCount": 254,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -561,6 +561,17 @@
         "Classic noir",
         "1940s film noir",
         "Golden-age film noir"
+      ]
+    },
+    {
+      "slug": "classic-ray-traced-cgi",
+      "label": "Classic Ray-Traced CGI",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "classic raytracing",
+        "early ray-traced CGI",
+        "POV-Ray-era CGI"
       ]
     },
     {
@@ -1429,6 +1440,17 @@
       ]
     },
     {
+      "slug": "japanese-tattoo-composition",
+      "label": "Japanese Tattoo Composition",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Japanese bodysuit composition",
+        "horimono composition",
+        "wabori composition"
+      ]
+    },
+    {
       "slug": "jrpg-command-menus",
       "label": "JRPG Command Menus",
       "family": "digital-internet-native",
@@ -2167,6 +2189,17 @@
       "aliases": [
         "Shin Hanga",
         "Japanese New Prints"
+      ]
+    },
+    {
+      "slug": "shokuhin-sanpuru-display",
+      "label": "Shokuhin Sanpuru Display",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Japanese food-replica display",
+        "food sample display",
+        "shokuhin sampuru display"
       ]
     },
     {

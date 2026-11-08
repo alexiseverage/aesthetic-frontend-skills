@@ -1,0 +1,926 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "record_id": "shokuhin-sanpuru-display-003",
+      "artifact_id": "shokuhin-sanpuru-display-003",
+      "source_url": "https://www.japanhouselondon.uk/read-and-watch/the-hyper-real-artistry-of-japans-food-replicas/",
+      "media_url": "https://assets.japanhouselondon.uk/production/uploads/2024/09/Legacy-of-Food-Replicas_-Talk-by-Iwasaki-Tsuyoshi-.jpg",
+      "title": "Iwasaki commemorative omelette replica",
+      "creator": "Published by Japan House London; maker credit in source",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Saturated yellow oval omelette on an off-white plate; glossy red sauce retains lumpy texture and sharp light reflections. A thin double plate rim and cast shadow anchor the sculpted food. No freestanding text is intrinsic to this object."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "703a09531b2e43dcceefeccaea2c2680bff48f9181d53467a7ba8ebd0d374c47",
+      "resolution": "1920×1080"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-008",
+      "artifact_id": "shokuhin-sanpuru-display-008",
+      "source_url": "https://www.japanhouselondon.uk/read-and-watch/the-hyper-real-artistry-of-japans-food-replicas/",
+      "media_url": "https://assets.japanhouselondon.uk/production/uploads/2024/09/2024_0803_2103.jpg",
+      "title": "Noodle restaurant window display",
+      "creator": "Published by Japan House London; maker credit in source",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Several ceramic bowls occupy a greenish shelf; supported noodles and chopsticks freeze a serving gesture in midair. Glossy broths and solid toppings contrast with matte vegetable surfaces; small white price/name slips sit on bowl rims."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "68fbcca0b744c675a991e839100a5d81e78aa6088378a430245f2925c63b6cec",
+      "resolution": "4240×2830"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-009",
+      "artifact_id": "shokuhin-sanpuru-display-009",
+      "source_url": "https://www.japanhouselondon.uk/read-and-watch/the-hyper-real-artistry-of-japans-food-replicas/",
+      "media_url": "https://assets.japanhouselondon.uk/production/uploads/2024/09/tempura-godzilla.jpg",
+      "title": "Tempura-covered Godzilla display sculpture",
+      "creator": "Published by Japan House London; maker credit in source",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A comic monster silhouette combines rough golden batter with dark scaly limbs, resting on shredded cabbage and a plate. It is a playful nonliteral branch of replica-food craft, rather than a universal restaurant-menu convention."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9745405a5beea7c744d04e4de6273b710f66a2c9d76e74d89cfd27880ea498a0",
+      "resolution": "2830×1887"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-010",
+      "artifact_id": "shokuhin-sanpuru-display-010",
+      "source_url": "https://www.japanhouselondon.uk/read-and-watch/the-hyper-real-artistry-of-japans-food-replicas/",
+      "media_url": "https://assets.japanhouselondon.uk/production/uploads/2024/09/Food-replicas-on-display-outside-the-Doremi-_kissa_-_Japanese-style-cafe_-in-Osaka.jpg",
+      "title": "Doremi cafe replica cabinet, Osaka",
+      "creator": "Published by Japan House London; maker credit in source",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Aluminum mullions divide a glass cabinet into bright shelf rows, with tall parfaits above low plates. Green-edged glass, warm lamps and individual pale handwritten price cards organize the products. Repetition derives from shelf and serving vessel proportions."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6ac2adb86ac2950c274b43ef42238702ce533617bc6e81c82a51d8e408d5b1d6",
+      "resolution": "4240×2830"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-012",
+      "artifact_id": "shokuhin-sanpuru-display-012",
+      "source_url": "https://www.japanhouselondon.uk/read-and-watch/the-hyper-real-artistry-of-japans-food-replicas/",
+      "media_url": "https://assets.japanhouselondon.uk/production/uploads/2024/09/Food-replica-display-case-in-the-Shinsekai-district-of-Osaka.jpg",
+      "title": "Shinsekai restaurant display case",
+      "creator": "Published by Japan House London; maker credit in source",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Two crowded glass shelves present oversized party portions, stacked burger and piled noodles; white/red printed yen labels and starburst portion counts sit in front. Dark plates, pink shelf lining and paper fans reinforce a dense commercial display. The frozen food remains tangible, not flat packaging art."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a90aebffc1a5940b3b938d1777785f07bbb317740d280808f781cdcdbc55374e",
+      "resolution": "4240×2830"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-020",
+      "artifact_id": "shokuhin-sanpuru-display-020",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_161.jpg",
+      "title": "Replica Foods keychain assortment: peanut, lemon, tomato, omelette",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Four foods retain distinct material detail at keychain scale: ridged matte peanut shells, translucent segmented lemon, wet red tomato chambers and yellow egg with shiny sauce. Each hangs from real metal hardware on pale textured card packaging with restrained red uppercase lettering."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9750978ff450a80c29e465c5b2c47e89a52afc61780a7197508810ee572849a0",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-021",
+      "artifact_id": "shokuhin-sanpuru-display-021",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_162.jpg",
+      "title": "Replica Foods keychain assortment: melon bread, apple, tuna, edamame",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Toasted crosshatch on a pale bun contrasts with glossy red/cream apple, fibrous tuna and green pod skins. Matching hooks and upright retail cards organize the assortment. These are miniature tactile objects rather than illustrations of dishes."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "07b2f1d94e504c75de417642b58de0db057cd55d638e79e5fd63a0e9caae7801",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-022",
+      "artifact_id": "shokuhin-sanpuru-display-022",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_167.jpg",
+      "title": "Replica Foods keychain assortment: chocolate, omelette slice, cracker, shrimp",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A bitten molded chocolate rectangle, yellow folded egg slice, porous toasted cracker and curved pink-white shrimp have deliberately different surface roughness. The repeated pale packaging suppresses visual noise while preserving food-specific silhouettes."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e026d16980b724a24b2d4cccd2a4bd97ea9e37f1541cc58151e35828ac160b30",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-024",
+      "artifact_id": "shokuhin-sanpuru-display-024",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_168.jpg",
+      "title": "Iwasaki hotpot, sushi bowl and steak product composition",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Three different serving vessels frame distinct food models: ceramic hotpot with a glossy egg and textured tempura; round wooden sushi bowl with saturated fish; dark iron steak plate on wood with shiny sauce and butter. Hard vegetables, wet sauce, porous batter and rice grains have intentionally different material rendering."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fb840c9f7bd843f453de18dba8ef0c8d5270df51f07b6103ac100234459e1edd",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-025",
+      "artifact_id": "shokuhin-sanpuru-display-025",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_173.jpg",
+      "title": "Iwasaki western-style cafe food product montage",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Manufacturer composite of pizza, cutlet sandwiches, pancakes and mixed lunch plate: toasted bread gradients and rough crust contrast with reflective sauces and creamy toppings. Counted as one complete promotional artifact, not four pictures."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "25bcb66b93d1103cf6b96e8f79e1f662b5becb2660aea0a64ddb0f70da501bcb",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-026",
+      "artifact_id": "shokuhin-sanpuru-display-026",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_171.jpg",
+      "title": "Iwasaki bento, grilled fish and soup product montage",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Compartmented dark lunch boxes and a black soup bowl contrast with white rice and bright garnishes. Rice grains and scallion loops are individually modeled; fish skin carries metallic-looking dark highlights and browned patches. Counted as one promotional artifact."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "13fe558fa745624ee6c8e88c3699f2f9d1e5bd469bf87a6bf32d9080fa46c896",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-027",
+      "artifact_id": "shokuhin-sanpuru-display-027",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_172.jpg",
+      "title": "Iwasaki sushi, drinks and skewers product montage",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Sushi on a wood stand, transparent molded sake and beer forms and glazed skewers demonstrate both reflective liquid simulation and fibrous/porous solids. Retail name/price slips use restrained blue footer bands. One manufacturer composite, not individual picture counts."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "28f2e4d7f98278c38b18c7bb8bad849a7ae7616038d44de988238afd76b072f4",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-028",
+      "artifact_id": "shokuhin-sanpuru-display-028",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_107.jpg",
+      "title": "Replica Foods Gallery plated-model retail shelving",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Food replicas rest nearly vertically on clear plate supports, each behind a small blue-footed name/price slip. Pale wood shelves and white wall provide calm framing; repeated dish circles and occasional rectangular lunch boxes establish the retail rhythm. Protective plastic reflections are packaging, not an intrinsic food texture."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d92352b306309c8653abb415787adb848f317622a28fe8f00dad8f0f4dea1f18",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-029",
+      "artifact_id": "shokuhin-sanpuru-display-029",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_153.jpg",
+      "title": "Napolitan replica assembly kit",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Orange-red strands wrap a raised fork while loose strands return to a shallow white plate. Green pepper loops and red sausage segments punctuate the continuous glossy strand mass. Loose component bundles and sauce pouches make its constructed support logic visible."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "8b4f6bb833874d90e126d43aa9ed1650cad3e6b5269028e933448f85c8d391f8",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-032",
+      "artifact_id": "shokuhin-sanpuru-display-032",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_154.jpg",
+      "title": "Apple concealing pastry replica sculpture",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red/yellow speckled apple skin transitions impossibly into flaky golden pastry and glossy cooked fruit. A metal fork pulls out the opened portion. This deliberately surprising hybrid tests the craft/art boundary; it is not representative of ordinary menu identification."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1891db498ec3f08d1ef8f9c1931848da9d3b30e357f7c297164d0e00ca809026",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-033",
+      "artifact_id": "shokuhin-sanpuru-display-033",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_158.jpg",
+      "title": "Iwasaki egg/rice and rockfish material study",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A manufacturer diptych contrasts translucent egg yolk, sauce and individually shaped rice with a wet-looking red fish on rough barnacled rock. Very different gloss and small-scale textures produce appetite/realism; one complete promotional artifact is counted."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6006cbc8211e632dbd8f35f7d019e98b698d63dbd36a61c2e45cf592be140ce1",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-034",
+      "artifact_id": "shokuhin-sanpuru-display-034",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_155.jpg",
+      "title": "Vegetable-shaped desk organizers",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A cut daikon, lotus-root section and orange become usable holders through open cavities while preserving specific skin color and texture. This souvenir/stationery branch demonstrates actual food-shaped functional geometry, rather than printed food images on ordinary containers."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "313386843d8030e9e076392b072609757c7fadbe34578b1828b7f8c997d231ec",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-035",
+      "artifact_id": "shokuhin-sanpuru-display-035",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_165.jpg",
+      "title": "Sushi replica magnet tray",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Pairs of miniature nigiri and gunkan are individually bagged with slender vertical maker labels, arranged on a shiny black tray. Red/pink fish marbling, translucent roe beads, ridged yellow egg and textured dark seaweed define different small silhouettes."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f07f450c41d927a66a28f51bdc0eb53f32377bdd361643f8a9f3d52d6e157418",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-036",
+      "artifact_id": "shokuhin-sanpuru-display-036",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_164.jpg",
+      "title": "Bacon bookmarks and pancake containers",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Food forms become functional objects: flat bacon, cheese and seaweed bookmarks have cords and transparent edges; a pancake stack separates into a hollow container and decorated removable lid. Literal object geometry carries the visual identity beyond imagery."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "88243c4304a80b116eb2bedd9b62c561cc6931ae8df28e1bf91220cd3843908f",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-037",
+      "artifact_id": "shokuhin-sanpuru-display-037",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_166.jpg",
+      "title": "Food-shaped magnet and pen-stand display",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Green, yellow, spotted and dark banana forms line up as ripeness variants; grilled fish, battered shrimp, pineapple, watermelon and skewers have distinct outlines on a dark retail board. A hollow food pen stand demonstrates a functional adaptation. Small pale product slips sit above the objects."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "aa965c7e251f2222171ead79f1efc6525ebe648b98c81201b6009204683ec927",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-040",
+      "artifact_id": "shokuhin-sanpuru-display-040",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_160.jpg",
+      "title": "Food-replica contest sculpture: ingredients becoming sauces",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "An impossible still life connects tomatoes to a squeeze bottle and wasabi roots to a second bottle, with each manufactured paste visually revealing its raw ingredient. Red tomatoes and pale green roots are lifted against metal, wood and dark woven supports. Sculpture, not routine menu design."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "93619f121eafd17485fc1f306bba09f0967f089e62470b2ca2c4d95b4e4cb8ed",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-041",
+      "artifact_id": "shokuhin-sanpuru-display-041",
+      "source_url": "https://www.replicafoods-gallery.com/",
+      "media_url": "https://www.replicafoods-gallery.com/wp-content/uploads/2018/12/SG_Asakusa_157.jpg",
+      "title": "Sushi-making educational relief display",
+      "creator": "Iwasaki / Replica Foods Gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A black framed board sets separate three-dimensional rice, fish, completed sushi and chopstick/soy-dish elements into an instructional sequence with tiny captions. Adjacent crab and filled-pineapple sculptures sit on shelves with individual slips. The relief panel is a useful alternative to a simple dish catalog."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9672d466e70613dc7d5b6e6c7871b258b9927369af5c7f5563e332adf39233da",
+      "resolution": "1600×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-049",
+      "artifact_id": "shokuhin-sanpuru-display-049",
+      "source_url": "https://www.samplekobo.com/",
+      "media_url": "https://samplekobo.com/wp_control/wp-content/themes/samplekobo/img/mainvisual04.jpg",
+      "title": "Tilted meal-table installation",
+      "creator": "Sample Kobo",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A tilted dining table installation fixes spilled rice, curry-like sauce, fruit and cups to its raised surface. Gravity-defying assembly turns rigid food replicas into a frozen domestic scene; viewed at complete 1920-pixel original with vessel and food boundaries legible.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e13ca2cc41f854bb26d182feb157fc476692c24134b79000ccd3ec0854e3f936",
+      "resolution": "1920×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-051",
+      "artifact_id": "shokuhin-sanpuru-display-051",
+      "source_url": "https://www.samplekobo.com/",
+      "media_url": "https://samplekobo.com/wp_control/wp-content/themes/samplekobo/img/mainvisual05.jpg",
+      "title": "Replica noodle bowls",
+      "creator": "Sample Kobo",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two sample noodle bowls on wood-grain tables retain rigid tempura shrimp, pale narutomaki spirals, yellow strands and green scallion rings. The replica drink foam and glossy surfaces contrast the people handling them; count one independently identified maker photographic composition.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "390e6fa108fa107aa4f213252ece8d243d177e7a2343edc39b9a9a60ac12faff",
+      "resolution": "1920×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-053",
+      "artifact_id": "shokuhin-sanpuru-display-053",
+      "source_url": "https://www.samplekobo.com/",
+      "media_url": "https://samplekobo.com/wp_control/wp-content/themes/samplekobo/img/mainvisual07.jpg",
+      "title": "Fruit-tart workshop artifact",
+      "creator": "Sample Kobo",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A fruit-tart workshop artifact uses a fluted yellow crust, white piped cream, red seeded strawberry, green kiwi and translucent orange pieces. Parts are assembled as a compact mound in a black tray; this is not evidence of edible food.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "101d41472e94172010ca10e091fa49e76df0105e59f16f511fe707abfb4b26b0",
+      "resolution": "1920×1200"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-071",
+      "artifact_id": "shokuhin-sanpuru-display-071",
+      "source_url": "https://www.samplekobo.com/",
+      "media_url": "https://samplekobo.com/wp_control/wp-content/themes/samplekobo/img/content_img02.png",
+      "title": "Tempura replica demonstration",
+      "creator": "Sample Kobo",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A maker demonstration holds a pale yellow rigid tempura-like form above a vat. Uneven granular edges and an elongated body preserve a fried-batter silhouette; photograph supports process context, not a claim about unobserved chemical composition.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "17496615dee39c1bbe3888c77b0b572c0e4ae9665a2186e883bc3a3666cb2362",
+      "resolution": "890×990"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-312",
+      "artifact_id": "shokuhin-sanpuru-display-312",
+      "source_url": "https://samplekobo.com/shop/buy/",
+      "media_url": "https://samplekobo.com/wp_control/wp-content/uploads/2026/02/IMG_9570.jpeg",
+      "title": "Sample Kobo retail display",
+      "creator": "Sample Kobo",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Sample Kobo shop interior: individually packaged miniature food samples fill woven baskets and black wall rails. White handwritten yen labels sit beneath the objects; a clock uses raised sushi as its hour positions. Wooden shelving and pale backing keep the food colors prominent.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7943140128242afc8ff2d406a7e2f253aa2c573bae501483a38fbabf134adc41",
+      "resolution": "1920×1440"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-322",
+      "artifact_id": "shokuhin-sanpuru-display-322",
+      "source_url": "https://www.ganso-sample.com/item/",
+      "media_url": "https://www.ganso-sample.com/wp-content/uploads/2018/09/KIT202.jpg",
+      "title": "Model float drinks",
+      "creator": "Iwasaki / Ganso Sample",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Ganso Sample model float drinks use intensely colored transparent liquid and faceted ice beneath matte off-white scoops and red cherries. Clear cups create narrow edge highlights; foam on the beer is opaque and finely bubbled. One complete maker composition, not seven separate records.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6fa5973b583dfdf68ac2141e8d20f978a9e300e2838b6608efa50d011f545d2e",
+      "resolution": "1200×900"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-336",
+      "artifact_id": "shokuhin-sanpuru-display-336",
+      "source_url": "https://www.ganso-sample.com/item/",
+      "media_url": "https://www.ganso-sample.com/wp-content/uploads/2018/08/GS_premium_005.jpg",
+      "title": "Curry bread pouring sculpture",
+      "creator": "Iwasaki / Ganso Sample",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A cut curry bread is held impossibly above a plate by a thick falling column of curry. Crumbly orange bread crust, pale soft interior, textured brown sauce and separate white rice grains are individually modeled; a real metal spoon and ceramic bowl provide scale.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9bd88426ef0e6eb4984e9aad8ed9155931127732ae0a3b58da4a430ab4652354",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "shokuhin-sanpuru-display-337",
+      "artifact_id": "shokuhin-sanpuru-display-337",
+      "source_url": "https://www.ganso-sample.com/item/",
+      "media_url": "https://www.ganso-sample.com/wp-content/uploads/2018/08/GS_premium_008.jpg",
+      "title": "Suspended cutlet serving sculpture",
+      "creator": "Iwasaki / Ganso Sample",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "An egg-covered breaded cutlet appears suspended between metal pan and decorated bowl. Glossy translucent yellow sauce and white egg contrast granular fried crumb, with rigidly preserved flow creating a frozen serving gesture.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5d522f879af20aff7bf75f0df7bf6da099851055e97823b2ce217d25aa7724af",
+      "resolution": "800×600"
+    }
+  ]
+}

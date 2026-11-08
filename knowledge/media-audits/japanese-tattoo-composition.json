@@ -1,0 +1,930 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "record_id": "japanese-tattoo-composition-013",
+      "artifact_id": "japanese-tattoo-composition-013",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Horikiku.png",
+      "title": "Tattoo by Horikiku — Perseverance exhibit photograph",
+      "creator": "Horikiku; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Paired chest-and-sleeve fields leave central chest open; rounded charcoal bars bound the top edges. A large red koi crosses one arm, a pink chrysanthemum anchors the other shoulder; black waves connect these unequal focal motifs."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "389f4f3fbaa239632cc4e2d741aebcab4a9dea1616d318e3701e946ebe04a6e5",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-014",
+      "artifact_id": "japanese-tattoo-composition-014",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Miyazo.png",
+      "title": "Tattoo by Miyazo — Perseverance exhibit photograph",
+      "creator": "Miyazo; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A single oversized koi rises diagonally through a back-and-thigh composition. Fine repeated gold-edged scales sit over broad charcoal wind/water grounds; pink peonies punctuate the connected field. The body surface dictates the frame rather than rectangular panels."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "41fde7e2b455e38149579d0aa57791997db1a22048d435911c4b76cf33e85912",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-015",
+      "artifact_id": "japanese-tattoo-composition-015",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-JeffGogue.png",
+      "title": "Tattoo by Jeff Gogue — Perseverance exhibit photograph",
+      "creator": "Jeff Gogue; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Two blue-black crows and branching blossoms organize a continuous asymmetric back piece. Bare skin is substantial negative space; lower gray currents continue into one thigh. This offshoot is softer and more naturalistic than uniform wind-bar treatments."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5a6690f4c2eb23cc72d3db1ed4740dabbf40c4bc31e84668ccb46a752312adc2",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-016",
+      "artifact_id": "japanese-tattoo-composition-016",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-StanCorona.png",
+      "title": "Tattoo by Stan Corona — Perseverance exhibit photograph",
+      "creator": "Stan Corona; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A pink phoenix-like bird stretches from shoulder blade to upper thigh, with repeated long feather forms. Broad charcoal bands and slender pale channels weave behind it. The oblique body view shows the composition wrapping the torso, not centered as a rectangular illustration."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f7f77de416830f5b25b197e6362888046f3dd20b1c4fbd1af323c8039d139f5a",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-017",
+      "artifact_id": "japanese-tattoo-composition-017",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Yebis.png",
+      "title": "Tattoo by Yebis — Perseverance exhibit photograph",
+      "creator": "Yebis; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Chest-and-arm tattoos terminate around an open central chest, with rounded dark scallop/bar boundaries. Red and gold creature/floral detail lies within shaded gray grounds. Paired shoulder fields balance the silhouette without identical internal motifs."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f141cc93bf8a4ba88430eedf6a224ad824c58d4a926a9a0503d038a986b7a45b",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-018",
+      "artifact_id": "japanese-tattoo-composition-018",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Junii.png",
+      "title": "Tattoo by Junii — Perseverance exhibit photograph",
+      "creator": "Junii; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Rounded charcoal bars border paired chest fields. Large yellow, blue and pink chrysanthemum blooms punctuate one sleeve; a dark blue creature anchors the forearm. An open chest/abdomen and fixed sleeve endpoints distinguish the coverage from a continuous full body suit."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "4fb5d9c5782b194cb21829087222da1cf0d26b0ea13fcd208463b43c87d3220c",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-019",
+      "artifact_id": "japanese-tattoo-composition-019",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Horitaka.png",
+      "title": "Tattoo by Horitaka — Perseverance exhibit photograph",
+      "creator": "Horitaka; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A colored long-tailed bird occupies the central torso, its green scale/feather pattern framed by warm red and gold forms; both arms and legs carry denser shaded grounds. Tattoo fields terminate at wrists and ankles, leaving hands and feet clear."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0e0790b3614b1751f29e660b9014b405d16a69ad7fccc9135ca5ec25614c1a93",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-020",
+      "artifact_id": "japanese-tattoo-composition-020",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Shige.png",
+      "title": "Tattoo by Shige — Perseverance exhibit photograph",
+      "creator": "Shige; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A blue devotional figure is central against a strong red flame field, with colored birds across shoulders and thighs. Charcoal currents link the limbs; pale gaps organize borders. This demonstrates religious iconography requiring contextual treatment, not a generic ornament library."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a0ba184163d2f3d32e139590126b151e241bfb395e0e5fc23728724ac61881dd",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-022",
+      "artifact_id": "japanese-tattoo-composition-022",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Horitomo-1.png",
+      "title": "Tattoo by Horitomo — Perseverance exhibit photograph",
+      "creator": "Horitomo; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A large narrative female figure, snakes, flames and waves make one connected back-to-thigh composition. A red/cream triangular textile is a high-contrast inset against blue clothing; black wind bars and foam frame the edges. Internal pattern scale changes support the figure hierarchy."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a90a4ee0257f3485663e2223a93369034334e7ca01b5eeaecac90cebf56a966a",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-023",
+      "artifact_id": "japanese-tattoo-composition-023",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-YokohamaHoriken.png",
+      "title": "Tattoo by Yokohama Horiken — Perseverance exhibit photograph",
+      "creator": "Yokohama Horiken; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Pink/red cherry blossoms and green leaves scatter over gray swirling grounds; separate chest fields end in neatly rounded black bars around the central open skin. The flower scale remains small and repeated rather than a single giant centerpiece."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "32d3c3c8feee640370ff5166cb3b69802332596d65d76c68cc8301960a6d57c0",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-024",
+      "artifact_id": "japanese-tattoo-composition-024",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Horitomo-2.png",
+      "title": "Tattoo by Horitomo — Perseverance exhibit photograph",
+      "creator": "Horitomo; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A gray shaded back-to-hip field uses large flowers, angular turtle-shell-like hexagons and linear cloud forms. The restrained monochrome palette and clear thigh endpoints challenge any rule requiring bright pigments or full-length coverage."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ed47435aedf24200d425144517bbddf405c4930a01a42843369ef1820e6606a3",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-025",
+      "artifact_id": "japanese-tattoo-composition-025",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-BrianKaneko.png",
+      "title": "Tattoo by Brian Kaneko — Perseverance exhibit photograph",
+      "creator": "Brian Kaneko; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A diagonal sword-bearing narrative figure dominates the back over an enormous dark koi, with rolling foam and yellow-edged wind bars carrying the composition onto upper thighs. Blue geometric cloth and red floral garment alternate planar fills and repeated fine patterns."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1a2361af8c1baba6355ff8fc29deb14101aac57bff7c4d2410ac8417c39072a8",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-026",
+      "artifact_id": "japanese-tattoo-composition-026",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Horishiki-1.png",
+      "title": "Tattoo by Chris Horishiki Brand — Perseverance exhibit photograph",
+      "creator": "Chris Horishiki Brand; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A yellow-gold long-tailed bird fills the front torso, surrounded by flowing gray clouds. Orange flame accents and differently colored sleeve motifs expand the palette; the arm fields continue to wrist edges while the upper thigh fields stop above the knees."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0ac79e809f2274d4e2391e8f4f61115d71368d83c719fdf9b282a73ec08070e1",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-027",
+      "artifact_id": "japanese-tattoo-composition-027",
+      "source_url": "https://www.janm.org/exhibits/perseverance",
+      "media_url": "https://www.janm.org/sites/default/files/2021-03/JANM-Perseverance-Horishiki-2.png",
+      "title": "Tattoo by Chris Horishiki Brand — Perseverance exhibit photograph",
+      "creator": "Chris Horishiki Brand; photograph by Kip Fulbeck",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A monochrome sword-bearing figure is framed by bold rounded cloud curls and diagonal long parallel bars. Fine armor, fabric grid and hair detail remain subordinate to the large figure silhouette. Older independent tattoo fragments lie outside the connected central field."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b75eaad5e2a95e173a83ef72a364c42352ae01ed35bd4e6cb7255057b99486b3",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-055",
+      "artifact_id": "japanese-tattoo-composition-055",
+      "source_url": "https://www.stateofgracetattoo.com/artists/horitomo",
+      "media_url": "https://www.stateofgracetattoo.com/images/artists/horitomo/AMERICANIREZUMI_SANJOSE_20241213_HORITOMO_LOC_C_5294.jpg",
+      "title": "Horitomo tattoo work — 1",
+      "creator": "Horitomo; photograph credited in studio source where available",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A cream/black supernatural cat with red accents crosses a connected back/thigh field. Repeated red maple leaves sit within soft gray clouds and dark currents; a yellow disc anchors the upper right. Stippled fur and broad ground shading create a clear texture hierarchy."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "eb5378ad4378a4a8fdf8395605168bee5e87beee1d720ea4eeddf506026b375e",
+      "resolution": "1024×1536"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-057",
+      "artifact_id": "japanese-tattoo-composition-057",
+      "source_url": "https://www.stateofgracetattoo.com/artists/horitomo",
+      "media_url": "https://www.stateofgracetattoo.com/images/artists/horitomo/AMERICANIREZUMI_SANJOSE_20241214_HORITOMO_BEN_MIKE_CHRISTIAN_5796.jpg",
+      "title": "Horitomo tattoo work — 3",
+      "creator": "Horitomo; photograph credited in studio source where available",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A group portrait of three independently tattooed clients shows a central full-torso mask composition, asymmetrical flanking chest/sleeve fields and different leg endpoints. Dark grounds, red accents and blue/gold details persist across very different foreground figures. Counted conservatively as one photographic artifact."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e3cf2758fbdebf9722cf1d6425fe4778f5c14586dca832863d094629d9a5159f",
+      "resolution": "1024×1536"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-070",
+      "artifact_id": "japanese-tattoo-composition-070",
+      "source_url": "https://www.tattoolife.com/state-of-grace-tattoo-a-hub-of-mainly-but-not-only-japanese-tattoo/",
+      "media_url": "https://www.tattoolife.com/wp-content/uploads/2022/08/Taki-@stateofgracetaki-2.jpg",
+      "title": "Tattoo by Taki, @stateofgracetaki",
+      "creator": "Artist attribution in source caption: Tattoo by Taki, @stateofgracetaki",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A long dark dragon winds vertically through a complete back-and-thigh composition; pale outlined scales repeat across broad areas. Orange flame strokes, red belly segments and a circular upper-left emblem break the dark mass. Rounded cloud clusters create the outside boundary."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "4ab828394379056280055b7d5bc02f0463863900d399720995ce761d68967326",
+      "resolution": "1160×1632"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-071",
+      "artifact_id": "japanese-tattoo-composition-071",
+      "source_url": "https://www.tattoolife.com/state-of-grace-tattoo-a-hub-of-mainly-but-not-only-japanese-tattoo/",
+      "media_url": "https://www.tattoolife.com/wp-content/uploads/2022/08/Matt-Shamah-@mattshamah-2-e1659970062556.jpg",
+      "title": "Tattoo by Matt Shamah, @mattshamah",
+      "creator": "Artist attribution in source caption: Tattoo by Matt Shamah, @mattshamah",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Orange tiger and blue-bellied gray dragon interlock across back and thighs; large red flowers and repeated dark clouds fill the remaining spaces. The work is highly saturated and nearly continuous; independent arm tattoos sit outside the main central field."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "bc43d0de1c3a452553bcb2c2d51e2ea7dd21687c09fb394038502f5ae510acce",
+      "resolution": "900×1371"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-072",
+      "artifact_id": "japanese-tattoo-composition-072",
+      "source_url": "https://www.tattoolife.com/state-of-grace-tattoo-a-hub-of-mainly-but-not-only-japanese-tattoo/",
+      "media_url": "https://www.tattoolife.com/wp-content/uploads/2022/08/Horitomo-@horitomo_stateofgrace-2.jpg",
+      "title": "Tattoo by Horitomo, @horitomo_stateofgrace",
+      "creator": "Artist attribution in source caption: Tattoo by Horitomo, @horitomo_stateofgrace",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A giant blue koi with gold-edged scales runs diagonally across a back-to-thigh field. Red chrysanthemums and green foliage punctuate gray-black waves and upper wind bars. The fish silhouette is much larger than the repeated flowers, preserving hierarchy in a dense composition."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "392cab26ae1b2a263f8c6a230564b5b45ad50b3b74d58cd6fb3286b1401a9dd2",
+      "resolution": "1160×1605"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-073",
+      "artifact_id": "japanese-tattoo-composition-073",
+      "source_url": "https://www.tattoolife.com/state-of-grace-tattoo-a-hub-of-mainly-but-not-only-japanese-tattoo/",
+      "media_url": "https://www.tattoolife.com/wp-content/uploads/2022/08/Horifuji-@fuji_stateofgrace-2-e1659970211468.jpeg",
+      "title": "Tattoo by Horifuji, @fuji_stateofgrace",
+      "creator": "Artist attribution in source caption: Tattoo by Horifuji, @fuji_stateofgrace",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A green/red dragon and koi connect from chest to wrist through dark cloud grounds with orange leaf accents. Chest and wrist boundaries use broad dark curved bars; bare torso is substantial negative space. Fine repeated scales stay within larger flat-color silhouettes."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "bd43e7c703b127a1729e3a2128bcc74148938e889501559c60f4342faebcc83e",
+      "resolution": "900×1463"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-074",
+      "artifact_id": "japanese-tattoo-composition-074",
+      "source_url": "https://www.tattoolife.com/state-of-grace-tattoo-a-hub-of-mainly-but-not-only-japanese-tattoo/",
+      "media_url": "https://www.tattoolife.com/wp-content/uploads/2022/08/Colin-Baker-@colinbaker-2-e1659970190634.jpeg",
+      "title": "Tattoo by Colin Baker, @colinbaker",
+      "creator": "Colin Baker; Tattoo Life portfolio source",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A black koi curves along a full sleeve into a chest field; green/red maple leaves and gray foaming water break repeated pale scale outlines. Chest ends in dark wind bars while the wrist has a clear boundary. Shoulder and chest share one current instead of isolated flash emblems."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fa88134cde706e6d41173075b4b86706c36845f90c53365985b9374e739c96c5",
+      "resolution": "900×1665"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-141",
+      "artifact_id": "japanese-tattoo-composition-141",
+      "source_url": "https://www.stateofgracetattoo.com/artists/horifuji",
+      "media_url": "https://www.stateofgracetattoo.com/images/artists/horifuji/IMG_1122.JPEG",
+      "title": "Horifuji tattoo work — 1",
+      "creator": "Horifuji",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "cultural-markers"
+          ],
+          "observation": "A large warrior fills the back, green patterned garments crossing a scale-covered red-brown animal; cloud lobes and long red diagonals connect back to thighs. Cream skin channels separate ink shapes."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "51e6890bcab25ae4acc70e958230a6459b064754e244dbf48f30be24bcea0331",
+      "resolution": "1536×2048"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-142",
+      "artifact_id": "japanese-tattoo-composition-142",
+      "source_url": "https://www.stateofgracetattoo.com/artists/horifuji",
+      "media_url": "https://www.stateofgracetattoo.com/images/artists/horifuji/IMG_3657.jpeg",
+      "title": "Horifuji tattoo work — 2",
+      "creator": "Horifuji",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "cultural-markers"
+          ],
+          "observation": "Paired half sleeves terminate at scalloped wind-bar edges on the chest. Green radial foliage, pale feathers and dark clouds balance a wide open sternum and abdomen; the boundary follows the body."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "014f34143557cd64825eee7a9dedf9487b82b4e04ad39ad73170143a8299c323",
+      "resolution": "3278×3049"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-143",
+      "artifact_id": "japanese-tattoo-composition-143",
+      "source_url": "https://www.stateofgracetattoo.com/artists/horifuji",
+      "media_url": "https://www.stateofgracetattoo.com/images/artists/horifuji/IMG_6790.jpeg",
+      "title": "Horifuji tattoo work — 3",
+      "creator": "Horifuji",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "cultural-markers"
+          ],
+          "observation": "A sword-bearing female figure dominates a back-to-thigh field. Red geometric fabric, blue drapery and yellow accessories contrast dark clouds; the two thighs finish at uneven wave-like borders."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "8dddc033f497aa45b5421cf75ddefd5e8a4894133578e4acaf61449a3398e45c",
+      "resolution": "2364×2939"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-144",
+      "artifact_id": "japanese-tattoo-composition-144",
+      "source_url": "https://www.stateofgracetattoo.com/artists/horifuji",
+      "media_url": "https://www.stateofgracetattoo.com/images/artists/horifuji/IMG_6811.jpeg",
+      "title": "Horifuji tattoo work — 4",
+      "creator": "Horifuji",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "cultural-markers"
+          ],
+          "observation": "A gold dragon curves continuously over shoulder, chest and full sleeve. Black cloud ground, red lightning and skin-coloured outlines bind the long form; the chest panel has a deliberate round termination."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c8f1d624bb03a8b7e50bf0bf11c7c0928367d3e7450d7a018aded95600b96505",
+      "resolution": "3399×4150"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-177",
+      "artifact_id": "japanese-tattoo-composition-177",
+      "source_url": "https://www.tattooinjapan.com/horiyoshi-iii-at-his-studio-in-yokohama/",
+      "media_url": "https://www.tattooinjapan.com/wp-content/uploads/2016/01/horiyoshi-japanese-tattoo_mh_0020.jpg",
+      "title": "Horiyoshi III tattoo design",
+      "creator": "Horiyoshi III; photograph Martin Hladik",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Horiyoshi III body suit with robed figure and long dragon curving from shoulders to lower torso; fine scales and cloud grounds fill the field. Desaturated photograph prevents reliable pigment-colour claims.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f64ada1f5c3982a4e506f930ae59c02dc1fb8792f86d8d1cd408d25747b63f1c",
+      "resolution": "1024×683"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-199",
+      "artifact_id": "japanese-tattoo-composition-199",
+      "source_url": "https://www.sodertaljekonsthall.se/en/exhibitions/japanese-tattoo-art-by-horiyoshi-iii/",
+      "media_url": "https://www.sodertaljekonsthall.se/wp-content/uploads/2019/02/Japansk-tatuering-web.jpg",
+      "title": "Unidentified discovery lead",
+      "creator": "Horiyoshi III; exhibition photography attributed to Juan Puente",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Orange tiger stretches diagonally across the back; pink flowers, green leaves and gray cloud ground support the muscular striped body. Broad line weights and patterned flowers remain distinct across the shoulder curve.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ebdc293f98827f3a56844c826059bca29d7d02aea6d1109eb5bf5cfe82227bd5",
+      "resolution": "2232×1626"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-210",
+      "artifact_id": "japanese-tattoo-composition-210",
+      "source_url": "https://www.tattooinjapan.com/horitoku-japanese-tattoo-master-photo-gallery/",
+      "media_url": "https://www.tattooinjapan.com/wp-content/uploads/2014/07/horitoku-japanese-tattoo-tabori-tattooist_0343.jpg",
+      "title": "Unidentified discovery lead",
+      "creator": "Horitoku; photograph Martin Hladik",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Horitoku body suit: gray coiling dragon back, yellow and white chrysanthemum chest panels, green leaves and a wide bare sternum channel. Back scales and cloud lobes continue to the thighs; paired thigh flowers finish in scalloped wind-bar borders. All views 210–216 concern the same client and count once.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0a32c7b43184e691cf85da7fca8cad8591e1dd0c7d8deed236a48abc12524e12",
+      "resolution": "814×1200"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-261",
+      "artifact_id": "japanese-tattoo-composition-261",
+      "source_url": "https://www.tattooinjapan.com/traditional-japanese-tattooer-horikazuwaka-photo-gallery/",
+      "media_url": "https://www.tattooinjapan.com/wp-content/uploads/2012/03/120307horikazuwaka_mh_1353.jpg",
+      "title": "Unidentified discovery lead",
+      "creator": "Horikazuwaka / Horikazu II; photograph Martin Hladik",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A multi-faced devotional figure with green halo anchors the full back, with red flames, pink and blue peonies and dark wind-bar ground continuing to the thighs. Religious iconography has specific context; do not turn it into generic decorative branding.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5fd98bd4f631091fc77d77770926732871493b9ff6b5ce7098df6181b45d3c14",
+      "resolution": "800×1200"
+    },
+    {
+      "record_id": "japanese-tattoo-composition-270",
+      "artifact_id": "japanese-tattoo-composition-270",
+      "source_url": "https://www.tattooinjapan.com/traditional-japanese-tattooer-horikazuwaka-photo-gallery/",
+      "media_url": "https://www.tattooinjapan.com/wp-content/uploads/2012/03/101207horikazuwaka_mh_2755.jpg",
+      "title": "Unidentified discovery lead",
+      "creator": "Horikazuwaka / Horikazu II; photograph Martin Hladik",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A robed female figure playing a stringed instrument dominates a back field. Orange flower heads, green foliage, dark dragon scales and broad pale channels connect the image across torso; red and yellow ribs follow the dragons curve.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3c1f2eca2445b648b0e857009385fa9c0d873b4ed7ba686b3d545544c801b68d",
+      "resolution": "800×1200"
+    }
+  ]
+}

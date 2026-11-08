@@ -1,0 +1,998 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 31,
+  "media": [
+    {
+      "record_id": "classic-ray-traced-cgi-003",
+      "artifact_id": "classic-ray-traced-cgi-003",
+      "source_url": "https://www.irtc.org/stills/1996-08-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/bucket1.jpg",
+      "title": "bucket1.jpg",
+      "creator": "Steve Gowers",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Red cylindrical bucket with yellow handle contains individually patterned spiral shells; water and sand use repeated procedural-looking noise, with a hard cast shadow and localized white specular glints."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "06822e202c2bd3bf3f4d91e6de02b550389a8ef1d35b41ae5593b95156e319b7",
+      "renderer": "Povray 3.0 for Windows",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/bucket1.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-004",
+      "artifact_id": "classic-ray-traced-cgi-004",
+      "source_url": "https://www.irtc.org/stills/1996-08-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/hotenuf.jpg",
+      "title": "hotenuf.jpg",
+      "creator": "Kerwin D Kanago",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A shiny yellow egg, smoky bacon, translucent marbles and metallic jacks sit on a concrete sidewalk; primitives and grass blades cast hard directional shadows. Surfaces have distinct bump/noise scales."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "55800258ddb7150629af55d38de262ff6a7e9c7f468f152a593959df5ee280d8",
+      "renderer": "POV-Ray for Windows",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/hotenuf.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-005",
+      "artifact_id": "classic-ray-traced-cgi-005",
+      "source_url": "https://www.irtc.org/stills/1996-08-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/msnd.jpg",
+      "title": "msnd.jpg",
+      "creator": "Bob Belas",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Translucent green fairy wings overlap a dark green modeled woodland, pond and purple sky. Layered planes, sharp silhouettes and sparse fog create theatrical artificial depth; reflective chrome is absent."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "994ddfc18395937762034a51507e8a94860e887405c6b1aea196fd48a7dbaeda",
+      "renderer": "Povray for Windows (PovWin), Beta, V15",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/msnd.txt",
+      "resolution": "774×599"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-006",
+      "artifact_id": "classic-ray-traced-cgi-006",
+      "source_url": "https://www.irtc.org/stills/1996-08-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/gosum1.jpg",
+      "title": "gosum1.jpg",
+      "creator": "Gena Obukhov",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A gold embossed vase supports modeled flowers against a pale embossed leaf panel and dark frame. Cutout-looking petals, surface relief and specular vase shading form a decorative still-life variant."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "50794a7129381330c9795a3459068a60767c21d89826e8c5a8633df07fd84996",
+      "renderer": "bCAD",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/gosum1.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-007",
+      "artifact_id": "classic-ray-traced-cgi-007",
+      "source_url": "https://www.irtc.org/stills/1996-08-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/fryanegg.jpg",
+      "title": "fryanegg.jpg",
+      "creator": "Paul T. Dawson",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A suburban scene uses saturated blue roofs, green grass, patterned clothing and tube-like people. Simple modeling and severe texture repetition dominate; not every early render is a chrome still life."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "35e93d7a4170208113003c5e96f35b641409c01e24ecaa3df220bf7bc51dcacd",
+      "renderer": "POV-Ray 3.0 for DOS",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/fryanegg.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-008",
+      "artifact_id": "classic-ray-traced-cgi-008",
+      "source_url": "https://www.irtc.org/stills/1996-08-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/waysouth.jpg",
+      "title": "waysouth.jpg",
+      "creator": "Samuel J. Goldstein",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Penguins and umbrellas on faceted ice are staged across dark purple water. Flat pale fog obscures the horizon; smooth rounded penguins contrast angular terrain and glossy water."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f526e2bc276b7eefe5d5f66d1ef57e8f9fb2315b759b5e5b1de5aacfa95587e1",
+      "renderer": "Strata StudioPro/Blitz 1.75+ Raytracer",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-08-31/waysouth.txt",
+      "resolution": "750×545"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-009",
+      "artifact_id": "classic-ray-traced-cgi-009",
+      "source_url": "https://www.irtc.org/stills/1996-06-30.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/iaclock.jpg",
+      "title": "iaclock.jpg",
+      "creator": "Ian Armstrong",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An exposed geared clock, coils, battery and tools form a workbench still life. Golden toruses and drilled metal beams contrast wood grain and pink coil windings; point highlights articulate material differences."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "dcbef6619e5edea92c0cdb5d4e6dcac20bedef56feb30d5d40b5a68117052e58",
+      "renderer": "Povray 3.0beta",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/iaclock.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-010",
+      "artifact_id": "classic-ray-traced-cgi-010",
+      "source_url": "https://www.irtc.org/stills/1996-06-30.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/admiral.jpg",
+      "title": "admiral.jpg",
+      "creator": "Adrian A. Baumann",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A large gold watch lies diagonally on graph paper with a pink pencil. A sharply polygonal bezel contrasts glossy curved glass, cracked leather texture and printed watch-face numerals."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e0c4e4cfc549db40367dfa8183bf12446558f703a7f3de2ba68a22f9685d0c3d",
+      "renderer": "winpov 3.0beta",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/admiral.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-011",
+      "artifact_id": "classic-ray-traced-cgi-011",
+      "source_url": "https://www.irtc.org/stills/1996-06-30.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/gotime3.jpg",
+      "title": "gotime3.jpg",
+      "creator": "Gena Obukhov",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A night city with green domes, clock towers and red signs reflects in rippled water. Repeated windows and railings build depth; lit rectangles and water reflections produce artificial clarity."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0a718f61c895697ebcc5c9b1e675822cdd41973c7fc2eabad9799e068db3dd6a",
+      "renderer": "POV-Ray 3.0.beta7",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/gotime3.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-012",
+      "artifact_id": "classic-ray-traced-cgi-012",
+      "source_url": "https://www.irtc.org/stills/1996-06-30.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/helio.jpg",
+      "title": "helio.jpg",
+      "creator": "Daniel L. Isdell",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A brass sundial on a gray veined pedestal sits beside a white house. Crisp foliage shadows, narrow grass strips and purple flowers create scale contrasts; engraved text is geometric modeled detail."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "43cadb445fa656cd3d77ed6ee9dd03f1abe3a1093d0999b212d42b45eb962f22",
+      "renderer": "PovWin 3 beta 13",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/helio.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-013",
+      "artifact_id": "classic-ray-traced-cgi-013",
+      "source_url": "https://www.irtc.org/stills/1996-06-30.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/gotime1.jpg",
+      "title": "gotime1.jpg",
+      "creator": "Gena Obukhov",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Floating gold hourglasses containing translucent skull forms are framed by chains, rings and faceted jewels against an orange gradient. Reflective metal, glass refraction and impossible staging are central."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "53a28a17bc157520e3b4ea8955cc67795e590168e3617d8727b4544e34af1c8a",
+      "renderer": "POV-Ray 3.0.beta7",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/gotime1.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-014",
+      "artifact_id": "classic-ray-traced-cgi-014",
+      "source_url": "https://www.irtc.org/stills/1996-06-30.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/time2c.jpg",
+      "title": "As time flies by..",
+      "creator": "Bjorn K. Nilssen",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Articulated metal wristwatches fly over a purple sea and rocky islands. Gold/silver linked bands twist into wings; hard white highlights contrast fog and noisy stone surfaces."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0bcda03a0f1189e89a5106240a381818d167e3f5416d187e432e384bb880529f",
+      "renderer": "trueSpace 2",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-06-30/time2c.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-015",
+      "artifact_id": "classic-ray-traced-cgi-015",
+      "source_url": "https://www.irtc.org/stills/1996-10-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/amazon.jpg",
+      "title": "amazon.jpg",
+      "creator": "George Papaioannou",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An underwater city of olive green cylindrical towers is inhabited by blue humanoid figures. Bubbles, spotlight cones and repeated structure produce a dense technical fantasy; low contrast is a variant limitation."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c6fbd115b0854cca26a26fc7a174e2b539ce954dc67d527e27500642be707942",
+      "renderer": "povray 3.0beta for DOS",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/amazon.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-016",
+      "artifact_id": "classic-ray-traced-cgi-016",
+      "source_url": "https://www.irtc.org/stills/1996-10-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/new02k.jpg",
+      "title": "new02k.jpg",
+      "creator": "George J Pateman",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A glass sphere enclosing an Earth-like marble sits on a stepped metallic plinth under monumental arches. Small hovering machines, smooth water and broad mottled stone surfaces create a symmetrical fantasy showroom."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f23d5c206af602abfd165b7c678f58b533a89b3d897c970325ce21ec1bffb203",
+      "renderer": "POVRAY 2.something",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/new02k.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-017",
+      "artifact_id": "classic-ray-traced-cgi-017",
+      "source_url": "https://www.irtc.org/stills/1996-10-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/nebulosi.jpg",
+      "title": "nebulosi.jpg",
+      "creator": "John Stevens & Jonathan Tanner",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Metallic rails and posts surround pools, a ring and an enormous goblet under purple nebulae. Marbled/checkered slabs, repeated primitive geometry and sharp specular highlights define the constructed scene."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "715622acf9fc758986afcab4389186aedd576005039e72d757e0062295f70e9e",
+      "renderer": "Povray 3.0",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/nebulosi.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-018",
+      "artifact_id": "classic-ray-traced-cgi-018",
+      "source_url": "https://www.irtc.org/stills/1996-10-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/caravan.jpg",
+      "title": "caravan.jpg",
+      "creator": "Thierry Arbault",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A traveler and pack animal cross rippled sand toward distant towers under a pale planet. Layered fog and near-monochrome tan material distinguish this atmospheric landscape from reflective object demonstrations."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "62b79fc854205fc0b5766070a36979051a0d778af1ca9470a13517c7b84c3eef",
+      "renderer": "Povmosdos3 beta",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/caravan.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-019",
+      "artifact_id": "classic-ray-traced-cgi-019",
+      "source_url": "https://www.irtc.org/stills/1996-10-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/03julyma.jpg",
+      "title": "03julyma.jpg",
+      "creator": "Michael Ashelby",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A hovering spacecraft fires a bright blue beam into a modeled White House at night. Procedural hull texture, explicit light cones, warm window rectangles and white smoke create staged sci-fi drama."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0d5226aa615fbb9e7e2e14b164369aef856bd093ea445c4a34e1bf790e54d486",
+      "renderer": "POV-Ray v3.0 for Windows",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/03julyma.txt",
+      "resolution": "800×470"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-020",
+      "artifact_id": "classic-ray-traced-cgi-020",
+      "source_url": "https://www.irtc.org/stills/1996-10-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/microsrg.jpg",
+      "title": "microsrg.jpg",
+      "creator": "Samuel J. Goldstein",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "In a red environment, articulated mechanical insects with metallic joints float past faceted amber-like rocks. Hard specular points and repeating shards contrast a flat saturated red ground."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "940ea3e1ddec2bfd1bd214fe78e3996c69191643b5f6d79501bbd3637e1e1e1f",
+      "renderer": "Strata StudioPro/Blitz 1.75+ Raytracer",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-10-31/microsrg.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-021",
+      "artifact_id": "classic-ray-traced-cgi-021",
+      "source_url": "https://www.irtc.org/stills/1996-12-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/autr6.jpg",
+      "title": "'Jet-ostrich liftoff'",
+      "creator": "Xavier Manget",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A jet-equipped ostrich rises above other ostriches and a low-detail landscape. Chrome arms and cylinders, red upholstery, white exhaust cones and sharply cast shadows contrast noisy feathers and ground."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "628a7b4b222c0f60d312cf99cdb6d522e88290ce241dbf70be26f8ee563b9112",
+      "renderer": "POVRAY 3.0 (MS-DOS & Windows versions)",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/autr6.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-022",
+      "artifact_id": "classic-ray-traced-cgi-022",
+      "source_url": "https://www.irtc.org/stills/1996-12-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/13flyshp.jpg",
+      "title": "The Flying Ship of Atlantis",
+      "creator": "Nathan O'Brien",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A patterned airship floats above classical buildings. Hexagonal balloon decoration, veined columns, wood grain, metallic poles and a bright star-like sun demonstrate conspicuous material variety."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ec8545d405a62aae7361ca1e043370d1f99631375a6d253629345e923c2eec27",
+      "renderer": "povray 3 for windows",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/13flyshp.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-023",
+      "artifact_id": "classic-ray-traced-cgi-023",
+      "source_url": "https://www.irtc.org/stills/1996-12-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/takewing.jpg",
+      "title": "Taking Wing",
+      "creator": "Sonya Roberts",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Oversized insects fly between trees and woven nests. Veined transparent wings, repeated leaves, bark noise and discrete hard shadows make a densely procedural natural-world variant."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5340571496c251cdd6d7830f510439c161410f5923a0b3656650b840fde0015a",
+      "renderer": "POVRay 3.00e.watcom.Win32",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/takewing.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-024",
+      "artifact_id": "classic-ray-traced-cgi-024",
+      "source_url": "https://www.irtc.org/stills/1996-12-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/daedalus.jpg",
+      "title": "daedalus",
+      "creator": "Samuel J. Goldstein",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A winged human flies over modeled stone towers under blue haze. Repeated masonry and flag geometry, brown terrain and receding towers give fantasy architectural depth without chrome motifs."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "489998b093a51c2c72855a45805497c778332a0adabad319e8ebb3932e77051a",
+      "renderer": "Strata StudioPro/Blitz 1.75+ Raytracer",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/daedalus.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-025",
+      "artifact_id": "classic-ray-traced-cgi-025",
+      "source_url": "https://www.irtc.org/stills/1996-12-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/iaflight.jpg",
+      "title": "iaflight",
+      "creator": "Ian Armstrong",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Silver biplanes populate a green airfield with simple hangars and houses. Repeated struts, colored roundels and a metallic body contrast noisy grass and hard shadows."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b2f03b69c2460f2d0fa76e6661383c48fbd7a67ff02b73dc3aed6cf74aa2b464",
+      "renderer": "Povray 3.0 for Windows",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/iaflight.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-026",
+      "artifact_id": "classic-ray-traced-cgi-026",
+      "source_url": "https://www.irtc.org/stills/1996-12-31.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/1st-less.jpg",
+      "title": "FIRST LESSON",
+      "creator": "Juergen Schoner",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A shiny orange-beaked green bird figure stands on a folded paper airplane above a purple tiled surface and a book. Smooth primitives, embossed skin texture and hard shadows create an instructional cartoon still life."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a802d3567df3f662908234b602faf98b5bdd3a0b386430e76868b27d1ed1acb5",
+      "renderer": "IMAGINE 3.0",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1996-12-31/1st-less.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-027",
+      "artifact_id": "classic-ray-traced-cgi-027",
+      "source_url": "https://www.irtc.org/stills/1997-02-28.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/13glass1.jpg",
+      "title": "Glory",
+      "creator": "Nathan O'Brien",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A church interior uses repeated stained-glass panels, alternating stone columns and a polished floor. Crisp reflections, glowing central light and fine geometric repetitions turn light transport into the subject."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ae8f86dec9d606b3a0903cf90270b5f88c04bbc06b96afe705a9e252a660365b",
+      "renderer": "povray 3 for windows",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/13glass1.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-028",
+      "artifact_id": "classic-ray-traced-cgi-028",
+      "source_url": "https://www.irtc.org/stills/1997-02-28.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/1750view.jpg",
+      "title": "1750view",
+      "creator": "Marco Lucini",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Glass bottles and a blue box stand before three gold-edged mirrors in a Baroque room. Repeated reflections, translucent tinted vessels and broad specular highlights contrast surface grain and mapped ceiling imagery."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "eea8ae9a264ca9a408db0b9a13250f53c9df9f99b9c7a3a4658132548c14a4ab",
+      "renderer": "povray 3.0",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/1750view.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-029",
+      "artifact_id": "classic-ray-traced-cgi-029",
+      "source_url": "https://www.irtc.org/stills/1997-02-28.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/lasi01nb.jpg",
+      "title": "no title",
+      "creator": "N.B.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A cyan glass goblet surrounded by green grasshoppers and orange flowers sits on a reflective patterned plane. Refraction distorts internal geometry; bright specular highlights and hard overlapping shadows anchor it."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3f8ac244ecaa5f6d5f764696f0c1781f33f280ab06b42c9eefec38a9018e29f8",
+      "renderer": "POV-Ray 3.00/3.01 for MS Windows95",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/lasi01nb.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-030",
+      "artifact_id": "classic-ray-traced-cgi-030",
+      "source_url": "https://www.irtc.org/stills/1997-02-28.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/nkreflct.jpg",
+      "title": "Reflections",
+      "creator": "Nathan Kopp",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A snowy exterior window frames warm wood, a lamp and books inside. Transparent glass, overlapping snow particles, hard rectangular framing and contrasting color temperatures make a restrained narrative variant."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fbf8ce27db598927cbd5eae35e4c13c8e1effb0dcf67e011f5318f08646a5983",
+      "renderer": "Povray 3.0 for Windows",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/nkreflct.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-031",
+      "artifact_id": "classic-ray-traced-cgi-031",
+      "source_url": "https://www.irtc.org/stills/1997-02-28.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/fairytal.jpg",
+      "title": "Fairy Tale",
+      "creator": "Sonya Roberts",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Glass birds and tall glass lamps frame a reflective pond, trees and a dark arch. Repeated leafy branches, mottled transmissive objects and a yellow flame make a dense fairy-tale construction."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6a296abf8a02ce92bf563a281a1de2c50749c8e17511a57500c1e5618e9d65d8",
+      "renderer": "POVRay 3.01.watcom.Win32 Pentium Optimised , POVRay",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/fairytal.txt",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-032",
+      "artifact_id": "classic-ray-traced-cgi-032",
+      "source_url": "https://www.irtc.org/stills/1997-02-28.html",
+      "media_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/soda3.jpg",
+      "title": "Soda Worship",
+      "creator": "Timothy Eyring",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A clear purple-tinted soda glass and straw are surrounded by small red circular figures on a shiny tiled counter. Repeated bevelled squares, transmitted shapes and bright reflections make an explicit primitive-object tableau."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3a4864a26614ab1020cd2154038ed3ead3599112e883de64abcdee6e6db55941",
+      "renderer": "POV-Ray 3.01 for windows",
+      "context_url": "https://www.irtc.org/ftp/pub/stills/1997-02-28/soda3.txt",
+      "resolution": "640×480"
+    },
+    {
+      "record_id": "classic-ray-traced-cgi-033",
+      "artifact_id": "classic-ray-traced-cgi-033",
+      "source_url": "https://www.povray.org/community/hof/Isosurface-Sombrero.php",
+      "media_url": "https://www.povray.org/i/hof/Isosurface-Sombrero.jpg",
+      "title": "Lonely Sphere (2003)",
+      "creator": "Tor Olav Kristensen",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A small matte sphere floats above a continuous, closely ridged gray terrain, with blue crevices and pale highlights. The artist describes intersecting isosurfaces and a displaced sombrero function. This 2003 example extends the grammar into mathematical surface demonstrations without chrome or saturated color.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "eb80a086383238f3f8321ccef7349203e0bbd50f8205068f2d5dbebd74a4ae09",
+      "resolution": "800×450"
+    }
+  ]
+}
