@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 241,
+  "fullEntryCount": 251,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -395,6 +395,25 @@
       ]
     },
     {
+      "slug": "brazilian-neo-concretism",
+      "label": "Brazilian Neo-Concretism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Brazilian Neoconcretism",
+        "Neoconcretismo"
+      ]
+    },
+    {
+      "slug": "british-postwar-textile-abstraction",
+      "label": "British Postwar Textile Abstraction",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "British postwar abstract textiles"
+      ]
+    },
+    {
       "slug": "browser-chrome-netscape",
       "label": "Browser Chrome / Netscape-Era Browser UI",
       "family": "digital-internet-native",
@@ -531,6 +550,17 @@
         "citypop",
         "City Pop aesthetic",
         "Hiroshi Nagai style"
+      ]
+    },
+    {
+      "slug": "classic-film-noir",
+      "label": "Classic Film Noir",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Classic noir",
+        "1940s film noir",
+        "Golden-age film noir"
       ]
     },
     {
@@ -1013,6 +1043,15 @@
       ]
     },
     {
+      "slug": "fluxus-editions",
+      "label": "Fluxus Editions",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Fluxus multiples and editions"
+      ]
+    },
+    {
       "slug": "folk-horror-pastoral",
       "label": "Folk Horror Pastoral",
       "family": "contemporary-lifestyle",
@@ -1136,6 +1175,16 @@
       "aliases": [
         "Greek black-figure pottery",
         "Black-figure vase painting"
+      ]
+    },
+    {
+      "slug": "grosvenor-school-linocut",
+      "label": "Grosvenor School Colour Linocut",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Grosvenor School linocuts",
+        "Grosvenor colour linocut"
       ]
     },
     {
@@ -1861,6 +1910,16 @@
       ]
     },
     {
+      "slug": "pochoir-fashion-plates",
+      "label": "Pochoir Fashion Plates",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Pochoir fashion illustration",
+        "Gazette du Bon Ton fashion plates"
+      ]
+    },
+    {
       "slug": "polarized-crystal-photomicrography",
       "label": "Polarized Crystal Photomicrography",
       "family": "technical-institutional",
@@ -2090,6 +2149,17 @@
       ]
     },
     {
+      "slug": "shanghai-calendar-posters",
+      "label": "Shanghai Calendar Posters",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Shanghai yuefenpai",
+        "上海月份牌",
+        "Shanghai advertising calendars"
+      ]
+    },
+    {
       "slug": "shin-hanga",
       "label": "Shin-hanga",
       "family": "historical-design-movements",
@@ -2291,6 +2361,16 @@
       ]
     },
     {
+      "slug": "surrealism",
+      "label": "Surrealism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Surrealist art",
+        "Historical Surrealism"
+      ]
+    },
+    {
       "slug": "swiss-international",
       "label": "Swiss / International Typographic Style",
       "family": "historical-design-movements",
@@ -2332,6 +2412,16 @@
         "Taisho Roman",
         "Taishō Romanticism",
         "Taisho Romanticism"
+      ]
+    },
+    {
+      "slug": "taller-de-grafica-popular",
+      "label": "Taller de Gráfica Popular",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "TGP print graphics",
+        "Workshop of Popular Graphic Art"
       ]
     },
     {
@@ -2408,6 +2498,16 @@
         "humanoid realism",
         "uncanny humanoid",
         "android realism"
+      ]
+    },
+    {
+      "slug": "upa-graphic-modernism",
+      "label": "UPA Graphic Modernism",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "UPA modern cartoon graphics",
+        "United Productions of America graphic style"
       ]
     },
     {
