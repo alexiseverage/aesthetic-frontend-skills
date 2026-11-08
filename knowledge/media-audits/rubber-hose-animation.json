@@ -1,0 +1,1066 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "record_id": "rubber-hose-animation-002",
+      "artifact_id": "rubber-hose-animation-002",
+      "source_url": "https://silentfilm.org/koko/",
+      "media_url": "https://silentfilm.org/wp-content/uploads/2025/09/Kokos-Jumping-Beans.HERO_.jpg",
+      "title": "Koko’s Jumping Beans, Silent Film Festival-published complete still",
+      "creator": "Fleischer studio film; still published by Fleischer Studios or Silent Film Festival",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Koko in Jumping Beans: compact black clown silhouette wraps rounded bent legs around an oversized plant; white gloves, face, collar and shoes punctuate dark body, simple crescent eye marks. Large thin-line plant and widely spaced star/planet backdrop; blue tint and grain belong to this transfer still, not universal palette. A still cannot establish movement."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "106d1caf97d64443be82b24fa547f9eff7be669b401b31e9aea2c12de99c25f0",
+      "resolution": "2400×1348 complete maker/festival-published still"
+    },
+    {
+      "record_id": "rubber-hose-animation-009",
+      "artifact_id": "rubber-hose-animation-009",
+      "source_url": "https://fleischerstudios.com/koko",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604653725-YGE98JL1SENDBPT1NLNC/320365_orig.jpg",
+      "title": "  Koko and Bimbo cause some real world chaos in \"Fadeaway\" (1926)  ",
+      "creator": "Fleischer studio film; still published by Fleischer Studios or Silent Film Festival",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Fadeaway (1926), source-caption attribution: clown and dog suspended together beneath a rope; looped rounded limbs and oversized pale hands remain readable against almost empty gray field. Small complete maker-published still398×299 supports broad silhouette and staging, not fine linework or timing."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "aa083cbb20580d74b42574a674a027eae9391837fde4b0ccf56a62c42690d9af",
+      "resolution": "398×299 complete maker/festival-published still"
+    },
+    {
+      "record_id": "rubber-hose-animation-010",
+      "artifact_id": "rubber-hose-animation-010",
+      "source_url": "https://fleischerstudios.com/koko",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604632954-QJK9H74DP1NR6NB4BILP/1476141_orig.jpg",
+      "title": "  Koko and Bimbo in \"Earth Control\" (1928)  ",
+      "creator": "Fleischer studio film; still published by Fleischer Studios or Silent Film Festival",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Earth Control (1928), source-caption attribution: solid black upright clown contrasted with long thin arm pulling a dog horizontally away from a sign. Question marks externalize reaction; outlined sign creates a localized text block in otherwise white space. Small270×203 maker original supports broad elastic shape only, not typography identification or motion."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "eefa15b0e4db6fde64da612a6bf6a3a62e0586df576e613246082c918e024b90",
+      "resolution": "270×203 complete maker/festival-published still"
+    },
+    {
+      "record_id": "rubber-hose-animation-011",
+      "artifact_id": "rubber-hose-animation-011",
+      "source_url": "https://fleischerstudios.com/koko",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604664336-7XA8BIMWC7CU7W070M58/7824665_orig.jpg",
+      "title": "  Max jails Koko and Bimbo in \"The Convict\" (1926)  ",
+      "creator": "Fleischer studio film; still published by Fleischer Studios or Silent Film Festival",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The Convict (1926), source-caption attribution: seated clown and dog in front of a barred stone jail; slack curved black leg, huge round shoe, bright hands and button accents. Characters have simpler bold silhouettes than background masonry. Full published452×339 still; no gait/timing inference."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7638471f344240ba534450f4bc82cca2ed901664c83959b7cc1814a4cd4ab261",
+      "resolution": "452×339 complete maker/festival-published still"
+    },
+    {
+      "record_id": "rubber-hose-animation-012",
+      "artifact_id": "rubber-hose-animation-012",
+      "source_url": "https://fleischerstudios.com/koko",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604681417-WPB91EA90XOVZ1DI1IUF/9002603_orig.jpg",
+      "title": "  Koko in \"The Puzzle\" (1923)  ",
+      "creator": "Fleischer studio film; still published by Fleischer Studios or Silent Film Festival",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The Puzzle (1923), source-caption attribution: tall upright clown with raised thin curved arm and lowered opposite glove, dark loose costume and pale buttons; tiny shoes on oval shadow; sparse outlined room props. Angular cloth at elbows is a useful exception to a rule of exclusively curved outlines; no actual motion inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d09eb8ab191cc320402319f1dfacf8b6a7b1efb6766e58645a34772a045d1264",
+      "resolution": "480×360 complete maker/festival-published still"
+    },
+    {
+      "record_id": "rubber-hose-animation-019",
+      "artifact_id": "rubber-hose-animation-019",
+      "source_url": "https://fleischerstudios.com/koko",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604604796-22ENTHOD8JHGMY6BCH97/9620159_orig.jpg",
+      "title": "  Koko holds up cards to start off the singing to Tramp! Tramp! Tramp!  ",
+      "creator": "Fleischer studio film; still published by Fleischer Studios or Silent Film Festival",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "cultural-markers",
+            "type"
+          ],
+          "observation": "Tramp! Tramp! Tramp! (1926), primary maker caption: huge rounded white gloves hold a black singalong card; hand-lettered display caps mixed with script Everybody, central stacked title, scalloped pointing hands. The card and title frames belong to the same film and count once; supports performance-card typography and audience address, not any heard song or animation timing."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1fc23b28fa38b2ac03ab67f2ae12ad4c7a4c4c6b2d79016c4bc4622872a73a1f",
+      "resolution": "421×315 complete maker/festival-published still"
+    },
+    {
+      "record_id": "rubber-hose-animation-037",
+      "artifact_id": "rubber-hose-animation-037",
+      "source_url": "https://www.filmpreservation.org/preserved-films/screening-room/koko-s-queen-1926",
+      "media_url": "https://archive.org/download/koko-s-queen-1926/koko-s-queen-1926.mp4",
+      "title": "Koko’s Queen (1926), preserved transfer",
+      "creator": "Out of the Inkwell Films; Academy Film Archive/EYE preservation, NFPF presentation",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Native muted browser playback120.00–129.16s, four decoded samples recorded; three individually inspected at120.00,122.98,129.16s. Black clown changes from hunched bent-knee stance to forward open-arm gesture, broad continuous curved sleeves/legs, bright oversized gloves/collar/shoes and tiny face against largely empty warm-tinted ground, followed by live-action animator cut. The source reports18fps transfer, not universal historical timing; music is modern accompaniment and was muted. Grain/scratches/tint belong to copy. No invented dance beat or full-film viewing claim."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "640×480 source transfer;720px browser presentation",
+      "timestamps": [
+        "120.00s",
+        "122.98s",
+        "129.16s"
+      ],
+      "source_file_md5": "6eb142cca0e6ed32b54ad0871188f83f",
+      "playback": "Muted native Chromium decode; actual timeline advancement9.16s, no extracted-frame-only claim"
+    },
+    {
+      "record_id": "rubber-hose-animation-038",
+      "artifact_id": "rubber-hose-animation-038",
+      "source_url": "https://archive.org/details/flip-the-frog-1x-02-flying-fists",
+      "media_url": "https://archive.org/download/flip-the-frog-1x-02-flying-fists/Flip%20the%20Frog%20-%201x02%20-%20Flying%20Fists.mp4",
+      "title": "Flip the Frog: Flying Fists, attributed Iwerks transfer",
+      "creator": "Iwerks studio; AFI and IAD corroborate series/production, release year differs1930/1931 across catalogs",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Actual muted browser playback90.00–99.16s; samples90.00,93.02,99.16s individually inspected. Froglike boxer and black opponent repeatedly extend rounded arms, twist torso and bend elongated legs without angular anatomical elbows/knees. White glove/face accents separate overlapping black forms; spare gray sketched shed/ring ground holds stable. Source transfer1440×1080 rendered720px, not proof of original resolution or unaltered cadence. Fast deformation visible across states; no precise original fps/audio inference."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1440×1080 source transfer;720px browser presentation",
+      "timestamps": [
+        "90.00s",
+        "93.02s",
+        "99.16s"
+      ],
+      "source_file_md5": "894266e3eb878b17318ab67e960fa46a",
+      "playback": "Muted native Chromium decode; actual timeline advancement9.16s, no extracted-frame-only claim"
+    },
+    {
+      "record_id": "rubber-hose-animation-039",
+      "artifact_id": "rubber-hose-animation-039",
+      "source_url": "https://archive.org/details/Jolly_Fish_1932",
+      "media_url": "https://archive.org/download/Jolly_Fish_1932/Tom_and_Jerry_Jolly_Fish_1932_512kb.mp4",
+      "title": "Tom and Jerry: Jolly Fish (1932), attributed Van Beuren transfer",
+      "creator": "Van Beuren Studios; AFI Jolly Fish1932 corroborates production",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Actual muted browser playback90.00–99.21s; samples90.00,93.03,99.21s individually inspected. Underwater anthropomorphic performers: rounded shell dancer transitions to multi-armed octopus playing surrounding keyboards, white gloves on long curling black tentacles, then stretched sideways body/arm gesture. Light eyes/mouth/gloves separate dark silhouette from gray drawn environment.360×240 complete transfer is compressed but broad curves, gloves and spatial arrangement legible; no fine grain, exact line measurements, soundtrack or historical refresh claims."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "360×240 source transfer;720px browser presentation",
+      "timestamps": [
+        "90.00s",
+        "93.03s",
+        "99.21s"
+      ],
+      "source_file_md5": "0cfe1874f6ba484b662534881f746860",
+      "playback": "Muted native Chromium decode; actual timeline advancement9.21s, no extracted-frame-only claim"
+    },
+    {
+      "record_id": "rubber-hose-animation-040",
+      "artifact_id": "rubber-hose-animation-040",
+      "source_url": "https://archive.org/details/oswald-the-lucky-rabbit-full-series-walt-disney-walter-lantz",
+      "media_url": "https://archive.org/download/oswald-the-lucky-rabbit-full-series-walt-disney-walter-lantz/9.19.27%20Oh%20Teacher.mp4",
+      "title": "Oswald: Oh Teacher, file dated1927 in collection metadata",
+      "creator": "Attributed Disney/Oswald studio",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Actual muted playback70.00–79.16s: rabbit stands beside tricycle, reaches and changes arm pose; cut to larger figure leaning into a smaller figure and hook gag. Rounded black ears, pale belly/face, broad oval shoes and simple silhouetted torso on sketched rural background. Light hand detail varies; white gloves are common, not universal.Source transfer broad shapes legible, no fine line or source timing claim."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "480×360 source;720px presentation does not add detail",
+      "timestamps": [
+        "70.00s",
+        "79.16s"
+      ],
+      "source_file_md5": "170ca5b18064777098b6fa05c28b8f5f",
+      "playback": "Muted native Chromium playback; actual timeline advances >9seconds; individual first and last capture inspected, not extracted-frame-only analysis"
+    },
+    {
+      "record_id": "rubber-hose-animation-041",
+      "artifact_id": "rubber-hose-animation-041",
+      "source_url": "https://archive.org/details/Felix_the_cat-all_balled_up",
+      "media_url": "https://archive.org/download/Felix_the_cat-all_balled_up/Felix_the_Cat-All_balled_up_512kb.mp4",
+      "title": "Felix the Cat: All Balled Up, attributed transfer",
+      "creator": "Attributed Pat Sullivan/Felix studio; Otto Messmer historical creator attribution supported by LOC catalog",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Actual muted playback70.01–79.19s: Felix raises curved tail/limbs in golf scene, then crouches/peers over mound as bulky human changes pose and swings club. Solid black body, white muzzle, outlined light human clothing, thin rolling terrain with empty light sky. Body-height and pose changes read clearly; no soundtrack, frame-accurate easing, or whole narrative claim."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "320×240 source;720px presentation does not add detail",
+      "timestamps": [
+        "70.01s",
+        "79.19s"
+      ],
+      "source_file_md5": "01d9cd1e8a2016a2bc5efb6a5d3570bb",
+      "playback": "Muted native Chromium playback; actual timeline advances >9seconds; individual first and last capture inspected, not extracted-frame-only analysis"
+    },
+    {
+      "record_id": "rubber-hose-animation-042",
+      "artifact_id": "rubber-hose-animation-042",
+      "source_url": "https://archive.org/details/bimbos-initiation",
+      "media_url": "https://archive.org/download/bimbos-initiation/Bimbos%20Initiation.mp4",
+      "title": "Bimbos Initiation (1931) / Bimbos Initiation.mp4",
+      "creator": "Fleischer Studios",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Bimbo crouches beside a thin, very long-legged teapot-like figure; later stands alone with loose rounded hands and oversized pale shoes. Simplified pale face/muzzle remains readable against black hair/body; light empty floor and sketched props.320×240 copy only supports broad pose/shape, not fine strokes. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "320×240 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "89.19s"
+      ],
+      "playback": "Native Chromium timeline 80.00–89.19s; wall9.24s; audio muted",
+      "source_file_md5": "6a32e0fd4a50fa3cd5c42a85f0b72db3"
+    },
+    {
+      "record_id": "rubber-hose-animation-043",
+      "artifact_id": "rubber-hose-animation-043",
+      "source_url": "https://archive.org/details/swing-you-sinners_1930",
+      "media_url": "https://archive.org/download/swing-you-sinners_1930/swing-you-sinners_1930.mp4",
+      "title": "Swing You Sinners! / swing-you-sinners_1930.mp4",
+      "creator": "Fleischer Studios",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Two black-bodied anthropomorphic figures face each other: white rounded hands, faces, cuffs and simple oval eyes distinguish overlapping silhouettes. Cut/reframe to large reaction face and curled fist. Stable wood-fence environment and small police badge; strong face/hand staging. Stream buffers late, so actual advancement7.28s is less than9.22s wall time; no precise rhythm claim. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "576×432 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "87.28s"
+      ],
+      "playback": "Native Chromium timeline 80.00–87.28s; wall9.22s; audio muted",
+      "source_file_md5": "1ee04bd9dd5b4dea7b63411b58cbe76a"
+    },
+    {
+      "record_id": "rubber-hose-animation-044",
+      "artifact_id": "rubber-hose-animation-044",
+      "source_url": "https://archive.org/details/flip-the-frog-2x-06-movie-mad",
+      "media_url": "https://archive.org/download/flip-the-frog-2x-06-movie-mad/Flip%20the%20Frog%20-%202x06%20-%20Movie%20Mad.mp4",
+      "title": "Flip The Frog: Movie Mad / Flip the Frog - 2x06 - Movie Mad.mp4",
+      "creator": "Iwerks studio, film title attribution in transfer metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers",
+            "type"
+          ],
+          "observation": "Uniformed guard stretches a very long black arm across studio doorway; later large rounded actor in top hat stands at casting office. Disproportionate arm and compact oval shoes, pale glove and face, simpler character fills against thin-line architecture and diegetic sign lettering. Cut changes figure/scale rather than uniform perpetual movement. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1440×1080 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "89.18s"
+      ],
+      "playback": "Native Chromium timeline 80.00–89.18s; wall9.22s; audio muted",
+      "source_file_md5": "1cab19d190b6a597314920fa26f53efa"
+    },
+    {
+      "record_id": "rubber-hose-animation-045",
+      "artifact_id": "rubber-hose-animation-045",
+      "source_url": "https://archive.org/details/flip-the-frog-3x-08-room-runners",
+      "media_url": "https://archive.org/download/flip-the-frog-3x-08-room-runners/Flip%20the%20Frog%20-%203x08%20-%20Room%20Runners.mp4",
+      "title": "Flip The Frog: Room Runners / Flip the Frog - 3x08 - Room Runners.mp4",
+      "creator": "Iwerks studio, film title attribution in transfer metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Desk clerk is held in a bounded counter composition while visitor crosses foreground, bent continuous legs, pale oversized glove, shoe and round hatbox. Extended playback ends with squatting visitor and clerk raising hands. Background props stay stable; foreground body/limb silhouette changes. Buffering means actual10.81s across15.28s wall, not historical cadence. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1394×1080 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "88.09s",
+        "90.82s"
+      ],
+      "playback": "Native Chromium timeline 80.00–90.82s; wall15.28s; audio muted",
+      "source_file_md5": "a81a3568343324f395a03f01f8324edc"
+    },
+    {
+      "record_id": "rubber-hose-animation-046",
+      "artifact_id": "rubber-hose-animation-046",
+      "source_url": "https://archive.org/details/flip-the-frog-3x-12-phoney-express",
+      "media_url": "https://archive.org/download/flip-the-frog-3x-12-phoney-express/Flip%20the%20Frog%20-%203x12%20-%20Phoney%20Express.mp4",
+      "title": "Flip The Frog: Phoney Express / Flip the Frog - 3x12 - Phoney Express.mp4",
+      "creator": "Iwerks studio, film title attribution in transfer metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Large hat and pale gloves frame compact performer; later overhead lasso is a huge light ellipse with thin curved rope attached to a very long raised black arm. Horse/carriage and tree establish scene; arm length, loop and oval shoes dominate pose.480×360 copy supports broad form, not fine transfer grain. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "480×360 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "89.16s"
+      ],
+      "playback": "Native Chromium timeline 80.00–89.16s; wall9.20s; audio muted",
+      "source_file_md5": "25e2212e4d037aeaa3a5696d0a4847da"
+    },
+    {
+      "record_id": "rubber-hose-animation-047",
+      "artifact_id": "rubber-hose-animation-047",
+      "source_url": "https://archive.org/details/flip-the-frog-2x-10-spooks_202606",
+      "media_url": "https://archive.org/download/flip-the-frog-2x-10-spooks_202606/Flip%20the%20Frog%20-%202x10%20-%20Spooks.mp4",
+      "title": "Flip The Frog: Spooks / Flip the Frog - 2x10 - Spooks.mp4",
+      "creator": "Iwerks studio, film title attribution in transfer metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Pale overexposed room changes abruptly to dark field containing isolated open-mouthed figure and light gloves/shoes. Body pose and light/dark staging carry reaction, not realistic anatomy. Low-contrast first image and soft copy limit fine texture and tonal measurements; no inference that the original was washed out. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "480×360 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "89.15s"
+      ],
+      "playback": "Native Chromium timeline 80.00–89.15s; wall9.20s; audio muted",
+      "source_file_md5": "73a38b473f099d384b27766bc7e5e066"
+    },
+    {
+      "record_id": "rubber-hose-animation-048",
+      "artifact_id": "rubber-hose-animation-048",
+      "source_url": "https://archive.org/details/flip-the-frog-in-fiddlesticks-public-domain-color-animation",
+      "media_url": "https://archive.org/download/flip-the-frog-in-fiddlesticks-public-domain-color-animation/Flip%20the%20Frog%20in%20Fiddlesticks%20-%20Public%20Domain%20color%20animation.mp4",
+      "title": "Flip The Frog In Fiddlesticks Public Domain Color Animation / Flip the Frog in Fiddlesticks - Public Domain color animation.mp4",
+      "creator": "Iwerks studio, film title attribution in transfer metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Muted color transfer: spider-like drummer uses long thin curved black limbs across drums; later insect ensemble around tree stump. Pale yellow/cream field, muted red drums/flowers and gray-green stems disprove mandatory monochrome. Some limbs are angular at held poses; multi-legged elasticity and moving foreground contrast stable drawn woodland. AFI identifies1930Fiddlesticks as early color; this upload is a modern transfer, not measured original pigment. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1920×1080 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "100.00s",
+        "109.15s"
+      ],
+      "playback": "Native Chromium timeline 100.00–109.15s; wall9.20s; audio muted",
+      "source_file_md5": "74f18e2ab1dc41fd1320c6f7e60ec46a"
+    },
+    {
+      "record_id": "rubber-hose-animation-049",
+      "artifact_id": "rubber-hose-animation-049",
+      "source_url": "https://archive.org/details/oswald-the-lucky-rabbit-in-africa-1930",
+      "media_url": "https://archive.org/download/oswald-the-lucky-rabbit-in-africa-1930/Oswald_the_Lucky_Rabbit_in_%27Africa%27_%281930%29.mp4",
+      "title": "Oswald The Lucky Rabbit In ' Africa' ( 1930) / Oswald_the_Lucky_Rabbit_in_'Africa'_(1930).mp4",
+      "creator": "Oswald production attribution in transfer metadata; Disney-era and later Universal work must not be conflated",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Rabbit on a camel-like animal changes to a black-maned lion-like figure with hat and curved tail, oversized light feet and broad mouth; black outline figures over gray jungle/ground. Pose/body transformation readable. Historical exoticizing/colonial caricature is present; analyze geometry without reusing ethnic caricatures, costume stereotypes or implied cultural facts. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "640×480 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "89.14s"
+      ],
+      "playback": "Native Chromium timeline 80.00–89.14s; wall9.18s; audio muted",
+      "source_file_md5": "6b12295e1218852c75f7db7967e667d8"
+    },
+    {
+      "record_id": "rubber-hose-animation-050",
+      "artifact_id": "rubber-hose-animation-050",
+      "source_url": "https://archive.org/details/the-hash-shop-1930-480p-1",
+      "media_url": "https://archive.org/download/the-hash-shop-1930-480p-1/THE%20HASH%20SHOP%20%281930%29%20%28480p%29%20%281%29.mp4",
+      "title": "the hash shop - Oswald the lucky rabbit (1930) / THE HASH SHOP (1930) (480p) (1).mp4",
+      "creator": "Oswald production attribution in transfer metadata; Disney-era and later Universal work must not be conflated",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Rabbit opposite bulky long-snouted cook then reaction close-up: ear/arm stretches across frame, pale expressive face and shorts punctuate black body. Continuous curved arms, oversize light hands, sparse clothing. Burned-in timecode belongs to transfer and is not a style cue. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "640×480 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "89.18s"
+      ],
+      "playback": "Native Chromium timeline 80.00–89.18s; wall9.22s; audio muted",
+      "source_file_md5": "18771c3ab5ba1311f0ca5e81f2e0ac1b"
+    },
+    {
+      "record_id": "rubber-hose-animation-051",
+      "artifact_id": "rubber-hose-animation-051",
+      "source_url": "https://archive.org/details/FELIXTHECATTRIFLESWITHTIME",
+      "media_url": "https://archive.org/download/FELIXTHECATTRIFLESWITHTIME/FELIXTHECATTRIFLESWITHTIME.mp4",
+      "title": "Felix The Cat Trifles with Time (1925) / FELIXTHECATTRIFLESWITHTIME.mp4",
+      "creator": "Pat Sullivan/Felix series attribution; individual copy metadata does not establish all animator credits",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Felix peeks from behind a corner while a human holds a large horn, then human bends down over horn. Pale hands, large oval shoes, rounded solid dark coat, thin-line buildings and blank sky. Broadcast watermark is copy history, not original design vocabulary; no soundtrack or note rhythm heard. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "640×480 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "89.15s"
+      ],
+      "playback": "Native Chromium timeline 80.00–89.15s; wall9.20s; audio muted",
+      "source_file_md5": "fe37c4745e8716ddfb57abd33e45b075"
+    },
+    {
+      "record_id": "rubber-hose-animation-052",
+      "artifact_id": "rubber-hose-animation-052",
+      "source_url": "https://archive.org/details/felix-the-cat-dines-and-pines_1927",
+      "media_url": "https://archive.org/download/felix-the-cat-dines-and-pines_1927/felix-the-cat-dines-and-pines_1927.mp4",
+      "title": "Felix the Cat Dines and Pines / felix-the-cat-dines-and-pines_1927.mp4",
+      "creator": "Pat Sullivan/Felix series attribution; individual copy metadata does not establish all animator credits",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Small black cat under floating music-note symbols beside a window, then cut to seated cat gripping a large bowl with pale rounded hands. Body/arm scale and expression change; sparse room/landscape outlines contrast dark silhouette. Visible musical symbols establish graphic motifs only; audio muted. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "992×720 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "89.25s"
+      ],
+      "playback": "Native Chromium timeline 80.00–89.25s; wall9.25s; audio muted",
+      "source_file_md5": "0d6d77ed3bf07728837ed08f67b4ae25"
+    },
+    {
+      "record_id": "rubber-hose-animation-053",
+      "artifact_id": "rubber-hose-animation-053",
+      "source_url": "https://archive.org/details/oswald-the-lucky-rabbit-full-series-walt-disney-walter-lantz",
+      "media_url": "https://archive.org/download/oswald-the-lucky-rabbit-full-series-walt-disney-walter-lantz/9.5.27%20Trolley%20Troubles.mp4",
+      "title": "Oswald: Trolley Troubles, file dated1927 in collection metadata",
+      "creator": "Oswald production attribution in transfer metadata; Disney-era and later Universal work must not be conflated",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Small rabbit and animal passengers ride a severely tilted carriage, later pull/push its bowed side through rail junction. Carriage and limbs bend, top antenna traces a long curve, dense crowd contrasts open terrain.352×262 source is soft but broad silhouette/vehicle deformation legible; no precise line widths or historical speed claimed. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "352×262 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "80.00s",
+        "89.28s"
+      ],
+      "playback": "Native Chromium timeline 80.00–89.28s; wall9.33s; audio muted",
+      "source_file_md5": "c805062f3622c973f6f1681f1b063543"
+    },
+    {
+      "record_id": "rubber-hose-animation-054",
+      "artifact_id": "rubber-hose-animation-054",
+      "source_url": "https://archive.org/details/van-beurens-tom-and-jerry-the-complete-collection",
+      "media_url": "https://archive.org/download/van-beurens-tom-and-jerry-the-complete-collection/Van%20Beuren%27s%20Tom%20%26%20Jerry%2018%20-%20Pencil%20Mania.mp4",
+      "title": "Van Beuren's Tom & Jerry 18 - Pencil Mania",
+      "creator": "Van Beuren studio, title attribution in collection metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall thin figure and short companion with pale gloves, oval shoes and looped arms; tall figure catches/holds pencil while long legs change angle. Thin light trousers outlined against quiet gray field contrast dark jacket/hair. Different body proportions preserve common gesture readability. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "480×360 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "90.00s",
+        "99.30s"
+      ],
+      "playback": "Native Chromium timeline 90.00–99.30s; wall9.34s; audio muted",
+      "source_file_md5": "889337153821f914f266d2138da3c690"
+    },
+    {
+      "record_id": "rubber-hose-animation-055",
+      "artifact_id": "rubber-hose-animation-055",
+      "source_url": "https://archive.org/details/van-beurens-tom-and-jerry-the-complete-collection",
+      "media_url": "https://archive.org/download/van-beurens-tom-and-jerry-the-complete-collection/Van%20Beuren%27s%20Tom%20%26%20Jerry%2020%20-%20Magic%20Mummy.mp4",
+      "title": "Van Beuren's Tom & Jerry 20 - Magic Mummy",
+      "creator": "Van Beuren studio, title attribution in collection metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers",
+            "type"
+          ],
+          "observation": "Uniformed group with dark coats and striped trousers shifts/cuts to captain behind labeled desk, holding tiny object with large pale hand. Rounded faces and loose arms foreground action.480×360 group view is blocky; only broad posture/contrast and desk hierarchy legible, not fine features or whole mummy narrative. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "480×360 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "90.00s",
+        "99.27s"
+      ],
+      "playback": "Native Chromium timeline 90.00–99.27s; wall9.32s; audio muted",
+      "source_file_md5": "bf91c1fff542edb07a737507d9f6522f"
+    },
+    {
+      "record_id": "rubber-hose-animation-056",
+      "artifact_id": "rubber-hose-animation-056",
+      "source_url": "https://archive.org/details/van-beurens-tom-and-jerry-the-complete-collection",
+      "media_url": "https://archive.org/download/van-beurens-tom-and-jerry-the-complete-collection/Van%20Beuren%27s%20Tom%20%26%20Jerry%2019%20-%20Tight%20Rope%20Tricks.mp4",
+      "title": "Van Beuren's Tom & Jerry 19 - Tight Rope Tricks",
+      "creator": "Van Beuren studio, title attribution in collection metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Tall lanky performer holds a pump while shorter partner interacts with elephant, whose disproportionately tall curved legs frame long narrow trunk. Across played interval trunk reaches and tall figure bends into pumping pose. Limited ground detail, expressive silhouettes, pale gloves/shoes; no claim of realistic anatomy. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "480×360 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "90.00s",
+        "99.17s"
+      ],
+      "playback": "Native Chromium timeline 90.00–99.17s; wall9.21s; audio muted",
+      "source_file_md5": "fe0555f87c282fd5d41928d1162566bb"
+    },
+    {
+      "record_id": "rubber-hose-animation-057",
+      "artifact_id": "rubber-hose-animation-057",
+      "source_url": "https://archive.org/details/van-beurens-tom-and-jerry-the-complete-collection",
+      "media_url": "https://archive.org/download/van-beurens-tom-and-jerry-the-complete-collection/Van%20Beuren%27s%20Tom%20%26%20Jerry%2017%20-%20Piano%20Tooners.mp4",
+      "title": "Van Beuren's Tom & Jerry 17 - Piano Tooners",
+      "creator": "Van Beuren studio, title attribution in collection metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Small black round-eared figures walk on giant keyboard with alternating curved legs and pale shoes/hands; camera reframes to many repeated keyboard/figure units. Repetition and large/small scale organize graphic rhythm. Muted playback establishes visual change, not correspondence to heard music. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "720×480 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "90.00s",
+        "99.15s"
+      ],
+      "playback": "Native Chromium timeline 90.00–99.15s; wall9.19s; audio muted",
+      "source_file_md5": "aa5a21e194bce8f97cf6531b3ef46799"
+    },
+    {
+      "record_id": "rubber-hose-animation-058",
+      "artifact_id": "rubber-hose-animation-058",
+      "source_url": "https://archive.org/details/van-beurens-tom-and-jerry-the-complete-collection",
+      "media_url": "https://archive.org/download/van-beurens-tom-and-jerry-the-complete-collection/Van%20Beuren%27s%20Tom%20%26%20Jerry%2025%20-%20Doughnuts.mp4",
+      "title": "Van Beuren's Tom & Jerry 25 - Doughnuts",
+      "creator": "Van Beuren studio, title attribution in collection metadata",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers",
+            "type"
+          ],
+          "observation": "Walking crowd crosses street with legible MATZOS sign; later merchant holds CLEARANCE SALE and BANKRUPTCY SALE placards. Broad outlined hands, hats, curved legs and sign hierarchy. Ethnic/religious caricature is part of this historical film and is not an endorsed or reusable character template. Only observed signage/shape hierarchy is abstracted; no social stereotypes copied. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "640×480 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "90.00s",
+        "99.21s"
+      ],
+      "playback": "Native Chromium timeline 90.00–99.21s; wall9.26s; audio muted",
+      "source_file_md5": "26e25566ee632eb9b48416fefd35d8e3"
+    },
+    {
+      "record_id": "rubber-hose-animation-059",
+      "artifact_id": "rubber-hose-animation-059",
+      "source_url": "https://studiomdhr.com/press-kits/",
+      "media_url": "https://studiomdhr.com/site/wp-content/uploads/2025/09/Press_2017_MDHR_Cuphead_Release_Trailer.mp4",
+      "title": "Cuphead release trailer, original maker press-kit file",
+      "creator": "Studio MDHR",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Maker-published modern game trailer: colorful mermaid/airborne fish projectiles, then large expressive crescent-moon boss with huge mouth, curved nose, mechanical interior and small flying protagonists. Cel-outlined characters over mottled watercolor-like backgrounds, local color and detailed layers disprove compulsory monochrome, empty backgrounds or one drawing style. Actual sample18.60–27.77s; cuts/gameplay not a measured original1930s timing template. Source identifies hand drawing/watercolor techniques; no production process inferred from pixels alone. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1920×1080 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "18.60s",
+        "27.77s"
+      ],
+      "playback": "Native Chromium timeline 18.60–27.77s; wall9.21s; audio muted",
+      "source_file_md5": null
+    },
+    {
+      "record_id": "rubber-hose-animation-060",
+      "artifact_id": "rubber-hose-animation-060",
+      "source_url": "https://archive.org/details/minnie-the-moocher-1932-35mm-film-4-k-remaster",
+      "media_url": "https://archive.org/download/minnie-the-moocher-1932-35mm-film-4-k-remaster/Minnie%20The%20Moocher%20%281932%29%2035mm%20Film%204K%20Remaster.mp4",
+      "title": "Minnie the Moocher (1932), modern35mm transfer",
+      "creator": "Fleischer Studios",
+      "accessed_at": "2026-11-08",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "motion",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "First actual interval157.12–166.23s: Betty seated with handkerchief changes facial/arm pose, then reframes into close-up. Second interval250.00–259.19s: figures enter dark cave, hug/crouch in large pale-eye/face grouping, then vanish into dark except eyes. This is cave/face staging, NOT the walrus dance despite private playback-plan nickname. Thin rounded arms and compact forms coexist with restrained acting, detailed shaded rocks and held background. Calloway collaboration and dance/rotoscope history are source-supported, not claimed observed/heard in these muted intervals. Individually inspected the recorded first/last playback captures; actual native muted playback, not frame-extraction-only evidence. No whole-film narrative or frame-accurate cadence inferred."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "854×480 decoded source transfer;720px browser presentation",
+      "timestamps": [
+        "157.12s",
+        "166.23s",
+        "250.00s",
+        "253.03s",
+        "259.19s"
+      ],
+      "playback": "Native Chromium timeline 157.12–166.23s; wall9.16s; audio muted",
+      "source_file_md5": "73d72f105b704ccc41a30c8d40632da1"
+    }
+  ]
+}

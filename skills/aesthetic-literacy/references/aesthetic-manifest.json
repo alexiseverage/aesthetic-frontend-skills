@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 265,
+  "fullEntryCount": 266,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -2193,6 +2193,17 @@
         "riso-print",
         "riso aesthetic",
         "spot-color print"
+      ]
+    },
+    {
+      "slug": "rubber-hose-animation",
+      "label": "Rubber-Hose Animation",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "rubber hose cartoon style",
+        "rubberhose animation",
+        "rubber-limb cartoon graphics"
       ]
     },
     {

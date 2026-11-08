@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 265
+- Full entries: 266
 - Redirect entries: 1
 - Families: 8
 
@@ -158,6 +158,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `psychedelic` | Psychedelic | Psychedelia, Acid Aesthetic, Fillmore Poster Style, Trippy |
 | `punk-zine` | Punk Zine / DIY Aesthetic | Punk Design, Zine Aesthetic, Ransom Note Typography, DIY Design, Jamie Reid Style |
 | `rave-flyer` | Rave Flyer Aesthetic | rave aesthetic, rave poster, candy rave, 90s rave flyer |
+| `rubber-hose-animation` | Rubber-Hose Animation | rubber hose cartoon style, rubberhose animation, rubber-limb cartoon graphics |
 | `scandinavian-modern` | Scandinavian Modern | Nordic Modern, Danish Modern, Swedish Modern, Scandi Minimalism |
 | `shaker-design` | Shaker Design | Shaker furniture, Shaker style, United Society of Believers design |
 | `shin-hanga` | Shin-hanga | Shin Hanga, Japanese New Prints |
