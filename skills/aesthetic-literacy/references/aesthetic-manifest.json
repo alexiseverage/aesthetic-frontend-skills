@@ -1,9 +1,20 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 261,
+  "fullEntryCount": 262,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
+    {
+      "slug": "1970s-recipe-card-libraries",
+      "label": "1970s Recipe Card Libraries",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "seventies recipe-card libraries",
+        "1970s boxed recipe cards",
+        "1970s cooking-card libraries"
+      ]
+    },
     {
       "slug": "1990s-minimalism",
       "label": "1990s Minimalism",
