@@ -1,0 +1,994 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "record_id": "model-comp-cards-356",
+      "artifact_id": "model-comp-cards-356",
+      "source_url": "https://basicmodels.com.sg/model-comp-card/",
+      "media_url": "https://basicmodels.com.sg/wp-content/uploads/2019/09/Layla-Ong.jpg",
+      "title": "Layla Ong composite card",
+      "creator": "Basic Models; published2019 practitioner article",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large close portrait fills the left with brush-like name lettering, signature agency branding and small bilingual copy. The white right side places compact stats and a bold black agency heading above a varied editorial/magazine montage, with agency contact below. Color and monochrome photographs coexist; magazine mastheads belong to portfolio examples. Identity, selected range and representation data are the persistent structure.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0c58342d58c14d1d2f52f5d3601477fdd8e8f4174c9f33ab772c1a851f996284"
+    },
+    {
+      "record_id": "model-comp-cards-361",
+      "artifact_id": "model-comp-cards-361",
+      "source_url": "https://www.hktalents-models.com/compcards",
+      "media_url": "https://static.wixstatic.com/media/9a2d31_572ddf9cb991494f82b5fa77c2967082~mv2.jpg",
+      "title": "Cherry.Y complete comp card",
+      "creator": "HK Talents",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A monochrome portrait occupies a tall central column; four smaller portraits/outfit images form a two-by-two block at right. A narrow left rail holds a large bold agency mark, model name on gray, labeled measurements and contact details. White gutters separate the photographs. This strongly utilitarian side-rail layout contrasts the marker-lettered NEVS pack and black-backed Stage cards.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6c711fd4b7add777f3ad6f1d65c03c84937e8715f780b9b271574f1379b17762"
+    },
+    {
+      "record_id": "model-comp-cards-362",
+      "artifact_id": "model-comp-cards-362",
+      "source_url": "https://stage-models.com/juna-bauer/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/08/Juna-Bauer.pdf",
+      "title": "Juna Bauer comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large vertical portrait sits in a white left margin, with the name in large white sans-serif lettering across the lower photograph. The black right half groups two tall images above a wide city/car-window shot. A separate white name, large height number and tiny measurement line sit below the montage; agency mark and micro contact line close the lower edge. Portrait scale, picture range and compact casting data form separate tiers.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "10b0fd3b5a7dfa3a046ec530fe7c38c174e083309daacb59bca798d778c37e2d",
+      "resolution": "Complete single PDF page, rendered1600px wide; vector text and full photo arrangement inspected"
+    },
+    {
+      "record_id": "model-comp-cards-363",
+      "artifact_id": "model-comp-cards-363",
+      "source_url": "https://stage-models.com/karina-mazeichyk/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/08/Karina-Mazeichyk.pdf",
+      "title": "Karina Mazeichyk comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The left portrait is full bleed with a white baseline name. The right black panel holds a close-packed three-by-three editorial grid, including visible magazine mastheads inside some photographs, then a separate name/stat block and agency footer. Repetition of one helmet portrait connects front and back; that repeated photo is not a second card. Nine supporting pictures contradict a universal three-to-five-image rule.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0ceefd44d030d16362c50c6c1ba1a82ae495247f5059f35a50069f30eec85e70",
+      "resolution": "Complete single PDF page, rendered1600px wide; vector text and full photo arrangement inspected"
+    },
+    {
+      "record_id": "model-comp-cards-364",
+      "artifact_id": "model-comp-cards-364",
+      "source_url": "https://stage-models.com/antosia/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/10/Antosia.pdf",
+      "title": "Antosia comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large seated portrait has a broad white border and lower white name; the black right panel uses a two-by-two arrangement of editorial images. Some small pictures contain magazine cover lettering and speech balloons, which belong to the photographed portfolio work, not mandatory comp-card interface copy. White name, leading height number and fine measurement rows remain separate below.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3806dc4d3f1c9fbab0c981730be45f219c4eb82233ff14b096ca84227a7d654b",
+      "resolution": "Complete single PDF page, rendered1600px wide; vector text and full photo arrangement inspected"
+    },
+    {
+      "record_id": "model-comp-cards-365",
+      "artifact_id": "model-comp-cards-365",
+      "source_url": "https://stage-models.com/yasmin-perdum/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/08/Yasmin-Perdum.pdf",
+      "title": "Yasmin Perdum comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large close portrait fills the left half with white name lettering at its base. The black right panel mixes wider and narrower editorials, a magazine cover, monochrome full/half-body poses and a small expression contact sheet. Despite many internal pictures, this is one composed model card. White identity/statistics and a lower agency mark preserve hierarchy around the photographic range.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d36d3d7a50a64f53da32f35174381ee15d6de58725892b1b248f61d14f5b340f",
+      "resolution": "Complete single PDF page, rendered1600px wide; vector text and full photo arrangement inspected"
+    },
+    {
+      "record_id": "model-comp-cards-366",
+      "artifact_id": "model-comp-cards-366",
+      "source_url": "https://stage-models.com/sofiya-lanh/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/10/Sofiya-Lanh.pdf",
+      "title": "Sofiya Lanh comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A white-bordered close portrait at left carries a large lower white name; a black right panel holds four supporting photographs in a two-by-two grid, contrasting plain studio, bold red, bright blue street styling and a detail portrait. Separate white name/stat lines beneath the grid retain an information zone outside the pictures.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "739a0fdbe7da173fa97c13e9e2ddcce490820fb1202b324b5222b1c1d6faff62"
+    },
+    {
+      "record_id": "model-comp-cards-367",
+      "artifact_id": "model-comp-cards-367",
+      "source_url": "https://stage-models.com/alexandra-molchanova/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/10/Alexandra-Molchanova.pdf",
+      "title": "Alexandra Molchanova comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A monochrome close portrait fills the white-edged left field, while nine smaller color/monochrome fashion photographs form a three-by-three right grid on black. The large white model name and leading height number sit below the montage. Some source stat labels appear transposed; the research treats them as typography/layout evidence rather than corrected personal facts.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c1e00c78ea12f9aa69e1cf3bd87090146860e1696a44f61b35d6e02ab380a9f3"
+    },
+    {
+      "record_id": "model-comp-cards-368",
+      "artifact_id": "model-comp-cards-368",
+      "source_url": "https://stage-models.com/naya-vereshchak/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/09/Naya-Vereshchak.pdf",
+      "title": "Naya Vereshchak comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large color beauty/editorial portrait includes its original campaign lettering and the added model name. The right black panel holds a three-by-three mixture of portraits, studio outfits, location images and a magazine page. Repeating a photo in the montage connects the card sides; the complete design counts once, not once per embedded editorial.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5d0a5e8b85fb19c049ef0c355e52b94a58e411e9b12a53832257a7fa5da93517"
+    },
+    {
+      "record_id": "model-comp-cards-369",
+      "artifact_id": "model-comp-cards-369",
+      "source_url": "https://stage-models.com/jen-li/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/06/Jen-Li.pdf",
+      "title": "Jen Li comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A white-framed plain studio portrait at left pairs with four smaller pictures at right. Two matching studio portraits sit above two location/campaign images, all on a black field. The model name appears separately under each side; white compact stats and a small agency footer complete the sheet. A sparse four-image back remains sufficient alongside denser agency variants.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "4b45a79d7aaa202e03c719bc219f3133aa8615b280b3580dc5b068651f17eb03"
+    },
+    {
+      "record_id": "model-comp-cards-370",
+      "artifact_id": "model-comp-cards-370",
+      "source_url": "https://stage-models.com/polinapostupova/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/10/Polina-Postupova-1.pdf",
+      "title": "Polinapostupova comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A monochrome waist-up fashion pose on the left has large centered white identity lettering; a nine-picture color/monochrome grid occupies the right black half. Name and statistics remain below it. Magazine headings inside selected editorials are evidence of published work, not an instruction to decorate every card with borrowed mastheads; small stat labels contain a source imperfection.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d07ff79cd33d1e4e44be25c99f698cc9d3c775315d9c06041cd229ba89a03cc1"
+    },
+    {
+      "record_id": "model-comp-cards-371",
+      "artifact_id": "model-comp-cards-371",
+      "source_url": "https://stage-models.com/anna-tere/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/04/Anna-Tere.pdf",
+      "title": "Anna Tere comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large seated outfit photograph fills the left, with a centered white name over the clothing. Four tall supporting pictures form a two-by-two arrangement on black, mixing the same main shoot with a different look. The repeated left image is part of one card. Separate white identity/stat lines and extensive black breathing room balance the photographic region.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "8353e59ce2ff1042f1da9501422240808e635529e97288175c03aafa94a31756"
+    },
+    {
+      "record_id": "model-comp-cards-372",
+      "artifact_id": "model-comp-cards-372",
+      "source_url": "https://stage-models.com/nia/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/10/Nia.pdf",
+      "title": "Nia comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A close plain-studio portrait at left is set within a broad white margin, with a lower white name. Four supporting images at right remain predominantly white tops, jeans and neutral interiors rather than glossy editorial variety. The black backing and compact white data tier organize the card despite its simpler photographic selection.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0eb3635c30588e50d73279d117393f14fdd2c4ca5c396ea667cc36045f6d91e3"
+    },
+    {
+      "record_id": "model-comp-cards-373",
+      "artifact_id": "model-comp-cards-373",
+      "source_url": "https://stage-models.com/alex-sintova/",
+      "media_url": "https://stage-models.com/wp/wp-content/uploads/2026/07/Alex-Sintsova.pdf",
+      "title": "Alex Sintova comp card",
+      "creator": "Stage Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "An editorial cover image dominates the left, retaining a large magazine masthead, added white model name and small image-credit line below. Nine supporting pictures on black include runway, campaign and studio views. A separate white name/stat tier remains consistent. The source provides some editorial credits, but that does not grant reuse rights or make magazine identity part of the agency interface.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "4c3c989aef31065d7cb3030189de233735fa706468c414db67ed04db515863cd"
+    },
+    {
+      "record_id": "model-comp-cards-437",
+      "artifact_id": "model-comp-cards-437",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=2",
+      "title": "AIHUI, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A close portrait fills the left field; a full-length fashion editorial fills the right. Black marker-like name and a vertical show-pack slogan interrupt a pale translucent band. A black contact strip forms anLbetween the pictures and lower edge, with a circular cream agency seal at the top. A white handwritten-looking stats block overlays the lower right photograph. Two photos, rather than a miniature grid, carry the card.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "266afc3daf3f96603a640030e0aabc82f7342edc881cb1b4965ad77f73b18ff8",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide; also inspected in a1600px PDF-page render",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-438",
+      "artifact_id": "model-comp-cards-438",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=3",
+      "title": "AKUAC, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large close portrait on the left contrasts a vivid turquoise full-length editorial on the right. A pale name band, cream round agency seal, vertical marker-like slogan and blackL-shaped contact strip repeat the pack grammar, but the stronger photograph color dominates this individual composition. White outlined handwritten-looking measurements sit over the editorial; type is not universally neutral or monochrome.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ca0aa0035cb4acb46990937e655c8aaef6a3cc8ad18b77fc1fad433ad92e849d",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide; also inspected in a1600px PDF-page render",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-481",
+      "artifact_id": "model-comp-cards-481",
+      "source_url": "https://www.bellaagency.com/ny/lifestyle/men/1926980",
+      "media_url": "https://www.bellaagency.com/print/ny/lifestyle/men/1926980/compcard",
+      "title": "Adam Mamawala commercial comp card",
+      "creator": "Bella Agency",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large color outdoor headshot at left is paired with two indoor portraits above one wide travel/lifestyle advertisement at right. A white lower band places the model name and one compact measurement line under the portrait, and a large agency identity/contact block under the montage. Broad white gutters and plain black sans-serif labeling preserve a practical introduction.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "37a7bb299609387621ad3a77aaf038dd61e83360ebeee4eed44ebbc0bed31759"
+    },
+    {
+      "record_id": "model-comp-cards-482",
+      "artifact_id": "model-comp-cards-482",
+      "source_url": "https://www.bellaagency.com/ny/lifestyle/men/2084278",
+      "media_url": "https://www.bellaagency.com/print/ny/lifestyle/men/2084278/compcard",
+      "title": "Adam Gale commercial comp card",
+      "creator": "Bella Agency",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large smiling portrait at left contrasts two darker studio portraits and two warm-background motion/coordination images at right. The model name and single measurement line sit in an open white lower band, with widely spaced agency lettering/contact opposite. This five-photo composition communicates casting range without requiring fashion runway imagery.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "726a802297a8428e2fd0f34f3184250bd5bd79c7a6c7cfde820bc5891bcfec14"
+    },
+    {
+      "record_id": "model-comp-cards-483",
+      "artifact_id": "model-comp-cards-483",
+      "source_url": "https://www.bellaagency.com/ny/lifestyle/men/496019",
+      "media_url": "https://www.bellaagency.com/print/ny/lifestyle/men/496019/compcard",
+      "title": "Alex Emanuel commercial comp card",
+      "creator": "Bella Agency",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large close headshot is paired with two smaller close portraits above a wide monochrome profile at right. Plain white ground, black sans-serif name, short labeled stats line and agency contact strip keep the image grid dominant. Different expressions and treatments supply range even without a full-length outfit photograph; body-length views are common rather than universal.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "68b97135a0797a9e016be8a2bcb1c86fc4b6a6c11a154d4f83cfb6c7270125b9"
+    },
+    {
+      "record_id": "model-comp-cards-484",
+      "artifact_id": "model-comp-cards-484",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=4",
+      "title": "AMELIA W, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A red INTRODUCING line adds a second hierarchy above the large black marker-like name. A color close portrait at left contrasts a monochrome standing portrait at right; the cream round agency seal, vertical slogan and blackL-shaped contact strip retain the show-pack template. The stats are black against the pale right image. Red is a selective introduction accent, not an all-card palette.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "08a56db7777dacd0e3fdc2b5616b8fd98e183216009b7765d25bb1f98ff0157e",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-485",
+      "artifact_id": "model-comp-cards-485",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=5",
+      "title": "AMRIT, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two color photographs contrast a close portrait in a plain top with a full-length outfit against a draped light background. Broad unframed photo fields, a pale name band and cream round agency seal dominate; handwritten-looking black stats share the light right image. The baseline/vertical black contact structure is stable, while image styling supplies the particular color and material.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b1f39e6174eb9d57e9ad97ab605b542244655a9079cc096eed6d6497f5e2b1b3",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-486",
+      "artifact_id": "model-comp-cards-486",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=6",
+      "title": "BETH, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The left close portrait has a saturated red garment; the right uses a plain white shirt and dark trousers on a pale set. Black marker-like identity and a cream round seal sit above the left image; outlined white stats cross a darker section of the right image. The composition demonstrates a photo-led color accent without changing the pack architecture.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "09aad3b1ffaedde465e1a6dca276c81a9bad75b33a126ea45ac937105fe007fc",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-487",
+      "artifact_id": "model-comp-cards-487",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=7",
+      "title": "BLAKE, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A restrained close portrait on the left pairs with a full-length outfit against a pale blue studio background. White/red jacket details supply color on the right; handwritten-looking outlined white measurements overlay the bottom. Black contact bands, vertical slogan and large top name separate identity, representation and image range.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1ba9ebfe48e786708ed7ab99a2c3e03a06076175231b3005908630b9f5fff100",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-488",
+      "artifact_id": "model-comp-cards-488",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=8",
+      "title": "CHIARA, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Red INTRODUCING accents the large black hand-lettered name above a close portrait. A full-length black outfit on a white right-hand set leaves room for a black measurement block. The shared cream seal and black contact strip keep practical agency details visible around two photographs; a supporting grid is not necessary.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9d506d787baf1ca89eb0627060da854c8d0fa2568522d2bcfff7d316d392758e",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-489",
+      "artifact_id": "model-comp-cards-489",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=9",
+      "title": "DANNI, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The left image is a close portrait in a reflective patterned garment; the right is a full-length color studio image on warm tan. Light blue clothing dominates the right picture, while the top name remains black on a pale strip. Measurements sit over the photograph and contact information occupies the black lower/central frame, demonstrating a warm photographic palette within the same printed grammar.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fb3c99b2c56ec0aeb83a75d687d040258e3ebed6215493ac615465e7781211ad",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-490",
+      "artifact_id": "model-comp-cards-490",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=10",
+      "title": "ELENA, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A close portrait with an arm above the head contrasts a standing outdoor picture with an architectural railing and dark coat. White outlined measurements cross a busy, high-contrast lower image region, creating an observed legibility compromise rather than a recommended accessible overlay. Marker-like black identity, cream seal and black contact borders unify the card.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "4cc5d4eda5f44c83244d89442c25658a4ab3eb335fece000c20fb67c59f6a2d1",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-491",
+      "artifact_id": "model-comp-cards-491",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=11",
+      "title": "ELYNNE, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The left jewelry portrait is softly lit and close; the right shows an asymmetrical dark dress and boots in a pale room. A translucent top name band and round cream seal sit above the portrait, while a black handwritten-looking stats block uses open pale image space. Two-photo comparison, type overprint and practical black footer remain the key hierarchy.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "102f58f266559c195ecc3024700e0b1ae5217f278cb7b5b581a4468e1895b202",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-492",
+      "artifact_id": "model-comp-cards-492",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=12",
+      "title": "GERTRUDA, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A close portrait with a green feathered garment at left contrasts a full-length dark jacket and light trousers against saturated red at right. Outlined white measurements sit against red, while black marker-like identity and cream agency seal retain the template. Strong red/green photograph contrast is a variant rather than a compulsory comp-card color system.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e2078c5fa45e2a9d974409332e5bc0274ce76569fa65b755089b0538f790bbfa",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-493",
+      "artifact_id": "model-comp-cards-493",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=13",
+      "title": "HEBE, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A close portrait with large looping earrings and pale blue clothing at left contrasts a full-length street image in a belted dark coat. White outlined measurements overlay the street picture; the narrow black center and bottom bands carry representation contacts. The name/seal hierarchy stays stable across studio and location imagery.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "8bdc42a65d6abdbab065f07a5691b243b731c5bf3022d908e1bf71aeeda15f67",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    },
+    {
+      "record_id": "model-comp-cards-494",
+      "artifact_id": "model-comp-cards-494",
+      "source_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf",
+      "media_url": "https://www.nevsmodels.co.uk/pdfs/NEVS%20FW23%20SHOW%20PACK.pdf#page=14",
+      "title": "IFER, FW23 show-pack comp card",
+      "creator": "NEVS Models; individual photography credits unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A monochrome close portrait at left pairs with a color standing portrait in a plain dark top and jeans at right. A large black marker-like name and cream round seal sit on the pale top strip. White measurements cross a light wall and clothing, illustrating a weak contrast edge case; practical data should remain readable in a modern translation.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6eb6bf72cb0eb433742afaec7d840a442cbeb53738054aa1b3dda30f64b70689",
+      "collection_sha256": "82531f005b92bdcbdb9c6a59eb9690c422c13339e1f4ed2c106136589b61db9c",
+      "hash_subject": "Complete native embedded JPEG of this independently identified card, not the whole collection PDF",
+      "resolution": "Complete native embedded JPEG1400px wide",
+      "extracted_from_downloaded_collection": true
+    }
+  ]
+}

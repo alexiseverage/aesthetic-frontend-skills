@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 258
+- Full entries: 259
 - Redirect entries: 1
 - Families: 8
 
@@ -299,6 +299,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `lomography` | Lomography | Lomographic photography |
 | `lotto` | Lotto Scratcher Commerce | scratch-off, scratch ticket, instant-win ticket, state lottery scratcher |
 | `mexican-rotulismo` | Mexican Rotulismo | Mexican Rótulos, rotulismo mexicano, Mexican rotulos, rótulo vernacular, hand-painted Mexican signs |
+| `model-comp-cards` | Model Comp Cards | model composite cards, model sedcards, model z-cards, model zed cards |
 | `nagel-era-fashion-illustration` | Nagel-era Fashion Illustration | Nagel illustration, Nagel poster aesthetic, 1980s planar fashion illustration |
 | `pakistani-truck-art` | Pakistani Truck Art | Pakistan Truck Art, Pakistani Truck Painting |
 | `plant-based-challenger-graphics` | Plant-Based Challenger Graphics | Plant-based challenger branding, Vegan challenger graphics |

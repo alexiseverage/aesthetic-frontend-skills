@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 258,
+  "fullEntryCount": 259,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1658,6 +1658,18 @@
       "aliases": [
         "Mingei movement",
         "Japanese folk craft movement"
+      ]
+    },
+    {
+      "slug": "model-comp-cards",
+      "label": "Model Comp Cards",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "model composite cards",
+        "model sedcards",
+        "model z-cards",
+        "model zed cards"
       ]
     },
     {
