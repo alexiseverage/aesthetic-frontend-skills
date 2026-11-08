@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 262
+- Full entries: 263
 - Redirect entries: 1
 - Families: 8
 
@@ -267,6 +267,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `spooky-science-lab` | Spooky Science Lab | Halloween science lab, spooky STEM |
 | `sports-scorebug` | Sports Scorebug | score bug, broadcast score overlay, sports broadcast graphics |
 | `teletext` | Teletext | Broadcast teletext, Teletext design, Ceefax-style teletext |
+| `wireframe-modeling-workbench` | Wireframe Modeling Workbench | 3D modeling workbench aesthetic, mesh editor interface aesthetic, wireframe modeling UI |
 
 ## vernacular-commercial
 

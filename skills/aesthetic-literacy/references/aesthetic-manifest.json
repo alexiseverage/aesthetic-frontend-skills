@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 262,
+  "fullEntryCount": 263,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -2778,6 +2778,17 @@
       "aliases": [
         "Whole Earth editorial vernacular",
         "Whole Earth tool-catalog design"
+      ]
+    },
+    {
+      "slug": "wireframe-modeling-workbench",
+      "label": "Wireframe Modeling Workbench",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "3D modeling workbench aesthetic",
+        "mesh editor interface aesthetic",
+        "wireframe modeling UI"
       ]
     },
     {

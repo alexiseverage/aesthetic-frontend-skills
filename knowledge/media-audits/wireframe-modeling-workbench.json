@@ -1,0 +1,1189 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "record_id": "wireframe-modeling-workbench-002",
+      "artifact_id": "wireframe-modeling-workbench-002",
+      "source_url": "https://docs.blender.org/manual/en/latest/interface/window_system/introduction.html",
+      "media_url": "https://docs.blender.org/manual/en/latest/_images/interface_window-system_introduction_default-startup.webp",
+      "title": "Blender default startup workbench",
+      "creator": "Blender Foundation manual; version5.0.0alpha shown",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Large full application screenshot, gray editor chrome and grid, red/green axes, orange selected-cube outline, black camera/light guides; right scene tree and numeric transform panel, top workspace tabs, left tool rail and bottom timeline. This startup state is mostly solid shaded, not evidence of an all-wire mesh or actual navigation timing."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5a488dc3445906bb698d03d09d80500825a38adc5108c3785901941c42ef4a36",
+      "resolution": "1440×900 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-082",
+      "artifact_id": "wireframe-modeling-workbench-082",
+      "source_url": "https://docs.mcneel.com/rhino/8mac/help/en-us/user_interface/rhino_window.htm",
+      "media_url": "https://docs.mcneel.com/rhino/8mac/help/en-us/image/localization/rhinowindow_mac.png",
+      "title": "Rhino8Mac annotated workbench",
+      "creator": "Robert McNeel & Associates documentation",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1248×830 application diagram: four gray grid viewports with named titles, left tool/Osnap sidebar, top command/toolbars, right viewport properties and numeric camera fields, bottom snap/status strip. Green numbers/brackets are teaching callouts, not native app styling. Empty-model state supports architecture/type only, not visible wire topology."
+        },
+        {
+          "dimensions": [
+            "shape",
+            "cultural-markers"
+          ],
+          "observation": "McNeel Windows guide page43 and native126 corroborate actual surface wire/isocurve displays; do not conflate them with polygon mesh edges. Mac8 empty startup image itself supports architecture/type, not mesh geometry."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a3bdefcb687d01c2e769981314c50c93c979a8756383dce715998c97800325a4",
+      "additional_media": [
+        {
+          "source_url": "https://docs.mcneel.com/rhino/8/training-command/en-us/usersguide/Rhino%20User%27s%20Guide%20for%20Windows.pdf",
+          "pages": [
+            43
+          ],
+          "inspection": "full-artifact",
+          "observation": "Complete native page43 rendered2200px and viewed: black surface boundary and crossing isocurves on pale grid; text explicitly states isocurves are visual aids and do not define the surface. Same workbench corroboration, not separate count."
+        }
+      ],
+      "resolution": "1248×830 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-150",
+      "artifact_id": "wireframe-modeling-workbench-150",
+      "source_url": "https://www.anim8or.com/learn/manual/1_introduction.html",
+      "media_url": "https://www.anim8or.com/learn/manual/images/screen_object_edit.png",
+      "title": "Anim8or object editor, Shark",
+      "creator": "R. Steven Glanville, Anim8or manual",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full800×600 screenshot: four panes Front/Right/Top/Perspective; top pane grid gray, orange view titles and bottom object status. Three smooth shark views and a dense black wire top view, blue transform arrow; left vertical tool/mode labels and spherical material swatches. Mixed rendering states preserve a clear technical editing context, not a finished CGI scene."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "898c4570cb3cb5460e9c1a213ab4d5d5cda7ee2b18118529c01410dd662e3ff2",
+      "resolution": "800×600 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-200",
+      "artifact_id": "wireframe-modeling-workbench-200",
+      "source_url": "https://solvespace.com/index.pl",
+      "media_url": "https://solvespace.com/pics/front-page-pic.png",
+      "title": "SolveSpace homepage construction view",
+      "creator": "SolveSpace project",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete native548×410 construction view: black viewport, pale model edges on gray part, magenta dimension arrows/diameters and highlighted numeric-entry field; small red/green/blue axis triad. Although no full app chrome is shown, complete original conveys a legible actual constraint-editing view. Qualifies one app construction artifact, not a photographic render or printed engineering drawing."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "89ffb980fa2c1f2caa153b76f9696d68eda6c8271b0689f6aa26b0d2aead8831",
+      "resolution": "548×410 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-284",
+      "artifact_id": "wireframe-modeling-workbench-284",
+      "source_url": "https://www.sidefx.com/docs/houdini/basics/panes.html",
+      "media_url": "https://www.sidefx.com/docs/houdini/images/ui/panes.jpg",
+      "title": "Houdini pane documentation: empty object context",
+      "creator": "SideFX documentation",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×876 app screenshot: dominant perspective grid on charcoal, red/green/blue axes, left viewport tools, stacked right parameter/network panes, top creation shelves and bottom time/playback strip. No object/operator selected. Useful architecture and dark-chrome state; no wire mesh or actual animation timing established by this view."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "dcd4d99d0c3de767eb0311be2858b060ad31e88c3cd86bc1ae06e17ea735d604",
+      "resolution": "1280×876 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-296",
+      "artifact_id": "wireframe-modeling-workbench-296",
+      "source_url": "https://aoi.sourceforge.net/screenshots.html",
+      "media_url": "https://aoi.sourceforge.net/scrshots/fullsize/main.jpg",
+      "title": "Art of Illusion main window, cake project",
+      "creator": "Art of Illusion developers; scene artist not individually credited",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full819×598 linked original: four Front/Left/Top/Camera1 panes, dense black cake/candle wireframe in Front, three shaded/textured views, blue active camera title, right long object list, compact left primitive/tools rail, bottom hints/time. Light lavender/gray controls and white viewport variant. Fullsource supersedes thumbnail173; counts one underlying app with mesh editor297."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "cc0c9e124484ee37f5ad72b09c36f4267d29f9937ed1c6f3bf8c34d27dd70906",
+      "resolution": "819×598 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-319",
+      "artifact_id": "wireframe-modeling-workbench-319",
+      "source_url": "https://download.autodesk.com/global/docs/softimage2012/en_us/userguide/files/interface_TheSOFTIMAGEXSIInterface.htm",
+      "media_url": "https://download.autodesk.com/global/docs/softimage2012/en_us/userguide/images/GUID-AE42C994-C9C4-47AB-B3B8-FA47025A3AD9-low.png",
+      "title": "Softimage2012 elephant modeling interface",
+      "creator": "Autodesk Softimage2012 user guide",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete822×629 native overview: four Top/Camera/Front/Right viewports show an elephant shaded, textured and black wireframe with colored rig handles. Left textual modeling category buttons, right transform matrix and selection panels, bottomtimeline/player/status. Dense gray beige chrome and small sans serif text. Orange brackets and blue A–G callouts belong to teaching overlay, not UI. Black wire mesh and colored manipulation controls are visible, not inferred from a render."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c31ca52ad24a1b58bdf4c9c057c8712f5db2751c4cff304139e1d77641c0d4dd",
+      "resolution": "822×629 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-390",
+      "artifact_id": "wireframe-modeling-workbench-390",
+      "source_url": "https://moi3d.com/",
+      "media_url": "https://moi3d.com/screenshots/NPRobot.png",
+      "title": "MoI NPRobot workbench",
+      "creator": "Moment of Inspiration official site; robot artist not identified in inspected source",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1513×952 source-linked screenshot: pale blue-gray single viewport with black surface/trim edges over blue/silver robot, very fine floor grid, right grouped curve/solid/edit/construct/transform tools with icon+word labels, bottom projection tabs, numeric coordinates and yellow snap-state buttons. This is NURBS/surface-edge display, not proof that every visible curve is a polygon topology edge."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fc4527927bda0f2f101e0df3d32d64c237e68da7cf71c42223bacbd2ac0265ed",
+      "resolution": "1513×952 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-393",
+      "artifact_id": "wireframe-modeling-workbench-393",
+      "source_url": "https://ayam.sourceforge.net/",
+      "media_url": "https://ayam.sourceforge.net/ayam-singlewindow-win32-knot.png",
+      "title": "Ayam single-window Windows knot",
+      "creator": "Ayam project/Bjoern Thiel; scene author not individually credited",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Native640×480 original: pale gray classic beveled toolbars, three model views plus object/parameter panes; upper-right white wire knot, lower-right close smooth surface over floor grid, left smooth overview. Dense literal parameter table includes Width/Height/Knot values and Apply/Reset, bottom command console. Counts one app with OS/layout variants394/395."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "39b4d145b6d4c495af585c909fe333b8b353812b1be7e81ca79233d68c6ff719",
+      "resolution": "640×480 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-397",
+      "artifact_id": "wireframe-modeling-workbench-397",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Wings%203D.png",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Wings_3D.png",
+      "title": "Wings3D ange.wings polygon workbench",
+      "creator": "Wings3D; model attributed Meithal, screenshot uploaded Tavernier on French Wikipedia, mirrored Commons",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete 1288×755 application image: gray flat viewport, a dense triangulated humanoid with black edges over gray faces, red selected edges, blue light guides and color-coded axes. Edge operations contextual menu is open at lower left; separate Outliner, Palette and Geometry Graph float at right. Small sans serif menu and status text and hard thin borders rather than decorative type. Different from mandatory fixed four-pane layouts."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a0b237562b2bc28bb1a4d85b641e2ca0d2b1e8727f91d325072002f1fc890f1f",
+      "resolution": "1288×755 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-398",
+      "artifact_id": "wireframe-modeling-workbench-398",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Dust3d-example.png",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Dust3d-example.png",
+      "title": "Dust3D connected-section extrusion workbench",
+      "creator": "Dust3D; screenshot own work by Commons contributor 읏 dated2020-08-09",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1607×845 original shows large dark canvas with orange and green connected circular cross sections, square control nodes and a resulting low-poly shaded form with black edges. Left large vertical tools, right Parts/Materials/Rig/Poses/Motions/Scripts tabs and Root preview. This procedural circle/cage editing variant is not a conventional all-polygon four-pane setup; low contrast thin wires in source are not an accessibility recommendation."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "862b7e278f4147e421b9667c67922a8a542087a72fefe18454b03e63076413ef",
+      "resolution": "1607×845 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-446",
+      "artifact_id": "wireframe-modeling-workbench-446",
+      "source_url": "https://help.autodesk.com/cloudhelp/2023/ENU/Maya-Basics/files/GUID-F4FCE554-1FA5-447A-8835-63EB43D2690B.htm",
+      "media_url": "https://help.autodesk.com/cloudhelp/2023/ENU/Maya-Basics/images/GUID-48F006ED-B5CD-4D18-AA3B-9C0D07B4E825.png",
+      "title": "Maya numbered interface overview",
+      "creator": "Autodesk Maya2023 documentation",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete official overview shows four projections, dark menus/shelves, pale numeric channel box text at right and time range below. Upper-left view explicitly exposes blue wire outlines of spheres, toy train and camera; other views shaded/textured. Blue numbered bubbles are explanatory overlays, not application controls. Legible enough for panel arrangement and selection/spatial grammar, not font identification."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a35c93927959ce393ae619223bb273d2f636830ff4eae80b2217e31c06745dfc",
+      "resolution": "819×486 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-474",
+      "artifact_id": "wireframe-modeling-workbench-474",
+      "source_url": "https://docs.daz3d.com/public/software/hexagon/2/referenceguide/general_principles/start",
+      "media_url": "https://docs.daz3d.com/_media/public/software/hexagon/2/referenceguide/general_principles/organization_of_the_workspace.jpg",
+      "title": "Hexagon dinosaur polygon-editing workbench",
+      "creator": "DAZ3D Hexagon2 reference guide",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete 1147×814 workbench: central dinosaur with visible black quadrilateral loops over pale shaded surface, transform arrows RGB, gray-blue perspective grid. Left materials/shading domains, right numeric XYZ position/rotation/size, tree and Dynamic Geometry; broad top tool shelves and small lower projection buttons. Open contextual menu includes edge loop/ring and symmetry. Blue selection and bevels subordinate to geometry."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b4cadc7a482769134bf8fd1dd2c69cb6dfa8cff1117b216b5c37f3c065309cd5",
+      "resolution": "1147×814 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-557",
+      "artifact_id": "wireframe-modeling-workbench-557",
+      "source_url": "https://www.chumba.ch/chumbalum-soft/ms3d/screenshots.html",
+      "media_url": "https://www.chumba.ch/chumbalum-soft/ms3d/ms3d181b_ss3.jpg",
+      "title": "MilkShape3D1.8.1b UV and model workbench",
+      "creator": "chUmbaLum sOft official screenshot, software by Mete Ciragan",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete original1078×750 desktop screenshot: light gray four-view workspace, red selected model vertices, right Model/Groups/Materials/Joints tabs and group list; foreground Texture Coordinate Editor shows white triangulated UV edges with red vertices over texture, dropdowns and precise controls. Timeline/status at bottom. Desktop wallpaper outside application is not an aesthetic non-negotiable."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "88e9a0077cf09a701be9f4874af983b9cf3440d7bd4864dd169a5236f79e1fdf",
+      "resolution": "1078×750 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-584",
+      "artifact_id": "wireframe-modeling-workbench-584",
+      "source_url": "https://www.blockbench.net/",
+      "media_url": "https://www.blockbench.net/_nuxt/front_page_app.-eXyXeFa.png",
+      "title": "Blockbench tractor editing workbench",
+      "creator": "JannisX11 Blockbench official site; model artist not identified on source",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Large complete app screenshot: charcoal chrome with pale small sans text, blue selected cuboid edges and circular rotation gizmo on pixel-textured tractor/log crane, gray ground grid/RGB triad. Left UV atlas/textures, right XYZ position/size/pivot/rotation numeric rows and hierarchical outliner. Cube-based low-poly editing variant, not evidence that every workbench requires four views or photoreal shading. Bright red/green tractor colors are model textures, not UI palette."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "4ab0c64a8b6c7273c81816c17da66f67c5e8579c906dbf199ecbb4fd1c7082d4",
+      "resolution": "2396×1386 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-597",
+      "artifact_id": "wireframe-modeling-workbench-597",
+      "source_url": "https://commons.wikimedia.org/wiki/File:K3d%20software%20screenshot.png",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/K3d_software_screenshot.png",
+      "title": "K3D logo modeling workbench",
+      "creator": "K3D community,2009 screenshot from original project, Commons uploader Y",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete1102×767 original Windows workbench: perspective floor grid and RGB axes behind tubular K-3D geometry, visible black segment/contour edges over gray smooth shading. Left stacked Node List, Node History, Node Properties with input/output/material rows and native numeric/check controls; top primitive toolbar. Cream OS chrome is distinct from charcoal viewport conventions. No timing or actual checkbox behavior measured from still."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a01c9dd530578f8422d8cf0abf2f0ab026a8481510c789e860341297f1d523fa",
+      "resolution": "1102×767 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-636",
+      "artifact_id": "wireframe-modeling-workbench-636",
+      "source_url": "https://www.zmodeler3.com/",
+      "media_url": "https://www.zmodeler3.com/shared/images/2024/202405_buffalo2_ghosthighlight_01.jpg",
+      "title": "ZModeler3 ghost highlight vehicle workbench",
+      "creator": "ZModeler3 official developer news,2024 screenshot",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1226×739 source-linked viewport original, top Perspective/Split/Tripod/Image/Color/Grid/Pivot and navigation controls, lower-left axis triad. Textured car exposes fine triangular black/red/blue mesh edges, yellow ghost outline around hood/doors and selected red/blue parts over a nearly black brown backdrop. A single viewport rather than mandatory four-pane architecture; no timing inferred from still. This is a developer-provided car asset, not original showcase artwork."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ef3e6cc1c7e46665d45ff4fd3da1bfd4c13241034c044d958265cf9f17123fce",
+      "resolution": "1226×739 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-666",
+      "artifact_id": "wireframe-modeling-workbench-666",
+      "source_url": "https://www.gcad3d.org/",
+      "media_url": "https://www.gcad3d.org/Images/gCad31.jpg",
+      "title": "gCAD3D control point surface workspace",
+      "creator": "gCAD3D official developer gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete454×316 original app image; top controls and left Points/Lines/Curves/Surfaces tree legible at native size. Yellow-green curved surface with dense red control points/isolines on neutral gray, small lower console and native menus. A point/surface CAD variant, not triangulation or animated artwork. Native small image supports broad geometry and layout only, no texture/font measurements."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7bf2cb646a6cb54dd0c94e8f761073d657524f84855411571c694dd29084514b",
+      "resolution": "454×316 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-697",
+      "artifact_id": "wireframe-modeling-workbench-697",
+      "source_url": "https://www.inivis.com/ac3d/download/ac3dman68.pdf",
+      "media_url": "https://www.inivis.com/ac3d/download/ac3dman68.pdf#page=2",
+      "title": "AC3D6.8 motorcycle workbench in official manual",
+      "creator": "Inivis Ltd2011 manual",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete native manual page2 viewed at2000px, corroborated by page4. Embedded complete app view is modest resolution but legible for thin floor grids, four projections, left primitive/move/size tools and bottom material swatches; orange motorcycle shows black polygon loops over shaded faces in orthographic views alongside shaded perspective. No microtexture/font identity inferred. Pale cream native chrome contradicts a mandatory dark skin. Page4 explains left control panel, top toolbar, bottom info and Front/Left/Top/3D layout; same app not extra artifacts."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "bf334844c1669e6707fed856c678edb0c9061ebedf174a7060a0134556a155ed",
+      "states": [
+        "Complete PDF page2 rendered at2000–2200px; actual full page inspected"
+      ],
+      "resolution": "1414×2000 complete PDF page render"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-698",
+      "artifact_id": "wireframe-modeling-workbench-698",
+      "source_url": "https://catalogimages.wiley.com/images/db/pdf/9780470179840.excerpt.pdf",
+      "media_url": "https://catalogimages.wiley.com/images/db/pdf/9780470179840.excerpt.pdf#page=2",
+      "title": "3dsMax2008 car modeling workbench in publisher excerpt",
+      "creator": "Wiley publisher excerpt Introduction to3dsMax",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete native publisher page2 rendered at2000px. Car geometry appears in four views: shaded, cyan/green wireframe and edged shading on gray gradients/grids. Right command panel and lower timeline/numeric transforms; toolbar above. Black dotted leaders/large callout text are instructional overlay. Small screenshot supports geometry/arrangement, not exact type/spacing measurements. Entire original page inspected."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6b7cc33746e7719c6abe65890489a8124366181bb90f11f91f0685dc6638996a",
+      "states": [
+        "Complete PDF page2 rendered at2000–2200px; actual full page inspected"
+      ],
+      "resolution": "1600×2000 complete PDF page render"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-699",
+      "artifact_id": "wireframe-modeling-workbench-699",
+      "source_url": "https://www.cs.princeton.edu/courses/archive/fall02/frs107/lw7manual.pdf",
+      "media_url": "https://www.cs.princeton.edu/courses/archive/fall02/frs107/lw7manual.pdf#page=612",
+      "title": "LightWave7 Modeler interface in NewTek manual",
+      "creator": "NewTek LightWave7 manual, Princeton course mirror",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete native manual page612 viewed at2000px plus page615. Four gray grid viewports share a cow mesh: white vertex/edge orthographic views and shaded perspective. Left text buttons grouped under primitives/elements, top command tabs/layers and lower selection/info/edit modes. Black caption leaders are manual overlay. Grayscale PDF cannot establish original color. Page615 resized-panel variant grouped with same workbench, not extra count."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e77dba9bd87defb7235711147e0916c77addde47395d851280b2a5a5e635cc3c",
+      "states": [
+        "Complete PDF page612 rendered at2000–2200px; actual full page inspected"
+      ],
+      "resolution": "1716×2000 complete PDF page render"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-700",
+      "artifact_id": "wireframe-modeling-workbench-700",
+      "source_url": "https://documentation.help/Metasequoia/documentation.pdf",
+      "media_url": "https://documentation.help/Metasequoia/documentation.pdf#page=7",
+      "title": "Metasequoia2.4.8 annotated cat workbench",
+      "creator": "O.Mizno1998–2008 Metasequoia help, documentation.help PDF mirror",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete native help page7 viewed at2200px. Blue-dark grid in four projections, pink polygon cage/vertices on brown cat, RGB handles, cream left text commands/options, right object/material swatches, floating primitive/numeric panel. Pale-yellow Japanese labels are teaching overlays. Version/copyright on firstpage; mirror conversion2018 is not software release date. Small embedded image permits panel/mesh analysis but not exact font metrics."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7bf8292ea2f59998c77532d09ff8abf2bc35b58661004d52502765c52afa0d65",
+      "states": [
+        "Complete PDF page7 rendered at2000–2200px; actual full page inspected"
+      ],
+      "resolution": "1700×2200 complete PDF page render"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-701",
+      "artifact_id": "wireframe-modeling-workbench-701",
+      "source_url": "https://shade3d.jp/content/files/Downloadable_content/Shade3DManual.pdf",
+      "media_url": "https://shade3d.jp/content/files/Downloadable_content/Shade3DManual.pdf#page=26",
+      "title": "Shade3D12 Split View modeling workbench",
+      "creator": "Shade3D Co Ltd manual, screenshot title shows12.0.1",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete native manual page26 viewed at2200px, corroborated by page10. Four labeled Top/Perspective/Front/Right views expose white robot/car/camera wire geometry on gray grids; red/green/blue handles, tool shelves at left and object tree/properties at right. Yellow callout outlines/labels belong to documentation. Page10 empty startup shows same architecture and workspace tabs, no independent extra artifact. Do not infer current version from PDF creation2016."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b6ed37fa1c66b724236fe019e59792b66eddf0bd050f80334701907f3b9d4da4",
+      "states": [
+        "Complete PDF page26 rendered at2000–2200px; actual full page inspected"
+      ],
+      "resolution": "1812×2200 complete PDF page render"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-702",
+      "artifact_id": "wireframe-modeling-workbench-702",
+      "source_url": "https://api.pageplace.de/preview/DT0400.9781136132063_A23812858/preview-9781136132063_A23812858.pdf",
+      "media_url": "https://api.pageplace.de/preview/DT0400.9781136132063_A23812858/preview-9781136132063_A23812858.pdf#page=18",
+      "title": "Silo four-projection bust workbench in official guide",
+      "creator": "Antony Ward and David Randall,3D Modeling in Silo:The Official Guide, Focal Press2011",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full publisher preview page18 viewed at2200px: light gray four-pane bust views, low-poly facet structure, very spare dark left vertical command palette, minimal lower icon row and tiny sans labels. Some fine mesh edges are weak at embedded resolution; no pixel metrics inferred. Source text explicitly documents viewport layout and component selection. Different from icon-heavy Maya/Hexagon, showing that neutral tool emphasis need not mean maximal toolbar density."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6fec09bbb22767307f3083f81c03548a77a90143d996531bea9403005bd0902c",
+      "states": [
+        "Complete PDF page18 rendered at2000–2200px; actual full page inspected"
+      ],
+      "resolution": "1690×2200 complete PDF page render"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-925",
+      "artifact_id": "wireframe-modeling-workbench-925",
+      "source_url": "https://learn.foundry.com/modo/14.0/content/help/pages/modo_interface/3d_viewport.html",
+      "media_url": "https://learn.foundry.com/modo/14.0/content/resources/images/interface/gl_viewport.png",
+      "title": "Modo OpenGL edged-surface workbench",
+      "creator": "Foundry Modo14 official viewport manual",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full source-linked827×646 view, not377px discovery thumbnail: neutral-gray bust exposes black quadrilateral loops over smooth reflective pale shading, floor grid, RGB triad, upper Perspective/Advanced/Viewport Textures controls and lower All Edges/statistical readout. Same tool family outer chrome is fully shown in859, grouped once. Different wire/solid display states are not separate designs."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "94fe1d1c53819d69f9938c1315ed5e52bb65c237951694f85575d7fb3d5666ea",
+      "resolution": "829×646 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-962",
+      "artifact_id": "wireframe-modeling-workbench-962",
+      "source_url": "https://gmsh.info/doc/texinfo/gmsh.html",
+      "media_url": "https://gmsh.info/doc/texinfo/images/gui_mesh.png",
+      "title": "Gmsh mesh-display workbench",
+      "creator": "Christophe Geuzaine and Jean-Francois Remacle,Gmsh reference manual",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete1280×762 original app screenshot: actual irregular black triangular edges over bright-green rectangular mesh, dark corner nodes, pale lavender viewport. Left expanded Mesh dimension/order/refinement tree, contextual Mesh visibility submenu with separate nodes/edges/faces toggles and keyboard shortcuts, lower operation status/CPU figures and axis triad. Scientific meshing variant; green is data/display choice, not universal chrome. Recorded CPU text is not a benchmark measured here."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "eceed372b32c82607bb3cd9146bb039964f18dc5bcbae98afed64d1bfd3ae8a6",
+      "resolution": "1280×762 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-1002",
+      "artifact_id": "wireframe-modeling-workbench-1002",
+      "source_url": "https://3dcoat.com/documentation/manual/workspaces-rooms/retopology/",
+      "media_url": "https://3dcoat.com/documentation/wp-content/uploads/2022/10/retopo.jpeg",
+      "title": "3DCoat retopology workbench,empty editing state",
+      "creator": "Pilgway3DCoat official retopology manual",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete800×568 native original, empty retopology view: broad gray perspective grid, left mesh-specific Add/Split,Quads,Points/Faces,Cap,Strokes and editing commands; right Retopo Objects list and UV Preview, bottom Faces/Triangles/Quads/N-Gons/Vertices counts at zero, orange active Retopo/tool/group labels. Qualifies for directly legible mesh-workbench architecture/type/state vocabulary; it does not contribute a claim about visible mesh shape or completed model. No proof of the toolbar operating was inferred from this still. Retopology-specific labels distinguish this from an unrelated empty render viewer."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "2310085e782c573ed026479b716519bfdd5007aee3e41fbdd7c53d124b40bc04",
+      "resolution": "800×568 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-1004",
+      "artifact_id": "wireframe-modeling-workbench-1004",
+      "source_url": "https://brlcad.org/docs/html/lessons/mged02_learning_viewing_options.html",
+      "media_url": "https://brlcad.org/docs/html/lessons/images/mged02_defaultradio.png",
+      "title": "MGED6 radio wireframe workbench",
+      "creator": "BRLCAD official Tutorial Lesson2",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete696×618 original graphics window: red unfilled box/cylinder/knob/antenna construction curves form a radio on white; black thin border, gray beveled menu bar and blue titlebar. This constructive-solid-geometry wire display is not polygon triangulation. Geometry is the information surface, without photographic material or futuristic glow. Native application menus, model filename and view position contextualize it as a workbench."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7f91eefcd45061fc49186e6e40160bf149357b97de61ea9a3e1dc8f49178861d",
+      "resolution": "697×618 native original or source-linked highest accessible image"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-1037",
+      "artifact_id": "wireframe-modeling-workbench-1037",
+      "source_url": "https://files.znu.edu.ua/files/Bibliobooks/Inshi78/0058082.pdf",
+      "media_url": "https://files.znu.edu.ua/files/Bibliobooks/Inshi78/0058082.pdf#page=64",
+      "title": "Cinema4D relief-object workbench, Figure3.29",
+      "creator": "Serhii Pustiulha and Ihor Holovachuk, Lutsk National Technical University teaching manual2022, ZNU library copy",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete native page64 at2200px. Single large perspective viewport has a deformed spherical object with dense white quadrilateral lines, yellow selection brackets and RGB transform arrows against gray floor grid. Gray top/left icon palettes, right object manager and attribute numeric fields, lower timeline and material/coordinate panels. Manual authors/source title verified on title/copyright pages. Chapter running heads and blue page number are publishing furniture, not application UI. Does not date the screenshot version as2022 merely because the textbook appeared then."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "863e73363028a63333bd80f2c0fb38513d42a0d130e0467a0064f497d1c8a6e8",
+      "states": [
+        "Complete native PDF page64, rendered2200px and actually viewed"
+      ],
+      "resolution": "1551×2200 complete PDF page render"
+    },
+    {
+      "record_id": "wireframe-modeling-workbench-1038",
+      "artifact_id": "wireframe-modeling-workbench-1038",
+      "source_url": "https://zenodo.org/records/11508739/files/%5BMoitinhoDeAlmeida_2024%5D_MeshLab_intro3Danalysis.pdf",
+      "media_url": "https://zenodo.org/records/11508739/files/%5BMoitinhoDeAlmeida_2024%5D_MeshLab_intro3Danalysis.pdf#page=11",
+      "title": "MeshLab pottery wireframe workbench,3D Views slide",
+      "creator": "Vera Moitinho de Almeida,CODA,2024 summer-school presentation deposited by author on Zenodo",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete native slide11 at2200px, large application image clearly displays densely triangulated pottery in black lines against pale lavender ground. Top native File/Edit/Filters/Render menus and tool icons; right Project layer list, explicit vertex/face counts and Wireframe shading/color/edge-width controls. Red circles and rectangle are teaching overlays. Distinct from point-cloud-only and smooth-render states; no interaction timing or performance measured from still."
+        },
+        {
+          "dimensions": [
+            "texture",
+            "motion"
+          ],
+          "observation": "Digital or printed-document reproduction of a static editing view: crisp lines, flat control surfaces and limited viewport shading. No paper/weathering texture is required by the application. Static inspection establishes no playback timing, easing or responsive behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "899ae83c356dab7ea2593bdee7124aa8a980a9eb60a400f7b14d842cec7aed3c",
+      "states": [
+        "Complete native PDF page11, rendered2200px and actually viewed"
+      ],
+      "resolution": "2200×1238 complete PDF page render"
+    }
+  ]
+}
