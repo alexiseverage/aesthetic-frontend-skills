@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 264
+- Full entries: 265
 - Redirect entries: 1
 - Families: 8
 
@@ -57,6 +57,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `dreamcore-weirdcore` | Dreamcore / Weirdcore | dreamcore, weirdcore, liminal dream edit |
 | `dvd-menu` | DVD Menu | DVD menu screen, DVD menu interface, DVD menu design, DVD-Video menu, interactive DVD menu, disc menu |
 | `early-internet` | Early Internet / Web 1.0 | webcore |
+| `early-web-pet-portals` | Early Web Pet Portals | classic virtual-pet portals, web pet community interfaces, browser pet portals |
 | `flat-design` | Flat Design | flat UI, metro-inspired, Flat 2.0 |
 | `frutiger-aero` | Frutiger Aero | — |
 | `glitch` | Glitch / Datamosh | — |

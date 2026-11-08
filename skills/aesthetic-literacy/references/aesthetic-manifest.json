@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 264,
+  "fullEntryCount": 265,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -949,6 +949,17 @@
       "status": "canonical",
       "aliases": [
         "webcore"
+      ]
+    },
+    {
+      "slug": "early-web-pet-portals",
+      "label": "Early Web Pet Portals",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "classic virtual-pet portals",
+        "web pet community interfaces",
+        "browser pet portals"
       ]
     },
     {

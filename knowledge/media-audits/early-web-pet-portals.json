@@ -1,0 +1,1062 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 33,
+  "media": [
+    {
+      "record_id": "early-web-pet-portals-002",
+      "artifact_id": "early-web-pet-portals-002",
+      "source_url": "https://www.sunnyneo.com/layoutchange.php",
+      "media_url": "https://www.sunnyneo.com/helppages/oldneo1.jpg",
+      "title": "Neopets legacy exploration layout",
+      "creator": "Neopets / SunnyNeo specialist documentation",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete580×435 archived screenshot, visibly cropped at bottom: vivid yellow left rail with illustrated icon/word links, matching star header, white content, black outlined illustrated section banner and framed globe map. Native text permits broad navigation/layout analysis, not fine map labels or original interaction. One portal across all later views."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ee6315bc235e2c35a7f666903f9614d19b7c86c04c48ad52c8bb0a0966290ce5",
+      "resolution": "580×435 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-355",
+      "artifact_id": "early-web-pet-portals-355",
+      "source_url": "https://keith.is/post/paving-the-way-for-microtransactions",
+      "media_url": "https://keith.is/_astro/subeta-2007.DDC1-rXf_Z15KHdS.webp",
+      "title": "Subeta2007 creator-published portal view",
+      "creator": "Keith creator retrospective / Subeta team",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete creator-published745×462 screenshot is a viewport crop, not full page. Pale blue-gray background, narrow categorized left-link rail, large rounded register/adopt/explore strips integrated with blue monster illustration, white news well and right forum character panel. Small sans-serif text and playful heading treatment contrast. No inferred full-page dimensions or interaction."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d5b1f083cdb852f96641c0509dd6986976ef1761c3bd9587aba888c54f935dda",
+      "resolution": "745×462 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-358",
+      "artifact_id": "early-web-pet-portals-358",
+      "source_url": "https://keith.is/post/paving-the-way-for-microtransactions",
+      "media_url": "https://keith.is/_astro/subeta-pet-profile-toby.DtOk3TRW_ebMK7.webp",
+      "title": "Subeta Toby custom pet profile",
+      "creator": "Custom profile credit visible for BBerries; art creator credit partially legible; Keith retrospective publisher",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete1211×748 screenshot of separately authored custom profile: ruled-paper field, crayon children/heart/mountain, light-blue horizontal strip, left treasure-object grid, middle scrollable story and large missing-poster hedgehog illustration overlapping its border. Typography imitates child handwriting in selected headings while body stays small plain sans-serif. Layout distinct from default Subeta chrome; static screenshot cannot prove scroll behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "39612c784305ae0ff342165f29c593b8acb8472dfa76527b4f3c9e3c8e3aff29",
+      "resolution": "1211×748 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-359",
+      "artifact_id": "early-web-pet-portals-359",
+      "source_url": "https://keith.is/post/paving-the-way-for-microtransactions",
+      "media_url": "https://keith.is/_astro/subeta-pet-profile-gappy.CKhmNjgm_20LHEA.webp",
+      "title": "Subeta Gappy custom pet profile",
+      "creator": "Custom pet profile visible attribution to Daniela; Keith retrospective publisher",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete1091×720 separately authored profile: cream/yellow upper and deep-blue lower field, bubbly outlined GAPPY title, blue framed story panel, left STORY/ABOUT/ART/STATS pills, large puppy with sailor hat overlapping text frame, small companion portrait and treasure inventory below. Personalized story and collectible grid are structural, not a generic mascot photo card; actual tab navigation not inspected."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b226b33c10ec4e9cf3810cc1a0804b09f4dec7df76857225dfd39395a153f6a7",
+      "resolution": "1091×720 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-364",
+      "artifact_id": "early-web-pet-portals-364",
+      "source_url": "https://www.adoptme.com/about.php",
+      "media_url": "https://www.adoptme.com/AdoptMe_April_16_2020_Small.jpg",
+      "title": "AdoptMe2000–2020 creator-published homepage screenshot",
+      "creator": "Impulse Communications / AdoptMe",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete native700×333 published screenshot labeled historic2000–2020 by current primary about page, filename explicitlySmall. Highest linked accessible published version; broad layout legible, fine paragraphs not used as typography evidence. Sky-to-pale-yellow field, orange bubbly logo, central island of animal mascots and three illustrated adopt/login/details links above tiny white introduction column. Not the unrelated Roblox game; static example not proof of all dates or functioning old Flash."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "06d29b7a0d2c63d5f3ac863436d35b1cf8aa9d054a28c0e49e10817c8313ed70",
+      "resolution": "700×333 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-880",
+      "artifact_id": "early-web-pet-portals-880",
+      "source_url": "https://www.marapets.com/",
+      "media_url": "https://www.marapets.com/",
+      "title": "MaraPets - Games — public2026 state",
+      "creator": "Portal team, individual interface artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full current1280×2740 public games portal: illustrated autumn forest surround, wooden colored vertical destination tabs, small pictorial top navigation, inset white content well, category strip, title/currency/time filters and many tightly gridded game tiles. Contemporary rounded tiles coexist with legacy portal geography and icon vocabulary; not proof the2026 skin existed in2004. Still capture does not show actual filtering."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×2740 full-page public browser capture",
+      "sha256": "ec02beea875c4ec996289514abf1239477262271c3fd38ee2ea78c3cfe66bbbb"
+    },
+    {
+      "record_id": "early-web-pet-portals-881",
+      "artifact_id": "early-web-pet-portals-881",
+      "source_url": "https://www.powerpets.com/",
+      "media_url": "https://www.powerpets.com/",
+      "title": "Home - Powerpets Virtual Pet Site — public2026 state",
+      "creator": "Portal team, individual interface artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full current1280×1274 portal: purple/green illustrated identity on star/planet surround, purple left categorized icon rows, narrow right event/auction/pet rail, broad white center with four illustrated guide tiles and compact adoption panel. Functional names and outlined object cards, gradient bars and small sans-serif labels coexist. Current post-restoration page, not a dated early screenshot; no login attempted."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1274 full-page public browser capture",
+      "sha256": "29428744bc90b0d4dfba68deab24aa0e2b620741f5856aee7bb812eb147cf2c0"
+    },
+    {
+      "record_id": "early-web-pet-portals-882",
+      "artifact_id": "early-web-pet-portals-882",
+      "source_url": "https://www.ichumon.com/",
+      "media_url": "https://www.ichumon.com/",
+      "title": "Ichumon - Virtual Pets and RPG — public2026 state",
+      "creator": "Portal team, individual interface artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full current1280×1172 portal: illustrated watery/tree-vine cyan frame, narrow peach category rail, top newest-items row with isolated sprites, central egg/pet/companion introduction, right member rankings and register panels. Tiny dense linked sans-serif lists on white, item-count labels and illustrated creatures link economy and care. Current presentation only, not proof of original2007 design or login behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1172 full-page public browser capture",
+      "sha256": "b035cdccc9a1efd2336b5c68207728401617ab8db9eb42d29bd9259928def53b"
+    },
+    {
+      "record_id": "early-web-pet-portals-883",
+      "artifact_id": "early-web-pet-portals-883",
+      "source_url": "https://www.grophland.com/",
+      "media_url": "https://www.grophland.com/",
+      "title": "GROPHLAND : The Groph Pet Site — public2026 state",
+      "creator": "Portal team, individual interface artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full current1280×1080 welcome: burgundy header/category strip, three columns—stacked news/item modules left, globe/mascot speech-bubble middle, pet portraits and native login right. Pale lavender field, dense black sans-serif and simple dark borders, small collectible sprites and individualized pet dress-ups. Current2026 read-only screenshot; no lottery or login participation."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1080 full-page public browser capture",
+      "sha256": "3f3f5256a5b9362dd9bf445531b995272b097bac8d9bb7b45539e0af8f74fb18"
+    },
+    {
+      "record_id": "early-web-pet-portals-884",
+      "artifact_id": "early-web-pet-portals-884",
+      "source_url": "https://www.aywas.com/",
+      "media_url": "https://www.aywas.com/",
+      "title": "Welcome to Aywas • Aywas — public2026 state",
+      "creator": "Portal team, individual interface artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full current1280×1792 public page: centered white well, blue crystal wordmark, horizontal category strip and left small native login, illustrated field behind, rows of human avatars and fantasy pets, lower news module/custom-art grid, glossy blue section bars. One image broken at right but core hierarchy and illustrations intact; cookie banner partly covers middle art. Current continuation and adult-audience scope, not universal child-directed portal."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1792 full-page public browser capture",
+      "sha256": "dfd91d73bdf782970d5705499f7fec32e2afd0e4bc8217ee1e227fb52493e925"
+    },
+    {
+      "record_id": "early-web-pet-portals-885",
+      "artifact_id": "early-web-pet-portals-885",
+      "source_url": "https://www.rescreatu.com/",
+      "media_url": "https://www.rescreatu.com/",
+      "title": "Virtual Pets and Virtual World - Rescreatu — public2026 state",
+      "creator": "Portal team, individual interface artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full current1280×988 landing: tiled creature-silhouette cyan field, large red/white outlined script identity with flanking creatures, upper-right small native login, central carousel, welcome text left and dated news right, scalloped footer. Capture lands during a fade, making central slide copy unreadable; exclude hero text/animation timing claims. Current landing material, not proof of2000s skin."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×988 full-page public browser capture",
+      "sha256": "02ecc2adcfe0bdc1eac482e6f23e18c1f08527b16eec6d365197821f5ac97e26"
+    },
+    {
+      "record_id": "early-web-pet-portals-894",
+      "artifact_id": "early-web-pet-portals-894",
+      "source_url": "https://www.sunnyneo.com/petpageexamples.php?id=1",
+      "media_url": "https://sunnyneo.com/petpage/PP_aboutme_img.jpg",
+      "title": "SunnyNeo About Me original layout artwork",
+      "creator": "SunnyNeo authored layout; Neopets character/art rights remain with their owners; individual layout author unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete780×600 CSS-linked layout composition: striped gray outside, outlined pirate-creature collage at top, translucent All About Me heading band, green narrow divider and large intentionally white content well. Original artwork sets the reading space; it is not a screenshot proving complete webpage behavior. Shared tile/heading files grouped as one layout work."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a05a3cb1d5e36cfcf5f3cdc9d505df2f7c021967980bea9e72eddf6a2370934f",
+      "resolution": "780×600 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-895",
+      "artifact_id": "early-web-pet-portals-895",
+      "source_url": "https://www.sunnyneo.com/petpageexamples.php?id=27",
+      "media_url": "https://www.sunnyneo.com/petpage/PP_airfaerie_top.jpg",
+      "title": "SunnyNeo Air Faerie original layout artwork",
+      "creator": "SunnyNeo authored layout; Neopets character/art rights remain with their owners; individual layout author unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete1006×572 CSS-linked layout composition: pale lavender scroll-pattern field, broad left reading well, thin outline/frame strip and large outlined winged figure on right cloud swirls. Original right-side figure and reserved text space establish a composition, not complete site operation; typography mostly supplied by HTML, not image."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3025c970e55c69990104b4cca555edc67ff4c5877b1a3c73bc5f22afae541356",
+      "resolution": "1006×572 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-956",
+      "artifact_id": "early-web-pet-portals-956",
+      "source_url": "https://www.icepets.com/homepage.php",
+      "media_url": "https://www.icepets.com/homepage.php",
+      "title": "IcePets public2026 shell",
+      "creator": "Published portal team; individually attributed artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Pale icy blue field, snow-capped outlined panels, pictorial top navigation, left guest registration and right illustrated pet with named Hunger/Happiness. Broad central panel is empty in captured state; supports shell/control hierarchy only, not loaded main content or historic2009 interface. Full1280×1395."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1395 public browser capture",
+      "sha256": "f316cc225972e1c7b96c6fd2caac23c575fd2950c53130cb1079406d8f6d22e7"
+    },
+    {
+      "record_id": "early-web-pet-portals-957",
+      "artifact_id": "early-web-pet-portals-957",
+      "source_url": "https://www.mweor.com/",
+      "media_url": "https://www.mweor.com/",
+      "title": "Mweor public2026 portal",
+      "creator": "Published portal team; individually attributed artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×1621: green textured surround, compact brown branded strip, left-aligned bounded white page with custom black-outline friendly login box, large gray cat, community art contest grid and lower create-your-pet form with live-looking cat illustration. Typeface outlines and irregular bubble lettering contrast body Arial-like sans-serif. No account submitted; native forms not proof of backend behavior."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1621 public browser capture",
+      "sha256": "d786b59efd482949c56f2d61c21a6a01618d2859c16ff93ba705e30841b387a3"
+    },
+    {
+      "record_id": "early-web-pet-portals-958",
+      "artifact_id": "early-web-pet-portals-958",
+      "source_url": "https://www.pocketpumapets.com/",
+      "media_url": "https://www.pocketpumapets.com/",
+      "title": "Pocket Puma Pets public2026 portal",
+      "creator": "Published portal team; individually attributed artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×1055: dark space field, narrow left boxed link rail, large adjoining charcoal login/welcome panels, small white sans-serif copy, bright green signup, lower illustrated fantasy-creature/item banner with slide dots. Main upper-left hero is empty; no missing content inferred. Dark variant contradicts compulsory bright white/yellow palettes."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1055 public browser capture",
+      "sha256": "e0835519ef9ed39eb213cad3e047cf81294ff4b1d4c9f93fa30ce61edc18eea2"
+    },
+    {
+      "record_id": "early-web-pet-portals-961",
+      "artifact_id": "early-web-pet-portals-961",
+      "source_url": "https://dragcave.net/",
+      "media_url": "https://dragcave.net/",
+      "title": "Dragon Cave public2026 portal",
+      "creator": "Published portal team; individually attributed artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×1275: textured dark cave surround, central ragged parchment, upper-left small dragon sprite, compact serif paragraphs and underlined habitat links, hand-drawn map, narrow right login/news/community rail. Egg/lineage collecting expressed through linked geography rather than a dashboard; current operation state only. Different typography/material vocabulary than yellow cartoon portals."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1275 public browser capture",
+      "sha256": "9c7827b8c1484dd4ad9d93a40d16a9ca1592a476ebba04c7453bd9f47292cd18"
+    },
+    {
+      "record_id": "early-web-pet-portals-962",
+      "artifact_id": "early-web-pet-portals-962",
+      "source_url": "https://www.sylestia.com/",
+      "media_url": "https://www.sylestia.com/",
+      "title": "Sylestia public2026 continuation",
+      "creator": "Published portal team; individually attributed artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×5475 viewed then native1280×1100 detail: dark navy panel, blue dragon brand, compact horizontal destinations, narrow counters/status strip, banners framing event description, small item/power icons and pet showcase, lower news. Cookie overlay and unloaded/lazy image placeholders prevent claims about obscured/lower images. Explicit later continuation, not historical2000s screenshot; no native pet action tested."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×5475 public browser capture",
+      "sha256": "15da08689dc14c3697e525ff0e53b85d712396d0c155ccabad0128766e5b194b"
+    },
+    {
+      "record_id": "early-web-pet-portals-965",
+      "artifact_id": "early-web-pet-portals-965",
+      "source_url": "https://www.khimeros.com/",
+      "media_url": "https://www.khimeros.com/",
+      "title": "Khimeros public2026 portal",
+      "creator": "Published portal team; individually attributed artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×1046: midnight star/cloud surround, airy script identity, small native login upper right, narrow Home/World/News/Help/Register strip and two content columns. Large scenic pet spotlight left; copy and3×3 collectible/item miniatures right. Illustrated surroundings, picture-based pet individuality and small flat controls coexist, no claim current art dates to original launch."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1046 public browser capture",
+      "sha256": "51f65fa8712695ed694ca2d6346395495527af6956bcfaa0e2f2b8ce66202813"
+    },
+    {
+      "record_id": "early-web-pet-portals-966",
+      "artifact_id": "early-web-pet-portals-966",
+      "source_url": "https://www.felisfire.com/",
+      "media_url": "https://www.felisfire.com/",
+      "title": "Felisfire public2026 portal",
+      "creator": "Published portal team; individually attributed artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×2960 and native top detail: lime/charcoal sci-fi theme, angled category tabs, grouped bars/counters, tiny white sans-serif copy, left notable-specimen illustrated cat profiles, native login and broader explanatory main image. Scientific theme is a variant; no claim counters prove historical activity or live simulation."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×2960 public browser capture",
+      "sha256": "6aeb0dd678c8eaa8a573166afd6961b39ed68548dc482b71ab9f828b1a661c24"
+    },
+    {
+      "record_id": "early-web-pet-portals-967",
+      "artifact_id": "early-web-pet-portals-967",
+      "source_url": "https://www1.flightrising.com/",
+      "media_url": "https://www1.flightrising.com/",
+      "title": "Flight Rising public2026 continuation",
+      "creator": "Published portal team; individually attributed artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×2331 and native top detail: illustrated dragon banner, rust status strip, cream three-column site with bold icon destination rail, central illustrated news panels and dated underlined posts, right site-status/random-dragon/bonus modules. Explicit2013-onward neighbor continuing classic portal hierarchy, not origin evidence or an early2000s screenshot."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×2331 public browser capture",
+      "sha256": "c9e32332b169032df4f1d202c452713fa85f531a3746656dad11ee67f137857a"
+    },
+    {
+      "record_id": "early-web-pet-portals-969",
+      "artifact_id": "early-web-pet-portals-969",
+      "source_url": "https://www.wajas.com/site/",
+      "media_url": "https://www.wajas.com/site/",
+      "title": "Wajas public demo portal",
+      "creator": "Published portal team; individually attributed artists unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×1379 public visitor preview: glitter-star Wajas banner with flanking hybrid pets, teal/navy bevel boxes, left profile icon/links/lottery rail, center welcome and dated news columns, bottom random-pet portraits. Source explicitly calls these preview pages, not logged-in gameplay. Named destinations and illustrated hierarchy support portal grammar; no participation or prizes claimed."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1379 public browser capture",
+      "sha256": "bd316ff66931143262545a8a51364308cf6cc3df0a2bb3962dae06a0847edd1d"
+    },
+    {
+      "record_id": "early-web-pet-portals-980",
+      "artifact_id": "early-web-pet-portals-980",
+      "source_url": "https://www.sunnyneo.com/petpageexamples.php?id=19",
+      "media_url": "https://sunnyneo.com/petpage/PP_chombycollections_img.png",
+      "title": "SunnyNeo My Collections original layout composition",
+      "creator": "SunnyNeo layout composition; Neopets character/art rights remain with respective owners; individual layout author unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete500×585 CSS-linked original: four colored small dinosaur-like pets with thick white sticker outlines atop a broad white reading/collection well; loose black handwritten MY COLLECTIONS, small source credit and clear header/content division. Colorways within one composition count once. Supports collectible petpage identity, not complete live website or actual inventory."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9ccdbaf553eff76358090fc8fcde9d2366282162b837bfe264cc29e5dd68e16c",
+      "resolution": "492×593 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-981",
+      "artifact_id": "early-web-pet-portals-981",
+      "source_url": "https://www.sunnyneo.com/petpageexamples.php?id=4",
+      "media_url": "https://sunnyneo.com/petpage/PP_lablog_img.jpg",
+      "title": "SunnyNeo My Lab Log original layout composition",
+      "creator": "SunnyNeo layout composition; Neopets character/art rights remain with respective owners; individual layout author unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete780×600 CSS-linked original: charcoal textured surround, narrow rounded white left rail and wider white main well, yellow/gray diagonal hazard header, outlined eccentric scientist, black lightning and large tilted yellow MY LAB LOG lettering. Pet transformation record metaphor is explicit in original graphic; actual log persistence and navigation untested."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c670c2116e6171fd798d5e6d72c2b74acfc41d94bf52f329179d2672cc839b9a",
+      "resolution": "780×600 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-982",
+      "artifact_id": "early-web-pet-portals-982",
+      "source_url": "https://www.sunnyneo.com/petpageexamples.php?id=18",
+      "media_url": "https://sunnyneo.com/petpage/PP_mathsnightmare_img.jpg",
+      "title": "SunnyNeo Goals and Dreams original layout composition",
+      "creator": "SunnyNeo layout composition; Neopets character/art rights remain with respective owners; individual layout author unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete777×450 CSS-linked original: midnight violet scene, oversized sleeping outlined blue pet crossing pale cloud/reading plane, moon/stars/alarm clock and smaller sheep companion. White/purple outlined goals-and-dreams title sits at boundary; intentional reserved reading space below. One complete header/layout artwork, not a page screenshot or measured sleeping animation."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d142b98a2447e4bc5b1c30264210ef8a4dcbf8f74c8224248e63de6b4fe87131",
+      "resolution": "777×450 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-983",
+      "artifact_id": "early-web-pet-portals-983",
+      "source_url": "https://www.sunnyneo.com/petpageexamples.php?id=6",
+      "media_url": "https://sunnyneo.com/petpage/PP_webbie_img.jpg",
+      "title": "SunnyNeo Guild Webbie original layout composition",
+      "creator": "SunnyNeo layout composition; Neopets character/art rights remain with respective owners; individual layout author unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete780×589 CSS-linked original: steel-gray frame, large illustrated robot-like green pet right, three square detail crops stacked left, roman numerals/dashed technical pattern, black script Guild Webbie identity and narrow green welcome strip over broad white content well. Crops and hero are one underlying composition, not four artifacts. Community-guild page grammar is explicit; actual link behavior not inspected."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "8f13bfbb93af72915f20860f3786b70ce4adf4469eade8fe3befbc01148729c0",
+      "resolution": "780×588 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-984",
+      "artifact_id": "early-web-pet-portals-984",
+      "source_url": "https://www.sunnyneo.com/petpageexamples.php?id=28",
+      "media_url": "https://www.sunnyneo.com/petpage/PP_photoalbum_img.png",
+      "title": "SunnyNeo Pet Photo Album original layout composition",
+      "creator": "SunnyNeo layout composition; Neopets character/art rights remain with respective owners; individual layout author unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete1127×811 transparent PNG original: open olive notebook with outlined irregular pages and stitched spine, surrounding overlapping white-framed pet illustrations, script photo-album title and reserved broad reading/photo space. Collaged framed scenes count as one album layout work, not separate historical artworks; CSS establishes intended petpage use, not actual carousel operation."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0ea45a04a4b1dcba417c065c212881f6b033e5da17470ebfc047982c19fc96f0",
+      "resolution": "1130×820 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-985",
+      "artifact_id": "early-web-pet-portals-985",
+      "source_url": "https://www.sunnyneo.com/petpageexamples.php?id=12",
+      "media_url": "https://sunnyneo.com/petpage/PP_wishlist_img.jpg",
+      "title": "SunnyNeo Wishlist original layout composition",
+      "creator": "SunnyNeo layout composition; Neopets character/art rights remain with respective owners; individual layout author unverified",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete800×600 CSS-linked original: charcoal field, large upside-down blue creature upper-left with curls/speckles, bright lime narrow bracket rails around tall right text well, spaced cyan/lime Oh how I WISH heading. Strong asymmetric character/reading relationship; no claim wishlist sorting or storage exists from artwork alone."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b0f5092745cefb4ae81eabaad738bce71907191b3ce35a5f5473a1433513a297",
+      "resolution": "800×600 complete source original"
+    },
+    {
+      "record_id": "early-web-pet-portals-990",
+      "artifact_id": "early-web-pet-portals-990",
+      "source_url": "https://subeta.net/pets/Tribe/Runaan",
+      "media_url": "https://subeta.net/pets/Tribe/Runaan",
+      "title": "Helix pet-profile template, Runaan adaptation by Tribe",
+      "creator": "Named owner and visible credits described in observation; separate rights remain with artists/template makers",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×6587 page, then native top1280×1000 detail: warm poppy-photo field around narrow white rounded/shadowed column, centered monster portrait/name, hanging small companion/award panels, very long story and lower treasure grid, fixed credits. Visible credits identify profile template(c)helix, edited by Tribe; story/overlay by Tribe and background Dave Ellis/Unsplash. One template work across adaptations, not a new design for every pet or story; creation date unverified."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×6587 public full-page capture, native top detail additionally inspected where noted",
+      "sha256": "c72d53ec9fb83f1f96dbee7b6bd1b337ee4671f287940eb4dcd30a14e7210650"
+    },
+    {
+      "record_id": "early-web-pet-portals-991",
+      "artifact_id": "early-web-pet-portals-991",
+      "source_url": "https://subeta.net/pets/Rogue/Shai",
+      "media_url": "https://subeta.net/pets/Rogue/Shai",
+      "title": "Shai custom pet profile by Rogue",
+      "creator": "Named owner and visible credits described in observation; separate rights remain with artists/template makers",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×960: left-aligned plum canvas, pink rounded panels in asymmetric two-column organization, upper round portrait strip, very large pale serif name, body character panel and separate minion/award panels. Humanoid role-play variant, not evidence every virtual pet is animal-shaped. Partial top/main portrait zones obscured by new site notice. Visible credit says avatars, haikus and profile by Rogue; do not treat fictional/medical prose as factual or reuse it."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×960 public full-page capture, native top detail additionally inspected where noted",
+      "sha256": "7dabe550174d62dc6f569a3cf93054bf648fff62842ee0d31f81db9082a7d64d"
+    },
+    {
+      "record_id": "early-web-pet-portals-993",
+      "artifact_id": "early-web-pet-portals-993",
+      "source_url": "https://subeta.net/pets/Thundercracker/Kovac",
+      "media_url": "https://subeta.net/pets/Thundercracker/Kovac",
+      "title": "Kovac custom profile by Thundercracker",
+      "creator": "Named owner and visible credits described in observation; separate rights remain with artists/template makers",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×1050: tiled fire field, large wood-textured engraved KOVAC title, top pet/minion/award islands; two bounded white story columns and right collectible/family panels with orange outlines. Source-visible footer credits profile/background/stories to Thundercracker, text art separately not named. Layout is an authored multi-column narrative cabinet, not just a recolor of narrow Helix template. No personal story prose reused."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1050 public full-page capture, native top detail additionally inspected where noted",
+      "sha256": "cc2fa2249da74d922240e557dedaca20712a00d3f89236051745a5dfb979ad0c"
+    },
+    {
+      "record_id": "early-web-pet-portals-995",
+      "artifact_id": "early-web-pet-portals-995",
+      "source_url": "https://subeta.net/pets/Pureflower/Irritate",
+      "media_url": "https://subeta.net/pets/Pureflower/Irritate",
+      "title": "Irritate custom pet profile, owner Pureflower",
+      "creator": "Named owner and visible credits described in observation; separate rights remain with artists/template makers",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×1050: gray background with dark horizontal band and rust rules, circular serpent portrait protruding left, large italic rust name, right white rounded story panel with five tab-shaped roman-number headings. Large structural overlaps and small companion/award/owner zones support themed pet identity and multi-chapter reading. Screenshot captured final chapter; no chapter click behavior inferred. Exact template author unverified; owner is not automatically designer."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×1050 public full-page capture, native top detail additionally inspected where noted",
+      "sha256": "ad538ef004bc5b9c726e7a534cd2114ae17067e0e06c79f02235f5bc85704260"
+    },
+    {
+      "record_id": "early-web-pet-portals-996",
+      "artifact_id": "early-web-pet-portals-996",
+      "source_url": "https://subeta.net/pets/LadyFoxling/Renata",
+      "media_url": "https://subeta.net/pets/LadyFoxling/Renata",
+      "title": "Renata profile, Lea template edited by LadyFoxling",
+      "creator": "Named owner and visible credits described in observation; separate rights remain with artists/template makers",
+      "accessed_at": "2026-11-08",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full1280×2597 plus native top: narrow centered white column with red top/bottom rules, pale gray outer field, illustrated fire pet and minion around compact native stats, purple display name overlapping title zone, long narrative and labeled three-column collectible grid. Visible footer credits template Lea, colors LadyFoxling, background Wallpaper Access and cursor Cursors-4u. Different base layout from Helix; no claim typographic overlaps are desirable or all sources licensed for reuse. Personal narrative not reused or analyzed as advice."
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": "1280×2597 public full-page capture, native top detail additionally inspected where noted",
+      "sha256": "86a44c30e21d87a4965ac5795ddd7d995faabd10e7df2f2dcac8d32a183180db"
+    }
+  ]
+}
