@@ -54,31 +54,31 @@ Fleischer studio film; still published by Fleischer Studios or Silent Film Festi
 
 Koko in Jumping Beans: compact black clown silhouette wraps rounded bent legs around an oversized plant; white gloves, face, collar and shoes punctuate dark body, simple crescent eye marks. Large thin-line plant and widely spaced star/planet backdrop; blue tint and grain belong to this transfer still, not universal palette. A still cannot establish movement.
 
-### 009 —   Koko and Bimbo cause some real world chaos in "Fadeaway" (1926)  
+### 009 — Fadeaway (1926), suspended clown and dog
 
 Fleischer studio film; still published by Fleischer Studios or Silent Film Festival. [Source](https://fleischerstudios.com/koko); [media](https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604653725-YGE98JL1SENDBPT1NLNC/320365_orig.jpg). Complete published still individually inspected; 398×299 complete maker/festival-published still,2026-11-08.
 
 Fadeaway (1926), source-caption attribution: clown and dog suspended together beneath a rope; looped rounded limbs and oversized pale hands remain readable against almost empty gray field. Small complete maker-published still398×299 supports broad silhouette and staging, not fine linework or timing.
 
-### 010 —   Koko and Bimbo in "Earth Control" (1928)  
+### 010 — Earth Control (1928), sign and stretched dog
 
 Fleischer studio film; still published by Fleischer Studios or Silent Film Festival. [Source](https://fleischerstudios.com/koko); [media](https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604632954-QJK9H74DP1NR6NB4BILP/1476141_orig.jpg). Complete published still individually inspected; 270×203 complete maker/festival-published still,2026-11-08.
 
 Earth Control (1928), source-caption attribution: solid black upright clown contrasted with long thin arm pulling a dog horizontally away from a sign. Question marks externalize reaction; outlined sign creates a localized text block in otherwise white space. Small270×203 maker original supports broad elastic shape only, not typography identification or motion.
 
-### 011 —   Max jails Koko and Bimbo in "The Convict" (1926)  
+### 011 — The Convict (1926), jail scene
 
 Fleischer studio film; still published by Fleischer Studios or Silent Film Festival. [Source](https://fleischerstudios.com/koko); [media](https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604664336-7XA8BIMWC7CU7W070M58/7824665_orig.jpg). Complete published still individually inspected; 452×339 complete maker/festival-published still,2026-11-08.
 
 The Convict (1926), source-caption attribution: seated clown and dog in front of a barred stone jail; slack curved black leg, huge round shoe, bright hands and button accents. Characters have simpler bold silhouettes than background masonry. Full published452×339 still; no gait/timing inference.
 
-### 012 —   Koko in "The Puzzle" (1923)  
+### 012 — The Puzzle (1923), standing clown
 
 Fleischer studio film; still published by Fleischer Studios or Silent Film Festival. [Source](https://fleischerstudios.com/koko); [media](https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604681417-WPB91EA90XOVZ1DI1IUF/9002603_orig.jpg). Complete published still individually inspected; 480×360 complete maker/festival-published still,2026-11-08.
 
 The Puzzle (1923), source-caption attribution: tall upright clown with raised thin curved arm and lowered opposite glove, dark loose costume and pale buttons; tiny shoes on oval shadow; sparse outlined room props. Angular cloth at elbows is a useful exception to a rule of exclusively curved outlines; no actual motion inferred.
 
-### 019 —   Koko holds up cards to start off the singing to Tramp! Tramp! Tramp!  
+### 019 — Tramp! Tramp! Tramp! (1926), gloved singalong card
 
 Fleischer studio film; still published by Fleischer Studios or Silent Film Festival. [Source](https://fleischerstudios.com/koko); [media](https://images.squarespace-cdn.com/content/v1/69836b50ccc47d6e999702a9/1771604604796-22ENTHOD8JHGMY6BCH97/9620159_orig.jpg). Complete published still individually inspected; 421×315 complete maker/festival-published still,2026-11-08.
 
