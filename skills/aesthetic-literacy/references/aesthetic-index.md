@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 241
+- Full entries: 251
 - Redirect entries: 1
 - Families: 8
 
@@ -112,9 +112,11 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `beaux-arts` | Beaux-Arts | Beaux-Arts architecture, École des Beaux-Arts style, Academic classicism |
 | `biedermeier` | Biedermeier | Biedermeier style, Biedermeier furniture, Biedermeier interiors |
 | `blue-note-jazz-modernism` | Blue Note Jazz Modernism | Blue Note style, jazz sleeve modernism, Reid Miles style |
+| `brazilian-neo-concretism` | Brazilian Neo-Concretism | Brazilian Neoconcretism, Neoconcretismo |
 | `brutalism` | Brutalism | — |
 | `chinoiserie` | Chinoiserie | European chinoiserie, chinoiserie revival, East Asian fantasy ornament |
 | `city-pop` | City Pop Visual Language | citypop, City Pop aesthetic, Hiroshi Nagai style |
+| `classic-film-noir` | Classic Film Noir | Classic noir, 1940s film noir, Golden-age film noir |
 | `constructivism` | Russian Constructivism | Constructivist, Soviet Constructivism, Russian avant-garde |
 | `corporate-grunge` | Corporate Grunge / Grunge™ | Grunge™, corporate grunge, commercial grunge, alternative branding |
 | `de-stijl` | De Stijl / Neo-Plasticism | De Stijl, Neo-Plasticism, Mondrian style, The Style |
@@ -158,10 +160,12 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `superflat` | Superflat | Super Flat, スーパーフラット |
 | `supergraphics` | Supergraphics | Architectural supergraphics, Environmental supergraphics |
 | `suprematism` | Suprematism | Suprematist, Malevich Abstraction |
+| `surrealism` | Surrealism | Surrealist art, Historical Surrealism |
 | `swiss-international` | Swiss / International Typographic Style | Swiss Style, International Typographic Style, Schweizer Typografie, Swiss / International Style |
 | `taisho-roman` | Taishō Roman | Taisho Roman, Taishō Romanticism, Taisho Romanticism |
 | `thrash-metal` | Thrash / Crossover Metal | Thrash Metal Graphics, Crossover Thrash Graphics |
 | `ulm-school` | Ulm School / HfG Ulm | HfG Ulm, Ulm School of Design, Hochschule für Gestaltung Ulm |
+| `upa-graphic-modernism` | UPA Graphic Modernism | UPA modern cartoon graphics, United Productions of America graphic style |
 | `vienna-secession` | Vienna Secession | Wiener Secession, Wiener Werkstätte, Secession Style |
 | `vorticism` | Vorticism | Vorticist, BLAST style |
 | `wabi-sabi-slow-living` | Wabi-Sabi / Slow Living | wabi-sabi, slow living aesthetic, wabi-cha |
@@ -176,6 +180,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `anatomical-flap-atlases` | Anatomical Flap Atlases | Anatomical flap books, Anatomical fugitive sheets |
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
 | `brazilian-cordel-woodcut` | Brazilian Cordel Woodcut | Cordel woodcut, Xilogravura de cordel |
+| `british-postwar-textile-abstraction` | British Postwar Textile Abstraction | British postwar abstract textiles |
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
 | `ebru` | Ebru | Turkish paper marbling, Turkish marbling, ebru art |
@@ -184,7 +189,9 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `english-bestiary-illumination` | English Bestiary Illumination | English illuminated bestiary, English book-of-beasts illumination |
 | `fair-isle` | Fair Isle | Fair Isle Knitting, Fair Isle Colourwork |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
+| `fluxus-editions` | Fluxus Editions | Fluxus multiples and editions |
 | `greek-black-figure` | Greek Black-Figure | Greek black-figure pottery, Black-figure vase painting |
+| `grosvenor-school-linocut` | Grosvenor School Colour Linocut | Grosvenor School linocuts, Grosvenor colour linocut |
 | `haeckelian-biological-plates` | Haeckelian Biological Plates | Haeckelian natural-history plates, Kunstformen-inspired biological plates |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
 | `klecksography-inkblot` | Klecksography / Inkblot Graphics | Klecksography, Folded inkblot graphics, Kleksographie, Klecksographie, Inkblot graphics |
@@ -192,12 +199,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `paper-theatre` | Paper Theatre | Paper Theater, Toy Theatre, Toy Theater, Papiertheater, Théâtre de Papier, Juvenile Drama |
 | `photographic-contact-sheet` | Photographic Contact Sheet | Photographic proof sheet, Photography contact-sheet vernacular |
 | `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
+| `pochoir-fashion-plates` | Pochoir Fashion Plates | Pochoir fashion illustration, Gazette du Bon Ton fashion plates |
 | `pop-punk` | Pop-Punk | Pop-Punk Graphics, Pop-Punk Merch Design |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |
 | `safavid-manuscript-painting` | Safavid Manuscript Painting | Safavid narrative painting, Safavid illustrated manuscript |
 | `skate-deck-screen-print` | Skate Deck Screen-Print Graphics | skateboard deck art, deck graphics, spot-color deck print, skate screen print |
 | `spirit-photography-seance` | Spirit Photography Seance | spirit photography, seance cabinet card |
+| `taller-de-grafica-popular` | Taller de Gráfica Popular | TGP print graphics, Workshop of Popular Graphic Art |
 | `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
 | `vintage-halloween-postcard` | Vintage Halloween Postcard | Halloween postcard, antique Halloween postcard |
 | `whole-earth-catalog-editorial` | Whole Earth Catalog Editorial | Whole Earth editorial vernacular, Whole Earth tool-catalog design |
@@ -290,6 +299,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `plant-based-challenger-graphics` | Plant-Based Challenger Graphics | Plant-based challenger branding, Vegan challenger graphics |
 | `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |
 | `school-fall-festival` | School Fall Festival | fall festival flyer, school carnival fall |
+| `shanghai-calendar-posters` | Shanghai Calendar Posters | Shanghai yuefenpai, 上海月份牌, Shanghai advertising calendars |
 | `silver-face-hi-fi` | Silver-Face Hi-Fi | Silver-face stereo, Vintage silver hi-fi panels |
 | `slasher-vhs-rental` | Slasher VHS Rental | horror VHS, video-store slasher |
 | `sticker-bomb-slap` | Sticker-Bomb / Slap Materiality | sticker bombing, sticker art, slaps, sticker graffiti, sticker slapping |
