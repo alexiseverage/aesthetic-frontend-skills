@@ -1,0 +1,967 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 31,
+  "media": [
+    {
+      "record_id": "historic-dinosaur-paleoart-005",
+      "artifact_id": "historic-dinosaur-paleoart-005",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/dinosaurs-charles-r-knight/",
+      "media_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Dinosaur-gallery-2-455-Leaping-Laelaps-1775.jpg",
+      "title": "With this painting, Knight became one of the first painters to depict dinosaurs as fast, aggressive animals. The Dryptosaurus was 20 feet long, taller than a pe",
+      "creator": "Charles R. Knight; published by PBS with source credit",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two gray-green scaly Dryptosaurus fight in a broad forest clearing, one leaping diagonally over the other. Layered dark vegetation contrasts a light sky and loosely brushed ochre ground; muscular motion contradicts a universal sluggish-dinosaur stereotype.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "28251193a25c6cd93b1b28f7d1eca0082dc8673b1c256f0c7ac8763feb5945f1",
+      "caption": "With this painting, Knight became one of the first painters to depict dinosaurs as fast, aggressive animals. The Dryptosaurus was 20 feet long, taller than a person, and weighed over 2,000 pounds. It had eight-inch eagle-like talons at the end of each toe. Credit: American Museum of Natural History",
+      "resolution": "2000×1366"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-009",
+      "artifact_id": "historic-dinosaur-paleoart-009",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/dinosaurs-charles-r-knight/",
+      "media_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Dinosaur-gallery-6-84790_Knight_RK-94.jpg",
+      "title": "To create an image of a dinosaur, Knight also started with the bone structure. Here, a sketch of a Stegosaurus skeleton. Credit: Rhoda Knight Kalt",
+      "creator": "Charles R. Knight; published by PBS with source credit",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Stegosaurus skeletal study uses pale graphite on light paper: irregular plates, curved ribs, long tail and darker feet. An artist signature and faint notes remain subordinate. The skeletal drawing supplies a process/plate variant, not evidence of the animals actual posture today.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "21c4ca20e8c94578e812b1f7d277ae0c9a8fd39e73fe1080eda88f454e8b5474",
+      "caption": "To create an image of a dinosaur, Knight also started with the bone structure. Here, a sketch of a Stegosaurus skeleton. Credit: Rhoda Knight Kalt",
+      "resolution": "2000×1732"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-011",
+      "artifact_id": "historic-dinosaur-paleoart-011",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/dinosaurs-charles-r-knight/",
+      "media_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Dinosaur-gallery-8-461-Stegosaurus-2441.jpg",
+      "title": "While Knight took artistic license with some dinosaurs' appearances, his paintings became the basis for many peoples' notions of what the creatures looked like.",
+      "creator": "Charles R. Knight; published by PBS with source credit",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Stegosaurus fills a low wooded landscape in side view, broad violet-brown plates above a mottled olive body. Pale sky and hazy water recede behind dense foreground plants; visible paint and rounded mass establish scale.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7b7e77020f1b7ad2334cfe9d750a242f7d9fd4756102418a4a6113f2dec0fc3c",
+      "caption": "While Knight took artistic license with some dinosaurs' appearances, his paintings became the basis for many peoples' notions of what the creatures looked like. Credit: American Museum of Natural History",
+      "resolution": "2000×1372"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-012",
+      "artifact_id": "historic-dinosaur-paleoart-012",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/dinosaurs-charles-r-knight/",
+      "media_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Dinosaur-gallery-9-522-Allosaurus-and-Brontosaurus-010.jpg",
+      "title": "The first step was to sketch the dinosaurs' bones in the position Knight ultimately wanted to portray. Credit: Rhoda Knight Kalt",
+      "creator": "Charles R. Knight; published by PBS with source credit",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Allosaurus skeleton bends over a sauropod spine in a loose pencil reconstruction study. Darker joint/limb lines contrast light bone outlines on paper; the two forms make a narrative arrangement without a painted habitat.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "60f8cd7465b3d9e6e12487ed2b5fc4ac3a144b793436ac25e46991478f5a8563",
+      "caption": "The first step was to sketch the dinosaurs' bones in the position Knight ultimately wanted to portray. Credit: Rhoda Knight Kalt",
+      "resolution": "2000×1502"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-013",
+      "artifact_id": "historic-dinosaur-paleoart-013",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/dinosaurs-charles-r-knight/",
+      "media_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Dinosaur-gallery-10-84790_Knight_ABR-147.jpg",
+      "title": "Knight would then sketch the creatures with muscles and skin, experimenting with slightly altered positioning. Credit: American Museum of Natural History",
+      "creator": "Charles R. Knight; published by PBS with source credit",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A long-necked sauropod crouches above a fallen horned dinosaur in a pencil scene with palm-like foliage. The broad back arc and low overlapping bodies organize the image before finish or color; an independently drawn compositional study, not a crop of the finished painting.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f11d651d9f1ce802540bcb3760d536905f3c2cf9fa0e282d614ba59582862962",
+      "caption": "Knight would then sketch the creatures with muscles and skin, experimenting with slightly altered positioning. Credit: American Museum of Natural History",
+      "resolution": "2000×1673"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-014",
+      "artifact_id": "historic-dinosaur-paleoart-014",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/dinosaurs-charles-r-knight/",
+      "media_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Dinosaur-gallery-11-699-Allosaurus-2418.jpg",
+      "title": "The final product — this one showing an Allosaurus eating the meat of a Brontosaurus -- is a full-color painting, even depicting Knight's conception of the dino",
+      "creator": "Charles R. Knight; published by PBS with source credit",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A gray-green Allosaurus feeds over a long exposed spine in a pale landscape while a second upright animal recedes into atmospheric haze. Red flesh is a small accent; low horizon, blue-green vegetation and broad brushwork produce distant time and scale.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1e307b38b7f994bdcf2d21b931af96c966bd4bf09c8b2a80113cdab9b0f27db0",
+      "caption": "The final product — this one showing an Allosaurus eating the meat of a Brontosaurus -- is a full-color painting, even depicting Knight's conception of the dinosaur's skin. Credit: American Museum of Natural History",
+      "resolution": "2000×1255"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-016",
+      "artifact_id": "historic-dinosaur-paleoart-016",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/dinosaurs-charles-r-knight/",
+      "media_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Dinosaur-gallery-13-462-Trachodon-2422.jpg",
+      "title": "Knight's painting of the Trachodon was a little more vague. Very little is still known about the so-called \"duck-billed dinosaur.\" Credit: American Museum of Na",
+      "creator": "Charles R. Knight; published by PBS with source credit",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two duckbilled dinosaurs stand on an ochre river bank, one large upright foreground figure and a smaller drinking animal. Dark mottled skin, light sky and blue-green trees contrast a narrow blue museum caption band in pale block capitals; historic naming is part of the artifact, not current taxonomy guidance.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6b81ed4f3affd65d76c5bd5026cce23dd4eaa2d8d1a57f3ee6ef71a897418928",
+      "caption": "Knight's painting of the Trachodon was a little more vague. Very little is still known about the so-called \"duck-billed dinosaur.\" Credit: American Museum of Natural History",
+      "resolution": "2000×1493"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-018",
+      "artifact_id": "historic-dinosaur-paleoart-018",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/dinosaurs-charles-r-knight/",
+      "media_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Dinosaur-gallery-15-438-Brontosaurus-2417.jpg",
+      "title": "Here, Knight has painted an apatosaurus (also known as a brontosaurus), which is one of the largest dinosaurs, measuring over 23 feet long and weighing 25 tons.",
+      "creator": "Charles R. Knight; published by PBS with source credit",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Several huge sauropods occupy a blue-green wetland, with one dark neck close to the viewer and another long body on the far bank. Dense foreground reeds and water reflections layer depth; the blue caption strip identifies a museum display context. Depicted aquatic behavior is historical reconstruction, not current scientific advice.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "587f75502f306838b7b631747399889b941374ac1bd63b4d8e9539323cd025e0",
+      "caption": "Here, Knight has painted an apatosaurus (also known as a brontosaurus), which is one of the largest dinosaurs, measuring over 23 feet long and weighing 25 tons. Credit: American Museum of Natural History",
+      "resolution": "2000×1419"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-021",
+      "artifact_id": "historic-dinosaur-paleoart-021",
+      "source_url": "https://www.pbs.org/wgbh/americanexperience/features/dinosaurs-charles-r-knight/",
+      "media_url": "https://www.pbs.org/wgbh/americanexperience/media/gallery_images/Dinosaur-gallery-18-84790_Knight_ABR-75.jpg",
+      "title": "Tyrannosaurus, 1940. Knight wrote and illustrated several books in the 1940s. Credit: Rhoda Knight Kalt",
+      "creator": "Charles R. Knight; published by PBS with source credit",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A graphite/ink-like drawing places two large upright tyrannosaurs beneath a broad cloudy sky. Heavy crosshatched body shadows, long ground-resting tails, low vegetation and a hand-drawn rectangular frame create a historical illustration plate; margin crop notes stay outside the scene.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5223f49d4a55062c26e6ae19c05c587410f88e7589a527878ec0759f9cc07c2e",
+      "caption": "Tyrannosaurus, 1940. Knight wrote and illustrated several books in the 1940s. Credit: Rhoda Knight Kalt",
+      "resolution": "2000×1537"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-050",
+      "artifact_id": "historic-dinosaur-paleoart-050",
+      "source_url": "https://www.lindahall.org/about/news/scientist-of-the-day/rudolph-zallinger/",
+      "media_url": "https://assets-us-01.kc-usercontent.com:443/9dd25524-761a-000d-d79f-86a5086d4774/699e2833-379d-4f44-ba32-617a94f1391f/zallinger1.jpg",
+      "title": "The Age of Reptiles mural, gallery photograph",
+      "creator": "Rudolph Zallinger; Linda Hall Library reproduction",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Full museum view shows Zallingers long panoramic mural stretching along a gallery wall. Repeated vertical trees organize successive prehistoric settings over a continuous low landscape; specimen skeletons sit physically before it. Fine pigment detail is not claimed from this room view.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e53e32398051439aba02dd29d3620e0c865d1fc1fd518192ee699b614531aff1",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-150",
+      "artifact_id": "historic-dinosaur-paleoart-150",
+      "source_url": "https://www.burianzdenek.cz/Prehistorie.html",
+      "media_url": "https://zdenekburian.websnadno.cz/tyrannosaurusrex.jpg",
+      "title": "Tyrannosaurus rex, signed Z. Burian 50",
+      "creator": "Zdeněk Burian; collector gallery reproduction; visible signature dated 50",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A sepia pencil-like drawing on cream paper shows a massive upright Tyrannosaurus with its tail resting along the ground. Fine hatching and stippled flank texture contrast a lightly outlined distant horizon and tiny palms. This historical pose is an artwork observation, not current locomotion guidance.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3d76f2e69279ed010d809b320319bb14cfb093302987ce913356e27b9eddb734",
+      "resolution": "797×543"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-171",
+      "artifact_id": "historic-dinosaur-paleoart-171",
+      "source_url": "https://www.gutenberg.org/files/42584/42584-h/42584-h.htm",
+      "media_url": "https://www.gutenberg.org/files/42584/42584-h/images/plate_xi.png",
+      "title": "Triceratops prorsus, Plate XI",
+      "creator": "Joseph Smit; illustrated plate in H. N. Hutchinson, Extinct Monsters, digitized by Project Gutenberg",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A horned dinosaur occupies a gently feathered vignette rather than a rectangular frame. Speckled armor and crosshatched gray body shading contrast pale sky, thin palms and outlined marsh plants; a second animal recedes into the left background.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1ddfeb0980fa5b8d9a137aeb250b5468202376676ce9c24f9b3f573f7815b06d",
+      "resolution": "731×474"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-186",
+      "artifact_id": "historic-dinosaur-paleoart-186",
+      "source_url": "https://www.gutenberg.org/files/42584/42584-h/42584-h.htm",
+      "media_url": "https://www.gutenberg.org/files/42584/42584-h/images/plate_iv.png",
+      "title": "Brontosaurus excelsus, Plate IV",
+      "creator": "Joseph Smit; Extinct Monsters, Project Gutenberg digitization",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two long-necked dinosaurs occupy a water-and-shore scene, one partly submerged and one fully visible on land. Gray tonal modeling, granular printed texture, lightly drawn palms, a distant ridge and rippled water establish deep space inside an irregular soft-edged vignette.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fed1c929e9271e66adde08bb39763ebb5979a63fee55f8d31f9232300da2791a",
+      "resolution": "711×462"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-199",
+      "artifact_id": "historic-dinosaur-paleoart-199",
+      "source_url": "https://www.gutenberg.org/files/42584/42584-h/42584-h.htm",
+      "media_url": "https://www.gutenberg.org/files/42584/42584-h/images/plate_vii.png",
+      "title": "Megalosaurus bucklandi, Plate VI",
+      "creator": "Joseph Smit; Extinct Monsters, Project Gutenberg digitization",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A massive upright predator rests its small forelimb against a rocky ledge, with a second smaller figure behind. Dark gray tonal modeling, a low pale horizon and tall palms frame a triangular body/tail composition. Its pose and historical name are reproduced as period reconstruction.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ecc3a013c97d82ddf34cd5572a81e31b7cad5dc42db6b6d1116b514aad34e16e",
+      "resolution": "714×482"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-201",
+      "artifact_id": "historic-dinosaur-paleoart-201",
+      "source_url": "https://www.gutenberg.org/files/42584/42584-h/42584-h.htm",
+      "media_url": "https://www.gutenberg.org/files/42584/42584-h/images/plate_viii.png",
+      "title": "Iguanodon mantelli, Plate VIII",
+      "creator": "Joseph Smit; Extinct Monsters, Project Gutenberg digitization",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A thick-tailed upright Iguanodon stands beside fern-like plants and a river, with a second low animal behind. A thin rectangular border surrounds the continuous-tone monochrome scene, distinguishing this plate from the soft-edged vignettes; the large tail and hindquarters dominate its silhouette.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "94ead7d59c1fc1b708b3c19c934a77cdd47ca887fdbea84bc8382727ed1db26c",
+      "resolution": "711×457"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-204",
+      "artifact_id": "historic-dinosaur-paleoart-204",
+      "source_url": "https://www.gutenberg.org/files/42584/42584-h/42584-h.htm",
+      "media_url": "https://www.gutenberg.org/files/42584/42584-h/images/plate_ix.png",
+      "title": "Scelidosaurus harrisoni, Plate IX",
+      "creator": "Joseph Smit; Extinct Monsters, Project Gutenberg digitization",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The armored dinosaur is reconstructed standing upright with a long ground-level tail and raised forelimbs. Small spots and triangular spikes articulate the dark back against light sky; low distant water, palms and a receding second figure create a landscape vignette.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c3888307c3ef71a35983f4121c1a654c8f75076295b3cd84d61ab87620380030",
+      "resolution": "734×464"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-207",
+      "artifact_id": "historic-dinosaur-paleoart-207",
+      "source_url": "https://www.gutenberg.org/files/42584/42584-h/42584-h.htm",
+      "media_url": "https://www.gutenberg.org/files/42584/42584-h/images/plate_x.png",
+      "title": "Stegosaurus ungulatus, Plate X",
+      "creator": "Joseph Smit; Extinct Monsters, Project Gutenberg digitization",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A very dark Stegosaurus fills the foreground with large triangular back plates and long tail spikes. Granular gray printing, a palm at the right edge, bright middle-distance water and a second far animal create contrast and depth. The historical anatomy is recorded, not endorsed as current reconstruction.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "2bc9e0c7c25716398e2810ff10bee5eaf4883d492f6011c65f9a950f5f6f6d42",
+      "resolution": "752×465"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-262",
+      "artifact_id": "historic-dinosaur-paleoart-262",
+      "source_url": "https://www.ulstermuseum.org/stories/prehistoric-world-neave-parker",
+      "media_url": "https://cms.nationalmuseumsni.org/sites/default/files/styles/w1024/public/2025-02/Copy%20of%20Large%20Hero%20-%201095%20x%20616.png?itok=pkEJyveF",
+      "title": "Triceratops",
+      "creator": "Neave Parker; Ulster Museum",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A low horned dinosaur fills the foreground against dark overlapping vegetation and a pale reflective shoreline. White scumbled highlights, repeated skin flecks and sharp horn silhouettes articulate a gray body. The museum reproduction preserves the artist signature; no unique UI typeface follows from it.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "dfe3b36f82f935dcc49f6b82bab17df6c05f50f8ad2cf7de2faddb266b7f0232",
+      "resolution": "1024×576"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-263",
+      "artifact_id": "historic-dinosaur-paleoart-263",
+      "source_url": "https://www.ulstermuseum.org/stories/prehistoric-world-neave-parker",
+      "media_url": "https://cms.nationalmuseumsni.org/sites/default/files/styles/w1024/public/2025-02/Copy%20of%20Large%20Hero%20-%201095%20x%20616%281%29.png?itok=RKsUiUeV",
+      "title": "Canadian Dinosaurs",
+      "creator": "Neave Parker; Ulster Museum",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A monochrome panorama distributes many different dinosaur bodies around a winding valley. A large armored animal and thin vertical trees anchor the foreground; smaller figures and pale cliffs recede in tiers. Detailed skin and grass marks sit beneath broad gray tonal masses.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "adfabc1b5cafec8198c0d1233286947071c07a32dcc528eb7ea58b1075bc7e38",
+      "resolution": "1024×576"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-264",
+      "artifact_id": "historic-dinosaur-paleoart-264",
+      "source_url": "https://www.ulstermuseum.org/stories/prehistoric-world-neave-parker",
+      "media_url": "https://cms.nationalmuseumsni.org/sites/default/files/styles/w1024/public/2025-02/Copy%20of%20Large%20Hero%20-%201095%20x%20616%282%29.png?itok=o8_USdfa",
+      "title": "The British seaside in the Jurassic",
+      "creator": "Neave Parker; Ulster Museum",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Warm gray/cream painting divides a crowded shore and sea with a diagonal coastline. Armored dinosaurs occupy the upper left; plesiosaurs, ichthyosaurs and pterosaurs are adjacent non-dinosaur groups. Long cast shadows and white water strokes unify the scene. The museum explicitly corrects the inclusion of Stegosaurus in this British reconstruction.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1ca647f78f3d90c5bb3c4a7880feb026ef979bfdf80ac3f591b7828258dbe22b",
+      "resolution": "1024×576"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-265",
+      "artifact_id": "historic-dinosaur-paleoart-265",
+      "source_url": "https://www.ulstermuseum.org/stories/prehistoric-world-neave-parker",
+      "media_url": "https://cms.nationalmuseumsni.org/sites/default/files/styles/w1024/public/2025-02/Copy%20of%20Large%20Hero%20-%201095%20x%20616%283%29.png?itok=BIqV6X5C",
+      "title": "Chinese Dinosaurs",
+      "creator": "Neave Parker; Ulster Museum",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Sepia-gray lakeside painting groups large, partly submerged long-necked dinosaurs with upright figures on the banks. Pale horizontal water, sharp dark vegetation and a bright cloud-filled sky organize multiple scales of bodies. This is a historical landscape reconstruction, not a current habitat diagram.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3e57566dc7615aee9b65150762cf132cbe77d0e5b6d6e4bf8c14017a7e985520",
+      "resolution": "1024×576"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-267",
+      "artifact_id": "historic-dinosaur-paleoart-267",
+      "source_url": "https://www.ulstermuseum.org/stories/prehistoric-world-neave-parker",
+      "media_url": "https://cms.nationalmuseumsni.org/sites/default/files/styles/w1024/public/2025-02/Copy%20of%20Large%20Hero%20-%201095%20x%20616%286%29.png?itok=sddqEPvB",
+      "title": "Dinosaurs of the Gobi Desert",
+      "creator": "Neave Parker; Ulster Museum",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A dark upright duck-billed dinosaur dominates the right edge, with smaller horned and predatory dinosaurs scattered across a light wetland. Rough vegetation and small flying reptiles provide subordinate texture. Broad cream/gray tonal fields keep the multi-animal composition legible.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "520ab02661019053891925683edc194f26f92da1427b24f4178006aed7dab131",
+      "resolution": "1024×576"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-270",
+      "artifact_id": "historic-dinosaur-paleoart-270",
+      "source_url": "https://www.ulstermuseum.org/stories/prehistoric-world-neave-parker",
+      "media_url": "https://cms.nationalmuseumsni.org/sites/default/files/styles/w1024/public/2025-02/Copy%20of%20Large%20Hero%20-%201095%20x%20616%288%29.png?itok=c5Qsxa6o",
+      "title": "The Last Days of the Dinosaurs",
+      "creator": "Neave Parker; Ulster Museum",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A wide gray landscape places two horned dinosaurs under a dark rock at right, upright predators in the bright center and flying reptiles above. Fallen branches, small mammals and a distant erupting volcano create several depth planes. This historical tableau is not a diagram of a single established extinction mechanism.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "01f2bf6504be1afaf1a2b1c54db21291e59ae134785324d2bbd4c124df4c6b90",
+      "resolution": "1024×576"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-279",
+      "artifact_id": "historic-dinosaur-paleoart-279",
+      "source_url": "https://www.nhm.ac.uk/discover/palaeoart-the-history-of-bringing-dinosaurs-back-to-life.html",
+      "media_url": "https://www.nhm.ac.uk/content/dam/nhm-www/discover/palaeoart-history/palaeoart-history-diplodocus-neave-reconstruction-two-column-nhm.jpg",
+      "title": "Diplodocus reconstruction",
+      "creator": "Neave Parker; Natural History Museum",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A huge long-necked dinosaur bends its neck down to drink while standing partly in water. Dark stippled and crosshatched skin, white paint-like highlights, pale gray-beige marsh and a thin distant ridge create a clear foreground silhouette. The reconstruction documents an older aquatic interpretation.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "621abfc355eb2a9ffc51afe2576ff046239407073da0053494a44e1ec3065153",
+      "resolution": "1200×693"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-289",
+      "artifact_id": "historic-dinosaur-paleoart-289",
+      "source_url": "https://www.fieldmuseum.org/project-narrative/science/photo-archives-charles-knight-collection",
+      "media_url": "https://www.datocms-assets.com/44232/1632763402-ck10t.jpg",
+      "title": "Protoceratops, Field Museum CK10T",
+      "creator": "Charles R. Knight; Field Museum reproduction",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Several small horned dinosaurs gather around eggs on pink-orange sand beneath a pale blue clouded sky. Olive bodies have violet/blue shaded contours, and small branching shrubs frame the group. Multiple poses belong to one independently authored mural, counted once.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "51514b52abfcfe9a2f070b673ce79ec6754d56fa270d44d3ba69c567e6007e5c",
+      "resolution": "700×556"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-296",
+      "artifact_id": "historic-dinosaur-paleoart-296",
+      "source_url": "https://www.fieldmuseum.org/project-narrative/science/photo-archives-charles-knight-collection",
+      "media_url": "https://www.datocms-assets.com/44232/1632763492-ck31t.jpg",
+      "title": "Stegosaurus, Field Museum CK31T",
+      "creator": "Charles R. Knight; Field Museum reproduction",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two plated dinosaurs occupy a sandy lakeshore, one large at front left and another behind at right. Green/ochre haze, palm trunks and loosely brushed low vegetation create atmospheric depth. This composition differs from the solitary foreground Stegosaurus in PBS record 011; photographic glare limits exact pigment inference.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "4dc2a7151d9dc4bf9cb535a7ea68d60749279cd65cbd4b94a6cb1de8832d8f82",
+      "resolution": "700×538"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-323",
+      "artifact_id": "historic-dinosaur-paleoart-323",
+      "source_url": "https://www.lindahall.org/about/news/scientist-of-the-day/alice-b-woodward/",
+      "media_url": "https://assets-us-01.kc-usercontent.com:443/9dd25524-761a-000d-d79f-86a5086d4774/c3ed71be-74d6-4af9-8c53-dbb7c616aa57/woodward1.jpg",
+      "title": "Diplodocus pair, Nebula to Man, 1905",
+      "creator": "Alice B. Woodward; Linda Hall Library reproduction",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two pale long-necked dinosaurs occupy a shallow shoreline within a dark double ruled rectangular frame. One neck rises almost vertically; the second arcs horizontally. Fine pencil-like gray tone and dark hatching contrast white open space; a much smaller foreground animal supplies scale.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f1d6f57a3bde6499480413da5d36a18fccba742c920df7c8ec5e821cf314d3e4",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-325",
+      "artifact_id": "historic-dinosaur-paleoart-325",
+      "source_url": "https://www.lindahall.org/about/news/scientist-of-the-day/alice-b-woodward/",
+      "media_url": "https://assets-us-01.kc-usercontent.com:443/9dd25524-761a-000d-d79f-86a5086d4774/b9431d82-5760-4497-91ff-7c971084551d/woodward3.jpg",
+      "title": "Iguanodon group, Evolution in the Past, 1912",
+      "creator": "Alice B. Woodward; Linda Hall Library reproduction",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A narrow monochrome plate sets a large upright Iguanodon against a dark hatched sky, with several lower reclining animals and a thin reflective shoreline. Strong contour and granular gray shading distinguish the bodies; a plain white page margin remains part of this complete accessible reproduction.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "2e363dc0d1133651a2eb0df1a3b9cc1e34662bc13037e9a066b2d92f3586d421",
+      "resolution": "800×600"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-343",
+      "artifact_id": "historic-dinosaur-paleoart-343",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Benjamin_Waterhouse_Hawkins_-_Jurassic_Life_of_Europe_-_PP340_-_Princeton_University_Art_Museum.jpg",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Benjamin_Waterhouse_Hawkins_-_Jurassic_Life_of_Europe_-_PP340_-_Princeton_University_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "title": "Jurassic Life of Europe, 1877, Princeton PP340",
+      "creator": "Benjamin Waterhouse Hawkins; Princeton University Art Museum; original reproduction via Wikimedia Commons",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "An exceptionally wide oil painting arranges clusters of heavy reptiles around a twilight water landscape. Dark brown/green land contrasts turquoise water, a pale pink sky and a small crescent moon; a tall central tree divides the groups. Repeated diminutive bodies, reflective water and distant vegetation make the reconstruction a landscape rather than an isolated character design.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "83c4dc3a30ab4abecdff614fe9a962591f25b471a97b70cc760d1cee8b40c0b0",
+      "resolution": "2000×716"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-346",
+      "artifact_id": "historic-dinosaur-paleoart-346",
+      "source_url": "https://www.lindahall.org/experience/digital-exhibitions/paper-dinosaurs/17-theropods-and-sauropods/",
+      "media_url": "https://assets-us-01.kc-usercontent.com:443/9dd25524-761a-000d-d79f-86a5086d4774/659f0e31-1926-4c51-8fad-62d0c81da52f/Iguanodon%201896.jpg",
+      "title": "Iguanodon, Royal Natural History, 1896",
+      "creator": "Alice B. Woodward; Linda Hall Library reproduction",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A solitary upright Iguanodon squats on a heavily folded hind leg, with a long low tail wrapping around the base. Fine monochrome hatching and large angular skin scales contrast open white sky and sparse small plants. The distinct thumb spikes and printed signature belong to a different work from the later Iguanodon group.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d3142a52141cc56778e49c1978edb7ddb72c34816850f57e506fa4dca533cdfb",
+      "resolution": "831×867"
+    },
+    {
+      "record_id": "historic-dinosaur-paleoart-350",
+      "artifact_id": "historic-dinosaur-paleoart-350",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Benjamin_Waterhouse_Hawkins_-_Cretaceous_Life_of_New_Jersey_-_PP336_-_Princeton_University_Art_Museum.jpg",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Benjamin_Waterhouse_Hawkins_-_Cretaceous_Life_of_New_Jersey_-_PP336_-_Princeton_University_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "title": "Cretaceous Life of New Jersey, 1877",
+      "creator": "Benjamin Waterhouse Hawkins; Princeton University Art Museum PP336",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "An unusually wide landscape sets upright land dinosaurs beside reddish autumnal trees on the left shore, while large marine reptiles fill the blue-gray foreground water. A pale central cloud mass and distant mountains open the right side. The warm land/cool water contrast and repeated small receding bodies distinguish habitat zones; marine reptiles remain distinct from the dinosaur subjects.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5365297932941c3cc22f00409e3596fd699de892c34b9c8b19f66cd79ef50f3b",
+      "resolution": "2207×800"
+    }
+  ]
+}

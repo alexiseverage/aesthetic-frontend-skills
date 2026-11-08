@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 254
+- Full entries: 256
 - Redirect entries: 1
 - Families: 8
 
@@ -195,6 +195,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `grosvenor-school-linocut` | Grosvenor School Colour Linocut | Grosvenor School linocuts, Grosvenor colour linocut |
 | `haeckelian-biological-plates` | Haeckelian Biological Plates | Haeckelian natural-history plates, Kunstformen-inspired biological plates |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
+| `historic-dinosaur-paleoart` | Historic Dinosaur Paleoart | vintage dinosaur illustration, historical dinosaur reconstruction, classic dinosaur paleoart |
 | `japanese-tattoo-composition` | Japanese Tattoo Composition | Japanese bodysuit composition, horimono composition, wabori composition |
 | `klecksography-inkblot` | Klecksography / Inkblot Graphics | Klecksography, Folded inkblot graphics, Kleksographie, Klecksographie, Inkblot graphics |
 | `ndebele-mural-art` | Ndebele Mural Art | Ndebele house painting, Southern Ndebele mural painting |
@@ -305,6 +306,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `shokuhin-sanpuru-display` | Shokuhin Sanpuru Display | Japanese food-replica display, food sample display, shokuhin sampuru display |
 | `silver-face-hi-fi` | Silver-Face Hi-Fi | Silver-face stereo, Vintage silver hi-fi panels |
 | `slasher-vhs-rental` | Slasher VHS Rental | horror VHS, video-store slasher |
+| `stage-magic-lithography` | Golden-Age Stage-Magic Lithography | golden-age magic posters, stage illusion lithography, conjuring posters |
 | `sticker-bomb-slap` | Sticker-Bomb / Slap Materiality | sticker bombing, sticker art, slaps, sticker graffiti, sticker slapping |
 | `tiki-polynesian-pop` | Tiki / Polynesian Pop | Polynesian Pop, tiki bar Americana, mid-century tiki |
 | `trading-card-game-design` | Trading Card Game Design | TCG design, CCG frame design, collectible card UI |

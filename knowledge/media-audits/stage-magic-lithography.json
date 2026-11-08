@@ -1,0 +1,1128 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 35,
+  "media": [
+    {
+      "record_id": "stage-magic-lithography-003",
+      "artifact_id": "stage-magic-lithography-003",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-299_150916-p1_en.jpg",
+      "title": "Strobridge Lithographing Company, <i>Kellar</i>, 1899. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.299 © McCord Museum",
+      "creator": "Strobridge Lithographing Company",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Kellar and a red-cloaked devil toast above a huge rising diagonal name. Cream letter faces have yellow/red outlines and dark extrusions; bats silhouette against yellow-to-blue atmosphere. One dominant portrait scene supports a high-contrast typographic base.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "01dcc6d8b00ba30cfe7c2e6669de8e2b203cf85ae77e934de293f48a5f147499",
+      "resolution": "599×800"
+    },
+    {
+      "record_id": "stage-magic-lithography-004",
+      "artifact_id": "stage-magic-lithography-004",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-555_150930-p1_en.jpg",
+      "title": "The Otis Lithograph Company, <i>Thurston, Master Magician – All out of a Hat</i>, about 1924. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.555 © McCord Museum",
+      "creator": "The Otis Lithograph Company",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Thurston stands among women, parasols, birds and repeated hats against cobalt blue. Enormous slanted outlined lettering crosses the top; a central striped cylinder holds the short act title. Detailed naturalistic figures coexist with flat color fields and impossible production imagery.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "023ef2eb32fb6b9beba5aebc0e0d8c62fcc7fa217156ffd7165a8869c31caa67",
+      "resolution": "1200×785"
+    },
+    {
+      "record_id": "stage-magic-lithography-005",
+      "artifact_id": "stage-magic-lithography-005",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-421_150930-p1_en.jpg",
+      "title": "Strobridge Lithographing Company, <i>Thurston the Great Magician – Do the Spririts Come Back?</i>, 1915. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.421 © McCord Museum",
+      "creator": "Strobridge Lithographing Company",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Thurston holds a skull beneath sweeping green vapour containing ghosts, birds and red imps. Large cream/orange outlined title at top, yellow italic billing beneath and a short white stacked question at lower right establish distinct reading tiers.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fde3c9ad1c58d46b2d15b37b1f6267d2dc4bf9d2a7234822b56222ec09cc25bb",
+      "resolution": "603×800"
+    },
+    {
+      "record_id": "stage-magic-lithography-006",
+      "artifact_id": "stage-magic-lithography-006",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-284_150814-p1_en.jpg",
+      "title": "Strobridge Lithographing Company, <i>Kellar</i>, 1902. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.284 © McCord Museum",
+      "creator": "Strobridge Lithographing Company",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Kellar gestures between a spiral ramp and inclined plank populated by red devils and floating orange balls. A large slanted cream name anchors blue-green cavern depth; pictorial impossibility is staged with internally legible perspective.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1ece4d1432e70322d85aa2aef7cbfdc9e284d10115b65c99fc17ed968d504e3a",
+      "resolution": "1200×786"
+    },
+    {
+      "record_id": "stage-magic-lithography-007",
+      "artifact_id": "stage-magic-lithography-007",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-262_151028-p1_en.jpg",
+      "title": "Adolph Friedländer , <i>Kassner, der groβe Zauberer</i>, 1929. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.262 © McCord Museum",
+      "creator": "Adolph Friedländer ",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A magician gestures beneath an enormous vanishing elephant rendered as pale repeated translucent silhouettes. Burgundy arched headline and red diagonal act copy contrast a green-gray field and orange border; this is a materially different palette and geometric title variant.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "91e2dc8d2116c4c3867cefc3e643533f03dd211b7bcf88a1c6d0de46b2ed1854",
+      "resolution": "545×800"
+    },
+    {
+      "record_id": "stage-magic-lithography-008",
+      "artifact_id": "stage-magic-lithography-008",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-229_150902-p1_en.jpg",
+      "title": "The Dangerfield Printing Company Limited, <i>Houdini Upside Down in the Water Torture Cell</i>, about 1915. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.229 © McCord Museum",
+      "creator": "The Dangerfield Printing Company Limited",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Houdini appears upside down inside a riveted water tank. The pale top margin holds a restrained red serif name and black subtitle; refraction-like bands, flesh tones and brass edges dominate a tightly cropped dramatic pictorial field.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d304ae434698c71e1b89bdb57e78fe28a244597e8db09e88d93d0a9834f6045c",
+      "resolution": "528×800"
+    },
+    {
+      "record_id": "stage-magic-lithography-009",
+      "artifact_id": "stage-magic-lithography-009",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-221_150127-p1_en.jpg",
+      "title": "The Otis Lithograph Company, <i>Master Mystifier Houdini, the Greatest Necromancer of the Age, Perhaps of All Times</i>, 1926. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.221 © McCord Museum",
+      "creator": "The Otis Lithograph Company",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Houdini rises as a smoky head above an opened mummy-shaped enclosure and painted Egyptian setting. Cyan sky, orange rock and dark ground lead into huge red/yellow serif billing. Historical exoticizing imagery is observed and should not be copied as neutral decoration.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "44f1e016846f7019c2dcc6069583dd8091f835b61bc7bad7c7ca02255c55807e",
+      "resolution": "593×800"
+    },
+    {
+      "record_id": "stage-magic-lithography-010",
+      "artifact_id": "stage-magic-lithography-010",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-208_150209-p1_en.jpg",
+      "title": "Strobridge Lithographing Company, <i>Adelaide Herrmann, Queen of Magic</i>, 1903. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.208 © McCord Museum",
+      "creator": "Strobridge Lithographing Company",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Adelaide Herrmann stands in patterned red/green clothing beneath a red parasol, framed by a narrow cream panel against olive ground. Small outlined serif billing sits at the bottom; a quiet portrait-led variant contradicts a mandatory gigantic diagonal title.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e4eda40d19e3ace0134696b1c4b43d9dd85a6833c69b6b03c9ccb6686cdcc917",
+      "resolution": "594×800"
+    },
+    {
+      "record_id": "stage-magic-lithography-012",
+      "artifact_id": "stage-magic-lithography-012",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-86_151028-p1_en.jpg",
+      "title": "Illinois Litho Company, <i>Carter the Mysterious</i>, 1905. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.86 © McCord Museum",
+      "creator": "Illinois Litho Company",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Carter portrait floats among smaller illusion scenes carried by green vapour. A pale yellow-outlined name dominates the top; red drapery, devils, white clothing and a skull remain secondary within dark green depth. Long curved vapour joins otherwise separate vignettes.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6b77ffd310f8c25a870e525ed73aabfb46afaba962d5d8124351e6af32653e0e",
+      "resolution": "588×800"
+    },
+    {
+      "record_id": "stage-magic-lithography-013",
+      "artifact_id": "stage-magic-lithography-013",
+      "source_url": "https://www.musee-mccord-stewart.ca/en/collections/documentary-art/the-golden-age-of-magic-posters/",
+      "media_url": "https://www.musee-mccord-stewart.ca/app/uploads/2017/06/m2014-128-3_151028-p1_en.jpg",
+      "title": "Av Yaga, <i>Alexander, the Man Who Knows</i>, 1915. Purchase, funds graciously donated by La Fondation Emmanuelle Gattuso, M2014.128.3 © McCord Museum",
+      "creator": "Av Yaga",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Alexander holds a crystal sphere under a feathered striped turban. A tall compressed arched name and large stacked blue subtitle frame the portrait; pale vertical stripes contrast intricate costume lines. Analyze the marketed exoticism rather than borrowing the costume as an authentic cultural symbol.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fc6ab80563dba574b759138133c5acc24c96d4d7735ca95b3abb0acdfa87520d",
+      "resolution": "396×800"
+    },
+    {
+      "record_id": "stage-magic-lithography-021",
+      "artifact_id": "stage-magic-lithography-021",
+      "source_url": "https://www.loc.gov/pictures/item/2014636902/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/1600/1627/1627r.jpg",
+      "title": "Do spirits return? Houdini says no - and proves it. 3 shows in one : magic, illusions, escapes = fraud mediums exposed.",
+      "creator": "Publisher not identified; Library of Congress catalog",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Houdini debunking poster uses flat orange, black and blue figures, outlined irregular headline lettering and a large block name. An attached theater/date strip is a separate practical information tier; exposed-medium claims are show advertising rather than verified supernatural facts.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1bc12868eac16daafd3749dea64e9d0bc7efa8923100e19fa3d11a1bd38a6c7f",
+      "resolution": "437×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-024",
+      "artifact_id": "stage-magic-lithography-024",
+      "source_url": "https://www.loc.gov/pictures/item/2014636961/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/1600/1679/1679r.jpg",
+      "title": "[Zan Zig performing in four magic vignettes]",
+      "creator": "Strobridge & Co. Lith.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Four illusion scenes are divided by an oval and rectilinear pink frames under a drawn curtain. A large red figure opens the composition; floating bodies, skull and skeleton occupy subordinate panels. Warm paper, yellow floor and green ground organize detailed pictorial space with no dominant performer name.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1675aa6176b0d4c39f0ed24eb10c3a7f51fd9a6dd3ecf8e68068ee6314004cc1",
+      "resolution": "458×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-027",
+      "artifact_id": "stage-magic-lithography-027",
+      "source_url": "https://www.loc.gov/pictures/item/2014636892/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/1600/1622/1622r.jpg",
+      "title": "On the stage - in person, Hardeen, brother of Houdini handcuffs and jails will not hold him : the greatest mystery show of all times.  Mentalist supreme, Princess Yvonne, the mystery girl.",
+      "creator": "Triangle Poster Printing Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Hardeen and Princess Yvonne are billed in dense red, black, yellow and cream blocks. A large pale diagonal female figure joins skull, skeletal and demonic motifs; venue/date and prize text occupy separate bars. The flat reduced-color variant is distinct from continuous-tone painted portrait posters.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9e6fba200d1cb6dbd1670a2dabc2db3ebd9a6c7f96f19fa021979eabd97b6bf9",
+      "resolution": "455×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-028",
+      "artifact_id": "stage-magic-lithography-028",
+      "source_url": "https://www.loc.gov/pictures/item/2014637423/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/06700/06767r.jpg",
+      "title": "Herrmann the Great Co. 3rd annual tour of the Herrmann the Great Co. : the premier magical entertainment of the world : headed by Leon and Adelaide Herrmann in new startling sensations and illusions, eclipsing anything ever attempted in the world of magic.",
+      "creator": "Metropolitan Printing Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Herrmann company poster stacks portraits, performer billing and large red devil illustration inside a narrow vertical strip. Cards, roses and curved translucent rings connect the lower figure to the top portraits; gold-edged condensed caps remain readable on blue-green ground.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "560bf9586b1dca9684b17f7a92fe935a09b4d1e3bc826fad5ca6968df559924c",
+      "resolution": "307×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-033",
+      "artifact_id": "stage-magic-lithography-033",
+      "source_url": "https://www.loc.gov/pictures/item/2014636932/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13400/3g13477r.jpg",
+      "title": "Newmann the Great hypnotist and mind reader.",
+      "creator": "Publisher not identified; Library of Congress catalog",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Newmann script title spans an olive/teal scene around an oval portrait and small framed act photographs. Wizard-like figures, owls, skulls and silhouette poses fill the gaps. Mixed photographic and drawn panels demonstrate a collage variant rather than one painted central illusion.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fe3b7d31ef916a783ed51d126a985b1dcfe3b0778a46872b5a70bd8ea03a5044",
+      "resolution": "516×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-036",
+      "artifact_id": "stage-magic-lithography-036",
+      "source_url": "https://www.loc.gov/pictures/item/2014636963/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/1600/1681/1681r.jpg",
+      "title": "[Magician pulling roses out of top hat surrounded by supernatural beings]",
+      "creator": "Calvert Litho. Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A magician produces pale pink roses from a top hat, surrounded by cards, bats, a skull and faint spectral shapes. A pale rectangular field frames his black coat; soft continuous-tone shading and streaked atmosphere contrast the hard rectangle. No large title is printed in this pictorial stock design.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "39abf6e4a151a83058f344220710f0d3a95ed48f76c1fbf54ef3d0bde64e5f60",
+      "resolution": "428×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-037",
+      "artifact_id": "stage-magic-lithography-037",
+      "source_url": "https://www.loc.gov/pictures/item/2014636965/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/1600/1683/1683r.jpg",
+      "title": "[Magician holding rabbit and conjuring spirit surrounded by demon and owls]",
+      "creator": "U.S. Printing Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A monochrome magician holds a rabbit beside a raised bowl while a ghost, devil and owls crowd the background. Curled smoke and scattered cards form a continuous pictorial field; dark clothing and pale paper create depth without a saturated palette.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3e48c0ed178e68f56bfb0bf96d69acfd57d413b5258815cf879b352a93956eeb",
+      "resolution": "459×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-038",
+      "artifact_id": "stage-magic-lithography-038",
+      "source_url": "https://www.loc.gov/pictures/item/2014635626/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13400/3g13434r.jpg",
+      "title": "Thurston the great magician the wonder show of the universe.",
+      "creator": "National Prtg. & Engr. Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Thurston lettering rises over a red-framed black field with cream line illustration of a magic cabinet, animals and speech balloons. Flat stencil-like drawing, short punchline captions and a cream/red headline substitute for painted full-color portrait rendering.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "76bcea7a0e46983119e70632249577df2561e0ef39faf5a4072e035de9191321",
+      "resolution": "510×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-039",
+      "artifact_id": "stage-magic-lithography-039",
+      "source_url": "https://www.loc.gov/pictures/item/2014636887/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/1600/1618/1618r.jpg",
+      "title": "Mr. & Mrs. Herbert L. Flint annual tour",
+      "creator": "National Prtg. & Engr. Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Flint annual-tour poster makes an enormous cream italic name with hard black shadow its central event. Olive ground, symmetrical bow/flower-like ornaments and thin rectangular rules provide an unusually restrained type-led variant.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0e560b35fdef4ac8648b0620a87c1677de1c0fb45a0da741ad520a35680398fb",
+      "resolution": "443×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-041",
+      "artifact_id": "stage-magic-lithography-041",
+      "source_url": "https://www.loc.gov/pictures/item/2014635624/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13400/3g13433r.jpg",
+      "title": "Thurston the great magician the wonder show of the universe.",
+      "creator": "National Prtg. & Engr. Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A red/cream diagonally rising Thurston name sits above a black field with pale outlined magician, woman and mannequin bust. A short lower caption identifies the illusion; the drawing, title and red frame share severe limited-color print hierarchy.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3ada6142754a198382bd19519b3f760c80be80914da42fc6bbb842ffe747fc7a",
+      "resolution": "509×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-042",
+      "artifact_id": "stage-magic-lithography-042",
+      "source_url": "https://www.loc.gov/pictures/item/2014635625/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/0200/0277/0277r.jpg",
+      "title": "Thurston the great magician the wonder show of the universe.",
+      "creator": "National Prtg. & Engr. Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A pale figure seems to step out of a painted canvas on an easel beneath a large rising red Thurston name. The black background and cream outlines remain flat, with a red border and small lower act caption; the impossible frame crossing is the central structural idea.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f2495feb8e58d9d5bb5c82c4ba7e1c42e3c8584c2ed1a68b84f4e2f1a015c060",
+      "resolution": "781×1024"
+    },
+    {
+      "record_id": "stage-magic-lithography-066",
+      "artifact_id": "stage-magic-lithography-066",
+      "source_url": "https://www.loc.gov/pictures/item/2014635611/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g05000/3g05900/3g05922r.jpg",
+      "title": "A flying visit by Servais Le Roy",
+      "creator": "Denmark Works.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Servais Le Roy flying-visit lithograph is photographed sideways with the entire artwork visible. An arched proscenium, red curtains and oval portraits frame a suspended woman and inverted stage figure. Decorative letter tiles and flowing script share a warm gold/green field.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a90bb79a500637bf7cfe3d61707a15b565b40ae9aa3067900659e8771c1c98de",
+      "resolution": "640×518"
+    },
+    {
+      "record_id": "stage-magic-lithography-068",
+      "artifact_id": "stage-magic-lithography-068",
+      "source_url": "https://www.loc.gov/pictures/item/2014636910/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f03000/3f03700/3f03785r.jpg",
+      "title": "Harry Houdini, king of cards",
+      "creator": "National Prtg. & Engr. Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Young Houdini portrait sits beneath a large slanted navy name with red/cream outlines. Red curving filigree joins small standing and card-hand portraits into oval vignettes on a pale field; the condensed curved King of Cards title occupies the base.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "75c3457de5bcd0e18a7929c9a20e9a15c23a6e017aff7840df2440f476263c21",
+      "resolution": "429×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-069",
+      "artifact_id": "stage-magic-lithography-069",
+      "source_url": "https://www.loc.gov/pictures/item/2014636941/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g08000/3g08200/3g08226r.jpg",
+      "title": "Newmann the Great",
+      "creator": "Standard Show Printers.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A broad script Newmann name caps an olive poster arranged around a small central oval portrait. Six framed photographs are connected by pale ornamental stems, small animals and theatrical occult symbols; one collage poster counts once, not once per inset.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "63c7c7d0798c2bfce562edd666f8a27cbd82d859b86e5b60b18b38364942d342",
+      "resolution": "513×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-070",
+      "artifact_id": "stage-magic-lithography-070",
+      "source_url": "https://www.loc.gov/pictures/item/2014636949/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/1600/1667/1667r.jpg",
+      "title": "Thurston, famous magician 23rd annual tour.",
+      "creator": "Publisher unidentified; Library of Congress catalog",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Orange/black Thurston tour sheet places a huge diagonal dark name between an oval portrait, owl, bats, devil and levitation vignette. The attached venue/date strip has an enormous date numeral; flat limited-color illustration remains useful without continuous-tone full color.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0577604f549a51adbf0150ad4bf4854e26a1bd153c5aa1c11be4217a1476e419",
+      "resolution": "509×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-071",
+      "artifact_id": "stage-magic-lithography-071",
+      "source_url": "https://www.loc.gov/pictures/item/2014636952/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13400/3g13475r.jpg",
+      "title": "Thurston the great magician the wonder show of the universe.",
+      "creator": "Strobridge & Co. Lith.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Thurston stands beside painted Egyptian columns and repeated empty/filled cabinets, a donkey and costumed figures. Large cream/orange slanted billing caps green smoke and small red imps. Historical exoticized stage imagery is recorded as advertising, not ethnographic evidence.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9cb4e9fc9847b4d8c928f41710f7b217dc4038c5e97987b504b401fcc5cc1d92",
+      "resolution": "513×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-075",
+      "artifact_id": "stage-magic-lithography-075",
+      "source_url": "https://www.loc.gov/pictures/item/2014636883/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/1600/1613/1613r.jpg",
+      "title": "Barnum the hypnotist",
+      "creator": "Barnum.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Barnum hypnotist poster divides staged comic and levitation acts into three linked rounded scenes. Red title, warm yellow ground, red ornamental stems and black-suited performers create a symmetrical program-like field; pictured acts are promotional claims.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "66b54e8ceef63cd01bb75993cf21c8a0b8cec08a25efcdc0f54ebb78ecfd0a82",
+      "resolution": "438×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-076",
+      "artifact_id": "stage-magic-lithography-076",
+      "source_url": "https://www.loc.gov/pictures/item/2014636876/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g12000/3g12700/3g12753r.jpg",
+      "title": "Alexander, crystal seer sees our life from the cradle to the grave.",
+      "creator": "Alexander, C. A. (Claude Alexander), 1880-1954.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Alexander crystal-seer poster places an enormous skeleton hand beneath a clear sphere containing small life scenes. A diagonal white light beam joins the sphere to the upper corner of the black field; outlined caps and ornate short labels contrast stark graphic geometry.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "cd17de45e42a0be0d0b1ecf12bd74feb262d2c6736c225104c9d325b916dab3f",
+      "resolution": "516×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-077",
+      "artifact_id": "stage-magic-lithography-077",
+      "source_url": "https://www.loc.gov/pictures/item/2014636926/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13400/3g13484r.jpg",
+      "title": "Newmann's wonderful spirit mysteries",
+      "creator": "Donaldson Lith. Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Newmann spirit-mysteries cabinet is framed by a large orange/cream title bar. Red imps, blue ghosts, a skeleton, floating instruments, cards and an open panel create a dense impossible tableau; flat orange, blue, yellow and cream fields form a clear hierarchy.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "de79aa118646c93241b015cf8ac89ed89ea566ab916f0ce1c6337d3487087283",
+      "resolution": "514×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-080",
+      "artifact_id": "stage-magic-lithography-080",
+      "source_url": "https://www.loc.gov/pictures/item/2014635605/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/88200/88248r.jpg",
+      "title": "Kellar's startling wonder",
+      "creator": "Strobridge & Co. Lith.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Kellar gestures toward a cabinet whose doors open into floating instruments, a head and a hovering cloth. Blue curtain and pale green wall divide the space; small multicolored extruded title and light base caption leave the pictorial scene dominant.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "de51537503144b52f4590e9a58f62b51c0759ed350dec9e62fe95b5c9f3f020c",
+      "resolution": "640×453"
+    },
+    {
+      "record_id": "stage-magic-lithography-088",
+      "artifact_id": "stage-magic-lithography-088",
+      "source_url": "https://www.loc.gov/pictures/item/2014636879/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g13000/3g13400/3g13444r.jpg",
+      "title": "Frederick Bancroft, prince of magicians",
+      "creator": "Springer & Welty Lith.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Bancroft lithograph uses pale slanted lettering above a seated woman, gold textiles, a tiger skin, glass vessel and patterned screen. Rich shaded brown/blue/gold staging is a portrait-led exoticist variant; the printed racialized title is historical advertising and unsuitable for neutral modern reuse.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7362dbe84567cfccfaee84c9e59389998f5f9f6e55d081e56eea9fb0523a6e09",
+      "resolution": "517×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-089",
+      "artifact_id": "stage-magic-lithography-089",
+      "source_url": "https://www.loc.gov/pictures/item/2014636920/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g12000/3g12700/3g12756r.jpg",
+      "title": "Kellar",
+      "creator": "Strobridge & Co. Lith.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Wide Kellar composition uses enormous slanted cream/yellow lettering over a room of small illusion vignettes. A bright central flame, open book, ghost shapes, figures and table objects share dark brown/green depth, demonstrating a landscape format with dense but subordinated detail.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1801a8d7523eb233e1e5aae866608a406a6ec7c2f2ee36a4d014aa6121fe25ea",
+      "resolution": "640×512"
+    },
+    {
+      "record_id": "stage-magic-lithography-090",
+      "artifact_id": "stage-magic-lithography-090",
+      "source_url": "https://www.loc.gov/pictures/item/2014636947/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b50000/3b53000/3b53100/3b53126r.jpg",
+      "title": "One of Thurston's astounding mysteries",
+      "creator": "Otis Lithograph Co.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Thurston levitation poster repeats a magician and floating woman across a curved blue/green/orange scene. Large outlined italic title sits above multiple stages; short italic yellow copy at the base completes a diagram-like sequence within a single lithographic artwork.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7527f4efb6ee94f5fbeb12092f202fadb867d7b9440eddeb960f49e98df85679",
+      "resolution": "419×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-093",
+      "artifact_id": "stage-magic-lithography-093",
+      "source_url": "https://www.loc.gov/pictures/item/2014636962/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/var/1600/1680/1680r.jpg",
+      "title": "[Zan Zig performing with rabbit and roses, including hat trick and levitation]",
+      "creator": "Strobridge & Co. Lith.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Zan Zig figure holds a rabbit and releases a stream of pink roses, with doves, floating flowers and vessels at either side. A dark green upper field meets yellow floor; pale smoke and descending petals connect a title-free stock illustration.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "64043f2213510e0606ab5ec7358c6d8732cf2675442659aa350b858a82614650",
+      "resolution": "462×640"
+    },
+    {
+      "record_id": "stage-magic-lithography-095",
+      "artifact_id": "stage-magic-lithography-095",
+      "source_url": "https://www.loc.gov/pictures/item/2014635620/",
+      "media_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g12000/3g12700/3g12760r.jpg",
+      "title": "Thurston Kellar's successor.",
+      "creator": "Strobridge & Co. Lith.",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Thurston and small red imps stand beside an inverted human in a wooden cabinet. Blue ground contrasts pale clothing, wood and strongly outlined yellow slanted lettering; a compact act title and endorsement sit below. The cabinet and billing differ from the Houdini tank poster.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f88d3e7745fde8fe54ee7079abd3458dadc9a2ad3b8b4f209d226981bfe72ce2",
+      "resolution": "515×640"
+    }
+  ]
+}

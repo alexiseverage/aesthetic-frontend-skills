@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 254,
+  "fullEntryCount": 256,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1361,6 +1361,17 @@
       ]
     },
     {
+      "slug": "historic-dinosaur-paleoart",
+      "label": "Historic Dinosaur Paleoart",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "vintage dinosaur illustration",
+        "historical dinosaur reconstruction",
+        "classic dinosaur paleoart"
+      ]
+    },
+    {
       "slug": "hotel-luggage-labels",
       "label": "Hotel Luggage Labels",
       "family": "vernacular-commercial",
@@ -2303,6 +2314,17 @@
         "score bug",
         "broadcast score overlay",
         "sports broadcast graphics"
+      ]
+    },
+    {
+      "slug": "stage-magic-lithography",
+      "label": "Golden-Age Stage-Magic Lithography",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "golden-age magic posters",
+        "stage illusion lithography",
+        "conjuring posters"
       ]
     },
     {
