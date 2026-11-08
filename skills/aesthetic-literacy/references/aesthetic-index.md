@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 260
+- Full entries: 261
 - Redirect entries: 1
 - Families: 8
 
@@ -314,6 +314,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `sticker-bomb-slap` | Sticker-Bomb / Slap Materiality | sticker bombing, sticker art, slaps, sticker graffiti, sticker slapping |
 | `tiki-polynesian-pop` | Tiki / Polynesian Pop | Polynesian Pop, tiki bar Americana, mid-century tiki |
 | `trading-card-game-design` | Trading Card Game Design | TCG design, CCG frame design, collectible card UI |
+| `transparent-translucent-electronics` | Transparent / Translucent Electronics | clear electronics, see-through electronics, translucent hardware, clear-tech hardware |
 
 ## Redirects / Superseded Entries
 

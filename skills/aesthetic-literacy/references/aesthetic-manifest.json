@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 260,
+  "fullEntryCount": 261,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -2575,6 +2575,18 @@
         "TCG design",
         "CCG frame design",
         "collectible card UI"
+      ]
+    },
+    {
+      "slug": "transparent-translucent-electronics",
+      "label": "Transparent / Translucent Electronics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "clear electronics",
+        "see-through electronics",
+        "translucent hardware",
+        "clear-tech hardware"
       ]
     },
     {
