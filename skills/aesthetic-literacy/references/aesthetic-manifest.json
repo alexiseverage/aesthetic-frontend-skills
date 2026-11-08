@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 256,
+  "fullEntryCount": 257,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -113,6 +113,17 @@
       "aliases": [
         "Alpine Winter Tourism Posters",
         "Vintage Alpine Ski Posters"
+      ]
+    },
+    {
+      "slug": "american-traditional-tattoo-flash",
+      "label": "American Traditional Tattoo Flash",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "old-school tattoo flash",
+        "traditional American flash",
+        "sailor tattoo flash"
       ]
     },
     {

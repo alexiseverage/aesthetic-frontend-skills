@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 256
+- Full entries: 257
 - Redirect entries: 1
 - Families: 8
 
@@ -270,6 +270,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | Slug | Label | Aliases |
 | --- | --- | --- |
 | `alpine-winter-travel-posters` | Alpine Winter Travel Posters | Alpine Winter Tourism Posters, Vintage Alpine Ski Posters |
+| `american-traditional-tattoo-flash` | American Traditional Tattoo Flash | old-school tattoo flash, traditional American flash, sailor tattoo flash |
 | `animal-rights-campaign-graphics` | Animal-Rights Campaign Graphics | Animal rights advocacy graphics, Animal liberation campaign graphics |
 | `architectural-property-editorial` | Architectural Property Editorial | Architecture-led property editorial, Architecture-led real estate editorial |
 | `b2b-quick-order-grid` | B2B Quick-Order Grid | quick order grid, B2B order pad, SKU quick order |
