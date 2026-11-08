@@ -1,9 +1,20 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 251,
+  "fullEntryCount": 266,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
+    {
+      "slug": "1970s-recipe-card-libraries",
+      "label": "1970s Recipe Card Libraries",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "seventies recipe-card libraries",
+        "1970s boxed recipe cards",
+        "1970s cooking-card libraries"
+      ]
+    },
     {
       "slug": "1990s-minimalism",
       "label": "1990s Minimalism",
@@ -113,6 +124,17 @@
       "aliases": [
         "Alpine Winter Tourism Posters",
         "Vintage Alpine Ski Posters"
+      ]
+    },
+    {
+      "slug": "american-traditional-tattoo-flash",
+      "label": "American Traditional Tattoo Flash",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "old-school tattoo flash",
+        "traditional American flash",
+        "sailor tattoo flash"
       ]
     },
     {
@@ -564,6 +586,17 @@
       ]
     },
     {
+      "slug": "classic-ray-traced-cgi",
+      "label": "Classic Ray-Traced CGI",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "classic raytracing",
+        "early ray-traced CGI",
+        "POV-Ray-era CGI"
+      ]
+    },
+    {
       "slug": "classroom-bulletin-board-halloween",
       "label": "Classroom Bulletin Board Halloween",
       "family": "vernacular-commercial",
@@ -778,6 +811,17 @@
       ]
     },
     {
+      "slug": "deconstructed-fashion",
+      "label": "Deconstructed Fashion",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "deconstruction fashion",
+        "deconstructivist fashion",
+        "deconstructed tailoring"
+      ]
+    },
+    {
       "slug": "deconstructivist-architecture",
       "label": "Deconstructivist Architecture",
       "family": "historical-design-movements",
@@ -905,6 +949,17 @@
       "status": "canonical",
       "aliases": [
         "webcore"
+      ]
+    },
+    {
+      "slug": "early-web-pet-portals",
+      "label": "Early Web Pet Portals",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "classic virtual-pet portals",
+        "web pet community interfaces",
+        "browser pet portals"
       ]
     },
     {
@@ -1350,6 +1405,17 @@
       ]
     },
     {
+      "slug": "historic-dinosaur-paleoart",
+      "label": "Historic Dinosaur Paleoart",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "vintage dinosaur illustration",
+        "historical dinosaur reconstruction",
+        "classic dinosaur paleoart"
+      ]
+    },
+    {
       "slug": "hotel-luggage-labels",
       "label": "Hotel Luggage Labels",
       "family": "vernacular-commercial",
@@ -1429,6 +1495,17 @@
       ]
     },
     {
+      "slug": "japanese-tattoo-composition",
+      "label": "Japanese Tattoo Composition",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Japanese bodysuit composition",
+        "horimono composition",
+        "wabori composition"
+      ]
+    },
+    {
       "slug": "jrpg-command-menus",
       "label": "JRPG Command Menus",
       "family": "digital-internet-native",
@@ -1470,6 +1547,17 @@
         "Japanese convenience store utility",
         "konbini design",
         "convenience retail packaging utility"
+      ]
+    },
+    {
+      "slug": "lcd-virtual-pet-toys",
+      "label": "LCD Virtual Pet Toys",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "LCD pet toys",
+        "keychain virtual pets",
+        "monochrome pocket pets"
       ]
     },
     {
@@ -1617,6 +1705,18 @@
       ]
     },
     {
+      "slug": "model-comp-cards",
+      "label": "Model Comp Cards",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "model composite cards",
+        "model sedcards",
+        "model z-cards",
+        "model zed cards"
+      ]
+    },
+    {
       "slug": "multisensory-room-design",
       "label": "Multisensory Room Design",
       "family": "technical-institutional",
@@ -1656,6 +1756,16 @@
         "nanotech punk",
         "nanobot aesthetic",
         "programmable matter"
+      ]
+    },
+    {
+      "slug": "napster-era-p2p-clients",
+      "label": "Napster-Era P2P Clients",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "early peer-to-peer client UI",
+        "Napster-era file-sharing interfaces"
       ]
     },
     {
@@ -2086,6 +2196,17 @@
       ]
     },
     {
+      "slug": "rubber-hose-animation",
+      "label": "Rubber-Hose Animation",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "rubber hose cartoon style",
+        "rubberhose animation",
+        "rubber-limb cartoon graphics"
+      ]
+    },
+    {
       "slug": "safavid-manuscript-painting",
       "label": "Safavid Manuscript Painting",
       "family": "material-print-craft",
@@ -2167,6 +2288,17 @@
       "aliases": [
         "Shin Hanga",
         "Japanese New Prints"
+      ]
+    },
+    {
+      "slug": "shokuhin-sanpuru-display",
+      "label": "Shokuhin Sanpuru Display",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Japanese food-replica display",
+        "food sample display",
+        "shokuhin sampuru display"
       ]
     },
     {
@@ -2270,6 +2402,17 @@
         "score bug",
         "broadcast score overlay",
         "sports broadcast graphics"
+      ]
+    },
+    {
+      "slug": "stage-magic-lithography",
+      "label": "Golden-Age Stage-Magic Lithography",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "golden-age magic posters",
+        "stage illusion lithography",
+        "conjuring posters"
       ]
     },
     {
@@ -2479,6 +2622,18 @@
       ]
     },
     {
+      "slug": "transparent-translucent-electronics",
+      "label": "Transparent / Translucent Electronics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "clear electronics",
+        "see-through electronics",
+        "translucent hardware",
+        "clear-tech hardware"
+      ]
+    },
+    {
       "slug": "ulm-school",
       "label": "Ulm School / HfG Ulm",
       "family": "historical-design-movements",
@@ -2656,6 +2811,17 @@
       "aliases": [
         "Whole Earth editorial vernacular",
         "Whole Earth tool-catalog design"
+      ]
+    },
+    {
+      "slug": "wireframe-modeling-workbench",
+      "label": "Wireframe Modeling Workbench",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "3D modeling workbench aesthetic",
+        "mesh editor interface aesthetic",
+        "wireframe modeling UI"
       ]
     },
     {

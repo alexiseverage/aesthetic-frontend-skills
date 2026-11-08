@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 251
+- Full entries: 266
 - Redirect entries: 1
 - Families: 8
 
@@ -24,6 +24,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `coastal-grandmother` | Coastal Grandmother | Nancy Meyers chic, coastal auntie, easy coastal luxury |
 | `cottagecore` | Cottagecore | farmcore, countrycore |
 | `dark-academia` | Dark Academia | academic gothic, scholastic gothic |
+| `deconstructed-fashion` | Deconstructed Fashion | deconstruction fashion, deconstructivist fashion, deconstructed tailoring |
 | `decora-kei` | Decora Kei | decora, Harajuku decora, decora fashion, kawaii accessory stacking, decorative kei |
 | `folk-horror-pastoral` | Folk Horror Pastoral | folk horror, uncanny pastoral |
 | `goblincore` | Goblincore | mushroomcore, mosscore, dirtcore-adjacent |
@@ -46,6 +47,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `ai-slop-synthetic-corporate-art` | AI Slop / Synthetic Corporate Art | AI slop, synthetic corporate art, AI-generated corporate illustration |
 | `browser-chrome-netscape` | Browser Chrome / Netscape-Era Browser UI | netscape chrome, 90s browser frame, browser chrome, throbber era |
 | `cd-rom-edutainment` | CD-ROM Edutainment Worlds | 1990s multimedia learning worlds, Illustrated CD-ROM learning interfaces |
+| `classic-ray-traced-cgi` | Classic Ray-Traced CGI | classic raytracing, early ray-traced CGI, POV-Ray-era CGI |
 | `cloud-rap` | Cloud Rap | Cloud Rap Graphics, Cloud Rap Visuals |
 | `clowncore` | Clowncore | clown core, clowncore aesthetic |
 | `cyberdelic-editorial` | Cyberdelic Editorial | Cyberdelic magazine graphics, 1990s cyberculture editorial |
@@ -55,6 +57,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `dreamcore-weirdcore` | Dreamcore / Weirdcore | dreamcore, weirdcore, liminal dream edit |
 | `dvd-menu` | DVD Menu | DVD menu screen, DVD menu interface, DVD menu design, DVD-Video menu, interactive DVD menu, disc menu |
 | `early-internet` | Early Internet / Web 1.0 | webcore |
+| `early-web-pet-portals` | Early Web Pet Portals | classic virtual-pet portals, web pet community interfaces, browser pet portals |
 | `flat-design` | Flat Design | flat UI, metro-inspired, Flat 2.0 |
 | `frutiger-aero` | Frutiger Aero | — |
 | `glitch` | Glitch / Datamosh | — |
@@ -63,9 +66,11 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `hyperpop` | Hyperpop | Hyperpop Graphics, Hyper Pop Visuals |
 | `j-gov-futurism` | J-Gov Futurism | sibyl-ui, institutional-brutalism, nihon-noir-tech, clinical-brutalism, diegetic-bureaucratic-ui |
 | `jrpg-command-menus` | JRPG Command Menus | Japanese role-playing game menus, JRPG party menus |
+| `lcd-virtual-pet-toys` | LCD Virtual Pet Toys | LCD pet toys, keychain virtual pets, monochrome pocket pets |
 | `liminal-space-backrooms` | Liminal Space / Backrooms | liminal spaces, Backrooms aesthetic, uncanny transitional architecture |
 | `material-design` | Material Design | Material, Material UI, MDL |
 | `myspace-chaos` | MySpace Chaos | MySpace aesthetic, profile customization era |
+| `napster-era-p2p-clients` | Napster-Era P2P Clients | early peer-to-peer client UI, Napster-era file-sharing interfaces |
 | `palm-os-monochrome` | Palm OS Monochrome | PalmPilot monochrome UI, Classic Palm OS monochrome interface |
 | `personal-homepage-builder` | Personal Homepage Builder / Site-Builder Wizard | site builder wizard, GeoCities PageBuilder, homepage builder UI, WYSIWYG web editor |
 | `seapunk` | Seapunk | Sea punk |
@@ -153,6 +158,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `psychedelic` | Psychedelic | Psychedelia, Acid Aesthetic, Fillmore Poster Style, Trippy |
 | `punk-zine` | Punk Zine / DIY Aesthetic | Punk Design, Zine Aesthetic, Ransom Note Typography, DIY Design, Jamie Reid Style |
 | `rave-flyer` | Rave Flyer Aesthetic | rave aesthetic, rave poster, candy rave, 90s rave flyer |
+| `rubber-hose-animation` | Rubber-Hose Animation | rubber hose cartoon style, rubberhose animation, rubber-limb cartoon graphics |
 | `scandinavian-modern` | Scandinavian Modern | Nordic Modern, Danish Modern, Swedish Modern, Scandi Minimalism |
 | `shaker-design` | Shaker Design | Shaker furniture, Shaker style, United Society of Believers design |
 | `shin-hanga` | Shin-hanga | Shin Hanga, Japanese New Prints |
@@ -176,6 +182,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 
 | Slug | Label | Aliases |
 | --- | --- | --- |
+| `1970s-recipe-card-libraries` | 1970s Recipe Card Libraries | seventies recipe-card libraries, 1970s boxed recipe cards, 1970s cooking-card libraries |
 | `albarello-pharmacy-ceramics` | Albarello Pharmacy Ceramics | Albarelli pharmacy jars, Painted albarello vessels, Albarelli, Albarelo pharmacy ceramics |
 | `anatomical-flap-atlases` | Anatomical Flap Atlases | Anatomical flap books, Anatomical fugitive sheets |
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
@@ -194,6 +201,8 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `grosvenor-school-linocut` | Grosvenor School Colour Linocut | Grosvenor School linocuts, Grosvenor colour linocut |
 | `haeckelian-biological-plates` | Haeckelian Biological Plates | Haeckelian natural-history plates, Kunstformen-inspired biological plates |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
+| `historic-dinosaur-paleoart` | Historic Dinosaur Paleoart | vintage dinosaur illustration, historical dinosaur reconstruction, classic dinosaur paleoart |
+| `japanese-tattoo-composition` | Japanese Tattoo Composition | Japanese bodysuit composition, horimono composition, wabori composition |
 | `klecksography-inkblot` | Klecksography / Inkblot Graphics | Klecksography, Folded inkblot graphics, Kleksographie, Klecksographie, Inkblot graphics |
 | `ndebele-mural-art` | Ndebele Mural Art | Ndebele house painting, Southern Ndebele mural painting |
 | `paper-theatre` | Paper Theatre | Paper Theater, Toy Theatre, Toy Theater, Papiertheater, Théâtre de Papier, Juvenile Drama |
@@ -261,12 +270,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `spooky-science-lab` | Spooky Science Lab | Halloween science lab, spooky STEM |
 | `sports-scorebug` | Sports Scorebug | score bug, broadcast score overlay, sports broadcast graphics |
 | `teletext` | Teletext | Broadcast teletext, Teletext design, Ceefax-style teletext |
+| `wireframe-modeling-workbench` | Wireframe Modeling Workbench | 3D modeling workbench aesthetic, mesh editor interface aesthetic, wireframe modeling UI |
 
 ## vernacular-commercial
 
 | Slug | Label | Aliases |
 | --- | --- | --- |
 | `alpine-winter-travel-posters` | Alpine Winter Travel Posters | Alpine Winter Tourism Posters, Vintage Alpine Ski Posters |
+| `american-traditional-tattoo-flash` | American Traditional Tattoo Flash | old-school tattoo flash, traditional American flash, sailor tattoo flash |
 | `animal-rights-campaign-graphics` | Animal-Rights Campaign Graphics | Animal rights advocacy graphics, Animal liberation campaign graphics |
 | `architectural-property-editorial` | Architectural Property Editorial | Architecture-led property editorial, Architecture-led real estate editorial |
 | `b2b-quick-order-grid` | B2B Quick-Order Grid | quick order grid, B2B order pad, SKU quick order |
@@ -294,17 +305,21 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `lomography` | Lomography | Lomographic photography |
 | `lotto` | Lotto Scratcher Commerce | scratch-off, scratch ticket, instant-win ticket, state lottery scratcher |
 | `mexican-rotulismo` | Mexican Rotulismo | Mexican Rótulos, rotulismo mexicano, Mexican rotulos, rótulo vernacular, hand-painted Mexican signs |
+| `model-comp-cards` | Model Comp Cards | model composite cards, model sedcards, model z-cards, model zed cards |
 | `nagel-era-fashion-illustration` | Nagel-era Fashion Illustration | Nagel illustration, Nagel poster aesthetic, 1980s planar fashion illustration |
 | `pakistani-truck-art` | Pakistani Truck Art | Pakistan Truck Art, Pakistani Truck Painting |
 | `plant-based-challenger-graphics` | Plant-Based Challenger Graphics | Plant-based challenger branding, Vegan challenger graphics |
 | `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |
 | `school-fall-festival` | School Fall Festival | fall festival flyer, school carnival fall |
 | `shanghai-calendar-posters` | Shanghai Calendar Posters | Shanghai yuefenpai, 上海月份牌, Shanghai advertising calendars |
+| `shokuhin-sanpuru-display` | Shokuhin Sanpuru Display | Japanese food-replica display, food sample display, shokuhin sampuru display |
 | `silver-face-hi-fi` | Silver-Face Hi-Fi | Silver-face stereo, Vintage silver hi-fi panels |
 | `slasher-vhs-rental` | Slasher VHS Rental | horror VHS, video-store slasher |
+| `stage-magic-lithography` | Golden-Age Stage-Magic Lithography | golden-age magic posters, stage illusion lithography, conjuring posters |
 | `sticker-bomb-slap` | Sticker-Bomb / Slap Materiality | sticker bombing, sticker art, slaps, sticker graffiti, sticker slapping |
 | `tiki-polynesian-pop` | Tiki / Polynesian Pop | Polynesian Pop, tiki bar Americana, mid-century tiki |
 | `trading-card-game-design` | Trading Card Game Design | TCG design, CCG frame design, collectible card UI |
+| `transparent-translucent-electronics` | Transparent / Translucent Electronics | clear electronics, see-through electronics, translucent hardware, clear-tech hardware |
 
 ## Redirects / Superseded Entries
 

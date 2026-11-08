@@ -1,0 +1,969 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 31,
+  "media": [
+    {
+      "record_id": "napster-era-p2p-clients-004",
+      "artifact_id": "napster-era-p2p-clients-004",
+      "source_url": "https://macintoshgarden.org/apps/napster",
+      "media_url": "https://macintoshgarden.org/sites/macintoshgarden.org/files/screenshots/2-Napster_sc.jpg",
+      "title": "Napster for Macintosh search window",
+      "creator": "Napster / Blackhole Media; preserved by Macintosh Garden",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Platinum gray beveled controls and thin striped window handles frame a two-field artist/title search. A very dense seven-column file table carries icons, sizes, bitrate, duration, peer, connection and ping. A small global icon toolbar and numerical sharing status sit above multiple windows; serif ornament and album artwork do not organize the results.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9f2fd1a8493f1a1afc364c97ad9ca09628ef2d445affb754186931c625fadeee"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-087",
+      "artifact_id": "napster-era-p2p-clients-087",
+      "source_url": "https://www.winmxworld.com/tutorials/winmx_basics.html",
+      "media_url": "https://www.winmxworld.com/images/winmx_basics_1.png",
+      "title": "WinMX v3.54 beta3 network pane",
+      "creator": "FrontCode Technologies; WinMX World tutorial capture",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A tightly packed icon-tab strip, gray recessed groups and thin white/black bevels surround connection identity and radio settings. Green connection-light is paired with Ready text. Search and transfer views show black result wells, yellow/cyan/blue legends and paired download/upload queues; colors differ sharply from white-table clients.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e1981e85fadf9298bb7c1c8586976c600303c9b02c570114ea7247b1d002db0b"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-143",
+      "artifact_id": "napster-era-p2p-clients-143",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/gnutella.jpg",
+      "title": "Nullsoft Gnutella v0.56",
+      "creator": "Nullsoft; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Compact gray Windows titlebar and vertical text navigation frame a connection table. Two-column grouping places network counters and host-catching controls below; black outlined inputs and rectilinear bevels dominate. Numeric status, hostnames and short action verbs make network operation visible.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "88c1ea2ffc56f71bc070a2963bd43ba5bf1eaf2bc95468cf932556e2f5b183e8"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-144",
+      "artifact_id": "napster-era-p2p-clients-144",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/scour-exchange.jpg",
+      "title": "Scour Exchange, media search",
+      "creator": "Scour; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A blue left icon rail separates Find Media from library/transfers/hotlist. A blue section heading, gray search criteria and an open file-type menu sit over compact striped rows with green availability dots. The accessible464px original is cropped at the right edge, so full-window proportions and fine-text measurements remain unknown.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "54c026726883f2441ef3fc8a1af59e5110d48818bf6d40d9345edfe40ac5c85b"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-146",
+      "artifact_id": "napster-era-p2p-clients-146",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/imesh.jpg",
+      "title": "iMesh, search and availability results",
+      "creator": "iMesh; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Mustard-gold accents, a small pink/yellow spiral emblem and gray chrome distinguish this client. File results occupy most of the window; repeated small green availability symbols form a separate column. A selected row is dark navy and a context menu offers Download and email forwarding. It is not an album-cover browsing grid.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f539f6b1c6f4f86258be6a254309fb1197c3894f274fbce0400e650569e0e663"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-147",
+      "artifact_id": "napster-era-p2p-clients-147",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/limewire.jpg",
+      "title": "LimeWire, early Java search window",
+      "creator": "LimeWire; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Blue-gray Java panels, rounded beveled buttons and a lime emblem differ from native Windows chrome. Search, Monitor, Connections and Library tabs sit above query/category fields and search tabs. Results above and download table below share Name/Type/Size/Speed metadata; a lower player and green connected indicator carry utility rather than large decorative imagery.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "94af115f8878e787f6532c3b5208877a2274b2e066906ad101b9099adf7472d1"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-148",
+      "artifact_id": "napster-era-p2p-clients-148",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/bearshare.jpg",
+      "title": "BearShare, early hosts pane",
+      "creator": "Free Peers / BearShare; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Small horizontal tabs expose Hosts, Search, Downloads, Uploads, Monitor and Statistics. A nearly empty white host table uses country flags and colored connection status; counters and five green lamps occupy the bottom. Sparse empty space is a real state, not a requirement to fill every region with data.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "640ab0ab33ba1b3c20a4306a2d815d3fe763733bf58064893d9edb4b8793bda7"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-149",
+      "artifact_id": "napster-era-p2p-clients-149",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/cutemx.jpg",
+      "title": "CuteMX2.5 BETA Build11.06.2",
+      "creator": "GlobalSCAPE / CuteMX; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A dark gray vertical icon rail shows Web, Search, Queues, Friends/Enemies, Shared Files and Chat. Search criteria sit above a gray ruled filename/peer table; muted toolbar icons and a blue selected navigation tile organize a busy but mostly desaturated desktop. User counts and shared-file counts remain in a narrow status strip.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6d11b0baf04a0de730771c1e1f01296ecb33740f4a9c872fb2a43f99da13a3fb"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-150",
+      "artifact_id": "napster-era-p2p-clients-150",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/filetopia.jpg",
+      "title": "Filetopia Client2.01, search",
+      "creator": "Filetopia; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Colorful square toolbar icons and a blue titlebar top gray query controls and a filename/size/connection/description table. Multiple small internal-window tabs and a black result-count strip sit below the results. The bottom status area uses bright blue text for transfer counts rather than a poster-like title hierarchy.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d6532bb09eeebfe6ae847cbc587c5f4b08189be86d661f9c0c7ef600f0529957"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-152",
+      "artifact_id": "napster-era-p2p-clients-152",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/jungle-monkey.jpg",
+      "title": "Jungle Monkey, channels tree",
+      "creator": "Jungle Monkey project; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A lavender-gray tabbed window contains a deep expandable tree of channels, folders and filenames. Fine tree connectors and tiny document/folder icons create the hierarchy; a second lower pane explains the selected channel and URL. This channel-browsing variant contradicts an exclusively search-box-driven definition.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ab4e50b2ee56ec119e317c40aecab76a85ef1f6b2920b468db55ac57bcf7888e"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-153",
+      "artifact_id": "napster-era-p2p-clients-153",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/netbrilliant.jpg",
+      "title": "Netbrilliant, network and search windows",
+      "creator": "Netbrilliant; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A gray toolbar spans a pale yellow background with overlapping independently framed result and network-status windows. The result table has tightly packed technical metadata; a separate mini pane uses green ready bars for people, scope and OpenNap services. Small original limits fine lettering, but window hierarchy, color roles and table density are legible.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "33a802857494335d61b768ccf051d89e7bba3f3ac814b7d85cb3ecc8a1a08cdc"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-154",
+      "artifact_id": "napster-era-p2p-clients-154",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/omnipod.jpg",
+      "title": "Omnipod, blue skinned sharing interface",
+      "creator": "Omnipod; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A deliberately nonrectangular electric-blue shell with mechanical corners surrounds a gray file list and stacked inbox panels. Small side pictograms and vivid orange section labels replace ordinary menu organization; tiny connected status dots sit in the lower shell. This strong skin is a documented variant, not proof every P2P client used native gray chrome.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "bced7dec36dc9c9199c301248b2e8537ec56166b9248a414d03edb82dc62610d"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-155",
+      "artifact_id": "napster-era-p2p-clients-155",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/the-leech.jpg",
+      "title": "The Leech, server setup",
+      "creator": "The Leech project; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A compact native gray window uses folder-shaped tabs, thin recessed form controls and two bounded groups for users and server status. Name/password/host/directory/port/timeout remain plainly visible. This configuration state supports utility chrome and technical density, not the assumption that every historical client successfully connected.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3ffd7f579856ae0652c0ddc975a3fe4ffe047e5304eda58b3ee10f00e0a3e07f"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-156",
+      "artifact_id": "napster-era-p2p-clients-156",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/aimster.jpg",
+      "title": "Aimster, control panel and buddy windows",
+      "creator": "Aimster; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Cyan window edges and dark teal buddy/chat panels surround a gray control strip and embedded dark web content. File sharing, plugin choice and buddy presence are visibly intertwined. Multiple detached panes and thin compact labels oppose modern single-scroll-page composition; branded website content is one region rather than the whole client.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9ecf3cd4302eec9532bd404aa10dcb9dcd8f64642780f22282a6da3777f08ee4"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-157",
+      "artifact_id": "napster-era-p2p-clients-157",
+      "source_url": "https://www.fnapps.co.uk/app/the-slowdown-archive",
+      "media_url": "https://www.fnapps.co.uk/assets/slowdown/p2p/iassimilator.jpg",
+      "title": "iAssimilator2.0Beta3, client/chat desktop",
+      "creator": "iAssimilator project; owner-claimed Slowdown backup",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A flat gray file table sits beside an overlapping Napster Chat window with violet text, a peer list and a large white message field. A compact black/blue sharing-status banner and small category search inputs remain exposed. Exact capture date is owner-claimed; the rendered version label is directly visible.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f59acc0c2fd4730c139639e4ca4fe4a3183748056b15dcc1962d1c3af16d851f"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-158",
+      "artifact_id": "napster-era-p2p-clients-158",
+      "source_url": "https://xnap.sourceforge.net/screenshots.html",
+      "media_url": "https://xnap.sourceforge.net/images/xnap2/search.png",
+      "title": "XNap2.0-pre3 search, with XNap1/3 and Aqua comparisons",
+      "creator": "XNap Team; official2005 screenshot pages",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A gray Java client combines a tall icon rail with stacked query/bitrate/filesize controls, closable search tabs, a file table and download/upload subpane. Technical counters occupy the status strip. XNap1 has horizontal main tabs; XNap3 expands protocol and filter regions plus a hotlist sidebar. These are grouped as one application, not three independent clients.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6847f6e7e82afdc9ca8c623c37e5964224684c82997fd91264ca7218889959c0"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-169",
+      "artifact_id": "napster-era-p2p-clients-169",
+      "source_url": "https://winlop.sourceforge.net/index.html@v=screenshots.html",
+      "media_url": "https://winlop.sourceforge.net/shot1.png",
+      "title": "WinLop / Lopster1.2.2-Win32-0.10",
+      "creator": "WinLop contributors; official project screenshot",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A pale lavender desktop uses penguin-tab icons, a large black chat transcript, white peer/share/speed table and stacked status strips. Multicolored peer text and small connection dots support chat and queue culture; context menus expose user and bandwidth actions. Source version branch has a2004 release; other views of this client remain one artifact.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7edab3393ea991c31718d8fd4f49fe87a126c2caabf47ed24678678862daf124"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-232",
+      "artifact_id": "napster-era-p2p-clients-232",
+      "source_url": "https://courses.grainger.illinois.edu/cs425/fa2024/L7-8.FA24.pdf",
+      "media_url": "https://courses.grainger.illinois.edu/cs425/fa2024/L7-8.FA24.pdf#page=4",
+      "title": "Napster v2.0 BETA7 Windows search interface",
+      "creator": "Napster; reproduced in Aishwarya Ganesan / Indranil Gupta CS425 Fall2024 lecture",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The embedded complete Napsterv2.0BETA7 Windows screenshot has gray bevels, a blue titlebar and compact icon buttons Home/Chat/Library/Search/HotList/Transfer/Discover/Help. Artist/title fields top a dense file table of size,bitrate,frequency,duration,user,connection,ping. Green/yellow/red dots combine with textual metadata; navy selection and compact footer counters emphasize peers and files. Lecture typography/background is not part of the client. This screenshot supports structure but not actual interaction timing.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5089743eba4a548260d4f588b70045100946a310cbd4bb191ba0cdb109e3174e"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-233",
+      "artifact_id": "napster-era-p2p-clients-233",
+      "source_url": "https://gnucdnadelphi.sourceforge.net/screenshots.html",
+      "media_url": "https://gnucdnadelphi.sourceforge.net/images/search.png",
+      "title": "Gnuminous0.4 search and transfers",
+      "creator": "Richard Leurs / GnucDNA Delphi project,2003",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "WindowsXPblue titlebar and cream tab strip frame a white multicolumn file table, with query/history/refinement in a left sidebar. Filetype icons, host counts, busy/stable fields and narrow colored rating bars support technical comparison. Download/upload panes use named states and small blue progress fills. The project dates0.4 to2003; alternate panes remain one application.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "03aef20ee7aa67e4341c2e8d634a6577ac8d7fa9743adde5b9afb865973ae838"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-304",
+      "artifact_id": "napster-era-p2p-clients-304",
+      "source_url": "https://www.clasicosbasicos.org/en/software/soulseek",
+      "media_url": "https://www.clasicosbasicos.org/wp-content/uploads/2026/10/claba-software-soulseek-captura-1.jpg",
+      "title": "Classic Soulseek shared-file browser",
+      "creator": "Soulseek; official2005guide reproduction mirrored by Clásicos Básicos",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A gray toolbar contains RefreshFileList, SearchFiles, FileSharing, Wishlist and UserList. A folder tree fills the left third, a file/size/attributes pane occupies the middle and a peer/files/speed list the right. Blue bird icons and cyan folder symbols punctuate dense rows; source usernames have been redacted. This is a shared-collection browser, not only a global song search. Date follows the linked archived2005guide, not the mirror2026upload.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fadc378c68a7c9444f27ddb3f8bba19f1b0bf9888aac1ee64ae61dee3bd81afb"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-316",
+      "artifact_id": "napster-era-p2p-clients-316",
+      "source_url": "https://qtella.sourceforge.net/screenshots.php.html",
+      "media_url": "https://qtella.sourceforge.net/qtella_snap01.jpg",
+      "title": "Qtella0.5.3 downloads, with0.2.1network comparison",
+      "creator": "Qtella project, official screenshot archive",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A blue titlebar and silver tabbed shell reveal Downloads, Uploads, SharedFiles, Logs, Statistics and HostCache. A mostly white results well holds filename/status/size/progress/host/bandwidth/time; a row of small rounded gray action buttons sits below. The older0.2.1network view has angular groups and network-host fields; both are one client. Date of this specific screenshot is not independently verified.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5a796e8527a3444362f8f3c31db6ceb47f5c2a4a50a850f553cd579bdca499a0"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-330",
+      "artifact_id": "napster-era-p2p-clients-330",
+      "source_url": "https://xsatellite.sourceforge.net/",
+      "media_url": "https://xsatellite.sourceforge.net/screenshot.jpg",
+      "title": "XSatellite0.1 and0.2 transfer/search panes",
+      "creator": "Saverio Castellano; official project page",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Thick gray native tabs and a narrow titlebar surround a filename/size/KPS/percentage transfer table with blue selected rows and a lower textual event log. Version0.2 adds a search tab with band/song/ID results and QueueSong action; counters expose shared/new/database files. The author explicitly describes this as an Audiogalaxy Satellite GUI; it is independently authored frontend work, not a second count for a mirrored Audiogalaxy website.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "eab019e77cc39969113af992966d8eeadf09a7bd9d232ebe0259c9e9eafaaffc"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-334",
+      "artifact_id": "napster-era-p2p-clients-334",
+      "source_url": "https://www.clasicosbasicos.org/software/kazaa",
+      "media_url": "https://www.clasicosbasicos.org/wp-content/uploads/2026/10/claba-software-kazaa-captura-3.gif",
+      "title": "Kazaa Media Desktop traffic window",
+      "creator": "Kazaa; archived developer image fromJune2005 mirrored by Clásicos Básicos",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Gray rectangular desktop controls and compact color toolbaricons frame paired Download/Upload tables. Title/artist/user/progress/status/time fields keep mostly blank white regions. Completed and Searching are text states, with channel links and transport controls at the bottom. The static sourceGIF is oneframe and legible at500×439; exact pixel/color measurements are not inferred. The separate Altnet purchase dialog is a commercial boundary, not an interaction to reproduce.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b67d1ae531363dcd2c4bde7f1962e299ea779137c1a995a26a928ba11fca62f0"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-402",
+      "artifact_id": "napster-era-p2p-clients-402",
+      "source_url": "https://www.emule-project.net/home/perl/general.cgi?l=1&rm=screenshots",
+      "media_url": "https://www.emule-project.net/home/screenshots/transfer.png",
+      "title": "eMule0.46b transfers, with0.48asearch comparison",
+      "creator": "eMule project; official screenshots",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "An XPblue titlebar and cream icon toolbar sit above paired download/upload tables. Large technical columns include completed/speed/progress/size/sources/priority/remaining. Segmented blue/green/gray bars encode obtained file parts, not simply one rounded percent pill; a context menu reveals pause/stop/resume/category actions.0.46b is a2005client branch, while the alternate0.48asearch capture contains2007files and is retained as a dated continuation, not labeled1999.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9961751923770940f10fdab36a0382f474d16656264c1bb8be3bf992febe7dcd"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-404",
+      "artifact_id": "napster-era-p2p-clients-404",
+      "source_url": "https://www.ocf.berkeley.edu/~bobk/gnome/",
+      "media_url": "https://www.ocf.berkeley.edu/~bobk/gnome/1.2/gnapster_fullscreen.png",
+      "title": "Gnapster on GNOME1.2 desktop",
+      "creator": "Gnapster; Bob Kashani GNOME screenshot collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A black/charcoal themed client has textured navy titlebar, tab strip, outlined search fields and an expansive metadata table with green status dots. White italic serif system text and tiny bright bevels differ from the default-gray Windows sample. An overlapping XMMS player andGnomeICU window belong to the desktop context, not Gnapster controls. The complete screenshot is a single desktop/client artifact, not three separate app counts.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1cbe24a342457da57ef05434165fa0ba99c89218138c02713b7aec0fe0c48578"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-407",
+      "artifact_id": "napster-era-p2p-clients-407",
+      "source_url": "https://img.vivaolinux.com.br/screenshot/Blackbox-novo-mldonkey-cvs/",
+      "media_url": "https://static.vivaolinux.com.br/screenshots/comunidade/gkrellShoot_02-23-04_104152-222a57e0.webp",
+      "title": "MLDonkey2.5-12 on a Blackbox desktop, February2004",
+      "creator": "Thiago Alves (cvs), own desktop capture on Viva o Linux",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large gray multi-network panel uses top icon tabs Networks/Servers/Downloads/Friends/Search/Rooms and a vertical icon strip. Each network has a small gold round icon and Display checkbox; counts and rates occupy the bottom status strip. White text on light gray has weak contrast in this personal theme, a historical counterexample rather than an accessible recommendation. The outer Gkrellm monitor and wallpaper are desktop context, not MLDonkey controls. The author dates the capture23February2004 and names2.5-12.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "fda7a5dca2ad23aca0b2c0292809668e2fccb7c40c4171f6ad74b134ad593482"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-478",
+      "artifact_id": "napster-era-p2p-clients-478",
+      "source_url": "https://mutella.sourceforge.net/webshots.php.html",
+      "media_url": "https://mutella.sourceforge.net/screenshots/remote-0.3.9b-overview.png",
+      "title": "Mutella0.3.9b web remote-control interface",
+      "creator": "Mutella project, official webshots archive",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A white web frontend uses large glossy icon navigation, a mascot wordmark and blue gradient table headers. Overview pairs connection/upload/download rates with technical rows; Searches offers query/size/radio filters and zebra-blue rows, while Results exposes host,speed,size and sort radio options. It retains client-specific technical hierarchy without native window chrome. Still screenshots establish no live refresh cadence or measured interaction timing.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c0ecdf686e4b7e145bdcedf44c1e1c0fe789e2e7173192e2bd626d2d85bd9e42"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-494",
+      "artifact_id": "napster-era-p2p-clients-494",
+      "source_url": "https://giftui.sourceforge.net/",
+      "media_url": "https://giftui.sourceforge.net/screenshot/screenshot.png",
+      "title": "giFTui0.3.1 status window",
+      "creator": "giFTui project; official original screenshot",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Small icon tabs for Status/Search/Transfers/Configuration sit over a gray panel with a white protocol/users/files/size table and separate message well. The broad mostly empty lower region accommodates connection logs. The screenshot visibly says0.3.1 even though nearby site copy calls it0.4.1; the visible version is retained and its exact capture date is unknown. Developer news contextualizes the project in2004–2005.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "4ec08e9984a081a50a0a424e3950204fadecc8232a712697b19f445115c3d8eb"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-496",
+      "artifact_id": "napster-era-p2p-clients-496",
+      "source_url": "https://giftoxic.sourceforge.net/index.php@screenshots.html",
+      "media_url": "https://giftoxic.sourceforge.net/data/images/screenie-search.png",
+      "title": "giFToxic search, with transfer-pane comparison",
+      "creator": "giFToxic contributors, official2003project screenshot page",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A light cream GTK interface has small icon tabs and a query/category/Find/Stop row. Search results form expandable groups with source count, filename,size,user and checked availability fields. A muted violet selected group contrasts the pale table. The transfer view splits Downloads and Uploads and uses small cyan percentage rectangles; text names Active and reports speed/ETA. All views are one client, not separate artifacts.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "32413b3c3eb22d8bf81e9e69377fdd150bda86dcb90aedfca82df1241794cbcb"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-498",
+      "artifact_id": "napster-era-p2p-clients-498",
+      "source_url": "https://apollon.sourceforge.net/shots.html",
+      "media_url": "https://apollon.sourceforge.net/screenshots/apollon1.png",
+      "title": "Apollon information and search windows",
+      "creator": "Apollon developers; official project screenshot gallery",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A large white information region and gray title/menu shell flank a tall icon-navigation rail. Local totals and protocol statuses occupy open space, with blue selected navigation and bold black headings. The search view adds keyword/category controls, a dense file table, per-protocol icons, search tabs and a pale yellow metadata tooltip. This generous info pane and precise utility table are variants within one client, not a fixed density rule.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d21c2ea338f266c9c64f9d9b288f79f5a393286facd4fb7bb94a5ccaf6d95d46"
+    },
+    {
+      "record_id": "napster-era-p2p-clients-502",
+      "artifact_id": "napster-era-p2p-clients-502",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gtk-gnutella096.png",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Gtk-gnutella096.png",
+      "title": "gtk-gnutella0.96 stable, complete1004×663capture",
+      "creator": "gtk-gnutella project; WikimediaCommons capture uploaded by Dangarcia25April2006",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A narrow left tree exposes network, uploads, downloads and search; another small search-history panel and several metric tiles sit beneath it. A wide host/agent/flags/country/version/connected/uptime/status table dominates the right. Gray bevels, tiny icons, blue selected navigation and almost no decoration focus on measurable network state. This is an explicitly dated2006continuation of the early-client grammar, not a1999Napster screenshot.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a434b061a642abf630d4c083835359fe92ddc0f440d3c6fdfa2a504963420da4"
+    }
+  ]
+}

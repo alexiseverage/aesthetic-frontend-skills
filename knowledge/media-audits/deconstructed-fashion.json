@@ -1,0 +1,974 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "record_id": "deconstructed-fashion-002",
+      "artifact_id": "cdg-ngv-2002-318-abc",
+      "source_url": "https://www.ngv.vic.gov.au/essay/radical-aesthetics-japanese-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/Fb102194/1280",
+      "title": "Coat, coat and skirt, Fusion collection, 1998–99; NGV2002.318.a-c",
+      "creator": "Rei Kawakubo / Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The brown coat is arranged with one pale striped lining sleeve facing outward and a turned-back lower panel exposing a second gray inner fabric. Cream binding visibly outlines the sleeve, front opening and hem construction. Buttons and pockets remain ordinary garment landmarks amid a displaced, asymmetrical front. Muted brown/gray is a counterexample to compulsory all-black styling.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        },
+        {
+          "observation": "The museum identifies a fused coat/coat/skirt work from the 1998 Fusion collection, supporting the inside/outside reversal as intentional tailoring rather than damage. Tiny woven interior labels are attribution context, not evidence for a defining web typeface. No actual motion is established.",
+          "dimensions": [
+            "type",
+            "motion",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5152793344a88b11f9b7af56687ffdda6f302e2025033ed11ebb25c77635bd0e",
+      "resolution": "1280×1514"
+    },
+    {
+      "record_id": "deconstructed-fashion-056",
+      "artifact_id": "margiela-kci-ac9543",
+      "source_url": "https://www.kci.or.jp/en/archives/digital_archives/1990s/KCI_289",
+      "media_url": "https://www.kci.or.jp/archives/digital_archives/photos/263_xl_AC009543.jpg",
+      "title": "Collarless flat jacket, spring/summer1998; KCI AC9543 98-6-2",
+      "creator": "Martin Margiela / Maison Martin Margiela; Kyoto Costume Institute, photograph Takashi Hatakeyama",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A pale gray-beige collarless jacket hangs flat with both sleeves angled forward into the narrow front. The breast pocket buckles and folds at its upper edge, while the elongated sleeve seams and lower curved side pockets preserve recognizable jacket parts. Fine woven fabric and pressed creases are material details; there is no artificial paper distress or mandatory black palette.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        },
+        {
+          "observation": "KCI identifies forward armholes and pressing after sewing; the construction reorganizes Western tailoring into a flat garment. The blank white neck label is small and subordinate. It does not justify copying a brand signature or assuming a universal typeface. Still photography establishes no interactive timing.",
+          "dimensions": [
+            "type",
+            "motion",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0695f59c179ceb03116223e6405625085dc1446531f315d409c5a03284421b6a",
+      "resolution": "1566×2000"
+    },
+    {
+      "record_id": "deconstructed-fashion-101",
+      "artifact_id": "cdg-ngv-2005-369-370",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002667/1280",
+      "title": "Patchworks and X jacket with shirt/skirt, spring/summer1983; NGV2005.369/2005.370",
+      "creator": "Rei Kawakubo / Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A dark patchwork jacket retains broad lapels and buttons while raw joins, ragged lower edges, roughly attached front pockets and torn-looking shoulder panels expose the assembly. Different blue-black cloth surfaces and an irregular broad outline make the familiar tailored structure visibly unsettled. This complete photograph supports unfinished construction; its photographic background is exhibition staging, not a garment motif.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "48c497c354a48b303c876c9b63bb50b9bda9be10df7e07f7a6c5d082ec5dc240",
+      "resolution": "1116×1920"
+    },
+    {
+      "record_id": "deconstructed-fashion-104",
+      "artifact_id": "cdg-ngv-inside-decoration-2010",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EXHI058577/1280",
+      "title": "Inside Decoration jacket detail, autumn/winter2010–11",
+      "creator": "Rei Kawakubo / Comme des Garçons; NGV/Takamasa Takahashi collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A translucent white tailored jacket exposes pale padded inserts, looping internal bands and a normal collar/button front. The usual concealed inner shaping becomes the most conspicuous surface, while sleeves open into broad sheer sections. The close original supports inside/outside inversion and material contrast rather than the complete outfit silhouette.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a414e094bb5b889fa56c087ccc1784a7110add492257fabbaca09d9825534c51",
+      "resolution": "1280×1696"
+    },
+    {
+      "record_id": "deconstructed-fashion-106",
+      "artifact_id": "watanabe-ngv-2016-374-ensemble",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002625/1280",
+      "title": "Reworked military jacket and dress, spring/summer2012 ensemble photograph",
+      "creator": "Junya Watanabe / Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A military-style jacket mixes sheer dark fabric, pale contrasting facing, an exposed zipper, utility loops, snaps and a displaced sleeve pocket over a blue patterned dress. The open joins and mismatched translucent/solid panels make clothing components visible as parts. The ornate blue underlayer is styling rather than a universal deconstruction palette; the museum dates both jacket and dress to2011for spring/summer2012.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7174ed5550b8f67d09dffff9beafb9d30314181890a722512509d99e2335bced",
+      "resolution": "1270×1920"
+    },
+    {
+      "record_id": "deconstructed-fashion-107",
+      "artifact_id": "tao-ngv-2017-157",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002629/1280",
+      "title": "Scarf-assembled dress and top, autumn/winter2010–11; NGV2017.157.a-b",
+      "creator": "Tao Kurihara / Tao Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Bright orange, pink and yellow printed scarf-like panels are joined, tied and layered into a dress over long black/white patterned sleeves. Knots, folded cloth edges, a pale drawstring and visible stitch lines retain traces of the component fabrics. This saturated assembled variant contradicts a compulsory black/cream palette. The source gives the2010ensemble and museum accession, not a measured interaction or animation.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "dd6b07a2d72d54e3ac0eb74a564cff20ccea5f6a13af7024174c4213e93a10c6",
+      "resolution": "1280×1875"
+    },
+    {
+      "record_id": "deconstructed-fashion-110",
+      "artifact_id": "lang-kci-ac12222",
+      "source_url": "https://www.kci.or.jp/en/archives/digital_archives/1990s/KCI_292",
+      "media_url": "https://www.kci.or.jp/archives/digital_archives/photos/265_xl_AC012222.jpg",
+      "title": "Sweater, pants and waist belt, autumn/winter1999; KCI AC12222",
+      "creator": "Helmut Lang; Kyoto Costume Institute, photograph Takashi Hatakeyama",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A fine black sweater has sleeve sections interrupted by open gaps below the elbows; a round padded collar sits like two loose discs at the neck. Leather trousers are divided by horizontal seams and long visible front zippers, with a separate waist pouch crossing the hip. Differing black textures distinguish recombined parts without a bright palette or decorative typography.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        },
+        {
+          "observation": "KCI describes sleeves only partly sewn together and a part-by-part assembly method. Deliberate interruption of the garment envelope separates this example from an ordinary minimal black outfit. Actual detachability or wearer interaction is not demonstrated by the still.",
+          "dimensions": [
+            "motion",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f3a2f92f5782b84be168077477360226f5f34448cc1854cdc5fd035ea6337bd8",
+      "resolution": "1333×2000"
+    },
+    {
+      "record_id": "deconstructed-fashion-115",
+      "artifact_id": "margiela-kci-ac013379",
+      "source_url": "https://www.kci.or.jp/en/archives/digital_archives/1990s/KCI_380",
+      "media_url": "https://www.kci.or.jp/archives/digital_archives/photos/380_xl_AC013379aa.jpg",
+      "title": "Paper-pattern jacket, autumn/winter1997; KCI AC013379",
+      "creator": "Martin Margiela / Maison Martin Margiela; Kyoto Costume Institute, photograph Takashi Hatakeyama",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "White creased paper is assembled into a recognizable collarless jacket front. Black grain arrows, repeated small numbers and letters, a large42 and working pattern labels remain visible across torso and sleeve areas. Small punched circles and a hanging metal hook expose preparation tools as part of the finished presentation. Paper wrinkles and cut edges carry the texture; a commercial logo is not needed.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        },
+        {
+          "observation": "The museum identifies actual sewing-pattern paper made into a garment and connects it with retained basting/pins in the1997collection. Pattern instructions support a functional construction-mark variant, not a general license to use unreadable random lettering. The static image establishes no interactive assembly motion.",
+          "dimensions": [
+            "motion",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0297c1acc4c19e5c3164f8267fa7c7dfcd2f12db957c84542bba9f751eb44687",
+      "resolution": "1499×2000"
+    },
+    {
+      "record_id": "deconstructed-fashion-116",
+      "artifact_id": "yamamoto-kci-ac9423-ac9424-comparison",
+      "source_url": "https://www.kci.or.jp/en/archives/digital_archives/1990s/KCI_340",
+      "media_url": "https://www.kci.or.jp/archives/digital_archives/photos/340_xl_AC0094231.jpg",
+      "title": "Two day ensembles, spring/summer1997; KCI AC9423 and AC9424",
+      "creator": "Yohji Yamamoto; Kyoto Costume Institute, photograph Takashi Hatakeyama",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two tweed suits retain Chanel-like jacket, skirt, bow and hat landmarks while changing their relative lengths: elongated white cuffs, short wide jacket bodies, one knee-length skirt and one long flared skirt. Frayed threads visibly hang from the longer skirt hem. Gray woven texture contrasts smooth black and white bows; gold trim on the right is a selective variant.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        },
+        {
+          "observation": "KCI explicitly identifies cut-off frayed hems and calculated imbalance in familiar tailoring. The two independently identified ensembles are conservatively counted as one comparative artifact, not two extra photographs. No source typography, movement timing or interface behavior is inferred.",
+          "dimensions": [
+            "type",
+            "motion",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c3b4c997b69d656693a5bd81c1acfb0d9536f0a68968403a3708cedce258c618",
+      "resolution": "1427×2000"
+    },
+    {
+      "record_id": "deconstructed-fashion-120",
+      "artifact_id": "margiela-momu-rs50068-1989-jacket",
+      "source_url": "https://www.momu.be/en/collection-stories/martin-margiela",
+      "media_url": "https://d4r8ypmqnkoz0.cloudfront.net/collection-stories/_default_4/RS50068_MMM039-scr.jpg",
+      "title": "Reworked tailored jacket, autumn/winter1989–90 backstage photograph",
+      "creator": "Martin Margiela; photograph Ronald Stoops, MoMu collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A close monochrome backstage photograph shows a tailored jacket with broad disconnected-looking lapel/panel shapes and exposed unfinished top edges around the collar. Heavy weave contrasts a soft knitted inner garment. The image is useful for altered tailoring relationships and visible working edges, not exact original colors, fiber identification or a complete outfit reconstruction.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ca882c77afedf50bf5a4aa4b84468b964b1c6031fbbf9d33cf5d62ed1d02775b",
+      "resolution": "1000×1414"
+    },
+    {
+      "record_id": "deconstructed-fashion-121",
+      "artifact_id": "margiela-momu-x412",
+      "source_url": "https://www.momu.be/en/collection-stories/martin-margiela",
+      "media_url": "https://d4r8ypmqnkoz0.cloudfront.net/collection-stories/_default_4/RS128236_2021_03_088773-scr.jpg",
+      "title": "Reassembled leather-glove top, spring/summer2001; MoMuX412",
+      "creator": "Martin Margiela; photograph Stany Dederen, MoMu collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Pale leather gloves are reassembled as a sleeveless bodice: fingers cross the upper chest, one perforated glove panel occupies the center, and additional fingers overlap at the waist. The gloves remain recognizable working components in the new torso form. A long white pleated skirt supplies a smoother, ordered countertexture. Repurposed garment parts are a variant of deconstruction rather than random decorative collage.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0a9d1fbc7666117d1b04a53c158f9e5de8cc55077a62b47d642a8c4e99083b0f",
+      "resolution": "1000×1392"
+    },
+    {
+      "record_id": "deconstructed-fashion-122",
+      "artifact_id": "margiela-momu-x1461",
+      "source_url": "https://www.momu.be/en/collection-stories/martin-margiela",
+      "media_url": "https://d4r8ypmqnkoz0.cloudfront.net/collection-stories/_default_4/RS128235_2021_03_088768-scr.jpg",
+      "title": "Reworked skirt with visible hanger, spring/summer2005; MoMuX1461",
+      "creator": "Martin Margiela; photograph Stany Dederen, MoMu collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "An asymmetrical black skirt shows part of its smooth inner facing, folded panels and a large side opening; a visible metal hanger hangs at the right edge. Pale floral working lines cross an outer panel. The wide unbalanced hem exposes the relationship between lining, outer fabric and preparation/display equipment. The fishnet bodysuit belongs to the styling of this example rather than a universal deconstructed-fashion motif.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d24d71123e073cddfc91ff334bd0413f8402df5ec3cde41e772834676e79c0f2",
+      "resolution": "1000×1392"
+    },
+    {
+      "record_id": "deconstructed-fashion-123",
+      "artifact_id": "margiela-momu-x1435-draped-bustier",
+      "source_url": "https://www.momu.be/en/collection-stories/martin-margiela",
+      "media_url": "https://d4r8ypmqnkoz0.cloudfront.net/collection-stories/_ratio2x3_crop_4/RS50069_MMM_97_Edstrom-3-scr.jpg",
+      "title": "Stockman-form draped bustier, spring/summer1997; MoMuB02/133A",
+      "creator": "Martin Margiela; photograph Anders Edström, MoMu collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A torso-shaped coarse canvas vest retains a high neck, stenciled42, form-maker lettering and an exposed center seam. An asymmetric black muslin bustier covers one side, gathered into the central seam and held by black/white elastic bands. Fraying at armholes and close-set center fastenings expose the construction process. The dark cloth against the form-like base makes inner tailoring equipment part of the visible garment. A mannequin view in124 is grouped with this same work.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "2b5315f6da8f7255f80a6fe4010edfc19be1de05a15218bfacd9057281543cb7",
+      "resolution": "800×1200"
+    },
+    {
+      "record_id": "deconstructed-fashion-125",
+      "artifact_id": "margiela-momu-x1438-x1598-pair",
+      "source_url": "https://www.momu.be/en/collection-stories/martin-margiela",
+      "media_url": "https://d4r8ypmqnkoz0.cloudfront.net/collection-stories/_ratio2x3_crop_4/RS128225_2021_03_088693-scr.jpg",
+      "title": "Stockman-tailoring ensemble pair, autumn/winter1997–98; MoMuX1438/X1598",
+      "creator": "Martin Margiela; photograph Stany Dederen, MoMu collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two canvas torso-shaped vests retain printed dress-form wording and center-front fastenings. One is paired with a white dotted working jacket and long dark skirt with a visible red seam; the other with a dark coat and selvedge-like lettering down the lower garment. Preparation forms, construction lines and cloth edges remain part of the ensemble. The two named outfits are conservatively one comparative artifact; this is distinct from the1997black-draped bustier.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "87c03a43302e0c1f9000e2c94a01089199eb6f193edb01b81794bcae23f734bd",
+      "resolution": "800×1200"
+    },
+    {
+      "record_id": "deconstructed-fashion-127",
+      "artifact_id": "margiela-momu-sonck-raw-top",
+      "source_url": "https://www.momu.be/en/collection-stories/martin-margiela",
+      "media_url": "https://d4r8ypmqnkoz0.cloudfront.net/collection-stories/_default_4/RS173283_etiket-voor-lpr.jpg",
+      "title": "Raw-edged sleeveless top, front label detail",
+      "creator": "Martin Margiela; photograph Jacques Sonck, MoMu collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A black sleeveless top exposes ragged armhole and neck edges, folded facing pieces and a plain white cloth label. The close image documents cloth texture and unfinished joins rather than the full silhouette. The paired back view shows four white attachment stitches. These are a brand-specific signature, not a generic logo treatment to copy.",
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ac6c64a152cd51db624c5e0c5a5dc2358539ea8e664154854a4e68ca96cfd369",
+      "resolution": "1000×665"
+    },
+    {
+      "record_id": "deconstructed-fashion-176",
+      "artifact_id": "yamamoto-kci-white-cutwork-1983",
+      "source_url": "https://www.kci.or.jp/en/archives/digital_archives/1980s/KCI_260",
+      "media_url": "https://www.kci.or.jp/archives/digital_archives/photos/203_xl_AC07755.jpg",
+      "title": "Cut-work jacket, dress and pants, spring/summer1983; KCIAC7755/AC8984",
+      "creator": "Yohji Yamamoto; Kyoto Costume Institute, photograph Takashi Hatakeyama",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "White straight-cut layers have repeated square perforations along the outer robe and larger shaped holes in the inner pieces. Strips, loose ends and layered openings make an interrupted garment surface; the bright fabric contrasts the mostly black early-fashion stereotype. KCI notes the hole edges are deliberately finished, so their worn appearance must not be misdescribed as accidental fraying.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "3f34290ff66f839385c9487de14e950d0ba4f135aaf61f6758e7a458f02d21e2",
+      "resolution": "1570×2000"
+    },
+    {
+      "record_id": "deconstructed-fashion-178",
+      "artifact_id": "cdg-kci-ac7843-ac7824",
+      "source_url": "https://www.kci.or.jp/en/archives/digital_archives/1980s/KCI_262",
+      "media_url": "https://www.kci.or.jp/archives/digital_archives/photos/205_xl_AC07843.jpg",
+      "title": "Cross-panel sweater and skirt, autumn/winter1983; KCIAC7843/AC7824",
+      "creator": "Rei Kawakubo / Comme des Garçons; Kyoto Costume Institute, photograph Takashi Hatakeyama",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Wide black knitted strips cross and braid over the torso instead of following a normal seamless sweater front. Open spaces between the panels and irregular pocket-like forms in the skirt make the assembly visible. Knitted grain, folded strips and shadows differentiate blacks. This is an observed recomposition of clothing parts, not a rule that every oversized black knit qualifies.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ef7abd960f739dc3d6dbbaf49dcdfb057e541c2fa6fc3f162cd5ab4bd34fd0c4",
+      "resolution": "1599×2000"
+    },
+    {
+      "record_id": "deconstructed-fashion-184",
+      "artifact_id": "margiela-kci-ac11625",
+      "source_url": "https://www.kci.or.jp/en/archives/digital_archives/2000s/KCI_366",
+      "media_url": "https://www.kci.or.jp/archives/digital_archives/photos/366_xl_AC11625.jpg",
+      "title": "Playing-card waistcoat, spring/summer2006; KCIAC11625",
+      "creator": "Martin Margiela / Maison Martin Margiela; Kyoto Costume Institute, photograph Takashi Hatakeyama",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Overlapping aged playing cards build an open-front waistcoat, retaining card corners, black/red suit marks and printed figures as visible units. The leather-backed garment follows the torso while its surface makes the constituent objects legible. This artisanal object-to-garment reconstruction is a material variant; card symbols are not compulsory UI decoration. KCI describes intentionally aged cards rather than ordinary found deterioration.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6eef99e45c45e4aedd82fc064c2e12796efc77ac2be64ea90b2ff242fb843c17",
+      "resolution": "1289×2000"
+    },
+    {
+      "record_id": "deconstructed-fashion-205",
+      "artifact_id": "hash-mad-2006-83",
+      "source_url": "https://madparis.fr/robes-et-ensembles",
+      "media_url": "https://madparis.fr/IMG/jpg/22a-39419.jpg",
+      "title": "Trouser-to-dress reconstruction, Fillemâle, summer2002; MAD2006.83.1.1-3",
+      "creator": "Anne-Valérie Hash; Musée des Arts Décoratifs, Paris",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A checked trouser waistband has become a broad neckline, with short pale sleeves inserted at the former pocket openings. Long trouser panels are joined into the skirt, retaining a vertical center seam and an uneven rear extension. The museum specifically identifies the transformed menswear garment. The complete374×633 source supports the recognizable part-to-function reversal; it is not used for fine textile or stitch-width measurements.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "35d101b5fbe37c7192b1c5f95b2ba71122adba7c2f759f0480bd146b3bf67290",
+      "resolution": "374×633"
+    },
+    {
+      "record_id": "deconstructed-fashion-215",
+      "artifact_id": "nemeth-vam-hobac-sacking-suit",
+      "source_url": "https://www.vam.ac.uk/blog/club-to-catwalk/blitz",
+      "media_url": "https://s3-eu-west-1.amazonaws.com/vam-blog/dp-content/3441a897536066cce89b7608abccb8c3.jpg",
+      "title": "Sacking suit with accessories, HOBAC editorial photograph",
+      "creator": "Christopher Nemeth suit; Judy Blame accessories; V&A article reproducing The New Spirit in Craft and Design,1987",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A coarse sacking jacket has oversized bent sleeve sections with conspicuous seam joins and loose curved edges. High-waisted trousers retain printed sack lettering and uneven voluminous legs. The original complete600×800 editorial reproduction supports reused material, assembly and proportion, not original color or fine textile measurements. The V&A context identifies Nemeth’s suit and Blame’s accessories; it is one styled artifact, not separate counts for jewelry and clothing.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "23edb3d770bfa567d501d2feece6dd0ee372631b154595af6f300f23ae6367d9",
+      "resolution": "600×800"
+    },
+    {
+      "record_id": "deconstructed-fashion-223",
+      "artifact_id": "cdg-ngv-holes-1982",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EXHI059449/1280",
+      "title": "Hole-knit jumper ensemble, Holes, autumn/winter1982–83",
+      "creator": "Rei Kawakubo / Comme des Garçons; NGV/Takamasa Takahashi collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "An irregular black knitted overtop is punctured by intentionally different-sized dropped-stitch openings, layered over a longer opaque top and skirt. A large low pouch and unequal edges interrupt normal garment tiers. The distinct knit construction is directly visible; the torn white photographic backdrop is staging and is not treated as part of the clothing style.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "90df8a0099b1af47c1bd53329caf5f5d675b0914e165c555c0bcd02573296650",
+      "resolution": "1121×1920"
+    },
+    {
+      "record_id": "deconstructed-fashion-228",
+      "artifact_id": "cdg-ngv-2019-417",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002573/1280",
+      "title": "Reconfigured coat and pants, Bonding, autumn/winter1986–87; NGV2019.417",
+      "creator": "Rei Kawakubo / Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A dark tailored coat has one broad rounded lower panel continuing into a long straight front band, with the opposite lower edge offset. Ribbed cuffs and cropped trousers retain familiar functional landmarks, while unequal contour lines and visible panel joins alter the conventional front/back balance. Fine dark weave and controlled seams are a counterexample to compulsory visible ragged damage.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f7f9331c626978771d0202e7d6e7449a87fbb95751f37657f74cf0cd3d3fddbe",
+      "resolution": "1253×1920"
+    },
+    {
+      "record_id": "deconstructed-fashion-229",
+      "artifact_id": "cdg-ngv-2018-853",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002574/1280",
+      "title": "Overdress and dress, Fusion, autumn/winter1998–99; NGV2018.853",
+      "creator": "Rei Kawakubo / Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A black pinafore-like outer layer has an unexpectedly open upper chest over a sheer inner dress. A wide contrasting padded band runs vertically down one side of the front, ending below an uneven outer hem. Off-center side volume and differing inner/outer lengths expose and relocate structural details. This is a different Fusion ensemble from NGV2002.318 in record002.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "5da56959435801bd47051357699e334d584eed3f9e3286c18a3dcf4c35e84844",
+      "resolution": "1246×1920"
+    },
+    {
+      "record_id": "deconstructed-fashion-233",
+      "artifact_id": "cdg-ngv-beyond-taboo-2001",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EXHI059453/1280",
+      "title": "Reconfigured foundation-wear dress, Beyond Taboo, autumn/winter2001–02",
+      "creator": "Rei Kawakubo / Comme des Garçons; NGV/Takamasa Takahashi collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Red lace straps and cup-like corset structures are displaced across a short upper-body panel with a dark horizontal band. A long sheer dark skirt exposes differently placed red lace borders and a lower underlayer. The torso arrangement relocates recognizable foundation-wear parts rather than merely revealing an ordinary bra. This is an inside/outside and garment-function variant, not a requirement for sexualized imagery.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1328dea71d28f70078193dfe3e78cecd822172b4c4d3e8a1ad7088239eeb0178",
+      "resolution": "1280×1857"
+    },
+    {
+      "record_id": "deconstructed-fashion-238",
+      "artifact_id": "cdg-ngv-2015-133",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002566/1280",
+      "title": "Fragmented dress and shoulder harness, Adult Delinquent, spring/summer2010; NGV2015.133",
+      "creator": "Rei Kawakubo / Comme des Garçons; NGV/Takamasa Takahashi collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A black shoulder harness and detached-looking fitted waist segment frame a transparent top; patchwork skirt sections alternate sheer and solid fabric with exposed edges. Stiff curved tailoring pieces are separated from a conventional jacket body and recombined around the torso. Buckles and straps provide visible construction anchors. The visible red footwear is a local styling accent, not a defining palette requirement.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "53e87acb971365bff62963d938069adfae8a44e663b2f9c07ffb9e4649c5a920",
+      "resolution": "1280×1818"
+    },
+    {
+      "record_id": "deconstructed-fashion-240",
+      "artifact_id": "cdg-ngv-dark-romance-2004",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002623/1280",
+      "title": "Reworked blazer ensemble, Dark Romance, autumn/winter2004–05",
+      "creator": "Rei Kawakubo / Comme des Garçons; NGV/Takamasa Takahashi collection",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A cropped dark blazer keeps lapels, front buttons and a waistcoat underlayer while sleeve sections are bunched or interrupted at the upper arm and tied at the wrist. Sheer frilled additions and an uneven cut front disturb the normal suiting silhouette. Pinstriped trousers, wool and tulle retain distinct material identities rather than becoming a flat monochrome surface.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e8a1d8c8828c2a73fc003439616a37de815a0d295dbd7bae88839359b6203783",
+      "resolution": "1280×1802"
+    },
+    {
+      "record_id": "deconstructed-fashion-251",
+      "artifact_id": "cdg-ngv-2017-147",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002609/1280",
+      "title": "Square jacket construction detail, autumn/winter2003–04; NGV2017.147",
+      "creator": "Rei Kawakubo / Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A tan jacket has a broad folded collar plane, an exposed pale zip at the throat and a large pocket panel whose upper join looks separated from the shoulder area. Visible seams and overlapping rectangular fabric surfaces make the jacket read as assembled flat parts. The inspection is a complete close photograph; it supports construction relationships rather than an unseen full trouser silhouette.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e085b0b67a1f110d834899713536baa06277d36d7e9a4137aea5005e7bffb719",
+      "resolution": "1280×1715"
+    },
+    {
+      "record_id": "deconstructed-fashion-264",
+      "artifact_id": "watanabe-ngv-2016-362",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002591/1280",
+      "title": "Interrupted knit jumper and skirt, Classic, autumn/winter2003–04; NGV2016.362",
+      "creator": "Junya Watanabe / Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A brown jumper has laddered open runs, small irregular holes and loose yarn ends at the lower edge; a long dark skirt also retains a visibly frayed hem. A plain white shirt collar and neat hat contrast these unfinished-looking parts. Knit construction and separation of finished/unfinished tiers provide substantive evidence beyond a generic distressed brown palette.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0e50599a4bb27c203ec63223ce40b7e58461d64a94ff08ad8158b4af2eb5de3f",
+      "resolution": "1280×1703"
+    },
+    {
+      "record_id": "deconstructed-fashion-266",
+      "artifact_id": "watanabe-ngv-2017-154",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002594/1280",
+      "title": "Backpack-constructed dress detail, Object, spring/summer2003; NGV2017.154",
+      "creator": "Junya Watanabe / Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The back of a floral dress is organized by broad webbing straps, plastic/metal-style adjustment fittings and bulky backpack-like pockets, with a large exposed upper-back opening. Utility construction components keep their recognizable functions and outlines within the dress. Floral print and pale webbing are a counterexample to treating deconstructed work as uniformly austere black suiting. Actual adjustability is not tested by this still.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "dc425fdc813cdbc977fe50b1d00340b4931e9311143740e7164dd8209823dc8b",
+      "resolution": "1261×1920"
+    },
+    {
+      "record_id": "deconstructed-fashion-274",
+      "artifact_id": "tao-ngv-2018-156",
+      "source_url": "https://www.ngv.vic.gov.au/collecting-comme/rei-kawakubo-reframing-fashion/",
+      "media_url": "https://content.ngv.vic.gov.au/col-images/api/EPUB002620/1280",
+      "title": "Tied-panel ensemble detail, Decoration Accident, autumn/winter2009–10; NGV2018.156",
+      "creator": "Tao Kurihara / Tao Comme des Garçons; National Gallery of Victoria",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Pink printed translucent fabric is gathered and pulled into separated upper panels, held by many small black ties around open joins. Bright red ruffled lower panels retain their own gathered structure. The small ties and open arm/torso gaps visibly disclose how pieces are held together. A highly decorative, saturated variant broadens the sample without making every ordinary layered dress qualify.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "2f4c03b61f127caab158173606bf5379c439c135331b12a5a02bf7cab0f6ed9a",
+      "resolution": "1280×1709"
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "accessed_at": "2026-11-08",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "record_id": "transparent-translucent-electronics-011",
+      "artifact_id": "transparent-translucent-electronics-011",
+      "source_url": "https://collection.powerhouse.com.au/object/496290",
+      "media_url": "https://imagedelivery.net/znDGKaxxskgDbNUpqPVRFg/ph-collection-media/images/1309852.jpg/w=2560,q=75,metadata=keep",
+      "title": "Nintendo, transparent Play It Loud Game Boy",
+      "creator": "Nintendo; Powerhouse Collection photograph, photographer not named",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Green board, silver screws, cream button saddles and gold LCD sit behind a clear rounded rectangular shell. Dark opaque controls and screen bezel remain strongly legible; red-magenta italic identity and small functional legends sit on the casing.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "528b51a323523c73ceab1e86802746e3d57c50b0bd522434b29574e4c3b61df5",
+      "resolution": "2334×3500"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-028",
+      "artifact_id": "transparent-translucent-electronics-028",
+      "source_url": "https://www.philamuseum.org/objects/92586",
+      "media_url": "https://iiif.micr.io/EZPXT/full/1200,/0/default.jpg",
+      "title": "Apple iMac computer,designed1998; Philadelphia1999-103-1",
+      "creator": "Jonathan Ive and Apple Industrial Design Team",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Orange translucent curved rear and matching foot/speaker inserts meet a ribbed milky front; the CRT stays dark and opaque. Broad casing hides much circuitry while transmitting diffuse light, distinguishing translucency from literal exposed boards.",
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1d5279ddce9970518cac6520f2255f5a6518bc708d250bd961ea75aa20d75af8",
+      "resolution": "1200×1020"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-029",
+      "artifact_id": "transparent-translucent-electronics-029",
+      "source_url": "https://www.londonmuseum.org.uk/collections/v/object-728325/telephone/",
+      "media_url": "https://collections.londonmuseum.net/iiif/3/241/46/2003_2_216.ptif/full/1600,/0/default.jpg",
+      "title": "Hall Telephone Accessories706F survey telephone,1967",
+      "creator": "Hall Telephone Accessories / Post Office",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Colorless reflective casing and handset expose metal bells, coil, wiring and rotary mechanism. A clear coiled cord lets colored conductors act as decoration; raised clear dial and housing edges define thickness without replacing the mechanical silhouette.",
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1f0445688d64faf1d499944e0f9be4799e4ec5a42f4ebd90122d797953fe3b6a",
+      "resolution": "1600×1202"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-030",
+      "artifact_id": "transparent-translucent-electronics-030",
+      "source_url": "https://www.moma.org/collection/works/82131",
+      "media_url": "https://www.moma.org/media/W1siZiIsIjUzMDI1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=80476fbccc624dce",
+      "title": "Apple G4 Cube Speakers,c.2000;MoMA1401.2001.a-b",
+      "creator": "Jonathan Ive / Apple Industrial Design Group",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Twin clear spherical shells surround black speaker rings and silvery centers; thick refractive rims and transparent bases keep the driver assembly visually suspended. No required candy-color palette.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "886514c1df517a5b4b4d916007799cbebea1109a9a18390ad619d2e8d6ba99eb",
+      "resolution": "2000×964"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-031",
+      "artifact_id": "transparent-translucent-electronics-031",
+      "source_url": "https://www.moma.org/collection/works/82134",
+      "media_url": "https://www.moma.org/media/W1siZiIsIjUzMDI1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=09b6e457949303f8",
+      "title": "Apple G4 Cube,c.2000;MoMA1400.2001",
+      "creator": "Jonathan Ive / Apple Industrial Design Group",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A clear rounded cube sleeve surrounds an opaque silver computer core, with air gap below, vent slots above and thick polished edges. Interior machinery is curated/partly screened, so visibility does not imply every electronic component is exposed.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "0cd65bcab1054a1c2c086bc6ffce9108ac0ac576015f98b8c38aa579140a1f2a",
+      "resolution": "1753×2000"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-032",
+      "artifact_id": "transparent-translucent-electronics-032",
+      "source_url": "https://www.moma.org/collection/works/82127",
+      "media_url": "https://www.moma.org/media/W1siZiIsIjUzMDI1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=51479355f8c95595",
+      "title": "Apple iSub,c.2000;MoMA1402.2001",
+      "creator": "Jonathan Ive / Apple Industrial Design Group / Harman Kardon",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Clear domed bell, trumpet-like central tube, circular division, exposed fasteners and three transparent feet surround the black driver. Light catches layered molded edges; a restrained manufacturer wordmark occupies the lower ring.",
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "094a85dca65e0e14d01949426a64b776575a57eb7e0ab2978be19c37d0c52832",
+      "resolution": "1673×2000"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-054",
+      "artifact_id": "transparent-translucent-electronics-054",
+      "source_url": "https://www.analogue.co/editions/pocket-transparent",
+      "media_url": "https://images.analogue.co/le_transparent.c05f9575757fcbdc9980ab8e69803aae.png?w=4000&auto=format&s=2a50994e8de29e56d6c24a06480d1d67",
+      "title": "Analogue Pocket Transparent Editions,2023; maker family rendering",
+      "creator": "Analogue",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Seven colorways share one narrow slab design and count as one work. Colored transparent edges, clear buttons, dark screen slab and visible lower circuitry coexist; screen imagery is software content, not proof of motion. A source-declared4000px complete family rendering is legible for shell/edge grammar; independent close view sought for detail.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "de88c1865b6ebecea0985ef0b5bc3833028ede8bae7388e71488b412161827a1",
+      "resolution": "4000×3061"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-084",
+      "artifact_id": "transparent-translucent-electronics-084",
+      "source_url": "https://blog.playstation.com/archive/2017/09/01/introducing-the-crystal-dualshock-4-wireless-controller-range",
+      "media_url": "https://farm5.staticflickr.com/4419/36769589782_939a34bb11_o.jpg",
+      "title": "Sony DualShock4 Crystal controller range,2017; rear view",
+      "creator": "Sony Interactive Entertainment",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Milky transparent upper shell reveals support posts and muted silhouettes around a black touch panel and controls; lower grips remain opaque textured white. A blue light strip is visible in the still but animation/timing is unknown. Partial translucency is sufficient when the casing visibly changes how assembly reads.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b8e16026f1664b4b9fe3d7bf70b5816b09fc54ba08603314cc13b7b6ae553f15",
+      "resolution": "2400×1600"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-231",
+      "artifact_id": "transparent-translucent-electronics-231",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Apple_Yosemite.JPG",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Apple_Yosemite.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "title": "Apple Power Macintosh G3 Blue and White; photograph2007",
+      "creator": "Apple Industrial Design Group; photograph Dietmar Naujok",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Ribbed turquoise front sits between curved translucent corner handles and a pale frosted side panel. Circular fasteners and the edge of the interior metal chassis are visible through the side. Clear/translucent details can frame a partly opaque computer rather than reveal every component.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1279a5bac660aa287433b0b2d485e31e1e36e26346b3668b20ebf263645e147b",
+      "resolution": "2144×1715"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-233",
+      "artifact_id": "transparent-translucent-electronics-233",
+      "source_url": "https://commons.wikimedia.org/wiki/File:N64-Console-Orange.jpg",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/N64-Console-Orange.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+      "title": "Nintendo64 Fire Orange Funtastic console and matching controller",
+      "creator": "Nintendo; photograph Evan-Amos,2010",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The coordinated console/controller ensemble counts once. Orange translucent shell lets ribs, posts, dark metal and actuator cavities show as soft silhouettes. Opaque light-gray sockets, cartridge and stick plus bright button colors preserve functional landmarks; molded raised legends remain subtle.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "07e601e8120d5ce1cab57f37d4ffd863be3ba876a72ed779ad994ada048f3636",
+      "resolution": "3800×1900"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-243",
+      "artifact_id": "transparent-translucent-electronics-243",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Apple%20Newton%20eMate%20300.jpg",
+      "media_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Apple_Newton_eMate_300.jpg",
+      "title": "Apple Newton eMate300,1997; photograph2019",
+      "creator": "Apple Industrial Design Group; photograph Felix Winkelnkemper",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A rounded dark blue-green translucent clamshell exposes screw posts and inner structure around a luminous LCD, while the keyboard deck and keys remain dark/opaque. Curved corners, thick perimeter, integrated pen rest and restrained small legends form a rugged portable object. Color here is photographic appearance, not a measured original polymer formula.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1c41b3674a941ec1f4a0863ec630d40bde022c41f690c1cd3a2b4e0b06637498",
+      "resolution": "6525×4350"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-273",
+      "artifact_id": "transparent-translucent-electronics-273",
+      "source_url": "https://www.apple.com/shop/product/mqlk3ll/a/beats-studio-buds-true-wireless-noise-cancelling-earbuds-transparent",
+      "media_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MQLK3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=bjY0YUU1NzZUMlNjU2NxM2hCUWpGZ2tuVHYzMERCZURia3c5SzJFOTlPamhKdkoycW9tek03cUtyTndWYU40R1FIMkNyWEs1UnlVMkpFU0Q4KzdaZXc",
+      "title": "Beats Studio Buds+ Transparent; maker1144px product view",
+      "creator": "Beats / Apple",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Softly translucent silver-gray rounded case and earbud housings reveal battery block, hinge, supports and nested internal shapes; silicone ear tips remain opaque. The case is large relative to buds and carries one bold black symbol. Useful layers remain differentiated without a vivid candy palette.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "271c006ec9747ec049a3b03cf117b13bfd9e08f2ff30915b07a68552190ead46",
+      "resolution": "1144×1144"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-275",
+      "artifact_id": "transparent-translucent-electronics-275",
+      "source_url": "https://www.moma.org/collection/works/82130",
+      "media_url": "https://www.moma.org/media/W1siZiIsIjIzMDE0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=fcbcbc295559764f",
+      "title": "Apple Cinema Display22inch,1999;MoMA1397.2001",
+      "creator": "Apple Industrial Design Group",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "An uninterrupted dark screen is framed by fine horizontal ribs, then a clear perimeter and widely spaced transparent feet. The electronics are largely screened behind the bezel: the visible clear construction is the housing/stand and its thickness, not an all-glass screen or a bare circuit board.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "749220bf65405b1c8a30c644361c4a1d51cea2a785f95f2b1b3b11f361d32a86",
+      "resolution": "2000×1566"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-276",
+      "artifact_id": "transparent-translucent-electronics-276",
+      "source_url": "https://news.harman.com/releases/harman-kardon-celebrates-20-years-of-iconic-speaker-design-with-the-soundsticks-4",
+      "media_url": "https://iprsoftwaremedia.com/214/files/20200/Harman%20Kardon%20Soundstick%204.jpg?download=true",
+      "title": "Harman Kardon SoundSticks4,2020; original maker press photograph",
+      "creator": "Harman Kardon; photographer not named in press record",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Two slender clear columns each stack four cream driver circles around a broad clear subwoofer dome. Ribbed white inner body, manufacturer ring, perforated base and transparent negative space organize the ensemble. It is distinct from the earlier iSub's narrow trumpet tube and exposed black internal driver.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "d9441a874b3fbdbf2676a9ce0c3eb286f7efd43516b562b08a606e4cb02fcb79",
+      "resolution": "4320×2924"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-282",
+      "artifact_id": "transparent-translucent-electronics-282",
+      "source_url": "https://www.8bitdo.com/pro2/",
+      "media_url": "https://www.8bitdo.com/images/2021/pro2/pro2-transparent-purple-l.jpg",
+      "title": "8BitDo Pro2 transparent purple controller; maker photograph",
+      "creator": "8BitDo",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Purple clear case and clear circular face buttons expose screw posts, white supports and dark inner geometry. Black textured thumbsticks and select/start retain contrast; restrained dark printed legends sit on purple plastic. A visible casing split wraps the edge without requiring luminous animation.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "8449b57d6fcefc678818ca52902b2037f6405cd47ac27217685e00fe52b9a07d",
+      "resolution": "1920×1080"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-328",
+      "artifact_id": "transparent-translucent-electronics-328",
+      "source_url": "https://www.analogue.co/editions/3d-funtastic",
+      "media_url": "https://images.analogue.co/a3d_-_junglefront.fc318cdde171811f6f41b92061fdb222.png?w=4000&s=62073e74832099740db32bbe6b6517bf",
+      "title": "Analogue3D Funtastic Jungle; maker front elevation",
+      "creator": "Analogue",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Low green transparent enclosure exposes upright ribs and dark internals behind four circular sockets. Raised clear-green button areas, bright status window and dark base frame a layered manufactured object. Front view is paired with the complete maker view rather than counted as a separate work.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "2fea8351197f45c52aa06fa90865b0ad16eaa8292fc8ba41c4349e29637f8a0a",
+      "resolution": "4000×864"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-334",
+      "artifact_id": "transparent-translucent-electronics-334",
+      "source_url": "https://www.analogue.co/editions/3d-funtastic",
+      "media_url": "https://images.analogue.co/controller_jungle.dd07ef37ce81ca3701525e95ffc79504.png?w=4000&s=b95b78e68c50650b12d6dfce841b565c",
+      "title": "8BitDo64 Controller Limited Edition,green; maker orthographic composite",
+      "creator": "8BitDo; published by Analogue",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Three views of one independently named controller count once. A green translucent two-grip shell reveals pale posts, board compartments and screws. Transparent face buttons and D-pad plus dark lower edge form a contrast to the bright printed symbols of older controller variants. It differs in layout and silhouette from Pro2, rather than being a recoloring.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b3fa788f96ea186833e85029bda2502fb514e063a1d46d96dde2f8262b331437",
+      "resolution": "4000×2213"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-337",
+      "artifact_id": "transparent-translucent-electronics-337",
+      "source_url": "https://commons.wikimedia.org/wiki/File:WonderSwan-Color-Blue-Left.jpg",
+      "media_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/WonderSwan-Color-Blue-Left.jpg/3840px-WonderSwan-Color-Blue-Left.jpg",
+      "title": "Bandai WonderSwan Color,2000; clear blue shell",
+      "creator": "Bandai; photograph Evan-Amos,2014",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Bright blue transparent shell reveals board traces, posts, speaker and red/black wires beside an opaque silver screen surround. Clear triangular caps cover pale key inserts; orange power and white auxiliary controls remain opaque. A full3840px source-declared rendition is inspected after original endpoint rate limiting.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f83bcbc771b4fc42fd609334d8a9fae8ddde589fe7738241fe760cbde5937bcd",
+      "resolution": "3840×2696"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-338",
+      "artifact_id": "transparent-translucent-electronics-338",
+      "source_url": "https://commons.wikimedia.org/wiki/File:WonderSwan-WonderWave-PocketStation.jpg",
+      "media_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/WonderSwan-WonderWave-PocketStation.jpg/3840px-WonderSwan-WonderWave-PocketStation.jpg",
+      "title": "Bandai original WonderSwan with WonderWave accessory,1999 design",
+      "creator": "Bandai; photograph Evan-Amos,2014",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Original monochrome WonderSwan has a smoke transparent slim rounded chassis, opaque pale triangular keys and silver screen frame. The separate clear WonderWave accessory openly exposes its board, black chips and capacitor. White Sony PocketStation shown alongside is opaque and contributes no separate example. One documented connected ensemble;3840px full-image rendition.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c5883f909ac9490ce9696857ee29297cda98af8a691a467e4cf74889cc29c62d",
+      "resolution": "3840×1848"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-339",
+      "artifact_id": "transparent-translucent-electronics-339",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg",
+      "media_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg/3840px-Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg",
+      "title": "Nintendo Game Boy Advance Glacier,2001 design",
+      "creator": "Nintendo; photograph Evan-Amos,2016",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Milky pale-blue translucent wide handheld softly reveals screw bosses and dark structural silhouettes; opaque white controls and black display surround provide functional contrast. Raised molded legends are low-key. This diffuse finish is distinct from sharp colorless transparency;3840px full-image rendition inspected.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c9bf6e05a7b59939ab908ce727fa3daa0d5b08c6be9d6fceec547660f0b33d7f",
+      "resolution": "3840×2651"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-340",
+      "artifact_id": "transparent-translucent-electronics-340",
+      "source_url": "https://news.xbox.com/en-us/2021/10/07/celebrate-20-years-of-play-with-20th-anniversary-hardware/",
+      "media_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2021/10/Controller_Front_Back_JPG_CROP.jpg",
+      "title": "Xbox20th Anniversary Special Edition Wireless Controller,2021",
+      "creator": "Microsoft Xbox",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Translucent smoke front shows bright silver support geometry and screw cavities; grips, rear battery cover and moving controls remain predominantly opaque black. Saturated green pads and ring accent the layered neutral mechanism. The two views count as one design.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f111886c19a72fed5a37041089214570865b5d866434bb5c478414730af226d8",
+      "resolution": "1432×712"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-341",
+      "artifact_id": "transparent-translucent-electronics-341",
+      "source_url": "https://news.xbox.com/en-us/2021/10/07/celebrate-20-years-of-play-with-20th-anniversary-hardware/",
+      "media_url": "https://xboxwire.thesourcemediaassets.com/sites/2/2021/10/Stereo_Headset_3up_JPG.jpg",
+      "title": "Xbox20th Anniversary Special Edition Stereo Headset,2021",
+      "creator": "Microsoft Xbox",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "A black padded headset has circular smoke-transparent earcup plates that reveal driver outlines and screw fixings. Neon-green perforated annuli, L/R lettering and microphone tip punctuate the black structure. Clear housing is localized to meaningful functional assemblies; three views are one artifact.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "eb751e194eced3498e214feef1f1faa932bcf078cb21944e7e19568aec58ff6a",
+      "resolution": "1920×1080"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-351",
+      "artifact_id": "transparent-translucent-electronics-351",
+      "source_url": "https://www.lofree.co/blogs/media/whats-behind-lofree-1",
+      "media_url": "https://ucarecdn.com/50ff309b-72dd-4597-9d10-6895bbd75ee6/-/format/auto/-/preview/3000x3000/-/quality/lighter/lofree_17.jpg",
+      "title": "Lofree1% keyboard construction composite,2022",
+      "creator": "Lofree",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Complete1080×1275 maker technical composite combines the full keyboard layout with exploded transparent cap, stem and shell close views. Correlated original close views347/348/349 establish material detail: squared rounded clear keycaps show mechanical stems over a metal-colored plate, with thin black serif-like legends. The small whole-keyboard inset limits spacing measurements, not the explicit visible key construction. One independently designed product across all views, not separate counts for promotional sculptures or customized caps.",
+          "dimensions": [
+            "shape",
+            "texture",
+            "type",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "9a8b56b7fb96187796de05ea4e9a4494fa4c2aac4bda6b2f2a92dcb5dfcef88e",
+      "resolution": "1080×1275"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-353",
+      "artifact_id": "transparent-translucent-electronics-353",
+      "source_url": "https://vanda-production-assets.s3.amazonaws.com/2022/05/23/22/10/25/5f575434-312f-4d12-850b-9ca902c7469b/V%26A%20Innovate%20Theme%20Inspiration%20Pack.pdf#page=23",
+      "media_url": "https://vanda-production-assets.s3.amazonaws.com/2022/05/23/22/10/25/5f575434-312f-4d12-850b-9ca902c7469b/V%26A%20Innovate%20Theme%20Inspiration%20Pack.pdf#page=23",
+      "title": "Radio in a Bag,1981 design/APEX1983 manufacture;V&A W.9-1992",
+      "creator": "Daniel Weil; V&A reproduction",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Complete V&A PDF page23 (printed22),rendered2400px, shows a flexible clear welded PVC envelope with loosely separated board, round speaker, battery and wiring. Printed violet/yellow/black graphic fragments coexist with exposed workings. Rigid glossy molded housing is not mandatory. Muralla China radio above lacks a surrounding clear enclosure and adds no qualifying work.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "2d1d6f6165c88bfac81158b1ef6c7fa6f27e9f1d9d686579a9c00c749ec44359",
+      "resolution": "PDF page23 (printed22),rendered2400px full page"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-355",
+      "artifact_id": "transparent-translucent-electronics-355",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Game-Boy-Color-Purple.jpg",
+      "media_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Game-Boy-Color-Purple.jpg/960px-Game-Boy-Color-Purple.jpg",
+      "title": "Nintendo Game Boy Color Atomic Purple",
+      "creator": "Nintendo; photograph Evan-Amos,2011",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Complete960×1568 source-declared rendition of1580×2580 original is legible: purple translucent shell, pale inner plate, dark controls and bezel, green board patch, posts and perforated speaker all remain visible as distinct layers. Raised labels and colorful screen wordmark occupy the outer casing; static LCD does not establish behavioral timing.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "ed3e8bd062cc2d7252a897f2420563d013f47e6f930e520a60fa8981ea1cdf17",
+      "resolution": "960×1568"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-383",
+      "artifact_id": "transparent-translucent-electronics-383",
+      "source_url": "https://www.gsmarena.com/nothing_ear_1_review-news-50295.php",
+      "media_url": "https://fdn.gsmarena.com/imgroot/news/21/07/nothing-ear-1-review/-1200w5/gsmarena_001.jpg",
+      "title": "Nothing Ear1,2021; firsthand review photograph",
+      "creator": "Nothing / Teenage Engineering; GSMArena photograph,review by Prasad",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "The complete1200px photograph shows rounded-square clear case corners, metal hinges and transparent short stems around opaque white earpieces and a textured white internal case block. Internal supports are selectively visible, not every component exposed. The mixture of clear and screened interiors is a deliberate material variant.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "93d1b9c827d604a19bf0fe008fb6bbfece0d66e0421d5d38288372b3fcbfeed7",
+      "resolution": "1200×800"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-427",
+      "artifact_id": "transparent-translucent-electronics-427",
+      "source_url": "https://commons.wikimedia.org/wiki/File:IBook%20G3%20Clamshell.JPG",
+      "media_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/IBook_G3_Clamshell.JPG/1280px-IBook_G3_Clamshell.JPG",
+      "title": "Apple iBookG3 clamshell Key Lime specimen; photograph2012",
+      "creator": "Apple Industrial Design Group; photograph Tokumeigakarinoaoshima",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Rounded clamshell laptop pairs a pale milky surface with lime translucent perimeter and trackpad surround. Dark screw points and clear keyboard keys sit in a soft curving deck; display remains opaque. Complete1280×946 source-declared rendition is legible for form/material, while photographic overexposure limits precise opacity and color claims.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f3e215c50071225528b8c1c2c63bb4caf0052339467d0854844f1fb4c13b7bdd",
+      "resolution": "1280×946"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-429",
+      "artifact_id": "transparent-translucent-electronics-429",
+      "source_url": "https://learn.adafruit.com/ice-tube-clock-kit/overview",
+      "media_url": "https://cdn-learn.adafruit.com/assets/assets/000/003/566/large1024/adafruit_products_icetubeclock_LRG.jpg?1396798401",
+      "title": "Adafruit Ice Tube Clock kit; complete maker photograph",
+      "creator": "Adafruit / Limor Fried",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Rectilinear clear sheet enclosure uses visible tab/slot joins and shiny bolt fixings, exposing a long blue-lit display tube, black chip, blue capacitors and green board. Unlike molded candy shells, planar transparent construction retains mechanical assembly as decoration. Static digits do not establish tick timing or animation.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "660ea3ea4200facfe12ffbb8d8729be30a49bc6765e6cd71e80a6538ad18f74a",
+      "resolution": "735×551"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-431",
+      "artifact_id": "transparent-translucent-electronics-431",
+      "source_url": "https://shop.pimoroni.com/products/pibow-zero-w",
+      "media_url": "https://media.digikey.com/pdf/Data%20Sheets/Pimoroni%20PDFs/PIM258_Web.pdf#page=1",
+      "title": "Pimoroni PibowZeroW PIM258 maker datasheet,2017",
+      "creator": "Pimoroni; hosted by DigiKey",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Complete datasheet pages1–2 inspected at2200px: clear top/base plates and red/purple/blue layered acrylic sides hold the green board with four visible nylon fixings. Cutouts align to ports; the exploded view explicitly separates structural layers. This is a case around electronics, not a display cabinet or abstract glass panel. Photo and exploded view count as one independently designed enclosure.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "f6f60d8c49d1c8d294f73f6efcf0beac74d755cb5b4183043c2d0d264eac53c1",
+      "resolution": "PDF pages1–2,rendered2200px full page"
+    },
+    {
+      "record_id": "transparent-translucent-electronics-432",
+      "artifact_id": "transparent-translucent-electronics-432",
+      "source_url": "https://koss.com/products/cl-20",
+      "media_url": "https://koss.com/cdn/shop/files/Koss_CL20.jpg?crop=center&height=2048&v=1743543950&width=2048",
+      "title": "KossCL20 clear on-ear headphones; maker full view",
+      "creator": "Koss",
+      "accessed_at": "2026-11-08",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "observation": "Complete1080×1440 maker photograph shows a clear segmented/slotted headband, visible dark screws, transparent hinge blocks and translucent circular cups around darker drivers. Black padded ear cushions and cord keep their opaque identity. The material is colorless and structural, with small gray model/brand labels rather than a required candy palette.",
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial",
+            "type"
+          ]
+        }
+      ],
+      "handling": "Analytical links only; no permission to reproduce inferred.",
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "b411fbc82dbdc430dfbbdf4e6f3409e49e32e02a7bb5192c6013feecbf485075",
+      "resolution": "1080×1440"
+    }
+  ]
+}
