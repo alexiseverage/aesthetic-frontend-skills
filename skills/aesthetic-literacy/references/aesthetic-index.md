@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 259
+- Full entries: 260
 - Redirect entries: 1
 - Families: 8
 
@@ -24,6 +24,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `coastal-grandmother` | Coastal Grandmother | Nancy Meyers chic, coastal auntie, easy coastal luxury |
 | `cottagecore` | Cottagecore | farmcore, countrycore |
 | `dark-academia` | Dark Academia | academic gothic, scholastic gothic |
+| `deconstructed-fashion` | Deconstructed Fashion | deconstruction fashion, deconstructivist fashion, deconstructed tailoring |
 | `decora-kei` | Decora Kei | decora, Harajuku decora, decora fashion, kawaii accessory stacking, decorative kei |
 | `folk-horror-pastoral` | Folk Horror Pastoral | folk horror, uncanny pastoral |
 | `goblincore` | Goblincore | mushroomcore, mosscore, dirtcore-adjacent |

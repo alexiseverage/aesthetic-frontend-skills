@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 259,
+  "fullEntryCount": 260,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -797,6 +797,17 @@
         "Neo-Plasticism",
         "Mondrian style",
         "The Style"
+      ]
+    },
+    {
+      "slug": "deconstructed-fashion",
+      "label": "Deconstructed Fashion",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "deconstruction fashion",
+        "deconstructivist fashion",
+        "deconstructed tailoring"
       ]
     },
     {
