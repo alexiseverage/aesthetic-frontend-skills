@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 266
+- Full entries: 281
 - Redirect entries: 1
 - Families: 8
 
@@ -139,6 +139,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `italian-radical-design` | Italian Radical Design | Radical Design, Anti-design, Superstudio, Archizoom |
 | `japanese-metabolism` | Japanese Metabolism | Metabolism, Metabolist architecture, Japanese Metabolist movement |
 | `light-and-space` | Light and Space | Light & Space, California Light and Space, Southern California Light and Space |
+| `ligne-claire` | Ligne Claire | Clear Line, Klare Lijn |
 | `memphis` | Memphis / Post-Modern | Memphis-Milano, Memphis Design, Memphis Group |
 | `mid-century-modern` | Mid-century Modern | MCM, Mid-Century, Midcentury Modern, Atomic Ranch |
 | `mingei` | Mingei | Mingei movement, Japanese folk craft movement |
@@ -186,6 +187,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `albarello-pharmacy-ceramics` | Albarello Pharmacy Ceramics | Albarelli pharmacy jars, Painted albarello vessels, Albarelli, Albarelo pharmacy ceramics |
 | `anatomical-flap-atlases` | Anatomical Flap Atlases | Anatomical flap books, Anatomical fugitive sheets |
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
+| `balloon-twisting` | Balloon Twisting | Balloon modelling, Balloon sculpting |
 | `brazilian-cordel-woodcut` | Brazilian Cordel Woodcut | Cordel woodcut, Xilogravura de cordel |
 | `british-postwar-textile-abstraction` | British Postwar Textile Abstraction | British postwar abstract textiles |
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
@@ -204,18 +206,25 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `historic-dinosaur-paleoart` | Historic Dinosaur Paleoart | vintage dinosaur illustration, historical dinosaur reconstruction, classic dinosaur paleoart |
 | `japanese-tattoo-composition` | Japanese Tattoo Composition | Japanese bodysuit composition, horimono composition, wabori composition |
 | `klecksography-inkblot` | Klecksography / Inkblot Graphics | Klecksography, Folded inkblot graphics, Kleksographie, Klecksographie, Inkblot graphics |
+| `millefiori-glass` | Millefiori Glass | Millefiori |
 | `ndebele-mural-art` | Ndebele Mural Art | Ndebele house painting, Southern Ndebele mural painting |
+| `origami` | Origami | Paper folding |
+| `paint-by-number` | Paint by Number | Paint-by-numbers, Malen nach Zahlen |
+| `paper-quilling` | Paper Quilling | Paper filigree |
 | `paper-theatre` | Paper Theatre | Paper Theater, Toy Theatre, Toy Theater, Papiertheater, Théâtre de Papier, Juvenile Drama |
+| `patchwork-quilting` | Patchwork Quilting | Pieced quilts |
 | `photographic-contact-sheet` | Photographic Contact Sheet | Photographic proof sheet, Photography contact-sheet vernacular |
 | `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
 | `pochoir-fashion-plates` | Pochoir Fashion Plates | Pochoir fashion illustration, Gazette du Bon Ton fashion plates |
 | `pop-punk` | Pop-Punk | Pop-Punk Graphics, Pop-Punk Merch Design |
+| `puffy-sticker-albums` | Puffy Sticker Albums | Puffy sticker books |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |
 | `safavid-manuscript-painting` | Safavid Manuscript Painting | Safavid narrative painting, Safavid illustrated manuscript |
 | `skate-deck-screen-print` | Skate Deck Screen-Print Graphics | skateboard deck art, deck graphics, spot-color deck print, skate screen print |
 | `spirit-photography-seance` | Spirit Photography Seance | spirit photography, seance cabinet card |
 | `taller-de-grafica-popular` | Taller de Gráfica Popular | TGP print graphics, Workshop of Popular Graphic Art |
+| `toile-de-jouy` | Toile de Jouy | Jouy Print |
 | `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
 | `vintage-halloween-postcard` | Vintage Halloween Postcard | Halloween postcard, antique Halloween postcard |
 | `whole-earth-catalog-editorial` | Whole Earth Catalog Editorial | Whole Earth editorial vernacular, Whole Earth tool-catalog design |
@@ -292,6 +301,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `disco-sleeve-graphics` | Disco Sleeve Graphics | 1970s disco record sleeves, Disco album graphics |
 | `fileteado-porteno` | Fileteado Porteño | Filete Porteño, Fileteado Porteno, Buenos Aires Fileteado |
 | `financial-newspaper-editorial` | Financial Newspaper Editorial | Financial press editorial design, Business newspaper editorial |
+| `fruit-crate-label-graphics` | Fruit Crate Label Graphics | Fruit box label graphics, Citrus crate label graphics |
 | `ghanaian-mobile-cinema-posters` | Ghanaian Mobile-Cinema Posters | Ghanaian hand-painted film posters, Ghanaian movie posters, Ghana painted cinema posters |
 | `global-village-coffeehouse` | Global Village Coffeehouse | GVC, Millennium Global Village, Millennium-Era Urbane-Sophistication World Vibes |
 | `guochao` | Guochao | China-chic, guochao branding, guochao packaging, 国潮, Chinese heritage revival branding |
@@ -301,6 +311,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `haunted-dark-ride` | Haunted Dark Ride | haunted-house ride, dark ride horror |
 | `heritage-motorsport-livery` | Heritage Motorsport Livery | Classic racing livery, Vintage motorsport graphics, Historic race-car liveries |
 | `hotel-luggage-labels` | Hotel Luggage Labels | Vintage hotel luggage labels, Hotel baggage labels |
+| `japanese-matchbox-label-graphics` | Japanese Matchbox Label Graphics | Japanese match labels, Raberu matchbox graphics |
 | `konbini-utility` | Konbini Utility | Japanese convenience store utility, konbini design, convenience retail packaging utility |
 | `lomography` | Lomography | Lomographic photography |
 | `lotto` | Lotto Scratcher Commerce | scratch-off, scratch ticket, instant-win ticket, state lottery scratcher |
@@ -308,8 +319,12 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `model-comp-cards` | Model Comp Cards | model composite cards, model sedcards, model z-cards, model zed cards |
 | `nagel-era-fashion-illustration` | Nagel-era Fashion Illustration | Nagel illustration, Nagel poster aesthetic, 1980s planar fashion illustration |
 | `pakistani-truck-art` | Pakistani Truck Art | Pakistan Truck Art, Pakistani Truck Painting |
+| `pinball-backglass` | Pinball Backglass | Pinball backglass graphics, Electromechanical pinball backglass |
 | `plant-based-challenger-graphics` | Plant-Based Challenger Graphics | Plant-based challenger branding, Vegan challenger graphics |
+| `printed-tin-toys` | Printed Tin Toys | Tin Toy Graphics |
 | `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |
+| `roadside-mini-golf` | Roadside Mini Golf | Roadside miniature golf, Novelty miniature golf |
+| `roller-rink-graphics` | Roller Rink Graphics | Roller rink decals |
 | `school-fall-festival` | School Fall Festival | fall festival flyer, school carnival fall |
 | `shanghai-calendar-posters` | Shanghai Calendar Posters | Shanghai yuefenpai, 上海月份牌, Shanghai advertising calendars |
 | `shokuhin-sanpuru-display` | Shokuhin Sanpuru Display | Japanese food-replica display, food sample display, shokuhin sampuru display |
