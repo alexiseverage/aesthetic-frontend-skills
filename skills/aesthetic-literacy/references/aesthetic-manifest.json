@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 266,
+  "fullEntryCount": 281,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -305,6 +305,16 @@
         "ballet aesthetic",
         "dancer off-duty",
         "ballet rehearsal style"
+      ]
+    },
+    {
+      "slug": "balloon-twisting",
+      "label": "Balloon Twisting",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Balloon modelling",
+        "Balloon sculpting"
       ]
     },
     {
@@ -1117,6 +1127,16 @@
       ]
     },
     {
+      "slug": "fruit-crate-label-graphics",
+      "label": "Fruit Crate Label Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Fruit box label graphics",
+        "Citrus crate label graphics"
+      ]
+    },
+    {
       "slug": "frutiger-aero",
       "label": "Frutiger Aero",
       "family": "digital-internet-native",
@@ -1484,6 +1504,16 @@
       ]
     },
     {
+      "slug": "japanese-matchbox-label-graphics",
+      "label": "Japanese Matchbox Label Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Japanese match labels",
+        "Raberu matchbox graphics"
+      ]
+    },
+    {
       "slug": "japanese-metabolism",
       "label": "Japanese Metabolism",
       "family": "historical-design-movements",
@@ -1569,6 +1599,16 @@
         "Light & Space",
         "California Light and Space",
         "Southern California Light and Space"
+      ]
+    },
+    {
+      "slug": "ligne-claire",
+      "label": "Ligne Claire",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Clear Line",
+        "Klare Lijn"
       ]
     },
     {
@@ -1692,6 +1732,15 @@
         "Mid-Century",
         "Midcentury Modern",
         "Atomic Ranch"
+      ]
+    },
+    {
+      "slug": "millefiori-glass",
+      "label": "Millefiori Glass",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Millefiori"
       ]
     },
     {
@@ -1888,6 +1937,15 @@
       ]
     },
     {
+      "slug": "origami",
+      "label": "Origami",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Paper folding"
+      ]
+    },
+    {
       "slug": "orphism",
       "label": "Orphism",
       "family": "historical-design-movements",
@@ -1904,6 +1962,16 @@
       "aliases": [
         "Coraline-inspired domestic uncanny",
         "otherworld domestic design"
+      ]
+    },
+    {
+      "slug": "paint-by-number",
+      "label": "Paint by Number",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Paint-by-numbers",
+        "Malen nach Zahlen"
       ]
     },
     {
@@ -1927,6 +1995,15 @@
       ]
     },
     {
+      "slug": "paper-quilling",
+      "label": "Paper Quilling",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Paper filigree"
+      ]
+    },
+    {
       "slug": "paper-theatre",
       "label": "Paper Theatre",
       "family": "material-print-craft",
@@ -1938,6 +2015,15 @@
         "Papiertheater",
         "Théâtre de Papier",
         "Juvenile Drama"
+      ]
+    },
+    {
+      "slug": "patchwork-quilting",
+      "label": "Patchwork Quilting",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Pieced quilts"
       ]
     },
     {
@@ -1996,6 +2082,16 @@
         "pierrot aesthetic",
         "harlequin",
         "jestercore"
+      ]
+    },
+    {
+      "slug": "pinball-backglass",
+      "label": "Pinball Backglass",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Pinball backglass graphics",
+        "Electromechanical pinball backglass"
       ]
     },
     {
@@ -2117,6 +2213,15 @@
       ]
     },
     {
+      "slug": "printed-tin-toys",
+      "label": "Printed Tin Toys",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Tin Toy Graphics"
+      ]
+    },
+    {
       "slug": "psychedelic",
       "label": "Psychedelic",
       "family": "historical-design-movements",
@@ -2126,6 +2231,15 @@
         "Acid Aesthetic",
         "Fillmore Poster Style",
         "Trippy"
+      ]
+    },
+    {
+      "slug": "puffy-sticker-albums",
+      "label": "Puffy Sticker Albums",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Puffy sticker books"
       ]
     },
     {
@@ -2193,6 +2307,25 @@
         "riso-print",
         "riso aesthetic",
         "spot-color print"
+      ]
+    },
+    {
+      "slug": "roadside-mini-golf",
+      "label": "Roadside Mini Golf",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Roadside miniature golf",
+        "Novelty miniature golf"
+      ]
+    },
+    {
+      "slug": "roller-rink-graphics",
+      "label": "Roller Rink Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Roller rink decals"
       ]
     },
     {
@@ -2608,6 +2741,15 @@
         "Polynesian Pop",
         "tiki bar Americana",
         "mid-century tiki"
+      ]
+    },
+    {
+      "slug": "toile-de-jouy",
+      "label": "Toile de Jouy",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Jouy Print"
       ]
     },
     {
