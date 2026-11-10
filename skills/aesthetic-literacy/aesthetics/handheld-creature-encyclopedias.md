@@ -2,7 +2,7 @@
 slug: handheld-creature-encyclopedias
 label: Handheld Creature Encyclopedias
 family: digital-internet-native
-era: Late1990s–present portable creature-record interfaces and descendants
+era: Late 1990s–present portable creature-record interfaces and descendants
 aliases: ["portable creature index UI", "creature field-guide interfaces"]
 status: canonical
 evidence_level: standard
@@ -16,7 +16,7 @@ subsets: []
 
 A descriptive interface grammar for portable creature-record systems: numbered entries, selected-specimen viewport, concise attributes, collection/discovery status, and practical search or reorder controls. Early LCD/pixel indexes, dual-screen records, contemporary portable console indexes and phone descendants share this information task while differing materially in appearance. It is not a name for all Pokémon art or a claim of one historical movement.
 
-The [research profile](../../../knowledge/aesthetics/handheld-creature-encyclopedias.md) documents30 unique works,26 complete published interface images and four official manuals with inspected screen diagrams. Pokémon dominates29/30; Yo-kai Watch3 provides a useful medal-binder comparison. Multiple states, platforms of HOME and close sequel recolors are deduplicated. The evidence supports this concentrated lineage rather than a universal account of all creature-collecting games.
+The [research profile](../../../knowledge/aesthetics/handheld-creature-encyclopedias.md) documents 30 unique works, 26 complete published interface images and four official manuals with inspected screen diagrams. Pokémon dominates 29/30; Yo-kai Watch 3 provides a useful medal-binder comparison. Multiple states, platforms of HOME and close sequel recolors are deduplicated. The evidence supports this concentrated lineage rather than a universal account of all creature-collecting games.
 
 ## 7-Dimension Profile
 
@@ -46,7 +46,7 @@ Conveys curiosity, portable reference and completing a personal record. It can b
 
 ## Related / Subsets
 
-- **Pixel Art** supplies one rendering method; later3D and book indexes show that pixels are not the definition. This system requires indexed records and discovery status.
+- **Pixel Art** supplies one rendering method; later 3D and book indexes show that pixels are not the definition. This system requires indexed records and discovery status.
 - **Skeuomorphism** supplies device/book affordances broadly; this entry narrows them to creature reference and collection tasks.
 - **Wiki Encyclopedia Vernacular** uses links, citations, revision and article structure. A portable creature index emphasizes selected specimens, short attributes and registration status rather than general article editing.
 - **Cozy Life-Sim Interfaces** organizes belongings, materials and making. This entry organizes numbered creature knowledge; decorative creature imagery alone establishes neither.
@@ -59,7 +59,7 @@ Build a searchable record browser with number/name ordering, habitat filtering, 
 
 Native radios can select records, native selects can filter/order and buttons can document or clear a field record. Do not fake D-pad functionality or rely on sound, hover or drag. Add text labels to status symbols, accessible names to controls and focus rims distinct from selected brackets. Note forms should trim whitespace, associate errors, preserve per-record drafts on navigation and export actual saved data. State page-only persistence honestly within the field log.
 
-Use desktop index/detail columns and mobile stacked panes.44px controls,16px working text and wrapping names adapt the grammar without importing old hardware limitations. Keep the authored screen legible in either host theme; avoid making the entire device too low contrast to resemble an LCD. Stillness is suitable for close comparison and note writing.
+Use desktop index/detail columns and mobile stacked panes. 44px controls, 16px working text and wrapping names adapt the grammar without importing old hardware limitations. Keep the authored screen legible in either host theme; avoid making the entire device too low contrast to resemble an LCD. Stillness is suitable for close comparison and note writing.
 
 ## CSS Translation
 
@@ -75,7 +75,7 @@ Authored web tokens, not recovered game source code:
 .fieldlink *,.fieldlink *::before,.fieldlink *::after { animation:none; transition:none; }
 ```
 
-Proposed spacing4/8/12/16/24/32px; specimen viewport square, data definition list two columns, desktop index around36% and record64%, mobile stack at680px. Display title28–48px, names24–32px, index14px, body16px. Keep texture in decorative viewport background, never over data. No timing or breakpoint is presented as measured from the source games.
+Proposed spacing 4/8/12/16/24/32px; specimen viewport square, data definition list two columns, desktop index around 36% and record 64%, mobile stack at 680px. Display title 28–48px, names 24–32px, index 14px, body 16px. Keep texture in decorative viewport background, never over data. No timing or breakpoint is presented as measured from the source games.
 
 ## Typography / Fonts
 
