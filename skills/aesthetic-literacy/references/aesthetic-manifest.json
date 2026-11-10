@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 281,
+  "fullEntryCount": 296,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -326,6 +326,16 @@
         "Barbie aesthetic",
         "Barbie pink aesthetic",
         "doll-pop glam"
+      ]
+    },
+    {
+      "slug": "basketball-magazine-editorial",
+      "label": "Basketball Magazine Editorial",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "hoops magazine editorial",
+        "basketball culture publishing"
       ]
     },
     {
@@ -745,6 +755,26 @@
       ]
     },
     {
+      "slug": "cozy-life-sim-interfaces",
+      "label": "Cozy Life-Sim Interfaces",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "cozy life simulation UI",
+        "cozy inventory interfaces"
+      ]
+    },
+    {
+      "slug": "cute-arcade-puzzle-boards",
+      "label": "Cute Arcade Puzzle Boards",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "mascot puzzle-board aesthetic",
+        "cute action-puzzle graphics"
+      ]
+    },
+    {
       "slug": "cute-tech",
       "label": "Kawaii / Cute-Tech",
       "family": "speculative-robotics",
@@ -962,6 +992,16 @@
       ]
     },
     {
+      "slug": "early-video-sharing-channels",
+      "label": "Early Video-Sharing Channels",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "custom YouTube channel skins",
+        "early video channel vernacular"
+      ]
+    },
+    {
       "slug": "early-web-pet-portals",
       "label": "Early Web Pet Portals",
       "family": "digital-internet-native",
@@ -1039,6 +1079,16 @@
       "status": "canonical",
       "aliases": [
         "European armorial design"
+      ]
+    },
+    {
+      "slug": "extreme-energy-drink-graphics",
+      "label": "Extreme Energy Drink Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "extreme energy packaging",
+        "high-impact energy-drink graphics"
       ]
     },
     {
@@ -1124,6 +1174,16 @@
       "aliases": [
         "folk horror",
         "uncanny pastoral"
+      ]
+    },
+    {
+      "slug": "football-programme-modernism",
+      "label": "Football Matchday Programme Modernism",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "modernist matchday programmes",
+        "football programme modernism"
       ]
     },
     {
@@ -1316,6 +1376,16 @@
       "aliases": [
         "seasonal Halloween retail",
         "costume-store packaging"
+      ]
+    },
+    {
+      "slug": "handheld-creature-encyclopedias",
+      "label": "Handheld Creature Encyclopedias",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "portable creature index UI",
+        "creature field-guide interfaces"
       ]
     },
     {
@@ -1655,6 +1725,16 @@
       ]
     },
     {
+      "slug": "makeup-face-chart-studio",
+      "label": "Makeup Face-Chart Studio",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "makeup planning sheets",
+        "facechart studio"
+      ]
+    },
+    {
       "slug": "materia-medica-collections",
       "label": "Materia Medica Collections",
       "family": "technical-institutional",
@@ -1975,6 +2055,16 @@
       ]
     },
     {
+      "slug": "painted-ski-trail-cartography",
+      "label": "Painted Ski Trail Cartography",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "painted piste maps",
+        "winter resort panorama maps"
+      ]
+    },
+    {
       "slug": "pakistani-truck-art",
       "label": "Pakistani Truck Art",
       "family": "vernacular-commercial",
@@ -2015,6 +2105,16 @@
         "Papiertheater",
         "Théâtre de Papier",
         "Juvenile Drama"
+      ]
+    },
+    {
+      "slug": "pastel-slideshow-activism",
+      "label": "Pastel Slideshow Activism",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "pastel Instagram explainers",
+        "pastel social-justice carousels"
       ]
     },
     {
@@ -2243,6 +2343,16 @@
       ]
     },
     {
+      "slug": "pulp-science-fiction-editorial",
+      "label": "Pulp Science-Fiction Editorial",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "science-fiction pulp magazine graphics",
+        "scientifiction editorial graphics"
+      ]
+    },
+    {
       "slug": "pumpkin-patch-field-trip",
       "label": "Pumpkin Patch Field Trip",
       "family": "vernacular-commercial",
@@ -2435,6 +2545,16 @@
       ]
     },
     {
+      "slug": "short-form-social-video-ui",
+      "label": "Short-Form Social Video UI",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "vertical social video interfaces",
+        "short-video feed vernacular"
+      ]
+    },
+    {
       "slug": "silver-face-hi-fi",
       "label": "Silver-Face Hi-Fi",
       "family": "vernacular-commercial",
@@ -2486,6 +2606,16 @@
       "aliases": [
         "horror VHS",
         "video-store slasher"
+      ]
+    },
+    {
+      "slug": "snow-crystal-photomicrography",
+      "label": "Snow Crystal Photomicrography",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "snowflake photomicrography",
+        "snow crystal photographic plates"
       ]
     },
     {
@@ -2829,6 +2959,16 @@
       ]
     },
     {
+      "slug": "varsity-lettering-chenille",
+      "label": "Varsity Lettering & Chenille",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "letterman graphics",
+        "collegiate chenille lettering"
+      ]
+    },
+    {
       "slug": "vector-arcade-graphics",
       "label": "Vector Arcade Graphics",
       "family": "digital-internet-native",
@@ -2953,6 +3093,16 @@
       "aliases": [
         "Whole Earth editorial vernacular",
         "Whole Earth tool-catalog design"
+      ]
+    },
+    {
+      "slug": "wiki-encyclopedia-vernacular",
+      "label": "Wiki Encyclopedia Vernacular",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "encyclopedic wiki interfaces",
+        "Wikipedia-like article design"
       ]
     },
     {

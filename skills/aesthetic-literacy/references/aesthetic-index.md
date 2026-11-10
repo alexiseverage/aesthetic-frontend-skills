@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 281
+- Full entries: 296
 - Redirect entries: 1
 - Families: 8
 
@@ -50,6 +50,8 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `classic-ray-traced-cgi` | Classic Ray-Traced CGI | classic raytracing, early ray-traced CGI, POV-Ray-era CGI |
 | `cloud-rap` | Cloud Rap | Cloud Rap Graphics, Cloud Rap Visuals |
 | `clowncore` | Clowncore | clown core, clowncore aesthetic |
+| `cozy-life-sim-interfaces` | Cozy Life-Sim Interfaces | cozy life simulation UI, cozy inventory interfaces |
+| `cute-arcade-puzzle-boards` | Cute Arcade Puzzle Boards | mascot puzzle-board aesthetic, cute action-puzzle graphics |
 | `cyberdelic-editorial` | Cyberdelic Editorial | Cyberdelic magazine graphics, 1990s cyberculture editorial |
 | `demoscene` | Demoscene | Demo Scene |
 | `desktop-publishing` | Desktop Publishing / Early Mac Aesthetic | DTP aesthetic, Macintosh Bitmap Era, early Mac aesthetic, PageMaker aesthetic |
@@ -57,10 +59,12 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `dreamcore-weirdcore` | Dreamcore / Weirdcore | dreamcore, weirdcore, liminal dream edit |
 | `dvd-menu` | DVD Menu | DVD menu screen, DVD menu interface, DVD menu design, DVD-Video menu, interactive DVD menu, disc menu |
 | `early-internet` | Early Internet / Web 1.0 | webcore |
+| `early-video-sharing-channels` | Early Video-Sharing Channels | custom YouTube channel skins, early video channel vernacular |
 | `early-web-pet-portals` | Early Web Pet Portals | classic virtual-pet portals, web pet community interfaces, browser pet portals |
 | `flat-design` | Flat Design | flat UI, metro-inspired, Flat 2.0 |
 | `frutiger-aero` | Frutiger Aero | — |
 | `glitch` | Glitch / Datamosh | — |
+| `handheld-creature-encyclopedias` | Handheld Creature Encyclopedias | portable creature index UI, creature field-guide interfaces |
 | `hauntology` | Hauntology | cultural hauntology, lost-futures aesthetic, Ghost Box-adjacent |
 | `health-goth` | Health Goth | Healthgoth |
 | `hyperpop` | Hyperpop | Hyperpop Graphics, Hyper Pop Visuals |
@@ -72,8 +76,10 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `myspace-chaos` | MySpace Chaos | MySpace aesthetic, profile customization era |
 | `napster-era-p2p-clients` | Napster-Era P2P Clients | early peer-to-peer client UI, Napster-era file-sharing interfaces |
 | `palm-os-monochrome` | Palm OS Monochrome | PalmPilot monochrome UI, Classic Palm OS monochrome interface |
+| `pastel-slideshow-activism` | Pastel Slideshow Activism | pastel Instagram explainers, pastel social-justice carousels |
 | `personal-homepage-builder` | Personal Homepage Builder / Site-Builder Wizard | site builder wizard, GeoCities PageBuilder, homepage builder UI, WYSIWYG web editor |
 | `seapunk` | Seapunk | Sea punk |
+| `short-form-social-video-ui` | Short-Form Social Video UI | vertical social video interfaces, short-video feed vernacular |
 | `skate-video-vhs-fisheye` | Skate Video VHS / Fisheye Title Cards | skate video aesthetic, VX1000 fisheye, VHS skate video, skate title cards |
 | `skeuomorphism` | Skeuomorphism | realistic UI, material mimicry |
 | `synthwave` | Synthwave / Retrowave | retrowave |
@@ -81,6 +87,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `vector-arcade-graphics` | Vector Arcade Graphics | Vector arcade display graphics, Vector-display arcade graphics |
 | `vectorbloom` | Vectorbloom | Digital botanical ornament |
 | `web-2-gloss` | Web 2.0 Gloss | Web 2.0 design, beta aesthetic |
+| `wiki-encyclopedia-vernacular` | Wiki Encyclopedia Vernacular | encyclopedic wiki interfaces, Wikipedia-like article design |
 | `xlyk` | Xlyk | — |
 | `y2k` | Y2K | Y2K Futurism, Cyber Y2K |
 
@@ -271,11 +278,14 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `european-heraldic-design` | European Heraldic Design | European armorial design |
 | `guilloche-security-printing` | Guilloché Security Printing | Guilloche security printing, Security-print guilloché, Banknote guilloché |
 | `high-performance-hmi` | High-performance HMI | HP HMI, High Performance SCADA, high-performance SCADA graphics, process-operator graphics, operator-centered industrial UI |
+| `makeup-face-chart-studio` | Makeup Face-Chart Studio | makeup planning sheets, facechart studio |
 | `materia-medica-collections` | Materia Medica Collections | Materia medica cabinets, Pharmacognosy teaching collections, Materia medica teaching collections, Raw drug specimen collections |
 | `multisensory-room-design` | Multisensory Room Design | Multisensory environments, Sensory room interiors |
 | `neuroanatomical-ink-drawing` | Neuroanatomical Ink Drawing | Neurohistological ink studies, Neural ink illustration, Neural ink drawing, Cajal-school neural drawing |
+| `painted-ski-trail-cartography` | Painted Ski Trail Cartography | painted piste maps, winter resort panorama maps |
 | `polarized-crystal-photomicrography` | Polarized Crystal Photomicrography | Polarized-light crystal photography, Crystal interference photomicrography, Polarised crystal photomicrography, Birefringent crystal photography |
 | `prescription-label-clarity` | Prescription Label Clarity | ClearRx style, prescription label design, medication label clarity |
+| `snow-crystal-photomicrography` | Snow Crystal Photomicrography | snowflake photomicrography, snow crystal photographic plates |
 | `spooky-science-lab` | Spooky Science Lab | Halloween science lab, spooky STEM |
 | `sports-scorebug` | Sports Scorebug | score bug, broadcast score overlay, sports broadcast graphics |
 | `teletext` | Teletext | Broadcast teletext, Teletext design, Ceefax-style teletext |
@@ -290,6 +300,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `animal-rights-campaign-graphics` | Animal-Rights Campaign Graphics | Animal rights advocacy graphics, Animal liberation campaign graphics |
 | `architectural-property-editorial` | Architectural Property Editorial | Architecture-led property editorial, Architecture-led real estate editorial |
 | `b2b-quick-order-grid` | B2B Quick-Order Grid | quick order grid, B2B order pad, SKU quick order |
+| `basketball-magazine-editorial` | Basketball Magazine Editorial | hoops magazine editorial, basketball culture publishing |
 | `board-game-box-art` | Board Game Box Art | tabletop box cover art, modern board game packaging, boardgame cover art |
 | `bootleg-streetwear-logo-remix` | Bootleg / Parody Streetwear Logo Remix | bootleg logo, parody streetwear, brand flip, subversive logo, logo remix |
 | `casino` | Casino Neon Tableplay | vegas casino, casino signage, table-game casino, gaming floor |
@@ -299,8 +310,10 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `convenience-store-backoffice` | Convenience-Store Back-Office Grid | c-store backoffice, convenience store operations dashboard, fuel retail backoffice |
 | `dia-de-los-muertos-calavera-graphics` | Dia de los Muertos Calavera Graphics | Day of the Dead graphics, calavera graphics |
 | `disco-sleeve-graphics` | Disco Sleeve Graphics | 1970s disco record sleeves, Disco album graphics |
+| `extreme-energy-drink-graphics` | Extreme Energy Drink Graphics | extreme energy packaging, high-impact energy-drink graphics |
 | `fileteado-porteno` | Fileteado Porteño | Filete Porteño, Fileteado Porteno, Buenos Aires Fileteado |
 | `financial-newspaper-editorial` | Financial Newspaper Editorial | Financial press editorial design, Business newspaper editorial |
+| `football-programme-modernism` | Football Matchday Programme Modernism | modernist matchday programmes, football programme modernism |
 | `fruit-crate-label-graphics` | Fruit Crate Label Graphics | Fruit box label graphics, Citrus crate label graphics |
 | `ghanaian-mobile-cinema-posters` | Ghanaian Mobile-Cinema Posters | Ghanaian hand-painted film posters, Ghanaian movie posters, Ghana painted cinema posters |
 | `global-village-coffeehouse` | Global Village Coffeehouse | GVC, Millennium Global Village, Millennium-Era Urbane-Sophistication World Vibes |
@@ -322,6 +335,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `pinball-backglass` | Pinball Backglass | Pinball backglass graphics, Electromechanical pinball backglass |
 | `plant-based-challenger-graphics` | Plant-Based Challenger Graphics | Plant-based challenger branding, Vegan challenger graphics |
 | `printed-tin-toys` | Printed Tin Toys | Tin Toy Graphics |
+| `pulp-science-fiction-editorial` | Pulp Science-Fiction Editorial | science-fiction pulp magazine graphics, scientifiction editorial graphics |
 | `pumpkin-patch-field-trip` | Pumpkin Patch Field Trip | pumpkin patch signage, fall field trip |
 | `roadside-mini-golf` | Roadside Mini Golf | Roadside miniature golf, Novelty miniature golf |
 | `roller-rink-graphics` | Roller Rink Graphics | Roller rink decals |
@@ -335,6 +349,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `tiki-polynesian-pop` | Tiki / Polynesian Pop | Polynesian Pop, tiki bar Americana, mid-century tiki |
 | `trading-card-game-design` | Trading Card Game Design | TCG design, CCG frame design, collectible card UI |
 | `transparent-translucent-electronics` | Transparent / Translucent Electronics | clear electronics, see-through electronics, translucent hardware, clear-tech hardware |
+| `varsity-lettering-chenille` | Varsity Lettering & Chenille | letterman graphics, collegiate chenille lettering |
 
 ## Redirects / Superseded Entries
 
