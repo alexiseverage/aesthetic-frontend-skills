@@ -59,7 +59,7 @@ Use the grammar for craft planners, inventory managers, recipe builders, local p
 
 Native labeled radios can select recipes or categories; pills must retain visible focus and text. Pair illustrated objects with names and quantities, and expose selection through checked/pressed state. A material shortage should explain what is missing. Any optional dragging requires equivalent buttons. Avoid sound dependence, forced animations and hover-only descriptions. Forms need clear labels and associated errors; a local printable label or real text download is preferable to decorative export controls.
 
-On desktop, place a pocket inventory beside a larger recipe page and keep the finished shelf below. On mobile, stack recipe selection, requirements and action without hiding current supplies. Keep controls at least44px, retain readable text and allow wrapping labels. Strong focus rims should be visually separate from selected rims. A dark host theme may preserve the authored cream paper surface if its surroundings and controls remain legible.
+On desktop, place a pocket inventory beside a larger recipe page and keep the finished shelf below. On mobile, stack recipe selection, requirements and action without hiding current supplies. Keep controls at least 44px, retain readable text and allow wrapping labels. Strong focus rims should be visually separate from selected rims. A dark host theme may preserve the authored cream paper surface if its surroundings and controls remain legible.
 
 ## CSS Translation
 
@@ -86,7 +86,7 @@ Proposed worktable tokens; these are authored web values, not recovered game sou
 .cozy-worktable *, .cozy-worktable *::before, .cozy-worktable *::after { animation: none; transition: none; }
 ```
 
-Use4/8/12/16/24/32px spacing,14–16px labels,16px working prose and32–58px friendly display headings. Rounded controls may have a4px dark undershadow and a contrasting selected rim; do not use shadow alone to communicate focus or availability. Proposed layout breakpoint680px, not a measured game adaptation. Controls keep native semantics and stable geometry under reduced motion.
+Use 4/8/12/16/24/32px spacing, 14–16px labels, 16px working prose and 32–58px friendly display headings. Rounded controls may have a 4px dark undershadow and a contrasting selected rim; do not use shadow alone to communicate focus or availability. Proposed layout breakpoint 680px, not a measured game adaptation. Controls keep native semantics and stable geometry under reduced motion.
 
 ## Typography / Fonts
 

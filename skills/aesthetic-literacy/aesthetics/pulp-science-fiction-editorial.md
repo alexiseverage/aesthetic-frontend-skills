@@ -2,7 +2,7 @@
 slug: pulp-science-fiction-editorial
 label: Pulp Science-Fiction Editorial
 family: vernacular-commercial
-era: 1920s precursors and1930s–1950s science-fiction magazine print systems
+era: 1920s precursors and 1930s–1950s science-fiction magazine print systems
 aliases: ["science-fiction pulp magazine graphics", "scientifiction editorial graphics"]
 status: canonical
 evidence_level: standard
@@ -16,7 +16,7 @@ subsets: []
 
 The editorial design of early science-fiction magazine culture: oversized commercial mastheads integrated with painted speculative scenes, compressed cover plugs and price/date signals, followed by ink-on-paper contents, story openers, bylines, drop caps and compact reading columns. The system must survive in the lettering, structure and navigation, beyond containing a retro alien image.
 
-The [research profile](../../../knowledge/aesthetics/pulp-science-fiction-editorial.md) documents30 distinct magazine issues and12 extra inspected interior pages grouped with their issues. Early Amazing Stories/Air Wonder/Science Wonder examples establish a visual lineage; they are not all strict pulp format. The Encyclopedia of Science Fiction distinguishes early letter-size Amazing from the specialist pulp format that expanded in1930. This descriptive entry is print editorial, not a catchall for every retro space scene.
+The [research profile](../../../knowledge/aesthetics/pulp-science-fiction-editorial.md) documents 30 distinct magazine issues and 12 extra inspected interior pages grouped with their issues. Early Amazing Stories/Air Wonder/Science Wonder examples establish a visual lineage; they are not all strict pulp format. The Encyclopedia of Science Fiction distinguishes early letter-size Amazing from the specialist pulp format that expanded in 1930. This descriptive entry is print editorial, not a catchall for every retro space scene.
 
 ## 7-Dimension Profile
 
@@ -51,7 +51,7 @@ Conveys newsstand urgency, imaginative scale and a magazine community. It is nei
 - **Art Deco** can inform period display geometry, but brushy/slab mastheads and painted monsters are not simply Deco ornament.
 - **Financial Newspaper Editorial** shares rules, columns and serif prose, but uses restrained information authority rather than sensational illustrated fiction covers.
 
-Branches include early scientifiction/technical spectacle,1930s machine-centered covers and later space-opera character scenes. These are useful descriptive branches, not claims that every title or artist follows one formula.
+Branches include early scientifiction/technical spectacle, 1930s machine-centered covers and later space-opera character scenes. These are useful descriptive branches, not claims that every title or artist follows one formula.
 
 ## Frontend / UI Guidance
 
@@ -59,7 +59,7 @@ Use for fiction magazines, illustrated essays, reading rooms, speculative exhibi
 
 Preserve semantic headings, native buttons/links and labeled inputs. Decorative price bursts, beams and rule ornaments are not controls. Keep live text out of flattened cover assets, provide useful image alt text and make focus visible outside outlines/shadows. Tabs must use a complete keyboard pattern if implemented; ordinary buttons with pressed/current state are often sufficient for contents. No mandatory hover, dragging, sound or auto-advancing story carousel.
 
-At desktop, let a strong cover-like masthead/scene lead into contents plus article columns. On mobile, stack contents and article, wrap titles, use a single reading column and preserve44px controls. A fixed paper surface can remain authored in dark host themes. Enlarged text must reflow without requiring horizontal scrolling. Do not shrink dense print facsimiles to simulate authenticity.
+At desktop, let a strong cover-like masthead/scene lead into contents plus article columns. On mobile, stack contents and article, wrap titles, use a single reading column and preserve 44px controls. A fixed paper surface can remain authored in dark host themes. Enlarged text must reflow without requiring horizontal scrolling. Do not shrink dense print facsimiles to simulate authenticity.
 
 ## CSS Translation
 
@@ -76,7 +76,7 @@ Proposed magazine-reader tokens, not sampled universal historical values:
 .other-suns * { animation:none; transition:none; }
 ```
 
-Proposed spacing4/8/12/16/24/32px; body16–18px, optional20px larger reading mode, nameplate12–14px, titles32–54px and masthead44–100px. Use high-contrast paper reading planes and solid button fills. Thin rules1px, major double rules3–5px, corner radii0–3px rather than generic soft cards. Proposed breakpoint680px; no source-responsive behavior was measured.
+Proposed spacing 4/8/12/16/24/32px; body 16–18px, optional 20px larger reading mode, nameplate 12–14px, titles 32–54px and masthead 44–100px. Use high-contrast paper reading planes and solid button fills. Thin rules 1px, major double rules 3–5px, corner radii 0–3px rather than generic soft cards. Proposed breakpoint 680px; no source-responsive behavior was measured.
 
 ## Typography / Fonts
 
@@ -89,7 +89,7 @@ Source scans remain analytical links, not reusable assets. Copyright/public-doma
 ## Anti-Patterns
 
 - A generic contemporary blog with an alien stock image and unchanged UI.
-- Calling every1920s magazine a strict pulp format, or every retro space scene1950s atomic optimism.
+- Calling every 1920s magazine a strict pulp format, or every retro space scene 1950s atomic optimism.
 - Artificial grime, unreadably small columns or distressed controls.
 - Copied magazine logos, character scenes, colonial monsters or sexualized rescue formulas as mandatory cues.
 - Fake paid subscriptions, decorative next buttons, auto-flipping pages and flashing rays.
