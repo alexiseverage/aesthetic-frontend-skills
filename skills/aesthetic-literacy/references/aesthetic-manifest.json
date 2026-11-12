@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 311,
+  "fullEntryCount": 312,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -2521,6 +2521,16 @@
       "status": "redirect",
       "aliases": [],
       "redirect": "warm-minimalism"
+    },
+    {
+      "slug": "rainy-day",
+      "label": "Rainy Day",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Rainy Day aesthetic",
+        "rain aesthetic"
+      ]
     },
     {
       "slug": "rave-flyer",
