@@ -2,17 +2,17 @@
 slug: glitch
 label: Glitch / Datamosh
 family: digital-internet-native
-era: 2008–present
+era: 1960s electronic precursors–present
 aliases: []
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["cyberpunk", "vaporwave", "rave-flyer", "punk-zine"]
 subsets: []
 ---
 
 # Glitch / Datamosh
 
-Glitch is a digital aesthetic that turns compression artifacts, signal failures, channel shifts, broken frames, and corrupted files into expressive visual language. Databending and datamoshing are technique families inside this broader field; the shared grammar is system failure made visible and intentional.
+Glitch is a digital aesthetic that turns compression artifacts, signal failures, channel shifts, broken frames, and corrupted files into expressive visual language. Databending and datamoshing are technique families inside this broader field; the shared grammar makes the organization, interruption or unexpected behavior of mediated signals visible. A program can function as specified while unconventional input yields an unexpected image.
 
 ## Scope
 
@@ -20,11 +20,11 @@ Use Glitch for music visuals, cybernetic editorial work, experimental portfolios
 
 ## 7-Dimension Profile
 
-**Palette**: black or dark grounds with toxic green, magenta, cyan, red/blue channel offsets, JPEG smears, corrupted color blocks, and unexpected saturation spikes. Palette can also inherit source imagery and break it through compression or displacement.
+**Palette**: process- and source-dependent color fields. Black/neon and RGB channel offsets are useful variants; documented work also uses pale pink, cream, olive, white, low-contrast blue and monochrome. Compression blocks and streaks can inherit or disrupt a source palette.
 
-**Type**: corrupted text, monospace terminals, misregistered channels, clipped letterforms, displaced baselines, scanline labels, and code/error-message references. Text used for actual instructions must remain readable outside the effect.
+**Type**: optional corrupted or encoded lettering, misregistered channels, clipped letterforms and displaced baselines. Many abstract works contain no type; a monospace terminal is one interface translation, not a movement requirement. Text used for actual instructions must remain readable outside the effect.
 
-**Texture**: bit-error noise, JPEG blocks, pixel sorting, data-bend streaks, codec smear, CRT scanlines, chromatic aberration, and digital artifact grain. The texture is computational, not handmade distress.
+**Texture**: bit-error noise, JPEG blocks, pixel sorting, data-bend streaks, codec smear, CRT scanlines, chromatic aberration, and digital artifact grain. The texture should refer to an encoded or electronic process. Analog television interference and physical translations of damaged/obsolete media are documented lineages; generic handmade distress alone is insufficient.
 
 **Shape**: fragmented rectangles, sliced bands, offset duplicates, tearing, block compression cells, fractured image planes, and channel-shift silhouettes. Clean geometric order should appear interrupted.
 
@@ -40,11 +40,11 @@ Use Glitch for music visuals, cybernetic editorial work, experimental portfolios
 
 ## Connotation
 
-Glitch connotes instability, critique, speed, system failure, and expressive breakdown. It can feel cybernetic, aggressive, uncanny, or anti-polish, but it should read as digital failure rather than analog dirt.
+Glitch connotes instability, critique, speed, system failure, and expressive breakdown. It can feel cybernetic, aggressive, uncanny, or anti-polish, with a legible relationship to mediated material, rather than undifferentiated dirt or generic cyber styling.
 
 ## Related / Subsets
 
-- Databending is a technique subset: treating one file format as another to create smeared or streaked corruption.
+- Databending is a technique family: editing or reinterpreting encoded data, including treating one format as another; its outcomes need not be smeared or neon.
 - Datamoshing is a video-specific subset: manipulating motion/compression frames so pixels bleed across time.
 - `cyberpunk` shares technological instability but usually adds dense urban infrastructure, rain, surveillance, and social coercion.
 - `vaporwave` may use VHS noise and broken media, but its tone is slower and more melancholic.
@@ -77,3 +77,7 @@ Glitch effects can trigger photosensitivity, vestibular discomfort, or mistrust 
 - Using flashing effects without reduced-motion and seizure-risk checks.
 - Making payment, security, or health states look broken as a decorative joke.
 - Confusing cyberpunk neon with actual compression/channel failure.
+
+## Evidence Notes
+
+The [2026-11-12 direct-media audit](../../../knowledge/aesthetics/glitch.md#direct-media-audit) consolidates 35 individually inspected records into 30 unique qualifying artifacts, including three actually played animations. It documents light/quiet/geometric variants, process-based boundaries and electronic precursors without retroactively calling every precursor contemporary glitch art. Exact typefaces and universal web timings remain unknown. Procedural interface displacement is a proposed translation, not automatically genuine codec datamoshing.

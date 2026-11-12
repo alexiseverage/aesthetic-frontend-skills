@@ -5,7 +5,7 @@ family: historical-design-movements
 era: 1955–1970 (enduring influence)
 aliases: ["Pop", "Pop Art Movement"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["psychedelic", "memphis", "wartime-propaganda"]
 subsets: []
 ---
@@ -20,15 +20,15 @@ Use Pop Art for high-visibility marketing, editorial features, campaign microsit
 
 ## 7-Dimension Profile
 
-**Palette**: Flat commercial-print primaries, cherry red, canary yellow, cobalt blue, neon pink, acid green, pure white, and solid black. Color is declarative and product-packaging bright; gradients and subtle atmospheric transitions weaken the signal.
+**Palette**: Flat commercial-print primaries, cherry red, canary yellow, cobalt blue, neon pink, acid green, pure white, and solid black. Strong commercial-print color is common. Monochrome news/celebrity work, pale neutral collage, painted gradients and materially restrained sculpture are documented variants; color follows the quoted medium rather than one compulsory primary palette.
 
-**Type**: Bold comic-book display faces, thick outlines, speech-bubble captions, tabloid/ad-derived typography, Bangers, Luckiest Guy, Fredoka One, Anton-like condensed headlines, and heavy text strokes. Type should entertain as image.
+**Type**: Commercial-media categories range from comic captions and outlined impact lettering to condensed advertising sans, geometric capitals, slab serifs and mixed collage scripts/serifs. Some works contain no type. Bangers/Anton-like modern substitutes may serve a comic/ad branch, but are not historical identifications or universal requirements.
 
-**Texture**: Ben-Day dots, halftone printing patterns, screenprint fields, newsprint grain, misregistered color plates, crisp outlines, and poster-surface flatness. Avoid painterly blending or tactile craft texture as the main event.
+**Texture**: Ben-Day dots, halftone printing patterns, screenprint fields, newsprint grain, misregistered color plates, crisp outlines, and poster-surface flatness. Visible brushwork, photographic grain, smooth metal, sagging cloth, tinplate and shaped vinyl are documented material variants; dots are not obligatory for every branch.
 
-**Shape**: Comic panels, speech balloons, product silhouettes, celebrity portrait crops, ray bursts, packaging blocks, thick black outlines, and sign-like framing. Shapes are hard-edged, frontal, and immediately readable.
+**Shape**: Comic panels, speech balloons, product silhouettes, celebrity portrait crops, ray bursts, packaging blocks, thick black outlines, and sign-like framing. Familiar silhouettes may be cropped, enlarged, softened or displaced between materials. Hard outline/frontal panels are common graphic routes, not compulsory sculpture geometry.
 
-**Motion**: Staccato pop-ins, hard cuts, panel transitions, caption reveals, repeat-frame sequencing, and ad-like punch. Slow dreamy drift belongs elsewhere.
+**Motion**: Stillness and immediate stable panel/state changes suit the directly inspected prints and objects. Optional hard cuts, caption reveals or repeat sequences are UI proposals; still imagery establishes no exact historic movement, easing or mandatory overshoot.
 
 **Spatial**: Panel-based composition, repeated motifs, Warhol-like grids, split-frame storytelling, central iconic images, and dense but organized poster impact. The space should feel commercial and frontal rather than immersive.
 
@@ -36,7 +36,7 @@ Use Pop Art for high-visibility marketing, editorial features, campaign microsit
 
 ## Non-Negotiables
 
-**Non-negotiables**: flat primary/print palette; thick black outlines; halftone or Ben-Day texture; comic/ad typography; repetition or panel logic; and an ironic relation to mass culture. Generic bright fun is not Pop Art.
+**Non-negotiables**: a legible relationship to popular/commercial media or ordinary commodities; deliberate quotation, repetition, reframing, scale or material transformation; and context beyond generic bright fun. Primary color, thick outlines, dots, comic lettering and grids are strong branch-specific options, not a compulsory combined recipe.
 
 ## Connotation
 
@@ -72,7 +72,11 @@ Pop Art borrows from branded media, comics, products, and celebrity systems. Con
 ## Anti-Patterns
 
 - Treating any bright primary-color layout as Pop Art.
-- Using gradients, soft shadows, and atmospheric realism as the main surface.
+- Using generic gradients/shadows without a media/object relationship; documented painted volume and soft sculpture are valid exceptions.
 - Replacing comic/ad/media context with generic playful blobs.
 - Setting sustained body copy in novelty comic type.
 - Confusing Pop Art with Psychedelic fluidity or Memphis abstraction.
+
+## Evidence Notes
+
+The [2026-11-12 direct-media audit](../../../knowledge/aesthetics/pop-art.md#direct-media-audit) contains 30 unique works across AIC, V&A and SAAM. It corrects comic/dot/primary-only and no-painterly/no-volume absolutes, retains British/US print-sampling limits and separates proposed motion/fonts from historical evidence.

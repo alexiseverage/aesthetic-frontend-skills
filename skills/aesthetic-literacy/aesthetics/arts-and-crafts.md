@@ -7,7 +7,7 @@ aliases:
   - Arts & Crafts
   - William Morris style
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related:
   - aesthetic-movement
   - art-nouveau
@@ -19,7 +19,7 @@ subsets: []
 
 ## Scope
 
-Arts and Crafts is a late nineteenth- and early twentieth-century reform design language built around visible hand labor, honest materials, medieval and vernacular revival, and domestic-scale dignity. Use it when an interface should feel crafted, material, reform-minded, bookish, or workshop-rooted. It is not generic cottagecore, luxury rustic branding, or Art Nouveau: its botanical ornament is structured and made, not sinuous spectacle.
+Arts and Crafts is a late nineteenth- and early twentieth-century reform movement concerned with the relationship between designing, making, labor and useful objects. Its British printed, textile and furniture forms include both dense ornament and plain practical construction; it is a set of ideals rather than one compulsory decorative recipe. Use it when an interface should feel crafted, material, reform-minded, bookish, or workshop-rooted. It is not generic cottagecore, luxury rustic branding, or Art Nouveau: its botanical ornament is structured and made, not sinuous spectacle.
 
 ## 7-Dimension Profile
 
@@ -31,7 +31,7 @@ Arts and Crafts is a late nineteenth- and early twentieth-century reform design 
 
 **Shape**: Trefoils, quatrefoils, structured botanical repeats, carved panels, honest joinery, rectilinear furniture frames, and vernacular domestic forms. Ornament is ordered and repeatable, not freeform whiplash.
 
-**Motion**: Mostly still and contemplative. If animated, use slow reveal, page-turn, weaving, stamping, or pattern-repeat motion rather than kinetic spectacle.
+**Motion**: The inspected corpus is still print and objects; it does not establish historical interface timing. Prefer intentional stillness with immediate state feedback. A restrained page or press transition is a contemporary application proposal, not a measured period convention; respect reduced motion.
 
 **Spatial**: Dense patterned fields balanced by handcrafted framing, borders, panels, and room-like grouping. Let joints, dividers, and margins express construction rather than hiding it.
 
@@ -39,7 +39,7 @@ Arts and Crafts is a late nineteenth- and early twentieth-century reform design 
 
 ## Non-Negotiables
 
-**Non-negotiables**: Visible craft texture, material earth palette, structured medieval/botanical ornament, and an anti-industrial human scale must survive the translation. Remove those and the result becomes generic heritage decor.
+**Non-negotiables**: Material-aware construction and a clear relation between useful form and making; coherent printed, woven, timber or other craft grammar; a human scale; and historically situated labor/craft context. Botanical repeat and medievalist lettering are strong British print variants, not compulsory features of every object. Warm earth, cool blue/cream, single-ink and more saturated colorways are all possible.
 
 ## Connotation
 
@@ -63,8 +63,12 @@ Use readable old-style serif families, humanist serif/sans pairings, or medieval
 
 ## Cultural / Ethical Notes
 
-Do not flatten the movement into “cozy handmade” lifestyle branding. Its design politics include labor critique, anti-industrial reform, and historically specific British/North American craft revival contexts. Avoid using craft signifiers to greenwash mass-produced or exploitative products.
+Do not flatten the movement into “cozy handmade” lifestyle branding. Its design politics include labor critique, reform and historically specific British/North American craft revival contexts. Morris was not categorically opposed to machinery: the division of labor and the separation of designing from making matter more than a simple hand-versus-machine rule. Collaborative workshop credit and later manufacturing dates should remain distinct from original design dates. Avoid using craft signifiers to greenwash mass-produced or exploitative products.
 
 ## Anti-Patterns
 
 Do not use slick chrome, plastic gloss, candy-bright palettes, generic farmhouse clichés, unstructured vine clip art, or Art Nouveau whiplash as substitutes. Do not overload a product UI with unreadable pattern density or treat Morris-derived ornament as empty wallpaper.
+
+## Evidence Notes
+
+The [research profile](../../../knowledge/aesthetics/arts-and-crafts.md#research-updates--2026-11-12) records 30 directly inspected artifacts from three museum collections, with dimension support and explicit sampling limits. It supports this British print/textile/furniture translation rather than a universal international style.
