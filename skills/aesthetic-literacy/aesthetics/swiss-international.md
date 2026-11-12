@@ -5,51 +5,44 @@ family: historical-design-movements
 era: 1950–1970 (enduring)
 aliases: ["Swiss Style", "International Typographic Style", "Schweizer Typografie", "Swiss / International Style"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["die-neue-typographie", "ulm-school", "bauhaus", "new-objectivity"]
 subsets: []
 ---
 
 # Swiss / International Typographic Style
 
-Swiss / International Typographic Style is a postwar graphic-design system centered on objective communication, sans-serif typography, mathematical grids, asymmetric order, photography, and disciplined whitespace. For frontend work, treat it as information architecture first and minimal styling second: the aesthetic succeeds when hierarchy, alignment, and content relationships become the design.
+Swiss / International Typographic Style organizes communication through typographic hierarchy, alignment and systematic asymmetric relationships. The inspected posters include dense programmes, diagonals, arcs, repeated bars, cropped photography and organic negative forms. It is broader than a sparse black/white/red rectangular grid.
 
 ## Scope
 
-Use Swiss / International Typographic Style for editorial systems, documentation, dashboards, institutional sites, museums, transit or wayfinding, product education, data-heavy explainers, portfolios, and brand systems that need clarity, neutrality, and typographic authority. It is especially strong when a page must make complex information feel calm and trustworthy.
-
-Avoid using it as a synonym for generic minimalism. The style is not just black text on white space; it depends on precise grids, typographic scale, alignment, image cropping, and systematic hierarchy.
+Use programmes, catalogues, documentation, data and public information when hierarchy and a reading path lead the design. Keep systematic relationships visible. Empty minimalism or arbitrary large type without content logic does not carry the style.
 
 ## 7-Dimension Profile
 
-**Palette**: Black, white, grayscale, and a tightly controlled accent such as red, blue, or another signal color used structurally. Photography may add color, but the interface system should remain neutral and disciplined.
+**Palette**: Black/white and red are common, with blue, green, yellow, muted print colors and photographic values also present. Color may organize sequences and forms; neutrality is not a mandatory monochrome restriction.
 
-**Type**: Grotesk or neo-grotesk sans-serif typography such as Akzidenz-Grotesk, Helvetica, Univers, or contemporary equivalents. Use flush-left ragged-right setting, modular scale, careful spacing, and hierarchy through size, weight, position, and alignment rather than ornament.
+**Type**: Grotesk and neo-grotesk sans, strong scale differences, compact programme details, uneven line lengths and positional hierarchy. Flush-left is useful, but inspect each artifact rather than forbidding every other alignment. Helvetica is representative, not the sole historical face.
 
-**Texture**: Flat print surface, halftone photography, ruled grids, paper grain, and minimal material interference. Texture should never compete with information clarity; avoid glossy skeuomorphism, grunge distress, or decorative noise.
+**Texture**: Flat ink/paper relationships, photographic halftone, sharply bounded fields and optical repetition. Paper wear or scan texture is not an obligatory production effect; glossy material depth would distract from the information system.
 
-**Shape**: Rectilinear modules, columns, bars, rules, image crops, simple geometric fields, and mathematical grid relationships. Circles or blocks can appear as organizing devices, but not as playful decoration.
+**Shape**: Columns and rules coexist with diagonals, discs, arcs, rotated bars and photographic/organic silhouettes. Forms have compositional roles; do not restrict the grammar to rectangular modules.
 
-**Motion**: Minimal, instructional, and sequential. Use slide, fade, highlight, reorder, or reveal transitions only when they clarify hierarchy or state change; avoid theatrical flourish.
+**Motion**: The qualifying sources are still print. Contemporary filtering and disclosure may update immediately. No historical fade, slide, reorder duration or animation rhythm is established by posters.
 
-**Spatial**: Asymmetric composition anchored by a strict grid, generous margins, disciplined columns, and precise relationships between text blocks, images, captions, and metadata. Whitespace is active structure, not empty decoration.
+**Spatial**: Asymmetry, active negative space, dense supporting information and carefully related margins/columns. A strict system can support both open posters and compact programmes; excessive whitespace is not the defining rule.
 
-**Cultural markers**: Basel and Zürich design schools, Ernst Keller, Josef Müller-Brockmann, Armin Hofmann, Emil Ruder, Neue Grafik, Helvetica, Univers, Akzidenz-Grotesk, objective photography, transit graphics, institutional publishing, and postwar international communication.
+**Cultural markers**: Postwar Swiss communication design, Zürich/Basel teaching and practitioners including Müller-Brockmann, Hofmann and Ruder. Bauhaus and New Typography are important precedents. Institutional objectivity is a cultural claim, not a guarantee that content is neutral.
 
 ## Non-Negotiables
 
-**Non-negotiables**:
-
-- Neutral sans-serif typography with hierarchy built through scale, spacing, alignment, and weight.
-- Mathematical grid structure that visibly organizes content relationships.
-- Objective flat presentation with minimal ornament and high information clarity.
-- Disciplined whitespace and asymmetry rather than centered decoration or expressive clutter.
+**Non-negotiables**: Content-led typographic hierarchy; systematic alignment and proportional relationships; deliberate asymmetric organization; clear information rather than arbitrary minimalism.
 
 ## Connotation
 
-**Mode:** contemporary revival.
+**Mode:** contemporary revival / situated quotation.
 
-Swiss / International Style reads as precise, institutional, typographically authoritative, neutral, and trustworthy. It can feel timeless and useful when content-led, or cold and generic when reduced to empty minimalism. Preserve its systems rigor and communication purpose rather than treating it as a fashionable absence of style.
+Swiss / International Typographic Style organizes communication through typographic hierarchy, alignment and systematic asymmetric relationships. The inspected posters include dense programmes, diagonals, arcs, repeated bars, cropped photography and organic negative forms. It is broader than a sparse black/white/red rectangular grid.
 
 ## Related / Subsets
 
@@ -62,35 +55,31 @@ No canonical subsets are defined here. Preserve the naming ambiguity between Swi
 
 ## Frontend / UI Guidance
 
-Use the style to make complex content legible: docs, reports, dashboards, timelines, indices, catalogs, case studies, editorial grids, and public-information pages. Start with content hierarchy, grid, and reading path before adding any visual flourish.
-
-Let alignment do the work. Build pages from modular columns, strong typographic contrast, precise captions, image crops, and restrained accent color. If an element does not clarify structure or state, remove it.
+Build a working programme or index with clear filters, readable dense metadata and a logical route to details. Use geometric imagery structurally and keep information available in text. Maintain hierarchy on phone widths rather than shrinking a poster into illegibility.
 
 ## CSS Translation
 
-- Color roles: `--bg-paper`, `--text-ink`, `--text-muted`, `--line-grid`, `--accent-signal`, and `--surface-photo`.
-- Borders/dividers: 1px rules, baseline-grid hints, column separators, measured underlines, and typographic section rules.
-- Radius language: square or very low-radius rectangles; avoid blobs, ornamental frames, and plush cards.
-- Effects: mostly none; use flat color, halftone/photo treatment, subtle paper texture, and crisp focus states instead of shadows or glass.
-- Layout: CSS grid, modular columns, asymmetric spans, strong margins, flush-left text blocks, caption systems, and image/text alignment.
-- Motion: quick functional fades, slides, reorder transitions, and state highlights with `prefers-reduced-motion` fallbacks.
+Proposed values: paper #f0ecdf, ink #182b43 and signal #de3828; 1px rules and a responsive multi-column grid. Use clamp() for large type and explicit narrow-width reflow. Bar studies can be original SVG/CSS; no textures, shadows or motion are required.
 
 ## Typography / Fonts
 
-Choose a neutral grotesk or neo-grotesk family with robust weights, tabular numerals, and strong UI legibility. Use scale, weight, tracking, measure, and alignment to build hierarchy; avoid decorative display faces unless a project intentionally quotes an adjacent movement.
-
-Flush-left ragged-right text is the default. Centering, justified text, and expressive letterform mixing should be rare and purposeful.
+Use a neutral system grotesk such as Helvetica/Arial with regular and bold weights, deliberate line breaks and readable support text. Exact historical font identification from scans remains uncertain unless the source names it. Do not turn typographic authority into tiny unreadable metadata.
 
 ## Cultural / Ethical Notes
 
-Swiss / International Style carries institutional authority and a claim of objectivity. Use that authority carefully for civic, medical, financial, or educational contexts: clarity should not become a way to hide uncertainty or flatten affected communities. If a design quotes specific school, transit, or national-historical references, do so accurately rather than treating Swissness as generic cleanliness.
-
-Because this migration uses a limited text-source profile and the naming boundary is not perfectly settled across accessible sources, avoid overclaiming a rigid distinction between Swiss Style and International Typographic Style.
+Institutional clarity should reveal uncertainty and provenance. The selected corpus is heavily Müller-Brockmann-weighted; avoid treating his orchestral posters as the entire movement or Swissness as generic cleanliness.
 
 ## Anti-Patterns
 
-- Generic minimalism with no evident grid, typographic system, or content logic.
-- Decorative ornament, shadows, glass effects, or playful illustration competing with information.
-- Centered luxury symmetry, gold accents, chevrons, or theatrical framing; that drifts toward Art Deco.
-- Brutalist roughness, web chaos, or intentionally awkward anti-design as the dominant tone.
-- Over-animation; motion should clarify hierarchy or state, not become spectacle.
+- Empty minimalism with no content hierarchy.
+- A rule that only red/black/white rectangles count.
+- Decorative geometric noise unconnected to the programme.
+- Huge headings with unreadable information on narrow screens.
+
+## Research Basis
+
+The 2026-11-12 direct-media audit in the corresponding research profile supersedes earlier generic percentage claims. Source-supported history, directly observed form and proposed UI values remain distinct. No reference images or source-site code are redistributed.
+
+- [Poster House: The Swiss Grid](https://posterhouse.org/exhibition/the-swiss-grid/) — Institutional context for grids, influence and typographic communication.
+- [Lars Müller: Josef Müller-Brockmann](https://www.lars-mueller-publishers.com/josef-muller-brockmann) — Publisher/curatorial account of the designer and functional criteria.
+- [AGI: Giselle](https://a-g-i.org/design/giselle) — Practitioner work record and Hofmann context.

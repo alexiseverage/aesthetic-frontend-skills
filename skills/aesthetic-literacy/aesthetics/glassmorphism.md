@@ -5,51 +5,44 @@ family: emerging-hybrid
 era: 2020–2022
 aliases: []
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["neumorphism", "organic-digital", "y2k"]
 subsets: []
 ---
 
 # Glassmorphism
 
-Glassmorphism is a UI-native frosted-glass style built from transparency, blur, luminous borders, and layered depth. Its core premise is not “blur everything,” but a controlled relationship between a visible background field and a translucent foreground surface that remains readable.
+Glassmorphism is a surface-led interface language: content behind a translucent sheet remains perceptible but is optically softened within its boundary. Light, dark, warm, monochrome and dense desktop variants all occur. Frosted depth is the defining relationship; neon gradients, pills and decorative blobs are optional.
 
 ## Scope
 
-Use Glassmorphism for dashboards, onboarding panels, login shells, translucent navigation, settings cards, modal surfaces, and premium app moments where ambient depth helps the interface feel light. It is strongest on bounded surfaces with clear hierarchy; it weakens when every layer becomes equally transparent.
-
-The aesthetic depends on background interaction. If a panel is fully opaque, or if the backdrop is not meaningfully visible through it, the result may be soft modern UI but not glassmorphism.
+Use bounded translucent navigation, settings, search, overlays or compact composition tools where preserving backdrop context has a purpose. Dense information may sit on more opaque backing. An opaque card with a blur declaration but no visible backdrop interaction is insufficient.
 
 ## 7-Dimension Profile
 
-**Palette**: Colorful gradients, atmospheric color fields, pale blues, violets, pinks, cool neutrals, and white or near-white foreground chrome. Use enough panel opacity or overlay support to keep text contrast stable.
+**Palette**: Observed fields include blue/violet gradients, green foliage, warm amber imagery and nearly monochrome black/white. Pane opacity and a stable foreground color matter more than one compulsory pastel palette.
 
-**Type**: Clean sans-serif labels and headings, semibold white or dark copy depending on the pane, compact metadata, and restrained uppercase tags. Ornamental type competes with the surface effect and should stay out of core UI.
+**Type**: Ordinary sans-serif UI labels dominate the inspected application concepts; an editorial serif also appears in the 2021 PlantFashion header. Keep readable weight and stable contrast. Neither white lettering nor a sans-only display rule defines glass.
 
-**Texture**: Blur, translucency, frosted overlays, soft internal glow, light borders, noise-free depth, shadowed floating cards, and transparent status chips. The texture is optical and layered rather than tactile or distressed.
+**Texture**: Translucent fill, local backdrop blur, bright or dark fine rims and layered occlusion. Some later liquid-glass concepts add glossy/refraction cues; distinguish these from classic frosted diffusion. A gradient or 3D object alone is not glass.
 
-**Shape**: Rounded cards, floating panes, pill inputs, soft-corner modal shells, stacked overlays, media tiles, and translucent nav bars. Sharp brutalist edges should not dominate.
+**Shape**: Rounded cards and capsules coexist with low-radius tables, desktop windows and rectangular content sheets. Shape should suit content rather than force every field into a pill.
 
-**Motion**: Smooth depth transitions, subtle parallax, hover lift, focus glow, animated background gradients, reveal fades, and cursor-reactive highlights. Avoid constant blur pulses or drifting layers that disorient users.
+**Motion**: Live generators demonstrate immediate blur/preset changes and Vitra demonstrates a theme reveal. Exact durations were not measured. Motion is optional; propose short user-triggered transitions, remove decorative movement under reduced motion and retain a solid-surface alternative.
 
-**Spatial**: Foreground translucent cards over visible background color or imagery, clear z-depth separation, dashboard widgets, login surfaces, onboarding panes, floating utility panels, and enough spacing for each layer to read.
+**Spatial**: Background continuity crosses pane boundaries while foreground sheets create hierarchy. Use different opacity levels for dense content, retain clear reading zones and avoid stacking so many sheets that depth becomes ambiguous.
 
-**Cultural markers**: Frosted panels, colorful ambience, premium app polish, depth through transparency, finance/productivity dashboards, onboarding cards, and translucent navigation chrome.
+**Cultural markers**: Early-2020s creator UI concepts and frosted desktop chrome are central references. Michal Malewicz describes naming the trend in 2020; earlier transparent interfaces are precedents, not proof of a single invention. Later Liquid Glass is related optical experimentation, not an interchangeable historical label.
 
 ## Non-Negotiables
 
-**Non-negotiables**:
-
-- Translucent foreground surfaces with visible backdrop interaction.
-- Blur or frosted-glass treatment paired with light borders or separation support.
-- Layered z-depth: foreground panes over ambient color, imagery, or gradients.
-- Legibility controls; without readable content, the glass effect fails as UI.
+**Non-negotiables**: Visible backdrop interaction; a translucent optically softened foreground; legible layer separation; readable content and explicit control states.
 
 ## Connotation
 
-**Mode:** contemporary revival.
+**Mode:** contemporary surface-led interface practice.
 
-Glassmorphism reads as premium, airy, app-native, and slightly futuristic, with moderate fatigue from early-2020s overuse. It still works when used for purposeful depth rather than novelty blur.
+Glassmorphism is a surface-led interface language: content behind a translucent sheet remains perceptible but is optically softened within its boundary. Light, dark, warm, monochrome and dense desktop variants all occur. Frosted depth is the defining relationship; neon gradients, pills and decorative blobs are optional.
 
 ## Related / Subsets
 
@@ -61,31 +54,31 @@ No canonical subsets are defined yet.
 
 ## Frontend / UI Guidance
 
-Use glass surfaces to group information without fully blocking ambient context: account cards over gradient backgrounds, onboarding panels, lightweight nav bars, media overlays, or dashboard widgets. Keep dense tables, long paragraphs, and critical forms on more opaque panes.
-
-Set foreground/background contrast intentionally. Test the exact background behind each translucent component instead of assuming white text over blur will pass.
+Build a clear content hierarchy before translucency. Put essential labels on a stable scrim, test each actual background and offer solid panes. Use original ambient geometry or objects rather than relying on stock imagery to make a conventional card look glassy.
 
 ## CSS Translation
 
-- Color roles: `--glass-bg`, `--glass-border`, `--ambient-blue`, `--ambient-violet`, `--ambient-pink`, `--text-on-glass`, and `--shadow-soft`.
-- Borders/dividers: 1px translucent white or dark strokes, inner highlights, and subtle separators.
-- Radius language: soft rounded cards, pills, modal shells, and floating panes.
-- Effects: `backdrop-filter: blur(...)`, semi-transparent backgrounds, layered box-shadows, gradient backdrops, and restrained glow.
-- Layout: foreground pane over color field, separated layer stacks, floating nav, dashboard card grids, and modal overlays.
-- Motion: hover lift, focus glow, reveal fade, slow gradient shift, and parallax only with reduced-motion support.
+Proposed starting values, not measured universal tokens: dark backing #24364c; translucent pane rgba(24,39,60,.67); rim rgba(228,245,255,.53); readable foreground #f7f2ee; backdrop blur 12–24px. Provide an opaque @supports fallback, a reduced-transparency treatment and visible keyboard outlines. Tune opacity against the actual brightest and darkest backdrops.
 
 ## Typography / Fonts
 
-Use clean sans-serif systems with sufficient weight and size to survive blurred or luminous surroundings. Avoid decorative display faces and ultra-light type on low-opacity panes; the typography should clarify the surface, not add another competing effect.
+A system sans such as Arial/Helvetica is sufficient for controls. A restrained serif display can be a deliberate editorial variant outside the dense pane. Do not use ultra-light low-contrast text as evidence of material elegance.
 
 ## Cultural / Ethical Notes
 
-Many showcase examples understate accessibility risk. Treat contrast and motion as part of the aesthetic implementation, not as cleanup afterward. Avoid hiding essential state solely in transparency, shimmer, or depth changes.
+Blur does not establish contrast. Labels, focus and selected state must survive background changes and unsupported filters. Distinguish current creator concepts, operating-system precedents and newer refraction treatments; do not claim screenshots establish production usability.
 
 ## Anti-Patterns
 
-- Stacking many translucent layers until hierarchy disappears.
-- Relying on blur as the only separator for dense data.
-- White text over busy gradients without opacity, scrim, or contrast support.
-- Opaque cards with a token blur value but no visible backdrop interaction.
-- Constant parallax, blur pulsing, or glass drift that ignores reduced-motion settings.
+- Glow or a gradient without substantive translucent overlap.
+- Maximum transparency on dense content and white text over changing bright fields.
+- Claiming all glass requires giant pills, pastel blobs or refraction.
+- Automatic parallax or drifting light that cannot be reduced.
+
+## Research Basis
+
+The 2026-11-12 direct-media audit in the corresponding research profile supersedes earlier generic percentage claims. Source-supported history, directly observed form and proposed UI values remain distinct. No reference images or source-site code are redistributed.
+
+- [Hype4 creator generator](https://hype4.academy/tools/glassmorphism-generator) — Creator naming account and a directly operated blur control; current tool also exposes later optical parameters.
+- [uitweak generator](https://uitweak.com/glass-generator) — Independent dark preset and blur changes inspected directly.
+- [Vitra CSS](https://desvosoft.github.io/Vitra/) — Independent live light-to-Ocean theme change inspected directly.

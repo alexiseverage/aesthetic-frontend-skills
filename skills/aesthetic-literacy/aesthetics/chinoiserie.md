@@ -5,51 +5,44 @@ family: "historical-design-movements"
 era: "17th–18th century Europe; later revivals"
 aliases: ["European chinoiserie", "chinoiserie revival", "East Asian fantasy ornament"]
 status: "canonical"
-evidence_level: "limited"
+evidence_level: standard
 related: ["guochao"]
 subsets: []
 ---
 
 # Chinoiserie
 
-Use as European chinoiserie or critical quotation, not as authentic Chinese design; avoid fake calligraphy, pan-Asian motif soup, and racialized exotic fantasy.
+The current audit establishes a varied object grammar rather than a mandatory dense red-and-gold skin. Narrow gilt edges, interrupted branches, dark lacquer fields, pale ceramic reserves and framed textile scenes recur. Painted frames often protect a conspicuously open center. The inspected revival fabrics also expose how European fantasy scenes and racialized caricatures persisted; decorative charm must not remove that context.
 
 ## Scope
 
-Use as European chinoiserie or critical quotation, not as authentic Chinese design; avoid fake calligraphy, pan-Asian motif soup, and racialized exotic fantasy.
-
-**Related / Subsets**: Distinct from `rococo`, japonisme, guochao, and authentic Chinese visual traditions; it is European fantasy ornament rooted in trade, exoticism, and decorative invention.
+Chinese-made export objects, European imitations and later European revivals are not interchangeable categories. Identify the actual maker, place and market where known. A Chinese object collected in Europe does not thereby become European chinoiserie. The audit foregrounds European decorative quotations and explicitly excludes an ambiguous plain silver salver from qualifying identity evidence.
 
 ## 7-Dimension Profile
 
-**Palette**: Lacquer black, deep red, porcelain white, cobalt, celadon, jade, gilt, coral, peach, and Rococo pastels.
+**Palette**: Cobalt/gold, plum/gold, white/gold and red/cream variants contradict a single compulsory palette.
 
-**Type**: Elegant serif display and restrained fine-detail labels; no generic brush-script or pseudo-calligraphy. Common reinforcement: Support labels and metadata tuned to the domain. Variant edge: Decorative display accents used sparingly.
+**Type**: Object/drawing labels do not establish one historical UI font. A readable serif caption system is a proposed contemporary translation.
 
-**Texture**: Lacquer gloss, porcelain sheen, gilding, painted wallpaper, silk, carved density, and screen-panel surfaces. Common reinforcement: Interface chrome that preserves source material logic. Variant edge: Flatter reduced-texture variants for legibility.
+**Texture**: Glaze, lacquer-like dark fields, raised mounts, cloth and paper remain distinct; wear is not a required new-design effect.
 
-**Shape**: Asymmetrical cartouches, fret borders, pagodas, branches, cranes, rocks, parasols, porcelain vessels, and panels. Common reinforcement: Repeated UI modules echoing the source object model. Variant edge: Softened modern component variants.
+**Shape**: Hinged panels, inset scenes, clipped corners, scroll borders and vessel silhouettes define spatial hierarchy.
 
-**Motion**: Slow ceremonial panel reveals, delicate parallax, branch/trellis drift, and curtain/screen transitions. Common reinforcement: State transitions linked to the core workflow. Variant edge: Static print-first or reduced-motion fallbacks.
+**Motion**: Ornament can concentrate at edges and preserve open reserves; quiet variants are legitimate.
 
-**Spatial**: Layered panels, inset scenes, ornamented borders, screen/cabinet logic, and aristocratic room envelopes. Common reinforcement: Secondary panes/lists that preserve scan order. Variant edge: More spacious marketing adaptations.
+**Spatial**: No ceremonial reveal, parallax speed or drifting branch timing was measured. Optional interface transitions are new design decisions.
 
-**Cultural markers**: European fantasy of China/East Asia, export porcelain, lacquer, pagodas, bamboo/trellis, colonial trade, and exoticism critique. Common reinforcement: Domain vocabulary and object-specific affordances. Variant edge: Broader adjacent-pop-culture references.
+**Cultural markers**: Preserve European exoticist framing, distinguish export manufacture, and do not reproduce caricature.
 
 ## Non-Negotiables
 
-**Non-negotiables**:
-
-- lacquer/porcelain surface logic.
-- asymmetrical ornamental framing.
-- European exoticist connotation.
-- elite decorative density. If these are removed, the result collapses into an adjacent or generic style rather than Chinoiserie.
+**Non-negotiables**: European decorative quotation with an explicit critical boundary; material-specific framing; original ornamental form and readable open reserves.
 
 ## Connotation
 
-**Mode:** contemporary revival.
+**Mode:** contemporary revival / situated quotation.
 
-**Historical quotation / critical revival.** Chinoiserie is a European decorative fantasy about China and East Asia, not an authentic Chinese design system.
+The current audit establishes a varied object grammar rather than a mandatory dense red-and-gold skin. Narrow gilt edges, interrupted branches, dark lacquer fields, pale ceramic reserves and framed textile scenes recur. Painted frames often protect a conspicuously open center. The inspected revival fabrics also expose how European fantasy scenes and racialized caricatures persisted; decorative charm must not remove that context.
 
 ## Related / Subsets
 
@@ -58,27 +51,31 @@ Related aesthetics from the dictionary and candidate set:
 
 ## Frontend / UI Guidance
 
-Translate the aesthetic through layout, type hierarchy, material cues, and culturally specific markers before color. Preserve ordinary usability in navigation, forms, tables, and body text; reserve the strongest aesthetic signals for heroes, section dividers, cards, editorial modules, and high-value calls to action.
+Use a framed folio, cabinet, drawer or inset-paper metaphor. Keep ordinary type and interaction labels separate from ornament. Suggested contemporary values, not historical measurements: warm paper #f2eadb, lacquer #3e282b, cobalt #2f5472, fine gilt #bca16c; 1–2px edge rules and spacious readable text reserves. Prefer static original botanical ornament and immediate selection/disclosure. Avoid pseudo-calligraphy, generic pan-Asian symbols, racialized figures and uncaptioned claims of authenticity.
 
 ## CSS Translation
 
-- Color roles should be drawn from the palette dimension: Lacquer black, deep red, porcelain white, cobalt, celadon, jade, gilt, coral, peach, and Rococo pastels.
-- Surfaces and borders should translate the texture dimension: Lacquer gloss, porcelain sheen, gilding, painted wallpaper, silk, carved density, and screen-panel surfaces. Common reinforcement: Interface chrome that preserves source material logic. Variant edge: Flatter reduced-texture variants for legibility.
-- Shape language should follow the source geometry: Asymmetrical cartouches, fret borders, pagodas, branches, cranes, rocks, parasols, porcelain vessels, and panels. Common reinforcement: Repeated UI modules echoing the source object model. Variant edge: Softened modern component variants.
-- Layout should preserve the spatial convention before adding ornament: Layered panels, inset scenes, ornamented borders, screen/cabinet logic, and aristocratic room envelopes. Common reinforcement: Secondary panes/lists that preserve scan order. Variant edge: More spacious marketing adaptations.
-- Motion should stay within the source timing character and include reduced-motion fallbacks: Slow ceremonial panel reveals, delicate parallax, branch/trellis drift, and curtain/screen transitions. Common reinforcement: State transitions linked to the core workflow. Variant edge: Static print-first or reduced-motion fallbacks.
+Use a framed folio, cabinet, drawer or inset-paper metaphor. Keep ordinary type and interaction labels separate from ornament. Suggested contemporary values, not historical measurements: warm paper #f2eadb, lacquer #3e282b, cobalt #2f5472, fine gilt #bca16c; 1–2px edge rules and spacious readable text reserves. Prefer static original botanical ornament and immediate selection/disclosure. Avoid pseudo-calligraphy, generic pan-Asian symbols, racialized figures and uncaptioned claims of authenticity.
 
 ## Typography / Fonts
 
-Use the type system as a hierarchy, not a blanket font costume. Elegant serif display and restrained fine-detail labels; no generic brush-script or pseudo-calligraphy. Common reinforcement: Support labels and metadata tuned to the domain. Variant edge: Decorative display accents used sparingly. Reserve the most characteristic display treatment for logos, headlines, labels, or section markers, and pair it with readable body/support type for dense interface text.
+A readable serif caption system is a proposed contemporary translation, not an evidenced historical UI font. Keep ornament out of ordinary labels; avoid pseudo-calligraphy.
 
 ## Cultural / Ethical Notes
 
-Chinoiserie is a European fantasy of China and East Asia formed through trade, exoticism, and aristocratic collecting; do not present it as authentic Chinese design. Safer use names it as European chinoiserie, keeps the quotation critical or historically contextual, and avoids fake calligraphy, pseudo-Asian fonts, pan-Asian motif soup, racial caricature, and decorative claims about cultures not actually represented.
+Chinese-made export objects, European imitations and later European revivals are not interchangeable categories. Identify the actual maker, place and market where known. A Chinese object collected in Europe does not thereby become European chinoiserie. The audit foregrounds European decorative quotations and explicitly excludes an ambiguous plain silver salver from qualifying identity evidence.
 
 ## Anti-Patterns
 
-- Using only the palette while ignoring the type, texture, shape, and spatial system; that reduces Chinoiserie to a color theme.
-- Copying source motifs as generic decoration without the origin, practitioner, regional, or institutional context recorded in the knowledge profile.
-- Applying the strongest ornamental or material cues to every component, which makes navigation, forms, and content hierarchy harder to use.
-- Flattening the entry into a neighboring aesthetic named in Related / Subsets instead of preserving the boundary conditions above.
+- Generic pan-Asian ornament or fake calligraphy.
+- Dense red/gold decoration treated as mandatory.
+- Uncritical racialized fantasy or reuse of historical caricatures.
+- Ceremonial motion inferred from still objects.
+
+## Research Basis
+
+The 2026-11-12 direct-media audit in the corresponding research profile supersedes earlier generic percentage claims. Source-supported history, directly observed form and proposed UI values remain distinct. No reference images or source-site code are redistributed.
+
+- [V&A: Chinoiserie — an introduction](https://www.vam.ac.uk/articles/chinoiserie-an-introduction) — European fantasy, trade and recurring motifs; contextual text, not an additional media count.
+- [V&A: Chinese wallpapers and the chinoiserie style](https://www.vam.ac.uk/articles/chinese-wallpapers-and-the-chinoiserie-style) — Distinguishes Chinese export papers from European repeating imitations.
+- [The Met: Monstrous Beauty, inside the exhibition](https://www.metmuseum.org/exhibitions/monstrous-beauty-a-feminist-revision-of-chinoiserie/mb-inside-the-exhibition) — Critical context for racial/gender stereotypes, consumption and contemporary Asian and Asian American artists’ revisions.

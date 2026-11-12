@@ -5,42 +5,44 @@ family: contemporary-lifestyle
 era: 2022 internet label; older Nancy Meyers lineage
 aliases: ["Nancy Meyers chic", "coastal auntie", "easy coastal luxury"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["quiet-luxury", "warm-minimalism", "scandinavian-modern"]
 subsets: []
 ---
 
 # Coastal Grandmother
 
-Coastal Grandmother is a contemporary lifestyle aesthetic tied to Nancy Meyers-style coastal domesticity, linen ease, and mature leisure. Its signal comes from hosting, natural fibers, neutral calm, and breezy domestic staging rather than generic beach branding.
+Coastal Grandmother is a 2022 internet lifestyle label for relaxed domestic hospitality, natural fibres and an affluent coastal-leisure image associated with Nancy Meyers films. Its useful design translation is lived-in hosting and material ease, not generic nautical decoration or a demographic prescription.
 
 ## Scope
 
-Use Coastal Grandmother for lifestyle commerce, recipe/hosting tools, home goods, travel edits, bookish leisure, and calm editorial systems. It needs domestic hospitality and natural-fiber ease; a generic beach palette or luxury minimalism without hosting cues is not enough.
+Use recipe and hosting notebooks, home goods, gathering plans or calm domestic editorial. A beach gradient, anchor icon or expensive minimalist room alone is insufficient. People, age and beachfront ownership need not carry the visual grammar.
 
 ## 7-Dimension Profile
 
-**Palette**: Ecru, cream, white, oatmeal, sand, khaki, sea-glass neutrals, chambray, and soft navy.
+**Palette**: Warm white, cream, oatmeal, pale wood and soft green with blue/chambray stripes and occasional rust or dark clay. Objects need not be entirely neutral; restrained contrast can make a table or control legible.
 
-**Type**: Home-lifestyle serif or humanist sans, magazine-friendly headings, and mature calm hierarchy.
+**Type**: A calm editorial serif with readable sans labels is a proposed contemporary translation. Inspected domestic objects do not establish a historical typeface, fixed font scale or mandatory script.
 
-**Texture**: Linen, cashmere, cotton poplin, ceramic, wicker/rattan, table linen, rumple, and natural fibers.
+**Texture**: Washed linen with rumple and fringe, woven cotton, wood grain, glazed or matte pottery and natural fibre. Tactile variation and useful wear are different from an applied distressed filter.
 
-**Shape**: Oversized button-downs, cardigans, relaxed trousers, sun hats, robes, sandals, kitchen objects, and porch silhouettes.
+**Shape**: Pitchers, bowls, mugs, napkins, placemats and simple kitchen/garden objects. Relaxed soft edges and open table arrangements translate better than compulsory rounded app cards.
 
-**Motion**: Slow linen drift, porch-fan rotation, page turns, condensation dots, and gentle hospitality pacing.
+**Motion**: The inspected original product works are still; no linen-drift, fan-rotation or page-turn cadence was observed. Immediate menu, checklist and note updates support an unhurried task without compulsory animation.
 
-**Spatial**: Airy kitchens, porches, beach-house domesticity, hosting surfaces, flowers, and comfortable gathering zones.
+**Spatial**: Air, table space and accessible domestic arrangements; hosting tasks can form a notebook or recipe sequence. Preserve readable ingredients and useful preparation steps instead of empty luxury whitespace.
 
-**Cultural markers**: Nancy Meyers films, Diane Keaton/Meryl Streep references, hosting, flowers, magazines, iced tea, piano, linen shirts, and cardigans.
+**Cultural markers**: Nancy Meyers-associated domestic leisure, flowers, cooking and gathering; the label became visible through Lex Nicoleta’s 2022 usage. The aesthetic is class-coded and aspirational, not a claim about all older women or all coastal communities.
 
 ## Non-Negotiables
 
-**Non-negotiables**: breezy natural-fiber wardrobe + coastal domestic hosting cues + calm neutral palette + mature leisure script. If these are removed, the result collapses into an adjacent or generic style rather than Coastal Grandmother.
+**Non-negotiables**: Domestic hospitality or gathering context; natural-fibre and pottery/wood material grammar; relaxed airy arrangement; a consciously situated leisure reference.
 
 ## Connotation
 
-Coastal Grandmother reads as a source-backed contemporary characterization whose cues should be treated as a multi-dimensional system rather than a palette.
+**Mode:** contemporary lifestyle quotation.
+
+Coastal Grandmother is a 2022 internet lifestyle label for relaxed domestic hospitality, natural fibres and an affluent coastal-leisure image associated with Nancy Meyers films. Its useful design translation is lived-in hosting and material ease, not generic nautical decoration or a demographic prescription.
 
 ## Related / Subsets
 
@@ -51,28 +53,31 @@ Coastal Grandmother reads as a source-backed contemporary characterization whose
 
 ## Frontend / UI Guidance
 
-Favor editorial home-lifestyle layouts: wide margins, calm image grids, recipe/hosting modules, light cards, and breezy porch or kitchen staging. Interaction should feel unhurried and hospitable, with clear text and gentle focus states.
+Use menu choices, ingredient quantities, preparation lists and editable notes. Original still-life objects and subtle linen rules can communicate the material system without portraits. Keep practical text large enough; quiet design does not require faint controls.
 
 ## CSS Translation
 
-- Color roles: `--bg-linen`, `--surface-cream`, `--accent-seaglass`, `--accent-chambray`, `--text-navy`, `--line-sand`.
-- Borders/dividers: light linen rules, recipe-card separators, porch-frame lines, and ceramic-soft card edges.
-- Radius language: relaxed medium radii and generous padding; avoid futuristic geometry.
-- Effects: paper/linen texture, soft daylight shadows, sea-air gradients, and low-contrast image treatment.
-- Layout: airy kitchen/porch grids, hosting modules, wide margins, and calm editorial sequencing.
-- Motion: linen drift, page turns, condensation or fan-like loops with quiet reduced-motion fallbacks.
+Proposed palette: linen #f4efdf, ink #3d5143, sage #8d9c7b, pale blue #adc0c7 and clay #b17658. Thin woven rules, matte off-white cards and a serif/sans pairing are contemporary choices. Use open spacing that collapses to one column; no looping material motion is required.
 
 ## Typography / Fonts
 
-Use a calm home-lifestyle serif or humanist sans with generous leading and mature editorial hierarchy. Avoid overly youthful scripts, hard tech grotesks, or luxury minimal type that erases the hosting/domestic character.
+Pair a warm readable serif such as Georgia with a straightforward sans for quantities and controls. Avoid fine low-contrast luxury type and faux handwritten recipe text that cannot be read.
 
 ## Cultural / Ethical Notes
 
-Acknowledge the class-coded and often affluent coastal leisure script. Do not universalize mature femininity, whiteness, or beachfront property as the only form of calm adulthood.
+Do not universalize affluent whiteness, mature femininity, domestic labour or beachfront property as ideal adulthood. Distinguish a contemporary internet label from the older domestic references it borrows. Product objects are evidence of material grammar, not proof that every maker belongs exclusively to this trend.
 
 ## Anti-Patterns
 
-- Generic beach or nautical branding without hosting, linen ease, and domestic calm.
-- Quiet-luxury minimalism that erases kitchen/porch life and character script.
-- Overly youthful resort glam, body-con styling, or high-energy vacation graphics.
-- Class fantasy presented as universal maturity or moral superiority.
+- Anchors, shells or beach gradients without domestic hosting.
+- Blank luxury minimalism that erases the kitchen/garden activity.
+- Faint labels, ornamental script or empty slow-loading surfaces.
+- Age, gender or class stereotypes presented as requirements.
+
+## Research Basis
+
+The 2026-11-12 direct-media audit in the corresponding research profile supersedes earlier generic percentage claims. Source-supported history, directly observed form and proposed UI values remain distinct. No reference images or source-site code are redistributed.
+
+- [Sunset: Coastal Grandmother at home](https://sunset.com/home-garden/design/coastal-grandmother-trend-home) — Interview-based context for textiles, patina and the internet label.
+- [The Zoe Report: domestic makers](https://www.thezoereport.com/living/coastal-grandmother-style-decor-brands) — Primary maker interview and natural-fibre/stripe context.
+- [Jenni Kayne Interiors](https://www.jennikayne.com/pages/jenni-kayne-interiors) — Maker context; individual inspected object links below carry visual evidence.

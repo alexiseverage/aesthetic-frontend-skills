@@ -5,42 +5,44 @@ family: emerging-hybrid
 era: 2019–2021 soft-UI trend peak
 aliases: ["neo-skeuomorphism", "soft UI", "neumorphic design"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["skeuomorphism", "claymorphism", "material-design", "glassmorphism"]
 subsets: []
 ---
 
 # Neumorphism / Soft UI
 
-Neumorphism / Soft UI is a same-surface interface aesthetic where controls appear raised from or pressed into a continuous background plane through paired light and dark shadows. It should feel tactile, soft, and widget-like, but its low-contrast affordances make it fragile outside constrained contexts.
+Neumorphism / Soft UI makes controls appear raised from or recessed into a continuous same-color field through paired highlights and shadows. The inspected corpus includes pale, dark, blue and later hybrid interfaces. Rounded softness alone is insufficient: the control must read as belonging to the surrounding material.
 
 ## Scope
 
-Use Neumorphism for calculators, music-player widgets, thermostat controls, compact settings panels, portfolio experiments, and low-density personal dashboards with a stable background plane. Avoid it for large multisection apps, dense content, critical forms, accessibility-first services, or any interface where subtle shadows would be the only way to identify controls.
+Use a contained instrument, calculator, timer or compact settings group with a stable surface and explicit controls. Larger hybrid dashboards exist in the evidence, but that does not establish their usability or require the entire product to use relief.
 
 ## 7-Dimension Profile
 
-**Palette**: monochrome or near-monochrome mid-tone surfaces, pale grays, dusty pastels, cool neutrals, and subtle light/dark shifts. The background must sit between highlight and shadow; pure white/black and high-contrast primaries usually break the extrusion illusion.
+**Palette**: Pale grey and cool lavender are common; dark charcoal, navy, muted blue and restrained saturated accents also occur. Keep the local surface between its highlight and shadow; a global near-monochrome rule is not necessary for every accent.
 
-**Type**: lightweight clean sans labels, rounded geometric sans, thin utility numerals, understated hierarchy, and low visual aggression. Type should support the soft surface rather than dominate it.
+**Type**: Clean sans labels and prominent utility numerals appear alongside regular and bold headings. Faint thin labels are a recurring defect, not a requirement. Dark readable text on pale fields and light text on dark fields preserve clarity.
 
-**Texture**: soft raised or inset surfaces formed through paired highlights and shadows, matte plastic feel, faint bevel implication, and same-material controls. Avoid glass blur, chrome gloss, photographs, or explicit material texture.
+**Texture**: Paired opposing light/dark shadows create raised and inset relief on matching fields. Matte moulded plastic is a useful analogy. Photographic wood, glass blur and independent floating objects belong to adjacent or hybrid styles.
 
-**Shape**: rounded cards, soft buttons, pill controls, recessed input wells, circular knobs, sculpted toggles, calculator keys, and widget panels with continuous-material logic.
+**Shape**: Rounded rectangles, discs, recessed tracks, sculpted toggles, keyboards and shaped wells. Keep actual control boundaries and generous targets; extreme pill rounding is optional.
 
-**Motion**: gentle press/release, shadow-direction state shifts, low-amplitude toggle travel, soft hover lift, and subtle tactile microfeedback. Motion should reinforce affordance, not compensate for unreadable controls.
+**Motion**: Interacted sources show pressed/inset selection, switch travel and accordion expansion. No universal timing was measured. Immediate state changes are valid; any soft press animation must remain optional and cannot be the only feedback.
 
-**Spatial**: a single continuous background plane with local protrusions and dents, small widget clusters, and compact panels. Elements are extruded from the background rather than floating above it as separate cards.
+**Spatial**: One continuous material plane with local relief; controls read as protrusions or dents. White/grey panels, dark surfaces and multi-panel hybrids occur, but stable illumination and local surface continuity carry the core cue.
 
-**Cultural markers**: late-2010s Dribbble soft-UI trend, tactile minimalism, “buttons should feel pressable again” rhetoric, dashboard concepts, gadget-like widgets, and accessibility debate around low-contrast controls.
+**Cultural markers**: Late-2019/early-2020 creator soft-UI experiments, later tutorials and component libraries. Malewicz credits a Jason Kelley comment for the name and Plyuto as a catalyst; treat that as a creator account, not proof of sole invention. Accessibility debate is integral to the trend.
 
 ## Non-Negotiables
 
-**Non-negotiables**: same-surface element/background relationship + paired light/dark shadows + soft rounded controls + near-monochrome palette + visible pressed/raised state logic. Without extrusion from the background plane, a soft card is not truly neumorphic.
+**Non-negotiables**: Continuous same-surface relationship; paired light/dark relief; raised/inset state logic; identifiable labelled controls independent of shadow.
 
 ## Connotation
 
-Neumorphism is a nostalgic descendant of skeuomorphic tactile UI filtered through minimalist CSS and Dribbble-era trend culture. It suggests a longing for pressable controls after flat design, but its production reputation is constrained by low contrast, weak affordances, and poor scalability.
+**Mode:** contemporary surface-led interface practice.
+
+Neumorphism / Soft UI makes controls appear raised from or recessed into a continuous same-color field through paired highlights and shadows. The inspected corpus includes pale, dark, blue and later hybrid interfaces. Rounded softness alone is insufficient: the control must read as belonging to the surrounding material.
 
 ## Related / Subsets
 
@@ -52,29 +54,31 @@ Neumorphism is a nostalgic descendant of skeuomorphic tactile UI filtered throug
 
 ## Frontend / UI Guidance
 
-Keep Neumorphism contained. Use it for a small number of controls on a consistent background, and pair shadow cues with explicit labels, icons, focus rings, and contrast-tested text. Do not place paragraphs, complex forms, or essential state distinctions inside low-contrast wells unless accessibility has been independently verified.
+Use explicit labels, selected text or symbols, visible keyboard focus and optional stronger control edges. Make the instrument useful before shading it. Choose contrast-tested foregrounds; the softness may live in decorative relief while controls retain distinct boundaries.
 
 ## CSS Translation
 
-- Color roles: `--neo-bg`, `--neo-surface`, `--neo-highlight`, `--neo-shadow`, `--neo-text`, `--neo-accent`.
-- Shadows: pair a light shadow on one side with a darker shadow on the opposite side; use inset shadows for pressed states.
-- Borders/dividers: usually none or extremely subtle; avoid hard outlines unless required for accessibility/focus.
-- Radius language: soft 10–20px corners, circular knobs, pill toggles, and sculpted input wells.
-- Layout: compact widgets, calculator grids, player controls, simple settings clusters, and stable same-color background planes.
-- Motion: shadow interpolation on press, gentle toggle travel, low-amplitude hover, and reduced-motion alternatives.
+Proposed values: surface #e4e9ed; text #263f4b; relief 12px 12px 25px #bec7cf and -12px -12px 25px #fff; inset relief around 5px/11px; accent #315b65. These are contemporary implementation choices. Keep surface and field equal locally, add borders for stronger affordances, and avoid decorative animation where not needed.
 
 ## Typography / Fonts
 
-Use rounded or clean geometric sans-serifs such as Poppins, Nunito, Montserrat, Quicksand, or system sans at light-to-regular weights. Ensure text contrast remains accessible even when the aesthetic prefers subtlety. Avoid loud display type or sharp industrial fonts that fight the soft surface premise.
+Use a readable system/geometric sans with tabular timer numerals. Regular-to-bold labels are valid. Light weight is optional, never a reason to sacrifice legibility.
 
 ## Cultural / Ethical Notes
 
-Accessibility is the main ethical constraint: low-contrast shadows can make controls invisible to many users. Use Neumorphism only when controls remain identifiable without hover or motion, and never let subtle extrusion carry critical state alone. Be clear that this profile is limited-evidence and trend-sourced rather than backed by a full image corpus.
+Subtle shadow differences cannot identify controls or critical state alone. Provide sufficient text contrast, focus outlines, target sizes and explicit selected state. The direct corpus supports visual variation; it does not validate the safety of any photographed banking, medical or other concept UI.
 
 ## Anti-Patterns
 
-- Applying Neumorphism across a full multisection product or long-form content site.
-- Relying on subtle shadows as the only indicator of interactivity or state.
-- Placing controls on varied backgrounds that break same-surface shadow logic.
-- Calling any rounded pastel card “neumorphic” without protrusion/dent behavior.
-- Hiding labels, focus rings, or contrast in pursuit of soft minimalism.
+- A soft rounded card without same-field relief.
+- Low-contrast labels and shadow-only affordances.
+- Calling photographic glass or floating 3D house cards pure Neumorphism.
+- Treating every color accent or regular/bold heading as a forbidden deviation.
+
+## Research Basis
+
+The 2026-11-12 direct-media audit in the corresponding research profile supersedes earlier generic percentage claims. Source-supported history, directly observed form and proposed UI values remain distinct. No reference images or source-site code are redistributed.
+
+- [Hype4: Neumorphism in user interfaces](https://hype4.academy/articles/design/neumorphism-in-user-interfaces) — Creator history account, naming attribution and same-surface explanation.
+- [Themesberg tutorial](https://themesberg.com/blog/tutorial/neomorphic-elements-css-html-tutorial) — Paired CSS shadows and same-field relief; independent live accordion also inspected.
+- [Adam Giebl generator source](https://github.com/adamgiebl/neumorphism) — Creator repository and live generator; no source code reused.
