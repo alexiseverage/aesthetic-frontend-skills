@@ -5,42 +5,44 @@ family: contemporary-lifestyle
 era: 2017–present
 aliases: ["outdoorswear streetwear", "trail utility fashion", "hikingcore-adjacent"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["quiet-luxury", "post-apocalyptic-scavenged-tech"]
 subsets: []
 ---
 
 # Gorpcore
 
-Gorpcore is a contemporary outdoor-gear streetwear aesthetic grounded in authentic recreation products, technical textiles, modular layers, and city-trail hybridity. It should read as weather-ready equipment logic rather than decorative utility styling.
+Gorpcore brings recognizably functional outdoor equipment into everyday city dress and use. Technical fabric, modular carry, layering and practical closures are stronger identity cues than an olive-and-orange palette. The inspected maker works include vivid blue, purple, red and multicolour equipment alongside muted shells.
 
 ## Scope
 
-Use Gorpcore for outdoor retail, travel planning, product comparison, trail utilities, gear guides, and streetwear drops where technical product logic is real. If the product has no outdoor or equipment relationship, use the aesthetic sparingly as a campaign layer rather than as a false competence signal.
+Use outdoor retail, equipment comparison, packing tools or city-to-trail editorial where the equipment relationship is real. General workwear, military techwear and hiking scenery alone do not establish Gorpcore.
 
 ## 7-Dimension Profile
 
-**Palette**: Terrain-muted black, slate, olive, stone, moss, rust, and safety orange accents.
+**Palette**: Olive, moss, stone, black and rust coexist with cobalt, turquoise, violet, yellow and multicolour panels. Contrasting zip pulls, linings or webbing can identify construction and access points.
 
-**Type**: Utility sans labels, topo numerals, route/status metadata, and equipment-spec hierarchy.
+**Type**: Small manufacturer patches and equipment labels support a proposed utility-sans interface. Product photography does not establish a historical UI font; use strong readable headings, tabular measurements and concise specification labels.
 
-**Texture**: Ripstop nylon, fleece, taped seams, shell fabric, mesh, webbing, toggles, and rubber soles.
+**Texture**: Ripstop grids, smooth technical shells, fleece pile, quilted insulation, mesh, woven webbing, seam tape, zips, cord pulls and hardware. Preserve distinct materials rather than overlaying one universal topo texture.
 
-**Shape**: Boxy puffers, anoraks, vests, cargos, trail-runner forms, modular layers, pockets, and straps.
+**Shape**: Pockets, compression straps, adjustable cords, layered shell silhouettes, soft bag volumes, buckles and modular attachments. Each interface compartment should have a useful role.
 
-**Motion**: Brisk route-oriented status, cinch/toggle feedback, topo sweeps, and practical transitions.
+**Motion**: The observed product and campaign works are still. Brisk selection or packing feedback is a contemporary proposal, not measured outdoor-brand timing. Still maps and direct state updates are sufficient.
 
-**Spatial**: Layered gear-system layouts, trail maps, packing logic, and dense but scannable product metadata.
+**Spatial**: Equipment zones, access order, layers and capacity create useful hierarchy. Maps and route cards are optional domain tools; they should not overwhelm product specifications or imply real navigation without data.
 
-**Cultural markers**: Patagonia, The North Face, Arc'teryx, Salomon, GORP, trail utility, and urban-outdoor hybridity.
+**Cultural markers**: City/outdoor crossover and technical recreation products. Jason Chen’s 2017 article introduced the label. Contemporary participant interviews also connect everyday outdoor dress with access, community and urban nature. Brand names are references, not a substitute for equipment logic.
 
 ## Non-Negotiables
 
-**Non-negotiables**: authentic outdoor-gear object vocabulary + technical textile texture + modular layering + urban/outdoor hybridity. If these are removed, the result collapses into an adjacent or generic style rather than Gorpcore.
+**Non-negotiables**: Recognizable outdoor-equipment construction; technical material distinctions; functional modular/layered logic; city/outside crossover context.
 
 ## Connotation
 
-Gorpcore reads as a source-backed contemporary characterization whose cues should be treated as a multi-dimensional system rather than a palette.
+**Mode:** contemporary lifestyle quotation.
+
+Gorpcore brings recognizably functional outdoor equipment into everyday city dress and use. Technical fabric, modular carry, layering and practical closures are stronger identity cues than an olive-and-orange palette. The inspected maker works include vivid blue, purple, red and multicolour equipment alongside muted shells.
 
 ## Related / Subsets
 
@@ -50,28 +52,31 @@ Gorpcore reads as a source-backed contemporary characterization whose cues shoul
 
 ## Frontend / UI Guidance
 
-Make product and route metadata feel like equipment: spec tables, map fragments, toggles, pocket-like cards, weather/status chips, and modular layers. Interactions should be brisk, practical, and tactile, not decorative or luxury-smooth.
+Make a usable packing checklist, equipment comparison or modular loadout. Show capacity, materials, zones and computed totals only with clear illustrative or verified data. Express the aesthetic through seams, webbing rules, hardware and labels rather than requiring modeled clothing.
 
 ## CSS Translation
 
-- Color roles: `--bg-trail`, `--surface-shell`, `--accent-safety-orange`, `--accent-moss`, `--text-slate`, `--line-webbing`.
-- Borders/dividers: taped seams, topo lines, route segments, zipper rules, and webbing bands.
-- Radius language: practical gear radii, pocket cards, clipped tabs, and robust controls.
-- Effects: ripstop texture, fleece softness, waterproof sheen, embossed map lines, and durable shadows.
-- Layout: modular layers, spec tables, packing grids, trail maps, and dense-but-scannable metadata.
-- Motion: cinch/toggle feedback, brisk route sweeps, status ticks, and reduced-motion utility changes.
+Proposed tokens: shell #6b7851, field #dce0ca, ink #243b31, lining accent #df652d; an alternate lake #336b80 is equally valid. Use fine 5–6px ripstop grids at low opacity, stitched rules, sturdy 40px-or-larger controls and compartment layouts. Routes update directly; retain legibility without texture.
 
 ## Typography / Fonts
 
-Use utility sans families, product-spec hierarchy, topo numerals, tabular metadata, and strong label systems. Typography should feel like gear documentation and route information rather than fashion editorial excess.
+Use a sturdy system sans for headings and a readable mono/tabular companion for dimensions and kit labels. Avoid tiny fake technical text and unsupported performance badges.
 
 ## Cultural / Ethical Notes
 
-Do not fake safety, technical competence, or environmental virtue through gear styling alone. If sustainability or performance claims appear, they need evidence outside the aesthetic.
+Do not imply weatherproofing, safety, navigation, environmental virtue or accessibility of outdoor space through styling. Label fictional routes and illustrative weights. Expensive brand consumption is not a prerequisite for enjoying outdoor space.
 
 ## Anti-Patterns
 
-- Outdoor-looking colors without real gear, textile, or modular product logic.
-- Luxury hiking cosplay that has no weather, route, or equipment credibility.
-- Techwear blackness mistaken for recognizable recreation gear.
-- Overdecorated utility straps and pockets that obscure information.
+- Olive/orange colors without equipment construction.
+- Decorative straps, zips or map lines that obscure tasks.
+- Treating all workwear or black tactical gear as Gorpcore.
+- Invented sustainability or expedition-readiness claims.
+
+## Research Basis
+
+The 2026-11-12 direct-media audit in the corresponding research profile supersedes earlier generic percentage claims. Source-supported history, directly observed form and proposed UI values remain distinct. No reference images or source-site code are redistributed.
+
+- [Jason Chen, The Cut, 2017](https://www.thecut.com/2017/05/new-fashion-trends-normcore-gorpcore.html) — Naming context only; not additional media.
+- [Dazed participant interviews](https://www.dazeddigital.com/fashion/article/60315/1/gorpcore-tiktok-trend-outdoor-hike-country-arcteryx-salomon-athene-club-nature) — Primary participant accounts of urban outdoor use and community.
+- [Topo Designs](https://topodesigns.com/) — Maker product descriptions and directly inspected construction; product links below identify works.
