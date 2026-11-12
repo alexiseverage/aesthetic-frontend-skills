@@ -5,7 +5,7 @@ family: "vernacular-commercial"
 era: "1930s–1960s American themed-hospitality; revivals"
 aliases: ["Polynesian Pop", "tiki bar Americana", "mid-century tiki"]
 status: "canonical"
-evidence_level: "limited"
+evidence_level: standard
 related: []
 subsets: []
 ---
@@ -22,19 +22,19 @@ Frame as mid-century American Polynesian Pop / tiki bar Americana, not Indigenou
 
 ## 7-Dimension Profile
 
-**Palette**: Lagoon turquoise, ocean teal, bamboo brown, torch amber, coral, tropical green, sunset orange, rum mahogany, and bar black.
+**Palette**: Warm amber/red pools over dark timber and woven surfaces; ceramic vessels add cream, mustard, orange and blue variants. Lagoon turquoise is optional rather than a required global wash.
 
-**Type**: Hand-painted hospitality signs, carved menu display, postcard script accents, and mid-century menu typography; no pseudo-tribal novelty fonts. Common reinforcement: Support labels and metadata tuned to the domain. Variant edge: Decorative display accents used sparingly.
+**Type**: Mid-century hospitality/menu lettering and restrained irregular commercial display accents. Avoid pseudo-tribal novelty fonts, fabricated scripts and claims of a universal island typeface.
 
-**Texture**: Bamboo, rattan, tapa-like patterning, weathered wood, ceramic mug gloss, rope, shell, matting, condensation, and smoky darkness. Common reinforcement: Interface chrome that preserves source material logic. Variant edge: Flatter reduced-texture variants for legibility.
+**Texture**: Rattan, bamboo-like joinery, rope/netted lamps, woven ceiling, wood, glazed ceramic and condensation. Do not treat sacred or community-specific textile patterns as generic texture.
 
-**Shape**: Mug silhouettes, A-frames, hut geometry, lanterns, barware, shield/diamond motifs, and mid-century clustered garnishes. Common reinforcement: Repeated UI modules echoing the source object model. Variant edge: Softened modern component variants.
+**Shape**: Crossed gables, hanging drum/float lamps, regular service rails, cylindrical vessels and garnish silhouettes. Nonfigurative objects can express the commercial lounge grammar without appropriated faces or deity motifs.
 
-**Motion**: Slow sway, rain/storm ambience, torch flicker, cocktail-theater reveals, and lava-lamp bubbling. Common reinforcement: State transitions linked to the core workflow. Variant edge: Static print-first or reduced-motion fallbacks.
+**Motion**: Still venue and object sources establish no shared sway, torch or storm cadence. Immediate service notices and selection states are valid; optional motion must preserve a complete still reduced-motion treatment.
 
-**Spatial**: Immersive low-light lounge, prop-dense escapist enclosure, nooks, hanging objects, and room-as-themed set. Common reinforcement: Secondary panes/lists that preserve scan order. Variant edge: More spacious marketing adaptations.
+**Spatial**: Layer suspended objects and localized lighting above a regular seating/service framework. Keep notices and controls in flow, with a stable reading zone clear of props.
 
-**Cultural markers**: Don the Beachcomber, mid-century American faux-Polynesia, rum cocktails, exotica music, Hollywood restaurant sets, and appropriation critique. Common reinforcement: Domain vocabulary and object-specific affordances. Variant edge: Broader adjacent-pop-culture references.
+**Cultural markers**: American commercial Polynesian Pop and invented tropical hospitality, including its appropriation history. It is distinct from Indigenous Pasifika traditions; deity names, carved faces and regional symbols need specific context rather than decorative reuse.
 
 ## Non-Negotiables
 
@@ -82,3 +82,7 @@ Frame this as mid-century American Polynesian Pop / tiki bar Americana, not Indi
 - Copying source motifs as generic decoration without the origin, practitioner, regional, or institutional context recorded in the knowledge profile.
 - Applying the strongest ornamental or material cues to every component, which makes navigation, forms, and content hierarchy harder to use.
 - Flattening the entry into a neighboring aesthetic named in Related / Subsets instead of preserving the boundary conditions above.
+
+## Evidence Lens
+
+The [dated direct-media profile](../../../knowledge/aesthetics/tiki-polynesian-pop.md) identifies complete artifacts, comparisons, source concentration and remaining gaps. Its `standard` label denotes the schema floor, not completion of the thirty-work target. Historical material vocabulary must not be mistaken for evidence of contemporary community origins; proposed frontend values remain application decisions.

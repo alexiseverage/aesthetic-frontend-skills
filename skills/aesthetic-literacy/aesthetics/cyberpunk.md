@@ -20,23 +20,23 @@ Use Cyberpunk for speculative interfaces, games, media sites, robotics/cyberneti
 
 ## 7-Dimension Profile
 
-**Palette**: black/asphalt/bruise-purple with toxic cyan, sodium orange, surgical green.
+**Palette**: Signal green, magenta, cyan, red and sodium warmth often punctuate dark infrastructure, but sunlit ochre streets and pastel commercial variants also exist. Night, rain and a cyan-magenta pair are not mandatory.
 
-**Type**: narrow techno sans, segmented displays, multilingual overlays.
+**Type**: Technical labels, selected item plates, dense unit/counter hierarchies and layered commercial signage. Multilingual text should have actual meaning and appropriate shaping rather than serving as decorative noise.
 
-**Texture**: rain, fog, grease, scratched plastic, chrome, HUD ghosts.
+**Texture**: Retrofits, cable looms, scuffed utility equipment, corporate packaging, scratched surfaces and display artifacts coexist. Select wear appropriate to the object; do not obscure live data.
 
-**Shape**: megacity slabs, prosthetics, cables, exoskeletons, visor slits.
+**Shape**: Bolted service modules, guarded contacts, trace paths, industrial apertures and physically attached cables support technology embedded in ordinary life.
 
-**Motion**: flicker, glitch, surveillance sweeps, parallax signage.
+**Motion**: Glitches, scans or surveillance effects can be proposed narrative devices, but static concepts establish no shared cadence. Stable content and immediate user-controlled state changes are valid; reduced motion removes atmospheric motion.
 
-**Spatial**: compressed layered infrastructure; claustrophobic despite scale.
+**Spatial**: Layer infrastructure and information around a readable focal panel. Density can frame an intentionally empty playfield or working surface instead of occupying every pixel.
 
-**Cultural markers**: augmentation, corporate sovereignty, black-market repair, Ghost in the Shell / Blade Runner lineage.
+**Cultural markers**: High technology intersects with corporate control, uneven consumer access, surveillance and improvised maintenance. Preserve social/material tension rather than reducing the style to neon.
 
 ## Non-Negotiables
 
-**Non-negotiables**: black/asphalt/bruise-purple with toxic cyan, sodium orange, surgical green + rain, fog, grease, scratched plastic, chrome, HUD ghosts + megacity slabs, prosthetics, cables, exoskeletons, visor slits + compressed layered infrastructure; claustrophobic despite scale.
+**Non-negotiables**: high technology embedded in unequal social infrastructure + material layering or retrofit + readable technological/service hierarchy + corporate, surveillance or improvised-maintenance tension.
 
 ## Connotation
 
@@ -62,7 +62,7 @@ Start with compressed spatial layering, panel stacks, signage strata, and machin
 - Radius language: hard corners, clipped panels, visor slots, and industrial modules.
 - Effects: rain grain, neon bloom, scanlines, chromatic glitch, scratched plastic, and fog layers.
 - Layout: stacked megacity panels, multilingual overlays, compressed grids, and readable foreground plates.
-- Motion: flicker, surveillance sweeps, parallax signage, data jitter, and reduced-motion static alert states.
+- Motion: optional user-triggered narrative effects; stable data and immediate reduced-motion states are valid.
 
 ## Typography / Fonts
 
@@ -78,3 +78,7 @@ Cyberpunk carries critique of corporate power, surveillance, extraction, and bod
 - Clean futuristic SaaS with no grime, density, or coercive corporate layer.
 - Unreadable glow, scanlines, or glitch over critical text.
 - Retro synthwave nostalgia mistaken for cyberpunk’s high-tech/low-life critique.
+
+## Evidence Lens
+
+The [dated direct-media profile](../../../knowledge/aesthetics/cyberpunk.md) identifies complete artifacts, comparisons, source concentration and remaining gaps. Its `standard` label denotes the schema floor, not completion of the thirty-work target. Historical material vocabulary must not be mistaken for evidence of contemporary community origins; proposed frontend values remain application decisions.

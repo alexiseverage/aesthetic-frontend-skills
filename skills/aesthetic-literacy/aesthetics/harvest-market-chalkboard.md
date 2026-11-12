@@ -5,7 +5,7 @@ family: vernacular-commercial
 era: farmstand, cafe, and market menu signage; contemporary
 aliases: ["farm market chalkboard", "harvest chalk menu"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: []
 subsets: []
 ---
@@ -22,15 +22,15 @@ Use it for menus, inventory, market pricing, pickup, recipes, or local-food inte
 
 **Palette**: Use matte charcoal or deep green board, chalk white, dusty yellow, tomato red, leaf green, cider gold, and natural wood. Keep prices and availability at maximum contrast.
 
-**Type**: Use hand-rendered block capitals, compact sign-painter serif/slab, chalk script only for tiny accents, and tabular numerals for prices/units. Avoid illegible coffee-shop calligraphy.
+**Type**: Hand-lettered capitals, sign-painter slab/serif headings, restrained script accents and clearly aligned prices. A licensed handwriting face approximates manual lettering; keep units and product details readable.
 
 **Texture**: Chalk dust, erased ghosts, smudged rules, painted wood, crate stock, flour marks, masking-tape corrections, and hand-drawn produce create active market use.
 
 **Shape**: Use ruled menu rows, price boxes, unit fractions, sold-out slashes, crate-label medallions, corner flourishes, arrows, baskets, and simple produce silhouettes.
 
-**Motion**: Use chalk write-on, item strikeout, price flip, availability stamp, or board wipe between menus. Reduced motion changes text instantly while retaining erased-history texture.
+**Motion**: Still hand-updated boards are sufficient. Quantity, availability, correction and sold-out states should update clearly; write-on or wipe effects are optional application choices, not measured market-signage behavior. Reduced motion keeps immediate text and stock changes.
 
-**Spatial**: Compose with market name and date high, items/units/prices in aligned rows, daily special or origin panel to one side, and pickup/allergen information anchored below.
+**Spatial**: Group category, item, unit, price and availability. Small inserted market slates and wide multi-column food-service boards are distinct scale variants. Keep produce drawings outside the reading area.
 
 **Cultural markers**: Markers include per-pound/dozen/bag units, orchard/farm origin, seasonal availability, sold out, local, cash/card, pickup time, crate labels, chalk illustrations, and frequently revised pricing.
 
@@ -56,7 +56,7 @@ Use market category filters, unit-aware quantities, availability, substitutions,
 - Use dashed/hand-drawn rules, localized smudge masks, erased text ghosts, wood inset shadows, and crate-label accents.
 - Keep menu fields square; hand-drawn produce can be organic.
 - Use aligned item/unit/price columns plus a special/origin side zone.
-- Motion: 150-500ms write/strike updates; reduced motion changes instantly.
+- Motion: immediate stock/text changes; optional write/strike timing is proposed and removed under reduced motion.
 
 ## Typography / Fonts
 
@@ -73,3 +73,7 @@ Do not invent farm origin, organic status, labor claims, or local sourcing. Pres
 - Uniform digital white text with no hand-updated behavior.
 - Image-only menu inaccessible to assistive technology.
 - Unsupported local, organic, or farm-origin claims.
+
+## Evidence Lens
+
+The [dated direct-media profile](../../../knowledge/aesthetics/harvest-market-chalkboard.md) identifies complete artifacts, comparisons, source concentration and remaining gaps. Its `standard` label denotes the schema floor, not completion of the thirty-work target. Historical material vocabulary must not be mistaken for evidence of contemporary community origins; proposed frontend values remain application decisions.
