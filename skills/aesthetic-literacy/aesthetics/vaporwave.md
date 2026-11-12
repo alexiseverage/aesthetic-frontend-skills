@@ -5,47 +5,47 @@ family: digital-internet-native
 era: 2012–present
 aliases: ["vapor"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["synthwave", "frutiger-aero", "y2k", "glitch"]
 subsets: []
 ---
 
 # Vaporwave
 
-Vaporwave is a cultural/editorial internet aesthetic built from slowed consumer memory: pastel-neon gradients, degraded media, Greco-Roman busts, mall/Windows-era fragments, Japanese decorative text, and surreal void compositions. In frontend work it is powerful as an art-direction layer, but limited as everyday product UI.
+Vaporwave is an internet music and visual culture that reframes consumer and media memory: advertising, malls, broadcast fragments, software promises, sampled imagery and artificial digital worlds. Pink grids and classical sculpture are influential examples, while dim hotel photographs, gray institutions and orange print-ad quotations are also represented. Affection, melancholy, humor and critique can coexist.
 
 ## Scope
 
-Use Vaporwave for music platforms, portfolios, experimental web art, editorial features, campaign pages, and cultural projects that can support irony-layered nostalgia. Avoid it for functional product UI, e-commerce checkout, SaaS dashboards, healthcare/finance/civic flows, or long-form reading unless the Vaporwave layer is restrained and content surfaces remain stable.
+Use Vaporwave for music platforms, portfolios, experimental web art, editorial features, campaign pages, and cultural projects that can support irony-layered nostalgia. For sustained product tasks or high-stakes flows, preserve clear navigation, readable content and dependable state. A small functioning catalog or archive can embody the aesthetic; genre references do not justify obscuring essential information.
 
 ## 7-Dimension Profile
 
-**Palette**: two main modes: cyan/magenta/hot-pink neon over deep purple-blue, and faded pastel utopian palettes of seafoam, lavender, peach, pale pink, mint, and gradient sky tones. Colors feel like remembered consumer futures rather than present-day realism.
+**Palette**: pastel pink, mint, lavender and cyan; saturated purple/magenta and artificial blues; also beige hospitality imagery, warm orange advertising, gray architecture and monochrome broadcast memory. Palette depends on the quoted media rather than a fixed neon pair.
 
-**Type**: pixel fonts, terminal faces, wide-tracked sans, full-width spaced lettering, decorative Japanese characters, and classical serif contrasts. Use Japanese text carefully and avoid pretending decorative fragments are semantic if they are not.
+**Type**: advertising scripts, condensed italic capitals, serif display, media-manual labels, terminal/pixel faces, wide spacing and multilingual packaging all occur. Some covers omit lettering. Use language semantically and with context; Japanese characters are not a required decorative token.
 
-**Texture**: VHS static, CRT scanlines, compression artifacts, chromatic aberration, soft phosphor glow, noise overlays, and degraded broadcast/video surfaces. Texture should imply memory, duplication, and media decay.
+**Texture**: soft reproduction, VHS tracking, low-resolution haze, digital displacement, chromatic edges, noisy broadcast surfaces and packaging grain. Glossy stock-render and clean digital-sculpture branches also exist. Apply damage to artwork selectively, with stable reading surfaces.
 
-**Shape**: Greco-Roman busts, columns, checkerboards, Windows 95-style dialog boxes, palm trees, grid floors, wireframe mountains, geometric solids, and floating consumer objects. Rounded modern app chrome is usually off-model unless quoted as old software.
+**Shape**: consumer devices, domestic products, shopping shelves, escalators, palms, obsolete interface fragments, geometric solids, digital sculpture and mirrored objects. Classical busts/checkerboards are influential quotations, not required parts. Original objects can carry the grammar without portraits or protected characters.
 
-**Motion**: slow drifting loops, background-position scroll, chopped-and-screwed pacing, neon flicker, soft parallax, and dreamy repetition. Motion should feel suspended rather than fast.
+**Motion**: sampled repetition and mediated time are important audiovisual ideas, but cover art establishes no universal speed or easing. Sampled official music-video intervals show forward cameras, nested screen immersion and low-poly spatial transitions; those examples do not define a universal slow speed. UI motion should serve the chosen artifact, allow continuous effects to pause, and preserve equivalent reduced-motion states.
 
-**Spatial**: surreal non-space: statues and interface fragments float in gradients, grids recede into voids, 2D and 3D elements coexist without realistic environment, and depth feels unplaceable.
+**Spatial**: either layered impossible digital depth or ordinary commercial/institutional spaces made uncanny through framing, absence and reproduction. Nested screens, collages, floating domestic rooms and long atria all occur. A void, OS window or neon driving grid is not compulsory.
 
-**Cultural markers**: A E S T H E T I C spacing, Macintosh Plus/Floral Shoppe-era album language, Tumblr and Bandcamp circulation, mall/consumer-capitalist nostalgia, Windows 95 fragments, classical busts, palm trees, Fiji/Arizona-like product memory, and Japanese decorative text.
+**Cultural markers**: online music/visual circulation, obsolete consumer promises, retail and hospitality memory, computer/broadcast imagery, pseudocorporate identity and ambiguous nostalgia. Mallsoft and vaportrap provide different emphases; not every scene release uses the same visual system.
 
 ## Non-Negotiables
 
-**Non-negotiables**: pastel-to-neon gradient palette; degraded media texture; surreal void spatiality; ironic juxtaposition of classical, mall, and early-computer culture; and pixel or wide-tracked typography. Synthwave color alone does not make Vaporwave.
+**Non-negotiables**: recognizable consumer/media memory + deliberate recontextualization through framing, repetition, sampling or artificiality + an affect beyond generic retro decoration. Choose a coherent branch rather than requiring every familiar meme motif.
 
 ## Connotation
 
-Vaporwave connotes melancholy utopia and critique-through-celebration of late-capitalist consumer imagery. Its nostalgia is layered and self-aware: it remembers techno-optimistic promises as both beautiful and hollow.
+**Mode:** nostalgic quotation, ironic pastiche or contemporary scene practice, according to context. Vaporwave connotes melancholy utopia and critique-through-celebration of late-capitalist consumer imagery. Its nostalgia is layered and self-aware: it remembers techno-optimistic promises as both beautiful and hollow.
 
 ## Related / Subsets
 
-- `synthwave` shares neon grids and retro-futurism, but Synthwave is faster, darker, and earnest; Vaporwave is slower, ironic, and elegiac.
-- `frutiger-aero` shares gloss and remembered techno-optimism, but Frutiger Aero is sincere where Vaporwave is a memory of the broken promise.
+- `synthwave` shares neon grids and retro-futurism, but the boundary depends on consumer/media quotation and scene context; speed and sincerity alone do not separate them.
+- `frutiger-aero` shares gloss and remembered techno-optimism, but Vaporwave recontextualizes those promises through a different scene and media-memory frame; sincerity or irony is not guaranteed by a palette.
 - `y2k` shares millennium futurist materials, but Y2K is chrome-forward and aspirational while Vaporwave is degraded and retrospective.
 - `glitch` overlaps in media degradation; Vaporwave uses corruption as memory/atmosphere rather than failure energy.
 
@@ -57,9 +57,9 @@ Localize Vaporwave to art-directed surfaces: hero sections, album/playlist pages
 
 - Color roles: `--vw-cyan`, `--vw-magenta`, `--vw-lavender`, `--vw-seafoam`, `--vw-void`, and `--vw-pastel`.
 - Effects: chromatic text shadows, scanline overlays, SVG turbulence/noise, pixelated images, neon glow, and gradient void backgrounds.
-- Layout: floating bust/object layers, checkerboard or grid perspective, old-OS dialog frames, and isolated content panels.
-- Motion: slow drift, looping parallax, flicker with reduced-motion alternatives, and no critical state hidden in glitch effects.
-- Assets: use licensed/generated busts, UI fragments, and product references; avoid implying endorsement from real brands.
+- Layout: nested media, sampled commercial framing, reflective object planes, catalog panels or an unoccupied retail interior. Select one supported composition rather than stacking every motif.
+- Motion: stillness or proposed restrained repetition; pause continuous effects and keep critical state outside any glitch treatment.
+- Assets: create original objects, packaging and spatial graphics. Source artwork is analytical evidence; cultural sampling history does not grant rights to people, logos or protected characters.
 
 ## Typography / Fonts
 
@@ -76,3 +76,5 @@ Vaporwave often uses Japanese text and consumer-brand fragments as aesthetic mat
 - Applying degraded scanlines over essential body copy.
 - Confusing Vaporwave's ironic melancholy with Frutiger Aero sincerity or Synthwave heroics.
 - Turning a functional app into a surreal void where users cannot locate tasks.
+
+Research trace: [32 full release-art inspections](../../../knowledge/aesthetics/vaporwave.md#direct-media-audit--2026-11-12).
