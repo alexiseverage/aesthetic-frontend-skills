@@ -3,9 +3,9 @@ slug: maximalism
 label: Maximalism
 family: contemporary-lifestyle
 era: cyclical historical stance; strong 2019–present revival
-aliases: ["more is more", "decorative abundance"]
+aliases: ["more is more", "decorative abundance", "Eclectic Fashion-House Maximalism"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["barbiecore", "dark-academia", "cottagecore"]
 subsets: []
 ---
@@ -57,7 +57,11 @@ Maximalism reads as confident, expressive, theatrical, collected, and anti-steri
 - `dark-academia` can be dense and nostalgic, but its abundance is library/institution oriented and palette-restrained; Maximalism is broader, more exuberant, and less tied to scholarship.
 - `cottagecore` can be cozy and full, but its fullness is pastoral, handmade, and domestic rather than color-drenched, theatrical, or collision-based.
 
-No canonical subsets are defined yet.
+### Eclectic Fashion-House Maximalism — bounded application lens
+
+Selected Alessandro Michele-era Gucci fashion and décor provide a specific application of this broader stance: naturalistic florals and fauna, mismatched pattern scales, embroidery, porcelain-like surfaces, tassels, tailored piping and sports bands. Discrete fields and plain anchors organize the material collision. Pale or restrained designs can still be rich through concentrated trim; maximalism need not remove every quiet surface.
+
+Keep this as a researched parent application, not a separate movement or an alias for all Gucci eras. Use original motifs and honest credits rather than monograms, copied prints or portraits. An interface can use a room-object wishlist with textile selection, object comparison and an editable saved arrangement; decorated edges surround plain product details. The [bounded research profile](../../../knowledge/aesthetics/maximalism.md#bounded-application-eclectic-fashion-house-maximalism) documents thirty inspected works and its concentration in one 2017 collection. That corpus does not replace this parent’s broader evidence.
 
 ## Frontend / UI Guidance
 
