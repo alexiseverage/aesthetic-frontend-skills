@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 311
+- Full entries: 312
 - Redirect entries: 1
 - Families: 8
 
@@ -39,6 +39,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `palm-beach-prep` | Palm Beach Prep | Palm Beach preppy, print-led resort prep |
 | `piratecore` | Piratecore | pirate aesthetic, swashbuckler aesthetic |
 | `princesscore` | Princesscore | Princess core, Fairytale princess aesthetic |
+| `rainy-day` | Rainy Day | Rainy Day aesthetic, rain aesthetic |
 | `storybook-spooky-cute` | Storybook Spooky Cute | spooky cute, friendly Halloween storybook |
 | `vampire-goth` | Vampire Goth | Vamp goth, Vampire romantic goth |
 | `warm-minimalism` | Warm Minimalism / Quiet Luxury | quiet luxury, warm minimal, stealth wealth, silent luxury, clean girl aesthetic, calm interface |
