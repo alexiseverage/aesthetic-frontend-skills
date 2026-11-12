@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 296,
+  "fullEntryCount": 311,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -95,6 +95,16 @@
       ]
     },
     {
+      "slug": "aim-classic-instant-messenger",
+      "label": "AIM / Classic Instant Messenger",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Classic AIM",
+        "AOL Instant Messenger aesthetic"
+      ]
+    },
+    {
       "slug": "airline-timetable-modernism",
       "label": "Airline Timetable Modernism",
       "family": "technical-institutional",
@@ -186,6 +196,15 @@
         "real robot mecha",
         "Gundam realism",
         "mechanical-design anime"
+      ]
+    },
+    {
+      "slug": "aol-channel-desktop",
+      "label": "AOL Channel Desktop",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "America Online channel aesthetic"
       ]
     },
     {
@@ -765,6 +784,16 @@
       ]
     },
     {
+      "slug": "cubicle-era-groupware",
+      "label": "Cubicle-Era Groupware",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "classic office groupware",
+        "legacy corporate groupware UI"
+      ]
+    },
+    {
       "slug": "cute-arcade-puzzle-boards",
       "label": "Cute Arcade Puzzle Boards",
       "family": "digital-internet-native",
@@ -969,6 +998,15 @@
       ]
     },
     {
+      "slug": "dungeon-synth",
+      "label": "Dungeon Synth Sleeve Culture",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "dungeon synth sleeve aesthetic"
+      ]
+    },
+    {
       "slug": "dvd-menu",
       "label": "DVD Menu",
       "family": "digital-internet-native",
@@ -1113,6 +1151,16 @@
       ]
     },
     {
+      "slug": "fairycore",
+      "label": "Fairycore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Fairy core",
+        "Enchanted woodland aesthetic"
+      ]
+    },
+    {
       "slug": "fictional-user-interface-diegetic",
       "label": "Fictional User Interface / Diegetic Screens",
       "family": "speculative-robotics",
@@ -1144,6 +1192,16 @@
       "aliases": [
         "Financial press editorial design",
         "Business newspaper editorial"
+      ]
+    },
+    {
+      "slug": "flash-portal-vernacular",
+      "label": "Flash Portal Vernacular",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Flash game portal aesthetic",
+        "Flash animation portal aesthetic"
       ]
     },
     {
@@ -1561,6 +1619,16 @@
       ]
     },
     {
+      "slug": "ivy-league-prep",
+      "label": "Ivy League Prep",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Ivy style",
+        "Ivy League look"
+      ]
+    },
+    {
       "slug": "j-gov-futurism",
       "label": "J-Gov Futurism",
       "family": "digital-internet-native",
@@ -1790,6 +1858,16 @@
       ]
     },
     {
+      "slug": "mermaidcore",
+      "label": "Mermaidcore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Mermaid core",
+        "Mermaid aesthetic"
+      ]
+    },
+    {
       "slug": "mexican-rotulismo",
       "label": "Mexican Rotulismo",
       "family": "vernacular-commercial",
@@ -1952,6 +2030,16 @@
       ]
     },
     {
+      "slug": "new-age-dolphin-fantasy",
+      "label": "New Age Dolphin Fantasy",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "cosmic dolphin fantasy",
+        "visionary dolphin art aesthetic"
+      ]
+    },
+    {
       "slug": "new-objectivity",
       "label": "New Objectivity / Neue Sachlichkeit",
       "family": "historical-design-movements",
@@ -2075,6 +2163,16 @@
       ]
     },
     {
+      "slug": "palm-beach-prep",
+      "label": "Palm Beach Prep",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Palm Beach preppy",
+        "print-led resort prep"
+      ]
+    },
+    {
       "slug": "palm-os-monochrome",
       "label": "Palm OS Monochrome",
       "family": "digital-internet-native",
@@ -2192,6 +2290,16 @@
       "aliases": [
         "Pinball backglass graphics",
         "Electromechanical pinball backglass"
+      ]
+    },
+    {
+      "slug": "piratecore",
+      "label": "Piratecore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "pirate aesthetic",
+        "swashbuckler aesthetic"
       ]
     },
     {
@@ -2313,6 +2421,16 @@
       ]
     },
     {
+      "slug": "princesscore",
+      "label": "Princesscore",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Princess core",
+        "Fairytale princess aesthetic"
+      ]
+    },
+    {
       "slug": "printed-tin-toys",
       "label": "Printed Tin Toys",
       "family": "vernacular-commercial",
@@ -2331,6 +2449,16 @@
         "Acid Aesthetic",
         "Fillmore Poster Style",
         "Trippy"
+      ]
+    },
+    {
+      "slug": "psychonaut-vault-web",
+      "label": "Psychonaut Vault Web",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "psychedelic reference vault web",
+        "psychonaut archive web"
       ]
     },
     {
@@ -2950,6 +3078,16 @@
       ]
     },
     {
+      "slug": "vampire-goth",
+      "label": "Vampire Goth",
+      "family": "contemporary-lifestyle",
+      "status": "canonical",
+      "aliases": [
+        "Vamp goth",
+        "Vampire romantic goth"
+      ]
+    },
+    {
       "slug": "vaporwave",
       "label": "Vaporwave",
       "family": "digital-internet-native",
@@ -3136,6 +3274,16 @@
         "WPA Posters",
         "Federal Art Project style",
         "WPA silkscreen"
+      ]
+    },
+    {
+      "slug": "wunderkammer",
+      "label": "Wunderkammer / Cabinets of Curiosities",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Cabinet of curiosities",
+        "Kunst- und Wunderkammer"
       ]
     },
     {

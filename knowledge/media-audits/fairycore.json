@@ -1,0 +1,1097 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA01",
+      "artifact_id": "teuta:butterfly-gardenia-gown",
+      "title": "Butterfly Gardenia Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/butterfly-gardenia-gown",
+      "media_url": "https://www.teutamatoshi.com/cdn/shop/products/WhatsAppImage2023-02-06at11.01.08.jpg?v=1675677838&width=3000",
+      "resolution": {
+        "width": 1310,
+        "height": 1600
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sage translucent A-line layer carries raised butterflies along neckline, straps and widely spaced skirt; fine vine embroidery shows through net; narrow tied waist joins compact bodice to expanding folds."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA02",
+      "artifact_id": "fireflypath.com:sacred-blossom-gown-1",
+      "title": "Sacred Blossom Gown",
+      "creator": "JoEllen Elam Conway / Firefly Path",
+      "source_url": "https://fireflypath.com/products/sacred-blossom-gown-1",
+      "media_url": "https://cdn.shopify.com/s/files/1/0647/6958/9498/files/0s.jpg?v=1788639864",
+      "resolution": {
+        "width": 1333,
+        "height": 1794
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White filigree boned bodice contrasts with translucent pointed petal overskirts and long sleeve streamers; a compact center supports layered floating edges."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA03",
+      "artifact_id": "fireflypath.com:ghost-lily-gown",
+      "title": "Ghost Lily Gown",
+      "creator": "JoEllen Elam Conway / Firefly Path",
+      "source_url": "https://fireflypath.com/products/ghost-lily-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0647/6958/9498/files/ghostlily1.jpg?v=1786723762",
+      "resolution": {
+        "width": 1000,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White draped gown carries diagonal sparkling vines, bead drops and long sheer sleeves, with soft asymmetric overlaps instead of rigid panels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "FA04",
+      "artifact_id": "fireflypath.com:sacred-blossom-gown-one-of-a-kind-copy",
+      "title": "Vaelis Gown | One-of-a-kind",
+      "creator": "JoEllen Elam Conway / Firefly Path",
+      "source_url": "https://fireflypath.com/products/sacred-blossom-gown-one-of-a-kind-copy",
+      "media_url": "https://cdn.shopify.com/s/files/1/0647/6958/9498/files/elf15.jpg?v=1769579602",
+      "resolution": {
+        "width": 1000,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Smooth white satin column, small shoulder filigree and long draped sleeves are an elven bridal boundary, insufficient alone to define Fairycore."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA05",
+      "artifact_id": "fireflypath.com:crystal-web-hair-chain",
+      "title": "Butterfly Crystal Chain Headpiece",
+      "creator": "JoEllen Elam Conway / Firefly Path",
+      "source_url": "https://fireflypath.com/products/crystal-web-hair-chain",
+      "media_url": "https://cdn.shopify.com/s/files/1/0647/6958/9498/files/butterflychain7.jpg?v=1759006035",
+      "resolution": {
+        "width": 1000,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Silver crystal strands form nested scallops and vertical drops against dark hair; tiny bright points and open intervals create a light web rather than a solid crown."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA06",
+      "artifact_id": "fireflypath.com:princess-bow-wings",
+      "title": "Princess Bow Wings",
+      "creator": "JoEllen Elam Conway / Firefly Path",
+      "source_url": "https://fireflypath.com/products/princess-bow-wings",
+      "media_url": "https://cdn.shopify.com/s/files/1/0647/6958/9498/files/Screenshot2023-11-18at11.28.25AM.png?v=1700336108",
+      "resolution": {
+        "width": 1034,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Huge translucent bow forms two pleated fan wings with long sheer tails and a central gathered knot; pale blue illumination emphasizes ribbed membranes."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA07",
+      "artifact_id": "fireflypath.com:ethereal-wispy-sleeves",
+      "title": "Ethereal Wispy Sleeves",
+      "creator": "JoEllen Elam Conway / Firefly Path",
+      "source_url": "https://fireflypath.com/products/ethereal-wispy-sleeves",
+      "media_url": "https://cdn.shopify.com/s/files/1/0647/6958/9498/files/pearlydropsleeves7logo.jpg?v=1760025067",
+      "resolution": {
+        "width": 1080,
+        "height": 1350
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Ivory transparent sleeves hang in irregular pointed layers from pearl-and-metal armbands; thin rolled borders preserve lightness and open space."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA08",
+      "artifact_id": "fireflypath.com:crystal-vine-circlet",
+      "title": "Crystal Vine Circlet",
+      "creator": "JoEllen Elam Conway / Firefly Path",
+      "source_url": "https://fireflypath.com/products/crystal-vine-circlet",
+      "media_url": "https://cdn.shopify.com/s/files/1/0647/6958/9498/files/crystalcirclet6.jpg?v=1692892225",
+      "resolution": {
+        "width": 1371,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Narrow silver vine circlet has tiny leaf clusters and a central dangling clear crystal, contrasting fine branching against broad transparent fabric."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA09",
+      "artifact_id": "fireflypath.com:ivy-bridal-gown",
+      "title": "Ivy Bridal Gown",
+      "creator": "JoEllen Elam Conway / Firefly Path",
+      "source_url": "https://fireflypath.com/products/ivy-bridal-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0647/6958/9498/files/ivygown17.jpg?v=1788732062",
+      "resolution": {
+        "width": 995,
+        "height": 1333
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White pointed bodice, floating sleeves and leafy green lower-skirt border join an airy upper body to a grounded botanical hem."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA10",
+      "artifact_id": "fireflypath.com:sage-green-ombre-silk-elven-cape-100-silk",
+      "title": "Sage Green Ombre Silk Elven Cape 100% Silk",
+      "creator": "JoEllen Elam Conway / Firefly Path",
+      "source_url": "https://fireflypath.com/products/sage-green-ombre-silk-elven-cape-100-silk",
+      "media_url": "https://cdn.shopify.com/s/files/1/0647/6958/9498/files/elvenbridalcape.jpg?v=1692894125",
+      "resolution": {
+        "width": 700,
+        "height": 1050
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Olive chiffon gathers into a narrow decorated neck; open shoulders and translucent side swags create wing-like negative spaces over a darker skirt."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA11",
+      "artifact_id": "fancy:ariana",
+      "title": "Ariana Sage Lavender Copper",
+      "creator": "Angela Jarman / Fancy Fairy Wings & Things",
+      "source_url": "https://www.fancyfairy.com/news",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/577090f2579fb3131649c2eb/15cec3d3-7842-4042-a763-408c9e6ca42d/ArianaSageLavCpr_2210.png",
+      "resolution": {
+        "width": 1400,
+        "height": 1228
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Long pointed upper wings and smaller scalloped lower panels use copper branching veins, pale green transparent membranes and lavender eye spots; open intervals separate panels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA12",
+      "artifact_id": "fancy:elora",
+      "title": "Elora Dark Crystal Black",
+      "creator": "Angela Jarman / Fancy Fairy Wings & Things",
+      "source_url": "https://www.fancyfairy.com/news",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/577090f2579fb3131649c2eb/29116265-980e-4d01-b2c5-534de8583a4e/EloraDrkCrstlBlk_2222.png",
+      "resolution": {
+        "width": 1400,
+        "height": 1400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black branching veins divide blue-violet iridescent panels; long curled lower tails and separated scallops preserve a sharp dark variant of fairy delicacy."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA13",
+      "artifact_id": "fancy:angeline",
+      "title": "Angeline Dragon Fire Copper",
+      "creator": "Angela Jarman / Fancy Fairy Wings & Things",
+      "source_url": "https://www.fancyfairy.com/news",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/577090f2579fb3131649c2eb/7be25f25-19f9-46b7-8393-87f1039e769d/AngelineDFireCpr_2228.png",
+      "resolution": {
+        "width": 1400,
+        "height": 1211
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Copper veins bound yellow-orange transparent panels; upward antenna-like tips and deep organic cutouts create a warm luminous variant beyond pastel pink."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA14",
+      "artifact_id": "fancy:lilian",
+      "title": "Lilian Blush Silver",
+      "creator": "Angela Jarman / Fancy Fairy Wings & Things",
+      "source_url": "https://www.fancyfairy.com/news",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/577090f2579fb3131649c2eb/ef40ecda-790e-4690-a14d-dc4d8c30357d/LilianBlushSilvr_2216.png",
+      "resolution": {
+        "width": 1400,
+        "height": 1354
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Elongated pointed upper panels meet smaller pink feather-like lower scallops; fine silver branching lines and transparent intervals carry the design."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA15",
+      "artifact_id": "fancy:titania",
+      "title": "Titania Grand",
+      "creator": "Angela Jarman / Fancy Fairy Wings & Things",
+      "source_url": "https://www.fancyfairy.com/news",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/577090f2579fb3131649c2eb/35c97bbd-9678-4829-ac58-4ffcc56a8fb6/TtianiaGrandSide1.jpg",
+      "resolution": {
+        "width": 866,
+        "height": 1300
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large pale transparent wing has gold branching ribs, curled tips and a long inward spiral tail, with broad membrane areas between thin supports."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA16",
+      "artifact_id": "fancy:verena",
+      "title": "Verena Clear Black",
+      "creator": "Angela Jarman / Fancy Fairy Wings & Things",
+      "source_url": "https://www.fancyfairy.com/news",
+      "media_url": "https://images.squarespace-cdn.com/content/v1/577090f2579fb3131649c2eb/a6af4ff6-3b44-4f9d-87b0-b2a424236712/VerenaClearBlack_2197.png",
+      "resolution": {
+        "width": 1400,
+        "height": 1318
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black sinuous ribs bound a pale yellow transparent wing with irregular scallops and tall pointed tops; a simple two-wing silhouette differs from separated Elora panels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA17",
+      "artifact_id": "www.teutamatoshi.com:butterfly-bow-gown",
+      "title": "Butterfly Bow Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/butterfly-bow-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2025-04-28at12.53.29PM.jpg?v=1745931664",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pastel floral translucent fabric forms wide tied shoulder bows above a wrapped neckline and narrow waist; raised butterflies interrupt the printed botanical pattern."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA18",
+      "artifact_id": "www.teutamatoshi.com:butterfly-balloon-gown",
+      "title": "Butterfly Balloon Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/butterfly-balloon-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2025-04-28at12.11.46PM_1.jpg?v=1745931562",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream net with muted floral print and raised butterflies forms large balloon sleeves around a boned sweetheart bodice; vertical seams contrast with soft sleeve volume."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA19",
+      "artifact_id": "www.teutamatoshi.com:fairy-blossom-gown",
+      "title": "Fairy Blossom Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/fairy-blossom-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2025-02-03at11.43.44AM.jpg?v=1738586913",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Lavender sheer high-neck gown has short puff sleeves, beaded droplets and raised butterfly forms scattered down an expanding skirt, with a defined waist beneath transparent upper net."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "FA20",
+      "artifact_id": "www.teutamatoshi.com:illusion-garden-bliss-gown",
+      "title": "Illusion Garden Bliss Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/illusion-garden-bliss-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2024-10-28at1.38.54PM_1.jpg?v=1730197549",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White bridal boning and dense transparent floral lace extend to a high neck and pointed shoulders; this demonstrates that botanical luxury alone can remain bridal/Princesscore rather than defining Fairycore."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA21",
+      "artifact_id": "www.teutamatoshi.com:fairyland-fantasy-gown",
+      "title": "Fairyland Fantasy Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/fairyland-fantasy-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/CB874154-440A-4AF6-A8DA-919B1207F5A0.jpg?v=1708072645",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink fine net has scattered small flowers and butterflies above a densely botanical waist, with leaves cascading outward onto an airy skirt and a thin dark-green bow."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA22",
+      "artifact_id": "www.teutamatoshi.com:lavender-petal-dreamy-gown",
+      "title": "Lavender Petal Dreamy Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/lavender-petal-dreamy-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/E84C1C17-84CA-4AF0-B0A3-EC621A6EE410.jpg?v=1706174674",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Raised lavender petals and small reflective centers cover transparent fabric; irregular petal edges, open upper-arm spaces and a split layered skirt soften the formal V-neck silhouette."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA23",
+      "artifact_id": "www.teutamatoshi.com:garden-of-grace-couture-gown",
+      "title": "Garden of Grace Couture Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/garden-of-grace-couture-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/62F1A56B-16A3-45C0-9D18-319ED4196D10.jpg?v=1705579213",
+      "resolution": {
+        "width": 1284,
+        "height": 1579
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gray-green sheer gown has branching silver beadwork, raised leaves and flowers, transparent sleeves and a tied narrow waist; darker muted coloration preserves light botanical construction."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "FA24",
+      "artifact_id": "www.teutamatoshi.com:whimsical-flora-gown",
+      "title": "Whimsical Flora Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/whimsical-flora-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/image_53733c65-746c-4e87-9517-9a844d4f67de.jpg?v=1682578308",
+      "resolution": {
+        "width": 3004,
+        "height": 3772
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream floral net and puff sleeves with a green belt evoke a garden dress; without wings or transformed fantasy structure this is a useful Cottagecore-adjacent boundary example."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA25",
+      "artifact_id": "www.costureroreal.es:moth-wings-butterfly-cecropia-cape-fairy-cloak-red-and-black-costume-adult-bridal-fairy-handfasting",
+      "title": "Alas de mariposa Cecropia en gasa roja y negra",
+      "creator": "Costurero Real",
+      "source_url": "https://www.costureroreal.es/products/moth-wings-butterfly-cecropia-cape-fairy-cloak-red-and-black-costume-adult-bridal-fairy-handfasting",
+      "media_url": "https://cdn.shopify.com/s/files/1/0883/3630/2421/files/il_fullxfull.6279719614_nb01.jpg?v=1793796109",
+      "resolution": {
+        "width": 1000,
+        "height": 667
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black wing cape has red bands, blue accents and pale scalloped edges; wide transparent spans connect body and arms in a woodland setting."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA26",
+      "artifact_id": "www.costureroreal.es:blue-butterfly-fairy-cape-cloak-bucleye-blue-and-pink-dance-wings-costume-adult-halloween-butterfly-wings-1",
+      "title": "Alas de mariposa Buckeye azul y rosa en gasa",
+      "creator": "Costurero Real",
+      "source_url": "https://www.costureroreal.es/products/blue-butterfly-fairy-cape-cloak-bucleye-blue-and-pink-dance-wings-costume-adult-halloween-butterfly-wings-1",
+      "media_url": "https://cdn.shopify.com/s/files/1/0883/3630/2421/files/il_fullxfull.6951131962_9lfu_5508ae0f-b4b1-4d16-a188-576b68606ee6.jpg?v=1793795783",
+      "resolution": {
+        "width": 1000,
+        "height": 667
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue/pink Buckeye cape has large ringed eye spots and softly scalloped edges, expanding as a broad arm-span membrane in a garden setting."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA27",
+      "artifact_id": "www.costureroreal.es:bat-wings-chiffon-cape-halloween-costume-goth-fairy-wings",
+      "title": "Bat Wings Chiffon Cape: Halloween Costume, Goth Fairy Wings",
+      "creator": "Costurero Real",
+      "source_url": "https://www.costureroreal.es/products/bat-wings-chiffon-cape-halloween-costume-goth-fairy-wings",
+      "media_url": "https://cdn.shopify.com/s/files/1/0883/3630/2421/files/il_fullxfull.1104805251_8mf4.jpg?v=1790098647",
+      "resolution": {
+        "width": 1000,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Transparent brown-gray bat cape uses pointed scallops, long branching ribs and a black formal outfit; creator labels this a Goth Fairy hybrid, a darker edge rather than the central woodland model."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA28",
+      "artifact_id": "www.costureroreal.es:butterfly-wings-cape-fairycore-costume-shawl-chiffon-nymph-black-and-white-butterfly",
+      "title": "Alas de Mariposa Gigantes Nymph",
+      "creator": "Costurero Real",
+      "source_url": "https://www.costureroreal.es/products/butterfly-wings-cape-fairycore-costume-shawl-chiffon-nymph-black-and-white-butterfly",
+      "media_url": "https://cdn.shopify.com/s/files/1/0883/3630/2421/files/il_fullxfull.1736257664_byoh.jpg?v=1787218873",
+      "resolution": {
+        "width": 667,
+        "height": 1000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black and white Nymph cape has large translucent cells bounded by bold branching veins and dotted scalloped edges, showing a monochrome woodland variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA29",
+      "artifact_id": "www.costureroreal.es:blue-morpho-butterfly-wings-cape-chiffon-festival-scarf",
+      "title": "Capa Alas de Mariposa Morpho Azul \u00b7 Peque\u00f1as",
+      "creator": "Costurero Real",
+      "source_url": "https://www.costureroreal.es/products/blue-morpho-butterfly-wings-cape-chiffon-festival-scarf",
+      "media_url": "https://cdn.shopify.com/s/files/1/0883/3630/2421/files/il_fullxfull.2343455298_rj2z.jpg?v=1787136684",
+      "resolution": {
+        "width": 1099,
+        "height": 1000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small blue Morpho cape spreads from shoulder to hand with narrow branching veins and dark scalloped margins; broad luminous blue areas replace eye-spot decoration."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA30",
+      "artifact_id": "www.costureroreal.es:monarch-butterfly-wings-cape-chiffon-fairy-festival-costume",
+      "title": "Alas de Mariposa Monarca Gigantes",
+      "creator": "Costurero Real",
+      "source_url": "https://www.costureroreal.es/products/monarch-butterfly-wings-cape-chiffon-fairy-festival-costume",
+      "media_url": "https://cdn.shopify.com/s/files/1/0883/3630/2421/files/il_fullxfull.1076393907_lqzh.jpg?v=1787136568",
+      "resolution": {
+        "width": 1000,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Giant orange Monarch cape spreads into paired lobes; heavy black veins and a white-dotted dark rim contrast with translucent orange cells and the waterfall woodland setting."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA31",
+      "artifact_id": "www.costureroreal.es:luna-moth-chiffon-cape-adult-dance-wings-burning-man-costume",
+      "title": "Alas de Polilla Luna Gigantes",
+      "creator": "Costurero Real",
+      "source_url": "https://www.costureroreal.es/products/luna-moth-chiffon-cape-adult-dance-wings-burning-man-costume",
+      "media_url": "https://cdn.shopify.com/s/files/1/0883/3630/2421/files/il_fullxfull.6242392876_8lv1.jpg?v=1787136051",
+      "resolution": {
+        "width": 998,
+        "height": 1375
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale green Luna cape has reddish branching veins, gold eye spots and long pointed lower tails, combining soft translucent field with a distinct insect silhouette."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA32",
+      "artifact_id": "www.costureroreal.es:fairy-wings-cape-cicada-costume-festival-clothing",
+      "title": "Capa Alas de Cigarra \u00b7 Peque\u00f1as",
+      "creator": "Costurero Real",
+      "source_url": "https://www.costureroreal.es/products/fairy-wings-cape-cicada-costume-festival-clothing",
+      "media_url": "https://cdn.shopify.com/s/files/1/0883/3630/2421/files/il_fullxfull.3263199458_2ihc.jpg?v=1787136303",
+      "resolution": {
+        "width": 1080,
+        "height": 1350
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Near-clear Cicada wings show dark branching ribs behind a white flowing gown and floral headpiece; the membrane is visible chiefly through its thin skeletal outline."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FA33",
+      "artifact_id": "www.costureroreal.es:moth-wing-costume-cape-festival-fairy-wings-clothing",
+      "title": "Alas de Polilla Emperador Gigantes",
+      "creator": "Costurero Real",
+      "source_url": "https://www.costureroreal.es/products/moth-wing-costume-cape-festival-fairy-wings-clothing",
+      "media_url": "https://cdn.shopify.com/s/files/1/0883/3630/2421/files/il_fullxfull.946873940_aa7h.jpg?v=1787136062",
+      "resolution": {
+        "width": 1000,
+        "height": 667
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Broad Emperor moth cape has cream-gray banding, four dark eye spots and softly scalloped symmetrical lobes; muted earth tones preserve the fantasy wing structure without bright pastels."
+        }
+      ]
+    }
+  ]
+}

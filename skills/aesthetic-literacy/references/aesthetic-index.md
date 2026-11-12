@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 296
+- Full entries: 311
 - Redirect entries: 1
 - Families: 8
 
@@ -26,14 +26,21 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `dark-academia` | Dark Academia | academic gothic, scholastic gothic |
 | `deconstructed-fashion` | Deconstructed Fashion | deconstruction fashion, deconstructivist fashion, deconstructed tailoring |
 | `decora-kei` | Decora Kei | decora, Harajuku decora, decora fashion, kawaii accessory stacking, decorative kei |
+| `fairycore` | Fairycore | Fairy core, Enchanted woodland aesthetic |
 | `folk-horror-pastoral` | Folk Horror Pastoral | folk horror, uncanny pastoral |
 | `goblincore` | Goblincore | mushroomcore, mosscore, dirtcore-adjacent |
 | `gorpcore` | Gorpcore | outdoorswear streetwear, trail utility fashion, hikingcore-adjacent |
+| `ivy-league-prep` | Ivy League Prep | Ivy style, Ivy League look |
 | `kidcore` | Kidcore | kid core, kidcore aesthetic |
 | `magical-girl` | Magical Girl | mahou shoujo, magical heroine, transformation heroine aesthetic |
 | `maximalism` | Maximalism | more is more, decorative abundance |
+| `mermaidcore` | Mermaidcore | Mermaid core, Mermaid aesthetic |
 | `nu-goth-pastel-goth` | Nu-Goth / Pastel Goth | nu goth, pastel goth, modern goth fashion |
+| `palm-beach-prep` | Palm Beach Prep | Palm Beach preppy, print-led resort prep |
+| `piratecore` | Piratecore | pirate aesthetic, swashbuckler aesthetic |
+| `princesscore` | Princesscore | Princess core, Fairytale princess aesthetic |
 | `storybook-spooky-cute` | Storybook Spooky Cute | spooky cute, friendly Halloween storybook |
+| `vampire-goth` | Vampire Goth | Vamp goth, Vampire romantic goth |
 | `warm-minimalism` | Warm Minimalism / Quiet Luxury | quiet luxury, warm minimal, stealth wealth, silent luxury, clean girl aesthetic, calm interface |
 | `whimsigothic` | Whimsigothic | Whimsigoth, Whimsical Mystical Gothic Celestial, Whimsy Goth |
 | `witchcore` | Witchcore | witch aesthetic, occult cottage, modern witch aesthetic |
@@ -45,6 +52,8 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `8-bit-pixel` | 8-Bit / Pixel Aesthetic | pixel art, 8-bit, CGA aesthetic, pixel aesthetic |
 | `88x31-badge-webring` | 88×31 Badge & Webring Culture | 88x31 button, web badge, webring, 88x31 badge |
 | `ai-slop-synthetic-corporate-art` | AI Slop / Synthetic Corporate Art | AI slop, synthetic corporate art, AI-generated corporate illustration |
+| `aim-classic-instant-messenger` | AIM / Classic Instant Messenger | Classic AIM, AOL Instant Messenger aesthetic |
+| `aol-channel-desktop` | AOL Channel Desktop | America Online channel aesthetic |
 | `browser-chrome-netscape` | Browser Chrome / Netscape-Era Browser UI | netscape chrome, 90s browser frame, browser chrome, throbber era |
 | `cd-rom-edutainment` | CD-ROM Edutainment Worlds | 1990s multimedia learning worlds, Illustrated CD-ROM learning interfaces |
 | `classic-ray-traced-cgi` | Classic Ray-Traced CGI | classic raytracing, early ray-traced CGI, POV-Ray-era CGI |
@@ -61,6 +70,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `early-internet` | Early Internet / Web 1.0 | webcore |
 | `early-video-sharing-channels` | Early Video-Sharing Channels | custom YouTube channel skins, early video channel vernacular |
 | `early-web-pet-portals` | Early Web Pet Portals | classic virtual-pet portals, web pet community interfaces, browser pet portals |
+| `flash-portal-vernacular` | Flash Portal Vernacular | Flash game portal aesthetic, Flash animation portal aesthetic |
 | `flat-design` | Flat Design | flat UI, metro-inspired, Flat 2.0 |
 | `frutiger-aero` | Frutiger Aero | — |
 | `glitch` | Glitch / Datamosh | — |
@@ -78,6 +88,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `palm-os-monochrome` | Palm OS Monochrome | PalmPilot monochrome UI, Classic Palm OS monochrome interface |
 | `pastel-slideshow-activism` | Pastel Slideshow Activism | pastel Instagram explainers, pastel social-justice carousels |
 | `personal-homepage-builder` | Personal Homepage Builder / Site-Builder Wizard | site builder wizard, GeoCities PageBuilder, homepage builder UI, WYSIWYG web editor |
+| `psychonaut-vault-web` | Psychonaut Vault Web | psychedelic reference vault web, psychonaut archive web |
 | `seapunk` | Seapunk | Sea punk |
 | `short-form-social-video-ui` | Short-Form Social Video UI | vertical social video interfaces, short-video feed vernacular |
 | `skate-video-vhs-fisheye` | Skate Video VHS / Fisheye Title Cards | skate video aesthetic, VX1000 fisheye, VHS skate video, skate title cards |
@@ -185,6 +196,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `wabi-sabi-slow-living` | Wabi-Sabi / Slow Living | wabi-sabi, slow living aesthetic, wabi-cha |
 | `wartime-propaganda` | Wartime Propaganda Poster Design | WWII Propaganda, Propaganda Poster, War Poster Design |
 | `wpa-poster-style` | WPA Poster Style | WPA Posters, Federal Art Project style, WPA silkscreen |
+| `wunderkammer` | Wunderkammer / Cabinets of Curiosities | Cabinet of curiosities, Kunst- und Wunderkammer |
 
 ## material-print-craft
 
@@ -199,6 +211,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `british-postwar-textile-abstraction` | British Postwar Textile Abstraction | British postwar abstract textiles |
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
+| `dungeon-synth` | Dungeon Synth Sleeve Culture | dungeon synth sleeve aesthetic |
 | `ebru` | Ebru | Turkish paper marbling, Turkish marbling, ebru art |
 | `edo-yokai-woodblock` | Edo Yōkai Woodblock | Edo supernatural woodblock, Edo yōkai prints |
 | `emo` | Emo | Emo Record Graphics, Emo Sleeve Design |
@@ -273,6 +286,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `cheminformatics-map-explorer` | Cheminformatics Map Explorer | chemical space explorer, cheminformatics explorer, molecule map UI |
 | `chladni-resonance-patterns` | Chladni Resonance Patterns | Chladni figures, Chladni plate patterns |
 | `corn-maze-wayfinding` | Corn Maze Wayfinding | corn maze map, harvest maze signage |
+| `cubicle-era-groupware` | Cubicle-Era Groupware | classic office groupware, legacy corporate groupware UI |
 | `engraved-celestial-atlas` | Engraved Celestial Atlas | Engraved star atlas |
 | `entomological-specimen-drawers` | Entomological Specimen Drawers | Pinned insect collection drawers, Entomological collection trays |
 | `european-heraldic-design` | European Heraldic Design | European armorial design |
@@ -331,6 +345,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `mexican-rotulismo` | Mexican Rotulismo | Mexican Rótulos, rotulismo mexicano, Mexican rotulos, rótulo vernacular, hand-painted Mexican signs |
 | `model-comp-cards` | Model Comp Cards | model composite cards, model sedcards, model z-cards, model zed cards |
 | `nagel-era-fashion-illustration` | Nagel-era Fashion Illustration | Nagel illustration, Nagel poster aesthetic, 1980s planar fashion illustration |
+| `new-age-dolphin-fantasy` | New Age Dolphin Fantasy | cosmic dolphin fantasy, visionary dolphin art aesthetic |
 | `pakistani-truck-art` | Pakistani Truck Art | Pakistan Truck Art, Pakistani Truck Painting |
 | `pinball-backglass` | Pinball Backglass | Pinball backglass graphics, Electromechanical pinball backglass |
 | `plant-based-challenger-graphics` | Plant-Based Challenger Graphics | Plant-based challenger branding, Vegan challenger graphics |

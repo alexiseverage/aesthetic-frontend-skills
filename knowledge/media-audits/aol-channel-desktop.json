@@ -1,0 +1,781 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 21,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO01",
+      "artifact_id": "wright:aol2-signon",
+      "title": "AOL 2.0 sign-on image sequence, designer presentation",
+      "creator": "Jeff Wright / AOL",
+      "source_url": "https://jeffwright.com/work/article_view.php?article=early-days-at-aol",
+      "media_url": "https://jeffwright.com/work/articles/early-days-at-aol/cover.png",
+      "resolution": {
+        "width": 419,
+        "height": 282
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "One authored sign-on suite presents a golden key, blue electrical connection and gold AOL emblem in three inset dark-blue star fields on pale mottled stone. Small light/dark double edges make each panel appear recessed. This is a designer-composed presentation of sequence frames, one work; no timing is visible."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO02",
+      "artifact_id": "poynor:aol-channel-art-for-the-sharper-image",
+      "title": "Aol Channel Art For The Sharper Image",
+      "creator": "Dan Poynor / AOL",
+      "source_url": "https://danpoynor.com/portfolio/project-details/aol-channel-art-for-the-sharper-image/index.html",
+      "media_url": "https://danpoynor.com/static/portfolio/images/content/aol-channel-art-for-the-sharper-image.webp",
+      "resolution": {
+        "width": 550,
+        "height": 330
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "The authored channel screen overlays purple-gray marble slabs, high-contrast beveled rectangular buttons and condensed white capitals on a product-photo edge strip. A small special-offer module and keyword footer share the fixed rectangular composition. This is partner-specific art, not universal AOL chrome."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO03",
+      "artifact_id": "poynor:aol-channels-screen",
+      "title": "Aol Channels Screen",
+      "creator": "Dan Poynor / AOL",
+      "source_url": "https://danpoynor.com/portfolio/project-details/aol-channels-screen/index.html",
+      "media_url": "https://danpoynor.com/static/portfolio/images/content/aol-america-online-channels-screen-720x432.webp",
+      "resolution": {
+        "width": 720,
+        "height": 432
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "The designer identifies this as an unreleased iteration. Three columns of purple silver beveled image-plus-label channel buttons use dense bold sans text, pale speckled ground, oval Find control and bottom utility row. This establishes a prototype variant, not the released channel layout."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO04",
+      "artifact_id": "poynor:aol-family-computing-channel",
+      "title": "Aol Family Computing Channel",
+      "creator": "Dan Poynor / AOL",
+      "source_url": "https://danpoynor.com/portfolio/project-details/aol-family-computing-channel/index.html",
+      "media_url": "https://danpoynor.com/static/portfolio/images/content/aol-family-computing-channel.webp",
+      "resolution": {
+        "width": 1092,
+        "height": 717
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A dark woven-metal masthead with magenta oval handwritten title sits above six purple-framed photographic category buttons, a black tip rail and large white bordered listbox. Native utility space and saturated partner illustration occupy distinct regions; photo people are research evidence only."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO05",
+      "artifact_id": "poynor:aol-live-channel",
+      "title": "Aol Live Channel",
+      "creator": "Dan Poynor / AOL",
+      "source_url": "https://danpoynor.com/portfolio/project-details/aol-live-channel/index.html",
+      "media_url": "https://danpoynor.com/static/portfolio/images/content/aol-live-channel-01-720x432.webp",
+      "resolution": {
+        "width": 720,
+        "height": 432
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "The event guide uses burgundy curtains, white oval spotlight pools, blue extruded lettering and small 3D prop icons. A related Today\u2019s Live Events view replaces the hero photograph with a recessed white native listbox, pixel item icons, arrow scrollbar and double-click instruction. Both inspected 720\u00d7432 views are one independently branded channel design. Footer keeps Channels, Member Services, Find and Keyword: Live."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO06",
+      "artifact_id": "poynor:aol-travel-channel",
+      "title": "Aol Travel Channel",
+      "creator": "Dan Poynor / AOL",
+      "source_url": "https://danpoynor.com/portfolio/project-details/aol-travel-channel/index.html",
+      "media_url": "https://danpoynor.com/static/portfolio/images/content/aol-travel-channel-720x432.webp",
+      "resolution": {
+        "width": 720,
+        "height": 432
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A lavender metal masthead carries four circular clock-like utility buttons, then three wide raised tabs. A train-station photo underlays promotional text rows; right-side travel-store and deals buttons use heavy bevels. The bottom keyword and utility rail remains distinct. Visible Promo Text Goes Here makes the preserved screen a design template, not evidence of final content."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO07",
+      "artifact_id": "poynor:aol-the-sporting-news-channel-screens",
+      "title": "Aol The Sporting News Channel Screens",
+      "creator": "Dan Poynor / AOL",
+      "source_url": "https://danpoynor.com/portfolio/project-details/aol-the-sporting-news-channel-screens/index.html",
+      "media_url": "https://danpoynor.com/static/portfolio/images/content/aol-the-sporting-news-01-main-menu-screen-720x432.webp",
+      "resolution": {
+        "width": 720,
+        "height": 432
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A red blackletter publication masthead and cartoon fly occupy a white main panel; blue blocks structure central action buttons and four image-plus-label sports categories. A photo/news rail, triangular bullets and shared dark-blue utilities/keyword footer mix editorial content with application navigation. Placeholder dynamic text shows the preserved template stage."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO08",
+      "artifact_id": "poynor:aol-netscape",
+      "title": "AOL Netscape Navigator integration channel design",
+      "creator": "Dan Poynor / AOL",
+      "source_url": "https://danpoynor.com/portfolio/project-details/aol-netscape-navigator-screen/index.html",
+      "media_url": "https://danpoynor.com/static/portfolio/images/content/aol-netscape-navigator-integration.webp",
+      "resolution": {
+        "width": 1200,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Dark blue star field, a large globe and lens flare carry an internet-onboarding page. Small shaded sphere bullets, a framed wheel illustration and a cyan-white download prompt are arranged over the artwork; the shared Internet Connection / Member Services / Find footer provides utility navigation. This is a promotional channel surface, not the browser UI itself."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO09",
+      "artifact_id": "aol:dos1",
+      "title": "AOL 1.0 DOS login",
+      "creator": "AOL / preserved by WinWorld",
+      "source_url": "https://winworldpc.com/product/aol/10",
+      "media_url": "https://winworldpc.com/res/img/screenshots/6062aaf9285ef256f82dd780cbfb1bb26accf622bf5b3ec08b7f59021ccadc9c.png",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A gray desktop contains a centered nested sign-on dialog. White top-left and dark bottom-right thin edges, a screen-name field with triangle step controls, three compact raised buttons and a gold logo provide the hierarchy. Its restrained gray early-client variant limits any claim that every AOL screen was saturated blue."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO10",
+      "artifact_id": "aol:win3",
+      "title": "AOL 3.0 Windows login",
+      "creator": "AOL / preserved by WinWorld",
+      "source_url": "https://winworldpc.com/product/aol/30",
+      "media_url": "https://winworldpc.com/res/img/screenshots/9f194b8570df1ea5819d0e630392ca16df5f8bba1d20654cf492a5a2994aa2ff.png",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An icon-heavy gray menu/toolbar spans the top of a white desktop, with cobalt active title strips. The sign-on window has a dithered blue texture strip beside a clean white logo-and-form area, a cobalt-selected screen-name dropdown and three chunky gray setup/help/sign-on buttons. Small native controls and promotional texture coexist."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO11",
+      "artifact_id": "aol:win2.5",
+      "title": "AOL 2.5 Windows mail and menu",
+      "creator": "AOL / preserved by WinWorld",
+      "source_url": "https://winworldpc.com/product/aol/20",
+      "media_url": "https://winworldpc.com/res/img/screenshots/7dae5b1a7ad1620218b0e7904b70a3b517b15bd769667717341aedeaeb69228e.png",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "The complete mail composition view combines cobalt title strips, compact outlined toolbar icon squares, white fields with arrow scrollbars, bold To/Subject labels and an icon-plus-label vertical action rail. A supplemental 640\u00d7480 Go To menu view shows thin black separators, keyboard shortcuts, a cobalt highlighted row and gray disabled commands. Both views belong to one release, counted once."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO12",
+      "artifact_id": "aol:mac3uk",
+      "title": "AOL 3.0i UK Mac channel desktop, captured 2015",
+      "creator": "AOL / InvisibleUp",
+      "source_url": "https://invisibleup.com/articles/4/",
+      "media_url": "https://invisibleup.com/articles/4/10.png",
+      "resolution": {
+        "width": 627,
+        "height": 375
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A warm orange slanted channel field uses independently styled oval tabs with cast shadows, arranged as an irregular directory rather than uniform cards. Deep-blue corners carry Find and Welcome. A supplemental 303\u00d7331 login has matching yellow/orange gradients, a native striped title bar, plain dropdown fields and raised yellow buttons. The 2015 preservation capture does not date every server-delivered channel graphic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO13",
+      "artifact_id": "aol:win4",
+      "title": "AOL 4.0 Windows desktop, captured 2015",
+      "creator": "AOL / InvisibleUp",
+      "source_url": "https://invisibleup.com/articles/4/",
+      "media_url": "https://invisibleup.com/articles/4/1.png",
+      "resolution": {
+        "width": 640,
+        "height": 456
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A blue multicolor icon-plus-label toolbar spans the desktop over a keyword/address row. The sign-on dialog splits a narrow blue brand rail from a pale form pane, with large whitespace and small shadowed blue actions. A supplemental 716\u00d7445 welcome view shows stale 2000s content, pale rounded blue links, several editorial columns, tiny underlined text links and a search strip. Do not misdate that welcome content to 1998."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO14",
+      "artifact_id": "aol:mac4",
+      "title": "AOL 4.0 Mac channel desktop, captured 2015",
+      "creator": "AOL / InvisibleUp",
+      "source_url": "https://invisibleup.com/articles/5/",
+      "media_url": "https://invisibleup.com/articles/5/2.png",
+      "resolution": {
+        "width": 543,
+        "height": 341
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "The cream channel directory has a native striped title and two-column multicolor beveled image-label strips beside a logo/search rail. Each channel keeps distinct type and pictorial treatment. A supplemental 800\u00d7601 sign-on desktop shows native Mac controls and a color-block icon toolbar, distinguishing the platform variant from Windows while preserving the portal structure."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO15",
+      "artifact_id": "aol:kids-only-channel",
+      "title": "Kids Only channel",
+      "creator": "AOL; individual designers unverified",
+      "source_url": "https://invisibleup.com/articles/5/",
+      "media_url": "https://invisibleup.com/articles/5/4.png",
+      "resolution": {
+        "width": 743,
+        "height": 441
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A distinct youth-channel composition uses yellow cream and cyan organic background fields, a glossy blue left navigation stack, a central radio-button poll and an editorial right rail. Enlarged irregular multicolor heading letters differ from the surrounding native Mac title bar. Captured in 2015 with stale channel content; original design date is not established."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO16",
+      "artifact_id": "ant:nintendo-fortress",
+      "title": "ANT for Kids / Nintendo Fortress channel",
+      "creator": "ANT / AOL; individual designers unverified",
+      "source_url": "https://invisibleup.com/articles/5/",
+      "media_url": "https://invisibleup.com/articles/5/10.png",
+      "resolution": {
+        "width": 607,
+        "height": 366
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An independently branded game channel places three white oval comic-style menu controls over green military science-fiction scenery. A native white folder list, advertisement slot and dense cross-game bottom rail coexist with ornamental title art. This channel is not the generic AOL shell and its character illustration will not be reused in the showcase."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO17",
+      "artifact_id": "aol:lighter-side-news",
+      "title": "AOL News: The Lighter Side of the News channel",
+      "creator": "AOL; individual designers unverified",
+      "source_url": "https://invisibleup.com/articles/5/",
+      "media_url": "https://invisibleup.com/articles/5/13.png",
+      "resolution": {
+        "width": 613,
+        "height": 341
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A dark cobalt editorial page wraps a yellow-framed scrolling gossip pane and cream link rail. A publication-like large serif/sans masthead, tiny square red bullets, underlined links and compact top/bottom dropdown-plus-Go navigation establish a news-section variant. Source title calls it Influence, but the actual screenshot identifies Lighter Side; retained pixel-visible identity."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO18",
+      "artifact_id": "aol:visions-channel",
+      "title": "AOL Visions photo channel",
+      "creator": "AOL; individual designers unverified",
+      "source_url": "https://invisibleup.com/articles/5/",
+      "media_url": "https://invisibleup.com/articles/5/17.png",
+      "resolution": {
+        "width": 743,
+        "height": 441
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A black photography channel uses beveled dark-metal rectangular photo frames, a large lead image with adjacent summary and a bottom thumbnail filmstrip with tiny triangle controls. The actual photo works are not individually counted; the authored channel interface is one artifact. Text is white/gray and keyword navigation remains at bottom."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO19",
+      "artifact_id": "rossi:aol-expressions",
+      "title": "AOL My Expressions / SuperBuddy icon picker desktop",
+      "creator": "Mickey Rossi / AOL Core and Client Products",
+      "source_url": "https://www.subflux.com/#case/aol",
+      "media_url": "https://www.subflux.com/assets/gallery/aol-super_buddies.jpg",
+      "resolution": {
+        "width": 1025,
+        "height": 767
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "The full desktop capture shows layered native windows, a persistent right presence rail, pale-blue rounded/inset panels, glossy category buttons, compact search fields and an icon picker inside nested My Expressions windows. Tropical desktop skin is separate from structural controls. It is one client-personalization surface, not one count per icon or window."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO20",
+      "artifact_id": "poynor:powerpac",
+      "title": "AOL PowerPac CD-ROM application",
+      "creator": "Dan Poynor / AOL",
+      "source_url": "https://danpoynor.com/portfolio/project-details/aol-powerpac-cd-interface-design/index.html",
+      "media_url": "https://danpoynor.com/static/portfolio/images/content/aol-powerpac-02-main-menu-screen.webp",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A companion CD-ROM application, not the online client: four curved image sectors use bright cyan edges over noisy blue-purple metal, with a beveled pill Custom Install action and small utility controls. Supplemental 640\u00d7480 opening GIF was inspected in one visible state: red extruded install/continue labels on purple buttons over textured logo; animation timing remains unknown. It supports ecosystem material vocabulary, not native window behavior."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AO21",
+      "artifact_id": "poynor:internet-adventure",
+      "title": "AOL Internet Adventure CD-ROM application",
+      "creator": "Dan Poynor / AOL",
+      "source_url": "https://danpoynor.com/portfolio/project-details/aol-internet-adventure-cd-rom-interface-design/index.html",
+      "media_url": "https://danpoynor.com/static/portfolio/images/content/aol-internet-adventure-cdrom-002-main-menu.webp",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A separate CD-ROM onboarding application, not the channel desktop itself, uses orbiting glossy spheres, perspective surfaces, condensed extruded type, translucent curved panels and electric lime/purple accents. Supplemental mail-section view uses red-orange bordered menu buttons and a compact bottom index. One application counted once; its cyber collage is a bounded companion variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "AO22",
+      "artifact_id": "rossi:aol-product-montage",
+      "title": "AOL case-study lead montage",
+      "creator": "Mickey Rossi / AOL",
+      "source_url": "https://www.subflux.com/#case/aol",
+      "media_url": "https://www.subflux.com/assets/portfolio/case_aol_lead.jpg",
+      "resolution": {
+        "width": 1140,
+        "height": 642
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape"
+          ],
+          "observation": "Promotional collage of many overlapping screenshots, icon sheets and brand art. Discovery context only; not an individually inspectable original interface and excluded from qualifying count."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "AO23",
+      "artifact_id": "rossi:aol-weather-contact-sheet",
+      "title": "AOL weather icon contact sheet",
+      "creator": "Mickey Rossi / AOL",
+      "source_url": "https://www.subflux.com/#case/aol",
+      "media_url": "https://www.subflux.com/assets/gallery/images_weather.jpg",
+      "resolution": {
+        "width": 718,
+        "height": 384
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape"
+          ],
+          "observation": "A grid survey of weather symbols in several scales; useful to locate icon grammar but a contact-sheet survey contributes zero qualifying artifacts. Individual underlying source icons were not separately opened."
+        }
+      ]
+    }
+  ]
+}

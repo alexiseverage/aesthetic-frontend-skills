@@ -1,0 +1,1064 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR01",
+      "artifact_id": "selkiecollection.com:the-puck-french-corset-ritz-dress",
+      "title": "The Puck French Corset Ritz",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-puck-french-corset-ritz-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LR_SELKIE_25_TASTEOFFALL663.jpg?v=1755585121",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark floral dress uses a laced open back, puff sleeves, a fitted waist, gathered rear volume and a wide frilled hem; courtly construction survives the darker print."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR02",
+      "artifact_id": "selkiecollection.com:the-ivory-antoinette-gown",
+      "title": "The Ivory Silk Organdy Antoinette Gown",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-ivory-antoinette-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LR_SELKIE_UNVEILED_HEART213_298b2a99-54d1-4eb5-8875-47d90b538dc9.jpg?v=1753232554",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Ivory gown expands into a huge skirt with stacked frill edges and cascading front drapes; a fitted central bodice and ruffled neckline organize the volume."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR03",
+      "artifact_id": "selkiecollection.com:the-ivory-symphony-gown",
+      "title": "The Ivory Silk Organdy Symphony Gown",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-ivory-symphony-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LR_SUMMERBRIDAL2026SELKIE7.jpg?v=1782242630",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Ivory gown joins short puff sleeves and a lace-edged neckline to a full skirt with diagonally cascading ruffle borders and a gathered lower tier."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR04",
+      "artifact_id": "selkiecollection.com:the-ivory-orchestra-gown",
+      "title": "The Orchestra Gown",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-ivory-orchestra-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LR_SELKIESEASIDECURE19.jpg?v=1776285572",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Long gathered sleeves, large shoulder ruffles and dense bodice ornament contrast with a broad tiered ivory skirt; edges are elaborately trimmed rather than cleanly minimal."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR05",
+      "artifact_id": "selkiecollection.com:the-pastel-buccaneer-sugarfrill-puff-dress",
+      "title": "The Seaside Cure Sugarfrill Puff Dress",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-pastel-buccaneer-sugarfrill-puff-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LR_SELKIESEASIDECURE168.jpg?v=1776748063",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue/ivory stripes form a short high-volume dress with broad sleeve flounces, lace neckline and an oversized wrapped bow across the front; mini length retains confectionary volume."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR06",
+      "artifact_id": "selkiecollection.com:the-ghost-pink-princess-maiden-gown",
+      "title": "The Princess Maiden Gown",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-ghost-pink-princess-maiden-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LR_RETURNTOINNOCENCEVICTORIAN55.jpg?v=1776292384",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale ivory-pink dress has off-shoulder puffs, long lace-edged sleeves, a narrow bodice and an enormous tiered ruffled skirt; opaque gathered volume dominates."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR07",
+      "artifact_id": "selkiecollection.com:the-blush-waltz-gown",
+      "title": "The Blush Silk Organdy Waltz Gown",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-blush-waltz-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LR_SELKIESEASIDECURE212.jpg?v=1776748203",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Very pale blush gown combines a boned center, off-shoulder ruffles and broad skirt layers, with large scalloping arcs of gathered trim along the outer skirt."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "PR08",
+      "artifact_id": "selkiecollection.com:the-monarchy-day-dress",
+      "title": "The Monarchy Day Dress",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-monarchy-day-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LR_SKCP1122P239-THEDAYDRESS.jpg?v=1770329383",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Orange butterfly print on a simple square-neck puff-sleeve day dress shows that a royal-sounding product name alone does not establish courtly Princesscore; excluded as a boundary."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "PR09",
+      "artifact_id": "selkiecollection.com:the-snowball-dress",
+      "title": "The Snowball Dress",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-snowball-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LRMONAMIECHERIEECOMM96.jpg?v=1765325829",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Slim white ribbed knit dress has fur-like cuffs, collar and hem with modern sunglasses and boots; luxury white color alone does not establish Princesscore; excluded as a boundary."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR10",
+      "artifact_id": "selkiecollection.com:the-baby-soft-heirloom-gown",
+      "title": "The Baby Soft Heirloom Gown",
+      "creator": "Selkie",
+      "source_url": "https://selkiecollection.com/products/the-baby-soft-heirloom-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2413/8101/files/LR_SKOD1725TSLRLTL--THEHEIRLOOMGOWN-BABYSOFT.jpg?v=1765577690",
+      "resolution": {
+        "width": 1600,
+        "height": 2400
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pastel pink gown has an elongated pointed bodice, puff shoulders, frilled sleeves and a split front lined with scalloping cascades; thin bows punctuate the gathered borders."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR11",
+      "artifact_id": "www.teutamatoshi.com:celestial-pearl-gown",
+      "title": "Celestial Pearl Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/celestial-pearl-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2026-06-11at1.16.45PM.jpg?v=1782126356",
+      "resolution": {
+        "width": 960,
+        "height": 1280
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Champagne gown contrasts an intricate pearl-beaded short-sleeve bodice with a broad clean satin skirt; scalloped jewelry-like loops form ordered relief above deep vertical folds."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR12",
+      "artifact_id": "www.teutamatoshi.com:cerise-queen-gown",
+      "title": "Cerise Queen Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/cerise-queen-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2026-04-03at4.03.11PM_1.jpg?v=1775255125",
+      "resolution": {
+        "width": 960,
+        "height": 1280
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Saturated red gown has off-shoulder flower details, a narrow center column and two substantial side skirt panels; rich patterned surface and formal silhouette supply a vivid royal variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR13",
+      "artifact_id": "www.teutamatoshi.com:blush-palais-gown",
+      "title": "Blush Palais Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/blush-palais-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2026-03-31at2.37.35PM.jpg?v=1774984921",
+      "resolution": {
+        "width": 960,
+        "height": 1280
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink textured gown has a strapless narrow bodice, green/pink floral appliques and large gathered side panels; deep folds emphasize volume while the central front stays smooth."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR14",
+      "artifact_id": "www.teutamatoshi.com:blush-versailles-gown",
+      "title": "Blush Versailles Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/blush-versailles-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2026-02-11at3.50.27PM_1.jpg?v=1770894820",
+      "resolution": {
+        "width": 960,
+        "height": 1280
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink gown has an off-shoulder ruffled edge, tiny pearl/flower clusters at waist and neckline, and a wide textured satin skirt with separated front folds."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR15",
+      "artifact_id": "www.teutamatoshi.com:marine-brocade-bow-gown",
+      "title": "Marine Brocade Bow Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/marine-brocade-bow-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2026-01-27at1.06.34PM.jpg?v=1769525722",
+      "resolution": {
+        "width": 2762,
+        "height": 3728
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue brocade gown has thin shoulder ties forming transparent bows, a compact boned bodice and a full gathered skirt; tonal woven texture carries richness without all-over sparkle."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR16",
+      "artifact_id": "www.teutamatoshi.com:turquoise-grandeur-gown",
+      "title": "Turquoise Grandeur Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/turquoise-grandeur-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2026-01-26at10.54.29AM.jpg?v=1769432359",
+      "resolution": {
+        "width": 2912,
+        "height": 3845
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale turquoise gown combines transparent long sleeves and neckline with dense reflective floral relief and a broad train; ornamental opacity is concentrated on bodice and skirt."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR17",
+      "artifact_id": "www.teutamatoshi.com:red-camellia-tulle-gown",
+      "title": "Red Camellia Tulle Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/red-camellia-tulle-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/4_2231df2e-7075-43f6-b736-5352292b1c39.jpg?v=1767042053",
+      "resolution": {
+        "width": 960,
+        "height": 1280
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark red tulle gown has sheer long sleeves, dense floral ornament framing the deep V neck and waist, long side bows and a sweeping smooth bell skirt."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR18",
+      "artifact_id": "www.teutamatoshi.com:carmine-floral-princess-gown",
+      "title": "Carmine Floral Princess Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/carmine-floral-princess-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/2_d7aa8446-d88e-46ad-9905-32dcf464f5fa.jpg?v=1767041437",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Carmine satin gown folds a large off-shoulder bow-like collar around the upper bodice; dark floral beadwork clusters at its narrow waist above a deeply pleated full skirt."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR19",
+      "artifact_id": "www.teutamatoshi.com:whispering-princess-gown",
+      "title": "Whispering Princess Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/whispering-princess-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/SS25015_White_15.jpg?v=1752584698",
+      "resolution": {
+        "width": 2903,
+        "height": 3871
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White satin gown has narrow straps, draped off-shoulder bands, floral neckline and waist ornaments and a full smooth skirt; reflective broad folds provide volume without printed imagery."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR20",
+      "artifact_id": "www.teutamatoshi.com:apricot-princess-gown",
+      "title": "Apricot Princess Gown",
+      "creator": "Teuta Matoshi",
+      "source_url": "https://www.teutamatoshi.com/products/apricot-princess-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/2434/7173/files/WhatsAppImage2025-02-28at11.55.37AM.jpg?v=1740743434",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Apricot net gown has a pointed pearl-studded boned bodice, small gathered drapes and raised floral shoulder and neckline edges; a voluminous layered skirt extends below the shown waist."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR21",
+      "artifact_id": "fancifuldoll.com:after-the-veil-amorette-gown",
+      "title": "After the Veil Amorette Gown",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/after-the-veil-amorette-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/AftertheVeilAmoretteGown_008.jpg?v=1793901856",
+      "resolution": {
+        "width": 3369,
+        "height": 5053
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark green/yellow floral gown uses broad tiered flounces, a fitted boned bodice and small off-shoulder puffs; exaggerated gathered volume persists in a dark romantic palette."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR22",
+      "artifact_id": "fancifuldoll.com:the-kiss-before-night-castellan-corset",
+      "title": "The Kiss Before Night Castellan Corset",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/the-kiss-before-night-castellan-corset",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/TheKissBeforeNightCastellanCorset_005.jpg?v=1793974350",
+      "resolution": {
+        "width": 3043,
+        "height": 4565
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black/lavender floral corset has a long pointed center, a ruffled top edge and narrow detached shoulder ornaments; surrounding tiered side drapes establish a gothic courtly hybrid."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR23",
+      "artifact_id": "fancifuldoll.com:after-the-veil-dynasty-corset",
+      "title": "After the Veil Dynasty Corset",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/after-the-veil-dynasty-corset",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/AftertheVeilDynastyCorset_008.jpg?v=1793906767",
+      "resolution": {
+        "width": 3633,
+        "height": 5450
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark yellow/green floral corset has front lacing, a long pointed center and small gathered shoulder bands; shallow layered side ruffles widen the hips around the narrow waist."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR24",
+      "artifact_id": "fancifuldoll.com:after-the-veil-court-pannier",
+      "title": "After the Veil Court Pannier",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/after-the-veil-court-pannier",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/AftertheVeilCourtPannier_006.jpg?v=1793906046",
+      "resolution": {
+        "width": 4032,
+        "height": 6048
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Short floral court pannier ties at the waist with thin black ribbon; gathered side volume and horizontal black lace tiers create a deliberately exaggerated courtly accessory."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR25",
+      "artifact_id": "fancifuldoll.com:ivory-sarabande-train",
+      "title": "Ivory Sarabande Train",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/ivory-sarabande-train",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/SarabandeTraininIvory_011.jpg?v=1794075715",
+      "resolution": {
+        "width": 3332,
+        "height": 4998
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Ivory train cascades in broad reflective folds from a narrow waist, pooling deeply around the floor; its smooth volume provides a restrained alternative to stacked ruffles."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR26",
+      "artifact_id": "fancifuldoll.com:ash-of-oleander-empress-gown",
+      "title": "Ash of Oleander Empress Gown",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/ash-of-oleander-empress-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/AshofOleanderEmpressGown_001.jpg?v=1793909440",
+      "resolution": {
+        "width": 3241,
+        "height": 4862
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark blue-gray gown has a broad gathered skirt, short ruffled hem tiers and long shoulder bows; a structured narrow bodice keeps the large dark fantasy volume ordered."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR27",
+      "artifact_id": "fancifuldoll.com:only-this-remains-mademoiselle-gown",
+      "title": "Only This Remains Mademoiselle Gown",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/only-this-remains-mademoiselle-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/OnlyThisRemainsMademoiselleGown_007.jpg?v=1789145598",
+      "resolution": {
+        "width": 2889,
+        "height": 4333
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White/pink floral gown has small off-shoulder puffs, a fitted center and huge cascading ruffled skirt; each gathered edge remains large and sculptural rather than a printed floral cue alone."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR28",
+      "artifact_id": "fancifuldoll.com:celestial-dawn-eternity-gown",
+      "title": "Celestial Dawn Eternity Gown",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/celestial-dawn-eternity-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/CelestialDawnEternityGownRS_009.jpg?v=1760124301",
+      "resolution": {
+        "width": 2895,
+        "height": 4343
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White layered net gown uses a pointed narrow bodice, transparent shoulder ribbons and a huge softly tiered glitter-dotted skirt; small points of shine scatter across broad pale volume."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR29",
+      "artifact_id": "fancifuldoll.com:fatal-devotion-duchess-gown",
+      "title": "Fatal Devotion Duchess Gown",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/fatal-devotion-duchess-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/FatalDevotionDuchessGown_003.jpg?v=1786389304",
+      "resolution": {
+        "width": 3195,
+        "height": 4793
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Burgundy/dark-blue gown combines large puff sleeves, a narrow square-neck bodice and a huge skirt bordered by broad gathered ruffles; candlelit styling reinforces dark courtly fantasy."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR30",
+      "artifact_id": "fancifuldoll.com:spun-sugar-fairytale-gown",
+      "title": "Spun Sugar Fairytale Gown",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/spun-sugar-fairytale-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/SpunSugarFairytaleGown_010_b7c3e4ec-d9a7-4012-b663-23b6821bb75d.jpg?v=1779989259",
+      "resolution": {
+        "width": 3012,
+        "height": 4518
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Very pale pink gown drapes broad fabric around the shoulders above a long fitted bodice and smooth voluminous train; quiet satin folds replace detailed floral ornament."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR31",
+      "artifact_id": "fancifuldoll.com:quiet-abundance-soiree-dress",
+      "title": "Quiet Abundance Soir\u00e9e Midi Dress",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/quiet-abundance-soiree-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/QuietAbundanceSoireeDress_001.jpg?v=1779889917",
+      "resolution": {
+        "width": 3137,
+        "height": 4706
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark teal floral midi dress has exaggerated puff sleeves tied below the elbows, a sweetheart center and a broad skirt with gathered hem; this is a shorter daytime courtly-fantasy variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PR32",
+      "artifact_id": "fancifuldoll.com:ivory-sacrament-winged-bow",
+      "title": "Ivory Sacrament Winged Bow",
+      "creator": "Fanciful Doll",
+      "source_url": "https://fancifuldoll.com/products/ivory-sacrament-winged-bow",
+      "media_url": "https://cdn.shopify.com/s/files/1/0701/6382/4907/files/IvorySacramentWingedBow_001.jpg?v=1774624908",
+      "resolution": {
+        "width": 3050,
+        "height": 4575
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large ivory hair bow has broad structured loops, a narrow wrapped center and two very long pointed tails; a small cluster of roses sits above, extending royal dressing vocabulary to an accessory."
+        }
+      ]
+    }
+  ]
+}

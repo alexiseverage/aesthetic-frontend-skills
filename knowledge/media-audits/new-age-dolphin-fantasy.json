@@ -1,0 +1,1328 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO01",
+      "artifact_id": "lassen:endless-harmony",
+      "title": "Endless Harmony, complete gallery presentations",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/endless-harmony/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-endless-harmony-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Two silver-blue dolphins cross at different angles in a deep cobalt underwater field, backlit by pale radial beams with small rising bubble highlights and darker coral at the lower edge. The complete mounted artwork is visible in a published 1920\u00d71080 room presentation; a second 1440\u00d71440 room presentation repeats the same work and is grouped once. This supports broad composition/material contrast, not a full-resolution unframed painting scan or historical typography."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO02",
+      "artifact_id": "schimmel:worlds-and-whales",
+      "title": "Worlds and Whales",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/worlds-and-whales-57x44lg.jpg?w=802",
+      "resolution": {
+        "width": 1337,
+        "height": 1708
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Blue humpback whales of several sizes float across a star-speckled spiral galaxy toward a luminous gold center, with planets at different scales. Marine anatomy, cosmic depth and warm center/cool periphery form a cetacean fantasy variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO03",
+      "artifact_id": "schimmel:wave-runner",
+      "title": "Wave Runner",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/wave-runner-24x36l.jpg?w=1024",
+      "resolution": {
+        "width": 1500,
+        "height": 1000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A white horse runs over ocean waves under Earth and stars. Despite ocean/cosmos overlap, its equine focal identity is a neighboring environmental-fantasy work rather than dolphin fantasy; excluded."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO04",
+      "artifact_id": "schimmel:harmony",
+      "title": "Harmony",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/harmony-30x24l.jpg?w=818",
+      "resolution": {
+        "width": 959,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Three wolves overlap a giant moon above pink-lit mountains. Cosmic wildlife context alone lacks the marine/dolphin relationship, so excluded."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO05",
+      "artifact_id": "schimmel:my-world",
+      "title": "My World",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/my-world-30x22lg.jpg?w=749",
+      "resolution": {
+        "width": 1062,
+        "height": 1451
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A snow leopard cub rests over a globe with a distant crescent on vivid blue. This environmental wildlife work is an explicit non-marine boundary, excluded."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO06",
+      "artifact_id": "schimmel:leap-of-creation",
+      "title": "Leap of Creation",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/leap-of-creation-24x24m.jpg?w=1016",
+      "resolution": {
+        "width": 1489,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A white tiger leaps through a splash before Earth and stars. Water/cosmos cues do not turn a tiger focal image into dolphin fantasy; excluded."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO07",
+      "artifact_id": "schimmel:earth-dance",
+      "title": "Earth Dance",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/earth-dance-36x24s.jpg?w=684",
+      "resolution": {
+        "width": 802,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Silver-gray dolphins leap in a loose ring around a small Earth below sunlit clouds. Gold water reflections and white spray join gray-blue bodies to lavender atmospheric light, giving a warm sky/sea variant rather than an all-black cosmos."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO08",
+      "artifact_id": "schimmel:breach-for-the-stars",
+      "title": "Breach for the Stars",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/breach-for-the-stars-s.jpg?w=608",
+      "resolution": {
+        "width": 608,
+        "height": 500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A whale breaches from dark rippling sea below a gold sunset and a vast blue/gold spiral galaxy with Earth. The full published 608\u00d7500 image supports broad layered horizon and luminance hierarchy, not fine brush detail."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO09",
+      "artifact_id": "schimmel:passage-to-home",
+      "title": "Passage to Home",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/passage-to-home-s.jpg?w=358",
+      "resolution": {
+        "width": 358,
+        "height": 500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Dolphins with luminous webbed caustics swim inside an irregular dark opening that joins underwater blue to stars, Earth and a foamy horizontal sea strip below. The complete published 358\u00d7500 original is legible for coarse framing/color only; no tiny detail or typography claim is made."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO10",
+      "artifact_id": "lassen:ancient-mysteries",
+      "title": "Ancient Mysteries",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/ancient-mysteries/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-ancient-mysteries-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A whale tail rises in a moonlit tropical bay with palm silhouettes, pink clouds, sparkling white drips and gold moon-reflection stripe. This complete mounted presentation is excluded as a broad marine-romantic boundary: luminous moonlight alone is insufficient to establish the dolphin/cosmic fantasy relationship. The full artist-published room presentation was individually opened; complete artwork composition is visible, but it is not an unframed original painting scan. The gray display room/website typography is not counted as aesthetic evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO11",
+      "artifact_id": "lassen:la-mer-de-cristal-numero-un",
+      "title": "La Mer de Cristal Numero Un",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/la-mer-de-cristal-numero-un/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-la-mer-de-crystal-numero-un-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Three silver/turquoise dolphins cross beneath broad white sunbeams in lavender-blue water. Star-like points and caustic outlines lift the bodies above a densely detailed lower reef of yellow fish and violet coral. Bright open upper water contrasts with densely framed lower ornament. The full artist-published room presentation was individually opened; complete artwork composition is visible, but it is not an unframed original painting scan. The gray display room/website typography is not counted as aesthetic evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO12",
+      "artifact_id": "lassen:the-fifth-dimension",
+      "title": "The Fifth Dimension",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/the-fifth-dimension/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-the-fifth-dimension-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Several dolphins overlap in deep blue water beneath a bright irregular overhead opening. White web-like caustic lines outline their backs, bubbles descend in perspective and dark coral silhouettes frame the lower corners, establishing a luminous enclosed depth. The full artist-published room presentation was individually opened; complete artwork composition is visible, but it is not an unframed original painting scan. The gray display room/website typography is not counted as aesthetic evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO13",
+      "artifact_id": "lassen:miracle-of-life",
+      "title": "Miracle of Life",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/miracle-of-life/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-miracle-of-life-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A large dolphin and calf occupy a bright diagonal beam inside saturated cobalt water, surrounded by a dense reef and yellow/white fish. Rising bubble chains, patterned caustic highlights and dark outer framing create a fantastical jewel-like underwater world. The full artist-published room presentation was individually opened; complete artwork composition is visible, but it is not an unframed original painting scan. The gray display room/website typography is not counted as aesthetic evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO14",
+      "artifact_id": "lassen:mystic-orcas",
+      "title": "Mystic Orcas",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/mystic-orcas/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-mystic-orcas-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An above/below-water composition aligns moonlit breaching orcas above with three submerged orcas below a bright horizontal water line. Deep cobalt, black silhouettes, white spray and pale radial underwater rays create a cetacean neighboring variant. The full artist-published room presentation was individually opened; complete artwork composition is visible, but it is not an unframed original painting scan. The gray display room/website typography is not counted as aesthetic evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO15",
+      "artifact_id": "lassen:mystical-life-of-sea",
+      "title": "Mystical Life of Sea",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/mystical-life-of-sea/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-mystical-life-of-sea-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A whale tail rises from a blue moonlit tropical bay. This is a separate work from Ancient Mysteries but similarly remains a broad marine-romantic boundary; without a stronger dolphin or impossible cosmic/underwater relationship it is excluded from the qualifying fantasy count. The full artist-published room presentation was individually opened; complete artwork composition is visible, but it is not an unframed original painting scan. The gray display room/website typography is not counted as aesthetic evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO16",
+      "artifact_id": "lassen:leap-of-faith",
+      "title": "Leap of Faith",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/leap-of-faith/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-leap-of-faith-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A dark silver-violet dolphin arcs out of purple sea directly across a large luminous moon; a white spray trail curves back to the surface. Turquoise/violet clouds, scattered star flares and dark palms frame the central airborne silhouette. Complete artist-published room presentation individually opened; mounted artwork composition is visible, not an unframed original scan. Display-room styling is not evidence for this aesthetic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO17",
+      "artifact_id": "lassen:precious-harmony",
+      "title": "Precious Harmony",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/precious-harmony/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-precious-harmony-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A gold-orange sunset above a rippling wave line contrasts with cyan deep water below. One leaping dolphin above aligns with a family of caustic-lit dolphins, bubble chains and dense jewel-colored reef below; open central light separates busy lower corners. Complete artist-published room presentation individually opened; mounted artwork composition is visible, not an unframed original scan. Display-room styling is not evidence for this aesthetic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO18",
+      "artifact_id": "lassen:coral-sea",
+      "title": "Coral Sea Daytime Dolphins",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/coral-sea/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2023/02/wall-Coral-Sea.png",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A vertical above/below-water scene joins a brilliant white starburst sun and foamy blue wave ridge to silver dolphins below, with yellow fish, bubble strands and dark reef edges. The brighter daylight variant retains luminous smooth bodies and exaggerated layered clarity. Complete artist-published room presentation individually opened; mounted artwork composition is visible, not an unframed original scan. Display-room styling is not evidence for this aesthetic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO19",
+      "artifact_id": "lassen:galaxy-of-life-iii",
+      "title": "Galaxy of Life III",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/galaxy-of-life-iii/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-galaxy-of-life-iii-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A saturated planetary sky and orange sunset sit above a sharp waterline, with blue dolphins crossing beneath a warm light shaft amid extremely colorful reef/fish ornament. Planets, horizon and underwater depth are visibly combined beyond naturalistic viewpoint. Complete artist-published room presentation individually opened; mounted artwork composition is visible, not an unframed original scan. Display-room styling is not evidence for this aesthetic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO20",
+      "artifact_id": "lassen:blue-world-ii",
+      "title": "Blue World II",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/blue-world-ii/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-blue-world-III-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A panoramic layered world combines a moon/stars at left, bright tropical daylight/rainbow at right, breaching orcas above the wave and many dolphins/orcas/fish below. The rendered mounted work labels itself Blue World II although the image filename contains III; counted as one visible work with that identity limit retained. Complete artist-published room presentation individually opened; mounted artwork composition is visible, not an unframed original scan. Display-room styling is not evidence for this aesthetic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO21",
+      "artifact_id": "lassen:dolphins-playground",
+      "title": "Dolphins Playground",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/dolphins-playground/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-dolphins-playground-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Lavender mountain cliffs and palm silhouettes surround a bright turbulent surface, while dolphins circle within clear blue water and intensely colored coral/fish fill the bottom corners. Above/below structure and bright transparent depth make this a deliberately idealized underwater world. Complete artist-published room presentation individually opened; mounted artwork composition is visible, not an unframed original scan. Display-room styling is not evidence for this aesthetic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO22",
+      "artifact_id": "lassen:eternal-rainbow-sea-ii",
+      "title": "Eternal Rainbow Sea II",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/eternal-rainbow-sea-ii/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-eternal-rainbow-sea-ii-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A tropical waterfall and small rainbow form a dark green upper frame above leaping dolphins; submerged dolphin silhouettes and a bright yellow/black fish field fill cobalt water below. The narrow portrait composition stacks waterfall, waterline and jeweled reef layers. Complete artist-published room presentation individually opened; mounted artwork composition is visible, not an unframed original scan. Display-room styling is not evidence for this aesthetic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO23",
+      "artifact_id": "lassen:mystical-journey",
+      "title": "Mystical Journey",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/mystical-journey/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-mystical-journey-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Warm distant sunset is separated from green-cyan underwater light by a blue wave. Smooth dolphins cross at different depths, flanked by dense fish/coral frames with a comparatively empty glowing middle. The warm/cool split differs from the moonlit violet route. Complete artist-published room presentation individually opened; mounted artwork composition is visible, not an unframed original scan. Display-room styling is not evidence for this aesthetic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO24",
+      "artifact_id": "lassen:our-world",
+      "title": "Our World",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/our-world/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-our-world-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A tall composition places orange sunset and foamy surface at top over a very deep cobalt underwater corridor. Small dolphins recede toward the center; brightly colored reef and fish curve along both sides, creating a large open central depth framed by miniature detail. Complete artist-published room presentation individually opened; mounted artwork composition is visible, not an unframed original scan. Display-room styling is not evidence for this aesthetic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO25",
+      "artifact_id": "warren:seven-dolphins",
+      "title": "Seven Dolphins",
+      "creator": "Jim Warren / official studio",
+      "source_url": "https://jimwarren.com/portfolio/seven-dolphins/",
+      "media_url": "https://cdn-ggnpp.nitrocdn.com/qxIMHObOPkhgoDpAdBQsTloYpHtRwUJo/assets/images/optimized/rev-4a9c678/jimwarren.com/wp-content/uploads/2013/11/sevendolphins.jpg",
+      "resolution": {
+        "width": 648,
+        "height": 1000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A leaping silver dolphin bridges a warm sunset and turquoise underwater world; leafy rock contours hide additional dolphin-like silhouettes. A bright open center is framed by dark green organic overhangs and a denser reef below. Seven is the artist\u2019s title, not seven independent artworks. Full artist-published image individually opened; no artwork is reused as an application asset."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO26",
+      "artifact_id": "warren:dolphin-whisperer",
+      "title": "Dolphin Whisperer",
+      "creator": "Jim Warren / official studio",
+      "source_url": "https://jimwarren.com/portfolio/dolphin-whisperer/",
+      "media_url": "https://cdn-ggnpp.nitrocdn.com/qxIMHObOPkhgoDpAdBQsTloYpHtRwUJo/assets/images/optimized/rev-4a9c678/jimwarren.com/wp-content/uploads/2022/09/dolhin-whisperer-jim-warren.jpg",
+      "resolution": {
+        "width": 850,
+        "height": 657
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Two dolphins built from bright rainbow paint-like planes leap with colored liquid trails against a quiet gold-gray sky. A dark human silhouette is part of this research-only artwork; the saturated body treatment and curved trails can inform original nonhuman UI shapes without reusing the person or composition. Full artist-published image individually opened; no artwork is reused as an application asset."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO27",
+      "artifact_id": "warren:splash-dance",
+      "title": "Splash Dance",
+      "creator": "Jim Warren / official studio",
+      "source_url": "https://jimwarren.com/portfolio/splash-dance/",
+      "media_url": "https://jimwarren.com/wp-content/uploads/2022/09/splash-dance-jim-warren.jpg",
+      "resolution": {
+        "width": 620,
+        "height": 484
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Two human silhouettes with umbrellas and rainbow paint splashes form a playful scene. Despite similar liquid color to Dolphin Whisperer, no marine subject remains; excluded as a non-marine boundary. Full artist-published image individually opened; no artwork is reused as an application asset."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO28",
+      "artifact_id": "schimmel:dance-of-the-humpback",
+      "title": "Dance of the Humpback",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/dance-of-the-humpback-s.jpg?w=358",
+      "resolution": {
+        "width": 358,
+        "height": 500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Large caustic-lit whales and a small Earth float in a cobalt underwater/space field above a second mountain-and-sea horizon. White bubbles and a bright surface strip link incompatible scales. This full 358\u00d7500 published image supports coarse hierarchy only."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO29",
+      "artifact_id": "schimmel:the-ambassadors",
+      "title": "The Ambassadors",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/embassadors-l.jpg?w=766",
+      "resolution": {
+        "width": 2243,
+        "height": 3000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Two brightly lit silver-cyan dolphins float before a small Earth and star field under a vast curling turquoise wave. Strong white webbed caustics, a dark lower surround and an open central composition make the ocean/cosmic relationship explicit. The site filename misspells the title as embassadors; identity is kept as the visible/known work, not a second artifact."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO30",
+      "artifact_id": "schimmel:only-one-home",
+      "title": "Only One Home",
+      "creator": "Schim Schimmel / official Schimmel Smith gallery",
+      "source_url": "https://schimmelsmith.com/traditional-2/",
+      "media_url": "https://schimmelsmith.com/wp-content/uploads/2023/11/only-one-home-30x60m.jpg?w=1024",
+      "resolution": {
+        "width": 1287,
+        "height": 638
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A tiger on rock overlaps a huge curved Earth and stars. This is an environmental wildlife boundary without a marine focus; excluded."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO31",
+      "artifact_id": "schimmel:passage-of-the-dolphin",
+      "title": "Passage of the Dolphin",
+      "creator": "Schim Schimmel / published by Novaspace",
+      "source_url": "https://novaspace.com/shop/space-art/schim-schimmel/passage-of-the-dolphin/",
+      "media_url": "https://novaspace.com/wp-content/uploads/PassageofDolphinPrint.jpg",
+      "resolution": {
+        "width": 1000,
+        "height": 1000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A complete print presentation shows several silver-blue dolphins swimming through descending cyan light beams into a star field containing warm orange ringed planets. White margins are presentation, not part of the painted field. This is distinct from the previously inspected irregular-opening Passage to Home composition; similar titles are not conflated."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO32",
+      "artifact_id": "collectibles:clear-glass-dolphin-suite",
+      "title": "Reflective glass dolphin form suite",
+      "creator": "dolphins-unlimited.com",
+      "source_url": "https://dolphins-unlimited.com/products/60067",
+      "media_url": "https://cdn.shopify.com/s/files/1/0862/2676/4084/products/60067lrg.jpg?v=1735887013",
+      "resolution": {
+        "width": 720,
+        "height": 618
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three full published glass-object photos were individually inspected: black/clear upward-tail dolphin (720\u00d7618), swimming raised-tail dolphin 50067 (720\u00d7493), and arched clear dolphin 70067 (720\u00d7481). All have smooth reflective transparent edges and fine glitter-like internal inclusions. Because their related bodies could be variants of one design family, they are conservatively grouped as one material/form suite, not three counts. These are adjacent collectible material references, not proof of spiritual use."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO33",
+      "artifact_id": "dolphins-unlimited.com:cmx-32",
+      "title": "Dolphin and Calf Figurine Crystal on Mirrored Box",
+      "creator": "Christian Riese Lassen, credited by Seven Dolphins retailer",
+      "source_url": "https://dolphins-unlimited.com/products/cmx-32",
+      "media_url": "https://cdn.shopify.com/s/files/1/0862/2676/4084/products/CMX-32lrg_7789615d-37a2-4b0a-9fee-6aa0f7efe45b.jpg?v=1735886397",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two clear dolphins with gold-edged fins leap over a transparent wave on a dark mirrored circular lid, set above vertically faceted mirrored box sides and thin gold scallops. The fully visible original product image supports reflective/faceted component framing. The retailer\u2019s prose incorrectly mentions seven dolphins; visible evidence is two, and no asserted symbolism is adopted."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO34",
+      "artifact_id": "dolphins-unlimited.com:c125-me",
+      "title": "Dolphin Family by Christian Riese Lassen Ocean Sculpture",
+      "creator": "Christian Riese Lassen, credited by Seven Dolphins retailer",
+      "source_url": "https://dolphins-unlimited.com/products/c125-me",
+      "media_url": "https://cdn.shopify.com/s/files/1/0862/2676/4084/products/c125-me.jpg?v=1735886857",
+      "resolution": {
+        "width": 332,
+        "height": 410
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A framed iridescent-looking vertical artwork layers several dolphins beneath pink/gold sunbeams and a blue-purple field, with pearly caustics and small bubbles. This complete 332\u00d7410 retailer presentation is legible for coarse light/color arrangement only; it is a distinct vertically grouped composition from the other opened works."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO35",
+      "artifact_id": "dolphins-unlimited.com:c162-me",
+      "title": "Dolphin Sunset by Christian Riese Lassen Ocean Art",
+      "creator": "Christian Riese Lassen, credited by Seven Dolphins retailer",
+      "source_url": "https://dolphins-unlimited.com/products/c162-me",
+      "media_url": "https://cdn.shopify.com/s/files/1/0862/2676/4084/files/c162-me.jpg?v=1735886856",
+      "resolution": {
+        "width": 332,
+        "height": 410
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "An orange/gold coastal sunset occupies the upper portion of a framed reflective-looking artwork, with a large dolphin, turtle, rays and a densely colored reef below the waterline. Full 332\u00d7410 publication supports broad above/below structure and metallic color contrast; fine etching technique and edition claims are not verified."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO36",
+      "artifact_id": "dolphins-unlimited.com:c104-me",
+      "title": "Island Enchantment by Christian Riese Lassen Ocean Art Sculpture",
+      "creator": "Christian Riese Lassen, credited by Seven Dolphins retailer",
+      "source_url": "https://dolphins-unlimited.com/products/c104-me",
+      "media_url": "https://cdn.shopify.com/s/files/1/0862/2676/4084/products/c104-me.jpg?v=1735886856",
+      "resolution": {
+        "width": 325,
+        "height": 402
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A narrow framed scene divides a bright sea surface from a descending pale underwater light beam. A diagonal dolphin pair sits beside a dense left reef; blue negative space opens to the right. Full 325\u00d7402 presentation supports coarse framing and illumination only and differs in subject placement from the other inspected marine works."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO37",
+      "artifact_id": "lassen:secret-rainbow",
+      "title": "Secret Rainbow",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/secret-rainbow/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-secret-rainbow-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Two large luminous dolphins are centered among an extremely saturated panoramic reef, with rainbow-tinted vertical light shafts, white bubble highlights and dense coral/fish edges. This is a distinct long horizontal underwater composition. Complete artist-published mounted-room presentation inspected; room styling is not aesthetic evidence and this is not an unframed original scan."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO38",
+      "artifact_id": "lassen:togetherness",
+      "title": "Togetherness",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/togetherness/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-togetherness-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A dolphin pair swims near the surface in realistic bright blue water with sun glare and rippled caustics. This naturalistic marine boundary is excluded: dolphin subject and attractive water alone do not establish the stronger fantasy relationship. Complete artist-published mounted-room presentation inspected; room styling is not aesthetic evidence and this is not an unframed original scan."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DO39",
+      "artifact_id": "lassen:varua-moana",
+      "title": "Varua Moana",
+      "creator": "Christian Riese Lassen / official gallery",
+      "source_url": "https://www.lassenart.com/varua-moana/",
+      "media_url": "https://www.lassenart.com/wp-content/uploads/2021/09/lassen-gallery-varua-moana-1-2.jpg",
+      "resolution": {
+        "width": 1920,
+        "height": 1080
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Two surface dolphins are viewed close up through rippled blue water, with bright reflections and open mouths. The complete artwork is excluded as a naturalistic marine boundary, even though its author also makes fantastical works. Complete artist-published mounted-room presentation inspected; room styling is not aesthetic evidence and this is not an unframed original scan."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DO40",
+      "artifact_id": "schimmel:our-home-too-ii-dolphins",
+      "title": "Our Home Too II \u2014 Dolphins",
+      "creator": "Schim Schimmel / Gallery Direct Art publication",
+      "source_url": "https://www.gallerydirectart.com/ga-1024.html",
+      "media_url": "https://s.turbifycdn.com/aah/gallerydirectart/william-schim-schimmel-limited-edition-serigraph-on-paper-our-home-too-ii-dolphins-33.png",
+      "resolution": {
+        "width": 473,
+        "height": 600
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "The linked largest zoom image shows a bright Earth suspended amid dolphins in an underwater-to-star-field gradient. Pale cyan above fades to black below; a curved bubble chain and white pinpoints establish depth. It is a distinct composition from The Ambassadors and Earth Dance. The full published zoom is useful for geometry/color, not edition authentication or fine print metadata."
+        }
+      ]
+    }
+  ]
+}

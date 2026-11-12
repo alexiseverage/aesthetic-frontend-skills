@@ -1,0 +1,985 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 32,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB01",
+      "artifact_id": "zuzek:Tiny Tulips",
+      "title": "Tiny Tulips (1969)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-1/177943?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0001_000(suzie_zuzek_tiny_tulips055502).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=eb15d63ab1426094e43b4730de51b2360dec2e7a",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large pink/cream serrated flowers with fine black interior lines crowd a black ground; small blossoms fill gaps. Irregular drawing edges and pigment variation remain visible."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB02",
+      "artifact_id": "zuzek:Bear Balls",
+      "title": "Bear Balls (1974)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-2/177944?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0002_000(suzie_zuzek_bear_balls055518).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=518ae97c6ac79474064bba9ec70aebee5adc6fe3",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Ochre bears turn in multiple directions among large pink balls, tiny black seed marks and daisies on cream; playful figure/ground rhythm avoids a single focal picture."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB03",
+      "artifact_id": "zuzek:Lillytonias",
+      "title": "Lillytonias (1967)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-3/177945?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0003_000(suzie_zuzek_lillytonias055533).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=743f0f0f135f931b94919b007ecb28520c3e1980",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink/cream five-petaled flowers alternate with tiny blue/pink blossoms and slender connecting stems on deep black; shifting motif scale creates a continuous field."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB04",
+      "artifact_id": "zuzek:Chicken Check",
+      "title": "Chicken Check (1972)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-4/177947?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0004_000(suzie_zuzek_chicken_check055546).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=04953ca4b2e506ef7a067fc0442a48a89be87e1b",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Orange/pink patchwork-like ground carries cream line-drawn chickens, flowers, suns, leaves and butterflies; no regular grid or single reading direction."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB05",
+      "artifact_id": "zuzek:Claudia",
+      "title": "Claudia (1971)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-5/177948?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0005_000(suzie_zuzek_claudia055559).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=700414bb49058dead4377fcb9eda5cf26e18fe0f",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream black-outlined chrysanthemums and poppy-like flowers overlap warm pink/orange/yellow marks; large blooms contrast small dense fill."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB06",
+      "artifact_id": "zuzek:Isabel",
+      "title": "Isabel (1978)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-6/177951?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0006_000(suzie_zuzek_isabelle055612).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=1d2df6bcd05eabb949f1f212b06b0c577f44571f",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large yellow flowers and long blue-striped curling leaves cross small blue daisies and pink/black specks; flowing diagonals interrupt a dense all-over field."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB07",
+      "artifact_id": "zuzek:Jonquililly",
+      "title": "Jonquililly (1970)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-7/177946?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0007_000(suzie_zuzek_jonquililly055624).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=274102e18ebc4e1970888c4bcde0ae080916a7c6",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Yellow lilies sit over black/cream hand-drawn vertical stripes, with narrow floral columns and varied flower sizes; striped structure supports loose organic overlays."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB08",
+      "artifact_id": "zuzek:Trinket",
+      "title": "Trinket (1971)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-8/177950?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0008_000(suzie_zuzek_trinket055638).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=0269c311630e94980cf42c5f2be7daee1b2f205e",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Ochre monkeys with long curled tails mingle with pink flowers and twisting vines; cream openings separate black fine lines and broad gold silhouettes."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB09",
+      "artifact_id": "zuzek:Daffa-Dillard",
+      "title": "Daffa-Dillard (1967)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-9/177949?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0009_000(suzie_zuzek_daffa-dillard055651).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=40b3520dd53788b63695b9aaa40ae88931e5b573",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Elongated yellow/cream flowers and slender stems densely overlap fine black floral linework; tall narrow motifs carry vertical movement in a still image."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB10",
+      "artifact_id": "zuzek:El Morocco",
+      "title": "El Morocco (1972)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-10/177952?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0010_000(suzie_zuzek_el_morocco055705).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=d9b937e2679b29164bebcd702e3da43c25e07ffb",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Zebras in multiple directions weave through gray/cream leaves and sparse yellow daisies; black stripes become both animal markings and graphic pattern."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB11",
+      "artifact_id": "zuzek:Quack",
+      "title": "Quack (1974)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-11/177953?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0011_000(suzie_zuzek_quack055719).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=9d3b6fcdfb10fd006c153cdfcd75bcf7efa7fcac",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large cream ducks with ochre beaks/feet sit against black, faint gray curling letter-like marks inside bodies; unusually broad quiet silhouettes contrast small neighboring prints."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB12",
+      "artifact_id": "zuzek:Eric",
+      "title": "Eric (1970)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-12/177954?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0012_000(suzie_zuzek_eric055733).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=3f184e463c41943ef9fd3b6b1941a31e76a1e50b",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Long-haired cream cats with fine black curved lines fill a black field with yellow butterflies; curls and wing shapes create direction without actual motion."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB13",
+      "artifact_id": "zuzek:Pescador",
+      "title": "Pescador (1972)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-13/177955?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0013_000(suzie_zuzek_pescador055746).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=67cf6eab12eca9184babcc5552b052285021f517",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Abstracted yellow/olive fish and long fluid seaweed-like forms overlap, with fine black lines and dotted patches on cream; marine motif is flattened into repeat."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB14",
+      "artifact_id": "zuzek:Elephants",
+      "title": "Elephants (1970)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-14/177957?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0014_000(suzie_zuzek_elephants055800).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=862a92aa2620195ae575817f9bbad3de0ff56d43",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue/yellow/green decorated elephants and paisley curls pack a cream ground, with dense black contours and flowers; historical decorative motif, not evidence of cultural authenticity."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB15",
+      "artifact_id": "zuzek:Crazy Quilt",
+      "title": "Crazy Quilt (1969)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-15/177960?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0015_000(suzie_zuzek_crazy_quilt055813).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=f3f497b0dbaf5d989f3d4f49b78962f61a5e1e16",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Irregular blocks of floral, animal, stripe, dot and geometric pattern form one integrated multicolor patchwork design. Counted as one work, not one count per embedded patch."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB16",
+      "artifact_id": "zuzek:Strawberry Stripe",
+      "title": "Strawberry Stripe (1967)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-16/177958?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0016_000(suzie_zuzek_strawberry_stripe055825).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=606436ba33dd26534dc191283752d0e36f85b023",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green fruits including strawberry/apple/pear/grape-like forms overlap thin green/cream vertical bands and small cream flowers; line-shaded fruit edges stand out from broad flat shapes."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB17",
+      "artifact_id": "zuzek:Lillies",
+      "title": "Lillies (1968)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-17/177956?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0017_000(suzie_zuzek_lillies055840).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=43876031f28f9f2a95c934cfd93b9624d8075254",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large cream lilies with black contours and spotted centers overlap pale green ground, small dangling bells and narrow green leaves; balanced two-color botanical variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB18",
+      "artifact_id": "zuzek:Seascape",
+      "title": "Seascape (1976)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-18/177959?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0018_000(suzie_zuzek_seascape055854).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=d7e7741e642b1a0d7e73bbed501548fe57fb23bf",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream outlined shells, fish and branching marine shapes on turquoise with ochre seaweed; broad shell curves contrast fine fish/leaf detail."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB19",
+      "artifact_id": "zuzek:Sea-Lilly",
+      "title": "Sea-Lilly (1969)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-19/177961?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0019_000(suzie_zuzek_sea-lilly055908).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=e87c3ae8ee2624e09dbc6310e18457acb0c6aabe",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Teal sea-life field with small dark outlined fish and pale branching coral/seaweed, distributed with more open intervals than dense floral works."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB20",
+      "artifact_id": "zuzek:Lilly, Lilly, Lilly",
+      "title": "Lilly, Lilly, Lilly (1966)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-20/177964?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0020_000(suzie_zuzek_lilly_lilly_lilly055921).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=e646244edd288b318f2d5bf9a9a1a01026e6a01d",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black looping cursive Lilly-like letter paths intertwine with loose green floral/paisley marks on cream. The source lot essay identifies deliberate hidden-name personalization; not a readable UI font specimen."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB21",
+      "artifact_id": "zuzek:Harlillyquin",
+      "title": "Harlillyquin (1968)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-21/177962?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0021_000(suzie_zuzek_harlillyquin055934).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=7482b3bb1e323b70eed5149317b6f3b69307ba7f",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Teal/cream irregular rectangular patches contain fish, shells, turtle-like grids, a sun face and tiny pictorial marks; broad blocks contrast fine ink contour."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB22",
+      "artifact_id": "zuzek:Bumbelilly",
+      "title": "Bumbelilly (1966)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-22/177963?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0022_000(suzie_zuzek_bumbelilly055948).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=8dd104cdab2b80c49c2664d9922040a90fb4c868",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale turquoise flowers and leaves with black bees and thin outlined daisies on cream; small-scale loose scattered composition."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB23",
+      "artifact_id": "zuzek:Lilly-Go-Round",
+      "title": "Lilly-Go-Round (1968)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-23/177966?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0023_000(suzie_zuzek_lilly-go-round060001).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=197543043b9eaa3712f492c5e77d734e20ae0b89",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Teal/cream carousel horses rotate over thin irregular black/teal vertical lines; curled tails and decorative body marks keep the all-over field lively."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB24",
+      "artifact_id": "zuzek:San Marco Mosaic",
+      "title": "San Marco Mosaic (1970)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-24/177965?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0024_000(suzie_zuzek_san_marco_mosaic060016).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=7ee7cadb569906094f1788d9359409561bc78cd6",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small irregular blue/cream squares underlie dark-outlined fantasy birds/animals filled with finer blue squares; two grid scales interweave."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB25",
+      "artifact_id": "zuzek:Par",
+      "title": "Par (1972)",
+      "creator": "Suzie Zuzek for Key West Hand Print Fabrics; Christie\u2019s archive publication",
+      "source_url": "https://onlineonly.christies.com/s/suzie-zuzek-artist-behind-lilly-pulitzer/suzie-zuzek-american-1920-2011-25/177967?ldp_breadcrumb=back",
+      "media_url": "https://www.christies.com/img/LotImages/2023/NYR/2023_NYR_22090_0025_000(suzie_zuzek_par060030).jpg?maxHeight=1950&maxWidth=3030&mode=max&hash=0d9ddfbae15877e52c1004b346f82ee6c59228ec",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream golf clubs/balls overlap blue vertical fields and small red flags with hand-drawn numerals; sporting motifs supply a graphic resort/club variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB26",
+      "artifact_id": "lilly-featured-print:Maggies Bouquet",
+      "title": "Maggies Bouquet \u2014 current featured print publication",
+      "creator": "Lilly Pulitzer; original print/colorway artist not verified",
+      "source_url": "https://www.lillypulitzer.com/prints/",
+      "media_url": "https://scene7.lillypulitzer.com/is/image/sugartown/maggiesbouquet_portrait?$generic$",
+      "resolution": {
+        "width": 960,
+        "height": 1280
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large white/pink/red flowers and green leaves form a bold dense field with imperfect printed-like marks on cream. Brand identifies this featured print with 1973; the current colorway/publication is not attributed to an unverified designer."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB27",
+      "artifact_id": "lilly-featured-print:A Rose By Any Other Name",
+      "title": "A Rose By Any Other Name \u2014 current featured print publication",
+      "creator": "Lilly Pulitzer; original print/colorway artist not verified",
+      "source_url": "https://www.lillypulitzer.com/prints/",
+      "media_url": "https://scene7.lillypulitzer.com/is/image/sugartown/arosebyanyothernamered_portrait?$generic$",
+      "resolution": {
+        "width": 960,
+        "height": 1280
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red line-drawn flowers and curling leaves on cream; sparse two-color ink shapes provide a quieter botanical alternative."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB28",
+      "artifact_id": "lilly-featured-print:Party Streamers",
+      "title": "Party Streamers \u2014 current featured print publication",
+      "creator": "Lilly Pulitzer; original print/colorway artist not verified",
+      "source_url": "https://www.lillypulitzer.com/prints/",
+      "media_url": "https://scene7.lillypulitzer.com/is/image/sugartown/brunchpunchpartystreamers_portrait?$generic$",
+      "resolution": {
+        "width": 1200,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale pink lions and lilies overlap thin cream streamers/stripes on dark pink; stylized figures and broad stripes repeat without a single top."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB29",
+      "artifact_id": "lilly-featured-print:Sketching on Safari",
+      "title": "Sketching on Safari \u2014 current featured print publication",
+      "creator": "Lilly Pulitzer; original print/colorway artist not verified",
+      "source_url": "https://www.lillypulitzer.com/prints/",
+      "media_url": "https://scene7.lillypulitzer.com/is/image/sugartown/sketchingonsafari_portrait?$generic$",
+      "resolution": {
+        "width": 960,
+        "height": 1280
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dense giraffe forms with fine dark hatching and tan/cream markings overlap hot pink gaps and leaves; naturalistic line detail contrasts flat vivid ground."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB30",
+      "artifact_id": "lilly-featured-print:Striped Safari",
+      "title": "Striped Safari \u2014 current featured print publication",
+      "creator": "Lilly Pulitzer; original print/colorway artist not verified",
+      "source_url": "https://www.lillypulitzer.com/prints/",
+      "media_url": "https://scene7.lillypulitzer.com/is/image/sugartown/stripedsafari_portrait?$generic$",
+      "resolution": {
+        "width": 960,
+        "height": 1280
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Tan/cream giraffes, black/cream zebras and yellow outlined flowers tumble across a black field; isolated cream contours preserve legibility in dark ground."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB31",
+      "artifact_id": "lilly-about:020524%5Fabout%5Fus%5Fupdate%5Flilly%5Fimg%5F2%5Fd",
+      "title": "Yellow floral family garment suite",
+      "creator": "Lilly Pulitzer archive/current brand publication; photographer and precise dates not verified in inspected image",
+      "source_url": "https://www.lillypulitzer.com/about-us/",
+      "media_url": "https://scene7.lillypulitzer.com/is/image/sugartown/020524%5Fabout%5Fus%5Fupdate%5Flilly%5Fimg%5F2%5Fd?$generic$",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three yellow/white floral sleeveless dresses shown together behind a gate, simple straight/A-line forms with open pale floral intervals. Grouped as one coordinated garment suite; no claim of three independent prints or exact photo date."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "PB32",
+      "artifact_id": "lilly-about:020524%5Fabout%5Fus%5Fupdate%5Flilly%5Fimg%5F4%5Fd",
+      "title": "Monochrome seated shift photograph",
+      "creator": "Lilly Pulitzer archive/current brand publication; photographer and precise dates not verified in inspected image",
+      "source_url": "https://www.lillypulitzer.com/about-us/",
+      "media_url": "https://scene7.lillypulitzer.com/is/image/sugartown/020524%5Fabout%5Fus%5Fupdate%5Flilly%5Fimg%5F4%5Fd?$generic$",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete source photograph shows a seated person in a pale small-motif sleeveless shift. Excluded from qualifying count: cropped garment and monochrome image give weak print/color evidence. The source alt describes a pink printed dress, which does not match visible monochrome pixels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PB33",
+      "artifact_id": "lilly-about:020526%2Dlilly%2DBOUT%2DUS%2DPAGE%2DSUB%2DIMAGE%5F2",
+      "title": "Print-led shop/garment presentation",
+      "creator": "Lilly Pulitzer archive/current brand publication; photographer and precise dates not verified in inspected image",
+      "source_url": "https://www.lillypulitzer.com/about-us/",
+      "media_url": "https://scene7.lillypulitzer.com/is/image/sugartown/020526%2Dlilly%2DBOUT%2DUS%2DPAGE%2DSUB%2DIMAGE%5F2?$generic$",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete shop publication shows bright tropical painted walls, pink/yellow/blue patterned straight dresses, broad pale scalloped/lace-like edging and natural woven furnishings. One composed presentation, not separate counts per garment or wall. A plain white shift supplies useful low-pattern contrast."
+        }
+      ]
+    }
+  ]
+}

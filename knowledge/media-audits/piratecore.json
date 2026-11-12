@@ -1,0 +1,1159 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "PI01",
+      "artifact_id": "https://www.vam.ac.uk/articles/vivienne-westwood-punk-new-romantic-and-beyond:Pirate ensemble \u2014 cropped V&A publication",
+      "title": "Pirate ensemble \u2014 cropped V&A publication",
+      "creator": "Vivienne Westwood, 1981\u201382; V&A T.334 to I-1982",
+      "source_url": "https://www.vam.ac.uk/articles/vivienne-westwood-punk-new-romantic-and-beyond",
+      "media_url": "https://vanda-production-assets.s3.amazonaws.com/2017/09/15/13/31/03/c501aea3-bb42-4004-adb0-990a607fe3b7/2006AV6055-Pirate-ensemble-cropped.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gold textured coat with split sleeve openings over orange/red squiggle shirt and sash; dark folded hat with red cockade. Excluded from full-work count because the published derivative cuts off lower ensemble; useful coarse context only."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI02",
+      "artifact_id": "https://www.kerrytaylorauctions.com/auction/lot/lot-191---a-vivienne-westwood-pirate-collection/?lot=16245&sd=1:Scarlet damask Pirate ensemble",
+      "title": "Scarlet damask Pirate ensemble",
+      "creator": "Vivienne Westwood / Malcolm McLaren, Autumn\u2013Winter 1981\u201382; Kerry Taylor Auctions lot 191, 2012",
+      "source_url": "https://www.kerrytaylorauctions.com/auction/lot/lot-191---a-vivienne-westwood-pirate-collection/?lot=16245&sd=1",
+      "media_url": "https://kerrytaylor.goauction.co.uk/stock/15537-1.jpg?v=63723924648550",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete published ensemble view: scarlet textured oversized shirt and gathered skirt, narrow pale lace hem, yellow/black squiggle sash draped over shoulder and tied at waist, pale blue patterned stocking and small brocade shoe. One ensemble count, not seven pieces or six gallery views."
+        }
+      ],
+      "resolution": {
+        "width": 576,
+        "height": 864
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI03",
+      "artifact_id": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26:Dior Spring 2026 look 00004",
+      "title": "Dior Spring 2026 look 00004",
+      "creator": "Dior; nss magazine published runway image, photographer not verified",
+      "source_url": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26",
+      "media_url": "https://data2.nssmag.com/images/galleries/45598/00004-christian-dior-spring-2026-ready-to-wear.webp",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black folded tricorn above white ruffled bib on a quiet black fitted outfit; strong head/center contrast."
+        }
+      ],
+      "resolution": {
+        "width": 427,
+        "height": 640
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI04",
+      "artifact_id": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26:Balmain Spring 2026 look 00014",
+      "title": "Balmain Spring 2026 look 00014",
+      "creator": "Balmain; nss magazine published runway image, photographer not verified",
+      "source_url": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26",
+      "media_url": "https://data2.nssmag.com/images/galleries/45598/00014-balmain-spring-2026-ready-to-wear.webp",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Tan gathered trousers, rope-like ties, soft off-shoulder top and narrow red woven hanging accent; loose/fastened contrast."
+        }
+      ],
+      "resolution": {
+        "width": 427,
+        "height": 640
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "PI05",
+      "artifact_id": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26:Ferragamo Spring 2026 look 00026",
+      "title": "Ferragamo Spring 2026 look 00026",
+      "creator": "Ferragamo; nss magazine published runway image, photographer not verified",
+      "source_url": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26",
+      "media_url": "https://data2.nssmag.com/images/galleries/45598/00026-ferragamo-spring-2026-ready-to-wear.webp",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Smooth dark satin with long waist scarf; excluded as a weak single-sash boundary."
+        }
+      ],
+      "resolution": {
+        "width": 427,
+        "height": 640
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "PI06",
+      "artifact_id": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26:Blumarine Spring 2026 look 00004",
+      "title": "Blumarine Spring 2026 look 00004",
+      "creator": "Blumarine; nss magazine published runway image, photographer not verified",
+      "source_url": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26",
+      "media_url": "https://data2.nssmag.com/images/galleries/45598/00004-blumarine-spring-2026-ready-to-wear.webp",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink spotted ruffles and cutouts; excluded because general romantic styling alone is insufficient."
+        }
+      ],
+      "resolution": {
+        "width": 427,
+        "height": 640
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "PI07",
+      "artifact_id": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26:Dilara Findikoglu Spring 2026 look 00028",
+      "title": "Dilara Findikoglu Spring 2026 look 00028",
+      "creator": "Dilara Findikoglu; nss magazine published runway image, photographer not verified",
+      "source_url": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26",
+      "media_url": "https://data2.nssmag.com/images/galleries/45598/00028-dilara-findikoglu-spring-2026-ready-to-wearbrand.webp",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark glossy corsetry and chains; excluded: low illumination limits detail and shared Gothic cues dominate."
+        }
+      ],
+      "resolution": {
+        "width": 427,
+        "height": 640
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI08",
+      "artifact_id": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26:Ludovic de Saint Sernin Spring 2026 look 00001",
+      "title": "Ludovic de Saint Sernin Spring 2026 look 00001",
+      "creator": "Ludovic de Saint Sernin; nss magazine published runway image, photographer not verified",
+      "source_url": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26",
+      "media_url": "https://data2.nssmag.com/images/galleries/45598/00001-ludovic-de-saint-sernin-spring-2026-ready-to-wearbrand.webp",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black tiered ruffles gathered around a broad laced leather waist; loose edges against a firm center."
+        }
+      ],
+      "resolution": {
+        "width": 427,
+        "height": 640
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI09",
+      "artifact_id": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26:Anna Sui Spring 2026 look 00023",
+      "title": "Anna Sui Spring 2026 look 00023",
+      "creator": "Anna Sui; nss magazine published runway image, photographer not verified",
+      "source_url": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26",
+      "media_url": "https://data2.nssmag.com/images/galleries/45598/00023-anna-sui-spring-2026-ready-to-wear.webp",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale ornate ruffled blouse, broad black ring-buckle belt, sheer floral trousers; decorative/fastened contrast."
+        }
+      ],
+      "resolution": {
+        "width": 427,
+        "height": 640
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI10",
+      "artifact_id": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26:Elena Velez Spring 2026 look 00026",
+      "title": "Elena Velez Spring 2026 look 00026",
+      "creator": "Elena Velez; nss magazine published runway image, photographer not verified",
+      "source_url": "https://www.nssmag.com/en/fashion/43127/piratecore-fashion-ss26",
+      "media_url": "https://data2.nssmag.com/images/galleries/45598/00026-elena-velez-spring-2026-ready-to-wear.webp",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Olive/gold draped irregular dress, dark eyeleted belt and pointed black boots; gathered asymmetry and fastening."
+        }
+      ],
+      "resolution": {
+        "width": 427,
+        "height": 640
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI11",
+      "artifact_id": "https://piratefashions.com/products/edward-teach-frock-coat:Edward Teach Frock Coat",
+      "title": "Edward Teach Frock Coat",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/edward-teach-frock-coat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/et_coat1.jpg?v=1614529489",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black long coat with broad brown turned cuffs, repeated bright round buttons and a narrow collar over a multi-buckled belt. The head and props are research context, not proposed assets."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI12",
+      "artifact_id": "https://piratefashions.com/products/buccaneer-pirate-coat:Buccaneer Pirate Coat",
+      "title": "Buccaneer Pirate Coat",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/buccaneer-pirate-coat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/buccoat1.jpg?v=1605826719",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Crimson long coat has broad black turned cuffs, small round metal button rows and open front over pale laced shirt/red sash; strong large planes and small fasteners."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI13",
+      "artifact_id": "https://piratefashions.com/products/captain-hook-coat:Captain Hook Coat",
+      "title": "Captain Hook Coat",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/captain-hook-coat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/files/capthook1_8c85db06-c349-4f98-b4f3-464b62692c71_copy.jpg?v=1729254074",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Burgundy brocade-like long coat has wide pale gold trim, black turned cuffs and gold buttons; large pale lace jabot and patterned stockings make an ornate theatrical variant."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI14",
+      "artifact_id": "https://piratefashions.com/products/bloody-pirate-shirt:Bloody Pirate Shirt",
+      "title": "Bloody Pirate Shirt",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/bloody-pirate-shirt",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/bloodyredshirt_m.jpg?v=1571274796",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red loose shirt with narrow laced neck and tied gathered cuffs; black breeches, red socks and bandana keep a strong red/black rhythm. No weapon behavior is analyzed."
+        }
+      ],
+      "resolution": {
+        "width": 320,
+        "height": 500
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI15",
+      "artifact_id": "https://piratefashions.com/products/rogue-pirate-shirt:Rogue Pirate Shirt",
+      "title": "Rogue Pirate Shirt",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/rogue-pirate-shirt",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/RogueShirt1.jpg?v=1604247573",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Plum shirt has very full sleeves gathered near shoulders and tied wrists, narrow laced opening, red sash and a broad diagonal dark buckle strap."
+        }
+      ],
+      "resolution": {
+        "width": 320,
+        "height": 500
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI16",
+      "artifact_id": "https://piratefashions.com/products/sea-worthy-shirt:Sea Worthy Shirt",
+      "title": "Sea Worthy Shirt",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/sea-worthy-shirt",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/sw_shirt1.jpg?v=1571274844",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White coarse-looking shirt has collar, deep laced placket and full gathered sleeves above black button-front trousers; small cord crosses a broad pale field."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI17",
+      "artifact_id": "https://piratefashions.com/products/sea-worthy-waistcoat:Sea Worthy Waistcoat Vest",
+      "title": "Sea Worthy Waistcoat Vest",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/sea-worthy-waistcoat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/files/SeaWorthyWaistcoatTEAL.jpg?v=1750801972",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Teal long open waistcoat frames a pale loosely gathered shirt and muted trousers; broad cool color planes and uneven fabric texture, with modest ornament."
+        }
+      ],
+      "resolution": {
+        "width": 2700,
+        "height": 4200
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI18",
+      "artifact_id": "https://piratefashions.com/products/sea-wolf-waistcoat:Sea Wolf Waistcoat",
+      "title": "Sea Wolf Waistcoat",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/sea-wolf-waistcoat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/blue_wc_sw.jpg?v=1750803554",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Bright blue long waistcoat with small silver button row, dark waist sash and broad diagonal black strap/ring buckle; banding structures the soft layers."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI19",
+      "artifact_id": "https://piratefashions.com/products/buccaneer-breeches:Buccaneer Breeches",
+      "title": "Buccaneer Breeches",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/buccaneer-breeches",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/files/BucBreeches1.jpg?v=1724612909",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black full breeches gathered into high waist with a diagonal silver button row and bright blue side strips carrying more buttons; firm narrow top/loose lower volume."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI20",
+      "artifact_id": "https://piratefashions.com/products/sailor-slops:Sailor Slops",
+      "title": "Sailor Slops",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/sailor-slops",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/slops_brown1.jpg?v=1573227205",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wide muted brown short slops under a long dark striped sash and broad ornate belt; plain cloth volume contrasts compact metal clasp."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "PI21",
+      "artifact_id": "https://piratefashions.com/products/ladies-chemise:Chemise",
+      "title": "Chemise",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/ladies-chemise",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/chemise_m.jpg?v=1571274798",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Mustard long chemise with gathered neck and voluminous sleeves. Excluded as a generic historical/faire garment without enough pirate-specific relationships alone."
+        }
+      ],
+      "resolution": {
+        "width": 320,
+        "height": 500
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI22",
+      "artifact_id": "https://piratefashions.com/products/vixen-skirt:Bonny Skirt",
+      "title": "Bonny Skirt",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/vixen-skirt",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/redvixen.jpg?v=1568682588",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red patterned skirt has a deep yoke, loose asymmetric gathered sides and pointed hanging hem sections; fabric volume replaces a regular rectangular boundary."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI23",
+      "artifact_id": "https://piratefashions.com/products/tortuga-bodice-reversible:Tortuga Bodice Reversible",
+      "title": "Tortuga Bodice Reversible",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/tortuga-bodice-reversible",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/files/TortugaOutfit_NavyGray.jpg?v=1762706729",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Navy open-front bodice with dark crisscross lacing and layered curved lower edge frames a pale gathered blouse and irregular gray/black skirt; full outfit contextualizes the bodice."
+        }
+      ],
+      "resolution": {
+        "width": 2700,
+        "height": 4200
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI24",
+      "artifact_id": "https://piratefashions.com/products/corsair-underbust-corset:Corsair Underbust Corset",
+      "title": "Corsair Underbust Corset",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/corsair-underbust-corset",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/corset_corsair_m.jpg?v=1571274798",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark narrow corset with red vertical striping and front lacing over red off-shoulder blouse; cream coin-like belt fringe and layered tied skirt form a theatrical mixed-material route."
+        }
+      ],
+      "resolution": {
+        "width": 320,
+        "height": 500
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI25",
+      "artifact_id": "https://piratefashions.com/products/pirate-treasure-belt:Pirate Treasure Belt",
+      "title": "Pirate Treasure Belt",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/pirate-treasure-belt",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/files/TreasureBeltNICKEL_LG.jpg?v=1744562400",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Broad black leather waist belt has multiple parallel silver-studded straps and stacked metal buckles, worn over a gold patterned long sash; firm layered fastening is the focus."
+        }
+      ],
+      "resolution": {
+        "width": 2700,
+        "height": 4200
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI26",
+      "artifact_id": "https://piratefashions.com/products/rosette-cockades:Rosette Cockades",
+      "title": "Rosette Cockades",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/rosette-cockades",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/cockaid2.jpg?v=1571274821",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Grouped physical rosette accessory family: pleated colored ribbon circles, small metallic centers and hanging dark tails. One related family count, not each color/rosette."
+        }
+      ],
+      "resolution": {
+        "width": 320,
+        "height": 500
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI27",
+      "artifact_id": "https://piratefashions.com/products/finished-feather-bundle:Finished Feather Bundle",
+      "title": "Finished Feather Bundle",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/finished-feather-bundle",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/featherbundle.jpg?v=1571274821",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two physical feather bundles combine long dark soft plumes, narrow striped shafts and tied stems; grouped as one accessory design family, not pose/color counts."
+        }
+      ],
+      "resolution": {
+        "width": 500,
+        "height": 320
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI28",
+      "artifact_id": "https://piratefashions.com/products/cotton-calico-pirate-bandana:Calico Pirate Bandana Scarf",
+      "title": "Calico Pirate Bandana Scarf",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/cotton-calico-pirate-bandana",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/files/RedFloralJaal_2.jpg?v=1743969312",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red/cream floral bandana tied behind head, with a long folded tail; paired black/gold brocade and small bead accents give costume context. No claim that floral cloth alone is exclusively pirate."
+        }
+      ],
+      "resolution": {
+        "width": 2700,
+        "height": 4200
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI29",
+      "artifact_id": "https://piratefashions.com/products/bucs-leather-bag:Buccaneer Leather Pouch",
+      "title": "Buccaneer Leather Pouch",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/bucs-leather-bag",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/red_buc_pouch.jpg?v=1571274811",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red gathered leather pouch has dark scalloped flap, round silver rivets, short pointed center tab and swiveling metal clasp; soft body/firm closure contrast."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI30",
+      "artifact_id": "https://piratefashions.com/products/sea-rover-leather-pirate-baldric:Sea Rover Leather Pirate Baldric",
+      "title": "Sea Rover Leather Pirate Baldric",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/sea-rover-leather-pirate-baldric",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/searoverbaldricbrown.jpg?v=1568682735",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Broad brown diagonal leather baldric with oversized ornamental gold rectangular buckle, punched adjustment holes, keeper and pointed end; secondary striped cloth sash below."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI31",
+      "artifact_id": "https://piratefashions.com/products/pirate-seamen-s-sashes:Linen Pirate Sashes",
+      "title": "Linen Pirate Sashes",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/pirate-seamen-s-sashes",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/redsash.jpg?v=1571274803",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wide red linen-like sash wraps in gathered bands and a side knot, with long hanging tail and fringed edges; narrow firm waist under loose cloth."
+        }
+      ],
+      "resolution": {
+        "width": 320,
+        "height": 500
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI32",
+      "artifact_id": "https://piratefashions.com/products/men-s-caribbean-pirate-boot:Caribbean Pirate Boot",
+      "title": "Caribbean Pirate Boot",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/men-s-caribbean-pirate-boot",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/carboot2.jpg?v=1611711850",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black knee boot has wide flared cuff, grainy surface and three decorative metal buckle straps at cuff, ankle and instep; one boot design, not one count per buckle/pair."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI33",
+      "artifact_id": "https://piratefashions.com/products/crow-nest-pirate-hat:Crow's Nest Pirate Hat",
+      "title": "Crow's Nest Pirate Hat",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/crow-nest-pirate-hat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/crowsnest_f.jpg?v=1632405726",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Brown broad front-cocked hat has curved folded brim, rope-like edge and a small central gold/silver skull-and-crossed-blade ornament; distinct from high tricorn silhouette."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI34",
+      "artifact_id": "https://piratefashions.com/products/pirate-captains-tricorn-hat:Pirate Captains Tricorn Hat",
+      "title": "Pirate Captains Tricorn Hat",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/pirate-captains-tricorn-hat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/captianhat1.jpg?v=1632405862",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black high tricorn has gold braid edging, narrow gold marks, pale/gold side feathers and a bright yellow tied bandana beneath; folded structure differs from broad front-cocked hat."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PI35",
+      "artifact_id": "https://piratefashions.com/products/leather-buccaneer-jerkin:Leather Buccaneer Jerkin",
+      "title": "Leather Buccaneer Jerkin",
+      "creator": "Pirate Fashions / current costume collection; source model/photographer not separately verified",
+      "source_url": "https://piratefashions.com/products/leather-buccaneer-jerkin",
+      "media_url": "https://cdn.shopify.com/s/files/1/0358/8265/products/leather_jerkin_9d7f17ca-a9c9-4798-a29a-a0ea90503ee9.jpg?v=1571274872",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black sleeveless leather jerkin has projecting shoulder tabs and paired ornate silver clasp plates down a narrow center opening, over white laced shirt/red stripe sash; clear firm/soft contrast."
+        }
+      ],
+      "resolution": {
+        "width": 640,
+        "height": 1000
+      }
+    }
+  ]
+}

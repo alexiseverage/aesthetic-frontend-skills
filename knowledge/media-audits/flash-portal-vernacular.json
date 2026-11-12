@@ -1,0 +1,1077 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL01",
+      "artifact_id": "https://www.webdesignmuseum.org/exhibitions/newgrounds-2003",
+      "title": "Newgrounds portal and forum, period screenshot plus current continuation",
+      "creator": "Newgrounds / Tom Fulp; archived 2003 design published by Web Design Museum",
+      "source_url": "https://www.webdesignmuseum.org/exhibitions/newgrounds-2003",
+      "media_url": "https://www.webdesignmuseum.org/uploaded/timeline/newgrounds/newgrounds-2003.png",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete 830\u00d73040 archive screenshot inspected at native zoom in five overlapping views: gold tank masthead, gray chamfered tabs, narrow login/search/poll controls, bordered three-column panels, compact text, cut-corner post cards, amber links and metallic rules. Current portal /portal and Tom Fulp forum /bbs/topic/1544355/1 were also opened: ranked lists, content rating icons, award/creator hierarchy and current black/amber chrome. All periods conservatively one website count. Archived controls were not tested. Abusive/adult copy and people are not proposed assets."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL02",
+      "artifact_id": "https://www.webdesignmuseum.org/exhibitions/miniclip-2001",
+      "title": "Miniclip 2001",
+      "creator": "Miniclip; Web Design Museum preserved screenshot",
+      "source_url": "https://www.webdesignmuseum.org/exhibitions/miniclip-2001",
+      "media_url": "https://www.webdesignmuseum.org/uploaded/fullscreen/miniclip-2001.png",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete published screenshot: blue ground, navy rounded column panels, italic white brand, thin pale-blue section bevels, white rounded feature tiles, oval Free Content button, mailing-list input/Submit and game-submission links. Static form affordances, not tested archived behavior."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL03",
+      "artifact_id": "https://www.webdesignmuseum.org/exhibitions/gamehouse-in-2000",
+      "title": "GameHouse 2000 \u2014 adjacent portal boundary",
+      "creator": "GameHouse; Web Design Museum preserved screenshots",
+      "source_url": "https://www.webdesignmuseum.org/exhibitions/gamehouse-in-2000",
+      "media_url": "https://www.webdesignmuseum.org/uploaded/fullscreen/2000/game-house-2000.png",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete home and contact-page originals inspected, one website: red/yellow/navy framing, extruded logo, small graphical category buttons, two-input login, compact high-score table and thin three-column dividers. Contact page uses text links, not a contact form. Source says Java/Shockwave: adjacent game-portal structure, not proof of an exclusively Flash site. Tiny preview is not counted."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL04",
+      "artifact_id": "https://homestarrunner.com/main",
+      "title": "Homestar Runner preserved main menu",
+      "creator": "Homestar Runner / publisher copyright 2000\u20132024 visible",
+      "source_url": "https://homestarrunner.com/main",
+      "media_url": "https://homestarrunner.com/main",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Centered illustrated stage, curved red/blue bands, white/gold bordered oval blue navigation, bold logo and small new/latest badges. The click-to-play overlay was activated; Games navigation led to Videlectrix. Latest promotional oval changed content/color. Character composition analyzed as reference only; no source characters copied."
+        }
+      ],
+      "states": [
+        "click-to-play overlay",
+        "loaded main stage",
+        "latest badge/content change",
+        "Games navigation to creator portal"
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL05",
+      "artifact_id": "https://videlectrix.itch.io/",
+      "title": "Videlectrix creator portal \u2014 current continuation",
+      "creator": "Videlectrix / itch.io",
+      "source_url": "https://videlectrix.itch.io/",
+      "media_url": "https://videlectrix.itch.io/",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Current gray page, rainbow line masthead, extruded Videlectrix mark, blue pixel lettering, game tiles nested in CRT-like beveled monitor frames and a right-side current release promotion. One portal, not a count per tile; current descendant, not dated as an original Flash-era screenshot."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL06",
+      "artifact_id": "https://www.albinoblacksheep.com/",
+      "title": "Albino Blacksheep portal \u2014 current continuation",
+      "creator": "Albino Blacksheep",
+      "source_url": "https://www.albinoblacksheep.com/",
+      "media_url": "https://www.albinoblacksheep.com/",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Current black masthead, round silver sheep badge, watercolor outer strip, embossed gray search field, large featured stage with orange play circle, numbered queue, previous/next and artist/title/shuffle controls. Item pages expose title/byline, user-triggered Flash launch and later comments. Modern container distinguished from preserved embedded works."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL07",
+      "artifact_id": "https://www.nitrome.com/",
+      "title": "Nitrome portal and HTML5 category \u2014 current continuation",
+      "creator": "Nitrome",
+      "source_url": "https://www.nitrome.com/",
+      "media_url": "https://www.nitrome.com/",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Purple pixel bevels, icon category tabs, black inset search well, large feature carousel, narrow top-games rank rail, framed tile grid and lavender feed headers. HTML5 tab visibly navigated to two-column named item list with icons/descriptions. Current HTML5 conversions explicitly separated from legacy Flash; cookie notice and advertising not historical evidence. No carousel timing measured."
+        }
+      ],
+      "states": [
+        "homepage feature and ranked/category panels",
+        "HTML5 tab activated",
+        "HTML5 two-column category listing"
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL08",
+      "artifact_id": "https://andkon.com/arcade/",
+      "title": "Andkon Arcade catalog",
+      "creator": "Andkon Arcade",
+      "source_url": "https://andkon.com/arcade/",
+      "media_url": "https://andkon.com/arcade/",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black ground, gray title/utility rails, large orange/yellow Page 2/3 circular badges, dense game mosaic, native search, yellow FAQ/Game List/Random links and compact gray-headed category columns. Complete upper and middle category views inspected. One catalog count, not its thumbnails; exact original skin date unverified."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL09",
+      "artifact_id": "https://www.newgrounds.com/portal/view/474371",
+      "title": "Achievement Unlocked original title/preloader",
+      "creator": "jmtb02 / John Cooney; Armor Games production; Newgrounds upload Dec 18 2008",
+      "source_url": "https://www.newgrounds.com/portal/view/474371",
+      "media_url": "https://www.newgrounds.com/portal/view/474371",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Original 720\u00d7400 white stage with lime uppercase sans title, small subtitle and credits, centered green framed progress bar and pale Play label. Ruffle wrapper successfully launched; original Play did not advance. Only original static title/preloader is counted; modern emulator logo is not period design evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL10",
+      "artifact_id": "https://www.newgrounds.com/portal/view/475127",
+      "title": "Meeblings original sponsor intro and main menu",
+      "creator": "Warnockworld / Ninja Kiwi; Newgrounds upload Dec 22 2008",
+      "source_url": "https://www.newgrounds.com/portal/view/475127",
+      "media_url": "https://www.newgrounds.com/portal/view/475127",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Full 640\u00d7480 original stage: black Ninja Kiwi sponsor intro with orange logo changed into sky/grass menu, swept pink bubble title with green outline, brown wooden sign Play/How to Play/More Games buttons, flower base and small white audio icons. Play did not advance in this embedding. Intro-to-menu motion observed, no precise duration or loop timing measured."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL11",
+      "artifact_id": "https://www.newgrounds.com/portal/view/476247",
+      "title": "Brick Stacker original instructions stage",
+      "creator": "ttursas; eltopo Sound System credited in original help",
+      "source_url": "https://www.newgrounds.com/portal/view/476247",
+      "media_url": "https://www.newgrounds.com/portal/view/476247",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Original help/menu inspected completely in overlapping views: dark navy swirled surround, vertical white title, blue-gray textured rectangular plane, condensed white/yellow headings, green key labels and two-column instructions, small Next/brick preview and blue brick platform. Native and iframe keyboard attempts did not dismiss help. Static instruction structure only, no working game-control claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL12",
+      "artifact_id": "https://www.albinoblacksheep.com/games/microlife",
+      "title": "Micro Life original title, menu and help",
+      "creator": "Kerb; preserved at Albino Blacksheep",
+      "source_url": "https://www.albinoblacksheep.com/games/microlife",
+      "media_url": "https://www.albinoblacksheep.com/games/microlife",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Original 600\u00d7400 stage progressed from green/yellow bubble title to organic leaf-like corner menu with Play/How to Play. Help button worked, replacing lower illustration with white bold instructions and Back/Click Here controls. Rounded irregular plates, dark outlines, lime gradients and scattered bubble accents. Original transition and help response observed; no measured cadence."
+        }
+      ],
+      "states": [
+        "user-triggered emulator launch excluded as legacy evidence",
+        "original title animation",
+        "main menu",
+        "How to Play activated; instruction panel"
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL13",
+      "artifact_id": "https://www.albinoblacksheep.com/games/linegame",
+      "title": "Line Game original control selection and level menu",
+      "creator": "Luke Thompson and Jack Tench / everybody panic; Albino Blacksheep sponsor",
+      "source_url": "https://www.albinoblacksheep.com/games/linegame",
+      "media_url": "https://www.albinoblacksheep.com/games/linegame",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete original 800\u00d7600 stage: dark red vertical gradient, gray dimensional arrow-key/mouse drawings, white rounded sans instructions, black/white creator/sponsor speech bubbles. Selecting mouse changed to a ring of silver circular A\u2013H level buttons around a large High Scores circle, left personal-best table and yellow mouse-mode accent. Working control selector, not a submitted high score."
+        }
+      ],
+      "states": [
+        "keyboard/mouse choice",
+        "mouse selected",
+        "circular level selector and personal-best table"
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL14",
+      "artifact_id": "https://www.albinoblacksheep.com/games/fltron",
+      "title": "FL Tron 2.0 original start, preloader and player choice",
+      "creator": "Dan Hsu; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/fltron",
+      "media_url": "https://www.albinoblacksheep.com/games/fltron",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete original 600\u00d7400 stage in black letterbox: slate/cyan grid and broad luminous horizontal Start slab. Click advanced through a wireframe car at 100 percent to metallic extruded title, small italic capital credits and long silver 1 Player/2 Players bottom buttons. Gray illustrated person is reference context only, not proposed asset. Actual user-triggered transition seen; duration unmeasured."
+        }
+      ],
+      "states": [
+        "Start",
+        "wireframe loading state at 100 percent",
+        "title and player choice"
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL15",
+      "artifact_id": "https://www.albinoblacksheep.com/games/curveball",
+      "title": "Curveball original title menu",
+      "creator": "Paragon Digital Media; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/curveball",
+      "media_url": "https://www.albinoblacksheep.com/games/curveball",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete original black stage with fine green perspective wireframe tunnel, large widely spaced white techno capitals, central white rounded Start Game/High Scores buttons. Moving green ball seen outside/above frame during menu; exact cadence not measured. This menu supplies a spare vector boundary against the ornate portal shell, not evidence that all Flash used metallic bevels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL16",
+      "artifact_id": "https://www.albinoblacksheep.com/games/bluebutton",
+      "title": "The Blue Button Game original title and instructions",
+      "creator": "CheeseMonkeyBill; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/bluebutton",
+      "media_url": "https://www.albinoblacksheep.com/games/bluebutton",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete original stage: broad graphite radial gradient and thick black inset frame, irregular hand-built metallic/shaded title, a dimensional blue orb and white outlined Play slab. Play changed to pixel/dotted white instruction heading and copy, central blue orb and small creator footer. Source portrait/brand collage observed only as context, not copied; color-only button distinction is an accessibility anti-pattern to avoid."
+        }
+      ],
+      "states": [
+        "title/menu",
+        "Play activated",
+        "instructions and next-level orb"
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL17",
+      "artifact_id": "https://www.albinoblacksheep.com/games/poom",
+      "title": "Poom original title and name form",
+      "creator": "Got-Used; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/poom",
+      "media_url": "https://www.albinoblacksheep.com/games/poom",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete compact pale yellow/lime stage: large red rounded outline title, translucent stacked ball trail, four isometric olive slabs with bright bevels and a large white arrow on the front slab. Activating arrow visibly rotated/lifted that slab into a front-facing name-entry panel with inset field and small Submit label. No name entered or submitted. Motion relationship directly observed, exact duration unmeasured."
+        }
+      ],
+      "states": [
+        "title and arrow slab",
+        "slab unfolding transition",
+        "name-entry form"
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL18",
+      "artifact_id": "https://www.albinoblacksheep.com/games/tumbler",
+      "title": "Tumbler original sponsor, maker splash and menu",
+      "creator": "Fuzion; Albino Blacksheep sponsor/preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/tumbler",
+      "media_url": "https://www.albinoblacksheep.com/games/tumbler",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete square original stage: black pixel ABS sponsor/Play screen changed on click to extruded gray maker symbol over animated blue cloud texture, then a white title and four silver pill-shaped menu controls. Each pill has black outline and inset red/green indicator, with a small outlined sound icon below. Instructions hover enlarged and changed indicator/text; no high score submitted."
+        }
+      ],
+      "states": [
+        "sponsor Play",
+        "maker symbol splash",
+        "menu",
+        "instructions hover emphasis"
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL19",
+      "artifact_id": "https://www.albinoblacksheep.com/games/happypill",
+      "title": "Happy Pill original menu",
+      "creator": "Jig Interactive; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/happypill",
+      "media_url": "https://www.albinoblacksheep.com/games/happypill",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete small stage with thick purple outer band, thin white inset rule, turquoise wavy/radiant field, irregular purple block-letter title and cartoon green/white capsules. Two small pill-shaped white/lilac gradient Play/Instructions buttons make the controls part of the visual vocabulary. No medical efficacy claim; playful fictional game only."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL20",
+      "artifact_id": "https://www.albinoblacksheep.com/games/bejeweled",
+      "title": "Bejeweled original instructions/menu",
+      "creator": "PopCap Games; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/bejeweled",
+      "media_url": "https://www.albinoblacksheep.com/games/bejeweled",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete original landscape stage: blue side console with inset score and New Game/Simple/Timed/Upgrade controls, gold beveled frame around checkerboard gem demo and instruction panel, large glossy dark orb meter, lime bonus bar. Pink dimensional logo, narrow informal rounded lettering and cyan-lit pill buttons. Demonstration gems changed arrangement; no score submitted. Small source type is low-contrast, an anti-pattern to improve in translation."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL21",
+      "artifact_id": "https://www.albinoblacksheep.com/games/motas",
+      "title": "Mystery of Time and Space original intro shell",
+      "creator": "Jan Albartus / Logan Interactive; original screen credits Lex van Someren for soundtrack",
+      "source_url": "https://www.albinoblacksheep.com/games/motas",
+      "media_url": "https://www.albinoblacksheep.com/games/motas",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete original landscape intro: dark olive diagonal extruded blocks, four empty yellow-edged recessed slots, centered stylized building/title banner and yellow serif typewriter text cycling credits and greetings below. Intro only inspected, not a working room puzzle or soundtrack license. Small top logo and external frame distinguished from artwork."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL22",
+      "artifact_id": "https://www.albinoblacksheep.com/games/locococoa",
+      "title": "Loco Cocoa original menu \u2014 restrained variation",
+      "creator": "Cataclysm Studios; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/locococoa",
+      "media_url": "https://www.albinoblacksheep.com/games/locococoa",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete tall ivory stage, narrow black irregular serif title and Play/Instructions controls, widely tracked host and creator footer. Spacious type-only menu is a useful counterweight to a false universal claim of metallic gradients. Original Flash menu, not evidence that plain ivory alone identifies portal style."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL23",
+      "artifact_id": "https://www.albinoblacksheep.com/games/goldminer",
+      "title": "Gold Miner original menu",
+      "creator": "GameRival / eUniverse; copyright 2003 visible in original",
+      "source_url": "https://www.albinoblacksheep.com/games/goldminer",
+      "media_url": "https://www.albinoblacksheep.com/games/goldminer",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete black landscape title stage, glowing irregular gold nugget Start button, small rounded gold Instructions plate and separate gold control legend with red arrow-key badges. Large outlined cartoon character carries composition context only; original controls and game-native material affordances are the relevant UI evidence, no character asset copied."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL24",
+      "artifact_id": "https://www.albinoblacksheep.com/games/missilegame3d",
+      "title": "Missile Game 3D original preloader",
+      "creator": "Roboman / Damien Clarke; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/missilegame3d",
+      "media_url": "https://www.albinoblacksheep.com/games/missilegame3d",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete black stage with lower-case lavender bold sans title, small italic host byline, thin horizontal filled loading rule and right-aligned italic Click here to play. Click cleared the stage to black; subsequent game/menu behavior not established. Only authored original preloader is counted, not the emulator boot screen."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL25",
+      "artifact_id": "https://www.albinoblacksheep.com/games/moonbuggy",
+      "title": "Moon Buggy original menu",
+      "creator": "GameTop; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/moonbuggy",
+      "media_url": "https://www.albinoblacksheep.com/games/moonbuggy",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete blue star/crater landscape stage, thick white futuristic tubular title, translucent dark chamfered left/upper plane and three long cut-corner outlined New Game/How to Play/More Free Games buttons with a large sound icon. Original rendered astronaut/vehicle is reference context only; menu geometry and external-game promotion are relevant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL26",
+      "artifact_id": "https://www.albinoblacksheep.com/games/10seconds",
+      "title": "10 Seconds Challenge original title",
+      "creator": "f1ash; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/10seconds",
+      "media_url": "https://www.albinoblacksheep.com/games/10seconds",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete blue/green gradient landscape stage with a small shaded green sphere/flag above large orange-outlined Japanese title and black English subtitle. Tiny Effect:ON and creator labels at top left. Sparse title-stage variation, not a universal portal palette; timing challenge gameplay was not tested."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "FL27",
+      "artifact_id": "https://www.albinoblacksheep.com/games/whackamoleman",
+      "title": "Whack-A-Moleman original begin stage",
+      "creator": "Andrew Kepple / TooMuchSpareTime; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/whackamoleman",
+      "media_url": "https://www.albinoblacksheep.com/games/whackamoleman",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete black stage, centered illustrated parody character with red ornamental Begin link superimposed, bold condensed white hosted-by sponsor footer and round badge. This is a boundary for image-led parody rather than a reusable ornamental interface grammar. No character, violence or intellectual-property asset will be copied."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL28",
+      "artifact_id": "https://www.albinoblacksheep.com/games/som",
+      "title": "Seconds of Madness original start menu",
+      "creator": "GHOST; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/som",
+      "media_url": "https://www.albinoblacksheep.com/games/som",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete square grayscale stage: nested mechanical circular tunnel forms, dim standing figure for context only, white thin angular techno Start lettering and smaller gray arrow-key instruction. No exact tunnel speed or loop was measured. Different authored stage style inside the same host shell."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL29",
+      "artifact_id": "https://www.albinoblacksheep.com/games/squares2",
+      "title": "Squares 2 original menu and help",
+      "creator": "Gavin Shapiro; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/squares2",
+      "media_url": "https://www.albinoblacksheep.com/games/squares2",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete white landscape stage, huge thin geometric lowercase title/play/help, floating small muted red/gray squares. Help activated a sliding transition into two-column instructions with large square/circle examples and a large lower-right play action. Counted as a directly verified spare Flash-stage variation, not proof that minimalism alone identifies a Flash portal."
+        }
+      ],
+      "states": [
+        "title/menu",
+        "Help activated",
+        "sliding help transition",
+        "complete help state"
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL30",
+      "artifact_id": "https://www.albinoblacksheep.com/games/run",
+      "title": "Run original mode selector",
+      "creator": "player_03 and Xela; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/run",
+      "media_url": "https://www.albinoblacksheep.com/games/run",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete black starfield stage, lower-case gray extruded title, large gray circular mode buttons with bold Adventure/Infinite/Edit/Credits labels, small right speed radio group and green checked Normal option, sponsor badge at bottom right. Low contrast is an observed limitation, not a requirement for new work. No gameplay speed tested."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "FL31",
+      "artifact_id": "https://www.albinoblacksheep.com/games/bustamove",
+      "title": "Puzzle Bobble Flash beta original title",
+      "creator": "Nils adaptation, original Taito game credited; source screen beta 0.9, 2004\u20132005",
+      "source_url": "https://www.albinoblacksheep.com/games/bustamove",
+      "media_url": "https://www.albinoblacksheep.com/games/bustamove",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete original landscape stage, deep blue starfield, large pink pixel/shaded title on yellow scalloped cloud, white pixel Push 1P Start Button line and small beta/version/creator footer. Sponsor/IP and small game creatures are attribution/context only, not reusable assets. Arcade-to-Flash adaptation, not independent invention of Taito game art."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "FL32",
+      "artifact_id": "https://www.kongregate.com/en",
+      "title": "Kongregate current portal \u2014 modern boundary",
+      "creator": "Kongregate / current 2026 site",
+      "source_url": "https://www.kongregate.com/en",
+      "media_url": "https://www.kongregate.com/en",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Current rounded search, icon rail, large image cards and purple daily-badge calendar; twentieth anniversary history links navigate to primary publisher story. Boundary: modern UI is not passed off as the 2006 Flash-era skin."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "FL33",
+      "artifact_id": "https://www.albinoblacksheep.com/games/beargunner",
+      "title": "Bear Gunner initial disclaimer \u2014 excluded",
+      "creator": "Androgynous; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/beargunner",
+      "media_url": "https://www.albinoblacksheep.com/games/beargunner",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Full authored black disclaimer with red Attention, dense white text and blue I Accept slab. No acceptance performed; actual game/menu unavailable without that step. Excluded from representative UI count."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "FL34",
+      "artifact_id": "https://www.albinoblacksheep.com/games/manhattan-project",
+      "title": "Lil Einstein Manhattan Project cutscene \u2014 excluded",
+      "creator": "Frozenfire / Matthew Ackerman; Albino Blacksheep preservation",
+      "source_url": "https://www.albinoblacksheep.com/games/manhattan-project",
+      "media_url": "https://www.albinoblacksheep.com/games/manhattan-project",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Full original cutscene showed hand-lettered white story copy, dark vignetted garage scene and tiny click-to-skip instruction. Source animation changes observed, but no representative menu was reached and skip click did not visibly skip. Excluded rather than counting narrative imagery as UI."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1196 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA01",
+      "artifact_id": "draculaclothing.com:velvet-vampire-dress",
+      "title": "Velvet Vampire Dress",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/velvet-vampire-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/velvet-vampire-dress.jpg?v=1778847844",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black velvet-like fitted dress has a small joined cape collar, sweetheart opening, long sleeves and lace flared cuffs; short front and long back make an irregular theatrical hem."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA02",
+      "artifact_id": "draculaclothing.com:vampire-gentlemen-gold-jacquard-coat",
+      "title": "Vampire Gentlemen Gold Jacquard Coat",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/vampire-gentlemen-gold-jacquard-coat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/vampire-gentleman-gold-jacquard-coat.jpg?v=1769081625",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Long gold-on-black scrolling coat is narrowed at the waist, with broad black lapels and cuffs and a very long opening; rich patterned fields frame an opaque quiet center."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA03",
+      "artifact_id": "draculaclothing.com:red-brocade-dracula-waistcoat",
+      "title": "Red Brocade Dracula Waistcoat",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/red-brocade-dracula-waistcoat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/red-brocade-dracula-waistcoat.jpg?v=1769688935",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Deep red brocade waistcoat has an exaggerated low rounded opening and double rows of covered buttons over a black high-necked shirt; mirrored ornament and dark framing give a formal nocturnal presentation."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA04",
+      "artifact_id": "draculaclothing.com:black-brocade-gothic-victorian-tailcoat",
+      "title": "Black Brocade Gothic Victorian Tailcoat",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/black-brocade-gothic-victorian-tailcoat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/black-brocade-gothic-victorian-tailcoat.jpg?v=1783847739",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Fitted black scrolling coat has peaked shoulders, a low curved opening and long skirt-like tails; tiny buttons form a narrow vertical center within broad patterned side panels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA05",
+      "artifact_id": "draculaclothing.com:burgundy-brocade-choker-dress",
+      "title": "Burgundy Brocade Choker Dress",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/burgundy-brocade-choker-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/burgundy-choker-dress.jpg?v=1783408295",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Burgundy high-low brocade dress joins a stiff standing choker collar to a pointed sweetheart body with a large open cutout; long rear panels extend a fitted waist."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "VA06",
+      "artifact_id": "draculaclothing.com:black-brocade-lace-victorian-blouse",
+      "title": "Black Brocade Lace Victorian Blouse",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/black-brocade-lace-victorian-blouse",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/black-brocade-lace-victorian-blouse.jpg?v=1765884288",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black gathered blouse has lace ruffles around a wide open neck, short flounced sleeves and a gathered waist. It is a romantic-goth boundary without sufficient vampire-specific theatrical tailoring."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA07",
+      "artifact_id": "draculaclothing.com:neo-victorian-high-low-dress",
+      "title": "Neo Victorian High Low Dress",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/neo-victorian-high-low-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/neo-victorian-high-low-dress.jpg?v=1779099321",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black tonal brocade dress has large stacked puff sleeves, a pointed neckline and steeply descending rear hem, joining a compact fitted body to long dark folds."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA08",
+      "artifact_id": "draculaclothing.com:blue-brocade-evil-queen-jacket",
+      "title": "Blue Brocade Evil Queen Jacket",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/blue-brocade-evil-queen-jacket",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/blue-brocade-evil-queen-jacket.jpg?v=1769091680",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Saturated blue cropped brocade jacket has an extremely tall scalloped standing collar, sharp shoulder points and a double-button pointed lower vest; this supplies a non-red dramatic variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA09",
+      "artifact_id": "draculaclothing.com:black-chenille-brocade-double-buttoned-vest",
+      "title": "Black Chenille Brocade Double Buttoned Vest",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/black-chenille-brocade-double-buttoned-vest",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/black-chenille-brocade-double-buttoned-vest.jpg?v=1784021702",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black double-breasted brocade vest has overlapping diagonal lapels and two rows of small silver-tone buttons; symmetrical tailoring and relief extend the aristocratic layer of the vocabulary."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "VA10",
+      "artifact_id": "draculaclothing.com:brocade-bib-blouse",
+      "title": "Brocade Bib Blouse",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/brocade-bib-blouse",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/brocade-bib-blouse.jpg?v=1775558840",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black fitted blouse has a white lace-bordered bib and white cuffs, with a small flat collar; the maid-like contrasting bib is a neighboring Victorian gothic treatment, excluded as defining vampire evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA11",
+      "artifact_id": "draculaclothing.com:black-brocade-corporate-goth-shirt",
+      "title": "Black Brocade Corporate Goth Shirt",
+      "creator": "Dracula Clothing",
+      "source_url": "https://draculaclothing.com/products/black-brocade-corporate-goth-shirt",
+      "media_url": "https://cdn.shopify.com/s/files/1/0836/4890/5481/files/black-brocade-corporate-goth-shirt.jpg?v=1769686346",
+      "resolution": {
+        "width": 890,
+        "height": 1536
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black brocade fitted shirt places a large gathered jabot below a jeweled high-neck closure, with long pointed shoulder extensions and small covered buttons down its narrow center."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA12",
+      "artifact_id": "punkrave.ch:order-of-the-void-cloak",
+      "title": "Order of the Void Cloak",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/order-of-the-void-cloak",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Order-of-the-Void-Cloak-My-Store-47493757.jpg?v=1757073817",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A long black satin-like cloak hangs from a high standing collar and layered brocade shoulder capelet, joined by a small silver-tone center clasp; an opaque shirt and laced waist anchor the broad drape."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA13",
+      "artifact_id": "punkrave.ch:lovett-ball-gown",
+      "title": "Lovett Ball Gown",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/lovett-ball-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Lovett-Ball-Gown-My-Store-48563099.jpg?v=1757798799",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A black full-length brocade gown has a square neckline, fitted buttoned body, shaped shoulders and flared lace-trimmed cuffs; broad quiet skirt folds contrast with the close central fastening."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA14",
+      "artifact_id": "punkrave.ch:john-dee-cloak",
+      "title": "John Dee Cloak",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/john-dee-cloak",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/John-Dee-Cloak-My-Store-47747165.jpg?v=1757073800",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A long black cloak layers a tall hood, scalloped shoulder cape and paired center ties around a small ornate clasp; wide dark folds surround a narrow central opening."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA15",
+      "artifact_id": "punkrave.ch:mysterious-mayhem-jacket-red",
+      "title": "Mysterious Mayhem Jacket - Red",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/mysterious-mayhem-jacket-red",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Mysterious-Mayhem-Jacket-Red-My-Store-48219836.jpg?v=1757073651",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A deep burgundy velvet-like coat has a standing collar, gathered raised shoulders and black scrolling applique framing the front; the waist narrows before the skirt opens into long side panels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA16",
+      "artifact_id": "punkrave.ch:elvira-gradient-ball-gown",
+      "title": "Elvira Gradient Ball Gown",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/elvira-gradient-ball-gown",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Elvira-Gradient-Ball-Gown-My-Store-48811186.jpg?v=1757800474",
+      "resolution": {
+        "width": 800,
+        "height": 800
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A black floor-length gown has an off-shoulder lace border, narrow fitted body and wide skirt fading to deep red at the hem; red appears as an atmospheric lower glow rather than a full bright field."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA17",
+      "artifact_id": "punkrave.ch:heren-gothic-ruffled-beast-buckle-shirt",
+      "title": "Dreadspire Shirt",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/heren-gothic-ruffled-beast-buckle-shirt",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Dreadspire-Shirt-PunkRave-49044836.webp?v=1760397125",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A high-neck black shirt stacks narrow diagonal ruffles beside two lines of ornate silver-tone buttons; wide puff sleeves gather into flared cuffs."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA18",
+      "artifact_id": "punkrave.ch:heren-gothic-lace-up-bubble-sleeved-shirt",
+      "title": "Cryptalune Shirt",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/heren-gothic-lace-up-bubble-sleeved-shirt",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Cryptalune-Shirt-PunkRave-49041238.jpg?v=1760397087",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A high-collar black brocade shirt has shiny angular shoulder inserts, large gathered sleeves and a precise center line of bright round buttons; matte relief contrasts with polished edges."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA19",
+      "artifact_id": "punkrave.ch:bloody-valentine-necklace",
+      "title": "Bloody Valentine Necklace",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/bloody-valentine-necklace",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Bloody-Valentine-Necklace-My-Store-48523078.jpg?v=1757798563",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A broad black lace choker drops to a pointed center carrying three red faceted gems and a teardrop; tiny black chain swags hang at the sides."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA20",
+      "artifact_id": "punkrave.ch:nightshade-gothic-bead-choker",
+      "title": "Nightshade - Gothic Bead Choker",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/nightshade-gothic-bead-choker",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Nightshade-Gothic-Bead-Choker-My-Store-48645220.jpg?v=1757799278",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A narrow black lace-and-mesh collar centers a dark oval jewel and hangs many black bead drops at alternating lengths; a delicate upper scallop contrasts with the lower fringe."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA21",
+      "artifact_id": "punkrave.ch:umbra-underbust-corset-red",
+      "title": "Umbra Underbust Corset - Red",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/umbra-underbust-corset-red",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Umbra-Underbust-Corset-Red-My-Store-48240289.jpg?v=1757073638",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A deep red-and-black relief corset forms sharp upper/lower points around a narrow waist; silver eyelets, a central black lace and tiny embossed scrolls define its functional opening."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA22",
+      "artifact_id": "punkrave.ch:esther-coat",
+      "title": "Esther Coat",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/esther-coat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Esther-Coat-My-Store-48214646.jpg?v=1757073661",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A fitted dark brocade coat has a wide pointed cape collar, tie bow, small central ornate clasps and side lacing; flared lower panels frame a narrow column of fastenings."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA23",
+      "artifact_id": "punkrave.ch:dark-luxury-coat",
+      "title": "Dark Luxury Coat",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/dark-luxury-coat",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Dark-Luxury-Coat-My-Store-46036399.jpg?v=1757074023",
+      "resolution": {
+        "width": 800,
+        "height": 800
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A black layered-look tailcoat has a gathered standing collar, pointed wide lapels, a row of carved silver-tone buttons and belted cuffs; dark patterned inset vest contrasts subtly with smooth outer tailoring."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA24",
+      "artifact_id": "punkrave.ch:wq-693lqf",
+      "title": "Pallorose Gothic Lace Chiffon Dress - Black & Red",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/wq-693lqf",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Pallorose-Dress-PunkRave-115779369.webp?v=1757072432",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A long burgundy-and-black gown has a laced fitted body with a large pointed scrolling lace overlay; transparent long black layers soften the skirt while red remains concentrated near the center."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA25",
+      "artifact_id": "punkrave.ch:dark-majesty-maxi-dress",
+      "title": "Dark Majesty Maxi Dress",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/dark-majesty-maxi-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Dark-Majesty-Maxi-Dress-PunkRave-48861384.jpg?v=1757800912",
+      "resolution": {
+        "width": 600,
+        "height": 750
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A black glossy gown has long split hanging sleeves, an off-shoulder neckline and a large tapering central lace applique; its long quiet drape carries a concentrated ornamental front."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA26",
+      "artifact_id": "punkrave.ch:gothic-majesty-maxi-dress",
+      "title": "Gothic Majesty Maxi Dress",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/gothic-majesty-maxi-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Gothic-Majesty-Maxi-Dress-My-Store-48815588.jpg?v=1757800512",
+      "resolution": {
+        "width": 800,
+        "height": 800
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A black floor-length dress has a sheer high-neck yoke with vertical ribs and a pointed lace body; long open sleeves and a broad skirt create dark layered depth."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA27",
+      "artifact_id": "punkrave.ch:alaric-shirt-white",
+      "title": "Alaric Shirt - White",
+      "creator": "punkrave.ch",
+      "source_url": "https://punkrave.ch/products/alaric-shirt-white",
+      "media_url": "https://cdn.shopify.com/s/files/1/0844/9146/9147/files/Alaric-Shirt-White-My-Store-48193266.jpg?v=1757073674",
+      "resolution": {
+        "width": 1024,
+        "height": 1024
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A bright ivory brocade shirt has a high gathered neck, large cascading jabot and full puff sleeves narrowed at the cuffs; small dark ornate buttons interrupt the pale front as a strong light-layer variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA28",
+      "artifact_id": "www.killstar.com:blood-moon-maxi-dress-red",
+      "title": "Blood Moon Maxi Dress",
+      "creator": "www.killstar.com",
+      "source_url": "https://www.killstar.com/products/blood-moon-maxi-dress-red",
+      "media_url": "https://cdn.shopify.com/s/files/1/0228/2373/files/BLOOD-MOON-MAXI-DRESS-A.jpg?v=1793624293",
+      "resolution": {
+        "width": 4000,
+        "height": 6002
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A deep red fitted floor-length gown has puff shoulders, a wide oval chest cutout and flared black pleated cuffs; narrow vertical volume and contrasting cuffs provide restrained vampire-romantic tailoring."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA29",
+      "artifact_id": "www.killstar.com:blood-heart-maxi-dress-black",
+      "title": "Blood Heart Maxi Dress",
+      "creator": "www.killstar.com",
+      "source_url": "https://www.killstar.com/products/blood-heart-maxi-dress-black",
+      "media_url": "https://cdn.shopify.com/s/files/1/0228/2373/files/BLOOD-HEART-MAXI-DRESS-A.jpg?v=1793624190",
+      "resolution": {
+        "width": 4000,
+        "height": 6001
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A black squared-neck full-length dress centers a red jeweled heart-like embroidered motif within pointed scrolling relief; the quiet broad skirt and dark gloves concentrate ornament at the chest."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "VA30",
+      "artifact_id": "www.killstar.com:basilica-velvet-maxi-dress-red",
+      "title": "Basilica Velvet Maxi Dress",
+      "creator": "www.killstar.com",
+      "source_url": "https://www.killstar.com/products/basilica-velvet-maxi-dress-red",
+      "media_url": "https://cdn.shopify.com/s/files/1/0228/2373/files/BASILICA-VELVET-MAXI-DRESS-A.jpg?v=1789999698",
+      "resolution": {
+        "width": 4000,
+        "height": 6000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A simple burgundy slip gown has thin straps, a thigh slit and black snake embroidery. This is a neighboring dark eveningwear example with insufficient specific tailoring to define Vampire Goth."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "VA31",
+      "artifact_id": "www.killstar.com:vamp-whisper-maxi-dress",
+      "title": "Vamp Whisper Maxi Dress",
+      "creator": "www.killstar.com",
+      "source_url": "https://www.killstar.com/products/vamp-whisper-maxi-dress",
+      "media_url": "https://cdn.shopify.com/s/files/1/0228/2373/files/VampWhisperMaxiDress-A.jpg?v=1770992894",
+      "resolution": {
+        "width": 4000,
+        "height": 6000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A plain black velvet-like long gown has a high neck, two tall front slits, open back and ribbon tie. Front and back were inspected as one artifact; the vampire product name alone is insufficient to distinguish it from broad dark eveningwear."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA32",
+      "artifact_id": "kambriel:choker-blackvictoriana",
+      "creator": "Kambriel",
+      "title": "Choker Blackvictoriana",
+      "source_url": "https://www.kambriel.com/choker-blackvictoriana.html",
+      "media_url": "https://www.kambriel.com/visions/choker-blackvictoriana3b.jpg",
+      "resolution": {
+        "width": 650,
+        "height": 500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black lace choker uses dense leaf-like points joined by thin open mesh flowers and looping bead-like fringe; large dark shapes and porous intervals form a tapering edge."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "VA33",
+      "artifact_id": "kambriel:parasol-argent",
+      "creator": "Kambriel",
+      "title": "Parasol Argent",
+      "source_url": "https://www.kambriel.com/parasol-argent.html",
+      "media_url": "https://www.kambriel.com/visions/parasol-argent.jpg",
+      "resolution": {
+        "width": 750,
+        "height": 1411
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A silver-tone hooked parasol handle carries fine angular botanical relief above pointed black fabric ends; only the handle detail is pictured. This is an Art Nouveau accessory boundary, not sufficient Vampire Goth evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "VA34",
+      "artifact_id": "kambriel:choker-arachne",
+      "creator": "Kambriel",
+      "title": "Choker Arachne",
+      "source_url": "https://www.kambriel.com/choker-arachne.html",
+      "media_url": "https://www.kambriel.com/visions/choker-arachne.jpg",
+      "resolution": {
+        "width": 775,
+        "height": 581
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A white open lace choker has small repeating floral mesh and a scalloped lower edge. It is a lace-craft neighbor but lacks sufficient vampiric context, so is excluded from defining evidence."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA35",
+      "artifact_id": "kambriel:fantomerouge",
+      "creator": "Kambriel",
+      "title": "Fantomerouge",
+      "source_url": "https://www.kambriel.com/fantomerouge.html",
+      "media_url": "https://www.kambriel.com/visions/fantomerouge5.jpg",
+      "resolution": {
+        "width": 714,
+        "height": 1000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black velvet-like gathered body and fitted long sleeves are edged with a red ruffle and paired with an enormous red transparent swirling hat; the dramatic red/black romantic composition extends the theatrical variant. The original photograph is an upper-body detail, not a complete view of the hem."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "VA36",
+      "artifact_id": "kambriel:victorianlacegown",
+      "creator": "Kambriel",
+      "title": "Victorianlacegown",
+      "source_url": "https://www.kambriel.com/victorianlacegown.html",
+      "media_url": "https://www.kambriel.com/visions/victorianlacegown2.jpg",
+      "resolution": {
+        "width": 688,
+        "height": 841
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A high-neck long-sleeved gown layers black scrolling lace over pale gold lining, with a close waist, white flared cuff trim and long train; large dark botanical relief dominates the long formal silhouette."
+        }
+      ]
+    }
+  ]
+}

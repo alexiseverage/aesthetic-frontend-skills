@@ -1,0 +1,1028 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS01",
+      "artifact_id": "https://fief.bandcamp.com/album/vii",
+      "title": "VII | Fief",
+      "creator": "Fief (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://fief.bandcamp.com/album/vii",
+      "media_url": "https://f4.bcbits.com/img/a0249326250_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Muted brown/red painterly armor and dreaming faces, small gold elongated blackletter logo at upper left, broad image field. Artist credits George Frederick Watts; layout Will-Helm Arts. Research figures only, not proposed assets."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS02",
+      "artifact_id": "https://fief.bandcamp.com/album/vi",
+      "title": "VI | Fief",
+      "creator": "Fief (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://fief.bandcamp.com/album/vi",
+      "media_url": "https://f4.bcbits.com/img/a0540973981_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Fine black-and-white woodland hatching, mushroom-dense edges and pale central clearing; lavender outer border, tiny bottom title plaque. Dense ornamental drawing contrasts open center."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS03",
+      "artifact_id": "https://fief.bandcamp.com/album/iv-reissue",
+      "title": "IV (Reissue) | Fief",
+      "creator": "Fief (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://fief.bandcamp.com/album/iv-reissue",
+      "media_url": "https://f4.bcbits.com/img/a0382100946_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Yellow and black grainy portrait with large illuminated F initial and thin inset frame. Research-only figure; color and framing are transferable, not the portrait."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS04",
+      "artifact_id": "https://fief.bandcamp.com/album/iii-reissue",
+      "title": "III (Reissue) | Fief",
+      "creator": "Fief (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://fief.bandcamp.com/album/iii-reissue",
+      "media_url": "https://f4.bcbits.com/img/a0180110037_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue outer frame and thin double white rules enclose gray grainy fantasy figures; blue slender blackletter logo overlaps lower image. Physical blue/white vinyl and sleeve view grouped as this same work."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DS05",
+      "artifact_id": "https://rabor.bandcamp.com/album/--19",
+      "title": "\u0417\u043e\u0440\u044e\u0448\u043a\u0430 | \u0420\u0430\u0431\u043e\u0301\u0440",
+      "creator": "\u0420\u0430\u0431\u043e\u0301\u0440 (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://rabor.bandcamp.com/album/--19",
+      "media_url": "https://f4.bcbits.com/img/a1536768727_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sepia meadow photograph and rounded white stamped logo, small thin sans title. Excluded: generic folk/nature presentation alone is weak for the bounded sleeve grammar."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DS06",
+      "artifact_id": "https://rabor.bandcamp.com/album/--14",
+      "title": "\u0417\u0430 \u043e\u043a\u043e\u043b\u0438\u0446\u0435\u0439 | \u0420\u0430\u0431\u043e\u0301\u0440",
+      "creator": "\u0420\u0430\u0431\u043e\u0301\u0440 (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://rabor.bandcamp.com/album/--14",
+      "media_url": "https://f4.bcbits.com/img/a0760673743_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sepia rural family photograph, rounded white logo and small handwritten-looking title. Excluded as generic folk-photo boundary, despite creator appearing in genre context."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS07",
+      "artifact_id": "https://spectralkingdom.bandcamp.com/album/glamour-of-mercy",
+      "title": "Glamour of Mercy | Spectral Kingdom",
+      "creator": "Spectral Kingdom (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://spectralkingdom.bandcamp.com/album/glamour-of-mercy",
+      "media_url": "https://f4.bcbits.com/img/a0699189261_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White rough blackletter artist/title separated from a small bordered monochrome historical battle engraving by large black margins."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS08",
+      "artifact_id": "https://spectralkingdom.bandcamp.com/album/my-doom-was-foretold",
+      "title": "My Doom Was Foretold | Spectral Kingdom",
+      "creator": "Spectral Kingdom (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://spectralkingdom.bandcamp.com/album/my-doom-was-foretold",
+      "media_url": "https://f4.bcbits.com/img/a3980405384_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Grainy gray carved creature/mask image within a thick white frame on star-speckled black; eroded white wordmark above and small title below."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS09",
+      "artifact_id": "https://spectralkingdom.bandcamp.com/album/til-death-shall-loose-me",
+      "title": "Til Death Shall Loose Me | Spectral Kingdom",
+      "creator": "Spectral Kingdom (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://spectralkingdom.bandcamp.com/album/til-death-shall-loose-me",
+      "media_url": "https://f4.bcbits.com/img/a3094075330_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "High-contrast photograph of a pointed stone gateway and candle rows, thin double border, white blackletter artist/title on broad sparse black."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS10",
+      "artifact_id": "https://sequesteredkeep.bandcamp.com/album/sorcerous-steel-2",
+      "title": "Sorcerous Steel | Sequestered Keep",
+      "creator": "Sequestered Keep (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://sequesteredkeep.bandcamp.com/album/sorcerous-steel-2",
+      "media_url": "https://f4.bcbits.com/img/a4230729622_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream full-field siege engraving carries an oversized interlaced sword-shaped wordmark; rounded gothic title anchors bottom. Hatching and ruled edge provide density."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS11",
+      "artifact_id": "https://sequesteredkeep.bandcamp.com/album/the-vale-of-ruined-towers-remaster",
+      "title": "The Vale of Ruined Towers [Remaster] | Sequestered Keep",
+      "creator": "Sequestered Keep (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://sequesteredkeep.bandcamp.com/album/the-vale-of-ruined-towers-remaster",
+      "media_url": "https://f4.bcbits.com/img/a1525341673_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink outer border, sunlit green valley with ruined red towers, large pale interlaced wordmark in upper sky and small blackletter title below. Artwork credited Silvana Massa; logo EinherjArt."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS12",
+      "artifact_id": "https://thefogweaver.bandcamp.com/album/dragonfly",
+      "title": "Dragonfly | Fogweaver",
+      "creator": "Fogweaver (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://thefogweaver.bandcamp.com/album/dragonfly",
+      "media_url": "https://f4.bcbits.com/img/a3792237737_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink/blue watercolor dragon forms framed by intricate white curling lines and corner circles; title/logo in pale old-style letterforms. Public cover for a release dated November 20, 2026, still upcoming at inspection; Sieskja credited."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS13",
+      "artifact_id": "https://thefogweaver.bandcamp.com/album/magelight",
+      "title": "Magelight | Fogweaver",
+      "creator": "Fogweaver (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://thefogweaver.bandcamp.com/album/magelight",
+      "media_url": "https://f4.bcbits.com/img/a0878092116_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue painted island fortress/dragon under pale pink moon, fine pale double frame and ornamental white wordmark. Sieskja credited."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS14",
+      "artifact_id": "https://thefogweaver.bandcamp.com/album/vedurnan",
+      "title": "Vedurnan | Fogweaver",
+      "creator": "Fogweaver (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://thefogweaver.bandcamp.com/album/vedurnan",
+      "media_url": "https://f4.bcbits.com/img/a1463011715_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dusty plum frame, pale rocky sea full of dragons, slim border and small pale ornamental title; Sieskja credited."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS15",
+      "artifact_id": "https://thefogweaver.bandcamp.com/album/spellwind",
+      "title": "Spellwind | Fogweaver",
+      "creator": "Fogweaver (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://thefogweaver.bandcamp.com/album/spellwind",
+      "media_url": "https://f4.bcbits.com/img/a3313536129_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Lavender textured field, white nested geometric frame and concentric rings around drawn mountain/wizard/staff, old-style title. Unexpected Specter credited for art; Artifakt Art for logo."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DS16",
+      "artifact_id": "https://erang.bandcamp.com/album/medieval-noir",
+      "title": "MEDIEVAL NOIR | Erang",
+      "creator": "Erang (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://erang.bandcamp.com/album/medieval-noir",
+      "media_url": "https://f4.bcbits.com/img/a0890658417_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Monochrome skull-painted person in domestic room, small slab-like title. Excluded as an outlying artist-photo treatment, not a strong defining sleeve model."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS17",
+      "artifact_id": "https://erang.bandcamp.com/album/tome-zero",
+      "title": "TOME ZERO | Erang",
+      "creator": "Erang (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://erang.bandcamp.com/album/tome-zero",
+      "media_url": "https://f4.bcbits.com/img/a0505989150_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Monochrome sword-bearing person above a dark sea, upper-right blackletter title. Type, tonal range and negative space support a photographed fantasy variant; no person asset proposed. Photo Myle."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS18",
+      "artifact_id": "https://erang.bandcamp.com/album/the-kingdom-is-ours",
+      "title": "The Kingdom is Ours | Erang",
+      "creator": "Erang (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://erang.bandcamp.com/album/the-kingdom-is-ours",
+      "media_url": "https://f4.bcbits.com/img/a1639603232_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Deep blue painted group of fantasy musicians/figures with large red curling title, pale moons behind; warm title/cool field variant. Figures are research context only."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS19",
+      "artifact_id": "https://erang.bandcamp.com/album/a-season-of-frost",
+      "title": "A SEASON OF FROST | Erang",
+      "creator": "Erang (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://erang.bandcamp.com/album/a-season-of-frost",
+      "media_url": "https://f4.bcbits.com/img/a2253918931_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale pink vertical snowy image between dark teal pseudo-inscribed side panels; two dark circular marks and restrained black serif heading. Marks are visual, not a decoded historical script."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS20",
+      "artifact_id": "https://chaucerianmyth.bandcamp.com/album/the-canterbury-tales",
+      "title": "The Canterbury Tales | Chaucerian Myth",
+      "creator": "Chaucerian Myth (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://chaucerianmyth.bandcamp.com/album/the-canterbury-tales",
+      "media_url": "https://f4.bcbits.com/img/a3377955158_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Bright illuminated-manuscript scene of mounted travelers before a fortified town, saturated red/blue/green/gold and no added visible title. Literary cover variant; not a universal dark palette."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS21",
+      "artifact_id": "https://countrym.bandcamp.com/album/sfdd",
+      "title": "SFDD | Soy Fan Del Dark | COUNTRYm.",
+      "creator": "COUNTRYm. (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://countrym.bandcamp.com/album/sfdd",
+      "media_url": "https://f4.bcbits.com/img/a1558011976_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Off-white square within yellow border; rough pale gray spiked-club sketch and brick patch at right, small two-line blackletter initials at left and catalog code CMT07 below."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS22",
+      "artifact_id": "https://heimatderkatastrophe.bandcamp.com/album/hdk-101-hdk-dungeon-synth-magazine-2",
+      "title": "HDK 101 \u2020 HDK Dungeon-synth magazine # 2 | V.A. | Heimat Der Katastrophe",
+      "creator": "Heimat Der Katastrophe (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://heimatderkatastrophe.bandcamp.com/album/hdk-101-hdk-dungeon-synth-magazine-2",
+      "media_url": "https://f4.bcbits.com/img/a3746650453_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black magazine-like cassette cover: white multi-line HDK wordmark, compact issue metadata, rounded rectangular fantasy portal picture and two-column artist footer. Separate complete packaging photo shows red translucent tape, printed shell labels, clear case and mini-book; same release counted once. Eugene Jaworski cover, Paolo Petrucci mini-book, additional Alan Hunter art credited."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS23",
+      "artifact_id": "https://dunkelheitprod.bandcamp.com/album/grabens-symphonie-the-years-of-1994-1996",
+      "title": "Grabens Symphonie (The Years Of 1994-1996) | LAMENTATION | Dunkelheit Produktionen",
+      "creator": "Dunkelheit Produktionen (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://dunkelheitprod.bandcamp.com/album/grabens-symphonie-the-years-of-1994-1996",
+      "media_url": "https://f4.bcbits.com/img/a3187875016_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black background, ornate white initial/blackletter Lamentation and two thresholded performer photos with candles; large centered compilation title. Modern 2018 compilation of 1994\u201396 music, not claimed original 1990s packaging."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS24",
+      "artifact_id": "https://oldenhelm.bandcamp.com/album/ruins-and-reverence",
+      "title": "Ruins and Reverence | Oldenhelm",
+      "creator": "Oldenhelm (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://oldenhelm.bandcamp.com/album/ruins-and-reverence",
+      "media_url": "https://f4.bcbits.com/img/a2870480238_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White portrait panel, thin ruled border, knot-like corners, black ink warrior/serpent drawing above huge angular Oldenhelm wordmark and small narrow subtitle."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS25",
+      "artifact_id": "https://ithildin.bandcamp.com/album/the-shadow-of-the-past",
+      "title": "The Shadow of the Past | Ithildin",
+      "creator": "Ithildin (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://ithildin.bandcamp.com/album/the-shadow-of-the-past",
+      "media_url": "https://f4.bcbits.com/img/a3871706029_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White intricately hatched moonlit tree and ruins on black star field; small irregular white wordmark/title occupies lower-left opening. Guillaume P. Tr\u00e9panier credited music/art."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS26",
+      "artifact_id": "https://iamdim.bandcamp.com/album/compendium-i",
+      "title": "Compendium I | DIM",
+      "creator": "DIM (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://iamdim.bandcamp.com/album/compendium-i",
+      "media_url": "https://f4.bcbits.com/img/a3667017537_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Warm naturalistic ruined round tower against pale blue and gold sky, small white calligraphic DIM at left; broad quiet painterly variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS27",
+      "artifact_id": "https://fief.bandcamp.com/album/ii-reissue",
+      "title": "II (Reissue) | Fief",
+      "creator": "Fief (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://fief.bandcamp.com/album/ii-reissue",
+      "media_url": "https://f4.bcbits.com/img/a1670877584_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green/blue mossy cave opening with toad, fire bowl and gold long-stemmed Fief wordmark; olive border and aged paint texture."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS28",
+      "artifact_id": "https://fief.bandcamp.com/album/i-reissue",
+      "title": "I (Reissue) | Fief",
+      "creator": "Fief (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://fief.bandcamp.com/album/i-reissue",
+      "media_url": "https://f4.bcbits.com/img/a1901551747_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Flat orange square with gold arch-topped medieval engraving, very large red-orange slender Fief wordmark and ornamental lower cartouche; warm two-ink-like variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS29",
+      "artifact_id": "https://rabor.bandcamp.com/album/gods-and-heroes-2",
+      "title": "\u0411\u043e\u0433\u0438 \u0438 \u0413\u0435\u0440\u043e\u0438 / Gods and Heroes | \u0420\u0430\u0431\u043e\u0301\u0440",
+      "creator": "\u0420\u0430\u0431\u043e\u0301\u0440 (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://rabor.bandcamp.com/album/gods-and-heroes-2",
+      "media_url": "https://f4.bcbits.com/img/a2962926573_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Illuminated manuscript battle scene between cream text bands, small red/gold angular artist mark and black ornate bottom title."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "DS30",
+      "artifact_id": "https://rabor.bandcamp.com/album/--7",
+      "title": "\u0417\u0430 \u0422\u0440\u0438\u0434\u0435\u0432\u044f\u0442\u044c \u0417\u0435\u043c\u0435\u043b\u044c | \u0420\u0430\u0431\u043e\u0301\u0440",
+      "creator": "\u0420\u0430\u0431\u043e\u0301\u0440 (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://rabor.bandcamp.com/album/--7",
+      "media_url": "https://f4.bcbits.com/img/a3789472093_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark green fern photo behind huge white rounded logo and small tracked sans title. Excluded: nature subject plus creator label is insufficient to define this sleeve culture."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS31",
+      "artifact_id": "https://secretstairways.bandcamp.com/album/enchantment-of-the-ring",
+      "title": "Enchantment of the Ring | Secret Stairways",
+      "creator": "Secret Stairways (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://secretstairways.bandcamp.com/album/enchantment-of-the-ring",
+      "media_url": "https://f4.bcbits.com/img/a0216647154_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete unfolded black/white J-card: broad illustrated front with huge curling Secret Stairways title, narrow vertical spine and rotated small track/notes panel. Trees surround a black hooded figure; folded-panel hierarchy directly visible."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS32",
+      "artifact_id": "https://secretstairways.bandcamp.com/album/turning-point",
+      "title": "Turning Point | Secret Stairways",
+      "creator": "Secret Stairways (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://secretstairways.bandcamp.com/album/turning-point",
+      "media_url": "https://f4.bcbits.com/img/a1341392822_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gray grainy castle/cliff scene, large thin curling wordmark top left and title lower right; the towering silhouette creates asymmetrical depth."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS33",
+      "artifact_id": "https://a-spell-enraged.bandcamp.com/album/medieval-journeys-remastered",
+      "title": "Medieval Journeys (remastered) | GOTHMOG | A Spell Enraged",
+      "creator": "A Spell Enraged (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://a-spell-enraged.bandcamp.com/album/medieval-journeys-remastered",
+      "media_url": "https://f4.bcbits.com/img/a1462983899_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete worn J-card with black vertical spine, white ruled title box, limited-to-300/copy-number blank and blue handwritten 1; orange/red fire-and-dragon front with cream spiky wordmark."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "DS34",
+      "artifact_id": "https://mortiis.bandcamp.com/album/the-song-of-a-long-forgotten-ghost",
+      "title": "The Song of a Long Forgotten Ghost | Mortiis (Official)",
+      "creator": "Mortiis (Official) (publishing artist/label; specific artwork credits in observation where supplied)",
+      "source_url": "https://mortiis.bandcamp.com/album/the-song-of-a-long-forgotten-ghost",
+      "media_url": "https://f4.bcbits.com/img/a0069458161_10.jpg",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Monochrome intricate tree/hair drawing framed by interlaced curved border, ragged Mortiis wordmark and bottom old-style title. Complete published source cover; no historical print-size or original-edition date inferred."
+        }
+      ]
+    }
+  ]
+}

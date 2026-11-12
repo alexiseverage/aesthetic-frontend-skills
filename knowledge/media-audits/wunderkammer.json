@@ -1,0 +1,1087 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU01",
+      "artifact_id": "met:198556",
+      "title": "Studiolo from the Ducal Palace in Gubbio",
+      "creator": "Francesco di Giorgio Martini / multiple makers / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/198556/471562/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 961
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Golden-brown inlaid wall panels depict open lattice doors and shelved objects in illusionistic perspective; thin nested frames and a blue band of gold Roman capitals organize the dense room."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU02",
+      "artifact_id": "met:188904",
+      "title": "Basin",
+      "creator": "Follower of Bernard Palissy, decoration after Fran\u00e7ois Briot / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/188904/391404/main-image",
+      "resolution": {
+        "width": 1088,
+        "height": 1048
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A circular basin has a broad relief border, inner lobed scenes and a small central medallion, separated by deep dark concentric bands. The institutional photograph is monochrome, so no object hue is inferred."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU03",
+      "artifact_id": "met:193595",
+      "title": "Cup with cover",
+      "creator": "Hans van Amsterdam / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/193595/2200561/main-image",
+      "resolution": {
+        "width": 1005,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A dark carved coconut body is supported by narrow bright gilded mounts, small figures and an ornate foot; the contrast between natural shell and elaborate metalwork makes the material pairing conspicuous."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU04",
+      "artifact_id": "met:207013",
+      "title": "Incense burner",
+      "creator": "Northern Italian, probably Padua / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/207013/1590710/main-image",
+      "resolution": {
+        "width": 895,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A dark bronze vertical burner stacks domed pierced cap, mythical figures, square relief base and curling feet, making a miniature architectural structure from varied ornamental units."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU05",
+      "artifact_id": "met:193611",
+      "title": "Goldsmith\u2019s bowl model with Roman Charity",
+      "creator": "Said to be based on Sebald Beham / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/193611/429803/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 1190
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A warm brown wooden bowl has a quiet broad interior around a dense central figure medallion, with a finely carved vine border punctuated by small heads."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU06",
+      "artifact_id": "met:193504",
+      "title": "Carchesius",
+      "creator": "Hans Kels the Younger / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/193504/429819/main-image",
+      "resolution": {
+        "width": 1163,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A carved wood portrait medal places large Roman capitals around its edge, separating a small inset portrait from a very narrow outer rim; relief type is both label and ornament."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU07",
+      "artifact_id": "met:193459",
+      "title": "Pendant model with the Labors of Hercules",
+      "creator": "Flemish or German, Rhineland / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/193459/2201456/main-image",
+      "resolution": {
+        "width": 995,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "An oval narrative inset sits in an elaborate warm wood frame with scrolls, masks, leaves and a top hanging loop; the irregular edge surrounds a clearly bounded center."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU08",
+      "artifact_id": "met:196395",
+      "title": "Table clock with skeleton movement",
+      "creator": "German / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/196395/429817/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 1135
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A squat gilded cylindrical clock has concentric dial rings, incised radial marks and a dark hand, with a continuous engraved narrative band around the side."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU09",
+      "artifact_id": "met:193593",
+      "title": "Relief mounted as a mirror frame",
+      "creator": "Wenzel Jamnitzer / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/193593/2202184/main-image",
+      "resolution": {
+        "width": 883,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A pale circular mirror sits inside a broad rectangular gold relief field packed with figures and scrolls, enclosed by thin dark nested molding and a small top hanger."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU10",
+      "artifact_id": "met:193609",
+      "title": "Mirror clock",
+      "creator": "Master CR; designs associated with Matthias Z\u00fcndt and Cornelis Bos / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/193609/1416858/main-image",
+      "resolution": {
+        "width": 901,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A large gold circular dial has many concentric fine scales and a smaller dial above; an openwork figurative stem and ornate circular foot contrast with precise radial measurement."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU11",
+      "artifact_id": "met:197095",
+      "title": "Hercules and Nessus",
+      "creator": "Annibale Fontana / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/197095/475492/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 960
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "White engraved figures on transparent rock crystal are enclosed by a thin black-and-gold oval border, combining a luminous image field with a precise repeated small-edge pattern."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU12",
+      "artifact_id": "met:195335",
+      "title": "Augsburg cabinet",
+      "creator": "Southern German, Augsburg / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/195335/2533576/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 816
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A low brown rectangular cabinet divides into many unequal drawers and larger central doors; every face has illusionistic architectural inlay, thin dark moldings and a small black knob."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU13",
+      "artifact_id": "met:201633",
+      "title": "Platter",
+      "creator": "Follower of Bernard Palissy / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/201633/2262026/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 900
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "An oval glazed platter combines snakes, fish, shells and leaves in raised relief; green and pale creatures sit against an irregular blue/brown mottled bed. Natural forms become an artificial gathered microcosm."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU14",
+      "artifact_id": "met:193606",
+      "title": "Celestial globe with clockwork",
+      "creator": "Gerhard Emmoser / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/193606/485077/main-image",
+      "resolution": {
+        "width": 945,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A silver engraved globe in gold rings rests on a silver winged horse and a gold oval foot; scientific markings coexist with fantastic sculptural support."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU15",
+      "artifact_id": "met:238523",
+      "title": "Cabinet",
+      "creator": "Herman Doomer and other makers / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/238523/490188/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 769
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "Opened dark cabinet doors reveal small decorated drawers surrounding a central mirrored checkerboard recess; white inlay, brown wood grain, tiny floral plaques and a green inner drawer add nested material contrasts."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU16",
+      "artifact_id": "met:232119",
+      "title": "Casket",
+      "creator": "Attributed to Michel Redlin / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/232119/468450/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 900
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "An amber-orange miniature architectural casket has stacked roof-like tiers, turned columns, ball finials, drawers, a central latch and bright gilded details; translucent patches vary across fitted panels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU17",
+      "artifact_id": "met:237021",
+      "title": "Canister",
+      "creator": "Hungarian, possibly Fogaras / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/237021/1435044/main-image",
+      "resolution": {
+        "width": 956,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A lobed gold-and-black canister is covered with fine floral relief and oval crest panels, topped by a broad curling handle; small inscriptions and repeated vertical divisions structure its surface."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU18",
+      "artifact_id": "met:648075",
+      "title": "Ostrich ewer and basin",
+      "creator": "Marx Weinold; basin by Johann Mittnacht I / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/648075/1624691/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 895
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A silver ostrich-shaped vessel stands beside a huge circular basin with alternating gold and silver petal segments; tiny chains and textured feathers contrast with the broad radial polished field."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU19",
+      "artifact_id": "met:237022",
+      "title": "Feeding bowl",
+      "creator": "Hungarian, Transylvania / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/237022/1443299/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 900
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A shell-like silver-and-gold bowl has a scalloped rim, ribbed covered section, small perforated spoon-like opening and a finely engraved round central seal."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU20",
+      "artifact_id": "met:237024",
+      "title": "Hexagonal dish",
+      "creator": "Hungarian, Transylvania / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/237024/1461005/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 1128
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A hexagonal dish surrounds a round gold center with high-relief silver foliage and repeated seed-pod forms; a fine incised monogram stays contained within the central medallion."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "WU21",
+      "artifact_id": "met:237044",
+      "title": "Wine decanter",
+      "creator": "Simon Petrus Conrad / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/237044/489061/main-image",
+      "resolution": {
+        "width": 900,
+        "height": 1200
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A smooth silver decanter has a bulbous base, long narrow neck and plain curved handle with restrained bands. It is retained as a relatively plain collection-context boundary, not defining Wunderkammer ornament."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU22",
+      "artifact_id": "met:193622",
+      "title": "Allegory of Virtues and Vices at the Court of Charles V",
+      "creator": "Hans Daucher / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/193622/483942/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 832
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A shallow rectangular stone relief divides many small narrative scenes through arches, figures and a central inscribed architectural block; dense stories are organized inside one thin raised border."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU23",
+      "artifact_id": "met:193492",
+      "title": "Clara Rosenberger",
+      "creator": "Southern German / published by The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/essays/collecting-for-the-kunstkammer",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/193492/468032/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 1095
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "type"
+          ],
+          "observation": "A tiny dark portrait relief with surrounding fine inscription sits within a wide pale-brown circular turned frame; nested rings magnify and isolate the small precious center."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU24",
+      "artifact_id": "met:188830",
+      "title": "Ivory cabinet",
+      "creator": "Workshop of Melchior Baumgartner / The Metropolitan Museum of Art",
+      "source_url": "https://www.metmuseum.org/art/collection/search/188830",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/188830/459457/main-image",
+      "resolution": {
+        "width": 1200,
+        "height": 1078
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale ivory outer panels unfold to a silver-and-gold miniature architectural interior, with many narrow drawers around a tall central shrine-like door, columns and precise beaded moldings. Distinct from the Olbricht cabinet: gray metallic inner drawers and arched gold figure panels replace its painted enamel scenes."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU25",
+      "artifact_id": "francke:collection-room",
+      "title": "Francke collection room and storage/display furniture",
+      "creator": "Francke Foundations; photographs Markus Scholz and Klaus E. G\u00f6ltz",
+      "source_url": "https://wunderkammer.francke-halle.de/en/kapitel/naturalia",
+      "media_url": "https://wunderkammer.francke-halle.de/fileadmin/_processed_/files/8/9/csm_38_Apothekertisch_90f92fcc76.jpg",
+      "resolution": {
+        "width": 936,
+        "height": 624
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale wood apothecary table uses deep storage drawers, tiny dark handles and an opened blue-gray panel; behind it, glazed pale-green cupboards contain individually bounded objects. Supplemental room views show a large blue-gray armillary-like teaching model and light walls. A cabinet-crown detail shows painted animals within gray scrollwork and pale green shell-like shapes. These views are grouped conservatively as one collection/display artifact, not counted separately."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU26",
+      "artifact_id": "rct:cameo-pendant",
+      "title": "Pendant with thirteen cameos",
+      "creator": "Royal Collection Trust",
+      "source_url": "https://www.rct.uk/collection/stories/wunderkammer-cabinet-of-curiosities",
+      "media_url": "https://cmsadmin.rct.uk/sites/default/files/261042-1331571034.jpg",
+      "resolution": {
+        "width": 1520,
+        "height": 2000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "An open gold pendant assembles many small black/white cameos around one rectangular narrative panel; white/blue enamel rims, red and green accents, dragons and suspended bottom pieces create a miniature collection inside one frame."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU27",
+      "artifact_id": "rct:gothic-dining-room-1817",
+      "title": "Carlton House: The Gothic Dining Room, 1817",
+      "creator": "Royal Collection Trust",
+      "source_url": "https://www.rct.uk/collection/stories/wunderkammer-cabinet-of-curiosities",
+      "media_url": "https://cmsadmin.rct.uk/sites/default/files/257102-1330624205.jpg",
+      "resolution": {
+        "width": 1500,
+        "height": 1107
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A watercolor shows a long formal room of gold pointed arches, shallow display niches, repeating crystal chandeliers and deep red curtains around a long table. The source explicitly treats this later interior as an associated display context, not proof of conscious sixteenth-century collecting intent."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU28",
+      "artifact_id": "olbricht:amber-mirror",
+      "title": "Amber mirror in original case, Danzig, c.1650",
+      "creator": "Kunstkammer Georg Laue / me Collectors Room Berlin",
+      "source_url": "https://www.me-berlin.com/wunderkammer/lang/en/",
+      "media_url": "https://www.me-berlin.com/wp-content/uploads/2010/03/470x265_16.9_Bernstein-Spiegel-im-originalen-Etui-Danzig-um-1650-L\u00e4nge-des-Spiegels-40-cm-\u00a9-Kunstkammer-Georg-Laue-M\u00fcnchen.jpg",
+      "resolution": {
+        "width": 470,
+        "height": 265
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The complete small published photograph shows a red-amber handled mirror with a polygonal center, small framed inset figures and a jagged scrolling outline. Only broad silhouette, color and inset framing are legible; no tiny carving or inscription is inferred."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU29",
+      "artifact_id": "olbricht:vanitas-head",
+      "title": "Vanitas reversible head, Flemish, c.1520",
+      "creator": "Kunstkammer Georg Laue / me Collectors Room Berlin",
+      "source_url": "https://www.me-berlin.com/wunderkammer/lang/en/",
+      "media_url": "https://www.me-berlin.com/wp-content/uploads/2010/03/470x265_16.9_Vanitas-Wendekopf-Fl\u00e4misch-um-1520-H\u00f6he-68-cm-H\u00f6he-mit-Sockel-15-cm-\u00a9-Kunstkammer-Georg-Laue-M\u00fcnchen.jpg",
+      "resolution": {
+        "width": 470,
+        "height": 265
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The complete small published object photograph shows a pale carved skull face with dark openings, a tiny creature across the top and an inscribed round lower band. It supports the broad vanitas/inscribed-miniature motif; fine lettering is not transcribed."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU30",
+      "artifact_id": "olbricht:ivory-cabinet",
+      "title": "Ivory cabinet, circle of Melchior Baumgartner, Augsburg, c.1650",
+      "creator": "Kunstkammer Georg Laue / me Collectors Room Berlin",
+      "source_url": "https://www.me-berlin.com/wunderkammer/lang/en/",
+      "media_url": "https://www.me-berlin.com/wp-content/uploads/2010/03/470x265_16.9_Elfenbein-Kabinettschrank-Melchior-Baumgartner-Umkreis-Augsburg-um-1650-H\u00f6he-425-cm-Breite-37-cm-Tiefe-225-cm-\u00a9-Kunstkammer-Georg-Laue-M\u00fcnchen.jpg",
+      "resolution": {
+        "width": 470,
+        "height": 265
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The complete small photograph shows pale double doors open around many drawers and a tall central panel, each inset with small colored figure scenes and fine gold scrolls. It supports compartment hierarchy and pale variants; microscopic scene details are unknown."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "WU31",
+      "artifact_id": "castrucci:prague-castle",
+      "title": "View of Prague Castle",
+      "creator": "Giovanni Castrucci / Kunsthistorisches Museum Vienna, via Europeana",
+      "source_url": "https://www.europeana.eu/en/stories/cabinets-of-curiosities-and-the-wunderkammer-of-rudolf-ii-in-prague",
+      "media_url": "https://images.ctfassets.net/i01duvb6kq77/79h9ZiPrTTDJMTYSCQ9C3z/e76ebf5e175be7bc4dd9c8f729f6583f/Ansicht_des_Hradschin_in_Prag?q=80&fm=webp",
+      "resolution": {
+        "width": 1523,
+        "height": 824
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cut stone pieces make a panoramic architectural landscape: ivory marbled sky, dark green ground, red roofs and small green domes. Natural veins become sky and terrain inside precisely fitted man-made silhouettes. Attribution names Giovanni Castrucci and the Vienna museum, with CC BY-NC-SA handling; media is linked only."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "WU32",
+      "artifact_id": "olbricht:installation-2012",
+      "title": "Olbricht installation, 2012",
+      "creator": "Jana Ebert / me Collectors Room Berlin",
+      "source_url": "https://www.me-berlin.com/wunderkammer/lang/en/",
+      "media_url": "https://www.me-berlin.com/wp-content/uploads/2013/01/Blick-in-die-Wunderkammer-Olbricht-2012-\u00a9-me-Collectors-Room-Berlin-Foto-Jana-Ebert-470x313.jpg",
+      "resolution": {
+        "width": 470,
+        "height": 313
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A small derivative room image shows dark walls, lit glass cases and a tall domed display on a turned pedestal. Its object details are too small to establish construction; excluded from qualifying evidence."
+        }
+      ]
+    }
+  ]
+}
