@@ -300,4 +300,3 @@ Japanese, 1883-1959. [Provenance](https://www.artic.edu/artworks/39094); [inspec
 
 Tsujimura Shiro
 Japanese, born 1947. [Provenance](https://www.artic.edu/artworks/193232); [inspected media](https://www.artic.edu/iiif/2/0312c3f3-f593-3516-038a-4a959bb3ff3a/full/1686,/0/default.jpg). Accessed 2026-11-12; 843 × 822. Directly observed: Tsujimura water jar has a thick uneven lip and two small side lugs. Orange clay and gray-green ash-like glaze divide its granular surface, with isolated light inclusions and an inset low lid. Coherent joins and slight asymmetry preserve the sense of a usable object. Static object photograph establishes neither typography nor motion timing. Rights/handling: Image copyright retained by artist/institution; linked analytical viewing only. No download or production reuse..
-

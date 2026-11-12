@@ -234,4 +234,3 @@ Vista Aero project; creator unspecified on welcome panel. [Provenance](https://w
 **FA38 — Contemporary interactive parallax** — boundary comparison, excluded from count
 
 Creator unspecified on inspected page. [Provenance](https://frutigeraero.pages.dev/); [inspected media](https://frutigeraero.pages.dev/). Accessed 2026-11-12; 1280 × 900. Directly observed: At initial scroll position, sky and white clouds fill the scene. Scrolling 1800 pixels reveals a crisp reflective city and saturated grass while layers shift at different rates. Browser reports randomized cloud drift around 54–70 seconds and butterfly flutter around 5–10 seconds on this visit; these are declared contemporary CSS durations, not timed historical footage. Rights/handling: Copyright retained by respective creators; no source images shipped..
-

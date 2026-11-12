@@ -280,4 +280,3 @@ Series producers / licensed distributor MHz Choice; key-art designer not establi
 **SN34 — Fallen** — alternate complete cover version; same series already counted
 
 Series producers / licensed distributor MHz Choice; key-art designer not established. [Provenance](https://mhzchoice.com/trailer-nordic-noir-drama-fallen-starring-sofia-helin/); [inspected media](https://mhzchoice.com/wp-content/uploads/2024/08/FALLEN-C-00000T-scaled.jpg). Accessed 2026-11-12; 2560 × 1440. Directly observed: Dry rust-brown grasses and autumn trees surround a modern low white house, police car and ordinarily dressed figures. Wide white thin type crosses the lower-left ground. Warm rural daylight still supports institutional and domestic unease. Rights/handling: Producer, artist and distributor rights retained. Publisher-hosted complete image streamed for analysis only; no original stored or reused..
-

@@ -264,4 +264,3 @@ Libellud; cover artist attribution must be checked per product credits. [Provena
 **BG32 — Take Time**
 
 Libellud; cover artist attribution must be checked per product credits. [Provenance](https://www.libellud.com/game/take-time/); [inspected media](https://cdn.svc.asmodee.net/production-libelludv2/uploads/2024/07/LIBELLUD_TAKETIME_BOX_LEFT_ML.webp). Accessed 2026-11-12; 686 × 678. Directly observed: A gold clock ring encloses the two-line serif Take Time title on a dark teal pool. Lily pads, dragonflies and delicate clock hands reinforce the time-and-nature theme, with compact circular player/age/time indicators in a lower corner. Rights/handling: Creator and publisher copyright retained. Complete publisher-hosted image streamed for analysis only; no production reuse or stored original..
-

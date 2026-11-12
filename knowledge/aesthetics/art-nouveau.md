@@ -197,7 +197,7 @@ France. [Provenance](https://www.artic.edu/artworks/145457); [inspected media](h
 
 Designed by Arthur Silver (English, 1853-1896)
 Produced by Silver Studio
-Sold by Liberty & Co. Ltd. 
+Sold by Liberty & Co. Ltd.
 France, Alsace. [Provenance](https://www.artic.edu/artworks/72909); [inspected media](https://www.artic.edu/iiif/2/7715f5ee-6745-888a-e8fb-d5d1f4e3ae76/full/1686,/0/default.jpg). Accessed 2026-11-12; 1686 × 2077. Directly observed: Arthur Silver's textile repeats cream/red irises and yellow blossoms across a warm brown ground; blue-gray wavy stems form a continuous vertical scaffold. The print is structured rather than an isolated flower. Rights/handling: Public domain indicated by Art Institute API; analytical reference only.
 
 **AN25 — Jack-in-the-Pulpit Vase (c. 1900–1920)**

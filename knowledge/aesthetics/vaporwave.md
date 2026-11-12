@@ -218,4 +218,3 @@ Blank Banshee; official artist-channel video linked from Paradise Disc. [Provena
 **VW35 — Blank Banshee — Eco Zones**
 
 Blank Banshee; official artist-channel video linked from Paradise Disc. [Provenance](https://www.blankbanshee.com/paradise-disc); [inspected media](https://www.youtube.com/watch?v=7sGT3tmZJ5s). Accessed 2026-11-12; 1280 × 720. Directly observed: At 00:20–00:30 a rock-ringed tropical title view gives way to a faceted cyan ocean, then moves below its surface over a pale seabed and small fish. The shifting viewpoint and visibly tiled water evoke an inexpensive digital world. Korean captions and a pseudocorporate ecology framing are observed, with no translation claim. Rights/handling: Artist and source-material rights retained; streamed analysis only, no download or production reuse..
-

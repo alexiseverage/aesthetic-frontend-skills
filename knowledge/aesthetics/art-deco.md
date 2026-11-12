@@ -191,7 +191,7 @@ New York. [Provenance](https://www.artic.edu/artworks/151371); [inspected media]
 
 Designed by Simon Gate
 Swedish, 1883-1945
-Made by Orrefors Glassworks (Glasbruk) 
+Made by Orrefors Glassworks (Glasbruk)
 Småland, Sweden, founded 1898. [Provenance](https://www.artic.edu/artworks/64431); [inspected media](https://www.artic.edu/iiif/2/118c9536-3399-cd3d-7e94-f82bfd9f7502/full/1686,/0/default.jpg). Accessed 2026-11-12; 843 × 816. Directly observed: Gate's covered bowl has engraved clear glass, a tall finial and rhythmic scalloped/figural details. It is an ornate Swedish variant; the sample does not justify a ban on curves or historical imagery. Rights/handling: Rights retained by original creator/institution; link-only analytical viewing, no reuse grant asserted.
 
 **AD24 — Wall or Screen Panel Entitled "Diane Chasseresse" (Diana the Huntress) (1925)**
@@ -254,4 +254,3 @@ Ionia, Michigan. [Provenance](https://www.artic.edu/artworks/157925); [inspected
 Designed by Jacques-Émile Ruhlmann
 French, 1879-1933
 Paris, France. [Provenance](https://www.artic.edu/artworks/148412); [inspected media](https://www.artic.edu/iiif/2/17f91711-3142-998c-d11d-b33ba9b05e03/full/1686,/0/default.jpg). Accessed 2026-11-12; 843 × 1075. Directly observed: Ruhlmann's corner cabinet places a high-contrast stylized flower-vase inlay within figured wood, framed by dotted edging and a fluted top band. An axial botanical motif can be Deco rather than Nouveau whiplash. Rights/handling: Rights retained by original creator/institution; link-only analytical viewing, no reuse grant asserted.
-

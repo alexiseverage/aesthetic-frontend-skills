@@ -252,4 +252,3 @@ Cover artist not yet verified; publisher Solarpunk Magazine. [Provenance](https:
 **SP40 — Another Life cover**
 
 Wang Xulin; novel by Sarena Ulibarri. [Provenance](https://www.stelliform.press/index.php/product/another-life-by-sarena-ulibarri/); [inspected media](https://www.stelliform.press/wp-content/uploads/2023/01/Another-Life-Cover-RGB-scaled.jpg). Accessed 2026-11-12; 1709 × 2560. Directly observed: Flat lavender landscape, navy tree and a seated reader-like figure touch a luminous orange/yellow reflection; loose curved lettering makes renewal and remembered life tangible. Publisher verifies an optimistic Solarpunk novella; this illustrates its narrative branch rather than proving infrastructure shapes. Rights/handling: Artist/publisher copyright retained; streamed analysis only; no reuse..
-

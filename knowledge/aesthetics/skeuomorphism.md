@@ -232,4 +232,3 @@ Thomas Steiner, based on a calculator design by Sassja Ceballos. [Provenance](ht
 **SK37 — Skeuomorphic Clock**
 
 Rishabh Rai, credited in the author’s Webflow listing. [Provenance](https://clock-b4dac8.webflow.io/); [inspected media](https://clock-b4dac8.webflow.io/). Accessed 2026-11-12; 1280 × 900. Directly observed: Nested dark concentric wheels carry year, date and time as physical rotating scales, aligned under a bright radial reading strip. Opening the language button reveals a circular flag selector in a dark inset popup while the clock blurs behind. The clock updates in real time; no full wheel cycle or exact transition duration was measured. This contemporary art clock is distinct from the archival clocks. Rights/handling: Creator copyright retained. No interface assets reused..
-
