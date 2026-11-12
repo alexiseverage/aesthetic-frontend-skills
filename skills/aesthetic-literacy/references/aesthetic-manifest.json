@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 312,
+  "fullEntryCount": 326,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -987,6 +987,15 @@
       ]
     },
     {
+      "slug": "dotwork-tattoo",
+      "label": "Dotwork Tattoo",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "dotwork tattoo graphics"
+      ]
+    },
+    {
       "slug": "dreamcore-weirdcore",
       "label": "Dreamcore / Weirdcore",
       "family": "digital-internet-native",
@@ -1195,6 +1204,15 @@
       ]
     },
     {
+      "slug": "fine-line-tattoo",
+      "label": "Fine-Line Tattoo",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "fine line tattoo graphics"
+      ]
+    },
+    {
       "slug": "flash-portal-vernacular",
       "label": "Flash Portal Vernacular",
       "family": "digital-internet-native",
@@ -1269,6 +1287,15 @@
       "aliases": [
         "Futurismo",
         "Futurist movement"
+      ]
+    },
+    {
+      "slug": "gen-x-soft-club",
+      "label": "Gen X Soft Club",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Gen-X Soft Club"
       ]
     },
     {
@@ -1371,6 +1398,13 @@
       ]
     },
     {
+      "slug": "groovival",
+      "label": "Groovival",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": []
+    },
+    {
       "slug": "grosvenor-school-linocut",
       "label": "Grosvenor School Colour Linocut",
       "family": "material-print-craft",
@@ -1401,6 +1435,16 @@
         "Guilloche security printing",
         "Security-print guilloché",
         "Banknote guilloché"
+      ]
+    },
+    {
+      "slug": "gummy-jelly-design",
+      "label": "Gummy / Jelly Design",
+      "family": "emerging-hybrid",
+      "status": "canonical",
+      "aliases": [
+        "gummy aesthetic",
+        "jelly material design"
       ]
     },
     {
@@ -1832,7 +1876,8 @@
       "status": "canonical",
       "aliases": [
         "more is more",
-        "decorative abundance"
+        "decorative abundance",
+        "Eclectic Fashion-House Maximalism"
       ]
     },
     {
@@ -1866,6 +1911,13 @@
         "Mermaid core",
         "Mermaid aesthetic"
       ]
+    },
+    {
+      "slug": "metalheart",
+      "label": "Metalheart",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": []
     },
     {
       "slug": "mexican-rotulismo",
@@ -2662,6 +2714,15 @@
       ]
     },
     {
+      "slug": "shibuya-kei-graphics",
+      "label": "Shibuya-kei Graphics",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Shibuya kei graphic design"
+      ]
+    },
+    {
       "slug": "shin-hanga",
       "label": "Shin-hanga",
       "family": "historical-design-movements",
@@ -2905,6 +2966,13 @@
       ]
     },
     {
+      "slug": "surf-crush",
+      "label": "Surf Crush",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": []
+    },
+    {
       "slug": "surrealism",
       "label": "Surrealism",
       "family": "historical-design-movements",
@@ -3044,6 +3112,15 @@
       ]
     },
     {
+      "slug": "tweed-trim-quilted-couture",
+      "label": "Tweed, Trim & Quilted Couture",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "tweed and trim couture"
+      ]
+    },
+    {
       "slug": "ulm-school",
       "label": "Ulm School / HfG Ulm",
       "family": "historical-design-movements",
@@ -3076,6 +3153,15 @@
       ]
     },
     {
+      "slug": "urbling",
+      "label": "UrBling",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Urbling graphics"
+      ]
+    },
+    {
       "slug": "used-future-weathering",
       "label": "Used-Future / Lived-In Sci-Fi Weathering",
       "family": "speculative-robotics",
@@ -3086,6 +3172,13 @@
         "prop weathering",
         "weathered sci-fi materiality"
       ]
+    },
+    {
+      "slug": "utopian-scholastic",
+      "label": "Utopian Scholastic",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": []
     },
     {
       "slug": "vampire-goth",
@@ -3134,6 +3227,22 @@
       "aliases": [
         "Digital botanical ornament"
       ]
+    },
+    {
+      "slug": "vectordelia",
+      "label": "Vectordelia",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Frutiger Metro"
+      ]
+    },
+    {
+      "slug": "vectorheart",
+      "label": "Vectorheart",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": []
     },
     {
       "slug": "vienna-secession",
@@ -3185,6 +3294,15 @@
         "wabi-sabi",
         "slow living aesthetic",
         "wabi-cha"
+      ]
+    },
+    {
+      "slug": "wacky-pomo",
+      "label": "Wacky Pomo",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Wonka Pomo"
       ]
     },
     {

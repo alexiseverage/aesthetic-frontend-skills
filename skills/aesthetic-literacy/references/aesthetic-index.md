@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 312
+- Full entries: 326
 - Redirect entries: 1
 - Families: 8
 
@@ -33,7 +33,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `ivy-league-prep` | Ivy League Prep | Ivy style, Ivy League look |
 | `kidcore` | Kidcore | kid core, kidcore aesthetic |
 | `magical-girl` | Magical Girl | mahou shoujo, magical heroine, transformation heroine aesthetic |
-| `maximalism` | Maximalism | more is more, decorative abundance |
+| `maximalism` | Maximalism | more is more, decorative abundance, Eclectic Fashion-House Maximalism |
 | `mermaidcore` | Mermaidcore | Mermaid core, Mermaid aesthetic |
 | `nu-goth-pastel-goth` | Nu-Goth / Pastel Goth | nu goth, pastel goth, modern goth fashion |
 | `palm-beach-prep` | Palm Beach Prep | Palm Beach preppy, print-led resort prep |
@@ -74,6 +74,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `flash-portal-vernacular` | Flash Portal Vernacular | Flash game portal aesthetic, Flash animation portal aesthetic |
 | `flat-design` | Flat Design | flat UI, metro-inspired, Flat 2.0 |
 | `frutiger-aero` | Frutiger Aero | — |
+| `gen-x-soft-club` | Gen X Soft Club | Gen-X Soft Club |
 | `glitch` | Glitch / Datamosh | — |
 | `handheld-creature-encyclopedias` | Handheld Creature Encyclopedias | portable creature index UI, creature field-guide interfaces |
 | `hauntology` | Hauntology | cultural hauntology, lost-futures aesthetic, Ghost Box-adjacent |
@@ -84,6 +85,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `lcd-virtual-pet-toys` | LCD Virtual Pet Toys | LCD pet toys, keychain virtual pets, monochrome pocket pets |
 | `liminal-space-backrooms` | Liminal Space / Backrooms | liminal spaces, Backrooms aesthetic, uncanny transitional architecture |
 | `material-design` | Material Design | Material, Material UI, MDL |
+| `metalheart` | Metalheart | — |
 | `myspace-chaos` | MySpace Chaos | MySpace aesthetic, profile customization era |
 | `napster-era-p2p-clients` | Napster-Era P2P Clients | early peer-to-peer client UI, Napster-era file-sharing interfaces |
 | `palm-os-monochrome` | Palm OS Monochrome | PalmPilot monochrome UI, Classic Palm OS monochrome interface |
@@ -98,6 +100,8 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `vaporwave` | Vaporwave | vapor |
 | `vector-arcade-graphics` | Vector Arcade Graphics | Vector arcade display graphics, Vector-display arcade graphics |
 | `vectorbloom` | Vectorbloom | Digital botanical ornament |
+| `vectordelia` | Vectordelia | Frutiger Metro |
+| `vectorheart` | Vectorheart | — |
 | `web-2-gloss` | Web 2.0 Gloss | Web 2.0 design, beta aesthetic |
 | `wiki-encyclopedia-vernacular` | Wiki Encyclopedia Vernacular | encyclopedic wiki interfaces, Wikipedia-like article design |
 | `xlyk` | Xlyk | — |
@@ -113,6 +117,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `corporate-memphis` | Corporate Memphis / Illustration Flat | Alegria, Big Tech Art Style |
 | `cybersigilism` | Cybersigilism | cyber sigilism, post-human tattoo, nu-tribal cyber tattoo |
 | `glassmorphism` | Glassmorphism | — |
+| `gummy-jelly-design` | Gummy / Jelly Design | gummy aesthetic, jelly material design |
 | `neubrutalism` | Neubrutalism | neo-brutalism, neobrutalism, new brutalism |
 | `neumorphism` | Neumorphism / Soft UI | neo-skeuomorphism, soft UI, neumorphic design |
 | `organic-digital` | Organic Digital / Blobcore | blobcore |
@@ -212,6 +217,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `british-postwar-textile-abstraction` | British Postwar Textile Abstraction | British postwar abstract textiles |
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
+| `dotwork-tattoo` | Dotwork Tattoo | dotwork tattoo graphics |
 | `dungeon-synth` | Dungeon Synth Sleeve Culture | dungeon synth sleeve aesthetic |
 | `ebru` | Ebru | Turkish paper marbling, Turkish marbling, ebru art |
 | `edo-yokai-woodblock` | Edo Yōkai Woodblock | Edo supernatural woodblock, Edo yōkai prints |
@@ -219,6 +225,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `english-bestiary-illumination` | English Bestiary Illumination | English illuminated bestiary, English book-of-beasts illumination |
 | `fair-isle` | Fair Isle | Fair Isle Knitting, Fair Isle Colourwork |
 | `fairground-carnival-poster-art` | Fairground / Carnival Poster Art | circus broadside, showman poster, vintage carnival poster |
+| `fine-line-tattoo` | Fine-Line Tattoo | fine line tattoo graphics |
 | `fluxus-editions` | Fluxus Editions | Fluxus multiples and editions |
 | `greek-black-figure` | Greek Black-Figure | Greek black-figure pottery, Black-figure vase painting |
 | `grosvenor-school-linocut` | Grosvenor School Colour Linocut | Grosvenor School linocuts, Grosvenor colour linocut |
@@ -246,6 +253,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `spirit-photography-seance` | Spirit Photography Seance | spirit photography, seance cabinet card |
 | `taller-de-grafica-popular` | Taller de Gráfica Popular | TGP print graphics, Workshop of Popular Graphic Art |
 | `toile-de-jouy` | Toile de Jouy | Jouy Print |
+| `tweed-trim-quilted-couture` | Tweed, Trim & Quilted Couture | tweed and trim couture |
 | `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
 | `vintage-halloween-postcard` | Vintage Halloween Postcard | Halloween postcard, antique Halloween postcard |
 | `whole-earth-catalog-editorial` | Whole Earth Catalog Editorial | Whole Earth editorial vernacular, Whole Earth tool-catalog design |
@@ -332,6 +340,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `fruit-crate-label-graphics` | Fruit Crate Label Graphics | Fruit box label graphics, Citrus crate label graphics |
 | `ghanaian-mobile-cinema-posters` | Ghanaian Mobile-Cinema Posters | Ghanaian hand-painted film posters, Ghanaian movie posters, Ghana painted cinema posters |
 | `global-village-coffeehouse` | Global Village Coffeehouse | GVC, Millennium Global Village, Millennium-Era Urbane-Sophistication World Vibes |
+| `groovival` | Groovival | — |
 | `guochao` | Guochao | China-chic, guochao branding, guochao packaging, 国潮, Chinese heritage revival branding |
 | `halloween-store-vernacular` | Halloween Store Vernacular | seasonal Halloween retail, costume-store packaging |
 | `harvest-fair-vernacular` | Harvest Fair Vernacular | county fair harvest, agricultural fair signage |
@@ -357,15 +366,20 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `roller-rink-graphics` | Roller Rink Graphics | Roller rink decals |
 | `school-fall-festival` | School Fall Festival | fall festival flyer, school carnival fall |
 | `shanghai-calendar-posters` | Shanghai Calendar Posters | Shanghai yuefenpai, 上海月份牌, Shanghai advertising calendars |
+| `shibuya-kei-graphics` | Shibuya-kei Graphics | Shibuya kei graphic design |
 | `shokuhin-sanpuru-display` | Shokuhin Sanpuru Display | Japanese food-replica display, food sample display, shokuhin sampuru display |
 | `silver-face-hi-fi` | Silver-Face Hi-Fi | Silver-face stereo, Vintage silver hi-fi panels |
 | `slasher-vhs-rental` | Slasher VHS Rental | horror VHS, video-store slasher |
 | `stage-magic-lithography` | Golden-Age Stage-Magic Lithography | golden-age magic posters, stage illusion lithography, conjuring posters |
 | `sticker-bomb-slap` | Sticker-Bomb / Slap Materiality | sticker bombing, sticker art, slaps, sticker graffiti, sticker slapping |
+| `surf-crush` | Surf Crush | — |
 | `tiki-polynesian-pop` | Tiki / Polynesian Pop | Polynesian Pop, tiki bar Americana, mid-century tiki |
 | `trading-card-game-design` | Trading Card Game Design | TCG design, CCG frame design, collectible card UI |
 | `transparent-translucent-electronics` | Transparent / Translucent Electronics | clear electronics, see-through electronics, translucent hardware, clear-tech hardware |
+| `urbling` | UrBling | Urbling graphics |
+| `utopian-scholastic` | Utopian Scholastic | — |
 | `varsity-lettering-chenille` | Varsity Lettering & Chenille | letterman graphics, collegiate chenille lettering |
+| `wacky-pomo` | Wacky Pomo | Wonka Pomo |
 
 ## Redirects / Superseded Entries
 
