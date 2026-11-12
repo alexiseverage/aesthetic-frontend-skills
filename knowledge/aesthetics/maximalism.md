@@ -223,3 +223,7 @@ This research does not establish a separately named movement beyond Maximalism. 
 ## Research Updates
 
 *2026-11-12 — Initial direct-media research, duplicate/boundary review and source-supported synthesis. 30 unique qualifying works audited against floor 10 / working target 30. Link-only handling; no original media committed. A source description is distinguished from direct pixels, inference and unknown behavior. Current-web colors, type and timing are proposals. Self-review completed against corpus, current schemas and nearest entries; no independent reviewer is claimed.*
+
+## 2026-11-12 Application Clarification
+
+The existing thirty-work fashion/decor lens is retained without adding new reference counts. A proposed room configuration may combine repeated patterned wall fields, a contrasting rug and distinct ceramic/textile/metal objects. Maintain one focal hierarchy and an actual keep/restore arrangement state. These are frontend application choices; the still corpus does not establish parallax or a mandatory transition cadence. A room made only of loud type and flat color would omit the material layering supported by the existing evidence.

@@ -5,7 +5,7 @@ family: contemporary-lifestyle
 era: 2018–present internet community
 aliases: ["farmcore", "countrycore"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["goblincore", "dark-academia", "maximalism"]
 subsets: []
 ---
@@ -30,9 +30,9 @@ Keep the look cozy and accessible rather than frictionless rural fantasy. Cottag
 
 **Shape**: Rounded, organic, floral, and irregular forms: cottage windows, baskets, teacups, ruffles, trellises, garden clusters, puff-sleeve softness, and hand-cut labels. Keep geometry gentle and domestic rather than hard-edged, industrial, or aggressively symmetrical.
 
-**Motion**: Gentle, unhurried, and seasonal: slow fades, drifting curtains, dappled light, soft page turns, recipe reveals, and small garden-growth transitions. Avoid snappy gamified motion or high-energy kinetic spectacle.
+**Motion**: Still domestic objects, plants and craft surfaces are sufficient. Calm note disclosure or page changes are proposed interactions, not a measured domestic ritual. Avoid compulsory growth loops; reduced motion preserves direct state changes.
 
-**Spatial**: Abundant but curated domestic fullness: cottage shelves, garden tables, cozy rooms, intimate outdoor nooks, and home-and-garden storytelling. Leave enough breathing room for usability, but avoid sterile emptiness that removes the sense of a lived-in handmade world.
+**Spatial**: Intimate domestic groups and abundant planting retain practical paths, table planes and garden-bed frameworks. Provide breathing room for reading and controls while preserving a cared-for, lived-in setting.
 
 **Cultural markers**: Rural self-sufficiency, slow living, sustainability, baking, gardening, handcraft, mushrooms, bees, pressed flowers, teacups, billowy dresses, picnics, bookshelves, candlelight, and nostalgia for a gentler life. Treat the online community context as part of the signal, not just a product moodboard.
 
@@ -91,3 +91,6 @@ Cottagecore can romanticize rural life while ignoring labor, class, poverty, san
 - Confusing Cottagecore with tradwife nostalgia, generic old-timey femininity, or compulsory domesticity.
 - Importing too much mud, bones, creature clutter, or rot, which shifts the signal toward Goblincore.
 - Over-polished retail moodboards that keep the props but lose handmade tactility and community context.
+## Evidence Lens
+
+The [dated direct-media profile](../../../knowledge/aesthetics/cottagecore.md) identifies complete artifacts, comparisons, source concentration and remaining gaps. Its `standard` label denotes the schema floor, not completion of the thirty-work target. Historical material vocabulary must not be mistaken for evidence of contemporary community origins; proposed frontend values remain application decisions.

@@ -5,7 +5,7 @@ family: historical-design-movements
 era: architecture 1950s; web 2014–present
 aliases: []
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related:
   - neubrutalism
   - bauhaus
@@ -19,15 +19,15 @@ Brutalism is the architectural and later web-revival language of exposed structu
 
 ## 7-Dimension Profile
 
-**Palette**: Concrete gray, off-white, black, weathered beige, deep shadow, and restrained utility colors. Web variants can use black/white/default-link blue, but the historical base remains materially grounded.
+**Palette**: Concrete gray, deep shadow and off-white coexist with red brick, weathered aggregate, cream and restrained glazing. Structure and material treatment matter more than a mandatory gray filter.
 
 **Type**: Blunt sans-serif, monospaced or utilitarian labels, signage-like caps, raw browser defaults in web revival variants, and hierarchy that privileges directness over refinement.
 
 **Texture**: Exposed concrete, rough formwork marks, raw brick, board-marked surfaces, visible fasteners, unfinished surfaces, weathering, staining, and heavy shadow.
 
-**Shape**: Block massing, cantilevers, repeated modules, hard rectangles, deep recesses, stair towers, ribbed facades, squared sensor housings, and no decorative softening.
+**Shape**: Heavy masses, repeated modules, cantilevers, deep recesses and exposed circulation include curved ramps and cylindrical towers as well as hard rectangles. Do not reduce the movement to arbitrary square cards.
 
-**Motion**: Minimal, infrastructural, and functional. Abrupt reveals, snap transitions, or stark scroll thresholds are on-model; plush easing is not.
+**Motion**: Still structural organization is sufficient. Immediate filtering/disclosure can expose an interface framework; building photographs establish no scroll-effect cadence. Avoid ornamental motion and preserve identical reduced-motion task states.
 
 **Spatial**: Monumental scale, exposed circulation, repetitive grids, deep shadow, civic zoning, dense information clusters, and visible navigation frameworks.
 
@@ -70,3 +70,7 @@ Brutalism is entangled with public housing, state infrastructure, class politics
 ## Anti-Patterns
 
 Avoid soft rounded cards, decorative gradients, friendly mascot illustration, luxury serifs, fake dystopian grime, and broken usability passed off as honesty. If the interface is merely unfinished, it is not Brutalism.
+
+## Evidence Lens
+
+The [dated direct-media profile](../../../knowledge/aesthetics/brutalism.md) identifies complete artifacts, comparisons, source concentration and remaining gaps. Its `standard` label denotes the schema floor, not completion of the thirty-work target. Historical material vocabulary must not be mistaken for evidence of contemporary community origins; proposed frontend values remain application decisions.

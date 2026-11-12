@@ -5,7 +5,7 @@ family: contemporary-lifestyle
 era: mid-2010s–present internet community; 2020 mainstream peak
 aliases: ["academic gothic", "scholastic gothic"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["cottagecore", "storybook-gothic", "gothic-revival"]
 subsets: []
 ---
@@ -30,9 +30,9 @@ Dark Academia is not just sepia plus tweed. Remove books, study, literature, and
 
 **Shape**: Bookshelf grids, blazer/cardigan silhouettes, classical arches, columns, cloisters, museum frames, orderly institutional symmetry, globes, plaques, and study-desk rectangles. Shapes should feel academic and architectural rather than occult, fantasy, or purely fashion-editorial.
 
-**Motion**: Slow page turns, note-taking reveals, museum wandering, dust motes, candle flicker, stormy-window ambience, and deliberate contemplative pacing. Avoid thriller jump cuts or melodrama unless the product explicitly leans into campus mystery.
+**Motion**: Still reading surfaces and immediate annotation/disclosure are sufficient. Optional page or light transitions are application choices; the inspected books and architecture establish no historical animation cadence. Preserve readable text under reduced motion.
 
-**Spatial**: Dense, scholarly, text-heavy, and institutionally ordered: libraries, studies, reading rooms, galleries, dorm desks, and cloister-like compositions. Use density to signal reading and research, but preserve scan paths and accessible hierarchy.
+**Spatial**: A light reading or writing plane can sit inside a darker enclosing study. Differentiate shelf labels, main text and marginal notes; dense scholarship does not require an indistinguishable sepia collage.
 
 **Cultural markers**: Classic literature, higher education, writing, poetry, ancient art, elite colleges, libraries, late-night study, preppy tailoring, campus-novel melancholy, The Secret History-style references, globes, quills, fountain pens, candles, ivy, and classical sculpture.
 
@@ -91,3 +91,6 @@ Dark Academia carries critiques of whiteness, Eurocentrism, elitism, class privi
 - Glamorizing overwork, sleeplessness, substance misuse, or unhealthy study rituals.
 - Confusing the aesthetic with generic gothic, horror, dark fantasy, or luxury prep styling.
 - Removing hierarchy under the excuse of text-heavy density; scholarly interfaces still need legibility.
+## Evidence Lens
+
+The [dated direct-media profile](../../../knowledge/aesthetics/dark-academia.md) identifies complete artifacts, comparisons, source concentration and remaining gaps. Its `standard` label denotes the schema floor, not completion of the thirty-work target. Historical material vocabulary must not be mistaken for evidence of contemporary community origins; proposed frontend values remain application decisions.

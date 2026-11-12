@@ -95,3 +95,6 @@ Maximalism's main risks are consumption, accessibility, and legibility rather th
 - Flattening the aesthetic into one sub-style such as pink glam, generic boho, or random eclectic clutter.
 - Forgetting usability and accessibility: maximalism still needs hierarchy, scan paths, contrast, and task clarity.
 - Leaving no focal point; intentional abundance requires edited emphasis, not equal-weight everything.
+## Application Note
+
+A still collected-room configuration can express layered pattern, contrasting materials and personal selection. Keep distinct wall, floor and object hierarchies; saving and restoring an actual arrangement is more meaningful than adding ornamental motion. The existing bounded fashion/decor [research profile](../../../knowledge/aesthetics/maximalism.md) remains the evidence lens.

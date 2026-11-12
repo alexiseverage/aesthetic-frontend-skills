@@ -5,7 +5,7 @@ family: historical-design-movements
 era: 1910s-1920s film and stage modernism; later horror influence
 aliases: ["expressionist horror", "caligari expressionism"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: []
 subsets: []
 ---
@@ -24,11 +24,11 @@ Use the aesthetic when subjective distortion can meaningfully frame narrative, t
 
 **Type**: Use severe display serifs, compressed grotesques, hand-cut intertitle capitals, and uneven poster hierarchy. Text can tilt within short title cards; paragraphs and controls remain level and readable.
 
-**Texture**: Painted canvas, rough wood flats, lithographic ink, film grain, scratches, flicker, matte black shadow paint, and paper intertitles communicate the constructed stage. Avoid polished 3D gloss.
+**Texture**: Painted flats, lithographic ink, pencil/charcoal marks, photographic shadow and paper intertitles differ by medium. Grain is optional support; projector damage and strobing are not defining requirements.
 
-**Shape**: Favor acute triangles, trapezoid doors, inclined facades, splintered windows, elongated figures, staircase wedges, and shadows that disobey natural perspective. Rounded components should be rare.
+**Shape**: Acute triangles, trapezoid openings, inclined facades, splintered windows and staircase wedges make constructed space unstable. Interface objects and shadow planes can carry this grammar without figures.
 
-**Motion**: Use stepped film flicker, iris reveal, intertitle cuts, silhouette crossing, and abrupt scene changes rather than smooth app easing. Reduced motion holds a high-contrast stage tableau.
+**Motion**: Held intertitles, abrupt scene changes and selective shadow movement can inspire an interface. Do not infer a universal flicker rate from stills or a restored print. Any timing is proposed; prefer user-triggered changes and a still reduced-motion tableau.
 
 **Spatial**: Compose diagonally with forced perspective and compressed depth. Architecture can crowd figures or push hierarchy off-axis; essential controls need a stable accessible zone.
 
@@ -56,7 +56,7 @@ Treat screens as acts, scenes, or title cards. Use angular navigation rails, sce
 - Use clip-path polygons, skewed grid tracks, hard box shadows, repeating film perforations, and controlled grain.
 - Keep corners square; use acute cut corners and thick painted rules.
 - Build one dominant diagonal and two or three counter-planes rather than random rotation.
-- Motion: steps-based 3-8fps flicker/cuts; reduced motion removes animation without flattening geometry.
+- Motion: user-triggered cuts or a held tableau; any stepped timing is a proposed application value, and reduced motion removes decorative animation without flattening geometry.
 
 ## Typography / Fonts
 
@@ -73,3 +73,7 @@ Do not collapse Weimar culture into Nazi-era imagery or use nationalist symbols.
 - Film-noir photography without painted stage distortion.
 - Blackletter used as a generic German signal.
 - Fast strobing or contrast flicker without accessibility safeguards.
+
+## Evidence Lens
+
+The [dated direct-media profile](../../../knowledge/aesthetics/german-expressionist-horror.md) identifies complete artifacts, comparisons, source concentration and remaining gaps. Its `standard` label denotes the schema floor, not completion of the thirty-work target. Historical material vocabulary must not be mistaken for evidence of contemporary community origins; proposed frontend values remain application decisions.

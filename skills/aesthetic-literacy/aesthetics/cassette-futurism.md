@@ -22,28 +22,23 @@ Preserve the whole system across interface scale: the aesthetic should survive i
 
 ## 7-Dimension Profile
 
-**Palette**: nicotine beige, ABS off-white, olive, CRT green, warning amber. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Palette**: Molded off-white, beige, olive and dark recesses with green or amber displays. Red/white wayfinding and ochre upholstery are grounded variants, not exceptions requiring a green tint.
 
-**Type**: monospace, engraved labels, stencils, all-caps panel legends. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Type**: Compact monospaced data, uppercase casing legends, stencils and large zone/media identifiers. Printed labels and screen text operate at different scales.
 
-**Texture**: molded plastic, ribbed buttons, brushed metal, CRT bloom. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Texture**: Molded plastic, inset keys, vents, brushed metal, mounted cables and restrained wear. CRT bloom belongs around the display; keep data and labels clear.
 
-**Shape**: chunky boxes, bezels, toggles, rectangular modules, fasteners. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Shape**: Chunky beveled housings, deep bezels, cartridges, physical keys, fasteners and rounded-square pictogram frames. Information sits inside handled equipment.
 
-**Motion**: blink, scan sweep, coarse cursor steps, relay state changes. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Motion**: Coarse progress, relay state changes or media transport are proposed interface behaviors. Stills do not establish authentic scan speed, tape latency or easing. Provide functional pause/reset and remove decorative movement for reduced motion.
 
-**Spatial**: cockpit/control-panel density with bounded physical controls. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Spatial**: Bounded control banks and display modules mount into consoles or wall bays. Preserve a readable working area and stack whole modules responsively.
 
-**Cultural markers**: Alien/Nostromo, repairability, used future, physical media. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Cultural markers**: Late twentieth-century terminal/aerospace vocabulary projected into a used future: physical media, repairable equipment and industrial service labeling. Real hardware is an antecedent rather than automatically speculative fiction.
 
 ## Non-Negotiables
 
-**Non-negotiables**:
-
-- nicotine beige, ABS off-white, olive, CRT green, warning amber.
-- molded plastic, ribbed buttons, brushed metal, CRT bloom.
-- chunky boxes, bezels, toggles, rectangular modules, fasteners.
-- cockpit/control-panel density with bounded physical controls.
+**Non-negotiables**: physical equipment and removable-media logic + bounded screen/control modules + differentiated casing legends and data + an extrapolated used-future context.
 
 ## Connotation
 
@@ -86,3 +81,7 @@ The source-backed cultural markers are Alien/Nostromo, repairability, used futur
 - Overloading every component with motifs so navigation, forms, pricing, or body copy become hard to scan.
 - Borrowing adjacent-aesthetic cues so heavily that the entry loses its own source-backed center of gravity.
 - Animating glow, grain, flash, or mechanical effects without reduced-motion and solid-surface fallbacks for critical content.
+
+## Evidence Lens
+
+The [dated direct-media profile](../../../knowledge/aesthetics/cassette-futurism.md) identifies complete artifacts, comparisons, source concentration and remaining gaps. Its `standard` label denotes the schema floor, not completion of the thirty-work target. Historical material vocabulary must not be mistaken for evidence of contemporary community origins; proposed frontend values remain application decisions.

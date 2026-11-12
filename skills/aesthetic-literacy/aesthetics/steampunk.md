@@ -22,28 +22,23 @@ Preserve the whole system across interface scale: the aesthetic should survive i
 
 ## 7-Dimension Profile
 
-**Palette**: brass, copper, sepia, dark brown, soot black, aged ivory. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Palette**: Warm brass/copper and aged ivory contrasted with dark metal, wood or leather; black machinery and red enamel are legitimate variants. Use metal as a differentiated material rather than an all-over copper tint.
 
-**Type**: Victorian serif, engraved labels, cabinet typography. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Type**: Victorian-influenced display serifs, instrument numerals, engraved labels and cabinet nameplates. Separate explanatory text from decorative inscriptions; exact source typefaces vary.
 
-**Texture**: gears, patina, turned wood, leather, gauges, boiler soot. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Texture**: Patinated metal, visible fasteners, pipe joints, wood, glass and exposed mechanisms communicate assembly. Decorative gears should connect to an understandable instrument or construction.
 
-**Shape**: automatons, boiler torsos, monocular eyes, pistons, clockwork arms. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Shape**: Round gauges, interrupted dial rings, pistons, riveted cases and branching clock frameworks. A complete engineered silhouette matters more than scattered gear icons.
 
-**Motion**: tick, wind, hinge, crank, piston, pressure release. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Motion**: Mechanical relationships may inspire direct valve, needle, hinge or winding controls. Still objects establish no universal ticking speed; any transition timing is proposed. Immediate states are valid, and reduced motion preserves every control.
 
-**Spatial**: workshops, libraries, airships, laboratories, Victorian streets. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Spatial**: Compose around a dominant instrument, with nested case, dial, mechanism and service controls. Use complete workshop or cabinet logic rather than a generic dashboard covered with brass.
 
-**Cultural markers**: Verne/Wells, automatons, inventor culture, steam power. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Cultural markers**: Alternate Victorian machinery, inventor/maker culture and speculative industrial craft. Real modern technology, combustion hot rods or generic post-apocalyptic salvage do not become Steampunk merely through a filename or bronze finish.
 
 ## Non-Negotiables
 
-**Non-negotiables**:
-
-- brass, copper, sepia, dark brown, soot black, aged ivory.
-- gears, patina, turned wood, leather, gauges, boiler soot.
-- automatons, boiler torsos, monocular eyes, pistons, clockwork arms.
-- workshops, libraries, airships, laboratories, Victorian streets.
+**Non-negotiables**: alternate industrial-era invention + legible mechanical assembly + differentiated handcrafted materials + an engineered instrument or machine silhouette.
 
 ## Connotation
 
@@ -86,3 +81,7 @@ The source-backed cultural markers are Verne/Wells, automatons, inventor culture
 - Overloading every component with motifs so navigation, forms, pricing, or body copy become hard to scan.
 - Borrowing adjacent-aesthetic cues so heavily that the entry loses its own source-backed center of gravity.
 - Animating glow, grain, flash, or mechanical effects without reduced-motion and solid-surface fallbacks for critical content.
+
+## Evidence Lens
+
+The [dated direct-media profile](../../../knowledge/aesthetics/steampunk.md) identifies complete artifacts, comparisons, source concentration and remaining gaps. Its `standard` label denotes the schema floor, not completion of the thirty-work target. Historical material vocabulary must not be mistaken for evidence of contemporary community origins; proposed frontend values remain application decisions.
