@@ -2,13 +2,110 @@
 slug: dreamcore-weirdcore
 label: Dreamcore / Weirdcore
 first_researched: "2026-07-08"
-last_updated: "2026-07-08"
+last_updated: "2026-11-12"
 source: mixed
-image_count: 0
-evidence_level: limited
+image_count: 32
+evidence_level: standard
 new_aesthetic: false
 aliases: ["dreamcore", "weirdcore", "liminal dream edit"]
 ---
+
+# Dreamcore / Weirdcore
+
+## Dimension Synthesis
+
+Updated 2026-11-12 from individually inspected works. These recurring traits describe a small creator-concentrated corpus; they are not population percentages.
+
+| Dimension | Recurring grammar | Variants and limits | Confidence |
+|---|---|---|---|
+| Palette | Familiar sky/grass blue-green, childhood pinks and bright accents against dark or grainy photographs. | Yunbomu also uses olive, grey and orange; no universal pastel palette. Colors estimated visually, not sampled tokens. | Medium-high. |
+| Type | Disconnected letters, terse ambiguous captions, repeated words and instructions detached from ordinary context. | Creator-store work also uses glossy script and flared serif; some art has no type. Exact typefaces unverified. | Medium. |
+| Texture | Visible cutout joins, selective blur, photo grain, crude flat graphics and incompatible rendering styles. | Physical glazed ceramics establish that JPEG/VHS degradation is not mandatory. | High for mixed registers. |
+| Shape | Ordinary bowls, fruit, clocks, doors, animals, pools and childhood-room objects made implausible through replacement or scale. | Eyes and faces occur in reference work but are not required. | High. |
+| Motion | No animated/video behavior inspected in this corpus. | Drift, zoom and flicker in the older profile are proposals, not measured requirements. | Unknown. |
+| Spatial | Familiar categories become unstable: floating cutouts, impossible miniature rooms, missing identity and inconsistent scale. | An actual vacant building is optional; object collage can carry the effect. | High. |
+| Cultural markers | Internet image circulation, dream-memory, self-described weirdcore collage and memory-oriented Dreamcore art. | No verified single originator, fixed date or universal psychological response. | Medium for contemporary practice; low for origin chronology. |
+
+## Image Descriptions
+
+The [linked-media ledger](../media-audits/dreamcore-weirdcore.json) preserves all 38 full-media records, source URLs, observations and exclusions. The 32 qualifying unique works are listed below. Store designs were inspected as complete watermarked 630×630 flat design renditions, not physical product mockups; larger requested renditions returned 404. Details were legible at this accessible resolution.
+
+- **YB-yunbomu-art-itsnicethat-14 — yunbomu-art-itsnicethat-14**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-14.jpg). Photographed skeletal leaf and hand over coarse green nature, with smooth glowing white notes/ovals and bright ring borders. Familiar photograph and flat imposed symbols occupy incompatible layers.
+- **YB-yunbomu-art-itsnicethat-13 — yunbomu-art-itsnicethat-13**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-13.jpg). Snowy plants overlaid by grey bag-like silhouettes, blocky ochre fragments and saturated blurred dots. Cold ordinary scene disrupted by diagrammatic pasted planes.
+- **YB-yunbomu-art-itsnicethat-11 — yunbomu-art-itsnicethat-11**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-11.jpg). Grainy metal bowl/household photo with white branching bursts, floating colored oval row, a dolphin silhouette and isolated layered R. No consistent text system; mixed image registers.
+- **YB-yunbomu-art-itsnicethat-10 — yunbomu-art-itsnicethat-10**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-10.jpg). Blurred cyan horse silhouette under small floating cutout utensils, carrot and circles; spatial scale and visual focus deliberately conflict.
+- **YB-yunbomu-art-itsnicethat-9 — yunbomu-art-itsnicethat-9**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-9.jpg). Grainy soft green leaves with oversized flat burgundy beetle, spiral-eyed cloud-like drawing, bright rings and large cropped orange curved lettering.
+- **YB-yunbomu-art-itsnicethat-8 — yunbomu-art-itsnicethat-8**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-8.jpg). Close nature photograph with high cyan/green cast, pink plant tendrils, blurred saturated rings, black oval voids and tiny flat squares. A vivid collage variant rather than universal beige nostalgia.
+- **YB-yunbomu-art-itsnicethat-7 — yunbomu-art-itsnicethat-7**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-7.jpg). Photo of green rounded contents in a bowl under a flat white grape-like cluster made from circles. Single repeated object silhouette conflicts with grainy substrate.
+- **YB-yunbomu-art-itsnicethat-6 — yunbomu-art-itsnicethat-6**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-6.jpg). Flat olive field with soft footballs, small landscape inset, blue arch, flat figure and butterflies. Arbitrary scale, incompatible rendering and large blank zones.
+- **YB-yunbomu-art-itsnicethat-5 — yunbomu-art-itsnicethat-5**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-5.jpg). Sharp ordinary strawberry-and-hand photograph overlaid with shiny synthetic fruit, green segmented line, pale scribble diagram and face-like outlines; mixed photographic/vector depth.
+- **YB-yunbomu-art-itsnicethat-4 — yunbomu-art-itsnicethat-4**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-4.jpg). Muted grey-green field with small photographs and disconnected cream silhouettes of animals, plant, candelabrum and starburst cluster. Scale/collage logic overrides physical space.
+- **YB-yunbomu-art-itsnicethat-3 — yunbomu-art-itsnicethat-3**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-3.jpg). Grainy water photograph, bright geometric confetti, jewel-like repeating spiral around a bird and shredded text-like horizontal strips. Noise and orderly symbols coexist.
+- **YB-yunbomu-art-itsnicethat-1 — yunbomu-art-itsnicethat-1**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-1.jpg). Moving-blur field under polished metallic animal/object silhouettes, flat line drawings and grey spheres; deliberate layering of incompatible surface treatments.
+- **YB-yunbomu-art-itsnicethat-12 — yunbomu-art-itsnicethat-12**, Yunbomu. [Source](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426); [media](https://m.itsnicethat.com/original_images/yunbomu-art-itsnicethat-12.jpg). Soft orange ground with blurred eye-like blue spots, fuzzy cutout animals, concentric rings and thin outlined swirl; image feels readable yet unstable without a literal interior.
+- **YY-Yesterday — Feels Like Yesterday**, YY Wang. [Source](https://sixfootgallery.co.uk/the-six-foot-gallery-interview-yy-wang/); [media](https://sixfootgallery.co.uk/wp-content/uploads/2025/10/yy1-1024x704.jpg). Ceramic miniature fairy landscape with uneven mushrooms, blue stems, jewel-like glaze and small star. Physical childhood-memory/play variant, not solely a low-resolution JPEG system.
+- **YY-CoolPool — Cool Pool 01**, YY Wang. [Source](https://fadmagazine.com/2025/09/30/yy-wang-the-psychology-of-dreamcore/); [media](https://fadmagazine.com/wp-content/uploads/Cool-Pool-01-1200x1200.jpg). Blue tiled ceramic pool miniaturizes an implausibly combined fountain, slide and jagged yellow plant. Everyday leisure objects at inconsistent scales build memory-based dream logic.
+- **YY-Exhibit — Through Glitches and Reveries installation**, YY Wang. [Source](https://fadmagazine.com/2025/09/30/yy-wang-the-psychology-of-dreamcore/); [media](https://fadmagazine.com/wp-content/uploads/image-133-1200x797.png). Bright pink room miniature with bed, oversized mushrooms, hanging stars/moons and blue forms. Ordinary bedroom reconstructed as a playful impossible environment.
+- **WD-96405569 — I Almost Understand**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/96405569-i-almost-understand-tapestry); [media](https://images.teepublic.com/derived/production/designs/96405569_0/1784983570/i_p:c_000000,wmk,s_630,q_90.jpg). Blue-violet grainy fishbowl photo under glossy looping script: quiet familiar imagery conflicts with incomplete-understanding caption.
+- **WD-96405247 — Eat The Eater**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/96405247-eat-the-eater-weirdcore-strawberry-tapestry); [media](https://images.teepublic.com/derived/production/designs/96405247_0/1784982864/i_p:c_ffffff,wmk,s_630,q_90.jpg). Strawberry photo gains an impossible human mouth; pixel-broken blue starburst and uneven outlined handwritten caption.
+- **WD-96684402 — This Man Is Still Watching**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/96684402-this-man-is-still-watching-tapestry); [media](https://images.teepublic.com/derived/production/designs/96684402_0/1785427520/i_p:c_000000,wmk,s_630,q_90.jpg). Black/white fragmented internet-myth face with inserted third eye and rough sliced edges; reconstructed identity rather than ordinary portrait.
+- **WD-96597124 — be happy now**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/96597124-be-happy-now-tapestry); [media](https://images.teepublic.com/derived/production/designs/96597124_0/1785297163/i_p:c_000000,wmk,s_630,q_90.jpg). Warm smiley ball held by photographic hands with command-like purple/yellow text; cheerful surface and coercive caption conflict.
+- **WD-96597109 — im fine**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/96597109-i-m-fine-tapestry); [media](https://images.teepublic.com/derived/production/designs/96597109_0/1785297156/i_p:c_000000,wmk,s_630,q_90.jpg). Exposed eyeball/tongue with rainbow halo, rough black distress and childish multicolor caption.
+- **WD-96405561 — dont tell them u saw me**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/96405561-don-t-tell-them-u-saw-me-weirdcore-lady-tapestry); [media](https://images.teepublic.com/derived/production/designs/96405561_0/1784983558/i_p:c_2e251c,wmk,s_630,q_90.jpg). Vintage portrait has face replaced with field/sky and black void; detached green italic instruction beside it.
+- **WD-95914128 — Wrong Place Again**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/95914128-oh-i-m-in-the-wrong-place-again-weirdcore-surreal--tapestry); [media](https://images.teepublic.com/derived/production/designs/95914128_0/1784206655/i_p:c_a21e26,wmk,s_630,q_90.jpg). Doll-like vintage face emits two long blue landscape tears, red script crossing a small grassy inset and red door.
+- **WD-95915597 — All of Me Are Not Me**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/95915597-all-of-me-are-not-me-identity-fragmentation-surrea-tapestry); [media](https://images.teepublic.com/derived/production/designs/95915597_0/1784208349/i_p:c_000000,wmk,s_630,q_90.jpg). Six faceless hair silhouettes in worn ochre/black photo-grid, handwritten identity-denial caption.
+- **WD-86860110 — Dream Clock**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/86860110-dream-clock-tapestry); [media](https://images.teepublic.com/derived/production/designs/86860110_0/1769311591/i_p:c_ffffff,wmk,s_630,q_90.jpg). Clock replaces all hour numbers with repeated red serif word DREAM over a blue/green cloudscape; familiar measuring object breaks its function.
+- **WD-86395211 — Rotten Inside**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/86395211-rotten-inside-tapestry); [media](https://images.teepublic.com/derived/production/designs/86395211_0/1768447927/i_p:c_ffffff,wmk,s_630,q_90.jpg). Strawberry merges with human nose against bright grainy cloud sky; polished blue script clashes with crude collage.
+- **WD-86395212 — Just a Fish**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/86395212-just-a-fish-tapestry); [media](https://images.teepublic.com/derived/production/designs/86395212_0/1768448190/i_p:c_ffffff,wmk,s_630,q_90.jpg). Fish body replaced by enormous eye, isolated on blue rectangle under elegant script; everyday category contradicted by object.
+- **WD-83519441 — Watching Yourself Dream**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/83519441-watching-yourself-dream-tapestry); [media](https://images.teepublic.com/derived/production/designs/83519441_0/1763344977/i_p:c_edaeae,wmk,s_630,q_90.jpg). Floating vintage heads replaced with dissimilar isolated eyes, pink ground, repeated fractured wake-up lettering and blue starburst.
+- **WD-78385038 — Watch Out for Angels**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/78385038-watch-out-for-angels-sign-tapestry); [media](https://images.teepublic.com/derived/production/designs/78385038_0/1754326006/i_p:c_ffffff,wmk,s_630,q_90.jpg). Yellow caution diamond preserves familiar sign grammar while winged eyeball and repeated overprinted red/black word angels make an impossible warning.
+- **WD-78737591 — Square Eyed Mushroom**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/78737591-square-eyed-mushroom-vision-tapestry); [media](https://images.teepublic.com/derived/production/designs/78737591_0/1755024655/i_p:c_000000,wmk,s_630,q_90.jpg). Large mushroom photo covered with repeated rectangular eye cutouts and tinted photo frames: visible collage joins rather than coherent natural scene.
+- **WD-78183768 — Not Eden**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/78183768-this-is-not-the-eden-we-were-promised-surreal-eart-tapestry); [media](https://images.teepublic.com/derived/production/designs/78183768_0/1753891173/i_p:c_ffffff,wmk,s_630,q_90.jpg). Earth globe gains rectangular hatch and ladder under floating goldfish in cloud sky; small white serif bottom caption punctures utopian imagery.
+- **WD-79979171 — Dreams Not Private**, adamasuh / Weirduuh. [Source](https://adamasuh.dashery.com/products/79979171-your-dreams-are-not-private-weirdcore-butterfly-te-tapestry); [media](https://images.teepublic.com/derived/production/designs/79979171_0/1757356028/i_p:c_000000,wmk,s_630,q_90.jpg). Pink butterflies acquire pasted eyes around black flared serif warning text on pink circle; literal surveillance replaces decorative familiarity.
+
+## Direct Media Audit
+
+38 individually inspected still-media records; 32 qualifying unique artifacts; 3 duplicate versions across 2 groups; 3 boundary exclusions; 0 unresolved candidates; 0 reference downloads; 0 videos or interactive historical artifacts. The floor of 10 and working target of 30 are met. Discovery also included an inaccessible creator site, a deleted community FAQ and unused research PDFs; these are not counted. Four 1500-pixel store requests failed and are not counted as inspections; subsequent complete 630-pixel renditions were viewed successfully.
+
+Source distribution: Yunbomu, 13 independently composed digital works via It's Nice That; YY Wang, 3 independently made sculptures/installations via a gallery interview and FAD; adamasuh/Weirduuh, 16 independently composed store designs. This is three useful creator collections, but only three creators and substantial contemporary merchandise weighting. It supports formal variation, not a representative history of all Tumblr/TikTok communities. The ceramic vessel, generic gel question mark and green rabbit merchandise were excluded despite Dreamcore/Weirdcore labeling. Two eye variants were conservatively merged with their underlying collage, and an exhibition view was merged with its sculpture.
+
+## Analysis
+
+### Branches and boundaries
+
+Dreamcore foregrounds remembered, softened or emotionally displaced familiarity. YY Wang's miniature bedroom and impossible pool demonstrate a physical dream-memory branch. Weirdcore more often breaks context through crude juxtaposition, selective focus, uncanny substitutions and disconnected language; Yunbomu's mixed photo/graphic layers and Weirduuh's impossible object/sign collages demonstrate that grammar. These are useful internal contrasts, not a rigid pastel-versus-black split. The joint canonical identity is preserved.
+
+### Claim-to-artifact map
+
+- Mixed rendering and visible collage: YB-14, YB-11, YB-8, YB-3 and WD-96405561.
+- Ordinary object made impossible: YY-CoolPool, WD-86860110, WD-86395212 and WD-78183768.
+- Childhood-memory environment: YY-Yesterday and YY-Exhibit.
+- Ambiguous caption/instruction and repetition: WD-96405569, WD-83519441 and WD-78385038.
+- Contradiction to universal lo-fi digital medium: all three YY works; contradiction to universal pastel color: YB-4 and WD-95915597.
+- Timing, easing, responsive behavior and UI interaction remain unknown from still sources.
+
+### Context and attribution
+
+[It's Nice That's Yunbomu interview](https://www.itsnicethat.com/articles/yunbomu-digital-art-discover-270426) documents the artist's Photoshop/Illustrator practice and mixing organic and inorganic imagery. [Six Foot Gallery's YY Wang interview](https://sixfootgallery.co.uk/the-six-foot-gallery-interview-yy-wang/) records the artist's own Dreamcore framing; [FAD's exhibition account](https://fadmagazine.com/2025/09/30/yy-wang-the-psychology-of-dreamcore/) contextualizes memory and material practice. [Weirduuh's primary store](https://adamasuh.dashery.com/tapestries) explicitly identifies its original Weirdcore practice, but commercial tags alone were not sufficient for inclusion. These establish contemporary examples rather than proving a platform origin chronology. A deleted 2020 community FAQ was attempted but supplies no surviving historical claims.
+
+Artist statements about healing or dream-sharing describe personal intent or experience; they do not establish medical benefit or general beliefs for a whole culture. The visual artist named Weirdcore is not automatically evidence for the internet genre with the same name. Generated sample images were not used as historical evidence.
+
+### Interface translation
+
+Propose ordinary file/archive chrome around an original impossible landscape and object collage, with missing or contradictory memory labels. Use deterministic low-fi texture and mismatched image registers. Keep file selection, recovery and reset clear and keyboard accessible. Static artwork is a valid choice: stillness permits inspection of the contradiction without inventing a motion history. Any proposed exact colors, timing, font choices or breakpoints must be labeled implementation decisions rather than measured source values.
+
+## Connections
+
+`liminal-space-backrooms` centers vacant transitional architecture, which may be photographed plausibly; this entry can instead destabilize an ordinary object or memory through an edit. `glitch` emphasizes signal corruption; corruption alone does not establish dream-memory or context collapse. `vaporwave` overlaps in nostalgia but often centers consumer-media quotation and a different graphic/music history. `early-internet` describes period interface conventions without requiring surreal displacement. Ordinary cute/pastel, generic horror and any vaguely strange image are not interchangeable with this entry.
+
+## Research Updates
+
+### 2026-11-12 — Direct inspection and corrections
+
+Current metadata now reflects 32 deduplicated inspected works. This supersedes the July placeholder packet, unsupported percentages and claims that particular drift/zoom/flicker behavior was observed. Glazed sculpture, vivid/neutral palette variation and object-centered collage correct a mandatory VHS-and-empty-hallway interpretation. The earlier profile remains below as dated history, not the current claim set.
+
+### Historical profile — 2026-07-08
+
 
 # Dreamcore / Weirdcore
 

@@ -5,83 +5,80 @@ family: vernacular-commercial
 era: 1990s–present collectible card systems
 aliases: ["TCG design", "CCG frame design", "collectible card UI"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["board-game-box-art", "fairground-carnival-poster-art", "maximalism"]
 subsets: []
 ---
 
 # Trading Card Game Design
 
-Trading Card Game Design is application-ready only when its signal is distributed across all seven dimensions rather than resting on palette alone. The load-bearing pattern is: rigid information zoning + faction/rarity signaling + collectible object polish + frame-as-worldbuilding. Frontend translation should begin with that pattern, then apply color, texture, shape, and motion as evidence of it.
+A repeatable collectible information object: name, resource cost, illustration, role, mechanics, statistics and set identity are composed for recognition and comparison. The frame carries worldbuilding, but its hierarchy must serve the card's role.
 
 ## Scope
 
-Use the source-backed boundary notes; do not reduce the aesthetic to palette alone or flatten adjacent traditions into a generic moodboard.
-
-Preserve the whole system across interface scale: the aesthetic should survive in a hero, a card, an icon set, and a form state without relying on one decorative cue. If the product only needs a lighter reference, borrow one or two tokens while naming the result as an influence rather than the full aesthetic.
+Use for original collectible systems, deck/loadout builders, card inspection and themed game interfaces. The inspected evidence covers English-language Magic, Pokémon and Lorcana cards, not every trading-card tradition. Distinguish a functioning selection/building interface from a complete playable game.
 
 ## 7-Dimension Profile
 
-**Palette**: System-coded faction/element/rarity colors, metallic foil, gem accents, dark/light rules zones, and promo variants. Common extensions include Neighbor palettes only when the object model remains intact. Variant treatments include Accessibility-first simplifications with solid contrast fields; keep them secondary to the canonical signal.
+**Palette**: Game-specific resource, element or faction colors coexist with pale rules surfaces and dark or metallic framing. Mono/multicolor and promotional variants differ. Color alone need not encode rarity and must not be the only semantic cue.
 
-**Type**: Strict hierarchy for name, cost, type line, rules text, stats, rarity, collector number, icon labels, and artist credit. Common extensions include Support labels and metadata tuned to the domain. Variant treatments include Decorative display accents used sparingly; keep them secondary to the canonical signal.
+**Type**: Strict rank for name, cost, classification, rules, statistics and small collector/artist/legal metadata. Serif, fantasy display and condensed sans categories vary by game. Goudy Medieval is documented for early Magic titles, not a universal TCG font.
 
-**Texture**: Laminated print object, foil shimmer, beveled frames, holographic stamps, art windows, etched overlays, and premium edge effects. Common extensions include Interface chrome that preserves source material logic. Variant treatments include Flatter reduced-texture variants for legibility; keep them secondary to the canonical signal.
+**Texture**: Mottled, stone, paper and metal-like frame treatments; ordinary print and premium/foil-looking variants. Still images establish visible graphics, not measured reflectance, embossing or shimmer behavior.
 
-**Shape**: Vertical rounded rectangle, nested boxes, title/cost band, art window, type line, rules box, stat medallions, crests, and pips. Common extensions include Repeated UI modules echoing the source object model. Variant treatments include Softened modern component variants; keep them secondary to the canonical signal.
+**Shape**: Rounded card perimeter, resource/stat symbols and repeatable information zones. Bordered art, full-art continuity, split rules and sideways landscape locations are documented variants; portrait orientation is common, not mandatory.
 
-**Motion**: Stable frame with implied action inside illustration; digital foil/glow may move while object grammar stays legible. Common extensions include State transitions linked to the core workflow. Variant treatments include Static print-first or reduced-motion fallbacks; keep them secondary to the canonical signal.
+**Motion**: Unknown from the inspected still-card corpus. Stable selection/inspection is valid. Any digital foil, tilt or reveal is a proposed adaptation with controllable/reduced-motion behavior.
 
-**Spatial**: Tightly zoned information architecture: top identity, art, mechanics, stats/footer, and controlled art-to-rules tension. Common extensions include Secondary panes/lists that preserve scan order. Variant treatments include More spacious marketing adaptations; keep them secondary to the canonical signal.
+**Spatial**: Compact, consistent information hierarchy supports recognition and comparison. Different roles may omit combat values, change rules placement or give art more space.
 
-**Cultural markers**: Faction colors, rarity hierarchy, artist credit, expansion logos, collectible numbering, deck legibility, premium print, and showcase frames. Common extensions include Domain vocabulary and object-specific affordances. Variant treatments include Broader adjacent-pop-culture references; keep them secondary to the canonical signal.
+**Cultural markers**: Deck construction, resource identities, set and collector numbering, rarity marks, illustrator attribution and promotional variants. These meanings and the rules differ by game.
 
 ## Non-Negotiables
 
 **Non-negotiables**:
 
-- rigid information zoning.
-- faction/rarity signaling.
-- collectible object polish.
-- frame-as-worldbuilding. If these are removed, the result collapses into an adjacent or generic style rather than Trading Card Game Design.
+- Repeatable card-object grammar with clear identity and mechanical/collectible information.
+- Meaningful hierarchy among art, cost, role, rules and metadata appropriate to the card type.
+- System-specific symbols/material choices that remain coherent across a collection.
+
+Foil, fantasy people, ornate frames, combat statistics and portrait geometry are not universal requirements.
 
 ## Connotation
 
-**Systematized fantasy object / competitive collectible interface.** The frame carries rules, rarity, and worldbuilding as much as the illustration.
-
-Because the entry is intended for practical frontend use, connotation should be calibrated to the audience and product domain rather than applied as costume. Favor legible homage, contemporary revival, or clearly bounded genre quotation over accidental parody.
+For an **original contemporary collectible system**, use custom worldbuilding and readable mechanical structure. Authentic historical quotation requires a named game/period and correct boundaries. Avoid treating familiarity with a protected franchise as a substitute for original design.
 
 ## Related / Subsets
 
-Related aesthetics from the dictionary and candidate set:
-- Distinct from `board-game-box-art` and pure illustration: it is repeatable frame/UI object grammar with rules zones, faction/rarity coding, and collectible tactility.
-
-Metadata related slugs: `board-game-box-art`, `fairground-carnival-poster-art`, `maximalism`.
-No canonical subsets are currently defined for this entry.
+- `board-game-box-art` sells or depicts a whole game rather than repeated compact play objects.
+- `fairground-carnival-poster-art` shares spectacle and display but centers event publicity.
+- `maximalism` can share density without mechanical information zoning.
+- No canonical subsets are defined; name role-specific, full-art and period-frame variations in prose.
 
 ## Frontend / UI Guidance
 
-Start with Tightly zoned information architecture: top identity, art, mechanics, stats/footer, and controlled art-to-rules tension and Vertical rounded rectangle, nested boxes, title/cost band, art window, type line, rules box, stat medallions, crests, and pips, then layer System-coded faction/element/rarity colors, metallic foil, gem accents, dark/light rules zones, and promo variants., Strict hierarchy for name, cost, type line, rules text, stats, rarity, collector number, icon labels, and artist credit, and Laminated print object, foil shimmer, beveled frames, holographic stamps, art windows, etched overlays, and premium edge effects. Use the aesthetic for heroes, feature cards, empty states, branded dashboards, campaign pages, illustration frames, and high-value CTAs where its cultural markers are relevant. Keep primary navigation, forms, prices, error states, and body copy on stable accessible surfaces.
+Make selected cards, cost, collection capacity and rules readable and keyboard accessible. A deck builder should prevent duplicate additions and enforce its stated limits. A detail view must expose the actual card content; artwork alone is insufficient. Use original objects, environments, ornament and icons where franchise assets are not licensed.
 
 ## CSS Translation
 
-- Color roles: translate System-coded faction/element/rarity colors, metallic foil, gem accents, dark/light rules zones, and promo variants into named background, surface, accent, and text tokens; reserve common variants (Neighbor palettes only when the object model remains intact) for depth or emphasis.
-- Surface effects: use Laminated print object, foil shimmer, beveled frames, holographic stamps, art windows, etched overlays, and premium edge effects with CSS gradients, borders, masks, shadows, noise, or SVG filters; keep texture behind solid readable panels.
-- Shape language: build cards, badges, dividers, icons, and frames from Vertical rounded rectangle, nested boxes, title/cost band, art window, type line, rules box, stat medallions, crests, and pips rather than neutral rectangles alone.
-- Layout: organize pages around Tightly zoned information architecture: top identity, art, mechanics, stats/footer, and controlled art-to-rules tension with enough whitespace and hierarchy for product tasks.
-- Motion: use Stable frame with implied action inside illustration; digital foil/glow may move while object grammar stays legible as optional enhancement with `prefers-reduced-motion` fallbacks.
+- Proposed roles: tabletop/mat background, frame identity color, pale rules surface, dark ink, metal edge and custom resource/stat symbols.
+- Build nested zones from real text and semantic structure; reserve SVG for original illustration and ornament.
+- Preserve hierarchy at narrow widths, with a sufficiently large inspected card and plainly labeled selection controls.
+- Use fixed material gradients for finish comparison if helpful; exact foil response is not measured from scans.
+- Keep decorative finish layers out of the text contrast calculation and avoid moving highlights over rules.
 
 ## Typography / Fonts
 
-Use Strict hierarchy for name, cost, type line, rules text, stats, rarity, collector number, icon labels, and artist credit for identity moments, headings, numerals, labels, or badges. Pair it with a neutral readable sans or serif for body text and controls. Avoid making all microcopy decorative; the aesthetic reads more strongly when focal typography contrasts with quiet support typography.
+Use one expressive but readable title category, a stable rules face, strong stat numerals and small secondary collector metadata. Body size and spacing must support actual rules text at the rendered card width. Do not copy a historic low-contrast title weakness as a non-negotiable.
 
 ## Cultural / Ethical Notes
 
-The source-backed cultural markers are Faction colors, rarity hierarchy, artist credit, expansion logos, collectible numbering, deck legibility, premium print, and showcase frames. Use them as context signals, not as extractive decoration. When an implementation references living cultures, subcultures, fandoms, gambling, youth media, war machinery, or speculative harm, keep claims specific, fictionalized where appropriate, and avoid presenting stereotypes or protected symbols as generic ornament.
+Card art, names, symbols, characters, logos and rules text belong to particular creators and publishers. Analytical inspection does not grant production reuse. Credit original illustrators and keep fictional rarity/collection systems clear. Avoid unsupported value or tournament-legality claims.
 
 ## Anti-Patterns
 
-- Using only the palette while dropping the shape, texture, spatial, and cultural-marker system; that becomes generic moodboard styling rather than Trading Card Game Design.
-- Overloading every component with motifs so navigation, forms, pricing, or body copy become hard to scan.
-- Borrowing adjacent-aesthetic cues so heavily that the entry loses its own source-backed center of gravity.
-- Animating glow, grain, flash, or mechanical effects without reduced-motion and solid-surface fallbacks for critical content.
+- Art rectangles or foil gradients with no coherent card information system.
+- All cards forced into one combat-stat fantasy template.
+- Decorative type or moving glare that makes costs/rules unreadable.
+- A cosmetic Add button that ignores duplicates, cost or stated capacity.
+- Protected franchise imagery used to carry an otherwise generic interface.

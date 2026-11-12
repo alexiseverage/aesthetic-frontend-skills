@@ -5,7 +5,7 @@ family: digital-internet-native
 era: late 2010s–present; Backrooms 2019
 aliases: ["liminal spaces", "Backrooms aesthetic", "uncanny transitional architecture"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["dreamcore-weirdcore", "hauntology"]
 subsets: []
 ---
@@ -20,17 +20,17 @@ Use Liminal Space / Backrooms for art, games, analog-horror campaigns, speculati
 
 ## 7-Dimension Profile
 
-**Palette**: Fluorescent yellow, nicotine beige, off-white ceiling tile, gray, faded carpet brown, and sodium darkness.
+**Palette**: Yellow-green/beige and carpet brown define the original Backrooms image. The broader liminal corpus also includes cool blue daylight, red/amber/green artificial light and monochrome photography. Preserve ambient-light contrast rather than imposing yellow everywhere.
 
 **Type**: Municipal signage, archival captions, VHS timestamps, low-information wayfinding, or absent expressive type.
 
-**Texture**: VHS fuzz, compression, fluorescent glare, stained carpet, ceiling tile, drywall, blur, grain, and empty air.
+**Texture**: Carpet, patterned wallpaper, ceiling tile, drywall, glazed tile, metal, glass, reflected light and photographic grain/compression. Clean working facilities coexist with decaying rooms. VHS fuzz is an optional media interpretation, not universal evidence.
 
 **Shape**: Rectilinear hallways, dropped ceilings, doorframes, repetitive partitions, mall atriums, stairwells, and pool edges.
 
-**Motion**: Slow drift, looping camera walk, found-footage shake, analog zoom, stillness, and delay suspense.
+**Motion**: The current direct-media corpus is static; actual timing, camera shake and sound remain unmeasured. Intentional stillness supports scrutiny of absent activity. User-triggered scene changes or slow drift are proposed adaptations, with a stable reduced-motion view.
 
-**Spatial**: Threshold environments, transitional architecture, unresolved circulation, human absence, and no anchor object.
+**Spatial**: Familiar shared spaces without expected users, receding grids, nested openings, occluded routes and repeated infrastructure. Chairs or incidental objects can imply missing use; a solitary object or empty landscape alone does not establish this spatial system.
 
 **Cultural markers**: Noclipping, creepypasta lore, fluorescent hum, dead malls, empty schools, analog horror, and depopulated shared space.
 
@@ -44,13 +44,13 @@ Liminal Space / Backrooms comes from contemporary internet circulation around va
 
 ## Related / Subsets
 
-- `dreamcore-weirdcore` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- `hauntology` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
+- `dreamcore-weirdcore` can introduce impossible collage and text; liminal space can remain physically ordinary.
+- `hauntology` adds archival-media and historical-memory framing; an abandoned room alone does not establish that system.
 - No canonical subset entries are defined yet; use Liminal Space and Backrooms as internal branch labels when the distinction is useful.
 
 ## Frontend / UI Guidance
 
-Use repetition, fluorescent rectangles, low-information wayfinding, empty frames, and slow camera-like motion to create unease. Keep any required controls conventional and obvious; the uncanny should live in space and pacing rather than hidden affordances.
+Use repeated spatial frames, everyday fixtures, empty waiting zones and partly obscured routes to establish unease. Start with stillness; camera-like motion is optional. Keep any required controls conventional and obvious; the uncanny should live in space and pacing rather than hidden affordances.
 
 ## CSS Translation
 
@@ -59,7 +59,7 @@ Use repetition, fluorescent rectangles, low-information wayfinding, empty frames
 - Radius language: mostly hard rectilinear architecture; avoid decorative rounded cards.
 - Effects: fluorescent glare, compression, blur, carpet noise, VHS fuzz, and stale ambient shadows.
 - Layout: repeated corridors, threshold grids, empty hero spaces, and unresolved circulation paths.
-- Motion: slow drift, found-footage shake, analog zoom, delayed reveals, and reduced-motion stillness.
+- Motion: immediate user-triggered scene changes or deliberate stillness. Any proposed drift must have a stable reduced-motion alternative; no flicker or hidden-delay navigation is needed.
 
 ## Typography / Fonts
 
@@ -67,7 +67,7 @@ Use absent type, municipal signage, VHS captions, timestamps, and low-informatio
 
 ## Cultural / Ethical Notes
 
-This aesthetic can produce unease, derealization, or horror-adjacent ambiguity. Avoid it in contexts where users need reassurance, wayfinding, or stable identity confirmation.
+Preserve attribution and the distinction between real places, community fiction and authored photographic interpretation. Reference photographs are not automatically reusable production assets. See the [research profile](../../../knowledge/aesthetics/liminal-space-backrooms.md). This aesthetic can produce unease or horror-adjacent ambiguity. Avoid it in contexts where users need reassurance, wayfinding, or stable identity confirmation.
 
 ## Anti-Patterns
 

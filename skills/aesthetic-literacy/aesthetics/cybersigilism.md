@@ -5,7 +5,7 @@ family: emerging-hybrid
 era: 2020s emergent tattoo/fashion scene
 aliases: ["cyber sigilism", "post-human tattoo", "nu-tribal cyber tattoo"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["cyberpunk", "biomechanical", "nu-goth-pastel-goth"]
 subsets: []
 ---
@@ -20,15 +20,15 @@ Use Cybersigilism for fashion, tattoo, music, nightlife, speculative beauty, ava
 
 ## 7-Dimension Profile
 
-**Palette**: Monochrome black and greyscale on skin/fabric with restrained chrome or icy metallic accents.
+**Palette**: Black and greyscale dominate the inspected tattoo work. Red/magenta and white-ink designs are documented variants; chrome is an optional interface interpretation, not a defining material.
 
-**Type**: Minimal or absent; sharp coded sigilic marks, black-metal-adjacent lettering, and techno-occult labels.
+**Type**: Usually absent from the inspected tattoo compositions. Use readable support lettering and let the ornament carry the identity. A serif masthead, coded caps or expressive lettering is an application choice, not a verified historical font system.
 
-**Texture**: Tattoo linework, scarification illusion, embroidery, mirrored spikes, skin-tight prints, and biomechanical filigree.
+**Texture**: Fine scratch-like strokes, crisp parallel contours, delicate grey shading and occasional dense black masses. Preserve open substrate between marks; a universal polished-metal finish loses this contrast.
 
-**Shape**: Barbed curves, mirrored sigils, thorned anatomy paths, rib arcs, blade points, tribal hooks, and circuit traces.
+**Shape**: Long tapering spikes, branching curves, ribs, thorn-like hooks and enclosed voids. Paired symmetry is common, while asymmetrical trailing paths and jewelled/baroque curls are documented variants. Avoid treating every mark as a meaningful rune.
 
-**Motion**: Serpentine growth, contour reveals, activation-rune pulse, subtle body-scan shimmer, and no rave-neon dashboard motion.
+**Motion**: The audited evidence is still imagery and does not establish timing or easing. Intentional stillness is appropriate for line comparison. Immediate selection changes or a restrained contour reveal are proposed interface choices; perpetual scans and pulses are unnecessary.
 
 **Spatial**: Body-centric and contour-following: skin, garment panels, intimate surfaces, and mirrored anatomical placement.
 
@@ -40,13 +40,13 @@ Use Cybersigilism for fashion, tattoo, music, nightlife, speculative beauty, ava
 
 ## Connotation
 
-Cybersigilism reads as a source-backed contemporary characterization whose cues should be treated as a multi-dimensional system rather than a palette.
+**Mode:** contemporary revival. The emergent label connects tattoo experimentation, bodily customization and biomechanical fantasy. Practitioner accounts differ on naming and lineage; do not present a single uncontested inventor or reduce distinct artists to one internet trend.
 
 ## Related / Subsets
 
-- `cyberpunk` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- `biomechanical` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- `nu-goth-pastel-goth` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
+- `cyberpunk` builds technological environments; Cybersigilism concentrates on intimate contour-following ornament.
+- `biomechanical` shares ribs and organic/mechanical ambiguity; Cybersigilism can remain sparse, flat linework without rendered machinery.
+- `nu-goth-pastel-goth` shares contemporary alternative-fashion contexts, but black clothing or occult accessories alone do not establish this line system.
 - No canonical subsets are defined for this entry yet.
 
 ## Frontend / UI Guidance
@@ -58,17 +58,17 @@ Use mirrored vector sigils, contour-following dividers, rib-like arcs, and tight
 - Color roles: `--bg-skin-shadow`, `--ink-sigil`, `--surface-black`, `--accent-chrome`, `--accent-ice`, `--line-scar`.
 - Borders/dividers: mirrored sigil strokes, thorned filigree, rib arcs, and contour-following section lines.
 - Radius language: sharp points, barbs, hooks, and symmetrical organic curves; avoid soft SaaS pills.
-- Effects: tattoo-line crispness, scar/embroidery relief, metallic pinpoints, and subtle activation glow.
+- Effects: crisp original SVG strokes, branching fine lines and clean negative space. Use material relief sparingly; neither metallic shine nor glow is required.
 - Layout: body-map symmetry, centered marks, intimate object panels, and anatomy-following media frames.
-- Motion: contour reveals, serpentine growth, rune pulses, and reduced-motion opacity swaps.
+- Motion: start with still ornament and immediate state changes. If a reveal is useful, propose its duration explicitly and preserve all content with reduced motion.
 
 ## Typography / Fonts
 
-Typography is often minimal or absent. When used, choose sharp coded caps, black-metal-adjacent marks, or techno-occult labels as accents; let sigil geometry carry more signal than paragraphs of decorative type.
+Typography is minimal or absent in the current direct-media corpus. Choose an accessible support face; reserve any expressive lettering for short display text. Neither blackletter nor black-metal lettering is mandatory.
 
 ## Cultural / Ethical Notes
 
-Treat post-human body ornament carefully and avoid casual use of decontextualized “tribal” language or sacred-looking signs. Keep the focus on contemporary tattoo/fashion signal rather than claiming protected cultural provenance.
+Practitioner interviews and criticism connect this work to contested “tribal” revival and appropriation. Attribute specific influences accurately; distinguish original abstract ornament from culturally meaningful tattoo systems, bindrunes and sacred signs. Do not copy a tattoo from a person's body into a decorative asset. See the [research profile](../../../knowledge/aesthetics/cybersigilism.md) for direct-media support and limitations.
 
 ## Anti-Patterns
 

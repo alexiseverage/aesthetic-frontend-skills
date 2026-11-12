@@ -1,0 +1,1723 @@
+{
+  "aesthetic": "liminal-space-backrooms",
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "sampling_notes": "33 reviewed unique artifacts, including ten independent photographer contributions sharing a PDF URL. Raw URL-based automated audit undercounts these as one container; manual disambiguation and exact page/creator identities are retained. Six actual repeated photo-series views excluded. Photography-heavy, no measured motion.",
+  "deduplication_review": {
+    "automated_unique_artifacts": 24,
+    "reviewed_unique_artifacts": 33,
+    "explanation": "The helper strips URL fragments and merges ten independently credited contributions because they share one PDF container URL. Manual review of every complete contribution resolves these nine false-positive URL collisions. Each contribution contains three photographs, conservatively counted as one artifact; no claim that 30 photographs are 30 events. Retain the raw automated audit for comparison. Six actual photo-series duplicate views remain excluded.",
+    "independent_document_artifacts": [
+      "FM-Christeli",
+      "FM-Koulaxidis",
+      "FM-Pitta",
+      "FM-Kalantaridou",
+      "FM-Stavrakara",
+      "FM-Kotopoulis",
+      "FM-Papalexandrou",
+      "FM-Paizanis",
+      "FM-Kallias",
+      "FM-Chorianopoulou"
+    ]
+  },
+  "shared_documents": [
+    {
+      "url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "downloaded_files": 1,
+      "permission": "Publisher explicitly permits personal PDF download, contributors retain copyright; no redistribution.",
+      "purpose": "Private read-only visual inspection; 30 photographs grouped as ten contribution artifacts."
+    }
+  ],
+  "media": [
+    {
+      "record_id": "JF-LOST_grancanaria_112017-1_1600",
+      "artifact_id": "JF-LOST_grancanaria_112017-1_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2017/11/LOST_grancanaria_112017-1_1600.jpg",
+      "title": "LOST_grancanaria_112017-1_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Quiet outdoor yard with small planted shrine against patchwork concrete and expansive tarmac. Empty but object-centered rather than clearly transitional; boundary excluded."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "JF-airport_stop_go_1600",
+      "artifact_id": "JF-airport_stop_go_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/airport_stop_go_1600.jpg",
+      "title": "airport_stop_go_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Unoccupied airport hall centers a stair below dense directional signage; repeated tiled floor, exposed ceiling, lit fixtures and implied absent crowd."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-LOST_grancanaria_112017-10_1600_titel",
+      "artifact_id": "JF-LOST_grancanaria_112017-10_1600_titel",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/LOST_grancanaria_112017-10_1600_titel.jpg",
+      "title": "LOST_grancanaria_112017-10_1600_titel",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty submarine-tour dock: low buildings, ticket/information signs and a small yellow vessel, sea and blank sky; an idle leisure threshold rather than decayed horror."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-airport_1_1600",
+      "artifact_id": "JF-airport_1_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/airport_1_1600.jpg",
+      "title": "airport_1_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Second view of the airport shoot: suspended flight monitors, escalators and vacant floor. Same airport/event as stop_go; contextual view, not another independent artifact."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "JF-airport_stop_go_1600"
+    },
+    {
+      "record_id": "JF-airport_2_FX_1600",
+      "artifact_id": "JF-airport_2_FX_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/airport_2_FX_1600.jpg",
+      "title": "airport_2_FX_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Open-air airport waiting terrace with repeated paving and isolated yellow/blue seating. Same airport shoot, grouped conservatively with stop_go."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "JF-airport_stop_go_1600"
+    },
+    {
+      "record_id": "JF-cemetiere_paris_sw_LUMF",
+      "artifact_id": "JF-cemetiere_paris_sw_LUMF",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/cemetiere_paris_sw_LUMF.jpg",
+      "title": "cemetiere_paris_sw_LUMF",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Monochrome mausoleums under riveted metal structure. Specific memorial architecture dominates; cemetery absence alone does not define online liminal imagery."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "JF-LOST_grancanaria_112017-6_1200_FX",
+      "artifact_id": "JF-LOST_grancanaria_112017-6_1200_FX",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2026/06/LOST_grancanaria_112017-6_1200_FX.jpg",
+      "title": "LOST_grancanaria_112017-6_1200_FX",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty cruise terminal with reflective floor, repeated large window grids, rails and glass doors; vivid cyan daylight and orange panels contradict a mandatory yellow palette."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-jn_paris_markthalle_1200_LUMF",
+      "artifact_id": "JF-jn_paris_markthalle_1200_LUMF",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/jn_paris_markthalle_1200_LUMF.jpg",
+      "title": "jn_paris_markthalle_1200_LUMF",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Narrow market corridor of repeated pale booths, suspended lamps and a distant closed door. Strong one-point recession and absence of expected activity."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-gilgens_1_1600",
+      "artifact_id": "JF-gilgens_1_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/gilgens_1_1600.jpg",
+      "title": "gilgens_1_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Vacant tiled production/storage hall under repeated fluorescent tubes; stacked bright crates trace the missing work routine, clean rather than ruinous."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-LOST_grancanaria_112017-7_1600",
+      "artifact_id": "JF-LOST_grancanaria_112017-7_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2017/11/LOST_grancanaria_112017-7_1600.jpg",
+      "title": "LOST_grancanaria_112017-7_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty fenced blue sports court in daylight, institutional walls and long shadow: broad idle-leisure variation, not a Backrooms interior."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-on_the_road_lr_1200_LUMF",
+      "artifact_id": "JF-on_the_road_lr_1200_LUMF",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/on_the_road_lr_1200_LUMF.jpg",
+      "title": "on_the_road_lr_1200_LUMF",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Deserted multilane roadway approaches a distant hazy skyline; broad vacant threshold and directional perspective in monochrome."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-LOST_grancanaria_112017-4_1600",
+      "artifact_id": "JF-LOST_grancanaria_112017-4_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2017/11/LOST_grancanaria_112017-4_1600.jpg",
+      "title": "LOST_grancanaria_112017-4_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Exterior passage of same cruise-terminal shoot as gran_canaria6, repeated slats, rails and opposed exit signs. Same site/event grouped conservatively."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "JF-LOST_grancanaria_112017-6_1200_FX"
+    },
+    {
+      "record_id": "JF-LOST_grancanaria_112017-9_1600-copy",
+      "artifact_id": "JF-LOST_grancanaria_112017-9_1600-copy",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2017/11/LOST_grancanaria_112017-9_1600-copy.jpg",
+      "title": "LOST_grancanaria_112017-9_1600-copy",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Vacant resort square and small playground with closed fronts, broad pink paving and sharp daylight. Large expected-social space is empty."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-airport_checkin_1600",
+      "artifact_id": "JF-airport_checkin_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/airport_checkin_1600.jpg",
+      "title": "airport_checkin_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Repeated airport check-in counters and overhead blankish screens; grouped with the same airport series/event rather than an additional independent artifact."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "JF-airport_stop_go_1600"
+    },
+    {
+      "record_id": "JF-cheyennes_FX_1600",
+      "artifact_id": "JF-cheyennes_FX_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/cheyennes_FX_1600.jpg",
+      "title": "cheyennes_FX_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Closed western-themed roadside bar with object-rich facade and sunny landscape. Vernacular building subject overwhelms transitional emptiness; boundary excluded."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "JF-LOST_grancanaria_112017-5_1600",
+      "artifact_id": "JF-LOST_grancanaria_112017-5_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2017/11/LOST_grancanaria_112017-5_1600.jpg",
+      "title": "LOST_grancanaria_112017-5_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Closed blue pub front inside shopping passage, floor and empty sign-frame; location unclear relative to terminal shoot, retain as contextual unresolved site, excluded from unique count."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "JF-flughafen_duesseldorf_FXFX_1600",
+      "artifact_id": "JF-flughafen_duesseldorf_FXFX_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/flughafen_duesseldorf_FXFX_1600.jpg",
+      "title": "flughafen_duesseldorf_FXFX_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty airport apron with mobile stairs and carts under overcast sky; separate D\u00fcsseldorf location but same broad airport-event identity not proved. Conservatively grouped airport context."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "JF-airport_stop_go_1600"
+    },
+    {
+      "record_id": "JF-LOST_grancanaria_112017-3_1600",
+      "artifact_id": "JF-LOST_grancanaria_112017-3_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2017/11/LOST_grancanaria_112017-3_1600.jpg",
+      "title": "LOST_grancanaria_112017-3_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cruise terminal glass entrance with idle children\u2019s coin ride, reflective floor and long sun shadows. Same terminal shoot as gran_canaria6; contextual duplicate."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "JF-LOST_grancanaria_112017-6_1200_FX"
+    },
+    {
+      "record_id": "JF-airport_3_1600",
+      "artifact_id": "JF-airport_3_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/airport_3_1600.jpg",
+      "title": "airport_3_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Glass airport structure and foreground ramp, distant occupied waiting area visible. Same airport series; excluded as a contextual view with people and weak empty-space emphasis."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "JF-bhf_messe_koeln_unterfuehrung_1200_LUMF",
+      "artifact_id": "JF-bhf_messe_koeln_unterfuehrung_1200_LUMF",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/bhf_messe_koeln_unterfuehrung_1200_LUMF.jpg",
+      "title": "bhf_messe_koeln_unterfuehrung_1200_LUMF",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Deserted tiled underpass with repeated fluorescent bars and a dark terminal wall; centered one-point recession, low ceiling and hard reflective surfaces."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-LOST_grancanaria_112017-8_1600",
+      "artifact_id": "JF-LOST_grancanaria_112017-8_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2017/11/LOST_grancanaria_112017-8_1600.jpg",
+      "title": "LOST_grancanaria_112017-8_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Broad empty plaza foreground but caf\u00e9 and people at right; context for absence-of-crowd framing, insufficiently focused for defining corpus."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "JF-LOST_grancanaria_112017-2_1600",
+      "artifact_id": "JF-LOST_grancanaria_112017-2_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2017/11/LOST_grancanaria_112017-2_1600.jpg",
+      "title": "LOST_grancanaria_112017-2_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Night beach entrance: repeated yellow loungers unoccupied beyond stair rails; bright artificial foreground falls into blank black distance."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-leerraum_teppich_FX_1200_LUMF",
+      "artifact_id": "JF-leerraum_teppich_FX_1200_LUMF",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/leerraum_teppich_FX_1200_LUMF.jpg",
+      "title": "leerraum_teppich_FX_1200_LUMF",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Long pale strip follows a deserted narrow cobbled alley; angular threshold into white distance, coarse wall grain. A broad passage/liminal variant."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-messe_koeln_waerterhaus_1200_LUMF",
+      "artifact_id": "JF-messe_koeln_waerterhaus_1200_LUMF",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/messe_koeln_waerterhaus_1200_LUMF.jpg",
+      "title": "messe_koeln_waerterhaus_1200_LUMF",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small guard booth with a seated person; character and isolated object displace absent-use architecture. Boundary excluded."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "JF-1600_JN_LEERRAUM_houston_backyard",
+      "artifact_id": "JF-1600_JN_LEERRAUM_houston_backyard",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/1600_JN_LEERRAUM_houston_backyard.jpg",
+      "title": "1600_JN_LEERRAUM_houston_backyard",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Broad vacant parking lot before older tall Houston buildings; grainy muted greens/ochres, repeated windows and large unoccupied foreground."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-1600_JN_dark_dawn_80x45_300dpi",
+      "artifact_id": "JF-1600_JN_dark_dawn_80x45_300dpi",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/1600_JN_dark_dawn_80x45_300dpi.jpg",
+      "title": "1600_JN_dark_dawn_80x45_300dpi",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Monochrome lake, trees and distant hills. Landscape solitude without built threshold or expected human use; boundary excluded."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "JF-1600_JN_gelb",
+      "artifact_id": "JF-1600_JN_gelb",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/1600_JN_gelb.jpg",
+      "title": "1600_JN_gelb",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty yellow passage under a tree branch leads to three white windows and small stairs. Cropped architecture and light create a quiet transitional frame."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "JF-london_082019_5_1600",
+      "artifact_id": "JF-london_082019_5_1600",
+      "source_url": "https://www.jfnovotny.com/portfolio/leerraumlost/",
+      "media_url": "https://www.jfnovotny.com/wp-content/uploads/2014/11/london_082019_5_1600.jpg",
+      "title": "london_082019_5_1600",
+      "creator": "J. F. Novotny",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Street facade with exterior stairs and ornate balconies; architecture is the subject, little unusual absence-of-use or transitional depth. Boundary excluded."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "DN-7696758",
+      "artifact_id": "DN-7696758",
+      "title": "Liminal Silence / DN-7696758",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image4.photobiz.com/8911/35_20250626131311_7696758_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty museum bench before a Keith Haring mural; artwork dominates the photograph, so absence alone is insufficient defining evidence."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7696744",
+      "artifact_id": "DN-7696744",
+      "title": "Liminal Silence / DN-7696744",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image5.photobiz.com/8905/35_20250626131216_7696744_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Vacant prison courtyard viewed through a square wire grid; repeated institutional windows, blank recreation area and blocked access."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7696743",
+      "artifact_id": "DN-7696743",
+      "title": "Liminal Silence / DN-7696743",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image14.photobiz.com/10152/35_20250626131216_7696743_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Night street and empty glazed stair passage against a dark brick facade. One bright enclosed route leads between otherwise unoccupied zones."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7358430",
+      "artifact_id": "DN-7358430",
+      "title": "Liminal Silence / DN-7358430",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image11.photobiz.com/8586/35_20240806143830_7358430_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Boarded door and window in decaying brick wall with feather decoration; an object/facade study, not enough transitional spatial grammar."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7358428",
+      "artifact_id": "DN-7358428",
+      "title": "Liminal Silence / DN-7358428",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image9.photobiz.com/8584/35_20240806143829_7358428_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Coastal flowers and fog behind barbed wire. Boundary between landscape melancholy and architectural liminal imagery; excluded."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7694711",
+      "artifact_id": "DN-7694711",
+      "title": "Liminal Silence / DN-7694711",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image8.photobiz.com/8585/35_20250625165345_7694711_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Single cyan chair against a worn wall, a still-life of absence with no navigable depth. Excluded as a weak defining match."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7694708",
+      "artifact_id": "DN-7694708",
+      "title": "Liminal Silence / DN-7694708",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image8.photobiz.com/8585/35_20250625165341_7694708_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty angular service alley, repeated white masonry planes, blank doors and wires; threshold partly hidden behind foreground corner. Quiet infrastructure variant."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7696748",
+      "artifact_id": "DN-7696748",
+      "title": "Liminal Silence / DN-7696748",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image9.photobiz.com/8584/35_20250626131302_7696748_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Narrow closed doorway between glowing amber glass-block walls, cool blue floor and a Use Next Door sign. Obstructed route and ambiguous access are clear."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7696750",
+      "artifact_id": "DN-7696750",
+      "title": "Liminal Silence / DN-7696750",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image6.photobiz.com/8933/35_20250626131304_7696750_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red bar interior with stools, framed posters and a reflected person; occupied decorative environment rather than defining liminal absence. Excluded."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7694709",
+      "artifact_id": "DN-7694709",
+      "title": "Liminal Silence / DN-7694709",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image4.photobiz.com/8911/35_20250625165341_7694709_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sunlit service yard with external stair, many cables, parked bicycle and blank wall; mostly facade/graphic-shadow study, weak match excluded."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7694710",
+      "artifact_id": "DN-7694710",
+      "title": "Liminal Silence / DN-7694710",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image12.photobiz.com/7732/35_20250625165343_7694710_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Narrow concrete stair passage into overexposed daylight, with a black cat at threshold. Strong framing and blocked view; a non-human occupant does not remove all liminal tension."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "DN-7696741",
+      "artifact_id": "DN-7696741",
+      "title": "Liminal Silence / DN-7696741",
+      "creator": "Daniel Newcomb",
+      "source_url": "https://www.danielnewcombphoto.com/liminal-silence",
+      "media_url": "https://image12.photobiz.com/7732/35_20250626131025_7696741_xlarge.jpg",
+      "source_description": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Boarded brick factory elevation, worn sign and empty street; flat ruin facade offers little transition or spatial depth. Boundary excluded."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "75-Feeling-Empty",
+      "artifact_id": "75-Feeling-Empty",
+      "title": "Feeling Empty",
+      "creator": "Matt Harvey / 75Central Photography",
+      "source_url": "https://www.75centralphotography.com/photo_series/liminal-spaces/",
+      "media_url": "https://www.75centralphotography.com/wp-content/uploads/2025/10/Feeling-Empty.jpg",
+      "source_description": "Downtown Dallas, Texas urban photography at morning shot with X100vi at \u0192/8",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Vacant Dallas leisure plaza with many repeated chairs beside fountains, long canopy recession and illuminated digital facade. Empty-social-space variant with saturated color."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "75-Bounded",
+      "artifact_id": "75-Bounded",
+      "title": "Bounded",
+      "creator": "Matt Harvey / 75Central Photography",
+      "source_url": "https://www.75centralphotography.com/photo_series/liminal-spaces/",
+      "media_url": "https://www.75centralphotography.com/wp-content/uploads/2025/05/Bounded.jpg",
+      "source_description": "Fowler-Hughes-Keathley Housing Complex (Texas A&M University), College Station, Texas architecture photography at afte...",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty housing courtyard encloses repeated access galleries and doors around a dark centre; monochrome photograph emphasizes modular institutional enclosure."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "75-Liminal",
+      "artifact_id": "75-Liminal",
+      "title": "Liminal",
+      "creator": "Matt Harvey / 75Central Photography",
+      "source_url": "https://www.75centralphotography.com/photo_series/liminal-spaces/",
+      "media_url": "https://www.75centralphotography.com/wp-content/uploads/2024/04/Liminal.jpg",
+      "source_description": "Modern Art Museum of Fort Worth, Texas abstract photography at afternoon shot with FinePix X100 at \u0192/2.8",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Close crop of museum glass mullions and paving beside water; graphic detail does not show enough experiential space to establish the boundary alone."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "75-In-the-Glass-Room",
+      "artifact_id": "75-In-the-Glass-Room",
+      "title": "In the Glass Room",
+      "creator": "Matt Harvey / 75Central Photography",
+      "source_url": "https://www.75centralphotography.com/photo_series/liminal-spaces/",
+      "media_url": "https://www.75centralphotography.com/wp-content/uploads/2023/01/In-the-Glass-Room.jpg",
+      "source_description": "Pikes Peak Summit, Colorado abstract photography at evening shot with iPhone 13 Pro Max at \u0192/1.8",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Upward view of timber/glass roof, bright clouds and structural grid; architectural abstraction rather than absence-of-use space, excluded."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "75-On-the-Outside-Looking-In",
+      "artifact_id": "75-On-the-Outside-Looking-In",
+      "title": "On the Outside Looking In",
+      "creator": "Matt Harvey / 75Central Photography",
+      "source_url": "https://www.75centralphotography.com/photo_series/liminal-spaces/",
+      "media_url": "https://www.75centralphotography.com/wp-content/uploads/2018/02/On-the-Outside-Looking-In.jpg",
+      "source_description": "Terminal C - DFW International Airport, Grapevine, Texas urban photography at evening shot with Google Pixel 2 XL at \u0192/1.8",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Through an orange-lit exterior frame, empty blue-grey airport waiting seats face a closed door; multiple thresholds and temperature contrast, no expected traveler."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "75-Pedway",
+      "artifact_id": "75-Pedway",
+      "title": "Pedway",
+      "creator": "Matt Harvey / 75Central Photography",
+      "source_url": "https://www.75centralphotography.com/photo_series/liminal-spaces/",
+      "media_url": "https://www.75centralphotography.com/wp-content/uploads/2014/07/Pedway.jpg",
+      "source_description": "Lakeshore East, Chicago, Illinois urban photography at morning shot with Panasonic Lumix G6 at \u0192/5.2",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Unoccupied enclosed pedestrian bridge with repeated diagonal yellow braces, low metallic ceiling, reflected floor lights and a closed louvred end."
+        }
+      ],
+      "handling": "Linked analysis only; no production reuse.",
+      "generated": false,
+      "downloaded": false
+    },
+    {
+      "record_id": "FM-Christeli",
+      "artifact_id": "FM-Christeli",
+      "creator": "Calliope Christeli",
+      "title": "Liminal Spaces contribution, printed pages 4\u20137",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=4",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; 3 photographs treated as one contribution to avoid inflating related-shoot counts.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Warm amber library after use, repeated bookcase grids and empty chairs behind glass. Three views of one setting grouped as one series artifact."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical PDF, no redistribution. Contributors retain copyright; no production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "FM-Koulaxidis",
+      "artifact_id": "FM-Koulaxidis",
+      "creator": "Drakoulis Koulaxidis",
+      "title": "Liminal Spaces contribution, printed pages 8\u201311",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=6",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; 3 photographs treated as one contribution to avoid inflating related-shoot counts.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty descending passage lit by a red sign; vacant lounge with repeated seats; spare warm hall with angular tube lights. All three individually examined; grouped conservatively as one contribution."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical PDF, no redistribution. Contributors retain copyright; no production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "FM-Pitta",
+      "artifact_id": "FM-Pitta",
+      "creator": "Fay Pitta",
+      "title": "Liminal Spaces contribution, printed pages 12\u201315",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=8",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; 3 photographs treated as one contribution to avoid inflating related-shoot counts.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Bench on foggy tree-lined path; open lit doorway through a dark abandoned room; tunnel mouth frames a blue fog road. Three threshold examples grouped as one contribution."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical PDF, no redistribution. Contributors retain copyright; no production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "FM-Kalantaridou",
+      "artifact_id": "FM-Kalantaridou",
+      "creator": "Lina Kalantaridou",
+      "title": "Liminal Spaces contribution, printed pages 16\u201319",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=10",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; 3 photographs treated as one contribution to avoid inflating related-shoot counts.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Part-open dark door with thin red/light edges; empty blue room with curtained window and suspended grid ceiling; old lift beside receding stairs. Ambiguous access and framed light without a monster. One contribution artifact."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical PDF, no redistribution. Contributors retain copyright; no production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "FM-Stavrakara",
+      "artifact_id": "FM-Stavrakara",
+      "creator": "Livia Stavrakara",
+      "title": "Liminal Spaces contribution, printed pages 20\u201323",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=12",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; three photographs conservatively counted as one contribution.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty marked waterfront landing; long green corridor with repeating ceiling discs and dark end; empty tiled room with curtained window and suspended butterfly ornament. Three scenes inspected, one contribution counted."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical document, no redistribution or production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "FM-Kotopoulis",
+      "artifact_id": "FM-Kotopoulis",
+      "creator": "Nikos Kotopoulis",
+      "title": "Liminal Spaces contribution, printed pages 24\u201327",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=14",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; three photographs conservatively counted as one contribution.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty gallery with triangular window, vacant rough-walled passage with hanging lamps and doors, deeply receding gold-lit tunnel with repeated angled ceiling ribs. One contribution counted."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical document, no redistribution or production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "FM-Papalexandrou",
+      "artifact_id": "FM-Papalexandrou",
+      "creator": "Olga Papalexandrou",
+      "title": "Liminal Spaces contribution, printed pages 28\u201331",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=16",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; three photographs conservatively counted as one contribution.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Door-after-door renovation passage with green fluorescent spill; nested orange empty parking/passage bays; lit arcade without visitors. Geometry and ambient light carry absence. Three scenes, one contribution counted."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical document, no redistribution or production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "FM-Paizanis",
+      "artifact_id": "FM-Paizanis",
+      "creator": "Pantelis Paizanis",
+      "title": "Liminal Spaces contribution, printed pages 32\u201335",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=18",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; three photographs conservatively counted as one contribution.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Weathered inner courtyard behind rail; abandoned glass hall with strong amber/blue light bands; ruined tiled bathing room with circular tub and glass blocks. Related ruin views grouped as one contribution."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical document, no redistribution or production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "FM-Kallias",
+      "artifact_id": "FM-Kallias",
+      "creator": "Vasilis Kallias",
+      "title": "Liminal Spaces contribution, printed pages 36\u201339",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=20",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; three photographs conservatively counted as one contribution.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three empty rectangular passages frame courtyard walls, a tree and a closed mesh gate; repeated thresholds, tiled or checkerboard floors, shadowed foreground and lit endpoints. Similar framing grouped as one contribution."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical document, no redistribution or production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "FM-Chorianopoulou",
+      "artifact_id": "FM-Chorianopoulou",
+      "creator": "Yria Chorianopoulou",
+      "title": "Liminal Spaces contribution, printed pages 40\u201343",
+      "source_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf",
+      "media_url": "https://thefalsemirror.gr/images/entypa/The%20False%20Mirror%20Open%20Calls%20-%20LiminalSpaces_WEB.pdf#page=22",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "inspection_detail": "Complete contribution inspected at 1800px-wide full PDF spreads; three photographs conservatively counted as one contribution.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Empty sports field with tiny distant goal; reflected yellow/magenta station passage; dark enclosed staircase with reflected fluorescent bars. Modern social/transit infrastructure, one contribution counted."
+        }
+      ],
+      "handling": "Publisher permits personal PDF download; one private analytical document, no redistribution or production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "BR-DSC00161",
+      "artifact_id": "BR-DSC00161",
+      "creator": "Bill, attributed by the HobbyTown photo-set archive; published by HobbyTown Oshkosh",
+      "title": "East (Oval) room before renovation, DSC00161.jpg",
+      "source_url": "https://archive.org/details/backrooms-photos/807OREGON/DSC00161.jpg",
+      "media_url": "https://archive.org/download/backrooms-photos/807OREGON/DSC00161.jpg",
+      "context_url": "https://nimaid.github.io/backrooms/",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "complete-original",
+      "inspection_detail": "Verified archive file marked original; complete 640\u00d7480 photograph viewed transiently. Low-resolution original, details relevant to space/pattern/light legible.",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Yellow-green artificial cast, repetitive small-pattern wallpaper, low suspended ceiling with fluorescent rectangles, brown carpet, offset partitions and occluded routes; no person, monster or dramatic wreckage. Original photograph supplies no actual hum or motion."
+        }
+      ],
+      "handling": "Archived original linked analysis only. Archive metadata labels the set CC0, but no production reuse is needed or performed.",
+      "downloaded": false,
+      "generated": false
+    }
+  ]
+}

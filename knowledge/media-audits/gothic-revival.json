@@ -1,0 +1,1519 @@
+{
+  "aesthetic": "gothic-revival",
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "sampling_notes": "Predominantly British domestic and decorative arts held by the V&A, with Met and Strawberry Hill objects. Forty new qualifying still artifacts; no motion evidence. Earlier four article links are retained as history but not added to the new deduplicated media count.",
+  "media": [
+    {
+      "record_id": "VA-O128016",
+      "artifact_id": "VA-O128016",
+      "source_url": "https://collections.vam.ac.uk/item/O128016/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2010EF9375/full/!1200,1200/0/default.jpg",
+      "title": "Candlestick (M.35A-1972)",
+      "creator": "A.W. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "type",
+            "spatial"
+          ],
+          "observation": "Gold candlestick combines a heraldic shield, paired lions, blackletter band and pierced leaf cresting."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O8188",
+      "artifact_id": "VA-O8188",
+      "source_url": "https://collections.vam.ac.uk/item/O8188/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2014HD2230/full/!1200,1200/0/default.jpg",
+      "title": "Armchair (CIRC.237:1, 2-1951)",
+      "creator": "A.W. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "type",
+            "spatial"
+          ],
+          "observation": "Curved padded armchair shows carved scrolls and animal feet, but no pointed tracery; maker identity alone is insufficient."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "VA-O1737090",
+      "artifact_id": "VA-O1737090",
+      "source_url": "https://collections.vam.ac.uk/item/O1737090/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2023NM9009/full/!1200,1200/0/default.jpg",
+      "title": "design (E.739-2023)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "type",
+            "spatial"
+          ],
+          "observation": "Plain bowl sketch with handwriting lacks useful revival-specific geometry; excluded from the aesthetic count."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "VA-O7754",
+      "artifact_id": "VA-O7754",
+      "source_url": "https://collections.vam.ac.uk/item/O7754/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AU3336/full/!1200,1200/0/default.jpg",
+      "title": "Candelabrum (2740-1851)",
+      "creator": "A.W. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "type",
+            "spatial"
+          ],
+          "observation": "Gilded candelabrum has a tall twisted stem, lattice branches, clustered collars and a lobed base."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O1737085",
+      "artifact_id": "VA-O1737085",
+      "source_url": "https://collections.vam.ac.uk/item/O1737085/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2023NM9003/full/!1200,1200/0/default.jpg",
+      "title": "design (E.734-2023)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "type",
+            "spatial"
+          ],
+          "observation": "Preparatory shield and inscription drawing corresponds to the candlestick VA-O128016; retained as process detail, not a second design."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "VA-O128016"
+    },
+    {
+      "record_id": "VA-O1736597",
+      "artifact_id": "VA-O1736597",
+      "source_url": "https://collections.vam.ac.uk/item/O1736597/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2023NR0769/full/!1200,1200/0/default.jpg",
+      "title": "design (E.247-2023)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "type",
+            "spatial"
+          ],
+          "observation": "Annotated sketch sheet contains faint border and vase studies; detail is insufficient to establish defining ornament."
+        }
+      ],
+      "handling": "linked analysis only; original viewed transiently in memory; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "VA-O113502",
+      "artifact_id": "VA-O113502",
+      "source_url": "https://collections.vam.ac.uk/item/O113502/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006BA0292/full/!1100,1100/0/default.jpg",
+      "title": "Baluster (M.31-1972)",
+      "creator": "Sullivan, Louis Henry",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark slender metal baluster with a central shield, foliate ribs and open vertical bars; Sullivan attribution makes this a stylistic boundary with late nineteenth-century organic ornament."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "VA-O324041",
+      "artifact_id": "VA-O324041",
+      "source_url": "https://collections.vam.ac.uk/item/O324041/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2010EG9474/full/!1100,1100/0/default.jpg",
+      "title": "Tabernacle grille (534-1872)",
+      "creator": "Unknown",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Folding tabernacle grille: pointed twin lancets, curled rosettes, diamond mesh, crocketed pinnacles and blackened metal."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O324629",
+      "artifact_id": "VA-O324629",
+      "source_url": "https://collections.vam.ac.uk/item/O324629/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2017KA7869/full/!1100,1100/0/default.jpg",
+      "title": "Lockplate (543-1895)",
+      "creator": "Unknown",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Diamond lockplate with four helmet profiles and keyhole; medievalist hardware without pointed tracery."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O9031",
+      "artifact_id": "VA-O9031",
+      "source_url": "https://collections.vam.ac.uk/item/O9031/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2010EL7088/full/!1100,1100/0/default.jpg",
+      "title": "The Strawberry Hill Chair (W.29:1 to 3-1979)",
+      "creator": "Bentley, Richard",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Strawberry Hill chair: narrow dark posts, pierced pointed arches, quatrefoils and tall finial above a plain seat."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O114242",
+      "artifact_id": "VA-O114242",
+      "source_url": "https://collections.vam.ac.uk/item/O114242/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006BA0139/full/!1100,1100/0/default.jpg",
+      "title": "Capital (REPRO.A.1916-250)",
+      "creator": "",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Reproduction capital with broad curled foliage; historical model rather than a securely identified independent revival design."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "VA-O93480",
+      "artifact_id": "VA-O93480",
+      "source_url": "https://collections.vam.ac.uk/item/O93480/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AK3942/full/!1100,1100/0/default.jpg",
+      "title": "Cup and cover (M.25:1, 2-1953)",
+      "creator": "M\u00fcllner, Michael",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gold lobed cup dated 1615\u20131620 precedes the revival; period boundary, excluded."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "VA-O8857",
+      "artifact_id": "VA-O8857",
+      "source_url": "https://collections.vam.ac.uk/item/O8857/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AM8249/full/!1100,1100/0/default.jpg",
+      "title": "Candelabrum (A.92-1980)",
+      "creator": "Hopper, Thomas",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White architectural candelabrum: clustered shafts, lancet panels, lobed base, winged beasts, shallow leafwork and pierced upper rim. Tall vertical structural rhythm."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O113557",
+      "artifact_id": "VA-O113557",
+      "source_url": "https://collections.vam.ac.uk/item/O113557/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AA6441/full/!1100,1100/0/default.jpg",
+      "title": "Grille (869-1868)",
+      "creator": "Winstanley, T.",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black iron grille: paired wide volutes with leaf terminals, heart-shaped central leaves and small punched curlicues; Gothic Revival metalwork variant without pointed windows."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O99642",
+      "artifact_id": "VA-O99642",
+      "source_url": "https://collections.vam.ac.uk/item/O99642/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AG8603/full/!1100,1100/0/default.jpg",
+      "title": "Spill vase (C.13-1915)",
+      "creator": "Deroche",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green cylindrical spill vase treats gold-outlined pointed windows as a continuous wrap; dark tracery, cusps and gilded octagonal foot."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O380445",
+      "artifact_id": "VA-O380445",
+      "source_url": "https://collections.vam.ac.uk/item/O380445/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2017KB6505/full/!1100,1100/0/default.jpg",
+      "title": "Candlestick (1036-1893)",
+      "creator": "Unknown",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wrought-iron candlestick with scroll arms and rough forged stems. Context broad; no sufficient defining Gothic grammar visible."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "VA-O122670",
+      "artifact_id": "VA-O122670",
+      "source_url": "https://collections.vam.ac.uk/item/O122670/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2007BR2200/full/!1100,1100/0/default.jpg",
+      "title": "Ring (1202-1869)",
+      "creator": "Unknown",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gold ring frames pale yellow stone with quatrefoil-like lobes and paired open shoulders; small-object medievalist variant."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O109098",
+      "artifact_id": "VA-O109098",
+      "source_url": "https://collections.vam.ac.uk/item/O109098/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2019LY2104/full/!1100,1100/0/default.jpg",
+      "title": "Gothic Windows (T.239-1963)",
+      "creator": "Unknown",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Gothic Windows furnishing fabric repeats polychrome twin lancets and clustered columns; cream mesh ground, blue/red/gold tracery and diagonal architectural rhythm."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O754598",
+      "artifact_id": "VA-O754598",
+      "source_url": "https://collections.vam.ac.uk/item/O754598/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2016JA1509/full/!1100,1100/0/default.jpg",
+      "title": "Design for a pier-glass in the gothic style from; A Miscellaneous Collection of Original Designs, made, and for the most part executed, during an extensive Practice of many years in the first line of his Profession, by John Linnell, Upholsterer Carver & Cabinet Maker. Selected from his Portfolios at his Decease, by C. H. Tatham Architect. AD 1800. (E.170-1929)",
+      "creator": "Linnell, John",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pier-glass design combines a broad rectangular mirror with clustered side shafts, ogee crest, crockets and asymmetrically creeping foliage; pale graphite drawing."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O594354",
+      "artifact_id": "VA-O594354",
+      "source_url": "https://collections.vam.ac.uk/item/O594354/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2020MM3155/full/!1100,1100/0/default.jpg",
+      "title": "Furniture design (E.522-1951)",
+      "creator": "Cottingham, Lewis Nockalls",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Polychrome heraldic sofa design with four shield cushions, warm gilded structure, red/blue fabric and cusped small arches beneath the seat."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O61222",
+      "artifact_id": "VA-O61222",
+      "source_url": "https://collections.vam.ac.uk/item/O61222/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2018KX3719/full/!1100,1100/0/default.jpg",
+      "title": "Faldstool (W.80-1983)",
+      "creator": "Brooks, James",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Restrained dark wooden faldstool has clustered ringed shafts, pierced circular frieze and small cusp brackets; no lavish gilding required."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O594352",
+      "artifact_id": "VA-O594352",
+      "source_url": "https://collections.vam.ac.uk/item/O594352/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2020MM3152/full/!1100,1100/0/default.jpg",
+      "title": "Furniture design (E.524-1951)",
+      "creator": "Cottingham, Lewis Nockalls",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sofa table design uses clustered supports, miniature hanging cusps, heraldic panels and restrained pale finish with small red/blue/gold details."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O1517106",
+      "artifact_id": "VA-O1517106",
+      "source_url": "https://collections.vam.ac.uk/item/O1517106/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2020MN1627/full/!1100,1100/0/default.jpg",
+      "title": "Sheet of architectural studies for 'Essay on the Origin, History and Principles of Gothic Architecture' (E.1130-2019)",
+      "creator": "Blore, Edward",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Architectural study sheet compares pointed lancets, bundled shafts, rib junctions and leaf capitals. Legible form taxonomy, not a polished color reference."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O58202",
+      "artifact_id": "VA-O58202",
+      "source_url": "https://collections.vam.ac.uk/item/O58202/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AT8758/full/!1100,1100/0/default.jpg",
+      "title": "Ceremonial chair (W.56-1980)",
+      "creator": "Bridgens, Richard",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark ceremonial chair layers tall blind lancets, trefoil medallions, interlaced front rail and carved animal terminals; ornament organized by structural bays."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O61224",
+      "artifact_id": "VA-O61224",
+      "source_url": "https://collections.vam.ac.uk/item/O61224/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2015HN9547/full/!1100,1100/0/default.jpg",
+      "title": "Chair (W.63-1979)",
+      "creator": "White, William",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Octagonal rose-pierced chair back, turned clustered legs and dark upholstery; geometric Gothic detail instead of a cathedral silhouette."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O594355",
+      "artifact_id": "VA-O594355",
+      "source_url": "https://collections.vam.ac.uk/item/O594355/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2020MM3154/full/!1100,1100/0/default.jpg",
+      "title": "Furniture design (E.521-1951)",
+      "creator": "Cottingham, Lewis Nockalls",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Light cabinet with red/blue panels of repeated pierced tracery, twisted posts and warm gilded edge detail; structure partitions ornament."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O767759",
+      "artifact_id": "VA-O767759",
+      "source_url": "https://collections.vam.ac.uk/item/O767759/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2010EE8265/full/!1100,1100/0/default.jpg",
+      "title": "Print (E.4663-1923)",
+      "creator": "Unknown",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Church print: central square clock tower, four pinnacles, crenellations, tall pointed windows and regular side bays."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O34919",
+      "artifact_id": "VA-O34919",
+      "source_url": "https://collections.vam.ac.uk/item/O34919/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2007BM6720/full/!1100,1100/0/default.jpg",
+      "title": "Altarpiece (M.32:1 to 96-2008)",
+      "creator": "Unknown",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Paired gilt altarpiece towers layer miniature lancets, figures, pinnacles and hexagonal bases; gold is a strong liturgical variant, not universal black."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O73300",
+      "artifact_id": "VA-O73300",
+      "source_url": "https://collections.vam.ac.uk/item/O73300/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2020MM6623/full/!1100,1100/0/default.jpg",
+      "title": "Design for a chair in the Gothic manner (E.758-1982)",
+      "creator": "Bridgens, Richard",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Chair drawing with turned posts, horizontal red upholstery, small bead fringe and a shallow pointed stretcher; restrained domestic variant."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O594357",
+      "artifact_id": "VA-O594357",
+      "source_url": "https://collections.vam.ac.uk/item/O594357/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2020MM3685/full/!1100,1100/0/default.jpg",
+      "title": "Furniture design (E.518-1951)",
+      "creator": "Cottingham, Lewis Nockalls",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Octagonal table plan and elevation with radiating underside ribs, bundled stem, cusped apron and architectural polygonal foot."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O58190",
+      "artifact_id": "VA-O58190",
+      "source_url": "https://collections.vam.ac.uk/item/O58190/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AU5805/full/!1100,1100/0/default.jpg",
+      "title": "Armchair (W.151-1978)",
+      "creator": "Wyatt, James",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three cusped openings and clustered posts define a pale brown armchair with red seat; calm rectilinear outline contains intricate tracery."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O594356",
+      "artifact_id": "VA-O594356",
+      "source_url": "https://collections.vam.ac.uk/item/O594356/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2020MM3156/full/!1100,1100/0/default.jpg",
+      "title": "Furniture design (E.519-1951)",
+      "creator": "Cottingham, Lewis Nockalls",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "One design sheet with three polychrome chairs and footstool: twisted posts, shields, cusps and detailed small red/blue/gold upholstered zones. Counts one sheet."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O59298",
+      "artifact_id": "VA-O59298",
+      "source_url": "https://collections.vam.ac.uk/item/O59298/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2017JU5315/full/!1100,1100/0/default.jpg",
+      "title": "Armchair (W.2-1986)",
+      "creator": "Vetter, Johann Wilhelm",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pair of chairs shares a single ogee/pointed silhouette and round tracery medallion, with slim curved arms and four open legs. Same design pair counts once."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O239340",
+      "artifact_id": "VA-O239340",
+      "source_url": "https://collections.vam.ac.uk/item/O239340/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2010EA5210/full/!1100,1100/0/default.jpg",
+      "title": "Design for the frontispiece of the second volume of 'Examples of Gothic Architecture' (E.77:82-1970)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pugin frontispiece organizes blackletter on surrounding ribbons, red initials, nested pointed doorway and dense carved study interior; structural framing extends to printed layout."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O55927",
+      "artifact_id": "VA-O55927",
+      "source_url": "https://collections.vam.ac.uk/item/O55927/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AL3139/full/!1100,1100/0/default.jpg",
+      "title": "The Strawberry Room (W.48:1 to 3-1953)",
+      "creator": "Wyatt, James",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Strawberry Room: pale blue walls and white fan vault with thin gold ribs, cusped screen and pointed fireplace. Luminous domestic variant contradicts universal darkness."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O576801",
+      "artifact_id": "VA-O576801",
+      "source_url": "https://collections.vam.ac.uk/item/O576801/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2012FY7140/full/!1100,1100/0/default.jpg",
+      "title": "Costume de Londres (E.22396:179-1957)",
+      "creator": "Unknown",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Fashion print includes a Gothic chair but clothing dominates; secondary contextual boundary excluded from defining corpus."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "VA-O78119",
+      "artifact_id": "VA-O78119",
+      "source_url": "https://collections.vam.ac.uk/item/O78119/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AM6418/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper design for Palace of Westminster (D.733-1908)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Westminster wallpaper design interlocks heraldic antelope, crowned initials, birds and cusped ogee cells; saturated blue/red/green/yellow flat colors with black outlines."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O230000",
+      "artifact_id": "VA-O230000",
+      "source_url": "https://collections.vam.ac.uk/item/O230000/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2009CD4169/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.25-2009)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wallpaper fragment: diagonal blackletter ribbons, red/gold monograms and linked foliate tendrils on green ground."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O143063",
+      "artifact_id": "VA-O143063",
+      "source_url": "https://collections.vam.ac.uk/item/O143063/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2008BU3008/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.3655-2007)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two-tone green and beige wallpaper uses interlocking pointed leaf cusps and mirrored scroll cells; flat restricted-color ornament."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O119592",
+      "artifact_id": "VA-O119592",
+      "source_url": "https://collections.vam.ac.uk/item/O119592/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AX7795/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.155-1976)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Deep red leaf-and-stem pattern over ochre crosshatched field; rigid mirrored axes, flat heraldic simplification rather than naturalistic flowers."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O143052",
+      "artifact_id": "VA-O143052",
+      "source_url": "https://collections.vam.ac.uk/item/O143052/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2008BU3088/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.3654-2007)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue-ground colorway of diagonal blackletter, bird medallion and foliate wallpaper design already recorded as O230000."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "VA-O230000"
+    },
+    {
+      "record_id": "VA-O143051",
+      "artifact_id": "VA-O143051",
+      "source_url": "https://collections.vam.ac.uk/item/O143051/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2008BU3102/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.3653-2007)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red-ground fragment/colorway of the same diagonal text and medallion wallpaper as O230000; excluded duplicate geometry."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "VA-O230000"
+    },
+    {
+      "record_id": "VA-O143049",
+      "artifact_id": "VA-O143049",
+      "source_url": "https://collections.vam.ac.uk/item/O143049/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2008BU3086/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.3652-2007)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Rust and dark red fragment of the same diagonal blackletter/medallion wallpaper O230000, not an independent pattern."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "duplicate_of": "VA-O230000"
+    },
+    {
+      "record_id": "VA-O143045",
+      "artifact_id": "VA-O143045",
+      "source_url": "https://collections.vam.ac.uk/item/O143045/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2008BU3085/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.3651-2007)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two greens create a rectilinear maze/meander with tiny curled junctions; Pugin attribution supports a non-tracery geometric variant."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O78140",
+      "artifact_id": "VA-O78140",
+      "source_url": "https://collections.vam.ac.uk/item/O78140/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AT1752/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.150-1976)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Westminster portcullis, crowned devices, Tudor rose and thorny leaves in red/olive/gold; repeated oval stems partition heraldic symbols."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O499080",
+      "artifact_id": "VA-O499080",
+      "source_url": "https://collections.vam.ac.uk/item/O499080/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2012FE8122/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.129-1939)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Shield-and-ribbon wallpaper with heraldic animals and blackletter on curled bands; red ground, green acanthus and tightly nested ogee cells."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O62650",
+      "artifact_id": "VA-O62650",
+      "source_url": "https://collections.vam.ac.uk/item/O62650/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AT5843/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.128-1939)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green/gold wallpaper joins horseshoe and heart emblems with blackletter motto ribbons and interlaced loops; a specific emblematic design, not a generic symbol palette."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "VA-O499100",
+      "artifact_id": "VA-O499100",
+      "source_url": "https://collections.vam.ac.uk/item/O499100/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2012FE8158/full/!1100,1100/0/default.jpg",
+      "title": "Wallpaper (E.109-1939)",
+      "creator": "A.W.N. Pugin",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Diamond lattice encloses interlaced monograms and ermine fields, with blue floral nodes; burgundy/green/ochre/cream, black outlines."
+        }
+      ],
+      "handling": "linked analysis only; V&A complete scan viewed transiently; no production reuse",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true
+    },
+    {
+      "record_id": "MET-208192",
+      "artifact_id": "MET-208192",
+      "title": "Bread plate, ca.1850, A.W.N. Pugin / Minton",
+      "creator": "A.W.N. Pugin / Minton",
+      "source_url": "https://www.metmuseum.org/art/collection/search/208192",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/208192/459814/main-image",
+      "media_type": "still",
+      "accessed_at": "2026-11-12",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "review_status": "original",
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue rim with cream blackletter motto, rust centre, flat cream leaf ring and radial wheat ornament. A useful legible typographic and ceramic color example."
+        }
+      ],
+      "handling": "Linked analysis only; complete museum photograph viewed transiently, no production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "MET-208131",
+      "artifact_id": "MET-208131",
+      "title": "Side chair, 1870, Edward Welby Pugin",
+      "creator": "Edward Welby Pugin",
+      "source_url": "https://www.metmuseum.org/art/collection/search/208131",
+      "media_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/208131/1767549/main-image",
+      "media_type": "still",
+      "accessed_at": "2026-11-12",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "review_status": "original",
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Restrained stained-oak chair with exposed construction, open triangular back supports and three pierced apron circles. Revival does not require lavish tracery."
+        }
+      ],
+      "handling": "Linked analysis only; complete museum photograph viewed transiently, no production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "SH-212",
+      "artifact_id": "SH-212",
+      "title": "Minton tile, c.1847, Pugin",
+      "creator": "A.W.N. Pugin / Minton; Strawberry Hill House",
+      "source_url": "https://www.strawberryhillhouse.org.uk/lady-waldegraves-minton-tiles/",
+      "media_url": "https://www.strawberryhillhouse.org.uk/wp-content/uploads/2024/10/212_BF_Cleaned-scaled.jpg",
+      "media_type": "still",
+      "accessed_at": "2026-11-12",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "review_status": "original",
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Ochre tile with central rust cross-fleury: flat lobed leaves with pointed terminals, textured ceramic surface and large calm margin."
+        }
+      ],
+      "handling": "Linked analysis only; complete museum photograph viewed transiently, no production reuse.",
+      "downloaded": false,
+      "generated": false
+    },
+    {
+      "record_id": "SH-4646",
+      "artifact_id": "SH-4646",
+      "title": "Minton tile, installed c.1858, Pugin",
+      "creator": "A.W.N. Pugin / Minton; Strawberry Hill House",
+      "source_url": "https://www.strawberryhillhouse.org.uk/lady-waldegraves-minton-tiles/",
+      "media_url": "https://www.strawberryhillhouse.org.uk/wp-content/uploads/2024/10/IMG_4646.jpg",
+      "media_type": "still",
+      "accessed_at": "2026-11-12",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "review_status": "original",
+      "qualifying_example": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Complete tile uses repeated rust leaf cells and blue trefoil clusters within an ochre structural lattice; flat inlaid color and rotational organization."
+        }
+      ],
+      "handling": "Linked analysis only; complete museum photograph viewed transiently, no production reuse.",
+      "downloaded": false,
+      "generated": false
+    }
+  ]
+}
