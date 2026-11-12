@@ -12,77 +12,69 @@ subsets: []
 
 # Apple-core Tech
 
-Apple-core Tech is application-ready because its signal is distributed across the seven-dimension framework rather than resting on palette alone. The most important implementation guardrail is to preserve the combined palette, material, shape, motion, spatial, and cultural-marker system; if only one cue is present, the result will read as generic speculative technology.
+A curated comparison label for restrained consumer robotics: coherent simplified objects, differentiated enclosure/sensor materials, sparse hierarchy and an approachable domestic presence. It is not a verified self-named historical movement or a claim that the referenced manufacturers share Apple's design authorship.
 
 ## Scope
 
-Use when the product, interface, or visual artifact benefits from this exact machine/body/worldbuilding language. Avoid when a neighboring aesthetic would communicate the intent with fewer cultural or accessibility risks.
-
-Preserve the whole system across interface scale: the aesthetic should survive in a hero, a card, an icon set, and a form state without relying on one decorative cue. If the product only needs a lighter reference, borrow one or two tokens while naming the result as an influence rather than the full aesthetic.
+Use for a fictional home companion, quiet device control or product editorial when an embodied object and usable task can carry the design. A white SaaS dashboard alone is insufficient. Build the style into components and original objects; no product photograph, robot body or person is required.
 
 ## 7-Dimension Profile
 
-**Palette**: white, off-white, silver, graphite, black glass, pale blue highlights. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Palette**: Off-white, graphite, silver-looking neutrals and black glass-like inserts with isolated status light. Yellow Ballie, gold ElliQ and dark JELLY/Wis001 counter compulsory white. Exact colors are visually estimated; application hex values are proposals.
 
-**Type**: system sans, sparse product microcopy, quiet hierarchy. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Type**: Quiet sans hierarchy, sparse product labels and clear numerals. Exact source fonts are unknown. Avoid reducing restraint to unreadably tiny grey labels.
 
-**Texture**: satin aluminum, glass, ceramic shells, frosted translucency, hidden seams. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Texture**: Smooth opaque shells beside dark gloss, satin-looking trim, perforated grilles and controlled translucency. Visible joints/seams occur; ceramic/aluminum composition cannot be inferred from photographs alone.
 
-**Shape**: rounded monoliths, orbs, lamp-like heads, pebble bodies. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Shape**: Orbs, tilted stacked volumes, lamp-like heads, curved masts and rounded bases unified as one coherent consumer object. Faces, limbs and humanoid bodies are variants, not requirements.
 
-**Motion**: gentle micro-tilts, lean-ins, projection reveals, smooth domestic motion. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Motion**: Expressiveness is source context, but this run inspected stills and sampled video frames, not actual playback. Exact timing/easing remains unknown. Propose a small user-linked tilt/light change or intentional stillness, with reduced-motion equivalence.
 
-**Spatial**: sparse domestic staging, object-as-hero, focused low-clutter cards. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Spatial**: One focal object with quiet task controls, domestic/service scale and generous separation. Product/UI system views are useful; neither laboratory clutter nor an empty white page alone carries the style.
 
-**Cultural markers**: Apple design discipline, ELEGNT, ElliQ/Ballie, hidden complexity. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Cultural markers**: Approachability through reduced visible complexity, thoughtful physical affordances and legible device status. Friendly design is not proof of human feelings, care efficacy or privacy. State actual fictional/local capabilities clearly.
 
 ## Non-Negotiables
 
-**Non-negotiables**:
-
-- white, off-white, silver, graphite, black glass, pale blue highlights.
-- satin aluminum, glass, ceramic shells, frosted translucency, hidden seams.
-- rounded monoliths, orbs, lamp-like heads, pebble bodies.
-- sparse domestic staging, object-as-hero, focused low-clutter cards.
+**Non-negotiables**: A coherent simplified consumer object + differentiated enclosure/insert/light roles + restrained information hierarchy + an approachable task context. White, hidden seams, literal faces, luxury branding and permanent animation are not universal requirements.
 
 ## Connotation
 
-Apple-core Tech carries a specific robotics/speculative-technology connotation; use the source-backed cues above as a system rather than as isolated moodboard decoration.
-
-Because the entry is intended for practical frontend use, connotation should be calibrated to the audience and product domain rather than applied as costume. Favor legible homage, contemporary revival, or clearly bounded genre quotation over accidental parody.
+Contemporary fictional product quotation: calm, useful and controlled. A non-anthropomorphic lamp/dial is valid; do not substitute a humanoid photograph for interface design or imply official Apple affiliation.
 
 ## Related / Subsets
 
-Related to warm-minimalism through restraint, but cooler and more embodied; related to Bauhaus clarity, but less exposed/geometric.
-
-Related to warm-minimalism through restraint, but cooler and more embodied; related to Bauhaus clarity, but less exposed/geometric.
-
-Metadata related slugs: `glassmorphism`, `material-design`, `companion-bot`.
-No canonical subsets are currently defined for this entry.
+- `glassmorphism` shares translucency, but this system gives opaque enclosure and object affordance equal weight.
+- `material-design` supplies usable states; its general component rules do not establish a physical robotics identity.
+- `companion-bot` covers a broader expressive character tradition, including overtly toy-like designs outside this restrained branch.
+- No canonical subsets are defined.
 
 ## Frontend / UI Guidance
 
-Start with sparse domestic staging, object-as-hero, focused low-clutter cards and rounded monoliths, orbs, lamp-like heads, pebble bodies, then layer white, off-white, silver, graphite, black glass, pale blue highlights., system sans, sparse product microcopy, quiet hierarchy, and satin aluminum, glass, ceramic shells, frosted translucency, hidden seams. Use the aesthetic for heroes, feature cards, empty states, branded dashboards, campaign pages, illustration frames, and high-value CTAs where its cultural markers are relevant. Keep primary navigation, forms, prices, error states, and body copy on stable accessible surfaces.
+Make one original object do real interface work: mode changes, brightness, a timer or explicit local status. Use sculpted controls with solid readable labels, a small status accent and a clear primary task. Reveal state through text/value as well as light. Decorative depth must not camouflage a control or make an illustration appear operable when it is not.
 
 ## CSS Translation
 
-- Color roles: translate white, off-white, silver, graphite, black glass, pale blue highlights into named background, surface, accent, and text tokens; reserve common variants (Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact.) for depth or emphasis.
-- Surface effects: use satin aluminum, glass, ceramic shells, frosted translucency, hidden seams with CSS gradients, borders, masks, shadows, noise, or SVG filters; keep texture behind solid readable panels.
-- Shape language: build cards, badges, dividers, icons, and frames from rounded monoliths, orbs, lamp-like heads, pebble bodies rather than neutral rectangles alone.
-- Layout: organize pages around sparse domestic staging, object-as-hero, focused low-clutter cards with enough whitespace and hierarchy for product tasks.
-- Motion: use gentle micro-tilts, lean-ins, projection reveals, smooth domestic motion as optional enhancement with `prefers-reduced-motion` fallbacks.
+- Proposed roles: `--shell`, `--inset`, `--ink`, `--muted`, `--status`, `--light-temperature`.
+- Use broad low-contrast gradients, narrow inset highlights and soft contact shadows to distinguish the dial/casing from its background. Limit reflective layers and avoid constant glow.
+- Pair rounded continuous outer forms with crisp scale ticks, labels and values. Radius and shadow values are application choices, not recovered historical tokens.
+- Give the focal object generous space; stack controls in reading order on phones.
+- Use user-driven short transitions or stillness. Respect reduced motion, provide stop/reset, and keep timers based on actual elapsed time rather than decorative animation.
 
 ## Typography / Fonts
 
-Use system sans, sparse product microcopy, quiet hierarchy for identity moments, headings, numerals, labels, or badges. Pair it with a neutral readable sans or serif for body text and controls. Avoid making all microcopy decorative; the aesthetic reads more strongly when focal typography contrasts with quiet support typography.
+A licensed/local or system sans with careful weight/scale is sufficient. Use prominent readable numerals and quiet but contrast-safe support labels. No exact source font or proprietary Apple typeface is asserted by the visual corpus.
 
 ## Cultural / Ethical Notes
 
-The source-backed cultural markers are Apple design discipline, ELEGNT, ElliQ/Ballie, hidden complexity. Use them as context signals, not as extractive decoration. When an implementation references living cultures, subcultures, fandoms, gambling, youth media, war machinery, or speculative harm, keep claims specific, fictionalized where appropriate, and avoid presenting stereotypes or protected symbols as generic ornament.
+Include user agency, material clarity and honest capability boundaries. Avoid claims of sentience, therapeutic benefit or covert sensing; a demonstration must not imply real hardware control. Do not copy people/product photography, corporate logos or distinctive protected robot bodies. The20-project still audit exceeds the floor but misses the30-work and motion targets; the naming boundary and source typography remain uncertain.
 
 ## Anti-Patterns
 
-- Using only the palette while dropping the shape, texture, spatial, and cultural-marker system; that becomes generic moodboard styling rather than Apple-core Tech.
-- Overloading every component with motifs so navigation, forms, pricing, or body copy become hard to scan.
-- Borrowing adjacent-aesthetic cues so heavily that the entry loses its own source-backed center of gravity.
-- Animating glow, grain, flash, or mechanical effects without reduced-motion and solid-surface fallbacks for critical content.
+- Generic white dashboard with no coherent physical object or affordance.
+- Treating white ceramic, hidden seams or a face as mandatory.
+- Tiny grey labels, invisible boundaries or decorative dials mistaken for controls.
+- Unrequested perpetual gestures, spinning/glow or timers that drift with tab throttling.
+- Branding/prototype imitation or unverified empathy/health/privacy claims.
+
+Research: [20-project direct-media audit](../../../knowledge/aesthetics/apple-core-tech.md#direct-media-audit), including concrete access limits and unresolved motion coverage.

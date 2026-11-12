@@ -12,7 +12,7 @@ subsets: []
 
 # Clowncore
 
-Clowncore is a contemporary internet-native aesthetic centered on clown/jester/pierrot self-styling, makeup, costume materiality, toy-party props, and performative absurdity. Its center of gravity is the embodied clown persona, not circus venue nostalgia or vintage show-poster language.
+Clowncore is a contemporary internet-native aesthetic centered on clown/jester/pierrot self-styling, makeup, costume materiality, toy-party props, and performative absurdity. Its center of gravity is authored clown persona: exaggerated proportion, painted marks, contradictory patterns and tactile costume construction. An interface can embody those traits without depicting a person or a clown face. Circus venue nostalgia and vintage show-poster language are adjacent, not substitutes.
 
 ## Scope
 
@@ -30,9 +30,9 @@ Do not use this entry as a generic rainbow maximalist preset. If the design is m
 
 **Shape**: Polka dots, harlequin diamonds, rounded pom-poms, oversized collars, bows, big buttons, balloons, clown silhouettes, ruff scallops, painted stars, tear stamps, toy-theatre frames, and asymmetrical prop compartments.
 
-**Motion**: Bounce, pop, confetti burst, rubbery entrance, quick-change reveal, mirror-bulb chase, compact flip, juggling-path arcs, bead swing, ruffle flutter, and prop-trunk opening. Provide reduced-motion states that freeze the trunk/open-stage pose and replace chase loops with static alternating states.
+**Motion**: Controlled exaggeration or an action-triggered stamp, compact flip, paper reveal or prop-like opening can translate character play. These are proposed interface behaviors: the current thirty-work still corpus does not establish measured timing, perpetual bounce or bulb-chase requirements. Prefer deliberate, bounded motion with an immediate final-state reduced-motion fallback.
 
-**Spatial**: Playful clutter around a focal performer, makeup trunk, dressing room, party table, funhouse corner, toy theatre, costume inventory, badge board, or prop case. The layout should feel object-first and performative rather than a vertical advertising broadside.
+**Spatial**: Personal worktable, costume inventory, badge board, prop case, party-paper workshop, dressing room or street-style collection. Edited clutter and unexpected scale can surround a readable task. A photographed performer is optional; identity should survive in the component geometry, type and states.
 
 **Cultural markers**: Clown makeup, red noses, painted stars/tears, rainbow hair, overalls, suspenders, ruffs, Peter Pan collars, circus tights, kandi, balloons, confetti, novelty props, clown dolls, clown OCs, clownblr, queer/trans self-fashioning, and reclaiming “clown” language.
 
@@ -40,10 +40,10 @@ Do not use this entry as a generic rainbow maximalist preset. If the design is m
 
 **Non-negotiables**:
 
-- Explicit clown, jester, or Pierrot costume/makeup grammar.
+- Legible clown-derived construction: ruffs/scallops, exaggerated buttons, painted stars/tears, harlequin geometry or similarly specific marks translated into interface elements. A face or portrait is not required.
 - Festive toy/circus materiality such as ruffles, pom-poms, greasepaint, confetti, beads, balloons, stickers, sequins, or novelty trims.
 - A self-performance, character-play, or theatrical persona tone.
-- Bright celebratory chaos, unless the implementation is explicitly declared as a dark, punk, or Pierrot-adjacent clown subset.
+- Deliberate exaggeration and unexpected combinations, with a declared bright, dark, pastel or restrained-glamour reading. Red, rainbow color and full white foundation are common signals, not universal requirements.
 
 If these are removed, the result collapses into generic rainbow maximalism, `kidcore`, `decora-kei`, or `fairground-carnival-poster-art` rather than Clowncore.
 
@@ -65,17 +65,19 @@ Subset or routing terms to mention without promoting to top-level slugs: `clownp
 
 ## Frontend / UI Guidance
 
-Lead with performer identity and prop logic. Strong object models include a quick-change makeup trunk, stage-side vanity, toy-theatre setup, costume inventory, kandi-trade board, or stickered funhouse station. Use the loudest visual language on headers, badges, hero modules, showcase cards, and non-critical decoration; keep forms, navigation, prices, and error states on calmer readable surfaces.
+Lead with a task that permits persona play: an alter-ego calling-card press, badge maker, kandi-trade board, costume-label workshop or prop inventory. Build the identity into its buttons, inputs, cards, labels and selected states. Portraits, face illustrations and circus photographs should not do the work of the interface.
 
-The UI should feel tactile and costume-like: ruffle borders, makeup wells, painted stamps, bead strands, sticker tabs, confetti, squeaker/horn glyphs, and visible prop compartments. It should not feel like a generic carnival advertisement.
+Use ruff-like scallops as borders, uneven exaggerated display lettering, painted star/tear stamps, bead-like choices, mismatched printed surfaces and deliberate scale conflicts. Keep names, instructions, navigation and validation on quiet solid stock with readable type. A tiny button or card should remain recognizably related to the larger composition. Avoid repetitive neutral rounded panels decorated only with clown nouns.
+
+The [research profile](../../../knowledge/aesthetics/clowncore.md) records thirty inspected unique stills, deduplication and limitations. Its historical font and motion confidence remain low/unknown; the following CSS and typography choices are authored translations, not recovered measurements.
 
 ## CSS Translation
 
 - Color roles: define candy primary tokens (`clown-red`, `greasepaint-white`, `confetti-yellow`, `balloon-blue`, `bubblegum-pink`) plus a quieter support surface for body text.
 - Surface effects: combine radial greasepaint wells, sticker shadows, ruff/scallop borders, SVG confetti, subtle gloss, and bead highlights; place dense texture behind solid reading panels.
 - Shape language: use circles, scallops, diamonds, oversized buttons, and asymmetric trunk compartments rather than neutral cards alone.
-- Layout: organize a focal performer/prop zone with surrounding trays, cue sheets, swatches, badges, and sticker inventory.
-- Motion: use bounce/pop/reveal/chase loops only as enhancement, with `prefers-reduced-motion` fallbacks that hold the theatrical pose.
+- Layout: build a clear print-table, label-making or collection task with a strong asymmetrical scale relationship; place patterns at edges and surfaces instead of filling the reading area.
+- Motion: acknowledge deliberate actions with a brief stamp or paper settle; remove transform/fade transitions under `prefers-reduced-motion`. Stillness is valid when print texture and composition carry the performance.
 
 ## Typography / Fonts
 
@@ -87,7 +89,9 @@ Clowncore has documented queer/trans-friendly and self-expressive community conn
 
 ## Anti-Patterns
 
-- Rainbow palette without clown makeup, costume, or prop grammar.
+- Rainbow palette without clown-derived shape, pattern, material and persona-play grammar.
+- Depending on a portrait, cartoon face or background image while the actual controls remain generic.
+- Treating every look in a clown-associated artist’s portfolio as Clowncore, or equating Juggalo, horror-clown and general beauty imagery with the contemporary self-styling aesthetic.
 - Vintage circus poster typography and print wear as the main signal; that belongs to `fairground-carnival-poster-art`.
 - Horror-clown blood, gore, or menace as the default tone.
 - Collapsing into `decora-kei` by stacking cute accessories without clown persona cues.

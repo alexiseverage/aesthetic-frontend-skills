@@ -5,83 +5,76 @@ family: digital-internet-native
 era: 2020s generative-platform era
 aliases: ["AI slop", "synthetic corporate art", "AI-generated corporate illustration"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["corporate-memphis", "flat-design", "material-design"]
 subsets: []
 ---
 
 # AI Slop / Synthetic Corporate Art
 
-AI Slop / Synthetic Corporate Art is application-ready only when its signal is distributed across all seven dimensions rather than resting on palette alone. The load-bearing pattern is: synthetic surface + attention/platform optimization + genericity or superficial legibility + loss of authorial specificity. Frontend translation should begin with that pattern, then apply color, texture, shape, and motion as evidence of it.
+An unstable critical category for synthetic content whose polished familiarity, thin specificity or substituted authorship serves attention or generic promotion. AI use, gloss and friendly corporate illustration do not individually establish slop. The combined catalog name is retained; its corporate branch is a cautious application inference, not a settled historical movement.
 
 ## Scope
 
-Treat critically and descriptively, not aspirationally; distinguish AI slop from thoughtful AI art.
-
-Preserve the whole system across interface scale: the aesthetic should survive in a hero, a card, an icon set, and a form state without relying on one decorative cue. If the product only needs a lighter reference, borrow one or two tokens while naming the result as an influence rather than the full aesthetic.
+Use for critical editorial, fictional creative review or a clearly framed pastiche. Make the critique and useful task legible. A high-quality showcase can expose shallow output without itself having broken controls, unreadable copy or generic implementation. Distinguish deliberate AI art and named pre-generative illustration practice.
 
 ## 7-Dimension Profile
 
-**Palette**: Safe SaaS pastels/blues/corals/greens, or oversaturated glossy feed-bait colors and uncanny synthetic realism. Common extensions include Neighbor palettes only when the object model remains intact. Variant treatments include Accessibility-first simplifications with solid contrast fields; keep them secondary to the canonical signal.
+**Palette**: Highly variable: candy spectacle, natural-looking stock scenes, wood/craft neutrals or bland pastel promotion. No universal blue/purple gradient or oversaturation requirement.
 
-**Type**: Generic geometric sans, CTA slogans, platform captions, malformed generated text, and bland onboarding copy. Common extensions include Support labels and metadata tuned to the domain. Variant treatments include Decorative display accents used sparingly; keep them secondary to the canonical signal.
+**Type**: Plain platform captions and generic promises, sometimes malformed lettering embedded in images. Not all text is broken. In a critical UI keep actual controls correct and readable; confine fictional hollow claims to the reviewed creative.
 
-**Texture**: Frictionless vector smoothness, stock gloss, impossible cleanliness, synthetic depth, over-rendered detail, and absent hand-feel. Common extensions include Interface chrome that preserves source material logic. Variant treatments include Flatter reduced-texture variants for legibility; keep them secondary to the canonical signal.
+**Texture**: Frictionless smooth lighting, glossy abundance, exaggerated repeated craft detail or over-polished stock plausibility. Such surfaces alone neither prove AI provenance nor demonstrate low effort.
 
-**Shape**: Rounded vector humans, elastic limbs, simplified props, generic workplace tableaux, and malformed attention-bait objects. Common extensions include Repeated UI modules echoing the source object model. Variant treatments include Softened modern component variants; keep them secondary to the canonical signal.
+**Shape**: Familiar attention objects recombined with weak physical/editorial coherence; repeated pseudo-craft and aspirational environments. Corporate orb/asterisk abstractions are a proposed quotation branch. People, malformed bodies and stereotypes are unnecessary UI motifs.
 
-**Motion**: Autoplay loops, feed-ready morphs, friendly corporate reassurance, and stop-scroll spectacle. Common extensions include State transitions linked to the core workflow. Variant treatments include Static print-first or reduced-motion fallbacks; keep them secondary to the canonical signal.
+**Motion**: Actual timing is unknown in the18-project still-led audit. Feed loops/morphs are context leads, not compulsory choreography. Propose explicit sample changes and quiet review-state transitions; no autoplay needed.
 
-**Spatial**: White-space onboarding scenes, pseudo-inclusive workplaces, endless feed tiles, impossible environments, and de-authored non-places. Common extensions include Secondary panes/lists that preserve scan order. Variant treatments include More spacious marketing adaptations; keep them secondary to the canonical signal.
+**Spatial**: One immediately legible spectacle or stock tableau, platform frame and repeated claim; commercial promise often exceeds meaningful specificity. Translate into a creative preview with a separate readable review area, not a copied real post.
 
-**Cultural markers**: Algorithm farming, SEO spam, generated nostalgia, fake authenticity, mislabeled AI content, Big Tech friendliness theater, and stock mimicry. Common extensions include Domain vocabulary and object-specific affordances. Variant treatments include Broader adjacent-pop-culture references; keep them secondary to the canonical signal.
+**Cultural markers**: Validation bait, authorship uncertainty, simulated craft, unsupported assurances and attention optimization. Source/context and editorial care matter. Not every popular, AI-made or corporate image is fraudulent or worthless.
 
 ## Non-Negotiables
 
-**Non-negotiables**:
-
-- synthetic surface.
-- attention/platform optimization.
-- genericity or superficial legibility.
-- loss of authorial specificity. If these are removed, the result collapses into an adjacent or generic style rather than AI Slop / Synthetic Corporate Art.
+**Non-negotiables**: For this critical quotation: synthetic/familiar surface + thin or unsupported specificity + visible distribution/promotional framing. Preserve the distinction between the fictional criticized artifact and the useful interface assessing it. AI provenance and low quality cannot be diagnosed from palette, anatomical errors or visual style alone.
 
 ## Connotation
 
-**Critical emergent hybrid.** The label is unstable; safest treatment is AI slop plus AI-degraded Corporate Memphis/Alegria logic.
-
-Because the entry is intended for practical frontend use, connotation should be calibrated to the audience and product domain rather than applied as costume. Favor legible homage, contemporary revival, or clearly bounded genre quotation over accidental parody.
+Critical fictional pastiche. Show the tension between effortless polish and absent meaning, with a concrete opportunity for judgment. Avoid endorsing deceptive promotion or presenting a subjective critical label as a stable universal genre.
 
 ## Related / Subsets
 
-Related aesthetics from the dictionary and candidate set:
-- Distinct from `corporate-memphis`: Corporate Memphis is the pre-AI illustration ancestor; this slug describes synthetic/degraded AI abundance and platform slop.
-
-Metadata related slugs: `corporate-memphis`, `flat-design`, `material-design`.
-No canonical subsets are currently defined for this entry.
+- `corporate-memphis`: pre-generative authored illustration history. Named Alegria designers and deliberate composition must not be erased by calling every related figure slop.
+- `flat-design`: a general reduction strategy that can be specific, useful and carefully authored.
+- `material-design`: usable component behavior, not evidence of synthetic content or poor authorship.
+- No canonical subsets are defined.
 
 ## Frontend / UI Guidance
 
-Start with White-space onboarding scenes, pseudo-inclusive workplaces, endless feed tiles, impossible environments, and de-authored non-places and Rounded vector humans, elastic limbs, simplified props, generic workplace tableaux, and malformed attention-bait objects, then layer Safe SaaS pastels/blues/corals/greens, or oversaturated glossy feed-bait colors and uncanny synthetic realism., Generic geometric sans, CTA slogans, platform captions, malformed generated text, and bland onboarding copy, and Frictionless vector smoothness, stock gloss, impossible cleanliness, synthetic depth, over-rendered detail, and absent hand-feel. Use the aesthetic for heroes, feature cards, empty states, branded dashboards, campaign pages, illustration frames, and high-value CTAs where its cultural markers are relevant. Keep primary navigation, forms, prices, error states, and body copy on stable accessible surfaces.
+Use an original fictional creative-review desk: rotate distinct samples, inspect one claim, select concerns and hold an item for revision. Glossy CSS/SVG objects, generic slogans and questionable fictional statistics can reveal the problem without people imagery. Actual review controls should have clear labels, selected states and recorded outcomes. Do not claim an automated AI/provenance detector or a real moderation decision.
 
 ## CSS Translation
 
-- Color roles: translate Safe SaaS pastels/blues/corals/greens, or oversaturated glossy feed-bait colors and uncanny synthetic realism into named background, surface, accent, and text tokens; reserve common variants (Neighbor palettes only when the object model remains intact) for depth or emphasis.
-- Surface effects: use Frictionless vector smoothness, stock gloss, impossible cleanliness, synthetic depth, over-rendered detail, and absent hand-feel with CSS gradients, borders, masks, shadows, noise, or SVG filters; keep texture behind solid readable panels.
-- Shape language: build cards, badges, dividers, icons, and frames from Rounded vector humans, elastic limbs, simplified props, generic workplace tableaux, and malformed attention-bait objects rather than neutral rectangles alone.
-- Layout: organize pages around White-space onboarding scenes, pseudo-inclusive workplaces, endless feed tiles, impossible environments, and de-authored non-places with enough whitespace and hierarchy for product tasks.
-- Motion: use Autoplay loops, feed-ready morphs, friendly corporate reassurance, and stop-scroll spectacle as optional enhancement with `prefers-reduced-motion` fallbacks.
+- Proposed roles: `--surface-review`, `--ink`, `--synthetic-pastel`, `--claim-highlight`, `--annotation`.
+- Build smooth procedural objects with layered gradients and restrained faux depth; pair the polished preview with firm readable borders and annotation paper.
+- Use familiar rounded campaign labels and generous whitespace, then make the critical hierarchy specific through metadata and concern states.
+- Keep fictional CTA decoration separate from actual controls. Place explanatory claims near the reviewed object.
+- Explicit sample transitions and static reduced-motion states are sufficient; actual source timing remains unknown.
 
 ## Typography / Fonts
 
-Use Generic geometric sans, CTA slogans, platform captions, malformed generated text, and bland onboarding copy for identity moments, headings, numerals, labels, or badges. Pair it with a neutral readable sans or serif for body text and controls. Avoid making all microcopy decorative; the aesthetic reads more strongly when focal typography contrasts with quiet support typography.
+Use available sans typography for promotional familiarity and crisp review labels. A serif/italic flourish may satirize generic authenticity but is a proposed design choice. Do not invent identified source fonts or make actual input/navigation labels malformed.
 
 ## Cultural / Ethical Notes
 
-The source-backed cultural markers are Algorithm farming, SEO spam, generated nostalgia, fake authenticity, mislabeled AI content, Big Tech friendliness theater, and stock mimicry. Use them as context signals, not as extractive decoration. When an implementation references living cultures, subcultures, fandoms, gambling, youth media, war machinery, or speculative harm, keep claims specific, fictionalized where appropriate, and avoid presenting stereotypes or protected symbols as generic ornament.
+Include honest fictional framing, source/context distinction and room for careful AI authorship. Avoid disability/poverty/religious stereotypes, copied people, impersonation, fake endorsements, real ungrounded accusations or the erasure of original artists whose work was reposted without authorization. Research imagery is linked analytical evidence, never a production asset. The18-project audit is Facebook/campaign-heavy;30-work, corporate-stock provenance and motion targets remain unmet and explicit.
 
 ## Anti-Patterns
 
-- Using only the palette while dropping the shape, texture, spatial, and cultural-marker system; that becomes generic moodboard styling rather than AI Slop / Synthetic Corporate Art.
-- Overloading every component with motifs so navigation, forms, pricing, or body copy become hard to scan.
-- Borrowing adjacent-aesthetic cues so heavily that the entry loses its own source-backed center of gravity.
-- Animating glow, grain, flash, or mechanical effects without reduced-motion and solid-surface fallbacks for critical content.
+- Calling every AI image, pastel vector, polished orb or popular post slop.
+- Using a portrait, distorted body or stock human tableau as the whole aesthetic.
+- Making the actual showcase low quality to demonstrate low-quality content.
+- Generic gradient cards with no critique, authorship framing or task.
+- Claiming an automated detector, copied endorsement or real moderation outcome.
+
+Research: [18-project direct-media audit](../../../knowledge/aesthetics/ai-slop-synthetic-corporate-art.md#direct-media-audit); the corporate branch remains provisional rather than being inflated with unverified stock imagery.
