@@ -1,0 +1,1130 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV01",
+      "artifact_id": "fit-ivy:blazer-1.jpg",
+      "title": "Crested navy blazer",
+      "creator": "Maker not verified in inspected view; curated/published by The Museum at FIT",
+      "source_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/exhibition/blazer.html",
+      "media_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/images/blazer-1.jpg",
+      "resolution": {
+        "width": 300,
+        "height": 452
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Navy three-button jacket has pale piped patch pockets, small gold-bordered shield on chest and bright round buttons; controlled narrow accents sit on a large matte dark field."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV02",
+      "artifact_id": "fit-ivy:blazer-2.jpg",
+      "title": "Red and cream striped blazer",
+      "creator": "Maker not verified in inspected view; curated/published by The Museum at FIT",
+      "source_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/exhibition/blazer.html",
+      "media_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/images/blazer-2.jpg",
+      "resolution": {
+        "width": 300,
+        "height": 452
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Broad vertical red/cream stripes cross lapels and patch pockets; small gold buttons and white collar/tie maintain a formal center within vivid sporting pattern."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "IV03",
+      "artifact_id": "fit-ivy:arrow-shirt.jpg",
+      "title": "Harvard varsity-signed Arrow shirt, 1933",
+      "creator": "Maker not verified in inspected view; curated/published by The Museum at FIT",
+      "source_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/exhibition/sportswear.html",
+      "media_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/images/arrow-shirt.jpg",
+      "resolution": {
+        "width": 300,
+        "height": 452
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Folded white shirt with two columns of signatures and a small label. Excluded as a visually sparse archival-document boundary; its provenance does not make every white shirt graphically distinctive."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV04",
+      "artifact_id": "fit-ivy:knickers.jpg",
+      "title": "Letter sweater and knickers ensemble",
+      "creator": "Maker not verified in inspected view; curated/published by The Museum at FIT",
+      "source_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/exhibition/sportswear.html",
+      "media_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/images/knickers.jpg",
+      "resolution": {
+        "width": 300,
+        "height": 452
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream V-neck sweater with burgundy collar edge and huge W varsity initial; pale check knickers, white socks and pale shoes produce a light sporting variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV05",
+      "artifact_id": "https://jpressonline.com/products/made-in-uk-surrey-county-lta-silk-repp-tie",
+      "title": "Made-in-UK Surrey County LTA Silk Repp Tie",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/made-in-uk-surrey-county-lta-silk-repp-tie",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/FW25_JP_Accesories_Cont_183330.jpg?v=1794422853",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Navy/olive diagonal repp tie with nested thin red/cream/gold bands; sharp pointed end and restrained repeated rhythm."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV06",
+      "artifact_id": "https://jpressonline.com/products/white-georgetown-g-tee",
+      "title": "White Georgetown \"G\" Tee",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/white-georgetown-g-tee",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/J.PressxStreakerGeorgetownVintageLettermanTee_71b74707-065c-4b2e-a686-05daedc6404e.jpg?v=1793996605",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream tee has large outlined navy G, a small circular seal inset and GEORGETOWN in compact outlined varsity capitals; distressed ink is confined to graphic."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV07",
+      "artifact_id": "https://jpressonline.com/products/gold-red-green-plaid",
+      "title": "Made-in-Canada Red, Gold & Green Tartan Wool Trouser",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/gold-red-green-plaid",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/JPR0108FD_GLRDGRPLD.jpg?v=1752246095",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Muted red/gold/green plaid trousers with fine crossing dark lines, belt loops, small back pocket and quiet round button; large checks contain smaller grid lines."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "IV08",
+      "artifact_id": "https://jpressonline.com/products/brown-waxed-cotton-regent-jacket",
+      "title": "Brown Waxed Cotton Regent Jacket",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/brown-waxed-cotton-regent-jacket",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/MJ104-3304-BROWN-10069.png?v=1794410553",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Brown hooded waxed field jacket with cord collar, metal snaps and large flap pockets. Excluded: a country/utility outerwear neighbor without sufficiently specific collegiate structure."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV09",
+      "artifact_id": "https://jpressonline.com/products/made-in-usa-brown-light-blue-grosgrain-ribbon-belt",
+      "title": "Made-in-USA Brown & Light Blue Grosgrain Ribbon Belt",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/made-in-usa-brown-light-blue-grosgrain-ribbon-belt",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/FW25_JP_Accesories_Cont_185319.jpg?v=1789576979",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Brown grosgrain ribbon belt with two narrow pale blue parallel stripes, polished squared ring buckle and stitched darker edges."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV10",
+      "artifact_id": "https://jpressonline.com/products/made-in-england-navy-white-gold-schoolboy-muffler",
+      "title": "Made-in-England J. Press x Alex Mill Navy, White & Gold Schoolboy Muffler",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/made-in-england-navy-white-gold-schoolboy-muffler",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/AM-JP-SBSCARF-YELLOW-NAVY-17662_551f5ef1-a503-4ad7-a84b-2d5be5033084.jpg?v=1794351196",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wide navy/white/gold school scarf, broad longitudinal bands and small oval woven maker label; thick color blocks and narrow border contrast."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV11",
+      "artifact_id": "https://jpressonline.com/products/j-press-x-alex-mill-hank-dog-intarsia-knit-cotton-sweater",
+      "title": "J. Press x Alex Mill \"Hank\" Yellow Lab Intarsia Knit Cotton Sweater",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/j-press-x-alex-mill-hank-dog-intarsia-knit-cotton-sweater",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/AM-JP-HANK-DEEP-PURPLE-17556_cd252f22-438a-4ecc-a1a1-d4c9102d517d.jpg?v=1794351273",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Deep plum crewneck knit with centered cream dog wearing a green striped scarf; ribbed cuff/hem and small intarsia mascot provide compact playful identity."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV12",
+      "artifact_id": "https://jpressonline.com/products/made-in-usa-aqua-orange-hoop-stripe-rugby",
+      "title": "Made-in-USA Aqua & Orange Hoop Stripe Rugby",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/made-in-usa-aqua-orange-hoop-stripe-rugby",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/JKK8004FJ-AQUA-ORANGE-17624_241d892c-8eb3-4bf8-805f-71aeecf6a313.jpg?v=1794351096",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Broad aqua/orange horizontal rugby hoops under a white collar and narrow central placket; relaxed rectangular body and dark/light band rhythm."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV13",
+      "artifact_id": "https://jpressonline.com/products/made-in-scotland-j-press-x-alex-mill-pink-shaggy-dog-sweater",
+      "title": "Made-in-Scotland J. Press x Alex Mill Pink Shaggy Dog Sweater",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/made-in-scotland-j-press-x-alex-mill-pink-shaggy-dog-sweater",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/AM-JPRESS-SHAGGY-1-SAKURA-17558_678bc38d-9e50-4ca7-8899-b832847062a3.png?v=1794411836",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale pink brushed Shetland crewneck has visibly fuzzy halo, simple body and narrow ribbed edges. Primary product identifies hand-brushed wool; material route rather than standalone crest requirement."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV14",
+      "artifact_id": "https://jpressonline.com/products/natural-sleeve-stripe-cotton-crew-neck",
+      "title": "Made-in-USA Natural Cotton Sleeve Stripe Sweater",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/natural-sleeve-stripe-cotton-crew-neck",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/JKR0204SH-NATcopy.jpg?v=1749507999",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream cotton crewneck carries two short navy/red bands on one upper sleeve; pale ribbing and quiet body reserve stripes as hierarchy."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV15",
+      "artifact_id": "https://jpressonline.com/products/vintage-save-the-alligator-eat-a-preppie-metal-lapel-pinback-button",
+      "title": "Vintage \u201cSave the Alligator\u2026 Eat a Preppie\u201d Metal Lapel Pinback Button",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/vintage-save-the-alligator-eat-a-preppie-metal-lapel-pinback-button",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/SavetheAlligatorPin_1.jpg?v=1793390252",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Round bright green pinback with central alligator and stacked contrasting old-style serif lettering. Satirical adjacent prep ephemera, not a university crest; original maker not verified from this view."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV16",
+      "artifact_id": "https://jpressonline.com/products/vintage-preppies-need-love-too-1981-metal-button-pin",
+      "title": "Vintage \"Preppies Need Love Too\" 1981 Metal Button Pin",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/vintage-preppies-need-love-too-1981-metal-button-pin",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/PreppiesNeedLovePin_1.jpg?v=1793389521",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Round ivory pinback has black curved thin sans lettering, a green alligator and small illustrated person; retailer identifies 1981 The Button Man Inc. attribution is seller-supplied, not independently authenticated."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV17",
+      "artifact_id": "https://jpressonline.com/products/made-in-scotland-tartan-sleeve-stripe-shaggy-dog-cardigan-classic-fit",
+      "title": "Made-in-Scotland Green Sleeve Stripe Shaggy Dog Cardigan - Trim Fit",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/made-in-scotland-tartan-sleeve-stripe-shaggy-dog-cardigan-classic-fit",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/2025_FW25_JPress1.jpg?v=1765396699",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark green brushed V-neck cardigan, two white bands on one upper sleeve, small tan buttons and ribbed margins. Source photo itself closely crops the right sleeve; no unseen cut is inferred."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV18",
+      "artifact_id": "https://jpressonline.com/products/made-in-italy-navy-reindeer-fair-isle-wool-knit-tie",
+      "title": "Made-in-Italy Navy Reindeer Fair Isle Wool Knit Tie",
+      "creator": "J. Press / collaborators or attributed vintage seller",
+      "source_url": "https://jpressonline.com/products/made-in-italy-navy-reindeer-fair-isle-wool-knit-tie",
+      "media_url": "https://cdn.shopify.com/s/files/1/2116/8679/files/FW25_JP_Accesories_Cont_183362.jpg?v=1787079117",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Navy narrow knitted tie with small cream stitch dots and large cream reindeer/Fair Isle band near knot, red separator and square lower end; textured alternative to smooth diagonal repp."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV19",
+      "artifact_id": "https://rowingblazers.com/products/cleo-wool-argyle-v-neck-sweater-multi-color",
+      "title": "Cleo Wool Argyle V-Neck Sweater Multi-Color",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/cleo-wool-argyle-v-neck-sweater-multi-color",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/WH26S09S06MUL-006.jpg?v=1793377835",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Loose tan V-neck sweater with large muted pink/ivory/gray argyle diamonds and fine crossing lines, worn over a white collar; a pale contemporary variant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV20",
+      "artifact_id": "https://rowingblazers.com/products/mens-wool-tartan-ripley-blazer-gordon-modern",
+      "title": "Men's Wool Tartan Ripley Blazer Gordon Modern",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/mens-wool-tartan-ripley-blazer-gordon-modern",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-12DEC24-BLAZER-GREEN-CHECK-FRONT.jpg?v=1792636152",
+      "resolution": {
+        "width": 1200,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark green/navy tartan blazer with fine yellow checks, gold buttons, lapels and a small hanging round badge; ordered grid meets tailored structure."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV21",
+      "artifact_id": "https://rowingblazers.com/products/mens-classic-solid-oxford-shirt-white",
+      "title": "Men's Classic Solid Cotton Oxford Shirt White",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/mens-classic-solid-oxford-shirt-white",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-09SEP24-OXFORD-1-WHITE-FRONT.jpg?v=1792340567",
+      "resolution": {
+        "width": 2400,
+        "height": 3000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White button-down Oxford shirt with curved lower hem, pale button row and small rectangular chest label. The collar/placket/patch-pocket archetype is material context, not proof that any plain shirt is Ivy."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "IV22",
+      "artifact_id": "https://rowingblazers.com/products/womens-cotton-poplin-pinstripe-top-bright-blue-stripe",
+      "title": "Women's Cotton Poplin Pinstripe Top Bright Blue Stripe",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/womens-cotton-poplin-pinstripe-top-bright-blue-stripe",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-6JUN25_W_TOP_BLUE-FRONT.jpg?v=1774235313",
+      "resolution": {
+        "width": 2400,
+        "height": 3000
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Blue/white vertical-stripe strapless poplin top. Excluded: shared shirting fabric alone does not retain the collegiate collar, knit or tailoring relationships."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV23",
+      "artifact_id": "https://rowingblazers.com/products/mens-fun-stripe-trouser-classic-fun-stripe",
+      "title": "Men's Fun Stripe Trouser Classic Fun Stripe",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/mens-fun-stripe-trouser-classic-fun-stripe",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/RB-01JAN25-PANTS-1-MULTI-COLOR-FRONT.jpg?v=1777665103",
+      "resolution": {
+        "width": 1200,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wide trousers piece together blue, red, green and yellow narrow stripe panels, with tan button and orderly waist; playful dissonance within disciplined shirting stripes."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV24",
+      "artifact_id": "https://rowingblazers.com/products/argyle-cashmere-sweater-polo-green",
+      "title": "Argyle Cashmere Sweater Polo Green",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/argyle-cashmere-sweater-polo-green",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/MH26S36S04GRN-003.jpg?v=1789307974",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark navy/green argyle knit polo with white dotted crossing diagonals, plain navy collar/cuffs and small button placket. Different garment/form from the pale V-neck example."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV25",
+      "artifact_id": "https://rowingblazers.com/products/mens-cotton-fisherman-shawl-cardigan-brown",
+      "title": "Cotton Fisherman Shawl Cardigan Brown",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/mens-cotton-fisherman-shawl-cardigan-brown",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/MF26S35S01BRO-01.jpg?v=1786983386",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Brown deeply ribbed fisherman cardigan with rolled shawl collar, large patch pockets and small buttons over an Oxford collar; relief and inset openings provide material hierarchy."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV26",
+      "artifact_id": "https://rowingblazers.com/products/men-s-wool-golf-lewis-cardigan-cream",
+      "title": "Wool Golf Lewis Cardigan Cream",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/men-s-wool-golf-lewis-cardigan-cream",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/MF26S25S06CRM-32.jpg?v=1786983354",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream zip cardigan with green pocket edging, small golf flag/ball motif and vertically descending FORE lettering; ribbed hem and quiet large panels support sparse sporting emblems."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV27",
+      "artifact_id": "https://rowingblazers.com/products/womens-cambridge-diana-blazer-navy",
+      "title": "Cambridge Diana Blazer Navy",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/womens-cambridge-diana-blazer-navy",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26J20W04NAV-001.jpg?v=1786983858",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark navy fitted double-breasted blazer, two gold-button columns, small red/gold shield and flap pockets; bright white collar/cuffs frame a quiet dark body. Contemporary reinterpretation, not a claimed historical cut."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV28",
+      "artifact_id": "https://rowingblazers.com/products/men-s-cotton-cricket-sweater-vest-navy",
+      "title": "Cotton Cricket Sweater Vest Navy",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/men-s-cotton-cricket-sweater-vest-navy",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/MF26S10S01NAV-60.jpg?v=1786983268",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Navy V-neck cricket vest with multi-color striped ribbed neck, armhole and hem bands over pale blue Oxford; perimeter bands define a quiet central plane."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV29",
+      "artifact_id": "https://rowingblazers.com/products/men-s-cord-collar-harrison-rugby-cream",
+      "title": "Cord Collar Harrison Rugby Cream",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/men-s-cord-collar-harrison-rugby-cream",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/MF26T10K03CRM-08.jpg?v=1786983465",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cream rugby with thin red/navy horizontal bands, dark contrasting cord-like collar and small embroidered script. Sparse banding differs from broad aqua hoops."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV30",
+      "artifact_id": "https://rowingblazers.com/products/men-s-college-harrison-rugby-navy",
+      "title": "College Harrison Rugby Navy",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/men-s-college-harrison-rugby-navy",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/MF26T27K03NAV-01_ce9ba1b4-438f-4973-95b9-9c51abbab573.jpg?v=1787003328",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Navy/gray broad-hoop rugby with white collar and central cream COLLEGE block capitals; compact text joins repeated broad horizontal bands."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV31",
+      "artifact_id": "https://rowingblazers.com/products/kris-long-sleeve-argyle-polo-dress-navy",
+      "title": "Kris Long Sleeve Argyle Polo Dress Navy",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/kris-long-sleeve-argyle-polo-dress-navy",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26D13S07NAV-088.jpg?v=1786983720",
+      "resolution": {
+        "width": 2000,
+        "height": 2500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Navy argyle polo dress with fine green/white diagonals is shown under a gold-button military-like jacket. Only the argyle/collar/knit relationship supports this modern hybrid; jacket alone would be a neighboring costume route."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV32",
+      "artifact_id": "https://rowingblazers.com/products/kate-ivy-plaid-classic-fit-blazer-multi-color",
+      "title": "Kate Ivy Plaid Classic Fit Blazer Multi-Color",
+      "creator": "Rowing Blazers",
+      "source_url": "https://rowingblazers.com/products/kate-ivy-plaid-classic-fit-blazer-multi-color",
+      "media_url": "https://cdn.shopify.com/s/files/1/1770/6343/files/WF26J04W01MUL-021.jpg?v=1785187092",
+      "resolution": {
+        "width": 1638,
+        "height": 2048
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Brown/gray/orange fine-check blazer, broad lapels and patch pockets over white green-lettered tee and corduroy shorts; restrained dense grid contrasts plain shirt and raised cord texture."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "IV33",
+      "artifact_id": "fit-ivy:blazer-3.jpg",
+      "title": "Gold/navy/cream striped blazer",
+      "creator": "Maker not verified in inspected view; curated/published by The Museum at FIT",
+      "source_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/exhibition/blazer.html",
+      "media_url": "https://sites.fitnyc.edu/depts/museum/ivy_style/images/blazer-3.jpg",
+      "resolution": {
+        "width": 300,
+        "height": 452
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Alternating navy, gold and cream narrow vertical bands align across long lapels and patch pockets; restrained round buttons form a single central axis. Complete small museum publication, not a large textile scan."
+        }
+      ]
+    }
+  ]
+}

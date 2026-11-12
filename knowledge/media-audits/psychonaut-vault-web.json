@@ -1,0 +1,1096 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV01",
+      "artifact_id": "web:psychedelic-library",
+      "title": "The Psychedelic Library",
+      "creator": "Peter Webster / The Psychedelic Library",
+      "source_url": "https://www.psychedelic-library.org/",
+      "media_url": "https://www.psychedelic-library.org/",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A live library index uses a warm cream repeated-paper texture, framed small wordmark, a large botanical illustration at right, generous opening whitespace and centered brown-red underlined section/title links. Black Times-style serif summaries sit below publication links in table-structured rows. The rendered body font is Times. Only visual index architecture is analyzed; no linked reports or drug procedures were opened."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV02",
+      "artifact_id": "web:psychonautwiki",
+      "title": "PsychonautWiki main page",
+      "creator": "PsychonautWiki contributors",
+      "source_url": "https://psychonautwiki.org/wiki/Main_Page",
+      "media_url": "https://psychonautwiki.org/wiki/Main_Page",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A later light encyclopedia variant uses a pale left taxonomy rail, compact utility tabs/search across the top, blue text links, a serif/italic wordmark and gray-headed white panels in a two-column body. Small monochrome section icons and dense inline indexes distinguish archival navigation from a marketing landing page. It is a contemporary wiki neighbor, not evidence of Erowid\u2019s historical CSS or medical authority."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV03",
+      "artifact_id": "web:dmt-nexus-portal",
+      "title": "DMT-Nexus illustrated portal",
+      "creator": "DMT-Nexus; individual artwork authors unverified on landing screen",
+      "source_url": "https://www.dmt-nexus.me/",
+      "media_url": "https://www.dmt-nexus.me/",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A black star field frames a large radial arrangement of irregular illustrated destination panels. Twisted branches connect moss-edged square frames; purple, electric green and gold geometric light contrast with organic vines and a central pink rosette. The whole portal is one authored website artifact, not nine separate counts. This richly pictorial community doorway is a maximal companion to text-heavy vault indexes; a single observed frame does not establish GIF timing. A later lower-page capture revealed the rose-eye changing from closed to open, establishing an actual animated state change without measured timing. A supplemental visit to the same service\u2019s current forum showed a cosmic fractal masthead above dark dense rows, counts, icons and a right utility index; grouped here as the same service rather than counted separately."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission.",
+        "Additional lower-page or explicitly described navigation state inspected as recorded in observations; no report/procedure body opened."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV04",
+      "artifact_id": "web:erowid",
+      "title": "Erowid public about/copyright page",
+      "creator": "Erowid",
+      "source_url": "https://erowid.org/general/about/about_copyrights.shtml",
+      "media_url": "https://erowid.org/general/about/about_copyrights.shtml",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A dark woven masthead and black image banner sit above a narrow plum horizontal category bar. A tan left navigation rail is subdivided by thin rules and compact bold labels, while a pale reading pane uses a large black serif page title, small breadcrumb-like category tabs and underlined links. Only this public general-information frame was inspected; no Experience Vault report data, scans, or user narratives were opened, mined, summarized or copied."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV05",
+      "artifact_id": "web:serendipity",
+      "title": "Serendipity author index",
+      "creator": "Peter Meyer / Serendipity",
+      "source_url": "https://serendipity.li/peter_meyer_articles.htm",
+      "media_url": "https://serendipity.li/peter_meyer_articles.htm",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A pale yellow repeating horizontal-line texture carries a wide centered Times-style serif reading area. Blue underlined numbered article links, indented short descriptions and dates form the primary structure. A small violet wordmark appears at the top right and repeats vertically along the left edge. This is visual analysis of the index, not an endorsement or analysis of linked scientific/political claims."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV06",
+      "artifact_id": "web:deoxy-original",
+      "title": "deoxy.org preserved portal and unframed taxonomy",
+      "creator": "Dimitri Novus / preserved at jacobsm.com",
+      "source_url": "https://jacobsm.com/deoxy/deoxy.org/index.html",
+      "media_url": "https://jacobsm.com/deoxy/deoxy.org/index.html",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A black entry page uses gray serif title/quotation and a white instruction band above high/low-resolution frame choices. Clicking the visible lo-res noframe link revealed a long black taxonomy page with large pink-violet underlined headings, irregular three-column groupings, compact auxiliary links, date and small symbolic images. A downward scroll confirmed the spacious linked taxonomy. Missing assets and unavailable dynamic features limit reconstruction claims."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission.",
+        "Additional lower-page or explicitly described navigation state inspected as recorded in observations; no report/procedure body opened."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV07",
+      "artifact_id": "web:hyperreal-drugs",
+      "title": "Hyperreal Drug Archives, October 1999 snapshot",
+      "creator": "Lamont Granquist and Hyperreal contributors; preserved by Erowid",
+      "source_url": "https://erowid.org/archive/hyperreal/drugs/index.html",
+      "media_url": "https://erowid.org/archive/hyperreal/drugs/index.html",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A plain white archive index uses bold serif heading levels, thin gray full-width horizontal rules, indented bullet-link departments, compact explanatory text and a small native search form. A later olive framed snapshot notice clearly distinguishes frozen content from current maintenance. Top and departmental/search view were inspected; no underlying report or procedure was opened."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission.",
+        "Additional lower-page or explicitly described navigation state inspected as recorded in observations; no report/procedure body opened."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV08",
+      "artifact_id": "web:rhodium",
+      "title": "Rhodium Pharmacology Archive, August 2004 snapshot",
+      "creator": "Rhodium; preserved by Erowid",
+      "source_url": "https://erowid.org/archive/rhodium/pharmacology/index.html",
+      "media_url": "https://erowid.org/archive/rhodium/pharmacology/index.html",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A black star-speckled repeated background surrounds a centered narrow column of yellow section labels and blue underlined bulleted links. Introductory blue text has visibly poor contrast; a cobalt bordered archive notice spans the viewport above it. Preserved graphics and textual index hierarchy are the evidence; no linked reports, procedures or pharmacological claims were analyzed."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV09",
+      "artifact_id": "web:sonoran-desert-toad",
+      "title": "Sonoran Desert Toad topical archive",
+      "creator": "Original topical-site author unverified; preserved by Erowid",
+      "source_url": "https://erowid.org/archive/sonoran_desert_toad/index.htm",
+      "media_url": "https://erowid.org/archive/sonoran_desert_toad/index.htm",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A white page uses bold black sans headings, centered image/quotation areas, wide vertical gaps and left-aligned bibliography-style blue underlined links with attribution lines. A scroll confirmed grouped required-reading and research-paper sections. This is one preserved topical website. Its human/animal images and anecdotal prose are not reused or treated as medical evidence; the UI structure alone is analyzed."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission.",
+        "Additional lower-page or explicitly described navigation state inspected as recorded in observations; no report/procedure body opened."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV10",
+      "artifact_id": "web:troutsnotes",
+      "title": "Trout\u2019s Notes current reference site",
+      "creator": "Keeper Trout / Trout\u2019s Notes",
+      "source_url": "https://troutsnotes.com/",
+      "media_url": "https://troutsnotes.com/",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A later reference-publication site keeps a bounded white sheet over a purple/green botanical textured ground, large straightforward wordmark, image-led banner and blue navigation rail. Scrolling revealed a crossfading botanical feature and article grid. It is a contemporary neighboring variant, not evidence that early vault indexes used carousels; the moving feature was captured mid-crossfade and timing was not measured."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission.",
+        "Additional lower-page or explicitly described navigation state inspected as recorded in observations; no report/procedure body opened."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV11",
+      "artifact_id": "web:isomerdesign",
+      "title": "PiHKAL\u00b7info visual reference index",
+      "creator": "Isomer Design",
+      "source_url": "https://isomerdesign.com/pihkal/",
+      "media_url": "https://isomerdesign.com/pihkal/",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A later structured reference interface divides two large blue-headed panes for related books under a gray utility/dropdown/search rail. Dictionary-like typography, bold term labels, italic source lines and book-cover/text rows give dense material a navigable hierarchy. The whole index is one work, not one count per book cover; covers and drug content are not reused."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV12",
+      "artifact_id": "web:hedweb",
+      "title": "HedWeb / The Hedonistic Imperative gateway",
+      "creator": "David Pearce / HedWeb",
+      "source_url": "https://www.hedweb.com/",
+      "media_url": "https://www.hedweb.com/",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A compact centered black gateway pairs a purple cosmic sphere/flare graphic and large bold white title with a short underlined blue destination list, then small white sans-serif explanatory paragraphs. The luminous doorway plus utilitarian reading column supports a neighboring consciousness/philosophy archive route. Visual inclusion does not endorse the site\u2019s speculative claims."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV13",
+      "artifact_id": "web:effectindex",
+      "title": "Effect Index current home index",
+      "creator": "Josie Kins / Effect Index",
+      "source_url": "https://effectindex.com/",
+      "media_url": "https://effectindex.com/",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A later cream-and-charcoal reference site uses a narrow dark icon-and-text utility bar, a bounded two-column panel layout, thin rules, restrained teal links, compact section icons and clear heading/body separation. This is a contemporary taxonomic neighbor; it does not establish historical Erowid CSS, and its unrendered feature media supplies no artwork evidence."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV14",
+      "artifact_id": "web:psychonautfr",
+      "title": "Psychonaut.fr community portal",
+      "creator": "Psychonaut.fr community; individual designers unverified",
+      "source_url": "https://psychonaut.fr/",
+      "media_url": "https://psychonaut.fr/",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A contemporary French community portal combines deep blue/purple illustrated scenery and organic forms with a large white welcome heading, compact horizontal navigation, gray account/search utilities and dark contained content panels. The top-level portal was inspected; no user report body or private account content was opened. This supplies a later illustrated-community variant, not an original 1990s design date."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "website",
+      "inspection": "interactive",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV15",
+      "artifact_id": "web:muscaria",
+      "title": "Librer\u00eda Muscaria gateway",
+      "creator": "Librer\u00eda Muscaria",
+      "source_url": "https://www.muscaria.com/",
+      "media_url": "https://www.muscaria.com/",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A surviving Spanish-language spiritual/entheogenic bookstore uses a centered cream sheet, tan bordered identity banner, small pictorial category icons with italic blue labels, maroon/green text, compact bullets and two-column book information tables. Loaded icons include an hourglass, disc, envelope and parcel. It is a related bookshop/reference gateway, not proof of a scientific archive or Erowid layout."
+        }
+      ],
+      "states": [
+        "Public index/landing/about state rendered in the actual browser at 1280\u00d7720 and visually inspected; viewport dimensions, not full-document dimensions. No account or form submission."
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV16",
+      "artifact_id": "art:guyomech:Coil",
+      "title": "Coil \u2014 community artwork",
+      "creator": "Guyomech / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_guyomech.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/Guyomech/Guyomech_Coil.jpg",
+      "resolution": {
+        "width": 1066,
+        "height": 1500
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Gold/yellow reflective spiral ribs interlock with narrow black negative spaces and green-edged branching strands. The tightly cropped repeating structure demonstrates continuous organic framing, not a type or interaction system. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV17",
+      "artifact_id": "art:guyomech:CoralStructure",
+      "title": "Coral Structure \u2014 community artwork",
+      "creator": "Guyomech / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_guyomech.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/Guyomech/Guyomech_CoralStructure.jpg",
+      "resolution": {
+        "width": 1500,
+        "height": 1199
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Warm porous gold ridges cross a deep-blue field, with softened cellular edges and directional grooves. This counters a purely glossy geometric interpretation with tactile painterly/biological structure. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV18",
+      "artifact_id": "art:guyomech:MindTree",
+      "title": "Mind Tree \u2014 community artwork",
+      "creator": "Guyomech / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_guyomech.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/Guyomech/Guyomech_MindTree.jpg",
+      "resolution": {
+        "width": 1070,
+        "height": 1800
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A red-orange luminous branching canopy and yellow inner channels contrast with dark purple-blue lower roots. Open holes and fine filaments give a dense organic border multiple scales rather than a uniform noisy texture. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV19",
+      "artifact_id": "art:orion:Duality",
+      "title": "Duality \u2014 community artwork",
+      "creator": "Orion / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_orion.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/Orion/Orion_Duality.jpg",
+      "resolution": {
+        "width": 1800,
+        "height": 719
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A warm brown/gold bilateral composition joins two mirrored skeletal hands and long horizontal rods around a central winged insect-like form. Symmetry, dark peripheral falloff and one bright focal seam create a sober variant; no person imagery is proposed for the showcase. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV20",
+      "artifact_id": "art:orion:AudioEther",
+      "title": "Audio Ether \u2014 community artwork",
+      "creator": "Orion / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_orion.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/Orion/Orion_AudioEther.jpg",
+      "resolution": {
+        "width": 1574,
+        "height": 1800
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A warm orange painted face is interrupted by pale angular linework and layered translucent planes. It supplies an intentionally figurative counterexample to purely digital neon geometry; the face is research-only and will not carry a showcase. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV21",
+      "artifact_id": "art:orion:Gate",
+      "title": "Gate \u2014 community artwork",
+      "creator": "Orion / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_orion.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/Orion/Orion_Gate.jpg",
+      "resolution": {
+        "width": 1350,
+        "height": 1800
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A vertical red-brown opening is crossed by pale green segmented vertebra-like forms and a bright mechanical center. Repetition along a narrow seam, dark corners and irregular organic framing support a warm portal variant. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV22",
+      "artifact_id": "art:cyb:KeysToOblivion",
+      "title": "Keys To Oblivion \u2014 community artwork",
+      "creator": "cyb / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_cyb.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/cyb/cyb_KeysToOblivion.jpg",
+      "resolution": {
+        "width": 1800,
+        "height": 1013
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Two antique key shapes flank a bright cyan faceted spiral over layered purple/red circuit-like geometry, with dark falloff and small colored branch forms. Bilateral symmetry and a luminous center frame a portal metaphor. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV23",
+      "artifact_id": "art:cyb:PortalToThe5th",
+      "title": "Portal To The 5th \u2014 community artwork",
+      "creator": "cyb / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_cyb.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/cyb/cyb_PortalToThe5th.jpg",
+      "resolution": {
+        "width": 1800,
+        "height": 1035
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Nested purple/blue circular arches recede toward a bright center inside a thin white rectangular outer border. Fine web-like lines and repeating gear-like discs create layered depth; it is a distinct composition from the other cyb works. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV24",
+      "artifact_id": "art:cyb:OnReflection",
+      "title": "On Reflection \u2014 community artwork",
+      "creator": "cyb / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_cyb.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/cyb/cyb_OnReflection.jpg",
+      "resolution": {
+        "width": 1800,
+        "height": 1013
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Mirrored branching purple forms spread horizontally over black, backed by orange/yellow glossy splash shapes and bright white tips. Large negative space separates irregular organic contours from the saturated reflective center. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV25",
+      "artifact_id": "art:nils:BubblesInTheFroth",
+      "title": "Bubbles In The Froth \u2014 community artwork",
+      "creator": "Nils / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_nils.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/Nils/Nils_BubblesInTheFroth.jpg",
+      "resolution": {
+        "width": 1323,
+        "height": 1800
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A pale pink/cream field carries sparse colored circular micro-worlds, thin concentric rings and small branching forms, leaving a large quiet center. It is a light, hand-painted community-art variant rather than evidence that all visionary ornament is neon on black. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "PV26",
+      "artifact_id": "art:nils:ThreeResponses",
+      "title": "Three Responses \u2014 community artwork",
+      "creator": "Nils / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_nils.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/Nils/Nils_ThreeResponses.jpg",
+      "resolution": {
+        "width": 901,
+        "height": 1800
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Small suspended cartoon forms and balloon-like circles float over an almost white field. This original is excluded as a weak match: its loose whimsical illustration yields insufficient vault-web-specific grammar despite community provenance. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV27",
+      "artifact_id": "art:nils:KikiBoubaEffect",
+      "title": "Kiki Bouba Effect \u2014 community artwork",
+      "creator": "Nils / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_nils.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/Nils/Nils_KikiBoubaEffect.jpg",
+      "resolution": {
+        "width": 1800,
+        "height": 1346
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Translucent warm yellow angular strokes on the left transition to looping purple/brown smooth linework on the right over pale watercolor planes. Sharp/soft shape contrast and nested small forms supply a restrained ornament variant; no psychological study result is inferred from the title. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV28",
+      "artifact_id": "art:daedaloops:AttackOfTheVines",
+      "title": "Attack Of The Vines \u2014 community artwork",
+      "creator": "daedaloops / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_daedaloops.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/daedaloops/daedaloops_AttackOfTheVines.jpg",
+      "resolution": {
+        "width": 1400,
+        "height": 944
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Twisting gold vine ropes and fine glowing lime branches recede toward a dark star-shaped center; repeated green ridges create directional depth. Biological branching and mathematically repeated structure coexist. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV29",
+      "artifact_id": "art:daedaloops:ButtonGravity",
+      "title": "Button Gravity \u2014 community artwork",
+      "creator": "daedaloops / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_daedaloops.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/daedaloops/daedaloops_ButtonGravity.jpg",
+      "resolution": {
+        "width": 1400,
+        "height": 973
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A large blue/lime spiky caption panel with extruded magenta lettering sits above a metallic-rimmed red Push Me button. White hand-drawn arrows and words radiate toward that focal control. This is a static artwork, not a working control, and its coercive verbal pressure is not proposed as UI copy. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV30",
+      "artifact_id": "art:daedaloops:LayersOfReality",
+      "title": "Layers Of Reality \u2014 community artwork",
+      "creator": "daedaloops / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_daedaloops.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/daedaloops/daedaloops_LayersOfReality.jpg",
+      "resolution": {
+        "width": 1400,
+        "height": 1057
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Sweeping multicolor ribbon channels, thin black outlines and repeated black-white chevrons curl toward a nested spiral. Flat white space and gentle shaded segments create a bright graphic variant without a star field. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "PV31",
+      "artifact_id": "art:daedaloops:FlowerPower",
+      "title": "Flower Power \u2014 community artwork",
+      "creator": "daedaloops / credited DMT-Nexus artist gallery",
+      "source_url": "https://www.dmt-nexus.me/art/art_daedaloops.html",
+      "media_url": "https://www.dmt-nexus.me/art/images/art/daedaloops/daedaloops_FlowerPower.jpg",
+      "resolution": {
+        "width": 1325,
+        "height": 1088
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "Concentric scalloped rosette layers progress from a small pale yellow/green center through warm red to broad deep-blue outer bands on black. Painted grain and nested radial contours create depth without motion. This is one individually opened original artwork, contextual graphic evidence rather than another website or medical claim."
+        }
+      ]
+    }
+  ]
+}

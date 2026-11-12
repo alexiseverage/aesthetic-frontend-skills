@@ -1,0 +1,1189 @@
+{
+  "accessed_at": "2026-11-12",
+  "minimum": 10,
+  "target": 30,
+  "qualifying_unique_artifacts": 30,
+  "media": [
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM01",
+      "artifact_id": "aol:aim3-windows",
+      "title": "AIM 3.0.1415 Windows, 1999",
+      "creator": "AOL / screenshot by Masaaki Shinjo, Impress Watch",
+      "source_url": "https://forest.watch.impress.co.jp/article/1999/08/25/aim30.html",
+      "media_url": "https://forest.watch.impress.co.jp/article/1999/08/25/aim30.gif",
+      "resolution": {
+        "width": 557,
+        "height": 438
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A separate instant-message window divides white transcript and composition panes with a compact formatting strip. Blue and red speaker names precede unbubbled text. Gray beveled controls, a dark-blue active title bar, underlined link command, small pixel icons and a visible buddy icon sit beside a narrow grouped presence window. A separate ticker uses bright green text on black; these windows are one released client artifact, not separate counts."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM02",
+      "artifact_id": "aol:aim2-mac",
+      "title": "AIM 2.01.664 Macintosh, May 1999",
+      "creator": "AOL / screenshot by William Lovett, ATPM",
+      "source_url": "https://atpm.com/5.05/roundup.shtml",
+      "media_url": "https://atpm.com/5.05/images/aimWindow.gif",
+      "resolution": {
+        "width": 351,
+        "height": 414
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "The complete original small Mac screenshot has a striped gray native title bar, compact Online/List Setup tabs, bold group labels with disclosure triangles, tiny green presence dot, icon-plus-label bottom toolbar, search input and a raised Find menu. A supplemental 416\u00d737 ticker photograph from the same review uses a narrow native stripe frame around small bold headlines; grouped as the same release."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "AM03",
+      "artifact_id": "aol:integrated-im-2003",
+      "title": "AOL integrated instant messaging, UCSD course analysis, 2003",
+      "creator": "AOL / UC San Diego course archive",
+      "source_url": "https://cseweb.ucsd.edu/~rik/courses/cogs121-s03/bestPract/cg121sae.html",
+      "media_url": "https://cseweb.ucsd.edu/~rik/courses/cogs121-s03/bestPract/cg121saePix/instant%20message.jpg",
+      "resolution": {
+        "width": 368,
+        "height": 347
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A blue title bar and pale-blue panel surround a white red/blue-speaker transcript, formatting tools, blank composition pane, glossy Send/Close controls and lower Buddy Info/Buddy Chat actions. A companion narrow presence window has a Help button, away-message selector and icon toolbar. This is treated conservatively as AOL integrated IM, not standalone AIM: it is a related cross-product boundary, excluded from the AIM count."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM04",
+      "artifact_id": "aol:aim4.8-windows",
+      "title": "AIM 4.8 away-message editor and menus",
+      "creator": "AOL / AwayMessages.com tutorial",
+      "source_url": "https://www.awaymessages.com/guide/aim1.htm",
+      "media_url": "https://www.awaymessages.com/guide/aim5.gif",
+      "resolution": {
+        "width": 394,
+        "height": 335
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "The gray native dialog separates a label combobox from a multiline message editor; a compact formatting strip sits above a large white inset. Small help text explains substitution characters, a save checkbox sits low, and raised I\u2019m Away/Cancel controls close the form. A second complete original menu state shows My AIM \u2192 Away Message \u2192 New Message, plus Edit Profile, stock/news ticker and screen-name commands. The two states count as one released client artifact."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM05",
+      "artifact_id": "aol:aim3-mac",
+      "title": "AIM 3.0.1466 Macintosh sign-on",
+      "creator": "AOL / preserved by Valley-Ditch, Macintosh Repository",
+      "source_url": "https://www.macintoshrepository.org/21546-aol-instant-messenger-3-0-1466",
+      "media_url": "https://www.macintoshrepository.org/_resize.php?w=640&h=480&bg_color=333333&imgenc=ZmlsZ5dbXMvdXBsb2Fkcy9zY3JlZW5zaG90cy8xNTM2MzIxMzQzLjEyNjlfMS5wbmd8d3d3Lm1hY2ludG9zaHJlcG9zaXRvcnkub3JnLzIxNTQ2LWFvbC1pbnN0YW50LW1lc3Nlbmdlci0zLTAtMTQ2Ng%3D%3D",
+      "resolution": {
+        "width": 640,
+        "height": 480
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A complete small native Sign On dialog is centered in the archive image: striped gray title bar, vivid blue/yellow brand area, white screen-name/password fields, two checkboxes and large labeled Setup/Sign On icons. The archive\u2019s useful published image includes gray padding; it is not claimed as a camera original. Exact original pixel dimensions beyond that render are unknown."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM06",
+      "artifact_id": "deadaim:html-log",
+      "title": "DeadAIM preserved HTML conversation log",
+      "creator": "DeadAIM / Jonathan Kay, MessengerGeek",
+      "source_url": "https://messengergeek.wordpress.com/2017/12/15/aim-and-the-importance-of-preserving-conversations/",
+      "media_url": "https://messengergeek.wordpress.com/wp-content/uploads/2017/12/deadaimscreenshot.jpg",
+      "resolution": {
+        "width": 682,
+        "height": 764
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "The author\u2019s complete original screenshot shows a saved HTML conversation with bold blue/red screen-name prefixes, tiny timestamps, black serif message text and an inline shared photograph. It is an add-on\u2019s saved output shown in a 2017 browser, not a period screenshot of AIM window chrome. No actual participant names or transcript are copied into the application."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM07",
+      "artifact_id": "aol:aim5.9-preferences",
+      "title": "AIM 5.9 preferences, tutorial detail",
+      "creator": "AOL / MVL Design tutorial",
+      "source_url": "https://www.mvldesign.com/ichat3-aim5.9_video_conference_tutorial.html",
+      "media_url": "https://www.mvldesign.com/images/AIM_settings.gif",
+      "resolution": {
+        "width": 284,
+        "height": 209
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A complete small published preferences capture has a vertical category sidebar, pale cream settings field, blue group labels, compact checkboxes/radio controls, right-side connection button and bottom OK/Cancel/Apply row. Its compression prevents reliable reading of all labels; only broad settings architecture is used. A separate 144\u00d796 toolbar detail is supporting context, not another artifact."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM08",
+      "artifact_id": "subprofile:extension-preview",
+      "title": "SubProfile extended-profile service preview",
+      "creator": "SubProfile / Roger Lee; published by Nick Gray",
+      "source_url": "https://nickgray.net/rip-aim/",
+      "media_url": "https://nickgray.net/_media/image2.jpg",
+      "resolution": {
+        "width": 510,
+        "height": 235
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A small complete published service screenshot places feature explanation beside a native gray Buddy Info preview. The preview has a sample-name selector, warning-level field, a Personal Profile section and a blue underlined continuation link inside a white inset. It shows a third-party profile extension, not a native unlimited AIM profile."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM09",
+      "artifact_id": "icon:13c666bed253f6ad0c7969ae2e77d5f0ca9e747506a0a3d1eed4279a42fa08d7",
+      "title": "BadassBuddy \u2014 oldbuddy",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-oldbuddy--13c666bed253f6ad",
+      "media_url": "https://buddyiconarchive.com/image/13c666bed253f6ad0c7969ae2e77d5f0ca9e747506a0a3d1eed4279a42fa08d7",
+      "resolution": {
+        "width": 50,
+        "height": 50
+      },
+      "states": [
+        "Complete original-size preserved image; selected playback states only; timing unmeasured"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A tiny white-haired figure and blue-screen computer share a gray field above a two-word black label. Successive observed captures change the figure from left of the monitor to behind it and back; the rigid square and caption stay fixed."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM10",
+      "artifact_id": "icon:ea648f34382607ab5e31b5e49e89184478f8b07318da6b166c40a3727910ed23",
+      "title": "BadassBuddy \u2014 petllama",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-petllama--ea648f34382607ab",
+      "media_url": "https://buddyiconarchive.com/image/ea648f34382607ab5e31b5e49e89184478f8b07318da6b166c40a3727910ed23",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original-size preserved image; selected playback states only; timing unmeasured"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A tan llama silhouette and tiny yellow-shirted companion are isolated above a two-word caption on gray. The thin black outline and larger animal shape remain readable at the original tiny size. Sampled captures did not establish a distinct motion cycle."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM11",
+      "artifact_id": "icon:f1310548e0c4375a02f9433e5156f0d9b3f604e537e05fe2fd7a539571737e89",
+      "title": "BadassBuddy \u2014 comptech",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-comptech--f1310548e0c4375a",
+      "media_url": "https://buddyiconarchive.com/image/f1310548e0c4375a02f9433e5156f0d9b3f604e537e05fe2fd7a539571737e89",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original-size preserved image; selected playback states only; timing unmeasured"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A tiny monitor/tower and white-headed figure sit above a two-line Computer Tech caption. Separate captures show the figure changing pose at the right of the equipment, while the gray backdrop and black label remain constant."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM12",
+      "artifact_id": "icon:0030ba5635dd0e3c93b58afd8852ed4ecde3edabdcc408433f7616350fefed1b",
+      "title": "BadassBuddy \u2014 cleanscren",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-cleanscren--0030ba5635dd0e3c",
+      "media_url": "https://buddyiconarchive.com/image/0030ba5635dd0e3c93b58afd8852ed4ecde3edabdcc408433f7616350fefed1b",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A tiny orange-shirted white-headed figure sits below a small green splash on gray, above a two-line Clean Screen caption. A later observed capture shows the body enlarged/cropped against scattered green and black marks; fixed caption and abrupt pose changes make a miniature visual joke."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM13",
+      "artifact_id": "icon:004a8f4f240a521fc584e67cbd1b9ec721da4b6902bb8b57cb8497b13722fd8e",
+      "title": "BadassBuddy \u2014 ignore",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-ignore--004a8f4f240a521f",
+      "media_url": "https://buddyiconarchive.com/image/004a8f4f240a521fc584e67cbd1b9ec721da4b6902bb8b57cb8497b13722fd8e",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "An orange-shirted white-headed figure is isolated in the center of a gray square above the short Ignore caption; the strong outline and large blank head dominate a very sparse composition. Only the sampled pose is analyzed."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM14",
+      "artifact_id": "icon:00a222167b625ca3c5cf001973070a452ec8467a4e17792ff619231212726b82",
+      "title": "BadassBuddy \u2014 july4th",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-july4th--00a222167b625ca3",
+      "media_url": "https://buddyiconarchive.com/image/00a222167b625ca3c5cf001973070a452ec8467a4e17792ff619231212726b82",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "Two tiny contrasting figures stand on green ground beneath a dark blue starry sky, with yellow accents and a short July 4th caption; a complete scene is compressed above a narrow text strip. No full narrative timing is inferred."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM15",
+      "artifact_id": "icon:00e6440006af9c5100e68dfc28432ca9b34eafe14b3c2965ca5aab89a447d4f1",
+      "title": "BadassBuddy \u2014 katamari",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-katamari--00e6440006af9c51",
+      "media_url": "https://buddyiconarchive.com/image/00e6440006af9c5100e68dfc28432ca9b34eafe14b3c2965ca5aab89a447d4f1",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "Two tiny yellow/blue figures and a large green patterned object sit on green ground below a dark blue starry sky, with a Katamari caption on gray. It shows fandom translated into a compact scene; licensed characters are not proposed application assets."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM16",
+      "artifact_id": "icon:00f49aa310f568cca45a868f90394f0fcc3d8932826845ff078d448c78ab92ae",
+      "title": "BadassBuddy \u2014 mark",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-mark--00f49aa310f568cc",
+      "media_url": "https://buddyiconarchive.com/image/00f49aa310f568cca45a868f90394f0fcc3d8932826845ff078d448c78ab92ae",
+      "resolution": {
+        "width": 50,
+        "height": 50
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "Two tiny figures occupy the upper part of a gray square, one yellow and one blue, above the two-line Mark My Territory label; sparse color and a clear baseline distinguish bodies from caption."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM17",
+      "artifact_id": "icon:0145f2b9f9c440b2ad1073250a29b87b905ff0c0f76b1e7083a1335094d72b57",
+      "title": "BadassBuddy \u2014 thief",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-thief--0145f2b9f9c440b2",
+      "media_url": "https://buddyiconarchive.com/image/0145f2b9f9c440b2ad1073250a29b87b905ff0c0f76b1e7083a1335094d72b57",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A dark blue car fills most of the upper square, with a yellow front, black windows and white/blue highlights. Thief appears below as a separate short black label."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM18",
+      "artifact_id": "icon:017b6e3a8bff4fad3f9c8e536a49ed52c332a61b5fb238f26b038912a67a88ce",
+      "title": "BadassBuddy \u2014 seamonster",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-seamonster--017b6e3a8bff4fad",
+      "media_url": "https://buddyiconarchive.com/image/017b6e3a8bff4fad3f9c8e536a49ed52c332a61b5fb238f26b038912a67a88ce",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "Initial playback samples show horizontal blue water bands above a gray Sea Monster label. A later observed state reveals a large white head rising from the water, supporting simple stage-like reveal rather than any measured easing claim."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": false,
+      "record_id": "AM19",
+      "artifact_id": "icon:019d927f823f78c0d28fe13fab698ff5c7f0fc0c5f1bd717c1f637d2885882c2",
+      "title": "BadassBuddy \u2014 pikmin",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-pikmin--019d927f823f78c0",
+      "media_url": "https://buddyiconarchive.com/image/019d927f823f78c0d28fe13fab698ff5c7f0fc0c5f1bd717c1f637d2885882c2",
+      "resolution": {
+        "width": 50,
+        "height": 50
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "The sampled original repeatedly showed only a gray field and the Pikmin caption; the claimed character sequence was not actually visible in the sampled states. Excluded as low-information visual evidence, despite a more elaborate automated archive description."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM20",
+      "artifact_id": "icon:01ed9301345850910210ccffad399847845a7bdf3682b713e963a9692fcb137f",
+      "title": "BadassBuddy \u2014 concertbdy",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-concertbdy--01ed930134585091",
+      "media_url": "https://buddyiconarchive.com/image/01ed9301345850910210ccffad399847845a7bdf3682b713e963a9692fcb137f",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A white-headed yellow figure holds a thin raised diagonal object over its body; a two-line Concert Buddy label sits below on gray. Few high-contrast lines must carry the pose."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM21",
+      "artifact_id": "icon:0233408a8838d6314aac0a3359b5b5a1e4b2d96d39a9daa9d6a7dbd93dec6721",
+      "title": "BadassBuddy \u2014 burp",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-burp--0233408a8838d631",
+      "media_url": "https://buddyiconarchive.com/image/0233408a8838d6314aac0a3359b5b5a1e4b2d96d39a9daa9d6a7dbd93dec6721",
+      "resolution": {
+        "width": 50,
+        "height": 50
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "Two white-headed yellow/green figures sit beside one another over a Burp label, leaving broad gray empty space around them; paired character silhouettes are compressed into a tiny top band."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM22",
+      "artifact_id": "icon:023558001f2d14fb159b79aa3f8075a6daa8ae0ad3d5b5305998349afdfdca77",
+      "title": "BadassBuddy \u2014 roadtrip",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-roadtrip--023558001f2d14fb",
+      "media_url": "https://buddyiconarchive.com/image/023558001f2d14fb159b79aa3f8075a6daa8ae0ad3d5b5305998349afdfdca77",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A blue-purple car with two green/yellow figures, red accents and a green background fills the top square above Road Trip; nested dark outlines divide bodies, windshield and wheels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM23",
+      "artifact_id": "icon:0259cad5d4f14349fe249ae3ae09eedf3d075f3c38e22f94b6870334efb5bd93",
+      "title": "BadassBuddy \u2014 trapeze",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-trapeze--0259cad5d4f14349",
+      "media_url": "https://buddyiconarchive.com/image/0259cad5d4f14349fe249ae3ae09eedf3d075f3c38e22f94b6870334efb5bd93",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A yellow figure and angled brown bar occupy the upper-right corner of a gray square, with a thin line crossing the top and a Trapeze label below. Large negative space makes the tiny suspended action legible."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM24",
+      "artifact_id": "icon:026871ecf01a3fc85fda229a61cb2746961b2733f4f8d8448c2861dd209f51b9",
+      "title": "BadassBuddy \u2014 trailer",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-trailer--026871ecf01a3fc8",
+      "media_url": "https://buddyiconarchive.com/image/026871ecf01a3fc85fda229a61cb2746961b2733f4f8d8448c2861dd209f51b9",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A small white trailer with dark door/window openings and a tiny yellow figure fills the top of the square; a two-line Trailer Park Trash label remains outside the scene on gray. This is a historical crude-humor example, not proposed product wording."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM25",
+      "artifact_id": "icon:02a123edc82e91630e07f642d794297f6e5b1356f831d029308d26be8158fe7b",
+      "title": "BadassBuddy \u2014 frybuddy",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-frybuddy--02a123edc82e9163",
+      "media_url": "https://buddyiconarchive.com/image/02a123edc82e91630e07f642d794297f6e5b1356f831d029308d26be8158fe7b",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A yellow character sits within a red brick enclosure on a brown/yellow seat above Fry Buddy; the small framed environment differs from icons with only floating figures."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM26",
+      "artifact_id": "icon:02de009621c189a5d85bce408eb2ba1918f52c517ce99d668cff61516e1e8013",
+      "title": "BadassBuddy \u2014 streetrace",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-streetrace--02de009621c189a5",
+      "media_url": "https://buddyiconarchive.com/image/02de009621c189a5d85bce408eb2ba1918f52c517ce99d668cff61516e1e8013",
+      "resolution": {
+        "width": 50,
+        "height": 50
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "Two top-down cars, red and blue, sit in parallel lanes on a gray field over a two-line Street Race label. Repeated simple silhouettes and a very limited palette convey the subject."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM27",
+      "artifact_id": "icon:04eb93fa462cebeb042e2cd29f4d3164b00581bd0c8a85fdf8dd5398b23cf5f8",
+      "title": "BadassBuddy \u2014 penguin",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-penguin--04eb93fa462cebeb",
+      "media_url": "https://buddyiconarchive.com/image/04eb93fa462cebeb042e2cd29f4d3164b00581bd0c8a85fdf8dd5398b23cf5f8",
+      "resolution": {
+        "width": 50,
+        "height": 50
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A rounded black penguin with yellow accents stands on white/pale blue above a Penguin label; a broad dark body and very small facial marks remain clear at 50 pixels."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM28",
+      "artifact_id": "icon:04eedb4caa3ed410073969f081ca60091bf54526a55322930df279b6971d8a25",
+      "title": "BadassBuddy \u2014 jackbean",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-jackbean--04eedb4caa3ed410",
+      "media_url": "https://buddyiconarchive.com/image/04eedb4caa3ed410073969f081ca60091bf54526a55322930df279b6971d8a25",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A small orange figure stands beside a green rising stalk-like shape over a two-line Jack & the Beanstalk label. The sampled frame establishes the fairy-tale motif and divided scene/caption structure; an entire narrative was not observed."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM29",
+      "artifact_id": "icon:06e74272df21e94137d804507ea1178f9f44dfd79b1456b839529d993f78ad9b",
+      "title": "BadassBuddy \u2014 duck",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-duck--06e74272df21e941",
+      "media_url": "https://buddyiconarchive.com/image/06e74272df21e94137d804507ea1178f9f44dfd79b1456b839529d993f78ad9b",
+      "resolution": {
+        "width": 50,
+        "height": 50
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A tiny blue-shirted white-headed figure occupies the upper gray field with a small horizontal black object beside it; Duck! is a short emphatic caption. Only this sampled state is used, not a claim about all animated events."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM30",
+      "artifact_id": "icon:070acb79a9a92e43c2b6c4919ebe7c134dd48de9e80158fb0e174ba3acdeae17",
+      "title": "BadassBuddy \u2014 letsconga",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-letsconga--070acb79a9a92e43",
+      "media_url": "https://buddyiconarchive.com/image/070acb79a9a92e43c2b6c4919ebe7c134dd48de9e80158fb0e174ba3acdeae17",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Complete original 48/50-pixel file, selected visible playback state(s); unmeasured timing"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "motion"
+          ],
+          "observation": "A row of overlapping yellow figures forms a diagonal group in the upper square; small red site text sits above and Let\u2019s Conga below. Shared outlines and tight repetition turn the group into one compact rhythmic shape."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM31",
+      "artifact_id": "icon:04eb3bf199984b117695296b152e35a350612ffc94ee47c43e704d8bc3db8064",
+      "title": "BadassBuddy \u2014 Slick",
+      "creator": "Preserved as BadassBuddy; individual artist/date not established",
+      "source_url": "https://buddyiconarchive.com/icon/badassbuddy-com-slick--04eb3bf199984b11",
+      "media_url": "https://buddyiconarchive.com/image/04eb3bf199984b117695296b152e35a350612ffc94ee47c43e704d8bc3db8064",
+      "resolution": {
+        "width": 50,
+        "height": 50
+      },
+      "states": [
+        "Complete original file; sampled pose only"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A red-outlined white-headed figure with red shirt/arms stands in the upper gray field, above a short Slick caption. Its sparse red, black and gray palette is a warmer variation of the common isolated-character micro-icon."
+        }
+      ]
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "handling": "Linked visual analysis only; no reference media downloaded or republished",
+      "generated": false,
+      "downloaded": false,
+      "qualifying_example": true,
+      "record_id": "AM32",
+      "artifact_id": "depeche:devotional-aim-icon-suite",
+      "title": "Depeche Mode Devotional DVD AIM icon suite, 2004",
+      "creator": "Depeche Mode official promotional site; individual icon artist not established",
+      "source_url": "https://devotional.depechemode.com/buddyicons/index.html",
+      "media_url": "https://devotional.depechemode.com/buddyicons/gr/projections/ify/alan_01.gif",
+      "resolution": {
+        "width": 48,
+        "height": 48
+      },
+      "states": [
+        "Original Alan 01, All 01, Dave 01 and Martin 01 files individually opened; treated conservatively as one promotional suite"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Four individually inspected originals show near-black performer silhouettes/crops on mustard, gray, yellow and saturated red grounds. Large silhouettes and stark contrast replace the tiny outlined cartoon-and-label vocabulary. Because the suite derives from the same Devotional imagery, these are one grouped promotional artifact, not four independent photographs or videos."
+        }
+      ]
+    }
+  ]
+}
