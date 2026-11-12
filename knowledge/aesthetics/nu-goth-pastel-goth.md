@@ -2,10 +2,10 @@
 slug: nu-goth-pastel-goth
 label: Nu-Goth / Pastel Goth
 first_researched: "2026-07-08"
-last_updated: "2026-07-08"
+last_updated: "2026-11-12"
 source: mixed
-image_count: 0
-evidence_level: limited
+image_count: 30
+evidence_level: standard
 new_aesthetic: false
 aliases: ["nu goth", "pastel goth", "modern goth fashion"]
 ---
@@ -14,90 +14,79 @@ aliases: ["nu goth", "pastel goth", "modern goth fashion"]
 
 ## Dimension Synthesis
 
-| Dimension | Canonical (≥70%) | Common (30–70%) | Variant (<30%) |
+Thirty unique full-media artifacts from 33 inspections: 18 Lolita’s Adornments product families, three GOTHX bag families, two explicitly labeled KILLSTAR editorial looks, six related current KILLSTAR accessories and one retailer-labeled Impericon look. These are not thirty independent scene definitions. Coordinated pairs count once and color-only variants were not separately inspected/counted. Recurrence is qualitative, not a population percentage.
+
+| Dimension | Observed grammar | Branch distinction / limits | Confidence |
 |---|---|---|---|
-| Palette | Nu-Goth black/gray/white/oxblood/silver; Pastel Goth black plus lavender, baby pink, powder blue, mint, and lilac. | Neighbor palettes only when the object model remains intact | Accessibility-first simplifications with solid contrast fields |
-| Type | Sharp serif, occult display, distressed goth lettering, tattoo-like marks, streetwear sans, and cute accents only with dark anchors. | Support labels and metadata tuned to the domain | Decorative display accents used sparingly |
-| Texture | Lace, velvet, mesh, leather, latex, fishnet, chains, matte makeup, plush/kawaii softness, and candy plastic. | Interface chrome that preserves source material logic | Flatter reduced-texture variants for legibility |
-| Shape | Platforms, chokers, harnesses, crosses, pentagrams, oversized tees, spikes, bows, hearts, plush motifs, and candy hair. | Repeated UI modules echoing the source object model | Softened modern component variants |
-| Motion | Pose-oriented, sultry, moody, ritualized, club-flyer entrances; restrained cute bounce for Pastel Goth only. | State transitions linked to the core workflow | Static print-first or reduced-motion fallbacks |
-| Spatial | Bedroom/streetwear/editorial framing, club styling, beauty crops, shrine-like self-curation, and social-media outfit space. | Secondary panes/lists that preserve scan order | More spacious marketing adaptations |
-| Cultural markers | Goth music lineage, crosses, cemetery residue, occult signs, DIY hardware, Tumblr alt-fashion, kawaii/Harajuku influence, and modern goth revival. | Domain vocabulary and object-specific affordances | Broader adjacent-pop-culture references |
+| Palette | Black/white contrast, dark hardware and lilac/pink/aqua accents recur. | Nu Goth editorial KS-1 is split monochrome; Pastel Goth objects foreground soft color, but KS-3 is almost entirely pastel and KS-7 is red. Black on every garment is not mandatory. | High for sample contrast; limited for scene-wide frequency. |
+| Type | Elaborate jagged display lettering appears on KS-1, KS-8 and KS-9; most objects carry little meaningful type. | A restrained sans for controls and sharp serif display are proposed interface treatments. No universal blackletter font or historical typeface was verified. | Low for universal type claims. |
+| Texture | Open mesh/lace, plush, translucent cast surfaces, satin folds, grained bag surfaces and bright metal highlights. | Nu Goth can emphasize straps, zips and graphic areas; Pastel Goth often juxtaposes soft/smooth color with dark hard detail. Photography cannot establish exact material chemistry. | High for visible surface relations. |
+| Shape | O-rings, straps, angular coffins, bows, pointed wings, small skulls and compact charms. | These are overlapping motifs, not required religious beliefs or an exhaustive symbol set. Cute fruit and plain soft clothing also appear. | High in accessories. |
+| Motion | Only still photographs inspected; no garment movement or website animation measured. | A deliberate still product/print composition is appropriate; optional transitions are proposals. | Unknown for observed motion. |
+| Spatial | Layering and proportion contrast: oversized graphic top/fitted skirt, soft bow/hard charm, broad plain bag/small hardware. | Translating this into an editorial spread or accessory workbench is an application choice, not a source website-layout claim. | High for objects, proposed for UI. |
+| Cultural markers | Maker/retailer labels distinguish contemporary dark-fashion branches and associated accessories. | The sample is commercial, English-language and accessory-heavy. Brand membership, religion, musical identity or community membership cannot be inferred from an item or outfit. | Bounded. |
 
 ## Image Descriptions
 
-1. [https://example.invalid/source-packet] — See local parent research packet for source evidence.
+[Complete 33-record ledger](../media-audits/nu-goth-pastel-goth.json). Full maker-served images were inspected; catalog thumbnails were only discovery leads. Product families with similar color variants are not multiplied.
+
+- **LA-0 — Creepy Cute Kitty Hat in White**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/md980fe0552fc7e0d); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/iae4b00ec4eb3a6c9/version/1555960562/image.jpg). White plush cat-ear hat with stitched black cross eyes, white whiskers and lilac hair/black outfit contrast in the maker photograph. Cute animal shape is interrupted by dead-eye graphic; no designed type.
+- **LA-2 — Creepy Cute Bunny Hat in White**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m5566c9ce24fa2bd2); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/ibe16e48ac41a4bc0/version/1555961471/image.jpg). White floppy bunny-ear plush hat with black cross eyes over a black-and-white graphic top and lilac hair. Long soft silhouette differs from the pointed cat hat; material softness, hard black marks.
+- **LA-4 — Purple & Black Cross Charm Choker**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m3e58d42e60b771c7); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/i1e50e8214b4bc29f/version/1538731121/image.jpg). Lilac organza ruffles over black scalloped lace, a dark faceted oval in an ornate metal setting and a small black cross pendant form layered soft/hard contrast.
+- **LA-5 — Creepy Cute Skull Cushion**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m240cae1c734a09ae); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/ieb4996d60125bf35/version/1539245604/image.jpg). Cream skull-shaped cushion with large black cartoon eyes, tiny nose, pink cheeks and satin pink bow; rounded plush outline converts mortality motif to cute domestic object.
+- **LA-6 — Pastel Goth Eye Bow Choker**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m02378234b3a17d0c); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/ibc4b41bcc69cc528/version/1538050641/image.jpg). Lilac satin bow with blue eyeball center on a black frilled choker edged in white lace; silver hardware and opaque/transparent fabric contrast.
+- **LA-9 — Black Horned Headband with Purple Roses**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m115c44db8042f773); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/i8fd60a51c7a847c4/version/1537101523/image.jpg). Black horns on a headband wrapped in saturated purple translucent organza and rose-like ruffles. Pointed dark silhouette against soft decorative volume.
+- **LA-10 — Black & Pink Beaded Bow with Cross**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/ma72aab0ab2ce232a); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/i509f68a6e5d104c4/version/1536830177/image.jpg). Black lace bow with bright pink cross at center and pink bead chain on metal links. Colored focal motif against intricate black fabric.
+- **LA-13 — Black Rose Earrings with Pink Bows**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m009c05977298f957); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/if24ba8514d09e07b/version/1537102751/image.jpg). Paired black sculpted rose earrings with small pink satin bows and simple dark hooks; one paired product family, not two counts.
+- **LA-15 — Creepy Cute Flying Eye**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/mfb01f1f0e6e84b9a); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/i45a0d6fed77ae64f/version/1536852376/image.jpg). White-and-blue eye with purple wing forms and pale teal trailing detail on a black chain; smooth rounded cast surface and cute/macabre combination.
+- **LA-21 — Witches' Cauldron Necklace**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/me58f2a1100e7d466); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/iba31f028dd01403d/version/1570199579/image.jpg). Small black cauldron pendant with metal side rings and pastel iris eyeballs set in bright green contents; smooth shiny accents against matte-looking black vessel, photographed with witchy props.
+- **LA-22 — Purple Teddy Bear Earrings**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/mc5360588a3a96cfa); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/i64efcd5474d0a990/version/1538568437/image.jpg). Paired translucent pale-purple teddy shapes beneath glossy black bows and dark hooks; clear cast highlights, compact cute silhouette and hard dark connectors.
+- **LA-25 — Pink & Black Cherry earrings with Bows**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m8c748893af1775f0); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/ia9126f3aeda1a89e/version/1536835751/image.jpg). Paired translucent pink cherry earrings below black shiny bows; round fruit and small leaf shapes use color and material contrast, no literal horror motif.
+- **LA-29 — Translucent Aqua Cross Earrings with Black Wings**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m08c48b22cb6525e3); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/i8e3f97816f4d5cb8/version/1538646753/image.jpg). Paired faceted aqua crosses with central quatrefoil cutouts below glossy black wings; transparent cool color and sharp religious/supernatural forms.
+- **LA-30 — Black Alien Skull Necklace**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m92228af7a91ef219); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/ibaa86acf8330a107/version/1538413459/image.jpg). Black rounded alien-skull pendant with large recessed eyes and a small pink bow above it, on a black link chain. Compact macabre/cute juxtaposition.
+- **LA-32 — Purple Skull & Cross Bones Necklace**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/mfaafbdd3d0a5d2d7); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/ic35fa54c35a8f671/version/1538408917/image.jpg). Purple skull-and-crossbones pendant with faceted dark inset eyes, glossy black bow and black chain; rounded cast edges, jewel highlights.
+- **LA-42 — Large Creepy Cute Skull Bow**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m2b3e9e51df904960); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/i1893260bb18d0c5b/version/1538667424/image.jpg). Large black open lace bow with a tiny cream cute-skull center and pale pink bow; sparse light focal point against a broad dark textile silhouette.
+- **LA-45 — Lolita Skull Cameo Necklace with Purple Bow**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/m5a74633763e327c5); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/i84dc5e328256e0fc/version/1538663830/image.jpg). Pale skeletal cameo in a purple rope-edge oval with a large molded purple bow and black chain; relief portrait motif is reference-only, not suitable as a production human character.
+- **GX-0 — GothX Pastel Lilac Bat Bag**, GOTHX. [Source](https://chokgothx.com/products/gothx-limited-edition-pastel-lilac-bat-vegan-shoulder-bag); [image](https://cdn.shopify.com/s/files/1/0332/0699/3029/products/ianlilac.jpg?v=1663676376). Lilac bat-shaped bag with stitched wing veins, small metal crystal eyes, tiny white fangs and outlined seams. A whole bag silhouette, no flat black requirement.
+- **GX-1 — GothX Pastel Lilac Mini Coffin Bag**, GOTHX. [Source](https://chokgothx.com/products/gothx-limited-edition-pastel-purple-mini-coffin-vegan-cross-body-bag); [image](https://cdn.shopify.com/s/files/1/0332/0699/3029/products/pastellilaccoffin.jpg?v=1663683001). Lilac coffin-shaped bag with an ornate dark cross, repeated small cross studs, dangling black chain and visible edge stitching. Hard hardware against a pastel ground.
+- **GX-3 — GothX Pastel Lilac Studded Skull Mini Backpack**, GOTHX. [Source](https://chokgothx.com/products/gothx-limited-edition-pastel-lilac-skull-head-small-studs-vegan-mini-backpack); [image](https://cdn.shopify.com/s/files/1/0332/0699/3029/files/MINIPURPLE1.jpg?v=1705075313). Lilac rounded mini backpack with black/chrome domed studs, raised skull plate, zip pull and seams; ordinary storage form made specific by contrasting hardware.
+- **KS-1 — Nu Goth Fashion in Black & White**, @aeroplvnes, published by KILLSTAR. [Source](https://us.killstar.com/blogs/journal/looks-we-love); [image](https://cdn.shopify.com/s/files/1/0228/2373/files/aeroplvnes_181493500_214990423411463_4642434801462786677_n.jpg?v=1630661625). Nu Goth editorial credits @aeroplvnes: split black/white oversized graphic top, fine elaborate lettering and print, zipped pleated short skirt, contrasting cross stockings, fishnet and large O-ring/spiked choker. Strong geometric contrast and hardware, not only black minimalism.
+- **KS-3 — Pastel Goth Aesthetic | KILLSTAR**, @v.zozimo, published by KILLSTAR. [Source](https://us.killstar.com/blogs/journal/looks-we-love); [image](https://cdn.shopify.com/s/files/1/0228/2373/files/v.zozimo_4.jpg?v=1630661673). Pastel Goth editorial credits @v.zozimo: very pale pink/white distressed open knit, fluffy pink handwarmers and pink/white stockings with saturated blue/pink braids. This maker-labeled example is almost entirely soft-colored; a black base on every garment is unsupported. Classification is source-attributed, not visually universal.
+- **KS-5 — Viperis Tights**, KILLSTAR. [Source](https://us.killstar.com/blogs/journal/looks-we-love); [image](https://us.killstar.com/cdn/shop/files/VIPERIS-TIGHTS-B_e46437ac-bf94-48fe-8816-9a21bf1a3fd1.jpg?width=1400). Black fishnet tights with large opaque snake silhouettes winding across the fine diamond mesh. Transparent/open structure contrasting solid graphic motif; a current related accessory, not proof every KILLSTAR product is Nu Goth.
+- **KS-6 — Casket Carry Case**, KILLSTAR. [Source](https://us.killstar.com/blogs/journal/looks-we-love); [image](https://us.killstar.com/cdn/shop/files/CASKET-CARRY-CASE-C_d4179f8d-9e1f-4109-8e7b-b28d8b64f8ff.jpg?width=1400). Black coffin-shaped rolling carry case with tiny silver bat publisher plaque, shallow surface grain and quiet perimeter piping. Angular object silhouette with restrained hardware and broad empty face.
+- **KS-7 — Chalice Heart Bag**, KILLSTAR. [Source](https://us.killstar.com/blogs/journal/looks-we-love); [image](https://us.killstar.com/cdn/shop/files/CHALICE-HEART-BAG-A_039a5bdd-3e9f-41d7-99ac-c0d1657ae2d5.jpg?width=1400). Deep glossy red anatomical-heart bag with raised vessels, metal chain, zipper around the middle and long matching strap. Related dark-fashion accessory contradicting a black-only product palette; no diagnostic or body representation used in production.
+- **KS-8 — Caught In The Thorns Wallet**, KILLSTAR. [Source](https://us.killstar.com/blogs/journal/looks-we-love); [image](https://us.killstar.com/cdn/shop/files/CAUGHT-IN-THE-THORNS-WALLET-A_cb5a294e-db19-45da-be17-913b3c8c1727.jpg?width=1400). Black rectangular zip wallet with grey thorn-like band lettering/branch print, studded wrist strap and stitched edges; graphic streetwear-like treatment. Related band collaboration, not a whole Nu Goth outfit.
+- **KS-9 — Keystone Spiral Backpack**, KILLSTAR. [Source](https://us.killstar.com/blogs/journal/looks-we-love); [image](https://us.killstar.com/cdn/shop/files/KEYSTONE-SPIRAL-BACKPACK-A_ff890de0-a916-402d-b8cd-a1d05f37762c.jpg?width=1400). Black coffin-outline mini backpack with rough grey spiral print and jagged band lettering, metal zips and grained surface; print/hardware contrast rather than lace or pastels. Related current accessory.
+- **KS-10 — Darkwings Harness**, KILLSTAR. [Source](https://us.killstar.com/blogs/journal/looks-we-love); [image](https://us.killstar.com/cdn/shop/files/DARKWINGS-HARNESS-BLACK-A.jpg?width=1400). Black grained harness with parallel shoulder straps, eyelets, bright O-rings, paired buckles and metal bat ornaments. Strong structural divisions and pointed lower edge; photographed alone without a model.
+- **IM-1 — Nu Goth editorial outfit**, Impericon. [Source](https://www.impericon.com/collections/nu-goth); [image](https://www.impericon.com/cdn/shop/files/20260408_gothic_content_1x1_teaser_2.jpg?v=1775637545). Retailer-labeled Nu Goth editorial look: black short lace bell-sleeve dress, broad shiny laced waist cincher, tall chunky lace-up boots and split light/dark fringe. Romantic lace overlaps the cleaner monochrome branch; the label is attributed to the retailer.
+- **LA-55 — Pastel Pink & Purple Hair Clips with Black Skulls.**, Lolita’s Adornments. [Source](https://www.lolitasadornments.co.uk//app/module/webproduct/goto/m/mf24846eba99ba1fd); [image](https://image.jimcdn.com/app/cms/image/transf/none/path/sa62620d22cd309cf/image/i15707b9d84cf2929/version/1538666235/image.jpg). Paired pale pink and purple simple hair clips with flat glossy black skull ornaments; long everyday clip bodies contrast with compact dark shapes. One coordinated pair counts once.
 
 ## Analysis
 
-Nu-Goth / Pastel Goth is application-ready only when its signal is distributed across all seven dimensions rather than resting on palette alone. The load-bearing pattern is: black/goth anchors + modern alt-fashion styling + occult or spooky signifiers + explicit branch distinction. Frontend translation should begin with that pattern, then apply color, texture, shape, and motion as evidence of it.
+### Attributed context and boundaries
 
-Name kawaii/Harajuku borrowing in Pastel Goth without flattening Japanese culture into cuteness; avoid generic Halloween kitsch.
+[KILLSTAR's editorial](https://us.killstar.com/blogs/journal/looks-we-love) explicitly distinguishes Nu Goth's contemporary graphic/structural styling from its Pastel Goth examples, alongside witchy, corporate and rockabilly looks. Three neighboring looks were inspected as exclusions; sharing lace or a buckle does not collapse the categories. The selected accessories are related material/shape evidence, not six additional explicitly labeled Nu Goth outfits. [Impericon's Nu Goth page](https://www.impericon.com/collections/nu-goth) corroborates contemporary cuts, layering and statement hardware, while its own outfit also demonstrates romantic lace overlap. Retailer scene descriptions are commercial interpretations, not definitive community histories.
 
-Source-grounded implementation brief:
+[Lolita’s Adornments' maker collection](https://www.lolitasadornments.co.uk/pastel-goth/) directly labels its pastel/dark combinations. [GOTHX's collection](https://chokgothx.com/collections/pastel-goth) and [Amy Davies' 2024 styling article](https://chokgothx.com/blogs/news/%F0%9F%8C%B8-styling-pastel-as-a-goth-%F0%9F%8C%B8) connect soft colors with darker accessories. The latter republishes several images from Pinterest/Instagram; these unverified-origin images were not counted. Only GOTHX's own product photography entered the corpus. No founding date, sole inventor, exact demographic or music canon is established here.
 
-### 10) `nu-goth-pastel-goth`
-- `knowledge/aesthetics/nu-goth-pastel-goth.md`
-  - Use explicit subheads for Nu-Goth and Pastel Goth, with shared lineage and divergent palette/cute-creepy balance. Source: `surreal-goth-cyber-ai.md` / `nu-goth-pastel-goth`.
-- `skills/aesthetic-literacy/aesthetics/nu-goth-pastel-goth.md`
-  - Core dimensions: black-led or black-plus-pastel palette, lace/mesh/leather/hardware texture, platform/harness/choker or cute-creepy accessory shape, moody pose-oriented motion, self-styled editorial/bedroom/club space.
-  - Anti-pattern: generic Halloween or kawaii without real goth anchors.
-- Boundary guardrail
-  - Preserve distinction from `gothic-revival`, `witchcore`, and `cybergoth`. Source: `surreal-goth-cyber-ai.md` / `nu-goth-pastel-goth`.
+### Scope and limits
+
+Thirty qualifying artifacts, three excluded neighboring looks, no duplicated inspected edition, no video/audio and no downloaded reference files. Eighteen product families from one maker strongly bias the pastel branch toward small jewelry; the Nu branch has only two explicit outfit sources plus related accessory evidence. This supports a grounded contrast in materials, scale and layering, not prevalence claims about an entire scene. The empty KILLSTAR bags JSON endpoint supplied no extra artifacts. Current maker photography demonstrates available material vocabulary, not a continuous historical archive. All rights remain with creators/publishers; no reference image is production art.
+
+### Application translation
+
+A fictional print/accessory atelier can offer distinct dark and pastel editions. The dark edition should use a graphic split, long sharp lettering, O-ring/strap divisions and sparse metal details; the pastel edition can shift to scalloped edging, satin bow structure and translucent candy-colored focal objects. The change should alter composition/ornament as well as color. Original moth, crescent or pierced-heart object motifs can embody this without bodies, portraits, dolls or human characters. Avoid copying logos, religious symbols or existing product designs. Readable control text, visible selected states, a real edition/ornament selection and a saved proof make the artifact useful. Type stacks, exact colors, spacing, breakpoints and behavior remain proposed design values, not measurements from fashion photographs.
 
 ## Connections
 
-Related aesthetics from the dictionary and candidate set:
-- Distinct from `gothic-revival`, `witchcore`, and `cybergoth`: this is modern alt-fashion/internet styling, not architecture, apothecary ritual, or neon rave futurism.
+`gothic-revival` concerns historic architectural/decorative practices rather than this contemporary fashion mixture. `witchcore` can overlap in symbols but requires its own ritual/natural context; a pentagram is not a universal identity marker. `cyberpunk` need not supply the soft/hard or streetwear-goth relation. `decora-kei` can share colorful accessories while emphasizing different accumulation and cultural history. Do not equate Gothic Lolita with Pastel Goth because a maker sells both.
 
 ## Research Updates
 
-Initial profile created on 2026-07-08 from the 20-aesthetic expansion synthesis brief and parent research packets. Evidence level is marked limited because this implementation pass preserved source links and source-backed synthesis but did not download a 10+ image corpus for each entry.
+### 2026-11-12 — Direct maker-media expansion
 
-### Parent research excerpt
+Thirty qualifying artifacts among 33 full inspections replace a zero-image contextual profile. The combined identity remains intact while the two branches, commercial bias and neighboring exclusions are explicit. Universal blackletter, black-base and motion claims were revised to match evidence.
 
-## `nu-goth-pastel-goth` — Nu-Goth / Pastel Goth
+### 2026-07-08 — Initial profile history
 
-Evidence count: 5 sources ([NG1]-[NG5])
-
-### Source bibliography / URLs
-
-- [NG1] gives durable context for goth’s broader visual grammar: imagery matters more than black alone, and by 2013 pastel hair was already showing up inside goth-adjacent search behavior.
-- [NG2] updates goth into the 2020s: mainstream visibility, high-fashion/celebrity crossover, and continued emphasis on morbidity plus self-stylization.
-- [NG3] frames nu-goth as a late-2000s / post-2000s casual modernization of trad goth with stronger streetwear and occult-fashion emphasis.
-- [NG4] frames pastel goth as a Western internet-born blend of goth, kawaii/Harajuku influence, Tumblr circulation, and pastel color contrast.
-- [NG5] documents fashion’s early-2010s “soft”/romantic goth comeback and helps separate romantic mainstream goth from later pastel-goth mutation.
-
-### Visual evidence summary
-
-- Nu-goth uses a black-heavy wardrobe, occult motifs, DIY hardware, platforms, chains, harnesses, and modern street-fashion silhouettes rather than strict Victorian reconstruction [NG3].
-- Pastel goth flips the expected palette by injecting lavender, baby pink, pastel blue, and kawaii sweetness into gothic accessories, leather, spikes, skulls, and mesh [NG4].
-- Contemporary goth overall remains imagery-driven: dark romanticism, dramatic makeup, white/pale face traditions, black lipstick or berry lips, crosses, lace, latex, and theatrical self-presentation [NG1][NG2][NG5].
-- The major difference between nu-goth and pastel goth is not “light vs dark” alone but whether the aesthetic stays monochrome-occult streetwear (nu-goth) or intentionally collides gothic edge with cute pastel/kawaii codes (pastel goth) [NG3][NG4].
-
-### Seven-dimension synthesis
-
-- Palette: Nu-goth is overwhelmingly black, gray, white, oxblood, and silver with occasional deep jewel tones; Pastel goth overlays black with lavender, baby pink, powder blue, mint, and lilac accents [NG1][NG3][NG4][NG5].
-- Type: sharp serif or occult display type, distressed goth lettering, tattoo-like iconography, and occasionally clean sans for modern streetwear; pastel goth can tolerate cuter rounded accents so long as the dark/pastel tension remains [NG3][NG4].
-- Texture: lace, velvet, mesh, leather, latex, fishnet, distressed knit, chains, and matte black makeup textures; pastel goth adds plush/kawaii softness or glossy candy-plastic accents [NG2][NG3][NG4][NG5].
-- Shape: platforms, chokers, harnesses, crosses, pentagrams, oversized tees, body-conscious black silhouettes, rounded sunglasses, and spiked accessories; pastel goth softens with bows, hearts, plush motifs, and candy-color hair while keeping gothic edge [NG3][NG4].
-- Motion: more pose and attitude than animation language; if animated, motion should feel sultry, moody, or ritualized rather than cheerful. Pastel goth can handle playful bounce in a way nu-goth usually cannot, but only in restrained doses [NG2][NG4].
-- Spatial: bedroom/streetwear/editorial framing, club-adjacent styling, high-fashion beauty crops, shrine-like personal styling, and social-media self-curation rather than architectural space [NG2][NG3].
-- Cultural markers: goth music lineage, crosses, cemetery/Victorian residue, occult symbolism, witch-house adjacency, DIY customization, Tumblr alt-fashion culture, kawaii/Harajuku borrowing in pastel goth, and mainstream celebrity goth revival in modern goth discourse [NG1][NG2][NG3][NG4][NG5].
-
-### Related-aesthetic boundaries
-
-- Distinct from `gothic-revival`: these are living fashion/internet subculture derivatives, not a historical architecture revival [NG1][NG2].
-- Distinct from `witchcore`: nu-goth uses occult signs but is sleeker, more urban, and less altar/herb/apothecary-coded than witchcore [NG3].
-- Distinct from `cybergoth`: cybergoth mixes rave, PVC, neon-reactive accents, goggles, and industrial futurism; nu-goth is darker, more casual, less rave-coded, and more occult/streetwear-led [CS4][NG3].
-- Distinct from `kawaii` or `decora-kei`: pastel goth needs real gothic tension and black/dark signifiers; without them it becomes cute pastel fashion rather than pastel goth [NG4].
-
-### Implementation notes for dictionary entries
-
-- Treat as a paired entry with explicit sub-branches. Nu-goth and pastel goth share lineage but have different palette and connotation logic.
-- Non-negotiables for Nu-Goth: dark palette + modern streetwear silhouette + occult / goth signifiers + DIY hardware.
-- Non-negotiables for Pastel Goth: pastel/cute palette collision + black gothic anchors + spooky/cute duality.
-- Cultural-sensitivity caution: note that pastel goth often borrows from Japanese kawaii/Harajuku codes via Western internet fashion; entries should describe the borrowing rather than flatten it into “Japanese = cute goth” shorthand [NG4].
-- Community caution: nu-goth is frequently contested by trad-goth gatekeeping discourse; define it descriptively, not normatively [NG3].
-
-### Websit
+The initial limited profile synthesized contextual links without an inspected image corpus. Its unsupported frequency bands and broad motion prescriptions are superseded; the original first-researched date is retained.

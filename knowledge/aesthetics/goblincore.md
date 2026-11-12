@@ -2,10 +2,10 @@
 slug: goblincore
 label: Goblincore
 first_researched: "2026-07-08"
-last_updated: "2026-07-08"
+last_updated: "2026-11-12"
 source: mixed
-image_count: 1
-evidence_level: limited
+image_count: 30
+evidence_level: standard
 new_aesthetic: false
 aliases: ["mushroomcore", "mosscore", "dirtcore-adjacent"]
 ---
@@ -14,86 +14,81 @@ aliases: ["mushroomcore", "mosscore", "dirtcore-adjacent"]
 
 ## Dimension Synthesis
 
-| Dimension | Canonical (≥70%) | Common (30–70%) | Variant (<30%) |
+Updated from 30 unique full-media artifacts among 42 inspections. Recurrence is qualitative, not a population percentage. Fifteen maker product families and fifteen community collections/creations qualify; a collection or paired work counts once.
+
+| Dimension | Observed grammar | Variation / limits | Confidence |
 |---|---|---|---|
-| Palette | Moss, mud, fungus beige, peat, damp gray, lichen, frog green, tarnished brass, and rot colors. | Neighbor palettes only when the object model remains intact | Accessibility-first simplifications with solid contrast fields |
-| Type | Uneven specimen labels, foraged notebook annotations, odd type mixes, and hand-tagged trinket labels. | Support labels and metadata tuned to the domain | Decorative display accents used sparingly |
-| Texture | Moss, mud, bark, damp leaves, fungus caps, weathered metal, glass vials, bone, stone, and rough fibers. | Interface chrome that preserves source material logic | Flatter reduced-texture variants for legibility |
-| Shape | Trinket piles, asymmetrical pockets, pouches, jars, mushrooms, frogs, snails, and clustered cabinet forms. | Repeated UI modules echoing the source object model | Softened modern component variants |
-| Motion | Creeping, skittering, rummaging, foraging, drifting, and cozy-curious micro-motions. | State transitions linked to the core workflow | Static print-first or reduced-motion fallbacks |
-| Spatial | Forest-floor scatter, treasure corners, specimen cabinets, pocketed storage, and readable focal zones inside mess. | Secondary panes/lists that preserve scan order | More spacious marketing adaptations |
-| Cultural markers | Mushrooms, frogs, snails, worms, moss, bones, overlooked nature, anti-perfection, queer/anti-consumption framing. | Domain vocabulary and object-specific affordances | Broader adjacent-pop-culture references |
+| Palette | Brown bark, green moss, pale lichen, ochre fungi and dark timber recur beside copper, colored stones and glass. | Bright blue, violet, red and plastic shine are present; an exclusively muddy palette is unsupported. Colors are visually estimated. | High for this object-heavy sample. |
+| Type | Source objects rarely carry meaningful designed typography; tiny labels, tins and personal ephemera appear in collections. | Specimen tags and notebook type are proposed interface translations, not a verified historical font system. | Low / application inference. |
+| Texture | Irregular bark, gills, pitted stone, lichen, dried leaves and worn containers contrast with smooth resin, glass and metal. | Handmade simulations, beadwork and fiber sculptures can carry the same attention to small forms. | High. |
+| Shape | Asymmetric fungi, snails, insects, roots, fragmentary finds, vials and small keepsakes. | Manufactured hardware, coins, beads and toys occur alongside nature; no single creature is compulsory. | High. |
+| Motion | No motion corpus inspected. | Still arrangements do not establish creeping, skittering or drifting rhythms. Immediate selection and collecting are application choices. | Unknown. |
+| Spatial | Compartmented drawers, trays, reused boxes, jars and clustered tabletop arrangements make small things worth examining. | Some displays are carefully spaced and sorted; random disorder is not mandatory. | High. |
+| Cultural markers | Creators share personally meaningful finds and visibly handmade interpretations of overlooked small life. | A subreddit and one maker do not represent every participant or establish an origin date, politics or demographic identity. | Moderate. |
 
 ## Image Descriptions
 
-1. [https://www.theguardian.com/fashion/2021/jul/30/goblincore-fashion-trend-embraces-chaos-dirt-mud] — Source evidence for Goblincore: used to ground history, visual vocabulary, cultural framing, and boundary cautions.
+All qualifying artifacts were inspected individually as complete source images, not search thumbnails. The [media ledger](../media-audits/goblincore.json) also records two duplicate sales listings and ten boundary exclusions. Reference images remain with their creators; no production reuse.
+
+- **WW-7265484865719 — A Small Enchanted Garden for your Keys**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/a-small-enchanted-garden-for-your-keys); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/products/Resin165.jpg?v=1673601040). Small resin key objects enclose lichen, fern, seed and flower fragments; found-material collection and mossy presentation combine shiny everyday hardware with organic fragments. One arranged product family, not seven independent examples.
+- **WW-7911710326967 — Embossed Terrarium Pendant with Frozen Charlotte, Moss & Ferns**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/embossed-terrarium-pendant-with-frozen-charlotte-moss-ferns); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/IMG-3361.heic?v=1734479369). Ornate silver hanging frames preserve worn white doll fragments beside moss and tiny leaves, with irregular beads and chains; reclaimed curious objects rather than pristine pastoral nature. Research only; no doll imagery will be used in applications.
+- **WW-7533536739511 — Cicada Pendants**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/cicada-pendants); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/08D39BE5-22F0-45C7-83C6-728536A50F7B.jpg?v=1710548521). Transparent cicada pendants enclose vivid iridescent blue/green inserts, displayed with lichen and pinecones; shiny insect-object appreciation beyond a compulsory muted earth palette.
+- **WW-7193787990199 — Cicada Brooch**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/cicada-brooch); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/products/239849385_10226866193941785_1747134673949206543_n.jpg?v=1669144253). Small modeled cicada brooches with ornate vein relief, metallic gold outlines and jewel blue/purple/green bodies; overlooked insect shape combined with collectible shiny finish.
+- **WW-8697920487607 — Forest Floor Vignette Pins**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/forest-floor-vignettes); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/A92E7FFF-855E-4F54-82EC-FA1F8D3B3095.jpg?v=1785897043). Irregular bark-brown modeled brooch with blue cup fungi, leaf relief, moss green texture and dangling beads, bell and seedpod forms; overlooked forest-floor fragments become a functional ornament.
+- **WW-8697920356535 — Salty Snail, A Forest Brooch**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/salty-snail); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/E1FF98AD-A001-4676-8F3A-CCC83B47F53D.jpg?v=1785895887). Copper-orange spiral snail shell carries uneven white and red mushrooms, modeled green moss and a tiny corked bottle of pink grains; a miniature assembled curio rather than a botanical print.
+- **WW-8695593500855 — Wiggler in a Stump — Handmade Sculptural Brooch**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/wiggler-in-a-stump-handmade-sculptural-brooch); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/1E8E06EB-8253-4B61-B8DF-8E7BAB2D199A.jpg?v=1785716826). Sculptural bark-textured stump brooch includes a curving worm, grass and tiny yellow fungi, photographed among real lichen and seedpods; rough small life supplies its ornament.
+- **WW-8692650868919 — Forest Floor Pins**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/forest-floor-pins-tiny-woodland-residents); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/300BEE18-6AA1-4232-8D34-27B6691F837F.jpg?v=1785652805). Four handmade red-and-white mushroom pins shown with irregular caps and modeled gills, two face-on and two side-on; one product family, with moderate aesthetic specificity.
+- **WW-8551993966775 — Handmade Mushroom Hair Pins: Goblincore pair**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/handmade-mushroom-hair-pins-goblincore-pair); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/68DCA26C-571F-498A-AFF1-0ECE8E786A52.jpg?v=1777325893). Pair of ochre mushroom hair pins uses deep uneven gills, folded caps and barklike texture as an everyday functional ornament; one paired work.
+- **WW-7948110266551 — Enchanted Forest Stump Pendant – Hand-Sculpted Fantasy Jewelry**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/sweet-stumpy-forest-pendants-copy); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/E0A78057-87CA-4BB1-A026-8C0EDB817493.jpg?v=1738124226). Rough modeled stump pendants have bark furrows, irregular holes, leaf growth and bulbous mushrooms around crystal roots; organic miniature objects with jewel highlights.
+- **WW-7332317200567 — Deep Woods Portal Pendant**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/deep-woods-portal-pendant); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/image_8f5c31fe-b25b-410d-9cc2-ccd1a19d885e.heic?v=1684606317). Small circular glass pendant encloses pale lichen, wiry strands and tiny natural fragments, photographed at moss-covered bark; a close-view curio with visible specimen irregularity.
+- **WW-7275780898999 — Wildwood Magic Vessel Necklaces**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/wildwood-magic-vessel-necklaces); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/products/image_689b279b-ebc4-451d-aed8-0a138976a2eb.jpg?v=1675417688). Corked miniature vessels have irregular leaf, root and twig relief wrapped around their glass bodies, with earthy brown and iridescent green highlights.
+- **WW-7275769659575 — Magical Amanita Muscaria Crystal Pendants and Ornaments**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/amanita-muscaria-crystal-pendant); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/files/846D101B-ADC6-4A23-ADCE-E29F92DAE038.heic?v=1699947294). Red-and-white gilled mushrooms grow into quartz points in coffin-shaped presentation boxes, with pale lichen and small cones; one product family, gothic crossover.
+- **WW-7193788383415 — Crystal Mushroom Pendants**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/crystal-mushroom-pendants); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/products/jewelry168.jpg?v=1663117032). Four sculpted mushroom crystal pendants have pitted stems, asymmetrical caps and unusually bright blue, magenta and metallic violet surfaces; earth brown is not compulsory.
+- **WW-7193788219575 — Enchanted Forest Bracelet**, The Woodland Wandolier. [Source](https://thewoodlandwandolier.com/products/enchanted-forest-bracelet); [image](https://cdn.shopify.com/s/files/1/0538/0040/3127/products/261215970_10227479084343662_643163963615897118_n.jpg?v=1669144261). Clear resin bangle encloses irregular pale lichen and a fern fragment with visible natural branching; rough specimens contrast with smooth functional casing.
+- **R-1qmssem — Curio shelf**, General_Ignoranse. [Source](https://www.reddit.com/r/goblincore/comments/1qmssem/); [image](https://i.redd.it/0vu40ewprjfg1.jpg). Worn printer-drawer compartments hold rough stones, shells, a pinecone, colored glass, tiny tins and figurines; one collection photograph, with object color against dark timber. Cultural and religious objects retain their own meanings.
+- **R-1jlaqpv — Embroidered forest hoard**, bluehydrangea. [Source](https://www.reddit.com/r/goblincore/comments/1jlaqpv/); [image](https://i.redd.it/1k75drb0y9re1.jpg). Hand-embroidered moth, perforated autumn leaves, lichen-covered twigs, nest, feather and fungi rest on pale ground; visible stitches and damaged leaf edges celebrate small and overlooked forms. One coherent fiber-sculpture collection.
+- **R-1wnt92e — Shinies collection**, dead-in-a-swamp-lmao. [Source](https://www.reddit.com/r/goblincore/comments/1wnt92e/); [image](https://i.redd.it/3p260yxmi6rh1.jpg). A wooden tabletop holds sorted clusters of stones by color beside bent nails, bolts, bottle caps, keys, toys and jewelry fragments; vivid manufactured shine coexists with earthy material. One collection, not every object separately.
+- **R-1j1oa4j — Trinket collection**, ratprince85. [Source](https://www.reddit.com/r/goblincore/comments/1j1oa4j/); [image](https://i.redd.it/82aubn52b9me1.jpeg). Dense pale-ground arrangement of tiny keys, worn tins, teeth, glass marbles, charms, minerals, buttons and bright plastic pieces; sentimental small objects exceed a forest-only or brown-only palette. One collection.
+- **R-16rglop — Stuff collection**, fynnelol. [Source](https://www.reddit.com/r/goblincore/comments/16rglop/); [image](https://i.redd.it/gk63qfurgbqb1.jpg). Small stones, coins, an ordinary steel bolt, a guitar pick and rainbow beads are spaced on a desk; deliberate keepsakes mix polished, industrial and personal identity objects.
+- **R-1hrmatr — Lifetime finds display**, hircines_bitch. [Source](https://www.reddit.com/r/goblincore/comments/1hrmatr/); [image](https://i.redd.it/u826r72ckiae1.jpg). A home display combines repurposed compartment boxes, jars, pebbles, hanging jewelry and natural fragments, with everyday clutter and personal fandom images; one lived collection rather than an idealized forest scene.
+- **R-1jmxbdp — Box of natural finds**, BooneThorn. [Source](https://www.reddit.com/r/goblincore/comments/1jmxbdp/); [image](https://i.redd.it/aif4spsfapre1.png). A plain reused corrugated box and zip bags hold pine needles, cones, bark, dried seed heads and moss; storage utility and unspectacular dry fragments are part of the scene.
+- **R-k6275b — Hoard of treasures**, rock-weed-and-dogs. [Source](https://www.reddit.com/r/goblincore/comments/k6275b/); [image](https://i.redd.it/smy7n6spf0361.jpg). A broad personal assortment on pale cloth includes old bottles, coins, a compass, toys, bottle caps, bones, stones and fur; one collection mixes kitsch and rough organic material without a uniform palette.
+- **R-1j4awwr — Found and carved specimens**, leyuel (photograph of sister’s collection). [Source](https://www.reddit.com/r/goblincore/comments/1j4awwr/); [image](https://i.redd.it/mpzyofll5xme1.jpeg). A blue circular tray presents bark, lichen, wasp comb, feathers, butterfly wings, bone and a carved twig with space between each item; texture-led attention to small remnants, photographed by a relative rather than the collector.
+- **R-1u86z5x — Repurposed jewelry holder**, Schmischmel. [Source](https://www.reddit.com/r/goblincore/comments/1u86z5x/); [image](https://i.redd.it/0x33882vqt7h1.jpg). A reused jewelry holder combines uneven barklike black surface, pale green lichen borders, dirt-textured base and ordinary slotted storage, with mixed jewelry; maker text confirms cardboard and reused organizer rather than real bark.
+- **R-113w85r — Moss vial necklace**, fckngoblins. [Source](https://www.reddit.com/r/goblincore/comments/113w85r/); [image](https://i.redd.it/0wjxy4u17lia1.jpg). A tiny corked glass vial is hand-wrapped in irregular silver wire and contains green moss over dark granular material; clear, shiny casing makes a humble specimen precious.
+- **R-1lnovfs — Waxcaps and snail miniature**, TheArcaneMoth. [Source](https://www.reddit.com/r/goblincore/comments/1lnovfs/); [image](https://i.redd.it/rdewvw2xfx9f1.jpg). Glossy green waxcap forms and a small snail stand on yellow stems above a turf-covered round base, with transparent resin droplets and cut-paper grass; damp-looking texture is intentionally fabricated.
+- **R-re5pgk — Bead-embroidered mushrooms**, jaberwakey / KrinConcept. [Source](https://www.reddit.com/r/goblincore/comments/re5pgk/); [image](https://i.redd.it/1epn9idpiy481.jpg). Colorful bead-embroidered mushroom forms have stitched gills, uneven contours, bright blue and violet gems, red caps and white beads, displayed in moss; one coherent series photograph, not twenty separate counts.
+- **R-1hs66vy — Reused-stone mushroom jewelry**, Mayungi. [Source](https://www.reddit.com/r/goblincore/comments/1hs66vy/); [image](https://i.redd.it/34iaqk0wnnae1.jpeg). Handmade clay inkcap, bolete, chanterelle and red mushroom pendants sit beside reused stone fragments, beads and wire jewelry on dark wood; material variety and visible manual shaping matter.
+- **R-ja15x3 — Copper mushroom earrings**, WoodlandMystic. [Source](https://www.reddit.com/r/goblincore/comments/ja15x3/); [image](https://i.redd.it/s6nom9wsqqs51.jpg). Two copper electroformed mushroom clusters have radiating gills, irregular stems, darkened recesses and quartz tips on simple hoop wires; warm metal shine contrasts with organic texture. One paired artifact.
 
 ## Analysis
 
-Goblincore is application-ready only when its signal is distributed across all seven dimensions rather than resting on palette alone. The load-bearing pattern is: affection for overlooked nature + muddy/foraged textures + creature/trinket iconography + rough anti-polish composition. Frontend translation should begin with that pattern, then apply color, texture, shape, and motion as evidence of it.
+### Corpus and source limits
 
-Mention goblin-term sensitivity and avoid greedy-hoard caricatures; preserve queer/community anti-perfection context without stereotyping.
+The Woodland Wandolier supplies fifteen qualifying product families from 26 full product-image inspections. Ten generic botanical/fantasy or insufficient-view boundaries across the whole corpus are excluded; two repeated product families count once. Fifteen qualifying community posts add distinct creators, ordinary hardware, personal collections, repurposing, needlework and sculpture. One closed chest is a boundary because its reported contents were not visible. A gallery, collection or paired object is one artifact, not a count of its contents. Maker commerce and English-language Reddit selection bias remain substantial. Mooniland returned 403, a removed rock post supplied no inspectable object image, and a video lead was not inspected. No videos, downloaded reference files or measured motion.
 
-Source-grounded implementation brief:
+### What the objects establish
 
-### 5) `goblincore`
-- `knowledge/aesthetics/goblincore.md`
-  - Preserve community and anti-perfection framing: affection for overlooked, muddy, creaturely, foraged nature. Source: `fashion-lifestyle.md` / `goblincore`.
-  - Include the naming caveat and community preference for alternate terms in some contexts. Source: `fashion-lifestyle.md` / `goblincore`.
-- `skills/aesthetic-literacy/aesthetics/goblincore.md`
-  - Core dimensions: moss/mud/fungus palette, damp rough textures, asymmetrical trinket shapes, creeping/foraging motion, clustered cabinet-of-curiosities space.
-  - Anti-pattern: tidy `cottagecore` plus mushrooms.
-- Boundary guardrail
-  - Dirt, clutter, creature-love, and anti-polish are required. Source: `fashion-lifestyle.md` / `goblincore`.
+The load-bearing relation is attention to small, overlooked or irregular things, made tangible through collecting, keeping or handmaking. R-1wnt92e and R-16rglop put industrial hardware beside stones; WW-7193788383415 and R-re5pgk introduce strong jewel colors. R-1jlaqpv fabricates distressed leaves and fungi in fiber. R-1u86z5x makes an everyday organizer rough and moss-edged. These contradict a mandatory brown palette, literal dirt, compulsory mess or exclusively natural materials. The carefully spaced tray R-1j4awwr and the printer drawer R-1qmssem show how sorting can preserve curiosity.
+
+### Community and naming context
+
+[Bramley's 2021 reporting](https://www.theguardian.com/fashion/2021/jul/30/goblincore-fashion-trend-embraces-chaos-dirt-mud) documents appreciation of overlooked nature and cautions about antisemitic goblin stereotypes. Community posts above supply direct evidence of personal attachment, handmade work and playful sharing. The nonbinary pin in R-16rglop is a particular participant's object, not demographic proof about the whole scene. Preserve room for queer participation and anti-perfection without assigning politics, identity, dirtiness or behavior to all users. Do not treat religious or culturally specific objects in a collection as neutral decorations to copy.
+
+### Application translation
+
+Use a pocket collection, rummage drawer or specimen notebook in which each small object earns a close look and a personal note. Original irregular SVG objects can contrast rough grain with smooth button, glass or metal highlights. Confine material detail to object fields and borders; keep text on quiet solid surfaces. A readable serif with modest notebook annotations is a proposed type system. Clear object buttons, selected and kept states, duplicate protection and an empty-pocket reset give collecting actual behavior. These controls, tokens, breakpoints and typography are design proposals requiring visual/accessibility testing, not facts measured from still artifacts.
 
 ## Connections
 
-Related aesthetics from the dictionary and candidate set:
-- Distinct from `cottagecore`: Goblincore is muddy, creaturely, cluttered, and anti-pristine rather than pastoral, tidy, and domestic.
+Compared with `cottagecore`, this sample centers small odd finds and material irregularity rather than a general ideal of pastoral domesticity; overlap is possible. `witchcore` can share vessels and crystals, but ritual symbolism alone does not supply collecting or overlooked-life attention. General maximalism can share density while lacking this specific object relationship. A mushroom icon on polished retail cards is insufficient.
 
 ## Research Updates
 
-Initial profile created on 2026-07-08 from the 20-aesthetic expansion synthesis brief and parent research packets. Evidence level is marked limited because this implementation pass preserved source links and source-backed synthesis but did not download a 10+ image corpus for each entry.
+### 2026-11-12 — Direct-media expansion
 
-### Parent research excerpt
+Thirty unique qualifying artifacts replace the earlier one-source image count. Full ledger: 42 inspections, 30 qualifying works, two duplicate versions and ten boundaries. Typography and movement were previously overclaimed; they are now explicitly uncertain. Brown-only, literal-dirt-only and mandatory-clutter claims are corrected by observed exceptions.
 
-## `goblincore` — Goblincore
+### 2026-07-08 — Initial profile history
 
-Evidence count: 1 core source, 1 supporting discovery/source-search context
-
-### Bibliography
-1. Morwenna Ferrier, "Goblincore: the fashion trend that embraces 'chaos, dirt and mud'," The Guardian (2021). https://www.theguardian.com/fashion/2021/jul/30/goblincore-fashion-trend-embraces-chaos-dirt-mud
-2. Search/discovery support: New York Times search result snippet connecting goblincore to cottagecore-family internet aesthetics (2020 search result surfaced via web search, no full text extract). Use as weak corroboration only; do not cite for unique claims.
-
-### Visual evidence summary
-The Guardian is the strongest extracted source here and is surprisingly rich: mushrooms, toads, moss, frogs, worms, animal skulls, mud, snails, slugs, elf ear cuffs, moss quartz jewelry, loose neutral clothing, and the phrase "romanticizes the ugly, lesser appreciated parts of the natural world" ([1]). It also explicitly frames goblincore as rougher, muddier, and more feral than cottagecore, with some occult pickup and a strong online-community base ([1]).
-
-### Seven-dimension synthesis
-- Palette: Moss green, mud brown, fungus beige, peat, damp gray, lichen, frog green, tarnished brass, and autumnal rot colors. Bright clean pastels break the spell unless used as found-object contrast ([1]).
-- Type: Uneven, hand-collected, slightly odd serif/sans mixtures can work; labels should feel foraged, notebooked, or specimen-tagged rather than polished retail. Too-elegant editorial typography pushes it toward cottagecore or dark academia.
-- Texture: Moss, mud, bark, damp leaves, fungus caps, weathered metal, glass vials, bone, stone, and thrifted natural-fiber roughness are central ([1]).
-- Shape: Trinket piles, asymmetry, pockets, pouches, jars, oversized cardigans, loose trousers, mushroom/frog/snail motifs, and found-object silhouettes. Shapes should feel gathered rather than curated into symmetry ([1]).
-- Motion: Skittering, creeping, drifting, rummaging, or foraging rhythms suit it better than smooth luxury motion. But motion should remain cozy/curious, not horror-game menacing.
-- Spatial: Dense clusters, treasure-corner displays, forest-floor scatter, pocketed storage, and cabinet-of-curiosities arrangements. Messiness is part of the signal, but readable focal zones still matter.
-- Cultural markers: mushrooms, frogs, snails, worms, bones/skulls, moss, nature appreciation for the "ugly" or overlooked, anti-capitalist/queer freedom framing, and cottagecore's dirtier cousin positioning ([1]).
-
-### Related-aesthetic boundaries
-- Versus `cottagecore`: this is the key boundary. Cottagecore idealizes tidy pastoral softness, prairie dresses, and sunlit domesticity; goblincore muddies the dress, studies the slug, and prefers the gnarlier forest floor ([1]).
-- Versus `witchcore`: goblincore can borrow occult motifs, but its center of gravity is foraging/creaturely/earthy clutter rather than ritual altar symbolism.
-- Versus `dark-academia`: goblincore is organic, scruffy, and anti-institutional where dark academia is scholastic and library-bound.
-- Versus `maximalism`: goblincore has clutter, but the clutter is foraged/natural/trinket-oriented rather than glamorous or color-saturated.
-
-### Implementation notes for dictionary entry
-- Non-negotiables: affection for overlooked/"ugly" nature + muddy/foraged texture vocabulary + creature/trinket iconography + rough-around-the-edges composition.
-- Connotation mode: contemporary internet/community aesthetic with anti-perfection and anti-consumption undertones ([1]).
-- Downstream entry should preserve community-origin nuance: The Guardian explicitly links it to queerness and anti-capitalism through interview material ([1]); this is culturally important and should not be scrubbed out in favor of "cute mushroom trend."
-- Include naming caution: the source notes that some people avoid "goblin" due to antisemitic associations and prefer mushroomcore or mosscore ([1]). That caution belongs in cultural notes.
-
-### Website-showcase guidance
-Toast/notification is the assigned website component. Best direction: found-object cards, mossy edge textures, specimen labels, frog/mushroom icons, earthy palettes, and slightly uneven stacking. Toasts can feel like pinned notes or jars-with-labels rather than polished glass rectangles. Keep accessibility strong: earthy low-contrast palettes will need careful text/background separation.
-
-### Cultural-sensitivity / caution notes
-Important: The Guardian notes awareness of historical antisemitic references to goblins and that some community members prefer alternate terms such as mushroomcore or mosscore ([1]). Downstream implementation should mention this plainly and avoid greedy-hoard caricature tropes. Also preserve the queer/community framing without stereotyping queer users as a monolith ([1]).
-
-### Unresolved ambiguities
-- Evidence base here is thinner than for the other four aesthetics; one strong mainstream source supports the core cla
+The initial expansion profile was marked limited and linked contextual reporting without a directly inspected visual corpus. Its source attribution and unsupported frequency bands are superseded by this update; the original first-researched date is retained.

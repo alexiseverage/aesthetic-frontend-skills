@@ -1,0 +1,1347 @@
+{
+  "aesthetic": "goblincore",
+  "minimum": 10,
+  "target": 30,
+  "media": [
+    {
+      "record_id": "WW-7193787859127",
+      "artifact_id": "WW-7193787859127",
+      "title": "Flower Power Pendant",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/flower-power-pendant",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/NTcZ95rH9YZggrau5ld3_X3ZnldLN-ub8yLY5yFcmG8.jpg?v=1669144248",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Clear oval pressed-flower pendant with fern, tiny yellow flowers and pale pink stones; botanical jewelry is generic without stronger goblincore grammar, boundary excluded."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 512,
+        "height": 512
+      }
+    },
+    {
+      "record_id": "WW-7265484865719",
+      "artifact_id": "WW-7265484865719",
+      "title": "A Small Enchanted Garden for your Keys",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/a-small-enchanted-garden-for-your-keys",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/Resin165.jpg?v=1673601040",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small resin key objects enclose lichen, fern, seed and flower fragments; found-material collection and mossy presentation combine shiny everyday hardware with organic fragments. One arranged product family, not seven independent examples."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1536,
+        "height": 2048
+      }
+    },
+    {
+      "record_id": "WW-7911710326967",
+      "artifact_id": "WW-7911710326967",
+      "title": "Embossed Terrarium Pendant with Frozen Charlotte, Moss & Ferns",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/embossed-terrarium-pendant-with-frozen-charlotte-moss-ferns",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/IMG-3361.heic?v=1734479369",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Ornate silver hanging frames preserve worn white doll fragments beside moss and tiny leaves, with irregular beads and chains; reclaimed curious objects rather than pristine pastoral nature. Research only; no doll imagery will be used in applications."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "record_id": "WW-7533536739511",
+      "artifact_id": "WW-7533536739511",
+      "title": "Cicada Pendants",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/cicada-pendants",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/08D39BE5-22F0-45C7-83C6-728536A50F7B.jpg?v=1710548521",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Transparent cicada pendants enclose vivid iridescent blue/green inserts, displayed with lichen and pinecones; shiny insect-object appreciation beyond a compulsory muted earth palette."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3023,
+        "height": 4031
+      }
+    },
+    {
+      "record_id": "WW-7193787990199",
+      "artifact_id": "WW-7193787990199",
+      "title": "Cicada Brooch",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/cicada-brooch",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/239849385_10226866193941785_1747134673949206543_n.jpg?v=1669144253",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small modeled cicada brooches with ornate vein relief, metallic gold outlines and jewel blue/purple/green bodies; overlooked insect shape combined with collectible shiny finish."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1536,
+        "height": 2048
+      }
+    },
+    {
+      "record_id": "WW-8706473459895",
+      "artifact_id": "WW-8706473459895",
+      "title": "Fae Hooters \u2014 Handmade Owl Pins",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/fae-hooters-handmade-owl-pins",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/563B8964-3DB2-4D04-98E1-31FBE33B457C.jpg?v=1786404054",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Cute stylized owl pins with floral impressions, dangling colored beads and bells; primarily fairy/animal ornament and too generic to define goblincore alone."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1199,
+        "height": 1599
+      }
+    },
+    {
+      "record_id": "WW-8697920487607",
+      "artifact_id": "WW-8697920487607",
+      "title": "Forest Floor Vignette Pins",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/forest-floor-vignettes",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/A92E7FFF-855E-4F54-82EC-FA1F8D3B3095.jpg?v=1785897043",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Irregular bark-brown modeled brooch with blue cup fungi, leaf relief, moss green texture and dangling beads, bell and seedpod forms; overlooked forest-floor fragments become a functional ornament."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "record_id": "WW-8697920356535",
+      "artifact_id": "WW-8697920356535",
+      "title": "Salty Snail, A Forest Brooch",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/salty-snail",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/E1FF98AD-A001-4676-8F3A-CCC83B47F53D.jpg?v=1785895887",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Copper-orange spiral snail shell carries uneven white and red mushrooms, modeled green moss and a tiny corked bottle of pink grains; a miniature assembled curio rather than a botanical print."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "record_id": "WW-8695593500855",
+      "artifact_id": "WW-8695593500855",
+      "title": "Wiggler in a Stump \u2014 Handmade Sculptural Brooch",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/wiggler-in-a-stump-handmade-sculptural-brooch",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/1E8E06EB-8253-4B61-B8DF-8E7BAB2D199A.jpg?v=1785716826",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sculptural bark-textured stump brooch includes a curving worm, grass and tiny yellow fungi, photographed among real lichen and seedpods; rough small life supplies its ornament."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 4284,
+        "height": 5712
+      }
+    },
+    {
+      "record_id": "WW-8692650868919",
+      "artifact_id": "WW-8692650868919",
+      "title": "Forest Floor Pins",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/forest-floor-pins-tiny-woodland-residents",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/300BEE18-6AA1-4232-8D34-27B6691F837F.jpg?v=1785652805",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Four handmade red-and-white mushroom pins shown with irregular caps and modeled gills, two face-on and two side-on; one product family, with moderate aesthetic specificity."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "record_id": "WW-8688357114039",
+      "artifact_id": "WW-8688357114039",
+      "title": "Felix Felicis Ampoule Pendant",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/felix-felicis-ampoule-pendant",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/EDF9F03A-243C-418A-9AE0-BCEC626037D2.jpg?v=1785200830",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three polished glass ampoules contain bright glitter liquids with copper caps and a LUCK charm; chiefly fantasy potion jewelry, weak evidence for found-natural-object appreciation."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "record_id": "WW-8551993966775",
+      "artifact_id": "WW-8551993966775",
+      "title": "Handmade Mushroom Hair Pins: Goblincore pair",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/handmade-mushroom-hair-pins-goblincore-pair",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/68DCA26C-571F-498A-AFF1-0ECE8E786A52.jpg?v=1777325893",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pair of ochre mushroom hair pins uses deep uneven gills, folded caps and barklike texture as an everyday functional ornament; one paired work."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "record_id": "WW-7066511999159",
+      "artifact_id": "WW-7066511999159",
+      "title": "Floral Butterfly Necklace",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/its-always-summer-necklace",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/228239320_10226781327180169_629339492825900245_n.jpg?v=1669144127",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Clear butterfly silhouette with bright pressed flowers and polished red beads; generic floral ornament rather than rough forest-floor collecting."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 526,
+        "height": 701
+      }
+    },
+    {
+      "record_id": "WW-8578496299191",
+      "artifact_id": "WW-8578496299191",
+      "title": "Cicada Pendants \u2014 Wholesale",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/cicada-pendants-wholesale",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/239849385_10226866193941785_1747134673949206543_n_1024x1024_2x_04d493dc-778c-4a90-9367-2474f59e9c4a.jpg?v=1780191789",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Wholesale group repeats the modeled metallic cicada brooch forms, with blue-green iridescence and gold vein relief; a second sales listing does not make a new artifact."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1536,
+        "height": 2048
+      },
+      "duplicate_of": "WW-7193787990199"
+    },
+    {
+      "record_id": "WW-7266643083447",
+      "artifact_id": "WW-7266643083447",
+      "title": "Leafy Green Hair Sticks",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/leafy-green-hair-sticks",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/image_32e87548-5ae8-47d1-ad79-dc1a2e46cba3.heic?v=1673898799",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Smooth green hair sticks end in leaves, vine relief and crystal points; a polished botanical-fantasy boundary rather than strong collecting evidence."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1705,
+        "height": 2273
+      }
+    },
+    {
+      "record_id": "WW-7266050310327",
+      "artifact_id": "WW-7266050310327",
+      "title": "Charmed Hair Sticks",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/charmed-hair-sticks",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/240070036_10226867327050112_7623580177648062177_n.jpg?v=1673752934",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Spiraling metallic handles with crystal tips and bead charms; fantasy tools with insufficient distinctive forest-floor detail."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1874,
+        "height": 2048
+      }
+    },
+    {
+      "record_id": "WW-7948110266551",
+      "artifact_id": "WW-7948110266551",
+      "title": "Enchanted Forest Stump Pendant \u2013 Hand-Sculpted Fantasy Jewelry",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/sweet-stumpy-forest-pendants-copy",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/E0A78057-87CA-4BB1-A026-8C0EDB817493.jpg?v=1738124226",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Rough modeled stump pendants have bark furrows, irregular holes, leaf growth and bulbous mushrooms around crystal roots; organic miniature objects with jewel highlights."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "record_id": "WW-7332317200567",
+      "artifact_id": "WW-7332317200567",
+      "title": "Deep Woods Portal Pendant",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/deep-woods-portal-pendant",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/image_8f5c31fe-b25b-410d-9cc2-ccd1a19d885e.heic?v=1684606317",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small circular glass pendant encloses pale lichen, wiry strands and tiny natural fragments, photographed at moss-covered bark; a close-view curio with visible specimen irregularity."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3023,
+        "height": 4031
+      }
+    },
+    {
+      "record_id": "WW-7275780898999",
+      "artifact_id": "WW-7275780898999",
+      "title": "Wildwood Magic Vessel Necklaces",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/wildwood-magic-vessel-necklaces",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/image_689b279b-ebc4-451d-aed8-0a138976a2eb.jpg?v=1675417688",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Corked miniature vessels have irregular leaf, root and twig relief wrapped around their glass bodies, with earthy brown and iridescent green highlights."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1950,
+        "height": 1950
+      }
+    },
+    {
+      "record_id": "WW-7275769659575",
+      "artifact_id": "WW-7275769659575",
+      "title": "Magical Amanita Muscaria Crystal Pendants and Ornaments",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/amanita-muscaria-crystal-pendant",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/846D101B-ADC6-4A23-ADCE-E29F92DAE038.heic?v=1699947294",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Red-and-white gilled mushrooms grow into quartz points in coffin-shaped presentation boxes, with pale lichen and small cones; one product family, gothic crossover."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3024,
+        "height": 4032
+      }
+    },
+    {
+      "record_id": "WW-7275749966007",
+      "artifact_id": "WW-7275749966007",
+      "title": "Sweet Stumpy Forest Pendants",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/sweet-stumpy-forest-pendants",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/image_c6a06967-2423-440e-8fbc-43a1f0ebe5c1.heic?v=1675418077",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The older stump pendant listing shows the same bark, leaf and mushroom vocabulary as the newer stump family; conservatively grouped as one work."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1947,
+        "height": 2596
+      },
+      "duplicate_of": "WW-7948110266551"
+    },
+    {
+      "record_id": "WW-7193788383415",
+      "artifact_id": "WW-7193788383415",
+      "title": "Crystal Mushroom Pendants",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/crystal-mushroom-pendants",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/jewelry168.jpg?v=1663117032",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Four sculpted mushroom crystal pendants have pitted stems, asymmetrical caps and unusually bright blue, magenta and metallic violet surfaces; earth brown is not compulsory."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1440,
+        "height": 1440
+      }
+    },
+    {
+      "record_id": "WW-7193788219575",
+      "artifact_id": "WW-7193788219575",
+      "title": "Enchanted Forest Bracelet",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/enchanted-forest-bracelet",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/261215970_10227479084343662_643163963615897118_n.jpg?v=1669144261",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": true,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Clear resin bangle encloses irregular pale lichen and a fern fragment with visible natural branching; rough specimens contrast with smooth functional casing."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 2048,
+        "height": 1536
+      }
+    },
+    {
+      "record_id": "WW-7066512523447",
+      "artifact_id": "WW-7066512523447",
+      "title": "Little Butterfly Blue necklace",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/little-butterfly-blue-necklace",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/239675089_10226865885494074_6935461912764858290_n.jpg?v=1669144144",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Symmetrical butterfly outline, glitter and polished blue glass beads; generic botanical-fantasy jewelry boundary."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1536,
+        "height": 2048
+      }
+    },
+    {
+      "record_id": "WW-6639799435447",
+      "artifact_id": "WW-6639799435447",
+      "title": "Botanical Terrarium Pendant",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/resin-jewelry-pressed-flower-pendant-terrarium-jewelery-gift-for-her-forest-witch-flower-and-leaves",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/products/il_fullxfull.2931533157_khbs.jpg?v=1669144119",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Oval polished pendant presents a yellow flower and a small leaf, without strong rough collecting or overlooked-life emphasis; generic pressed-flower boundary."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 1440,
+        "height": 1440
+      }
+    },
+    {
+      "record_id": "WW-6639793766583",
+      "artifact_id": "WW-6639793766583",
+      "title": "Resin jewelry - Pressed flower pendant - Terrarium jewelery - Gift for her - Forest witch",
+      "creator": "The Woodland Wandolier",
+      "source_url": "https://thewoodlandwandolier.com/products/resin-jewelry-pressed-flower-pendant-terrarium-jewelery-gift-for-her-forest-witch",
+      "media_url": "https://cdn.shopify.com/s/files/1/0538/0040/3127/files/5260E90C-65B0-41D5-B26D-2110A18119DD.jpg?v=1738034295",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "qualifying_example": false,
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large oval clear pendant preserves white flower petals and a heart-shaped pink leaf against black; generic botanical jewelry boundary."
+        }
+      ],
+      "handling": "Linked transient analysis only; maker copyright, no production reuse.",
+      "generated": false,
+      "downloaded": false,
+      "original_dimensions": {
+        "width": 3023,
+        "height": 4031
+      }
+    },
+    {
+      "record_id": "R-1qmssem",
+      "title": "Curio shelf",
+      "creator": "General_Ignoranse",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1qmssem/",
+      "media_url": "https://i.redd.it/0vu40ewprjfg1.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Worn printer-drawer compartments hold rough stones, shells, a pinecone, colored glass, tiny tins and figurines; one collection photograph, with object color against dark timber. Cultural and religious objects retain their own meanings."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1qmssem",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1jlaqpv",
+      "title": "Embroidered forest hoard",
+      "creator": "bluehydrangea",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1jlaqpv/",
+      "media_url": "https://i.redd.it/1k75drb0y9re1.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Hand-embroidered moth, perforated autumn leaves, lichen-covered twigs, nest, feather and fungi rest on pale ground; visible stitches and damaged leaf edges celebrate small and overlooked forms. One coherent fiber-sculpture collection."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1jlaqpv",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1wnt92e",
+      "title": "Shinies collection",
+      "creator": "dead-in-a-swamp-lmao",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1wnt92e/",
+      "media_url": "https://i.redd.it/3p260yxmi6rh1.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A wooden tabletop holds sorted clusters of stones by color beside bent nails, bolts, bottle caps, keys, toys and jewelry fragments; vivid manufactured shine coexists with earthy material. One collection, not every object separately."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1wnt92e",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1j1oa4j",
+      "title": "Trinket collection",
+      "creator": "ratprince85",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1j1oa4j/",
+      "media_url": "https://i.redd.it/82aubn52b9me1.jpeg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dense pale-ground arrangement of tiny keys, worn tins, teeth, glass marbles, charms, minerals, buttons and bright plastic pieces; sentimental small objects exceed a forest-only or brown-only palette. One collection."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1j1oa4j",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-16rglop",
+      "title": "Stuff collection",
+      "creator": "fynnelol",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/16rglop/",
+      "media_url": "https://i.redd.it/gk63qfurgbqb1.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small stones, coins, an ordinary steel bolt, a guitar pick and rainbow beads are spaced on a desk; deliberate keepsakes mix polished, industrial and personal identity objects."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-16rglop",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1hrmatr",
+      "title": "Lifetime finds display",
+      "creator": "hircines_bitch",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1hrmatr/",
+      "media_url": "https://i.redd.it/u826r72ckiae1.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A home display combines repurposed compartment boxes, jars, pebbles, hanging jewelry and natural fragments, with everyday clutter and personal fandom images; one lived collection rather than an idealized forest scene."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1hrmatr",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1j93qep",
+      "title": "Inherited button chest",
+      "creator": "Wild_Individual2224",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1j93qep/",
+      "media_url": "https://i.redd.it/kibeyr2s05oe1.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": false,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Only the closed nautical wooden chest is visible in the first full image; the reported buttons are not visible. Boundary evidence for a worn container, excluded from the qualifying corpus."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1j93qep",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1jmxbdp",
+      "title": "Box of natural finds",
+      "creator": "BooneThorn",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1jmxbdp/",
+      "media_url": "https://i.redd.it/aif4spsfapre1.png",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A plain reused corrugated box and zip bags hold pine needles, cones, bark, dried seed heads and moss; storage utility and unspectacular dry fragments are part of the scene."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1jmxbdp",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-k6275b",
+      "title": "Hoard of treasures",
+      "creator": "rock-weed-and-dogs",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/k6275b/",
+      "media_url": "https://i.redd.it/smy7n6spf0361.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A broad personal assortment on pale cloth includes old bottles, coins, a compass, toys, bottle caps, bones, stones and fur; one collection mixes kitsch and rough organic material without a uniform palette."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-k6275b",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1j4awwr",
+      "title": "Found and carved specimens",
+      "creator": "leyuel (photograph of sister\u2019s collection)",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1j4awwr/",
+      "media_url": "https://i.redd.it/mpzyofll5xme1.jpeg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A blue circular tray presents bark, lichen, wasp comb, feathers, butterfly wings, bone and a carved twig with space between each item; texture-led attention to small remnants, photographed by a relative rather than the collector."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1j4awwr",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1u86z5x",
+      "title": "Repurposed jewelry holder",
+      "creator": "Schmischmel",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1u86z5x/",
+      "media_url": "https://i.redd.it/0x33882vqt7h1.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A reused jewelry holder combines uneven barklike black surface, pale green lichen borders, dirt-textured base and ordinary slotted storage, with mixed jewelry; maker text confirms cardboard and reused organizer rather than real bark."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1u86z5x",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-113w85r",
+      "title": "Moss vial necklace",
+      "creator": "fckngoblins",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/113w85r/",
+      "media_url": "https://i.redd.it/0wjxy4u17lia1.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A tiny corked glass vial is hand-wrapped in irregular silver wire and contains green moss over dark granular material; clear, shiny casing makes a humble specimen precious."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-113w85r",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1lnovfs",
+      "title": "Waxcaps and snail miniature",
+      "creator": "TheArcaneMoth",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1lnovfs/",
+      "media_url": "https://i.redd.it/rdewvw2xfx9f1.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Glossy green waxcap forms and a small snail stand on yellow stems above a turf-covered round base, with transparent resin droplets and cut-paper grass; damp-looking texture is intentionally fabricated."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1lnovfs",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-re5pgk",
+      "title": "Bead-embroidered mushrooms",
+      "creator": "jaberwakey / KrinConcept",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/re5pgk/",
+      "media_url": "https://i.redd.it/1epn9idpiy481.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Colorful bead-embroidered mushroom forms have stitched gills, uneven contours, bright blue and violet gems, red caps and white beads, displayed in moss; one coherent series photograph, not twenty separate counts."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-re5pgk",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-1hs66vy",
+      "title": "Reused-stone mushroom jewelry",
+      "creator": "Mayungi",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/1hs66vy/",
+      "media_url": "https://i.redd.it/34iaqk0wnnae1.jpeg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Handmade clay inkcap, bolete, chanterelle and red mushroom pendants sit beside reused stone fragments, beads and wire jewelry on dark wood; material variety and visible manual shaping matter."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-1hs66vy",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    },
+    {
+      "record_id": "R-ja15x3",
+      "title": "Copper mushroom earrings",
+      "creator": "WoodlandMystic",
+      "source_url": "https://www.reddit.com/r/goblincore/comments/ja15x3/",
+      "media_url": "https://i.redd.it/s6nom9wsqqs51.jpg",
+      "media_type": "still",
+      "inspection": "full-size",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "review_status": "original",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two copper electroformed mushroom clusters have radiating gills, irregular stems, darkened recesses and quartz tips on simple hoop wires; warm metal shine contrasts with organic texture. One paired artifact."
+        }
+      ],
+      "rights_status": "Copyright retained by creator; analytical inspection only; no production reuse",
+      "downloaded": false,
+      "artifact_id": "R-ja15x3",
+      "accessed_at": "2026-11-12",
+      "generated": false,
+      "handling": "Transient full-original analytical inspection; creator copyright retained, no downloaded reference file and no production reuse."
+    }
+  ]
+}

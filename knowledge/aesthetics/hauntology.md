@@ -2,10 +2,10 @@
 slug: hauntology
 label: Hauntology
 first_researched: "2026-07-08"
-last_updated: "2026-07-08"
+last_updated: "2026-11-12"
 source: mixed
-image_count: 5
-evidence_level: limited
+image_count: 32
+evidence_level: standard
 new_aesthetic: false
 aliases: ["cultural hauntology", "lost-futures aesthetic", "Ghost Box-adjacent"]
 ---
@@ -14,108 +14,83 @@ aliases: ["cultural hauntology", "lost-futures aesthetic", "Ghost Box-adjacent"]
 
 ## Dimension Synthesis
 
-| Dimension | Canonical (≥70%) | Common (30–70%) | Variant (<30%) |
+Thirty-two unique qualifying sleeves among 35 full-image inspections. Recurrence below is qualitative within a deliberately British record-art sample, not a population percentage. Twenty Julian House/Ghost Box designs, ten Frances Castle/Clay Pipe works and two Ivan Seal/Caretaker covers represent three principal visual practices, not 32 independent design traditions.
+
+| Dimension | Observed grammar | Variation / limits | Confidence |
 |---|---|---|---|
-| Palette | Nicotine beige, faded mustard, moss green, smoke gray, washed brown, institutional cream, oxidized teal, and dusk black. | Neighbor palettes only when the object model remains intact | Accessibility-first simplifications with solid contrast fields |
-| Type | Mid-century educational sans, modest serif captions, library-music sleeve type, schoolbook labels, and broadcast-era kerning. | Support labels and metadata tuned to the domain | Decorative display accents used sparingly |
-| Texture | Paper aging, tape hiss as grain, vinyl crackle, photocopy softness, film dust, print fade, halftone, and scanlines. | Interface chrome that preserves source material logic | Flatter reduced-texture variants for legibility |
-| Shape | Sober rectangles, caption boxes, modest circles, diagrams, map markers, institutional frames, and title-card layouts. | Repeated UI modules echoing the source object model | Softened modern component variants |
-| Motion | Slow drift, loop, dissolve, flicker, projector jitter, tape wobble, and ghosted reveal. | State transitions linked to the core workflow | Static print-first or reduced-motion fallbacks |
-| Spatial | Archival title cards, isolated ephemera, educational panels, booklet/page spreads, and public-information sequencing. | Secondary panes/lists that preserve scan order | More spacious marketing adaptations |
-| Cultural markers | BBC Radiophonic Workshop, Ghost Box, library music, children’s television idents, public-information films, analog decay, and lost futures. | Domain vocabulary and object-specific affordances | Broader adjacent-pop-culture references |
+| Palette | Cream grounds with mustard, teal, green, red or brown ink; monochrome imagery beside restricted spot color. | GB-17 is intensely multicolored; GB-20 is saturated orange/red; IS-1 has cyan against ochre. Muted sepia is not mandatory. Colors are visual estimates. | High in this sleeve sample. |
+| Type | Bold plain sans, publisher marks, catalog numbers and rules organize many Ghost Box sleeves; Castle also uses curling serifs and quiet captions. | GB-13 uses custom geometric display lettering; the two Seal covers have no prominent typography. No exact font identification was established. | High for broad treatments, low for exact fonts. |
+| Texture | Halftone, photocopy-like edges, overprint, weathered print and painterly grain interrupt otherwise ordered designs. | Clean cream fields and crisp type often remain; global damage is unnecessary. Surface appearance does not establish a printing process or physical foil. | High for visible effects. |
+| Shape | Series circles, rules, rectangular labels, cut-out photographs, diagrams and displaced landscape fragments. | Seal supplies uncertain isolated painted objects rather than a diagram system. Faces in references are analytical evidence, not reusable decoration. | High. |
+| Motion | No moving image or audio was inspected. | Flicker, wobble, looping and dissolve are possible application choices, not verified defining motion here. Manual frame changes or intentional stillness preserve reading. | Unknown as observed movement. |
+| Spatial | Reassuring catalog order collides with incompatible scales, eras, fragments or uncertain object identity. Landscape imagery can sit within a sober series identity. | Dense collage and large empty fields both occur; no compulsory dashboard or distressed scrapbook layout. | High. |
+| Cultural markers | British library-record, educational-media and remembered public-broadcast references are supported by House and Reynolds; Castle supplies specific local histories. | This corpus cannot establish worldwide or American variants. The Caretaker's artistic memory-loss framing is not a clinical model. | High for attributed context, bounded for generalization. |
 
 ## Image Descriptions
 
-1. [https://en.wikipedia.org/wiki/Hauntology_(music] — Source evidence for Hauntology: used to ground history, visual vocabulary, cultural framing, and boundary cautions.
-2. [https://mediatedsignals.com/2021/02/13/remapping-cultural-hauntology-an-american-perspective] — Source evidence for Hauntology: used to ground history, visual vocabulary, cultural framing, and boundary cautions.
-3. [https://ghostbox.greedbag.com] — Source evidence for Hauntology: used to ground history, visual vocabulary, cultural framing, and boundary cautions.
-4. [https://schoolofmusic.ucla.edu/cultural-ghosts-hauntology-and-the-caretaker] — Source evidence for Hauntology: used to ground history, visual vocabulary, cultural framing, and boundary cautions.
-5. [https://dukespace.lib.duke.edu/bitstreams/27f2252d-3a4f-4c7f-8530-b924e92dd0e5/download] — Source evidence for Hauntology: used to ground history, visual vocabulary, cultural framing, and boundary cautions.
+Full-media ledger: [35 source records](../media-audits/hauntology.json). Images were viewed complete at publisher-served resolution, not counted from catalog thumbnails. One cover or coherent composition counts once.
+
+- **GB-1 — Farmer's Angle**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/farmers-angle-0/); [image](https://new.openimp.com/d/zypEVsjvDAocDb5WqDwiPLDyRFo1q9nyjE94GBLl-KsqW8n9_MnKdXS8hJetid_rizFlZtRGmlpaBeJbLWcFmw/98422/a24268a33d016557e8fd4c47fd2e8c1684d8be4f32ec93b1601dc5a7eb9d07b6/117955824400054.webp). Yellow top identifier band, white title strip, bold black sans and small catalogue number sit above a yellow-tinted pastoral photograph; familiar institutional series design frames an ambiguously remembered landscape.
+- **GB-2 — The Willows**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/the-willows-0/); [image](https://new.openimp.com/d/xl7i206Afh_Jp1EsW8ladRQPwWd83D89_EyVAWUFcIi2-dib4Lglw7vancnqVNVXIk8kNQtIvHh32xCT6RCC3A/61296/dee45135d6cf2c75277e96cefe6386047f5f3f6d786d79e87da74e44751c0e82/117955765180054.webp). Bright cyan field, white title strip and heavy black sans accompany a high-contrast cut-out molecular model; educational/scientific fragment gains an uncanny oversized crop.
+- **GB-3 — Sketches and Spells**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/sketches-and-spells/); [image](https://new.openimp.com/d/oqpJCxBjgqXtNs91ge4UCh8MqBeM9pVkXqt3t1Q-wihPz1hi8-viI00md7yV6OTdMY2OoNkxia6oLiN5e7K6bw/320678/e27a39122c891dbc5dc8b25af4adb2b7517b818a4f1d2872906e6d9c27626e8c/117955764500054.webp). Mustard yellow, white title band and bold black two-line name overlap a dense halftone collage of angular fragments, circles and stars; regulated series grid meets disrupted reproduction.
+- **GB-4 — Ouroborindra**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/ouroborindra/); [image](https://new.openimp.com/d/dm_wPo0StrviVzelUFkWTgAXZ_J82z_cXvaAFPZ0q-Eb7bo5Aur6k6xDaJ0IAwj2zHTOma2XWW6SaLMALUL41g/199548/c8c60ef73ed7ca8ac7ce370cfb0adc38f7cd7d8720ebe3e666ceae94da7063f1/117955763030054.webp). Purple field and white title band hold a black halftone curving ring, radiating lines and a single cut-out eye; abstract geometry and dislocated fragment undermine a textbook-like wrapper.
+- **GB-5 — Hey Let Loose Your Love**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/hey-let-loose-your-love-0/); [image](https://new.openimp.com/d/iRLQb630N9zQ6ElPyeM_PlKCGivfvPuVJrLvnBWMGatCDUBmZzUnrO1ZfvTsSXkt-0Oh3JPGwPRp6_dhAn2QeQ/28002/ee45e5af54d5812c53bd57d94f8d45406924b79e0d7f238d4be55c6e406c0855/117955760080054.webp). Monochrome cover breaks the usual colored band: huge tightly stacked lowercase type overlaps dislocated eye collages and a cropped hand, with dotted rules and tiny series number.
+- **GB-6 — Mind How You Go**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/mind-how-you-go-0/); [image](https://new.openimp.com/d/Jpff5OP8L1efZ_wGY6a49fJrJ49dGyssWyc9MposmpMQ_XY2D1NV4B6sO-h9T0AmlUaFnbzlEsCtvM_Ik6DdzA/34690/a15d2fb88bf071ba8d802c8a2437487725831d5bd4782b9b83de85f757601405/117955756530054.webp). Vivid green and white series bands, large black triangular/keyhole geometry and white dot clusters create an educational safety-sign ambiguity; clean flat areas coexist with uncanny symbol scale.
+- **GB-7 — The Séance at Hobs Lane**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/sance-at-hobs-lane-0/); [image](https://new.openimp.com/d/HIl9MPbljPymMmFm31IwBd5kk6tUl1QJDyHpXYa_SKheg0XMoYkQAvOJei-vcUUJtXLjV2gA-d8NPzbb1oRwAA/97108/7160c1637d3c10c5a396b71b487554a0c5df16c08dd02d9043cc005533e6ed29/117955754640054.webp). Saturated red field, plain white stacked sans and dotted rules accompany superposed monochrome mask/effigy fragments and tiny moving figures; collage is culturally specific rather than neutral ornamental imagery.
+- **GB-8 — Empty Avenues**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/empty-avenues/); [image](https://new.openimp.com/d/F3VjTcpSjEaQ391IZLy0xn3r4QhKlytzpqo3-TNiJ_9ugu3vWxacGBk1J2ymBfw2jodqQ59YJ6SzfmTHN1vAHA/159672/efa6d6bf05d1a5a89a922a2d81cc1fbc2df768980ff5a6b57165768107f67d8c/117955913530054.webp). Red, yellow and green overprinted geometric masks combine cropped architecture, gears and a drawn star; mixed light and heavy sans lettering overlays a visibly degraded collage, departing from early white title bands.
+- **GB-9 — The Apple Tree**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/the-apple-tree-3/); [image](https://new.openimp.com/d/e7fYH_hht18_vTl5x5hpX2DNtqR6EO3_NVvc-kT1SjMLqkZ96bX_A83tviP4phJ7AiDGErXu-2nDGw_IzLV_4g/255492/2d63e6e6c27b2de4ab421847ca5705ce03c472d4920c8a4ebcb27ab13b9c0732/117955859570054.webp). Large green apple/tree silhouette overlaps a red-orange round backdrop, serif decorative title and faint handwritten phrases; misregistered translucent layers and worn paper texture create an uncertain nursery-book recollection.
+- **GB-10 — New Ways Out**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/new-ways-out-0/); [image](https://new.openimp.com/d/FAtBJX0Ci3rh9xxLXh4R4Sa5uwditoSuZM59ywOaaU-DA_p5Z9BaTzflP1lNaYRJkvdC8dcwgmrr337_TGAqbQ/301418/55afcc1965cba626479a29ef48bafbd46670141642fe5bdef873ce7a135300e5/117955972690054.webp). Black field, red-green blurred photographic repetition and fine white parallel-line display lettering create optical instability; tiny plain artist/label text supplies hierarchy, without a white institutional band.
+- **GB-11 — Peel Away the Ivy**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/peel-away-the-ivy/); [image](https://new.openimp.com/d/AhEl8qp5MV8hMPFF_2YJGvUfJepUx4JCx_peCLlX2ZAOJCyFiI2D3Sjb3ucjxHesLQuP_XM_zm9XzDJFk6EeWg/266392/4fe1a8aab4d9220460f6a32200e14a29cbfc4c1697f27ecff9314dd9910fdb89/117956464630054.webp). Weathered green and tan field contains a circular halftone woodland image, a second tilted landscape crop and cream curling serif title; faded layering turns pastoral imagery into mediated memory.
+- **GB-12 — Im Hag**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/im-hag/); [image](https://new.openimp.com/d/jCjzoIq_2TKlbu9HbBFO7GMzBVtthNQdlQSwEoY8JhDDw1alv7RFuVVRkL4M7AezAWysq3AhnvBaKih_p1clSg/151084/7e79ea5b3a8f84c14da4be57886ec0bae1bdbc749b6417ef52ceb3189be04e98/117956463960054.webp). Purple architectural photocopy fragments sit below an enormous diagonal sawtooth/shadow shape; plain dark sans title, thin rule and cream label area retain a publication-like structure with severe color overlay.
+- **GB-13 — Outward Journeys**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/outward-journeys-0/); [image](https://new.openimp.com/d/Xy4YN-eWXzq5xy-ndzH-zfoNrr19_okeGZDcxy8zwTDqmekdDnhWXjAQPSQzOfyXG-s166Z41D8FmlkiLO0t7w/516100/f8dfba8eb45062be391f8162c7ede7b94e23ef384df83b05f28c85dc6596a274/117955955310054.webp). Cream publication field with rainbow diagonal stripes and catalogue number, wide geometric custom display lettering and split halftone image of a glowing sky above a receding checkerboard; orderly frame holds a dislocated perspective.
+- **GB-14 — The Invisible World of Beautify Junkyards**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/the-invisible-world-of-beauitfy/); [image](https://new.openimp.com/d/D6njOc9qtJL1lt1vTB0AXx-hwAF-eMB65jLFmfIy5DpNWZrDgWfb9IxjYojh0ZF8gc7E39ayvCD1Ts9YFEBh7A/230158/c0057a1bcd49b9587da2c4ca354187bc155838d7670ea1f2d24ec2324d998f2b/117956463460054.webp). Forest-green grainy woodland scene includes monochrome cut-out people and a horse, with an impossibly cyan-yellow foreground figure; ornate enlarged initials and condensed title exceed a purely sans institutional template.
+- **GB-15 — Ways of Seeing**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/ways-of-seeing-0/); [image](https://new.openimp.com/d/ZbE-LrYZ5-_ye0y0xVDQ6AIE4fpW1N97f9-YrrlB2W39kb1L8izY_k7_gztMqoGGJ6LSTcgLYMk8mKqae48zeQ/49422/69efb4f7d16038f38e409e02337bf821c83f40f2d4237ca0cb6022ca0bce4992/117956246980054.webp). Gold-toned broad field with black film perforation row and tiny catalogue identifier; giant stacked heavy serif title incorporates an aperture motif. Print reflectance cannot be established from this still.
+- **GB-16 — Chanctonbury Rings**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/chanctonbury-rings-0/); [image](https://new.openimp.com/d/4De82vd80YE9ncEar2I-gW_UgDBk5p8q-_G8mDHagjugDCwkUBbqIhVWIteOf9-MCkQsO77sNy7fJZNJ2P4vPQ/213554/f7523d5529628de82727f18670a373a8d87fbddc8593c915d4ad2e6e57b4ff9d/117955972230054.webp). Cream and olive weathered field, simple mustard uppercase title and tiny subtitle overlay a roughly reproduced wooded hill, path and displaced circle; paper streaks interrupt the apparently documentary countryside.
+- **GB-17 — Puzzlewood**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/puzzlewood-black-vinyl/); [image](https://new.openimp.com/d/OaWK0ZobEhYNvTiQQzeV54IYOy8E8VDUZpo4pdFNqT0THn6w2mlb3W4hfWAwmSVnkxiT6U3n-KEmGdhgBZTBUw/105406/017bda09359617cad186146f3a4503d61f16f5d0b8910bad312b5f95f16cda49/117956463140054.webp). Hot magenta, green, yellow and red collage combines fragmented lettering, ears, clock numerals, organic tubes, tabletop grid and halftone dots; saturated psychedelia is a counterexample to mandatory fading or muted color.
+- **CP-9 — Adlestrop (3rd Press)**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/adlestrop/); [image](https://new.openimp.com/d/mFfKOpJJ-MwRYoi3zvzhFp1fRBGATMvYtiTFB-TgiqeGuvo22eDAKFJ7jEHZWsmrWwE9GYu61OKpb8iHXRZasg/78478/04668db71980496ac843c3a27e9f4394892bb21a09983c5aee04b4657a99b98c/117955610990054.webp). Blue railway carriage fills the cover, a dark passenger silhouette and reflected rural landscape visible through green windows; small yellow/green sans title sits on the door, with worn painterly surfaces.
+- **CP-10 — Over The Tracks**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/over-the-tracks/); [image](https://new.openimp.com/d/-R9D-99YK4euRbJeOsF0yox4xVWDVe16BcIQzx_ITHT1cg-_6XCZI39ZTRcFX3dfbxXmiI_nWAoYQgiyDihptA/310952/3e3afcecabcbaf08aa2142a9fb6685392b244b1f8ac614a386bf993c937f643a/117955873180054.webp). Steam railway tracks converge into a deep green station scene while sweeping white smoke dissolves into cream blank space; small red buffer and broad sans title provide controlled accents.
+- **CP-11 — The Green Line**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/the-green-line-0/); [image](https://new.openimp.com/d/5KnSyUd6KeufJnxtoWFLp8sfoViZBI7lVkKk-0phJiQg_5vsN6V3319sVY9IaLEpg6OQp2vf43M5y2hivyEUeA/78134/a4947246bda90466686f256323b2eed0f1677ad5dfc1e0555c4548fd8cd014c4/117955873230054.webp). Close crop of a green bus shows a shadowed passenger and landscape reflections, rounded windows, rivets and tire; simple title on bodywork makes transport itself the remembered artifact.
+- **CP-13 — All the Hours**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/all-the-hours-0/); [image](https://new.openimp.com/d/_SMzaeFMYfy1eyYK-kowzYDEQRka__Q5wWXfHjMCJHcQPsO4gYOpXRDvs8CiEu2HIwmgAVgLGluKELJFUMpIyw/95598/26c7a7933fe81191ce41ab27bbadad94e8e8104f880bc77ef2f059675f6911bb/117956561940054.webp). Bright turquoise sky, green title band and black/orange roofline with churchlike finial use flat drawn shapes with rough brushed cloud and masonry marks; a clearly illustrated rather than photo-collage variant.
+- **CP-14 — Common Grounds**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/common-grounds-2/); [image](https://new.openimp.com/d/i4fzfMyCmtiWFjSOxIri2qaaBEjKIKu7hn5XgLcsKbZnlSmLiJ2hnKpn5NiRKU9uMzmCDFFb2p6L2NvG6IfvBw/240992/04c215d0ec0d1f5c96d3dd1b84d65d1a90263bd335f889c678cdc8b48c948f6b/117956562390054.webp). An empty-looking brick street at dusk contains faint floating figures, a huge red sun and lamplit windows; pale serif title contrasts with teal haze and worn drawing texture, making familiar domestic space temporally uncertain.
+- **CP-20 — Through Passages of Time.**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/through-passages-of-time-1/); [image](https://new.openimp.com/d/d14AIhMObbhCCjpCuyqyE2HHYi04r0R9Clz4PF0b4d_z02-96EOidsuNNrAdOjYjwerf9P-x4dDv6RrR-DXphw/118548/3a79618fb3a2d20a6f3c906e82a7b7bedc8d7c1fec67898cbc0664a57134cfee/117956563170054.webp). Mustard, teal and plum illustrated architectural collage places church, river, ship, bridge, figurehead, coin and street lamp in incompatible scales and eras; bottom sans title strip contains the assembled memory map.
+- **CP-21 — The Fields Lie Sleeping Underneath**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/the-fields-lie-sleeping-undernea-1/); [image](https://new.openimp.com/d/X9WA3KomfLyWa7SVOxXnxwN-JBkM100Lvhc0VAWvvfR_xaHFH636MqGhfFZNoj6eDFcwKJpaFZAKbLVzVtI9xg/325646/171ec05d78d2135319985ac8ceb302e86a61d1970b5af10a9f4f0219f4ec9f25/117956563510054.webp). Turquoise terraced houses, fox on a brick wall, giant bird and a small pale figure in a dark window form a rough-lined layered domestic scene; ordinary built space becomes folkloric and uncertain.
+- **CP-22 — Shapwick**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/shapwick/); [image](https://new.openimp.com/d/pWNbZ01rRwvBHUW3P41ngPXD2EBN_3jLyoc9fvt_S-Mr7C8E3oCaI6mbd0iG2ExD5HSTpRG6Kpe8E6IwrfDSAw/281818/2f186c8a25ea9f5058fce75479be1c7c50a9268cc4092bcfb41796d8d58afc33/117955834900054.webp). Blue-green nocturnal forest contains a tiny distant car, blank pale moon and dense bare branch silhouettes; sweeping grain texture and enormous foreground branch frame a childhood-road-like scene.
+- **CP-24 — Autres Directions**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/autres-directions/); [image](https://new.openimp.com/d/7lMHFALOUv_TxN4692D_c7l-qH9Bx-dulAODdlPL8_iczw_BHwPX8HEY7TydEjyhiXPhL88M3RCh2uQy4xsL_A/60344/90cdd2ed0db77c8417805c2a5118fde32b870a98ae28495eebc514081ab06f3c/117959603910054.webp). Cream paper, orange, black, pink and grey geometric cut forms sit under widely tracked plain sans title; translucent green bands and slight printed roughness interrupt a mid-century design exercise.
+- **CP-28 — Inner Roads and Outer Paths (2nd Press)**, Frances Castle / Clay Pipe Music. [Source](https://claypipemusic.greedbag.com/buy/inner-roads-and-outer-paths/); [image](https://new.openimp.com/d/8p46AIcnHIxXGDyvBtS1wJK0LjNBGe8wTOLP7lON7JWngDMqtC76otbVmr9fu_GFWdlXOif6c8htO_ifauDhFQ/171914/a56ec9469f596f85ba8a5e369c47b4f976ce9caa7e9857122c3f70b3f909b3a8/117955608850054.webp). Green hills and a dark ruined tower dwarf repeated small prefab houses, empty playground and a toy-like dragon vehicle; place and scale join childhood memory with an older ruin, in roughly printed flat illustration.
+- **IS-1 — Everywhere at the end of time (complete-edition cover)**, Ivan Seal / The Caretaker. [Source](https://thecaretaker.bandcamp.com/album/everywhere-at-the-end-of-time); [image](https://f4.bcbits.com/img/a2383326070_0.jpg). Complete-edition cover: a familiar but uncertain upright ochre board/cardboard panel viewed at an angle, bound by cyan horizontal and vertical strips; tiny edge fittings and a hard cast shadow on a muddy green ground. Visible painterly surface, no catalog typography. This is the aggregate edition artwork, not an individual stage cover.
+- **IS-2 — An empty bliss beyond this World (cover)**, Ivan Seal / The Caretaker. [Source](https://thecaretaker.bandcamp.com/album/an-empty-bliss-beyond-this-world); [image](https://f4.bcbits.com/img/a4087775263_0.jpg). An isolated amorphous grey rounded object rests on a white block against darkness, with a small red-tipped yellow projection. Visible paint/canvas grain and uncertain object identity carry the memory tension without institutional typography.
+- **GB-18 — Full Circle**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/full-circle-129/); [image](https://new.openimp.com/d/NHaXU2BwTCtZAMwUnOqtN1APvs-DpFn-zu2S2oiCs5t7c2IZSgY2W7xgOk8i3ngh90E3ffvtk7sz_Ec6jJSnbQ/289822/ff8addd615279412ee8940298614d546ff2ebf62bc5160eda3a800295701389a/117955763570054.webp). Full Circle: cyan sans-serif title in a large cream void above a monochrome cut-paper collage of modernist buildings, leisure objects and people; deliberately incompatible scales and photographic sources, small circular series mark and number. Cleaner and brighter than a uniformly distressed sepia stereotype.
+- **GB-19 — From Out Here**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/from-out-here-0/); [image](https://new.openimp.com/d/Z09RxK_-zaRKogbDkg0Ecn6i_fNumP-o2qC2mQvTXWxEZfIJSRAWQIo19XZl6mCl-JYtmyAJpxJ8ClD9tBqMog/241166/80cc83253f80495632b72003e37b463a3f6b834ec04a73ffa601c599016ebd93/117955925880054.webp). From Out Here: brown/cream and pale-green overprint; rotary telephone dial, circuitry, rural tree cutouts, a television and a cropped face fragment form a broken radial collage. Repeated title descends like a fading signal beneath a restrained series header and catalog number.
+- **GB-20 — Other Channels**, Julian House / Ghost Box. [Source](https://ghostbox.greedbag.com/buy/other-channels-6/); [image](https://new.openimp.com/d/mtbM9TdMjLE-1_44RZgXJFAArgfYuSGrItclduhcHAbkWO2NmHRGBo9YhX0RQxUbYGtTruLgJlcX-yhrwD0dwg/326102/652ce20442538cff9ef0e5de805069bcccc80c9e50209434b9a265d7beb9a4fe/117956791850054.webp). Other Channels: tightly cropped orange/red halftone photographic faces fill the sleeve; very large cream sans title, fine horizontal rules, a small publisher mark and number preserve the series grammar. Source imagery is not production decoration.
 
 ## Analysis
 
-Hauntology is application-ready only when its signal is distributed across all seven dimensions rather than resting on palette alone. The load-bearing pattern is: degraded archival texture + institutional/educational design language + subdued palette + lost-futures cultural signal. Frontend translation should begin with that pattern, then apply color, texture, shape, and motion as evidence of it.
+### Context and a useful boundary
 
-Avoid lazy spooky-retro reductions; preserve lost-futures and public-media memory.
+In his [2005 essay, republished in 2017](https://reynoldsretro.blogspot.com/2017/10/hauntology-ghost-box-label-frieze-2005.html), Simon Reynolds connects Ghost Box's coordinated sleeves with educational publications, library music and remembered broadcast culture. [House's 2013 interview](https://thequietus.com/interviews/ghost-box-the-focus-group-interview/) describes uncertain childhood recollection, parallel realities and series collecting; he also emphasizes surreal pleasure. This supports designed memory rather than an exclusively gloomy mood. [Harper's 2009 essay](https://rougesfoam.blogspot.com/2009/10/hauntology-past-inside-present.html) offers an interpretation in which an appealing past is unsettled by contradiction or disturbance. It is a critical reading, not a universal visual checklist.
 
-Source-grounded implementation brief:
+Castle describes the label's name through found clay-pipe fragments and imagined former owners in her [maker interview](https://coloursmayvary.com/blogs/news/an-interview-with-frances-castle). Her sleeves vary with each project. Specific primary statements strengthen the temporal reading: [Adlestrop](https://claypipemusic.greedbag.com/buy/adlestrop/) concerns closed rural railway stations; [The Green Line](https://claypipemusic.greedbag.com/buy/the-green-line-0/) recounts childhood bus journeys; [Common Grounds](https://claypipemusic.greedbag.com/buy/common-grounds-2/) attends to traces of earlier infrastructure in local walks; [Through Passages of Time](https://claypipemusic.greedbag.com/buy/through-passages-of-time-1/) reimagines vanished London places. These are attributed project meanings, not evidence that every pastoral drawing is hauntological.
 
-### 15) `hauntology`
-- `knowledge/aesthetics/hauntology.md`
-  - Define around media memory, lost futures, public-information residue, analog decay, and Ghost Box / Radiophonic / educational-broadcast references. Source: `print-game-noir.md` / `hauntology`.
-- `skills/aesthetic-literacy/aesthetics/hauntology.md`
-  - Core dimensions: nicotine/mustard/moss institutional palette, educational/broadcast type, grain/fade/dust textures, sober diagrammatic shapes, loop/flicker motion, title-card/archive space.
-  - Anti-pattern: generic spooky vintage.
-- Boundary guardrail
-  - Keep separate from `vaporwave`, `early-internet`, and architectural liminality. Source: `print-game-noir.md` / `hauntology`.
+The [complete Caretaker edition](https://thecaretaker.bandcamp.com/album/everywhere-at-the-end-of-time) frames the project through memory loss and credits Ivan Seal's paintings. The complete-edition image inspected here is not the first stage's cover. [Seal's represented-artist biography](https://passage.art/artists/72-ivan-seal/) locates his work in invented objects and unstable recollection; [the publisher's listing](https://boomkat.com/products/an-empty-bliss-beyond-this-world) verifies his credit for An Empty Bliss. No audio was analyzed, no behavior is inferred from a medical condition, and the ambiguous painted objects should not be diagnosed.
+
+### Corpus and exclusions
+
+Thirty-five full sleeves produce 32 qualifying artifacts and three exclusions, with no duplicated inspected edition counted twice. CP-6 is excluded because the catalog title and visible cover title disagree; CP-23 is a geometric botanical boundary and CP-29 a pastoral boundary without sufficient visible/contextual temporal disruption. The larger Clay Pipe artist catalogs contain uninspected leads and merchandise; they are not added to the count. The sample favors three designers, British record commerce and still cover art. It does not measure audiovisual rhythm, actual ink/foil, physical aging or global frequency. Reference files were not downloaded for production and all images remain analytical, rights retained by their creators/publishers.
+
+### Application translation
+
+A fictional educational transmission booklet can pair confident headings, series numbering and calm controls with a landscape that changes between incompatible frames. Build an original geometric landscape, impossible diagram or uncertain object; avoid reproducing sleeves, real institutional logos or culturally specific masks. Keep readable text and focus rings on quiet fields. Restrict visual interference to the artwork, never to essential instructions. Manual frame advance, per-program position and a transcript are proposed useful behaviors. Proposed tokens, system-font stacks, spacing and breakpoints require implementation testing; none were measured from these sources. Stillness is justified by the inspected print medium, while deliberate gaps can express absent futures without manufacturing a broken interface.
 
 ## Connections
 
-Related aesthetics from the dictionary and candidate set:
-- Distinct from `vaporwave`, `early-internet`, and `liminal-space-backrooms`: it is analog-cultural spectrality and public-media residue, not consumer simulation or vacant architecture.
+`vaporwave` can share displaced media memory, but mall imagery or a purple gradient does not replace the specific institutional promise and its disturbance here. `early-internet` centers browser/interface archaeology; a file window alone is insufficient. `liminal-space-backrooms` can center vacant architecture without a remembered programme, lost institution or temporal contradiction. These boundaries overlap and should be assessed from the whole composition.
 
 ## Research Updates
 
-Initial profile created on 2026-07-08 from the 20-aesthetic expansion synthesis brief and parent research packets. Evidence level is marked limited because this implementation pass preserved source links and source-backed synthesis but did not download a 10+ image corpus for each entry.
+### 2026-11-12 — Direct sleeve-art expansion
 
-### Parent research excerpt
+32 unique qualifying artifacts among 35 full-image inspections replace the earlier five contextual links. Saturated color, clean fields, variable typography and painted objects correct the earlier mandatory muted palette, damaged surface and broadcast-grid claims. Movement remains unverified. Three creator practices and a British record-art bias remain explicit.
 
-## 1. `hauntology` — Hauntology
+### 2026-07-08 — Initial profile history
 
-Evidence count: 4 core sources + 1 failed dissertation fetch noted below.
-
-### Source bibliography / URLs
-1. Hauntology (music) overview and lineage: https://en.wikipedia.org/wiki/Hauntology_(music)
-2. American/British visual-cultural reading of the aesthetic: https://mediatedsignals.com/2021/02/13/remapping-cultural-hauntology-an-american-perspective
-3. Ghost Box label storefront/archive as primary visual corpus: https://ghostbox.greedbag.com
-4. UCLA summary on hauntology and The Caretaker: https://schoolofmusic.ucla.edu/cultural-ghosts-hauntology-and-the-caretaker
-5. Attempted but unavailable during extraction: Duke dissertation PDF on analog traces in digital cinema: https://dukespace.lib.duke.edu/bitstreams/27f2252d-3a4f-4c7f-8530-b924e92dd0e5/download
-
-### Visual evidence summary
-- The strongest recurring visual anchor is the Ghost Box ecosystem: retro educational-media typography, sleeve graphics that feel like forgotten public-information media, and imagery that reads as archival rather than glossy-futurist. Source: Ghost Box storefront; Mediated Signals.
-- Mediated Signals ties the aesthetic to children’s television themes, TV idents, library music, public-information films, and “sleek, modern, northern European design sensibility” inflected by unease rather than optimism. Source: Mediated Signals.
-- Wikipedia and UCLA both reinforce decay-signals as part of the aesthetic system: sampling, loops, vinyl crackle, degraded memory, and “lost futures.” Source: Wikipedia; UCLA.
-
-### Seven-dimension synthesis
-- Palette
-  - Canonical: nicotine beige, faded mustard, moss green, smoke grey, washed brown, institutional cream, oxidized teal, dusk-black.
-  - Common: sunset orange or sepia accents, television-phosphor green, low-saturation red warnings.
-  - Variant: pastel educational-color optimism used only when undercut by decay or eeriness.
-- Type
-  - Canonical: mid-century educational sans, modest serif captions, library-music / schoolbook typography, restrained title blocks.
-  - Common: all-caps labels, slightly awkward archival kerning, broadcast-era titling.
-  - Variant: occult-display letterforms when leaning Ghost Box / pastoral-mystic.
-- Texture
-  - Canonical: paper aging, tape hiss/crackle translated visually as grain, blur, photocopy softness, film dust, print fade.
-  - Common: halftone, scanlines, offset misregistration, overexposed stills.
-  - Variant: ghosted overlays or spectral double exposures.
-- Shape
-  - Canonical: sober rectangles, caption boxes, modest circles/diagrams, institutional framing devices.
-  - Common: map-like markers, school-TV geometry, soft-cornered panels.
-  - Variant: folk-occult symbols or pastoral diagrammatics.
-- Motion
-  - Canonical: slow drift, loop, dissolve, flicker, ghosted reveal; motion should feel remembered rather than present-tense.
-  - Common: projector jitter, tape wobble, scan pulse.
-  - Variant: abrupt interruption used sparingly as a memory rupture.
-- Spatial
-  - Canonical: negative space with isolated ephemera, title-card compositions, archival stills, framed inserts, calm but uncanny layouts.
-  - Common: booklet/page spreads, educational-panel sequencing, still-image-led presentation.
-  - Variant: haunted pastoral tableaux or TV-ident micro-worlds.
-- Cultural markers
-  - Canonical: BBC Radiophonic Workshop, public-information films, library music, children’s television idents, analog media decay, “lost futures,” memory retrieval failure. Source: Wikipedia; Mediated Signals; UCLA.
-  - Common: British postwar modernism, educational broadcasting, Ghost Box cover language.
-  - Variant: American public-broadcasting analogues; pastoral occult fringe.
-
-### Related-aesthetic boundaries
-- Vs. `vaporwave`: both use retrospective media memory, but hauntology is mournful and archive-haunted where vaporwave is synthetic, consumer-simulacral, and often brighter or more ironic.
-- Vs. `early-internet`: hauntology is pre-digital memory-decay first; early-internet is interface archaeology first.
-- Vs. `glitch`: hauntology uses degradation as elegy; glitch uses failure as rupture or aggression.
-- Vs. `techno-noir`: both can be dark, but hauntology is analog-cultural spectrality, not urban crime/future surveillance drama.
-- Vs. `storybook-gothic`: hauntology may borrow rural eeriness, but its signal depends on media memory and public-broadcast residue, not fairy-tale ornament.
-
-### Cultural-sensitivity / misuse cautions
-- Avoid reducing hauntology to generic “spooky vintage.” Its core signal is temporal dislocation, failed futurity, and media-memory residue, not Halloween kitsch. Source: UCLA; Mediated Signals.
-- Avoid over-British essentialism in copy. Mediated Signals explicitly argues the visual grammar circulated beyond Britain, even if the British variant is especially canonical.
-
-### Implementation notes for dictionary entries
-- Non-negotiables: degraded archival texture + institutional/educational design language + subdued palette + cu
+The initial limited profile linked secondary context and a publisher archive without a directly inspected corpus; one dissertation fetch failed. Its unsupported frequency bands and universal motion prescriptions are superseded. The original first-researched date is retained.

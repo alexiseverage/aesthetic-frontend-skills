@@ -5,80 +5,74 @@ family: "historical-design-movements"
 era: "18th–19th century revival; Victorian peak"
 aliases: ["Victorian Gothic Revival", "medievalist revival", "Gothic Revival architecture"]
 status: "canonical"
-evidence_level: "limited"
+evidence_level: "standard"
 related: ["nu-goth-pastel-goth", "dark-academia", "witchcore"]
 subsets: []
 ---
 
 # Gothic Revival
 
-Use the source-backed boundary notes; do not reduce the aesthetic to palette alone or flatten adjacent traditions into a generic moodboard.
+Gothic Revival reinterprets medieval architectural and decorative forms through eighteenth- and nineteenth-century design. Pointed structure, tracery and organized craft ornament carry the identity across dark wood, pale plaster, bright print and civic or domestic objects.
 
 ## Scope
 
-Use the source-backed boundary notes; do not reduce the aesthetic to palette alone or flatten adjacent traditions into a generic moodboard.
-
-**Related / Subsets**: Distinct from `nu-goth-pastel-goth`, `witchcore`, and `dark-academia`: Gothic Revival is historical medievalist architecture/decorative arts first.
+Use for heritage publishing, conservation, architecture, decorative arts and historically informed editorial interfaces. Preserve the later revival's relation to medieval models. It is broader than ecclesiastical drama and distinct from contemporary goth fashion or a dark library mood.
 
 ## 7-Dimension Profile
 
-**Palette**: Dark wood, oxblood, forest green, ink black, stone gray, parchment, brass, amber, and stained-glass jewels.
+**Palette**: Dark wood and iron, cream stone/plaster, brass/gilt, ceramic ochre and red/blue/green polychromy. Pale blue and white interiors are documented; darkness is not mandatory.
 
-**Type**: Blackletter in small doses, engraved serif body, heraldic caps, inscriptional titling, and readable Victorian support type. Common reinforcement: Support labels and metadata tuned to the domain. Variant edge: Decorative display accents used sparingly.
+**Type**: Blackletter mottoes, monograms, inscription bands and ribbon text occur on selected objects and printed work. Furniture often has no text. Use a readable serif for body copy; limit ornamental lettering to short headings or marks.
 
-**Texture**: Carved wood, leaded glass, stone, wrought iron, encaustic tile, embossed leather, velvet, and parchment. Common reinforcement: Interface chrome that preserves source material logic. Variant edge: Flatter reduced-texture variants for legibility.
+**Texture**: Pierced and carved wood, wrought iron, inlaid tile, leaded glass, plaster ribs, gilt and flat printed pattern. Distinguish material structure from indiscriminate distressing.
 
-**Shape**: Pointed arches, lancets, trefoils, quatrefoils, tracery, finials, spires, vergeboards, and shrine frames. Common reinforcement: Repeated UI modules echoing the source object model. Variant edge: Softened modern component variants.
+**Shape**: Pointed and ogee arches, lancets, cusps, trefoils/quatrefoils, clustered shafts, pinnacles, flattened foliage and heraldic cells. Restrained geometric construction is also valid.
 
-**Motion**: Solemn upward reveals, candle flicker, stained-glass light shifts, processional fades, and no jump-scares. Common reinforcement: State transitions linked to the core workflow. Variant edge: Static print-first or reduced-motion fallbacks.
+**Motion**: The current direct-media corpus is static. Stillness suits close comparison of structure and ornament. Immediate user-triggered state changes are proposed UI behavior; candle flicker and processional fades are optional interpretations, not historical requirements.
 
-**Spatial**: Vertical framing, chapel/library alcoves, room-as-shrine, picturesque asymmetry, and ordered ornament. Common reinforcement: Secondary panes/lists that preserve scan order. Variant edge: More spacious marketing adaptations.
+**Spatial**: Ornament follows structural bays, crests, panels, margins and friezes. Strong vertical rhythms can frame broad horizontal content. Keep reading regions calm and avoid forcing every control into a narrow pointed arch.
 
-**Cultural markers**: Medievalism, stained glass, heraldry, church windows, chivalric romance, Pugin/Willement/Morris lineages, and craft revival. Common reinforcement: Domain vocabulary and object-specific affordances. Variant edge: Broader adjacent-pop-culture references.
+**Cultural markers**: Medievalist revival, religious and civic architecture, domestic furniture, heraldry, ceramic manufacture, Pugin and related craft/design debates. Context differs by place, patron and object.
 
 ## Non-Negotiables
 
-**Non-negotiables**:
-
-- pointed-arch/tracery form language.
-- material gravity.
-- medievalist revival connotation.
-- craft/piety undertone. If these are removed, the result collapses into an adjacent or generic style rather than Gothic Revival.
+**Non-negotiables**: recognizable medievalist revival geometry; ornament organized by structure; convincing material or print logic; a documented historical-revival connotation. A black background and decorative serif alone are insufficient.
 
 ## Connotation
 
-**Mode:** contemporary revival.
-
-**Source-backed contemporary characterization.** Treat the style as a multi-dimensional semiotic system and preserve the boundaries documented in the research packet.
+**Mode:** contemporary revival. The interface quotes historical decorative grammar while retaining present-day usability. It can feel luminous, orderly and crafted as well as solemn. Avoid making historical religious/national claims on behalf of a fictional product.
 
 ## Related / Subsets
 
-Related aesthetics from the dictionary and candidate set:
-- Distinct from `nu-goth-pastel-goth`, `witchcore`, and `dark-academia`: Gothic Revival is historical medievalist architecture/decorative arts first.
+- `dark-academia` shares some library/material cues but need not use Gothic structure.
+- `nu-goth-pastel-goth` concerns contemporary alternative fashion and graphics.
+- `witchcore` uses different nature/ritual signals; occult props do not establish Gothic Revival.
+- No separately canonical subsets are introduced.
 
 ## Frontend / UI Guidance
 
-Translate the aesthetic through layout, type hierarchy, material cues, and culturally specific markers before color. Preserve ordinary usability in navigation, forms, tables, and body text; reserve the strongest aesthetic signals for heroes, section dividers, cards, editorial modules, and high-value calls to action.
+Use a pointed architectural specimen, a pierced divider or a carefully ordered tracery frame as the visual anchor. Align panels like structural bays and repeat small motifs at joints. Keep forms, paragraphs and action labels rectangular and readable; let the surrounding architecture carry the expression.
 
 ## CSS Translation
 
-- Color roles should be drawn from the palette dimension: Dark wood, oxblood, forest green, ink black, stone gray, parchment, brass, amber, and stained-glass jewels.
-- Surfaces and borders should translate the texture dimension: Carved wood, leaded glass, stone, wrought iron, encaustic tile, embossed leather, velvet, and parchment. Common reinforcement: Interface chrome that preserves source material logic. Variant edge: Flatter reduced-texture variants for legibility.
-- Shape language should follow the source geometry: Pointed arches, lancets, trefoils, quatrefoils, tracery, finials, spires, vergeboards, and shrine frames. Common reinforcement: Repeated UI modules echoing the source object model. Variant edge: Softened modern component variants.
-- Layout should preserve the spatial convention before adding ornament: Vertical framing, chapel/library alcoves, room-as-shrine, picturesque asymmetry, and ordered ornament. Common reinforcement: Secondary panes/lists that preserve scan order. Variant edge: More spacious marketing adaptations.
-- Motion should stay within the source timing character and include reduced-motion fallbacks: Solemn upward reveals, candle flicker, stained-glass light shifts, processional fades, and no jump-scares. Common reinforcement: State transitions linked to the core workflow. Variant edge: Static print-first or reduced-motion fallbacks.
+- Proposed roles: warm plaster ground, near-black iron text, burgundy secondary panel, muted brass rules and optional blue/red glass accents. Choose accessible pairs for the actual surface.
+- Draw original pointed/ogee SVG paths and simple cusped ornaments; use vector effects or stable viewBoxes to preserve line weight.
+- Use thin nested rules, shallow inset shadows and restrained repeated patterns to suggest joinery, lead or tile. Avoid blurred neon and generic heavy drop shadows.
+- Use minmax grids with calm reading widths; stack structural bays on narrow screens without squeezing type.
+- Start with immediate selection changes and still ornament. Any optional light effect needs reduced-motion handling and must preserve reading contrast.
 
 ## Typography / Fonts
 
-Use the type system as a hierarchy, not a blanket font costume. Blackletter in small doses, engraved serif body, heraldic caps, inscriptional titling, and readable Victorian support type. Common reinforcement: Support labels and metadata tuned to the domain. Variant edge: Decorative display accents used sparingly. Reserve the most characteristic display treatment for logos, headlines, labels, or section markers, and pair it with readable body/support type for dense interface text.
+Choose an inscriptional or book serif for headings and a readable serif/support face for body copy. Blackletter is optional and should remain short, legible and appropriately sourced. Font categories are recommendations; the corpus does not establish a universal digital font.
 
 ## Cultural / Ethical Notes
 
-No special sacred-symbol restriction is recorded in the paired profile. Still preserve the named historical, regional, practitioner, or community context instead of flattening the aesthetic into generic decoration.
+Heraldic, religious and national emblems carry specific identities. Use original abstract tracery or properly contextualized symbols instead of borrowing a crest as neutral branding. Do not flatten industrial production, domestic use or regional histories into a universal sacred craft story. See the [research profile](../../../knowledge/aesthetics/gothic-revival.md).
 
 ## Anti-Patterns
 
-- Using only the palette while ignoring the type, texture, shape, and spatial system; that reduces Gothic Revival to a color theme.
-- Copying source motifs as generic decoration without the origin, practitioner, regional, or institutional context recorded in the knowledge profile.
-- Applying the strongest ornamental or material cues to every component, which makes navigation, forms, and content hierarchy harder to use.
-- Flattening the entry into a neighboring aesthetic named in Related / Subsets instead of preserving the boundary conditions above.
+- Dark palette, gargoyle jokes or Halloween props without architectural structure.
+- Copying a historical coat of arms or sacred emblem as a generic logo.
+- Making every button a tiny pointed window or covering text with tracery.
+- Treating pale, polychrome or manufactured objects as outside the revival.
+- Presenting proposed animation or digital typography as measured historical evidence.

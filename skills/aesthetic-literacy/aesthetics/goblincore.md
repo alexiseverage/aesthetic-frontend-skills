@@ -5,73 +5,69 @@ family: contemporary-lifestyle
 era: late 2010s–present internet community
 aliases: ["mushroomcore", "mosscore", "dirtcore-adjacent"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["cottagecore", "witchcore"]
 subsets: []
 ---
 
 # Goblincore
 
-Goblincore is a contemporary internet lifestyle aesthetic that cherishes overlooked nature, mud, moss, fungi, creatures, and anti-polish collecting. It is rough, queer/community-adjacent, and creaturely rather than tidy pastoral cottage fantasy.
+Goblincore is an internet community aesthetic that finds value in overlooked small life, irregular natural fragments and personally meaningful trinkets. Collecting and handmaking bring rough bark, fungi, moss or stones into contact with shiny glass, metal, beads and reused everyday objects. The researched sample includes both messy piles and carefully sorted displays.
 
 ## Scope
 
-Use Goblincore for nature clubs, community shops, zines, foraging or specimen-adjacent education, cozy creature catalogs, and anti-polish editorial moments. Keep object clusters readable: mess and treasure are part of the signal, but users still need a focal path.
+Useful for small collections, community craft, nature observation, zines and personal cabinets. Identity comes from the relationship to small things, not a compulsory forest background or a mushroom sticker. The current [research profile](../../../knowledge/aesthetics/goblincore.md) documents 30 qualifying artifacts from 42 full-media inspections, with maker-commerce and English-language community bias.
 
 ## 7-Dimension Profile
 
-**Palette**: Moss, mud, fungus beige, peat, damp gray, lichen, frog green, tarnished brass, and rot colors.
+**Palette**: Earth browns, moss greens, ochre fungi and pale lichen recur, but copper, bright blue, violet, glass and plastic shine can be equally visible. No brown-only rule.
 
-**Type**: Uneven specimen labels, foraged notebook annotations, odd type mixes, and hand-tagged trinket labels.
+**Type**: No verified scene-wide typeface from the object-heavy sample. Modest specimen tags, notebook annotations and readable serif/sans combinations are proposed UI translations; avoid claiming them as historical measurements.
 
-**Texture**: Moss, mud, bark, damp leaves, fungus caps, weathered metal, glass vials, bone, stone, and rough fibers.
+**Texture**: Irregular gills, bark, pitted stone, lichen, dry leaves and worn boxes contrast with polished glass, metal and resin. Fiber sculpture, beads and modeled clay can express these materials without literal mud.
 
-**Shape**: Trinket piles, asymmetrical pockets, pouches, jars, mushrooms, frogs, snails, and clustered cabinet forms.
+**Shape**: Small asymmetric fungi, roots, insects, shells, seedpods, stones, vials, buttons and ordinary hardware. One creature motif is not compulsory.
 
-**Motion**: Creeping, skittering, rummaging, foraging, drifting, and cozy-curious micro-motions.
+**Motion**: Unknown from inspected stills. Direct selection, rummaging and pocket collection are possible application behaviors. Do not turn imagined skittering or creeping into a defining requirement; immediate state changes are valid.
 
-**Spatial**: Forest-floor scatter, treasure corners, specimen cabinets, pocketed storage, and readable focal zones inside mess.
+**Spatial**: Reused boxes, jars, drawers, trays, shelves and clustered tabletop arrangements invite close examination. Sorting and clear space can preserve the identity as effectively as dense scatter.
 
-**Cultural markers**: Mushrooms, frogs, snails, worms, moss, bones, overlooked nature, anti-perfection, queer/anti-consumption framing.
+**Cultural markers**: Attention, affection, keeping and handmade interpretation of overlooked things; visible personal attachment and anti-perfection. Community participants have varied identities and politics.
 
 ## Non-Negotiables
 
-**Non-negotiables**: affection for overlooked nature + muddy/foraged textures + creature/trinket iconography + rough anti-polish composition. If these are removed, the result collapses into an adjacent or generic style rather than Goblincore.
+**Non-negotiables**: affection for overlooked small things + tactile irregularity + meaningful collecting or handmade object relationships. A uniform muddy palette, literal dirt, compulsory clutter and fantasy goblin imagery are not necessary.
 
 ## Connotation
 
-Goblincore reads as a source-backed contemporary characterization whose cues should be treated as a multi-dimensional system rather than a palette.
+Curious, intimate, resourceful and comfortable with imperfection. Keep personal value distinct from retail prestige or greedy-hoard caricature. The sample supports participant practices, not a universal demographic or political definition.
 
 ## Related / Subsets
 
-- `cottagecore` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- `witchcore` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- No canonical subsets are defined for this entry yet.
+- `cottagecore` can overlap in nature and domestic craft; Goblincore more specifically attends to odd fragments, small life and keepsakes.
+- `witchcore` shares crystals and vessels, but ritual symbolism alone is insufficient here.
+- No canonical subsets are established. Existing aliases are search aids, not claims of perfectly identical communities.
 
 ## Frontend / UI Guidance
 
-Organize the interface like a foraged cabinet: clustered cards, specimen tags, rough paper or bark texture, trinket badges, and muddy palette roles. Provide clear focal lanes through the clutter so curiosity does not become cognitive overload.
+Build an inspectable drawer, pocket inventory or notebook. Give objects distinct silhouettes, short personal notes and real selected/kept/removed states. Use rough material fields around quiet, readable text. Keep a logical keyboard and reading order even when objects appear unevenly arranged. Apply existing UI primitives and clear focus outlines.
 
 ## CSS Translation
 
-- Color roles: `--bg-mud`, `--surface-moss`, `--accent-fungus`, `--accent-frog`, `--accent-brass`, `--text-bone`.
-- Borders/dividers: specimen labels, torn notebook rules, jar outlines, stitched pockets, and twig-like separators.
-- Radius language: irregular cards, pouch shapes, jars, and hand-cut tags; avoid pristine luxury geometry.
-- Effects: paper grain, damp moss texture, bark edges, tarnished metal, and soft treasure-corner shadows.
-- Layout: clustered cabinets, forest-floor scatter, trinket piles, and clear focal shelves through mess.
-- Motion: skitter, creep, rummage, drift, and reduced-motion static collected-state changes.
+Proposed roles: dark timber background, moss felt object recesses, pale paper notes, warm brass controls and a glass-blue found-object accent. Use bounded wood-grain gradients, irregular object silhouettes and inset compartment borders. Do not texture body text or make controls look broken. Responsive drawers can change from three columns to two; details should stack in ordinary document flow. Immediate changes and reduced-motion stillness preserve inspection.
 
 ## Typography / Fonts
 
-Use uneven specimen labels, notebook annotations, hand-tagged trinket labels, and odd but readable serif/sans mixes. Avoid elegant editorial polish that cleans away the muddy collected character.
+Choose an available readable serif for intimate headings, a plain sans for controls and a restrained monospace or cursive annotation for short tags. Exact font identity is not established by the visual corpus. Size labels for small phones and keep decorative irregularity out of long paragraphs.
 
 ## Cultural / Ethical Notes
 
-Avoid greedy-hoard caricatures and anti-Semitic goblin tropes. Preserve the community’s anti-perfection, queer, and anti-consumption context without stereotyping people as dirty or feral.
+Avoid antisemitic goblin stereotypes and jokes about greed. Preserve room for queer participation, anti-consumption and anti-perfection without assigning them to every participant or stereotyping anyone as dirty or feral. Religious and culturally specific objects in a person's collection retain their own context. Reference media is analytical, not a license to copy or collect living specimens.
 
 ## Anti-Patterns
 
-- Clean pastoral cottagecore with mushrooms pasted on top.
-- Luxury natural branding that removes mud, creatures, clutter, and anti-polish attitude.
-- Greedy goblin caricature, hoard jokes, or “dirty” stereotyping.
-- Unreadable clutter with no focal zones or interaction hierarchy.
+- Polished pastoral branding with a mushroom pasted on top.
+- An all-brown palette treated as proof of identity.
+- Random unreadable clutter or mandatory animated bugs.
+- Generic crystal-potion fantasy without overlooked-life or keepsake relationships.
+- Greedy caricatures, identity stereotypes or copied culturally specific objects.

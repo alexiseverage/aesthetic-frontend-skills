@@ -5,7 +5,7 @@ family: digital-internet-native
 era: late 2010s–present platform-native
 aliases: ["dreamcore", "weirdcore", "liminal dream edit"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["liminal-space-backrooms", "glitch", "vaporwave", "early-internet"]
 subsets: []
 ---
@@ -24,11 +24,11 @@ Use Dreamcore / Weirdcore for art projects, experimental editorial, music, horro
 
 **Type**: Sparse dream captions, cryptic lowercase phrases, meme-like image text, and awkward early-internet captions.
 
-**Texture**: VHS noise, blur, JPEG artifacts, scanlines, fog, glow, MS Paint roughness, and amateur compositing.
+**Texture**: Mixed photo/graphic registers, visible cutouts, grain, selective blur and crude compositing. Physical glazed sculpture is a documented variant; VHS and JPEG damage are optional.
 
-**Shape**: Suburban roads, play structures, mall geometry, impossible horizons, cutout objects, and crude symbols.
+**Shape**: Familiar objects, childhood environments, pools, clocks, fruit, doors, impossible scales and cutout symbols. Eyes/faces occur in references but are not necessary.
 
-**Motion**: Slow float, sleepwalking loops, awkward zooms, sudden cuts, and disjointed montage.
+**Motion**: Unknown from the inspected still-image/object corpus. Stillness is valid; float, zoom or cuts are proposed adaptations only when they serve the content.
 
 **Spatial**: Depopulated emotional space: softened dream-memory or harsher context collapse and destabilized orientation.
 
@@ -36,11 +36,11 @@ Use Dreamcore / Weirdcore for art projects, experimental editorial, music, horro
 
 ## Non-Negotiables
 
-**Non-negotiables**: dream-memory or context-collapse affect + low-fi image texture + familiar-but-unsettling space + platform-native surreal editing. If these are removed, the result collapses into an adjacent or generic style rather than Dreamcore / Weirdcore.
+**Non-negotiables**: dream-memory or context-collapse affect + recognizable familiarity made unstable through surreal juxtaposition, replacement or scale. Rough digital editing is common, not a mandatory medium. If these are removed, the result collapses into an adjacent or generic style rather than Dreamcore / Weirdcore.
 
 ## Connotation
 
-Dreamcore / Weirdcore emerged from late-2010s internet image circulation, especially Tumblr and later TikTok/Discord/YouTube communities. Dreamcore leans softened, nostalgic, and melancholic; Weirdcore is harsher, more disorienting, and more context-collapsed. Both can feel intimate and eerie, so use them where destabilization is intentional rather than where trust, safety, or conversion clarity is primary.
+Dreamcore / Weirdcore circulates through internet image communities and contemporary creator practice. This corpus does not establish a single originator or exact platform chronology. Dreamcore leans softened, nostalgic, and melancholic; Weirdcore is harsher, more disorienting, and more context-collapsed. Both can feel intimate and eerie, so use them where destabilization is intentional rather than where trust, safety, or conversion clarity is primary.
 
 ## Related / Subsets
 
@@ -61,11 +61,11 @@ Use low-fi image treatments, awkward captions, floating objects, posterized colo
 - Radius language: inconsistent found-image rectangles and soft dream cards; avoid polished design-system sameness.
 - Effects: JPEG artifacts, blur, scanlines, glow, posterization, and MS Paint-style overlays.
 - Layout: floating objects, familiar rooms/roads, impossible horizons, sparse captions, and collage spacing.
-- Motion: slow float, awkward zoom, sudden cuts, sleepwalking loops, and reduced-motion still-frame variants.
+- Motion: use stillness or clearly labeled proposed user-triggered changes; no timing was measured from the still references.
 
 ## Typography / Fonts
 
-Use sparse captions, awkward lowercase phrases, low-fi image text, timestamps, or deliberately plain early-internet labels. Do not over-design typography; the unsettling effect often comes from text that feels found or contextless.
+Use sparse ambiguous captions, disconnected letters, repeated words or deliberately plain image labels. Glossy script and serif captions are documented creator variants; no single font is required. Do not over-design typography; the unsettling effect often comes from text that feels found or contextless.
 
 ## Cultural / Ethical Notes
 
@@ -73,7 +73,7 @@ Because the aesthetic uses disorientation, nostalgia, and sometimes dread, avoid
 
 ## Anti-Patterns
 
-- Pastel nostalgia with no low-fi texture, dream logic, or unease.
+- Pastel nostalgia with no dream-memory displacement, context collapse or uneasy familiarity.
 - Pure glitch art that ignores familiar spaces and context collapse.
 - Backrooms architecture treated as the same thing as dream edits.
 - Confusing core navigation and forms in the name of surrealism.

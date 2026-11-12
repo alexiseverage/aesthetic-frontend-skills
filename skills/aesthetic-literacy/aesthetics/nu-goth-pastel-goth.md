@@ -5,75 +5,75 @@ family: contemporary-lifestyle
 era: late 2000s–present internet/alt fashion
 aliases: ["nu goth", "pastel goth", "modern goth fashion"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["gothic-revival", "witchcore", "cyberpunk", "decora-kei"]
 subsets: []
 ---
 
 # Nu-Goth / Pastel Goth
 
-Nu-Goth / Pastel Goth is a modern alt-fashion and internet aesthetic that updates gothic signals through streetwear, occult styling, and, in the pastel branch, kawaii-influenced sweetness anchored by black. The branch distinction is part of the aesthetic, not an optional detail.
+Related contemporary dark-fashion branches with an essential distinction: Nu Goth often combines graphic monochrome, contemporary proportions and structural hardware; Pastel Goth juxtaposes soft color/cute forms with macabre or hard dark details. Neither every black outfit nor every pastel object qualifies.
 
 ## Scope
 
-Use Nu-Goth / Pastel Goth for fashion, beauty, music, alt-community commerce, event pages, and editorial systems that can carry visible self-styling. Decide which branch leads the interface: black-forward Nu-Goth, black-plus-candy Pastel Goth, or a deliberate bridge.
+Use for contemporary alternative-fashion, accessory, editorial or print projects. Declare the branch or a deliberate blend. The [research profile](../../../knowledge/aesthetics/nu-goth-pastel-goth.md) records 30 qualifying artifacts and strong commercial/accessory bias; related accessories are not independent scene definitions.
 
 ## 7-Dimension Profile
 
-**Palette**: Nu-Goth black/gray/white/oxblood/silver; Pastel Goth black plus lavender, baby pink, powder blue, mint, and lilac.
+**Palette**: Nu Goth examples emphasize black/white and dark hardware; Pastel Goth includes lilac, pink and aqua with dark contrast. A source-labeled nearly all-pastel outfit and a red related accessory prevent a black-only rule.
 
-**Type**: Sharp serif, occult display, distressed goth lettering, tattoo-like marks, streetwear sans, and cute accents only with dark anchors.
+**Type**: Jagged ornamental display lettering is visible on some graphic garments/accessories, while most objects carry no meaningful type. Sharp serif or controlled grotesque UI typography is a proposal, not a verified universal font.
 
-**Texture**: Lace, velvet, mesh, leather, latex, fishnet, chains, matte makeup, plush/kawaii softness, and candy plastic.
+**Texture**: Mesh/lace openness, plush softness, satin folds, clear cast highlights, grained surfaces and metal reflections. Contrast textures rather than applying generic dirty distress everywhere.
 
-**Shape**: Platforms, chokers, harnesses, crosses, pentagrams, oversized tees, spikes, bows, hearts, plush motifs, and candy hair.
+**Shape**: Straps, O-rings, zips, spikes, angular coffin forms and compact motifs; bows, small wings, rounded cute shapes and decorative edging are prominent in the pastel sample. No specific religious symbol is mandatory.
 
-**Motion**: Pose-oriented, sultry, moody, ritualized, club-flyer entrances; restrained cute bounce for Pastel Goth only.
+**Motion**: Unverified in still photographs. A static editorial/product composition is supported; optional short state transitions are application choices with reduced-motion alternatives.
 
-**Spatial**: Bedroom/streetwear/editorial framing, club styling, beauty crops, shrine-like self-curation, and social-media outfit space.
+**Spatial**: Contemporary proportion contrast and layering: broad graphic field against a small hard focal point, fitted/oversized forms, plain surfaces versus clustered charms. Translate the relationship into interface structure.
 
-**Cultural markers**: Goth music lineage, crosses, cemetery residue, occult signs, DIY hardware, Tumblr alt-fashion, kawaii/Harajuku influence, and modern goth revival.
+**Cultural markers**: Preserve the difference between contemporary fashion labels, the goth music subculture, Gothic Lolita and personal religious belief. Commercial maker terminology is attributed context, not a membership test.
 
 ## Non-Negotiables
 
-**Non-negotiables**: black/goth anchors + modern alt-fashion styling + occult or spooky signifiers + explicit branch distinction. If these are removed, the result collapses into an adjacent or generic style rather than Nu-Goth / Pastel Goth.
+**Non-negotiables**: coherent contemporary dark-fashion grammar + a stated branch relation + contrast in proportion, material or motif beyond color alone. For a pastel treatment, retain a visible soft/cute versus dark/macabre or hard tension; a plain lilac dashboard is insufficient. A Nu treatment needs structural/graphic contemporary styling, not only a black background.
 
 ## Connotation
 
-Nu-Goth / Pastel Goth is a modern internet and alt-fashion update to goth styling, with Nu-Goth emphasizing black-forward streetwear and occult fashion while Pastel Goth collides black gothic anchors with cute pastel/kawaii codes. It should be descriptive rather than gatekeeping: the entry names branch differences without treating either as the only valid goth expression. Pastel Goth borrowing from kawaii/Harajuku influence should be acknowledged instead of flattened into generic cuteness.
+Use contemporary revival or declared fashion-inspired quotation. Allow play, softness and self-expression without assigning gender, identity, religion, music taste or personality to users.
 
 ## Related / Subsets
 
-- `gothic-revival` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- `witchcore` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- `cyberpunk` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- `decora-kei` is a related or contrastive dictionary entry; compare the boundary notes in this profile before borrowing cues.
-- No canonical subset entries are defined yet; use Nu-Goth and Pastel Goth as internal branch labels when the distinction is useful.
+- `gothic-revival` has a historical architectural/decorative scope.
+- `witchcore` can share symbols but has different contextual commitments.
+- `cyberpunk` overlaps black materials but need not express these fashion proportions.
+- `decora-kei` shares colorful accessories within a distinct cultural practice.
+- Nu Goth and Pastel Goth remain named branches within this combined entry, not new canonical subset slugs.
 
 ## Frontend / UI Guidance
 
-Use outfit/editorial composition, beauty crops, shrine-like personal modules, occult marks, hardware details, and branch-specific color balance. Let Pastel Goth add cute softness only when black anchors and gothic signifiers remain visible.
+Build an editorial atelier, accessory proof or small print composition with real edition/material selection. Let branch switching change structure and ornament: monochrome split/strap divisions versus scalloped layers, bows and clear candy-color highlights. Use original objects or geometry, never rely on portraits or dolls. Keep control text plain and readable; preserve text labels beside symbolic choices.
 
 ## CSS Translation
 
-- Color roles: `--bg-black`, `--surface-velvet`, `--accent-oxblood`, `--accent-silver`, `--accent-lilac`, `--accent-baby-pink`.
-- Borders/dividers: chokers, harness straps, occult marks, lace edges, hardware rings, and sticker-like branch accents.
-- Radius language: sharp black frames for Nu-Goth; softened candy shapes only when Pastel Goth leads.
-- Effects: velvet matte, leather sheen, mesh texture, chain highlights, candy plastic, and beauty-light shadows.
-- Layout: editorial outfit grids, shrine modules, club flyers, beauty crops, and self-curated cards.
-- Motion: moody reveals, pose transitions, ritualized hover states, restrained cute bounce for pastel branch, and reduced-motion fades.
+- Proposed dark roles: ink #17151d, paper #eeebed, muted metal #a5a0ad. Proposed pastel roles: lilac #d9c5ed, pink #edbfd2, dark plum #302439. These are design choices, not sampled standards.
+- Mix broad flat fields with thin outlines, pierced O-ring circles, narrow strap bars and controlled decorative corners.
+- Confine mesh, grain, satin-like gradients or translucent facets to object zones. Do not lower control contrast for atmosphere.
+- Compose large display type with compact metadata and clear interaction areas. Stack on phones while keeping the original silhouette legible.
+- Prefer stillness for a proof/print object; if state transitions help, keep them brief and remove motion under reduced-motion preferences.
 
 ## Typography / Fonts
 
-Use sharp serifs, distressed goth lettering, occult display caps, tattoo-like marks, and modern streetwear sans support. Pastel Goth can introduce rounded cute accents, but only while black/goth anchors stay dominant.
+Use a licensed sharp display serif or original lettering treatment sparingly, with a readable sans for controls. System fonts are acceptable proposals; exact historical type identities are not established. Avoid rendering whole paragraphs in ornamental blackletter or treating novelty horror fonts as compulsory.
 
 ## Cultural / Ethical Notes
 
-Do not treat goth, kawaii, Harajuku, or occult references as interchangeable costume props. Pastel Goth should name its borrowing without flattening Japanese culture into generic cuteness.
+Do not conflate a fashion branch with religious belief or music-scene membership. Religious and occult symbols have contexts; avoid copying them as generic decoration. Do not equate Gothic Lolita with Pastel Goth. Credit source creators, obtain rights for any reuse, and avoid retailer imagery as production art.
 
 ## Anti-Patterns
 
-- Halloween costume graphics without modern alt-fashion styling.
-- Pastel cute branding with no black or gothic anchors.
-- Trad gothic architecture or medieval revival treated as the same as internet fashion goth.
-- Occult symbols piled up without branch clarity or readable composition.
+- Purple recolor of a generic dark interface with no material/proportion contrast.
+- Treating all black alternative fashion, corporate goth or rockabilly as Nu Goth.
+- Mandatory crosses, pentagrams, skull faces, blackletter or glitch animation.
+- Branch switching that changes only one background color.
+- Using bodies or human characters to carry a weak interface composition.
