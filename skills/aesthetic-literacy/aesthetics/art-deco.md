@@ -5,14 +5,14 @@ family: historical-design-movements
 era: 1920–1940
 aliases: ["le style moderne", "Jazz Moderne", "Style Moderne"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["streamline-moderne", "beaux-arts", "vienna-secession", "art-nouveau"]
 subsets: []
 ---
 
 # Art Deco
 
-Art Deco is a historical design movement that fuses modern geometric abstraction with luxury craft, machine-age confidence, and theatrical polish. For frontend work, treat it as geometric luxury modernism rather than a generic black-and-gold vintage moodboard: the look depends on disciplined symmetry, hard ornament, premium material cues, and a sense of civic or commercial spectacle.
+Art Deco is a historical design movement that fuses modern geometric abstraction with luxury craft, machine-age confidence, and theatrical polish. For frontend work, treat it as geometric luxury modernism rather than a generic black-and-gold vintage moodboard: the look depends on disciplined geometric hierarchy, hard ornament, premium material cues, and a sense of civic or commercial spectacle.
 
 ## Scope
 
@@ -20,9 +20,11 @@ Use Art Deco for hospitality, cultural institutions, luxury commerce, event page
 
 Do not use it as a blanket style for dense utility workflows. The aesthetic can support modern forms and product grids, but those elements need a calmer functional core with Deco geometry reserved for framing, hierarchy, and focal moments.
 
+Choose a particular medium, regional setting and market: luxury craft, vivid commercial graphics and affordable molded products do not share one compulsory palette. The [direct visual profile](../../../knowledge/aesthetics/art-deco.md) records thirty qualifying museum artifacts and three boundary comparisons.
+
 ## 7-Dimension Profile
 
-**Palette**: Black, ivory, chrome, gold/champagne, lacquer-dark neutrals, and polished high contrast. Jewel accents such as emerald, sapphire, ruby, jade, or coral can appear as controlled highlights; avoid muddy warmth or casual rustic palettes.
+**Palette**: Choose from the source medium: ink/ivory and reflective metal, warm figured wood, pale opalescent glass, vivid blue/yellow/red print or carefully contrasted lacquer and inlay. Black and gold are one option, not the definition. Color should support geometric hierarchy and material finish.
 
 **Type**: Geometric display faces, condensed capitals, inline or stepped lettering, and strong vertical rhythm for wordmarks, hero headings, numerals, and section labels. Pair decorative display type with readable support sans or serif text so ornament does not overwhelm content.
 
@@ -30,7 +32,7 @@ Do not use it as a blanket style for dense utility workflows. The aesthetic can 
 
 **Shape**: Chevrons, zigzags, sunbursts, stepped pyramids, fan forms, fountain sprays, sharp frames, stacked panels, and strong bilateral or axial symmetry. Shape language is hard, architectural, and ceremonial.
 
-**Motion**: Stately reveal, spotlight ascent, fan-open sequencing, marquee-light rhythm, and deliberate procession. Motion should feel glamorous and controlled, not bouncy, comic, or chaotic; reduced-motion states should preserve the geometric hierarchy.
+**Motion**: Still objects and posters support implied speed, procession and radiating rhythm, not measured animation. Intentional stillness is valid. A contemporary spotlight reveal or fan transition is a proposed interpretation; keep task feedback immediate, provide a static reduced-motion state and avoid compulsory flashing marquees.
 
 **Spatial**: Monumental symmetry, vertical hierarchy, centered or bilaterally balanced compositions, stacked panels, poster-like framing, and lobby/marquee scale. Contemporary responsive layouts can use Deco as a focal scaffold while keeping body content scannable.
 
@@ -41,7 +43,7 @@ Do not use it as a blanket style for dense utility workflows. The aesthetic can 
 **Non-negotiables**:
 
 - Hard geometric ornament: chevrons, stepped forms, sunbursts, fans, or zigzags.
-- Strong symmetry or axial structure that makes the composition feel architectural.
+- A coherent axis, stepped hierarchy or deliberately ordered diagonal composition.
 - Luxury material cues such as gold, chrome, lacquer, marble, enamel, or polished print finish.
 - Confident glamour and monumentality rather than handmade coziness or pure minimalism.
 
@@ -85,12 +87,12 @@ Avoid setting long paragraphs in decorative Deco faces. The identity comes from 
 
 Art Deco includes references to luxury travel, elite leisure, colonial-era collecting, and stylized ancient-Egypt motifs. Use historical motifs carefully and avoid turning specific cultural symbols into generic luxury decoration. For civic, museum, or education contexts, prefer geometric/material cues over shallow exoticism.
 
-Because the evidence profile for this migration is limited and text-source based, keep claims conservative when regional specificity matters.
+The reviewed museum corpus is weighted toward European and American objects, with selective global examples. Keep regional claims bounded, and distinguish genuine cultural context from an invented contemporary setting. Do not copy historical logos, film imagery, people or culturally specific signs to stand in for geometric craft.
 
 ## Anti-Patterns
 
 - Black-and-gold coloring without geometry, symmetry, or material polish; that is generic luxury branding.
-- Soft organic curves, vines, and botanical total-design logic; that drifts into Art Nouveau.
+- Unstructured botanical whiplash as the whole composition; natural motifs and controlled curves can be Deco when disciplined by its material and geometric system.
 - Pure minimal grids with neutral sans type and no ornament; that drifts into Swiss / International Style or generic modernism.
 - Rustic handmade texture, cozy warmth, or craft imperfection as the main signal.
 - Decorative overload where every component uses a different period motif; Art Deco needs controlled spectacle, not clutter.

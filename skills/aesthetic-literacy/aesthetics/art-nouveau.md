@@ -5,7 +5,7 @@ family: historical-design-movements
 era: 1890–1910
 aliases: ["Jugendstil", "Stile Liberty", "Modernisme", "Modern Style"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["arts-and-crafts", "vienna-secession", "art-deco", "gothic-revival"]
 subsets: []
 ---
@@ -20,17 +20,19 @@ Use Art Nouveau for cultural pages, boutique commerce, floral or botanical brand
 
 Avoid applying it wholesale to dense operational software. Modern navigation, forms, and body copy should stay readable while Nouveau linework, frames, initials, and botanical panels carry the atmospheric layer.
 
+Choose a regional and material emphasis rather than combining every recognizable motif. French/Belgian whiplash work, Glasgow's controlled geometry and Austrian/German linear abstraction share an ambition to integrate form and ornament, but do not have identical silhouettes. The [direct visual profile](../../../knowledge/aesthetics/art-nouveau.md) records thirty inspected museum artifacts, regional exceptions and remaining gaps.
+
 ## 7-Dimension Profile
 
-**Palette**: Botanical greens, warm creams, muted ochre, burgundy, violet, peacock blue, soft gold, and natural-to-jewel tones. The palette should support ornamental line and craft materiality; avoid neon saturation or stark machine-neutral palettes.
+**Palette**: Let the chosen medium set the color logic: amber/green/pink iridescent glass, silver enamel, figured wood, cream/taupe textiles or strongly contrasted red/yellow/purple print. Botanical and jewel tones are common options, not a compulsory universal palette. Quiet near-monochrome variants are supported when material and structural line remain convincing.
 
 **Type**: Sinuous custom lettering, integrated titling, expressive display forms, and letterforms that feel drawn into the composition. Use readable serif or sans support type beneath decorative headers, borders, initials, and poster-style titles.
 
 **Texture**: Flat ornamental line, stained glass, enamel, ceramics, wrought metal, carved wood, wallpaper, embossed print, and jewelry-like polish. Digital texture should emphasize contour, craft, and surface integration rather than photographic grime.
 
-**Shape**: Whiplash curves, tendrils, stems, petals, peacock-feather arcs, flowing hair, elongated figures, asymmetrical frames, and figure/nature integration. Curves are structural: they bend borders, type, and content fields rather than merely decorating corners.
+**Shape**: Whiplash curves, elongated stems, flared mouths, branching supports, cellular panels, openwork voids and asymmetrical frames. In the flowing branch, curves shape the usable object and its border. Geometric regional variants may instead organize nature-derived motifs into straight uprights, repeated cells or disciplined axes; integration matters more than making every edge curl.
 
-**Motion**: Sinuous flow, vine unfurling, waterlike drift, curling reveals, and eye-leading movement implied through line. Motion should feel organic and continuous; reduced-motion fallbacks should preserve the static line rhythm.
+**Motion**: Historical still artifacts establish eye-leading rhythm and implied growth, not animation timings. Intentional stillness is valid. If adding a slow line draw, light change or unfolding reveal, identify it as a contemporary design proposal, keep task feedback immediate and preserve the complete static structure with reduced motion.
 
 **Spatial**: Decorated borders, total-surface integration, poster framing, interlocked image/type fields, and activated negative space. Whitespace may exist, but it should feel shaped by surrounding ornament rather than neutral or empty.
 
@@ -40,10 +42,10 @@ Avoid applying it wholesale to dense operational software. Modern navigation, fo
 
 **Non-negotiables**:
 
-- Sinuous organic line, especially whiplash curves or continuous botanical contour.
-- Nature-as-structure: stems, petals, hair, feathers, or figure-ground systems shape the layout.
+- Nature-derived structure, expressed through flowing contour or a deliberately chosen regional geometric variant.
+- A coherent material and line system that shapes frames, supports, lettering or repeated fields.
 - Integrated ornament where type, frame, illustration, and surface participate in one composition.
-- Romantic craft luxury rather than machine geometry, neutral minimalism, or rustic simplicity.
+- Ornament integrated with the function and silhouette, rather than an unrelated layer of flowers.
 
 ## Connotation
 
@@ -85,7 +87,7 @@ Avoid making every label ornate. The style reads best when a few display moments
 
 Art Nouveau was an international movement with distinct local branches. Avoid presenting one Mucha-poster shorthand as the whole style, and be cautious when borrowing regional architecture, craft traditions, or symbolic flora without context. For historical or museum use, name the local branch when specificity matters.
 
-Because this migration uses a limited text-source research profile rather than a reviewed image corpus, keep regional dominance claims conservative.
+The reviewed object sample is weighted toward French, British and American museum collections. It does not establish regional dominance or a complete architectural canon. Name influences accurately; avoid pseudo-cultural lettering and detach modern interface proposals from claims about historical behavior.
 
 ## Anti-Patterns
 

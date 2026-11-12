@@ -5,7 +5,7 @@ family: emerging-hybrid
 era: 2008–present online movement; 2010s visual and architectural codification
 aliases: []
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["cyberpunk", "japanese-metabolism", "post-apocalyptic-scavenged-tech"]
 subsets: []
 ---
@@ -20,15 +20,15 @@ Use Solarpunk for climate-positive storytelling, community infrastructure concep
 
 ## 7-Dimension Profile
 
-**Palette**: sunlit yellow, leaf and forest greens, sky and water blues, earthen browns, copper, warm white, floral accents, terracotta, algae/teal, and reclaimed-material neutrals; colors should read hopeful and ecological rather than grim or toxic.
+**Palette**: both bright daylight and nocturnal variants occur; coral, purple and cyan can be as characteristic as green. Common roles include sunlit yellow, leaf and forest greens, sky and water blues, earthen browns, copper, warm white, floral accents, terracotta, algae/teal, and reclaimed-material neutrals; colors should read hopeful and ecological rather than grim or toxic.
 
-**Type**: approachable humanist typography, cooperative-poster cues, workshop signage, hand-drawn labels, and practical readable sans/serif systems; avoid authoritarian futurist type or hyper-corporate eco branding.
+**Type**: publication examples combine ornamental serif mastheads, practical sans information and drawn lettering. Approachable serif/sans hierarchies, workshop labels and cooperative-poster cues are useful UI translations; no universal Solarpunk font is evidenced.
 
 **Texture**: plants, wood, recycled materials, weather-aware surfaces, solar hardware, woven fibers, greenhouse glazing, ceramic/earthen finishes, rainwater systems, and visible repair.
 
 **Shape**: biophilic curves, terraces, canopy forms, greenhouse arcs, layered gardens, walkable platforms, vertical forests, retrofit add-ons, bikes, seed libraries, modular repair objects, and hybrid natural/engineered structures.
 
-**Motion**: growth, circulation, breeze, maintenance, water capture, transit flow, pollinator/helper-bot action, and calm public activity; motion should feel regenerative rather than frantic.
+**Motion**: circulation, maintenance, water capture and shared transit are recurring depicted subjects. The directly inspected still corpus does not establish timing or easing. Intentional stillness is valid; when motion serves a task, keep it legible, pausable where continuous, and reduced-motion compatible.
 
 **Spatial**: dense-with-life public space, shared infrastructure, walkability, gardens, rooftops, microgrids, courtyards, cooperative making/repair spaces, and nature integrated into urban or domestic systems.
 
@@ -36,11 +36,11 @@ Use Solarpunk for climate-positive storytelling, community infrastructure concep
 
 ## Non-Negotiables
 
-**Non-negotiables**: hopeful ecological palette + integrated nature and technology + community/public spatial logic + practical sustainability cues + visible social repair. If the “punk” commitment disappears, the result becomes greenwashed eco-futurism rather than Solarpunk.
+**Non-negotiables**: ecological regeneration joined to technology + collective agency and access + visible mechanisms of care, repair or shared infrastructure. If the “punk” commitment disappears, the result becomes greenwashed eco-futurism rather than Solarpunk.
 
 ## Connotation
 
-Solarpunk was coined online in 2008 and grew through 2010s internet art, fiction, architecture discourse, and climate-future writing. The sources frame it as both speculative and practical: a positive alternative to dystopian sci-fi that also asks for present-tense mutual aid, repair, renewable energy, affordability, and collective flourishing. Contemporary use is optimistic but politically loaded; it promises that sustainable futures are buildable, not just renderable.
+**Mode:** contemporary speculative movement. Solarpunk developed through online ecological-future discourse, fiction, illustration and climate-future writing; Adam Flynn’s 2014 manifesto notes explicitly linked infrastructure, ingenuity and community. The sources frame it as both speculative and practical: a positive alternative to dystopian sci-fi that also asks for present-tense mutual aid, repair, renewable energy, affordability, and collective flourishing. Contemporary use is optimistic but politically loaded; it promises that sustainable futures are buildable, not just renderable.
 
 ## Related / Subsets
 
@@ -70,7 +70,7 @@ Use readable humanist sans-serifs, warm slab/serif support, cooperative-poster l
 
 - **Context:** Solarpunk is a social and ecological movement as much as a visual style; decorative greenery without practical sustainability weakens the aesthetic.
 - **Use with care:** Avoid luxury eco-renderings that erase affordability, labor, colonial land politics, and unequal access to green futures.
-- **Safer translation:** Keep people, power, maintenance, repair, and shared infrastructure visible alongside nature and technology.
+- **Safer translation:** Make agency, access, maintenance, repair and shared resources legible through useful flows and connected systems. Human imagery is not required to convey collective life.
 - **Avoid:** vines-on-skyscrapers as a complete concept, greenwashed premium branding, empty utopian spectacle, or sustainability claims that cannot be supported.
 
 ## Anti-Patterns
@@ -79,3 +79,5 @@ Use readable humanist sans-serifs, warm slab/serif support, cooperative-poster l
 - Dystopian scarcity, survival grime, or militarized technology replacing regenerative abundance.
 - Sterile corporate eco branding that removes people and politics.
 - Pure cottage garden nostalgia with no renewable technology or future-building claim.
+
+Research trace: [direct media audit and exclusions](../../../knowledge/aesthetics/solarpunk.md#direct-media-audit--2026-11-12).

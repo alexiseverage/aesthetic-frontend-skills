@@ -5,80 +5,85 @@ family: "historical-design-movements"
 era: "Japanese tea lineage; contemporary slow-living adaptations"
 aliases: ["wabi-sabi", "slow living aesthetic", "wabi-cha"]
 status: "canonical"
-evidence_level: "limited"
+evidence_level: "standard"
 related: ["scandinavian-modern", "warm-minimalism", "quiet-luxury"]
 subsets: []
 ---
 
 # Wabi-Sabi / Slow Living
 
-Do not flatten into beige wellness minimalism or fake Zen branding; keep tea culture, impermanence, humble materiality, and aging visible.
+Wabi-sabi is grounded in Japanese tea and material traditions that value transience, modesty and particularity. Contemporary slow-living design adapts some of these ideas to attention, care and everyday objects; it is an adjacent layer, not a historical synonym. A beige palette or a damaged-looking surface cannot establish the lineage by itself.
 
 ## Scope
 
-Do not flatten into beige wellness minimalism or fake Zen branding; keep tea culture, impermanence, humble materiality, and aging visible.
-
-**Related / Subsets**: Distinct from `warm-minimalism`, `quiet-luxury`, and `scandinavian-modern`: weathering, irregularity, incompletion, and humble impermanence are required.
+Use for material-focused editorial work, object journals, craft archives and considered everyday workflows. Preserve specific makers, ware traditions and cultural context. Quiet interaction should allow time for attention without delaying navigation or making ordinary tasks deliberately difficult. This is a design translation, not a simulation of chanoyu or a claim to spiritual authority.
 
 ## 7-Dimension Profile
 
-**Palette**: Clay white, ash gray, soot black, moss, lichen, weathered brown, muted earth red, paper off-white, pale wood, and stone.
+**Palette**: clay white, soot black, olive ash, warm orange, rusty red, pale wood and deep bamboo brown. Dark glossy Raku and colored decoration coexist with pale Shino surfaces. Use material roles rather than a compulsory beige/cream scheme.
 
-**Type**: Restrained serif or humanist sans, modest hierarchy, quiet scale shifts, and no brush-font or fake Zen calligraphy. Common reinforcement: Support labels and metadata tuned to the domain. Variant edge: Decorative display accents used sparingly.
+**Type**: modest readable hierarchy is a contemporary application choice; the object corpus supplies no historical interface font evidence. Restrained serif or humanist sans can support long observation and concise labels. Avoid brush-font shorthand, invented Japanese text and decorative characters used as an authenticity stamp.
 
-**Texture**: Unglazed stoneware, ash glaze, rough clay, patina, worn wood, bamboo, handmade paper, linen, visible repair, and stains. Common reinforcement: Interface chrome that preserves source material logic. Variant edge: Flatter reduced-texture variants for legibility.
+**Texture**: specific glaze pools, pores, exposed clay, forming traces, bamboo joins and localized wear. Distinguish making, firing, decoration, age and documented repair. Texture should belong to an object or surface rather than cover all content with a generic grunge filter.
 
-**Shape**: Asymmetrical bowls, off-center vessels, low tables, natural-edge objects, handmade irregular silhouettes, and humble geometry. Common reinforcement: Repeated UI modules echoing the source object model. Variant edge: Softened modern component variants.
+**Shape**: coherent functional bowls, fitted containers, joined handles and structurally woven baskets can carry slight asymmetry or uneven rims. Irregularity is localized and accountable to material and use. Symmetry is not automatically disqualifying, and arbitrary distortion is not required.
 
-**Motion**: Near-still fades, steam drift, breathing reveals, contemplative pauses, and reduced-motion-first interactions. Common reinforcement: State transitions linked to the core workflow. Variant edge: Static print-first or reduced-motion fallbacks.
+**Motion**: stillness is sufficient. Still photographs establish no ceremonial timing, steam cadence or breathing rhythm. Keep selection, writing and disclosure immediate. Optional gentle feedback must retain the whole workflow under reduced motion and should never force a contemplative wait.
 
-**Spatial**: Secluded, sparse, intimate, contemplative negative space, careful placement, and quiet incompletion. Common reinforcement: Secondary panes/lists that preserve scan order. Variant edge: More spacious marketing adaptations.
+**Spatial**: careful placement, visible object proportions and room for inspection support intimate attention. Museum backdrops are not evidence of historical room colors or universal emptiness. In an interface, use negative space around important objects while keeping labels, controls and text easy to find.
 
-**Cultural markers**: Chanoyu, Sen no Rikyū, wabi-cha, Raku/Shigaraki/Bizen bowls, impermanence, age, humility, care, and repair. Common reinforcement: Domain vocabulary and object-specific affordances. Variant edge: Broader adjacent-pop-culture references.
+**Cultural markers**: Japanese tea lineages, wabi-cha, named Raku/Shino/Shigaraki/Iga traditions, material particularity and attentive use. Korean and Chinese ceramics have their own histories and roles in tea culture; do not relabel all rustic Asian objects as Japanese wabi-sabi. Mingei and contemporary slow living overlap without becoming interchangeable.
 
 ## Non-Negotiables
 
 **Non-negotiables**:
 
-- imperfection.
-- impermanence.
-- humble materiality.
-- contemplative spatial restraint. If these are removed, the result collapses into an adjacent or generic style rather than Wabi-Sabi / Slow Living.
+- Material and temporal particularity: a specific surface, making trace or history should matter.
+- Coherent useful forms with contained variation, rather than arbitrary visual imperfection.
+- Modest, attentive composition and readable ordinary interactions.
+- Cultural context that distinguishes historical tea traditions from contemporary lifestyle adaptation.
+
+Neither visible damage nor gold repair is compulsory. A perfectly usable object can carry the aesthetic through forming, glaze and attentive use.
 
 ## Connotation
 
-**Mode:** contemporary revival.
-
-**Authentic philosophical lineage / careful contemporary translation.** Slow living is a modern adjacent layer, not the historical core of wabi-sabi.
+The historical lineage concerns particular objects, occasions and cultivated appreciation. A contemporary translation can feel grounded, intimate and unhurried. Do not turn it into an expensive blank-space costume, generic wellness promise or universal definition of Japanese taste.
 
 ## Related / Subsets
 
-Related aesthetics from the dictionary and candidate set:
-- Distinct from `warm-minimalism`, `quiet-luxury`, and `scandinavian-modern`: weathering, irregularity, incompletion, and humble impermanence are required.
+- `warm-minimalism` shares restraint and warm material tones; wabi-sabi requires more specific material/time relationships and cultural grounding.
+- `quiet-luxury` can share discretion, but price, polish and exclusivity do not define this entry.
+- `scandinavian-modern` has a separate regional and industrial-design history.
+- Mingei overlaps through some makers and utensils; handmade craft alone is not proof of either category.
 
 ## Frontend / UI Guidance
 
-Translate the aesthetic through layout, type hierarchy, material cues, and culturally specific markers before color. Preserve ordinary usability in navigation, forms, tables, and body text; reserve the strongest aesthetic signals for heroes, section dividers, cards, editorial modules, and high-value calls to action.
+Build a useful observation, care or reading task. Keep the material study legible and let controls follow a stable alignment system. Place the strongest grain and uneven edges on original objects or a few surfaces. Use ordinary focus states, labels and text contrast; sparse composition must not hide actions.
 
 ## CSS Translation
 
-- Color roles should be drawn from the palette dimension: Clay white, ash gray, soot black, moss, lichen, weathered brown, muted earth red, paper off-white, pale wood, and stone.
-- Surfaces and borders should translate the texture dimension: Unglazed stoneware, ash glaze, rough clay, patina, worn wood, bamboo, handmade paper, linen, visible repair, and stains. Common reinforcement: Interface chrome that preserves source material logic. Variant edge: Flatter reduced-texture variants for legibility.
-- Shape language should follow the source geometry: Asymmetrical bowls, off-center vessels, low tables, natural-edge objects, handmade irregular silhouettes, and humble geometry. Common reinforcement: Repeated UI modules echoing the source object model. Variant edge: Softened modern component variants.
-- Layout should preserve the spatial convention before adding ornament: Secluded, sparse, intimate, contemplative negative space, careful placement, and quiet incompletion. Common reinforcement: Secondary panes/lists that preserve scan order. Variant edge: More spacious marketing adaptations.
-- Motion should stay within the source timing character and include reduced-motion fallbacks: Near-still fades, steam drift, breathing reveals, contemplative pauses, and reduced-motion-first interactions. Common reinforcement: State transitions linked to the core workflow. Variant edge: Static print-first or reduced-motion fallbacks.
+- Define surface/ink/ash/clay/bamboo roles, with optional dark glaze or orange-clay variants.
+- Use a limited original texture or procedural grain clipped to the material it describes.
+- Keep borders and controls geometrically stable; local object silhouettes can vary without impairing hit targets.
+- Pair an asymmetrically placed object with clear text hierarchy and sufficient surrounding space.
+- Prefer immediate state changes and intentional stillness. Remove optional interpolation under reduced motion.
 
 ## Typography / Fonts
 
-Use the type system as a hierarchy, not a blanket font costume. Restrained serif or humanist sans, modest hierarchy, quiet scale shifts, and no brush-font or fake Zen calligraphy. Common reinforcement: Support labels and metadata tuned to the domain. Variant edge: Decorative display accents used sparingly. Reserve the most characteristic display treatment for logos, headlines, labels, or section markers, and pair it with readable body/support type for dense interface text.
+Choose legible text faces for the actual language and task. A restrained serif display and readable sans labels are one contemporary option, not a reconstructed Japanese tea typography system. Use moderate line length and clear size/weight differences; low contrast is not a sign of authenticity.
 
 ## Cultural / Ethical Notes
 
-Wabi-sabi has a Japanese tea-culture and philosophical lineage; slow living is a contemporary adjacent layer, not the historical core. Do not flatten the entry into beige wellness minimalism, fake Zen branding, brush-font orientalism, or generic “calm Japan” décor. Safer translation preserves impermanence, humble materiality, visible aging, repair, and contemplative space without claiming spiritual authority.
+Preserve Japanese origins and the distinct identities of referenced Korean/Chinese objects. A still photograph cannot prove a repair method, emotional state or philosophical intention. Gold motifs can be decoration rather than repair. Contemporary care journaling can evoke attentive use without claiming to reproduce a tea gathering, teach conservation or provide wellness benefits.
 
 ## Anti-Patterns
 
-- Using only the palette while ignoring the type, texture, shape, and spatial system; that reduces Wabi-Sabi / Slow Living to a color theme.
-- Copying source motifs as generic decoration without the origin, practitioner, regional, or institutional context recorded in the knowledge profile.
-- Applying the strongest ornamental or material cues to every component, which makes navigation, forms, and content hierarchy harder to use.
-- Flattening the entry into a neighboring aesthetic named in Related / Subsets instead of preserving the boundary conditions above.
+- Beige-only branding with no specific material structure.
+- Random crooked borders, false stains or mandatory gold cracks.
+- Treating every handmade, old or Asian object as wabi-sabi.
+- Decorative calligraphy or spiritual claims used to substitute for provenance.
+- Hidden controls, illegible gray text or forced delays presented as calmness.
+
+## Evidence and boundaries
+
+The [research profile](../../../knowledge/aesthetics/wabi-sabi-slow-living.md) records a 2026-11-12 direct audit of 37 full object photographs: 30 qualifying works and seven excluded comparisons. Two museum collections dominate the corpus. Material and shape evidence is strong for the object branch; historical motion, typography and full-room evidence remain limited or unknown.

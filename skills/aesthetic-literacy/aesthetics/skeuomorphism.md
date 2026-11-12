@@ -5,7 +5,7 @@ family: digital-internet-native
 era: 2001–2013 peak digital realism, with earlier conceptual roots and later revivals
 aliases: ["realistic UI", "material mimicry"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["flat-design", "neumorphism", "frutiger-aero", "material-design"]
 subsets: ["frutiger-aero"]
 ---
@@ -16,7 +16,7 @@ Skeuomorphism is a design strategy where digital interfaces retain ornamental an
 
 ## Scope
 
-Use Skeuomorphism for simulation tools, educational interfaces where physical metaphor helps learning, retro-UI homages, game inventories, audio/music production controls, novelty portfolios, and luxury or craft experiences that benefit from tactile richness. Avoid it for dense SaaS, analytics dashboards, modern enterprise productivity, accessibility-critical reading, or any context where texture and ornament slow comprehension.
+Use Skeuomorphism for simulation tools, educational interfaces where physical metaphor helps learning, retro-UI homages, game inventories, audio/music production controls, novelty portfolios, and luxury or craft experiences that benefit from tactile richness. Dense specialist tools can use the strategy when object grouping helps the task. Reduce material detail wherever it obscures reading, focus, selection or precise value entry; novelty is not evidence of improved usability.
 
 ## 7-Dimension Profile
 
@@ -28,7 +28,7 @@ Use Skeuomorphism for simulation tools, educational interfaces where physical me
 
 **Shape**: knobs, switches, tabs, notebooks, shelves, reels, calculators, page curls, segmented toggles, card stacks, deck-like containers, and physically suggestive control silhouettes.
 
-**Motion**: flips, presses, toggles, page turns, reel spins, shutter animations, dial rotations, inertial feedback, and object-like transitions that reinforce the physical metaphor.
+**Motion**: task-related presses, toggle changes, dial rotations and object-like transitions can explain state. Static screenshots do not establish timings. Keep decorative motion optional, provide direct keyboard/value access, and preserve state and timekeeping under reduced motion. A physical metaphor does not require a perpetual simulation.
 
 **Spatial**: object-on-desk framing, layered panels, shelves, stacks, analog tool arrangements, physically suggestive depth, and clear foreground controls resting on or inside material surfaces.
 
@@ -36,11 +36,11 @@ Use Skeuomorphism for simulation tools, educational interfaces where physical me
 
 ## Non-Negotiables
 
-**Non-negotiables**: recognizable physical-object reference + material texture/depth + affordance or domain familiarity from that reference. Skeuomorphism is not any 3D UI; the borrowed object cue must matter.
+**Non-negotiables**: a recognizable borrowed object or construction cue whose form informs the task or domain; a coherent representation of its surfaces, control map or assembly; and readable operational states. Low-resolution analog clocks can be skeuomorphic without photoreal texture. Gloss, shadow or a material-colored generic panel alone is insufficient.
 
 ## Connotation
 
-In its original digital peak, Skeuomorphism was sincere: designers believed physical metaphors would help users understand unfamiliar digital tools. Contemporary revival can feel warm, tactile, and craft-oriented, but it can also read as retro excess if material mimicry overwhelms content or accessibility.
+In its original digital peak, Skeuomorphism was sincere: designers often used physical metaphors to make unfamiliar digital tools recognizable. Familiarity depends on the audience and referent; a simulated instrument does not automatically teach its use. Contemporary revival can feel warm, tactile, and craft-oriented, but it can also read as retro excess if material mimicry overwhelms content or accessibility.
 
 ## Related / Subsets
 
@@ -78,3 +78,7 @@ Material metaphors can improve familiarity, but heavy texture and low-contrast e
 - Texture-heavy backgrounds that reduce contrast or reading speed.
 - Treating all 3D, glossy, or shadowed UI as skeuomorphic without object reference.
 - Page curls, dials, or switches used as decoration when simpler controls would serve users better.
+
+## Evidence and boundaries
+
+The [research profile](../../../knowledge/aesthetics/skeuomorphism.md) records a 2026-11-12 direct audit of 33 qualifying works across archival utilities, contemporary instrument interfaces and three interactive browser studies. Four weak comparisons are excluded. Desktop/audio concentration limits claims about mobile books and notebooks. Contemporary publisher images and browser recreations are separated from historical evidence; no animation cadence or universal usability advantage is inferred from still controls.
