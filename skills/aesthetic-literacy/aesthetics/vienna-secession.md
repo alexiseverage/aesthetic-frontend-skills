@@ -8,7 +8,7 @@ aliases:
   - Wiener Werkstätte
   - Secession Style
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related:
   - art-nouveau
   - de-stijl
@@ -30,7 +30,7 @@ Vienna Secession is the Viennese around-1900 total-design language that merges r
 
 **Shape**: Squares, grids, circles, checker ornament, framed panels, medallions, controlled linear decoration, rectilinear massing, and stylized floral motifs held within geometry.
 
-**Motion**: Ceremonial reveal, slow decorative emphasis, pattern unfurling, and subtle gilded shimmer. Motion should feel composed and cultured rather than aggressive.
+**Motion**: Inspected evidence is still print, architecture and objects, not historical interface animation. Intentional stillness and immediate selection feedback are appropriate. Ceremonial reveals or subtle material emphasis are optional contemporary proposals, never requirements inferred from a static work; support reduced motion.
 
 **Spatial**: Total-design interiors, gallery-like framing, balanced decorative fields, portals, thresholds, modular cards, square-proportion tracks, and strong image-border-type integration.
 
@@ -38,7 +38,7 @@ Vienna Secession is the Viennese around-1900 total-design language that merges r
 
 ## Non-Negotiables
 
-**Non-negotiables**: elegant geometric ornament; square-grid or framed composition; refined metallic/gold contrast; Viennese total-design context; no casual friendliness.
+**Non-negotiables**: Integrated lettering, structure and ornament/material detail; a coherent geometric or framed organization; and historically situated Viennese exhibition/applied-art context. Gold, square grids and dense decoration are important variants, not universal requirements: restrained black/white, silver/glass, curved timber and colored print also occur.
 
 ## Connotation
 
@@ -49,7 +49,7 @@ Vienna Secession is the Viennese around-1900 total-design language that merges r
 - `art-nouveau` — closest family, but more organic and whiplash-curved than Vienna Secession’s geometric discipline.
 - `de-stijl` — later strips geometry toward pure abstraction and away from ornament.
 - `beaux-arts` — shares ceremonial composition, but is more classical and monumental.
-- Subsets include Wiener Werkstätte, Klimt geometric-gold phase, and Hoffmann square-grid interiors.
+- Related applications include early Wiener Werkstätte objects, Klimt geometric-gold treatments and Hoffmann interiors. The Wiener Werkstätte, founded in 1903, was a separate production association with overlapping participants, not the Secession itself; its broader 1903–1932 output should not all be collapsed into this entry. Existing lookup aliases are compatibility routes rather than claims of institutional identity.
 
 ## Frontend / UI Guidance
 
@@ -64,7 +64,7 @@ Use gridded frames, controlled gold rules, compact formal navigation, and genero
 
 ## Typography / Fonts
 
-Use DM Sans or other geometric sans for disciplined support, Bodoni Moda or Playfair Display for formal titling, and tall condensed display capitals where readability permits. Letterspacing and integrated logos matter more than decorative novelty.
+Use readable geometric or humanist support type and short, deliberately composed display lettering. Inspected posters include rounded interlocking capitals, very narrow letters and dense positive/negative type blocks, not merely a formal serif plus wide tracking. Draw an original brief wordmark when useful; keep longer text and controls plain. Serif substitutions can suit an editorial variant but do not alone carry the identity.
 
 ## Cultural / Ethical Notes
 
@@ -73,3 +73,7 @@ Vienna Secession is tied to elite fin-de-siècle Austrian exhibition culture, cr
 ## Anti-Patterns
 
 Avoid organic whiplash overload, friendly rounded SaaS components, rustic roughness, casual illustration, theatrical faux-luxury gold gradients, and grids with no ornament/context. If it reads as generic premium black-and-gold, it is not specific enough.
+
+## Evidence Notes
+
+The [research profile](../../../knowledge/aesthetics/vienna-secession.md#research-updates--2026-11-12) records 30 qualifying directly inspected works, four institutional collections and boundary/confidence notes. It distinguishes source-supported history, observed material grammar and proposed contemporary UI behavior.

@@ -9,7 +9,7 @@ aliases:
   - fashion minimalism
   - Calvin Klein aesthetic
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related:
   - swiss-international
   - warm-minimalism
@@ -23,15 +23,15 @@ subsets: []
 
 ## 7-Dimension Profile
 
-**Palette**: Monochromatic and tonal: black `#000000`, white `#ffffff`, slate gray, cream, beige, taupe, navy, and skin-tone neutrals. One restrained family should dominate; decorative accent color breaks the fashion-editorial signal.
+**Palette**: Monochromatic and tonal: black `#000000`, white `#ffffff`, slate gray, cream, beige, taupe, navy, and skin-tone neutrals. A restrained field commonly dominates, but selective yellow garments and a red-orange Sander campaign show that color is not categorically excluded. Controlled contrast and construction matter more than one compulsory neutral palette.
 
-**Type**: Light-to-regular neo-grotesk or geometric sans-serif, often Helvetica Neue, Futura, Gotham-adjacent, or similarly restrained substitutes. Use small caps, wide tracking, and sparse brand-scale titling rather than expressive display type.
+**Type**: Light-to-regular neo-grotesk or geometric sans-serif, often Helvetica Neue/Futura-like categories or similarly restrained contemporary substitutes. Exact historical faces are not established by the current corpus; a modern substitute must not be presented as a period attribution. Use small caps, wide tracking, and sparse brand-scale titling rather than expressive display type.
 
-**Texture**: Clean matte paper, studio-light softness, fine wool, silk, linen, brushed cotton, and photography grain only when it belongs to the image. Avoid applied distress, heavy gloss, and ornamental digital effects.
+**Texture**: Clean matte paper, studio-light softness, fine wool, silk, linen, brushed cotton, and photography grain only when it belongs to the image. Avoid unrelated ornamental digital effects. Leather/satin sheen, metal hardware, translucent mesh and Lang's irregular weave/raw edges are documented material variants, so neither matte-only nor no-distress is universal.
 
 **Shape**: Architectural rectangles, sharp edges, elongated silhouettes, precise cropping, and unornamented frames. Subtle deconstruction or asymmetry can appear, but the base grammar is cut, not decorated.
 
-**Motion**: Stillness, slow fades, and restrained image crossfades. Motion should feel editorial and observational, never bouncy or spectacle-driven.
+**Motion**: Intentional stillness and direct, stable state changes suit the observed object/retail staging. Slow fades or crossfades are optional UI proposals; still-image evidence establishes no exact historical timing. Avoid movement that disrupts inspection or reading.
 
 **Spatial**: Vast negative space, isolated subject focus, sparse product staging, gallery pacing, and generous margins. A single image or product can dominate a viewport when surrounded by silence.
 
@@ -39,7 +39,7 @@ subsets: []
 
 ## Non-Negotiables
 
-**Non-negotiables**: monochromatic or tonal palette; vast negative space; understated sans-serif typography; no ornament; stillness; explicit fashion-editorial provenance.
+**Non-negotiables**: historically situated fashion-editorial or retail provenance; edited visual hierarchy and controlled color fields; material/proportion/construction carrying the expression; room to inspect a focal object. Tonal palettes, plain sans-serif and generous space are strong common routes. Selective color, hardware, sheen and deconstructed edges are valid variants.
 
 ## Connotation
 
@@ -48,7 +48,7 @@ subsets: []
 ## Related / Subsets
 
 - `swiss-international` — also spare, but Swiss is information-modernist and systems-first; 1990s Minimalism is desire-driven and fashion-commercial.
-- `warm-minimalism` — softens minimalism with domestic warmth, while 1990s Minimalism remains colder, sharper, and more editorial.
+- `warm-minimalism` — softens minimalism with domestic warmth, while 1990s Minimalism often remains sharper and more editorial, while documented retail stone and selective garment colors permit warmth.
 - `grunge-typography` — shares the decade but rejects polish through abrasion rather than luxury restraint.
 - Subsets: Helmut Lang deconstruction, Calvin Klein luxury minimal, and Jil Sander purity.
 
@@ -74,3 +74,7 @@ This look carries fashion-industry class signals, body-image associations, and a
 ## Anti-Patterns
 
 Do not add rainbow accents, friendly blob illustration, rounded toy geometry, bouncy animation, generic SaaS cards, noisy grunge overlays, or dense operational dashboards. Without strong editorial photography and cultural specificity, it collapses into ordinary minimal web design.
+
+## Evidence Notes
+
+The [2026-11-12 direct-media audit](../../../knowledge/aesthetics/1990s-minimalism.md#direct-media-audit) consolidates 36 inspected records into 31 unique artifacts/projects across seven collections/creator sources. Garment material, controlled cut and retail staging are well supported; complete campaign typography and exact historic motion remain narrower or unknown. It corrects universal no-color, matte-only and no-detail prescriptions while preserving the fashion-era identity and class/cultural context.

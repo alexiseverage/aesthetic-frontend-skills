@@ -5,7 +5,7 @@ family: historical-design-movements
 era: 1972–1985
 aliases: ["Swiss Punk", "New Wave Design", "Swiss New Wave", "Weingart Style"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["swiss-international", "desktop-publishing", "grunge-typography"]
 subsets: []
 ---
@@ -20,15 +20,15 @@ Use New Wave Typography for editorial hero sections, design or architecture port
 
 ## 7-Dimension Profile
 
-**Palette**: Black and white with sharp accent colors such as electric blue, hot red, vivid yellow, cyan, or CMYK overlaps. The palette remains restrained and poster-like; it is expressive but not chaotic color maximalism.
+**Palette**: Black and white with sharp accent colors such as electric blue, hot red, vivid yellow, cyan, or CMYK overlaps. Monochrome and two-color works coexist with saturated hybrid multicolor fields. Selective color hierarchy matters more than a mandatory low color count.
 
-**Type**: Sans-serif pushed to expressive limits: Akzidenz-Grotesk, Univers, Helvetica, Space Grotesk, Inter, DM Sans, Syne, or similar disciplined faces with inconsistent letterspacing, varying weights in one word, angled setting, abrupt crops, and type blocks treated as shapes.
+**Type**: Type pushed to expressive limits, often sans-serif: Akzidenz-Grotesk, Univers, Helvetica, Space Grotesk, Inter, DM Sans, Syne, or similar disciplined faces with inconsistent letterspacing, varying weights in one word, angled setting, abrupt crops, and type blocks treated as shapes. Serif/script contrasts and outlined or pixelated letterforms are also documented; modern font names here are proposed substitutes, not historical identifications.
 
 **Texture**: Typographic texture from overlap, scale shifts, transparent film-like layering, dot screens, poster grain, opacity changes, and print-era registration tension. No grunge abrasion; New Wave texture is precise even when disruptive.
 
-**Shape**: Diagonal dividers, slanted baselines, bars, rules, geometric text containers, stairstep motifs, abrupt crops, and off-axis captions. Shapes should feel geometric and grid-aware, not organic or randomly torn.
+**Shape**: Diagonal dividers, slanted baselines, bars, rules, geometric text containers, stairstep motifs, abrupt crops, and off-axis captions. Construction should remain deliberate and grid-aware; irregular masks, clouds and loops can coexist with exact rules and composite glyphs.
 
-**Motion**: Kinetic type via directional slides, snap-ins, staggered letter-spacing shifts, diagonal reveals, and layered parallax. Motion should follow typographic geometry and stop before it destabilizes reading.
+**Motion**: Historic print is intentionally still while composition produces a kinetic impression. Optional digital type transitions are contemporary proposals, not defining requirements or measured historical behavior. Preserve stable reading order and reduced-motion access.
 
 **Spatial**: Broken or subverted grids, asymmetric editorial fields, deliberate tension between order and disruption, visible ghost-grid logic, and overlapping type/image planes. Random misalignment without underlying structure misses the style.
 
@@ -36,7 +36,7 @@ Use New Wave Typography for editorial hero sections, design or architecture port
 
 ## Non-Negotiables
 
-**Non-negotiables**: sans-serif typographic experimentation; deliberate inconsistency in spacing/weight/angle; geometric/diagonal energy; restrained Swiss-derived color discipline; and grid-aware rebellion. New Wave breaks rules it understands.
+**Non-negotiables**: deliberate typographic experiment in spacing, scale, weight, orientation, glyph construction or reproduction; a constructed hierarchy or reading system; and a grounded relationship to post-Swiss/postmodern design. Sans-serif, diagonals, CMYK overlays and broken grids are important routes, not a requirement to combine every device.
 
 ## Connotation
 
@@ -58,8 +58,8 @@ Use New Wave as a brand-expression layer: hero type, exhibition openers, poster 
 - Type: apply controlled span-level `letter-spacing`, `font-weight`, `transform: rotate()`, and abrupt cropping.
 - Layout: use CSS Grid as the underlying scaffold, then let selected elements overlap or rotate with visible intent.
 - Effects: `mix-blend-mode`, opacity layers, dot-screen backgrounds, `clip-path` diagonal slices, and CMYK-like offset overlays.
-- Color: black/white plus one or two sharp accent tokens, not a full rainbow.
-- Motion: snap-in type reveals and diagonal transitions with reduced-motion alternatives.
+- Color: choose a coherent hierarchy from monochrome, limited inks or saturated hybrid fields; do not require one universal palette.
+- Motion: intentional stillness is valid; any optional type transition needs a stable, reduced-motion reading equivalent.
 
 ## Typography / Fonts
 
@@ -74,5 +74,9 @@ Irregular spacing, angled text, and overlap can undermine readability quickly. K
 - Random misalignment with no ghost-grid logic.
 - Applying distortion to body copy, labels, and forms.
 - Treating New Wave as punk zine, grunge, or generic messy design.
-- Using chaotic color instead of restrained Swiss-derived accenting.
+- Treating vivid multicolor as sufficient identity without typographic hierarchy or material/process logic.
 - Adding ornamental motion that competes with already-tense typography.
+
+## Evidence Notes
+
+The [2026-11-12 direct-media audit](../../../knowledge/aesthetics/new-wave-typography.md#direct-media-audit) documents 31 individually inspected still artifacts across five institutions, including predecessor and quiet-practice counterexamples. It corrects universal sans-only, restrained-color and animated-type rules. Historical motion timing and responsive behavior are unknown; the central era does not exclude later hybrid work or earlier antecedents.

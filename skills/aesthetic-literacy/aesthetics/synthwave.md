@@ -2,10 +2,10 @@
 slug: synthwave
 label: Synthwave / Retrowave
 family: digital-internet-native
-era: 2015–present
+era: 2000s–present
 aliases: ["retrowave"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["vaporwave", "cyberpunk", "y2k"]
 subsets: []
 ---
@@ -20,15 +20,15 @@ Use Synthwave for music visuals, game/arcade pages, event posters, campaign hero
 
 ## 7-Dimension Profile
 
-**Palette**: dark purple, black, midnight blue, hot pink, neon magenta, electric cyan, violet, and occasional orange sun gradients. The palette depends on saturated light against darkness; pastel daylight weakens the signal.
+**Palette**: dark purple, black, midnight blue, hot pink, neon magenta, electric cyan, violet, and occasional orange sun gradients. Saturated light against darkness is a strong common route. Daylight arcade interiors, near-white suns and warmer coastal scenes are documented variants; preserve music/arcade revival context and expressive light rather than enforcing dark-only.
 
 **Type**: condensed angular display faces, chrome-extruded 1980s-style lettering, sci-fi sans, italic speed forms, and wide hero titles. Pair novelty headings with readable sans labels for actual UI.
 
-**Texture**: neon glow, atmospheric haze, light trails, chrome highlights, VHS-like softness when used sparingly, laser grids, and glossy poster lighting. Texture should feel cinematic and luminous rather than corrupted.
+**Texture**: neon glow, atmospheric haze, light trails, chrome highlights, VHS-like softness when used sparingly, laser grids, and glossy poster lighting. Grain, worn sleeve edges, scanlines and selective VHS tears are documented alongside chrome and cinematic light. Corruption can be a nostalgic accent without becoming the central process of glitch art.
 
 **Shape**: grid floors, horizon suns, vector mountains, angular panels, rectilinear roads, triangles, cassette tapes, sports cars, DeLorean-like silhouettes, and chrome or cyborg bodies when they stay in poster territory.
 
-**Motion**: driving rhythm, lateral parallax, horizon travel, pulsing neon, reveal glints, and chase-scene energy. Keep loops measured and offer reduced-motion states.
+**Motion**: the driving strand uses expanding road lines, passing scenery, horizon travel and a stable foreground. Other applications may remain still. Pulses/glints are optional proposals, not universal timings; keep content stable, make decorative travel opt-in when useful, and support pause/reduced motion.
 
 **Spatial**: dark infinite space with a strong horizon line, receding perspective grids, foreground silhouettes, and atmospheric depth. The composition often points toward a vanishing point.
 
@@ -36,7 +36,7 @@ Use Synthwave for music visuals, game/arcade pages, event posters, campaign hero
 
 ## Non-Negotiables
 
-**Non-negotiables**: dark background; neon cyan/magenta/purple palette; horizon/grid or equivalent night-drive depth motif; and earnest 1980s sci-fi/action romance. A random neon gradient without horizon, grid, or cinematic retro-futurism is not enough.
+**Non-negotiables**: identifiable contemporary music/arcade/cinematic revival context; expressive light, depth or display lettering that reconstructs 1980s/early-1990s media memory; and a coherent nostalgic world. Dark grounds, cyan/magenta, grids, striped suns and cars are common routes, not individually mandatory. A random neon gradient has insufficient provenance or structure.
 
 ## Connotation
 
@@ -44,7 +44,7 @@ Synthwave connotes affectionate 1980s futurist nostalgia, speed, romance, and ci
 
 ## Related / Subsets
 
-- `vaporwave` shares retro-futurist colors and grids, but Vaporwave is slower, more ironic, and filled with consumer-memory fragments.
+- `vaporwave` shares retro-futurist colors and grids, but often foregrounds consumer-memory fragments and more estranged quotation. Sincerity/irony alone cannot classify every work.
 - `cyberpunk` shares neon and technology, but Cyberpunk adds dense urban infrastructure, rain, coercion, and social critique.
 - `y2k` shares synthetic futurism, but Y2K is glossy millennium plastic/chrome rather than dark 1980s night-drive cinema.
 - Retrowave is a common synonym; Outrun is often used casually as a synonym but can be treated more precisely as the racing/grid-road subset.
@@ -76,3 +76,7 @@ Treat Synthwave as nostalgic quotation of media memory, not a factual recreation
 - Applying glowing type to long text, form fields, or legal content.
 - Overusing pulsing/flickering effects without reduced-motion alternatives.
 - Using nostalgia cues so heavily that product state and navigation disappear.
+
+## Evidence Notes
+
+The [2026-11-12 direct-media audit](../../../knowledge/aesthetics/synthwave.md#direct-media-audit) consolidates 40 versions into 30 unique references (27 still works and three sampled moving trailers). It corrects the 2015 start date and dark/grid/no-corruption absolutes. Most artwork comes from a concentrated music-poster lineage; motion evidence concerns the driving strand, and exact fonts/easing are unverified.
