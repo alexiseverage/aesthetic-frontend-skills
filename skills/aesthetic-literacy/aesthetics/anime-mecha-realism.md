@@ -12,77 +12,68 @@ subsets: []
 
 # Anime Mecha-Realism
 
-Anime Mecha-Realism is application-ready because its signal is distributed across the seven-dimension framework rather than resting on palette alone. The most important implementation guardrail is to preserve the combined palette, material, shape, motion, spatial, and cultural-marker system; if only one cue is present, the result will read as generic speculative technology.
+A real-robot visual system treats fictional machines as assembled, operated and serviced equipment. Articulated parts, model and unit identities, layered armor and a supporting technical world matter more than a single robot illustration or palette. The name describes coherent genre engineering, not proof of physical feasibility.
 
 ## Scope
 
-Use when the product, interface, or visual artifact benefits from this exact machine/body/worldbuilding language. Avoid when a neighboring aesthetic would communicate the intent with fewer cultural or accessibility risks.
-
-Preserve the whole system across interface scale: the aesthetic should survive in a hero, a card, an icon set, and a form state without relying on one decorative cue. If the product only needs a lighter reference, borrow one or two tokens while naming the result as an influence rather than the full aesthetic.
+Use for fictional service tools, mechanical archives, model workbenches and interfaces whose tasks benefit from part relationships, assembly states or operational records. Patlabor's police/industrial machines show that this need not be a battlefield or weapon interface. Preserve the identity at card and control scale through typography, diagrams, panel geometry and meaningful state. People and pilot portraits are unnecessary.
 
 ## 7-Dimension Profile
 
-**Palette**: off-white, navy, charcoal, safety red, desaturated unit accents. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Palette**: Off-white/navy with safety-red accents is one strong branch; olive utility machines, dark armor and saturated red variants also occur. Separate outer shell, recessed frame, sensor and warning roles rather than require one universal colorway.
 
-**Type**: technical sans, unit numerics, subsystem labels, faction insignia. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Type**: Technical labels, part codes, unit numerals and aligned specification blocks; condensed sans headings are common in kit documents, with other display categories as variants. Use a readable sans and tabular numerals. No exact historical font has been established.
 
-**Texture**: panel lines, internal frames, weathering, verniers, sensor glass. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Texture**: Plate seams, dark articulation gaps, vent grids, flexible joint covers and sensor glass distinguish materials. Weathering is optional; clean engineering sheets and new kit surfaces also qualify.
 
-**Shape**: plausible joints, backpack mass, weapons, vents, pistons. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Shape**: Coherent assembled volumes, pivots, removable covers, ports, brackets and structural mass. A part selection should correspond to the part actually drawn. Squat utility frames and tall civil machines are legitimate variants. Weapons are optional.
 
-**Motion**: articulated posing, recoil, thrust-vector shifts, deployable gear. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Motion**: Articulated poses and assembly arrows inform direction, not measured timing. Proposed interface motion can separate parts along a clear axis or expose a layer after an explicit action. Still diagrams are valid. Reduced motion should switch directly to the same readable state.
 
-**Spatial**: hangars, launch catapults, maintenance bays, battlefield logistics. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Spatial**: Maintenance bays, logistics, equipment inventories and numbered instruction sequences; hierarchy separates whole assembly, selected part and service record. Giant scale can be implied through assembly scale, labels and architecture without depicting people.
 
-**Cultural markers**: Gundam real-robot lineage, Evangelion tension, model-kit realism. Common extensions include Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact. Variant treatments include Mainstream adaptations may simplify this cue for readability; keep them secondary to the canonical signal.
+**Cultural markers**: Gundam's real-robot/model-kit lineage, VOTOMS utility armor and Patlabor's civil/industrial labor machines. Biological horror and superhero spectacle are adjacent branches, not required signals.
 
 ## Non-Negotiables
 
-**Non-negotiables**:
-
-- off-white, navy, charcoal, safety red, desaturated unit accents.
-- panel lines, internal frames, weathering, verniers, sensor glass.
-- plausible joints, backpack mass, weapons, vents, pistons.
-- hangars, launch catapults, maintenance bays, battlefield logistics.
+**Non-negotiables**: - A coherent machine or subsystem with legible relationships between parts.
+- Technical identity and an operational/assembly context beyond generic sci-fi decoration.
+- Distinct shell, joint/core and information layers, with readable task hierarchy.
+- Original component grammar that survives without a franchise illustration or human figure.
 
 ## Connotation
 
-Anime Mecha-Realism carries a specific robotics/speculative-technology connotation; use the source-backed cues above as a system rather than as isolated moodboard decoration.
-
-Because the entry is intended for practical frontend use, connotation should be calibrated to the audience and product domain rather than applied as costume. Favor legible homage, contemporary revival, or clearly bounded genre quotation over accidental parody.
+Contemporary fictional quotation: engineered, serviceable, serially manufactured and operationally situated. A deliberately mundane inspection form can communicate this more precisely than a decorative battle HUD. Do not turn fictional specifications into real engineering claims.
 
 ## Related / Subsets
 
-Related to mecha-kaiju but more engineering/logistics oriented; adjacent to HMI for telemetry, but covers the whole machine worldview.
-
-Related to mecha-kaiju but more engineering/logistics oriented; adjacent to HMI for telemetry, but covers the whole machine worldview.
-
-Metadata related slugs: `mecha-kaiju`, `high-performance-hmi`, `cyberpunk`.
-No canonical subsets are currently defined for this entry.
+Related to `mecha-kaiju` through giant machines, but more focused on operation and assembly; `high-performance-hmi` provides telemetry discipline without the anime-world identity. `cyberpunk` shares speculative machinery but need not use this mechanical-design grammar. No canonical subsets are currently defined. Evangelion is useful adjacent context for machine/body tension, not the universal template.
 
 ## Frontend / UI Guidance
 
-Start with hangars, launch catapults, maintenance bays, battlefield logistics and plausible joints, backpack mass, weapons, vents, pistons, then layer off-white, navy, charcoal, safety red, desaturated unit accents, technical sans, unit numerics, subsystem labels, faction insignia, and panel lines, internal frames, weathering, verniers, sensor glass. Use the aesthetic for heroes, feature cards, empty states, branded dashboards, campaign pages, illustration frames, and high-value CTAs where its cultural markers are relevant. Keep primary navigation, forms, prices, error states, and body copy on stable accessible surfaces.
+Build one original subsystem diagram with linked part list, model number, service values and explicit action states. Put the selected part's callouts beside it; let inspection progress enable a meaningful completion step. Use real table semantics for specifications and clear labels for selections. Keep navigation and primary content on stable surfaces. Avoid copying franchise robots, logos, insignia or manual diagrams.
 
 ## CSS Translation
 
-- Color roles: translate off-white, navy, charcoal, safety red, desaturated unit accents into named background, surface, accent, and text tokens; reserve common variants (Adjacent aesthetics can borrow this dimension only if the core non-negotiables remain intact.) for depth or emphasis.
-- Surface effects: use panel lines, internal frames, weathering, verniers, sensor glass with CSS gradients, borders, masks, shadows, noise, or SVG filters; keep texture behind solid readable panels.
-- Shape language: build cards, badges, dividers, icons, and frames from plausible joints, backpack mass, weapons, vents, pistons rather than neutral rectangles alone.
-- Layout: organize pages around hangars, launch catapults, maintenance bays, battlefield logistics with enough whitespace and hierarchy for product tasks.
-- Motion: use articulated posing, recoil, thrust-vector shifts, deployable gear as optional enhancement with `prefers-reduced-motion` fallbacks.
+- Assign shell, frame, ink, sensor and warning variables; light paper is as valid as a dark hangar surface.
+- Use thin rules and restrained grid lines for a technical drawing board, with recessed dark joints and a small accent for selection.
+- Author original SVG primitives with a stable viewBox; group parts so selected/exploded states correspond to actual geometry.
+- Use CSS grid for drawing/details at wide sizes and stack the same reading order on phones. Tables must remain legible without duplicate cell labels.
+- Keep transitions optional and user-triggered. Under `prefers-reduced-motion`, remove interpolation while preserving selected and completed states.
 
 ## Typography / Fonts
 
-Use technical sans, unit numerics, subsystem labels, faction insignia for identity moments, headings, numerals, labels, or badges. Pair it with a neutral readable sans or serif for body text and controls. Avoid making all microcopy decorative; the aesthetic reads more strongly when focal typography contrasts with quiet support typography.
+A system sans/monospace pairing with condensed or tightly tracked display labels can serve this quotation without adding font payload. Match part-code hierarchy and tabular alignment rather than inventing a historically definitive typeface. Use normal readable case and size for instructions, errors and controls.
 
 ## Cultural / Ethical Notes
 
-The source-backed cultural markers are Gundam real-robot lineage, Evangelion tension, model-kit realism. Use them as context signals, not as extractive decoration. When an implementation references living cultures, subcultures, fandoms, gambling, youth media, war machinery, or speculative harm, keep claims specific, fictionalized where appropriate, and avoid presenting stereotypes or protected symbols as generic ornament.
+These references belong to specific Japanese creators, studios and model-kit publishers. Link context, use original graphics and fictional product names, and avoid affiliation claims. Do not require militarism, copied faction symbols, bodies, pilot portraits or a specific fandom's protected iconography to make the style legible. [Direct-media research and limitations](../../../knowledge/aesthetics/anime-mecha-realism.md) distinguish observations from proposed UI values.
 
 ## Anti-Patterns
 
-- Using only the palette while dropping the shape, texture, spatial, and cultural-marker system; that becomes generic moodboard styling rather than Anime Mecha-Realism.
-- Overloading every component with motifs so navigation, forms, pricing, or body copy become hard to scan.
-- Borrowing adjacent-aesthetic cues so heavily that the entry loses its own source-backed center of gravity.
-- Animating glow, grain, flash, or mechanical effects without reduced-motion and solid-surface fallbacks for critical content.
+- A generic dark dashboard with neon borders and a robot thumbnail.
+- Random screws, vents and labels that do not describe the drawn assembly.
+- Palette-only imitation or treating all military vehicles as anime mecha.
+- A weapon, human portrait, film still or copied franchise model as the sole identity signal.
+- Infinite scanning, fake live telemetry or unreadable microtype replacing a useful task.
+- Claiming measured motion, exact fonts or buildable engineering from still illustrations.

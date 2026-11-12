@@ -5,7 +5,7 @@ family: contemporary-lifestyle
 era: 2020s revival with older balletomania roots
 aliases: ["ballet aesthetic", "dancer off-duty", "ballet rehearsal style"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["barbiecore"]
 subsets: []
 ---
@@ -20,7 +20,7 @@ Use Balletcore for fashion, wellness, editorial commerce, performance programs, 
 
 ## 7-Dimension Profile
 
-**Palette**: Blush, cream, satin ivory, dove gray, soft taupe, peach, nude, and black leotard contrast.
+**Palette**: Blush, cream, satin ivory, dove grey, taupe and substantial black rehearsal contrast. Blue, sage, burgundy and saturated practice-wear variants are also documented. Match any skin-relative tone to its actual subject; there is no universal “nude.”
 
 **Type**: Poised serif or soft sans, elongated proportions, recital/program accents, and airy hierarchy.
 
@@ -28,7 +28,7 @@ Use Balletcore for fashion, wellness, editorial commerce, performance programs, 
 
 **Shape**: Wrap closures, long lines, leotards, ballet flats, ribbons, leg warmers, shrugs, and barre anchors.
 
-**Motion**: Controlled float, pirouette loops, ribbon spirals, tulle fades, and precise vertical lift.
+**Motion**: Controlled alignment, poised reveal or restrained movement can translate rehearsal discipline. These are proposed interface choices; the current garment stills do not establish timing/easing or justify perpetual pirouette/ribbon loops. Intentional stillness is valid.
 
 **Spatial**: Airy studio/stage/barre orientation, centered axes, generous breathing room, and rehearsal-layer density.
 
@@ -36,7 +36,7 @@ Use Balletcore for fashion, wellness, editorial commerce, performance programs, 
 
 ## Non-Negotiables
 
-**Non-negotiables**: dance-derived silhouette + rehearsal/stage material vocabulary + poised body-trained motion + feminine restraint. If these are removed, the result collapses into an adjacent or generic style rather than Balletcore.
+**Non-negotiables**: dance-derived line and layering + legible rehearsal/stage material contrast + controlled spatial poise. A feminine identity, a particular body type, pink color, a dancer photograph or animated pirouettes are not requirements. Without the dance-derived construction, the result becomes generic soft fashion or coquette decoration.
 
 ## Connotation
 
@@ -49,7 +49,9 @@ Balletcore reads as a source-backed contemporary characterization whose cues sho
 
 ## Frontend / UI Guidance
 
-Build around one poised vertical axis, recital-like hierarchy, and material contrast between soft textile surfaces and clean support UI. Use ribbons, barre lines, program cards, and tulle fades as accents; preserve generous whitespace and accessible body copy.
+Build around a poised axis, programme-like hierarchy and a working rehearsal/planning task. Translate wrap overlap, knit ribs, fine support rules, sheer layers and dark leotard contrast into the controls and note panels themselves. A dancer photograph is optional source material, not the design system. Keep selected classes, saved states and navigation readable on solid surfaces.
+
+The [research profile](../../../knowledge/aesthetics/balletcore.md) records 31 inspected garment designs, two adjacent exclusions and the limits of a rehearsal-material corpus. Product photographs support construction and texture, not universal fashion prevalence, historical fonts or UI animation timing.
 
 ## CSS Translation
 
@@ -58,7 +60,8 @@ Build around one poised vertical axis, recital-like hierarchy, and material cont
 - Radius language: elongated pills and softened cards; avoid childish bubble shapes.
 - Effects: satin sheen, mesh/tulle translucency, subtle textile grain, and controlled shadow lift.
 - Layout: centered hero axes, airy cards, rehearsal/stage zones, and restrained product/editorial grids.
-- Motion: slow float, precise vertical lift, ribbon sweeps, and reduced-motion opacity or position changes.
+- Motion: brief deliberate alignment/reveal, or a still programme composition. Under `prefers-reduced-motion`, show final states directly and remove position/fade transitions.
+- Functional details: a wrap edge can express a selected note; a fine rib or layered band can divide a class list; a narrow rule can carry barre-like alignment. Do not make essential text translucent.
 
 ## Typography / Fonts
 
@@ -73,4 +76,7 @@ Do not trivialize dancer labor, body discipline, injury risk, or professional ba
 - Generic pale pink fashion with no dance-derived silhouette, textile, or motion logic.
 - Coquette lingerie/flirt coding where bows and romance replace posture and rehearsal discipline.
 - Childlike ballerina costume fantasy that erases dancer labor or physical training.
+- Treating thinness, class status or feminine identity as mandatory aesthetic features.
+- Claiming a material reference proves a named font or measured animation.
+- A generic pale page whose identity depends entirely on a portrait or stock dancer image.
 - Heavy, cluttered layouts that lose air, axis, and controlled movement.
