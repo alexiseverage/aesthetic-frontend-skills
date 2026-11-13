@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 326
+- Full entries: 332
 - Redirect entries: 1
 - Families: 8
 
@@ -74,6 +74,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `flash-portal-vernacular` | Flash Portal Vernacular | Flash game portal aesthetic, Flash animation portal aesthetic |
 | `flat-design` | Flat Design | flat UI, metro-inspired, Flat 2.0 |
 | `frutiger-aero` | Frutiger Aero | — |
+| `gacha-banner-interfaces` | Gacha Banner Interfaces | Summon banner interfaces, Recruitment campaign interfaces |
 | `gen-x-soft-club` | Gen X Soft Club | Gen-X Soft Club |
 | `glitch` | Glitch / Datamosh | — |
 | `handheld-creature-encyclopedias` | Handheld Creature Encyclopedias | portable creature index UI, creature field-guide interfaces |
@@ -215,6 +216,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `balloon-twisting` | Balloon Twisting | Balloon modelling, Balloon sculpting |
 | `brazilian-cordel-woodcut` | Brazilian Cordel Woodcut | Cordel woodcut, Xilogravura de cordel |
 | `british-postwar-textile-abstraction` | British Postwar Textile Abstraction | British postwar abstract textiles |
+| `cigarette-pack-modernism` | Cigarette Pack Modernism | Reduced cigarette-pack graphics, Geometric tobacco-pack graphics |
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
 | `dotwork-tattoo` | Dotwork Tattoo | dotwork tattoo graphics |
@@ -252,6 +254,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `skate-deck-screen-print` | Skate Deck Screen-Print Graphics | skateboard deck art, deck graphics, spot-color deck print, skate screen print |
 | `spirit-photography-seance` | Spirit Photography Seance | spirit photography, seance cabinet card |
 | `taller-de-grafica-popular` | Taller de Gráfica Popular | TGP print graphics, Workshop of Popular Graphic Art |
+| `theatre-playbill-typography` | Theatre Playbill Typography | Historic theatrical billing typography, Theatrical broadside typography |
 | `toile-de-jouy` | Toile de Jouy | Jouy Print |
 | `tweed-trim-quilted-couture` | Tweed, Trim & Quilted Couture | tweed and trim couture |
 | `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
@@ -326,10 +329,12 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `basketball-magazine-editorial` | Basketball Magazine Editorial | hoops magazine editorial, basketball culture publishing |
 | `board-game-box-art` | Board Game Box Art | tabletop box cover art, modern board game packaging, boardgame cover art |
 | `bootleg-streetwear-logo-remix` | Bootleg / Parody Streetwear Logo Remix | bootleg logo, parody streetwear, brand flip, subversive logo, logo remix |
+| `capsule-toy-display-walls` | Capsule Toy Display Walls | Capsule vending display walls, Gashapon display walls |
 | `casino` | Casino Neon Tableplay | vegas casino, casino signage, table-game casino, gaming floor |
 | `chicano-lowrider-art` | Chicano Lowrider Art | lowrider art, Chicano lowrider culture, low-and-slow automotive art |
 | `chicha-poster-graphics` | Peruvian Chicha Poster Graphics | Cartel Chicha, Afiches Chicha, Gráfica Chicha, Peruvian Chicha Graphics |
 | `classroom-bulletin-board-halloween` | Classroom Bulletin Board Halloween | school Halloween bulletin board, classroom Halloween |
+| `claw-machine-cabinets` | Claw Machine Cabinets | Prize crane cabinets, Crane-game cabinet interfaces |
 | `convenience-store-backoffice` | Convenience-Store Back-Office Grid | c-store backoffice, convenience store operations dashboard, fuel retail backoffice |
 | `dia-de-los-muertos-calavera-graphics` | Dia de los Muertos Calavera Graphics | Day of the Dead graphics, calavera graphics |
 | `disco-sleeve-graphics` | Disco Sleeve Graphics | 1970s disco record sleeves, Disco album graphics |
@@ -348,6 +353,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `haunted-dark-ride` | Haunted Dark Ride | haunted-house ride, dark ride horror |
 | `heritage-motorsport-livery` | Heritage Motorsport Livery | Classic racing livery, Vintage motorsport graphics, Historic race-car liveries |
 | `hotel-luggage-labels` | Hotel Luggage Labels | Vintage hotel luggage labels, Hotel baggage labels |
+| `infomercial-offer-screens` | Infomercial Offer Screens | Direct-response TV offer graphics, DRTV offer screens |
 | `japanese-matchbox-label-graphics` | Japanese Matchbox Label Graphics | Japanese match labels, Raberu matchbox graphics |
 | `konbini-utility` | Konbini Utility | Japanese convenience store utility, konbini design, convenience retail packaging utility |
 | `lomography` | Lomography | Lomographic photography |
