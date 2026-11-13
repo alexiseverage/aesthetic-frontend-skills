@@ -5,7 +5,7 @@ family: historical-design-movements
 era: 1964–1970s (periodic revivals)
 aliases: ["Optical Art", "Optical Illusion Art", "Retinal Art"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["psychedelic", "bauhaus", "suprematism", "de-stijl"]
 subsets: []
 ---
@@ -20,15 +20,15 @@ Use Op Art for hero backgrounds, loading states, accent panels, hover/focus spec
 
 ## 7-Dimension Profile
 
-**Palette**: Canonical black and white, plus vibrating complementary pairs such as red/cyan, blue/yellow, and magenta/green. Color is chosen for perceptual interaction rather than mood.
+**Palette**: Black/white fields, saturated adjacent hues and subdued tonal sequences can all produce optical effects. Color/value relationships serve perception; neither maximum contrast nor complementary pairs are mandatory.
 
 **Type**: Typography is secondary: neutral geometric sans, Helvetica-like clarity, poster-scale sans, or text treated as pattern. Expressive lettering distracts from the illusion engine.
 
-**Texture**: Flat crisp fields, moiré interference, line density, checker distortion, radial repeats, and optical shimmer created by pattern rather than material grain.
+**Texture**: Crisp repeated boundaries, line density, checker distortion and optical shimmer. Many paintings/prints are flat; slotted reliefs and penetrable constructions also use real material depth. Grain alone does not create the perceptual effect.
 
 **Shape**: Concentric circles, radiating lines, waves, warped grids, checkerboards, repeated modules, and pure geometric primitives. Representational imagery is rare unless abstracted into the optical field.
 
-**Motion**: Apparent vibration and instability in static compositions; controlled digital offsets, rotation, pulse, or morphing can intensify the effect. Motion must be restrained and safety-aware.
+**Motion**: Apparent vibration and instability can exist in a stationary composition. Some constructed works change with viewpoint. Manual digital comparison is a useful translation; automatic rotation, pulse and morphing are optional proposals, not defining requirements. Static references establish no exact timing.
 
 **Spatial**: Figure-ground ambiguity, false depth, field composition, tunnels, and grid deformation. Space is a perceptual experiment rather than a comfortable room.
 
@@ -36,7 +36,7 @@ Use Op Art for hero backgrounds, loading states, accent panels, hover/focus spec
 
 ## Non-Negotiables
 
-**Non-negotiables**: illusion-first geometry; high perceptual contrast; pattern precision; apparent movement or depth; and accessibility restraint. Generic geometric minimalism is not Op Art.
+**Non-negotiables**: a deliberate perceptual effect; precise relationships among repeated forms, values or hues; figure-ground instability or apparent depth/movement; and accessibility restraint. Generic geometric minimalism is not Op Art. Representation can remain when translated through optical structure, as in Vasarely's zebras.
 
 ## Connotation
 
@@ -57,9 +57,9 @@ Use Op Art surgically: hero moments, dividers, cards, loading states, and creati
 ## CSS Translation
 
 - Patterns: `repeating-linear-gradient`, `repeating-radial-gradient`, `conic-gradient`, offset layered grids, and SVG masks.
-- Color: black/white high contrast or carefully tested complementary vibration pairs.
+- Color: tested black/white, adjacent-hue or tonal sequences; evaluate the actual perceptual relationship rather than prescribing one palette.
 - Layout: figure-ground panels, warped grid sections, and optical fields clipped to accent regions.
-- Motion: animate pattern position or rotation slowly and optionally; respect `prefers-reduced-motion`.
+- Motion: prefer an effective stationary construction or explicit manual controls; if animation is useful, make it optional and respect `prefers-reduced-motion`. A blank resting state can reduce sustained exposure.
 
 ## Typography / Fonts
 

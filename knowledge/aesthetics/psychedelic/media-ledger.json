@@ -1,0 +1,1780 @@
+{
+  "media": [
+    {
+      "record_id": "vam-O195246",
+      "artifact_id": "vam-E.1757-1991",
+      "title": "Psychedelic poster promoting 'Supernatural Fairy Tales'",
+      "creator": "English, Michael",
+      "source_url": "https://collections.vam.ac.uk/item/O195246/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2018KX6857/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The complete photographed Supernatural Fairy Tales print is a near-square, densely illustrated circular world in turquoise, warm orange, red, yellow and black. Hair, floral curls, sun/moon and figurative scenes interlock around distorted lettering; there is no quiet centered hero heading. Museum photo margins and color scale are recording context. Supplied native 768x576 permits composition and major lettering inspection, not fine printing measurements."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2018KX6857",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2018KX6881",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2018KX6879",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2018KX6856",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2018KX6880",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2018KX6855",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "England",
+      "accession": "E.1757-1991",
+      "technique": "Offset lithograph",
+      "native_resolution": {
+        "width": 768,
+        "height": 576
+      },
+      "sha256": "9c6a6c83dda2779d0debd097f78abc27be7b4f5fc4d168967bfbd26cb9e0f3b5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 768,
+        "height": 576
+      }
+    },
+    {
+      "record_id": "vam-O129191",
+      "artifact_id": "vam-E.1707-1991",
+      "title": "Welcome Cosmic Visitors",
+      "creator": "English, Michael",
+      "source_url": "https://collections.vam.ac.uk/item/O129191/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AM5335/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Welcome Cosmic Visitors is a broad orange/yellow field with an enormous circle, an orange/blue flying-saucer and a radiating spiral of miniature figures. Large negative-space letters at both sides behave like cut shapes and are difficult to read immediately. A thin lavender overprinted line system complicates the bright two-tone figure/ground. The pictured measurement scale is museum context, not poster art."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AM5335",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "England",
+      "accession": "E.1707-1991",
+      "technique": "Silkscreen",
+      "native_resolution": {
+        "width": 768,
+        "height": 638
+      },
+      "sha256": "4965bee89d0590b7503101a119f4744c27b18b4203186e794a271ffdb3cd201d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 768,
+        "height": 638
+      }
+    },
+    {
+      "record_id": "vam-O108975",
+      "artifact_id": "vam-E.518-2004",
+      "title": "THEM psychedelic poster no.66",
+      "creator": "Wilson, Wes",
+      "source_url": "https://collections.vam.ac.uk/item/O108975/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2892/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "THEM appears as four hugely expanded, bent black letters with white/orange dimensional faces, perched above much squarer compressed orange event lettering on muted blue. Narrow columns of small text flank the title. The strong scale shift and uneasy object-like word are more specific than a universal swirling script; a white outer margin and inner black frame remain."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2892",
+          "copyright": "©Victoria and Albert Museum, London/Bill Graham Enterprises, Inc.",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1966",
+      "place": "United States",
+      "accession": "E.518-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 574,
+        "height": 768
+      },
+      "sha256": "7c88da5ae666c4deee5e9d515af29d94266940b8fc21cd0d4ae21197f591fd6c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 574,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O195207",
+      "artifact_id": "vam-E.1718-1991",
+      "title": "Psychedelic poster for two shows at the Roundhouse UFO",
+      "creator": "Martin Sharp",
+      "source_url": "https://collections.vam.ac.uk/item/O195207/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006BC7334/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The Roundhouse UFO poster combines orange lips emitting zigzag waves, an eye/sun, stars, black-and-white flowing stripes, cellular bubble letters and compact irregular event labels. Gray, black and orange dominate with a little pink; no rainbow gradient is necessary. Swollen contours and dense internal line work produce the hallucinatory impression. Facial parts are research evidence only and will not appear in the delivered interface."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006BC7334",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2016JA3363",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "England",
+      "accession": "E.1718-1991",
+      "technique": "Silkscreen print",
+      "native_resolution": {
+        "width": 573,
+        "height": 768
+      },
+      "sha256": "a481d8c273c587ecdc6552723dcf1a9ba8e854d3e4704db47b4aa032daeced9b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 573,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108974",
+      "artifact_id": "vam-E.517-2004",
+      "title": "Jefferson Airplane psychedelic poster no.41",
+      "creator": "Wilson, Wes",
+      "source_url": "https://collections.vam.ac.uk/item/O108974/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2287/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Purple-magenta freehand letters pack into a huge curving hand-like silhouette against a dark charcoal rectangle. White inner gaps divide swollen strokes and every event line bends with the form, from Jefferson Airplane to the dates and Fillmore label. Fine ticket information is much more conventionally set at the bottom. Almost monochrome contrast produces density without a full rainbow."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2287",
+          "copyright": "©Victoria and Albert Museum, London/Bill Graham Enterprises, Inc.",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1966",
+      "place": "United States",
+      "accession": "E.517-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 543,
+        "height": 768
+      },
+      "sha256": "66de0008c6e7d4ad3d34a729b75b87a260504a00e5f49aabdc5559234843b7d0",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 543,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O129223",
+      "artifact_id": "vam-E.1717-1991",
+      "title": "5th Dimension, Leicester. Sept 1967",
+      "creator": "English, Michael",
+      "source_url": "https://collections.vam.ac.uk/item/O129223/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY3432/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pink/blue alternating orthogonal maze fills a central star-like octagonal field, enclosed by gold/ochre outlines. Surrounding rings contain eyes and small floating motifs; the top label uses compressed curved lettering. It combines optical line vibration with a busy symbolic border, connecting to Op Art without being only a geometric optical study. The complete native museum image supports these large relations, not ink spectroscopy."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY3432",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "England",
+      "accession": "E.1717-1991",
+      "technique": "Silkscreen screenprint",
+      "native_resolution": {
+        "width": 589,
+        "height": 768
+      },
+      "sha256": "90bb67e8457ab52466c58e1f019ab98679366a66d414ff125a8632c058ff0335",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 589,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O129221",
+      "artifact_id": "vam-E.1714-1991",
+      "title": "Hung on You",
+      "creator": "English, Michael",
+      "source_url": "https://collections.vam.ac.uk/item/O129221/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2195/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Green ornamental figures and large soft circular lettering sit over a broad metallic-looking pale silhouette, with pink/orange sky, sun/moon and a landscape below. The bottom carries small zodiac disks and mushroom-like forms. The title fills the top curve while the boutique address compresses at lower left. A photograph cannot confirm the actual ink's metallic reflectance; treat it as a visible silvery appearance only."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2195",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "England",
+      "accession": "E.1714-1991",
+      "technique": "Silkscreen",
+      "native_resolution": {
+        "width": 522,
+        "height": 768
+      },
+      "sha256": "3fea92c1dee20e22e9fd822994b30616050bb14d63ab4e9a3d269681de8d4f25",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 522,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O129219",
+      "artifact_id": "vam-E.1711-1991",
+      "title": "The Move at the Marquee",
+      "creator": "English, Michael",
+      "source_url": "https://collections.vam.ac.uk/item/O129219/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2011EY3439/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The word MOVE nearly fills the entire tall poster as enlarged interlocking rounded block letters. Blue/red bands occupy the upper half and green/red the lower, with pale silver-looking letter interiors; a tiny July 11 Marquee line crowns the composition. No figure or floral scene is needed: scale, nested line and distorted word-as-image establish a strong object-free variant. Fine creases are artifact condition."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2011EY3439",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "England",
+      "accession": "E.1711-1991",
+      "technique": "Silkscreen",
+      "native_resolution": {
+        "width": 576,
+        "height": 768
+      },
+      "sha256": "f32fdf99f12d0d18305cfdb255aaac18f2d5a318d841873b44279c1ec4a668b7",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 576,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O129220",
+      "artifact_id": "vam-E.1712-1991",
+      "title": "UFO Dusk to Dawn",
+      "creator": "McInnerney, Michael",
+      "source_url": "https://collections.vam.ac.uk/item/O129220/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2011EP0076/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark blue and red-orange divide a tall UFO Dusk to Dawn poster; sinuous dark lobes, white stippled swirls and a small central drawn figure interweave densely. The heading rolls along the top edge while performer information is squeezed into curved islands and the lower edge. Gradated blue-to-red background is one observed variant; the intricate flat contours still carry the design. Not every relevant detail is equally legible at the museum's native 768px."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2011EP0076",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "England",
+      "accession": "E.1712-1991",
+      "technique": "Silkscreen screenprint",
+      "native_resolution": {
+        "width": 502,
+        "height": 768
+      },
+      "sha256": "1818ebb82c5276bedfd150ecce7d63963eecb17b239a51affa6e51ec98dd0925",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 502,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108983",
+      "artifact_id": "vam-E.523-2004",
+      "title": "The Blues Project",
+      "creator": "Wilson, Wes",
+      "source_url": "https://collections.vam.ac.uk/item/O108983/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2893/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pale blue swollen lettering is packed within an irregular rounded/lobed form on a dark blue rectangle; a drawn figure and keyboard-like edge interrupt its upper corner. The large word shapes nearly merge into a patterned silhouette, with event information following inward toward the bottom. A tiny straight ticket strip contrasts with the dominant hand-lettered mass. This narrow limited palette is visually psychedelic without fluorescent rainbow color."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2893",
+          "copyright": "©Victoria and Albert Museum, London/Bill Graham Enterprises, Inc.",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1966",
+      "place": "United States",
+      "accession": "E.523-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 593,
+        "height": 768
+      },
+      "sha256": "b1d3d1f9b6d40c86ffff8c4458853e151e0ccd8f4de51c409f9a6815ef6eea09",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 593,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108994",
+      "artifact_id": "vam-E.510-2004",
+      "title": "Chambers Brothers",
+      "creator": "Wilson, Wes",
+      "source_url": "https://collections.vam.ac.uk/item/O108994/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2272/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale yellow frontal nude figure with greatly enlarged hands sits inside repeated yellow halo contours on a magenta/lavender field. Fine orange curlicues and low-contrast compressed lettering occupy the surrounding gaps, with a plain ticket line at the bottom. The visual hierarchy privileges a symbolic figure over readable copy; research may analyze that historical role, while the delivered component will express the contour and lettering system through nonhuman forms."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2272",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "United States",
+      "accession": "E.510-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 575,
+        "height": 768
+      },
+      "sha256": "876409fd86099bff088f23f8a792fac49dcb8c6b4bcc601c080add395489d590",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 575,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O129162",
+      "artifact_id": "vam-E.1704-1991",
+      "title": "UFO coming",
+      "creator": "English, Michael",
+      "source_url": "https://collections.vam.ac.uk/item/O129162/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2204/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A broad flowing yellow/purple figure and winged creature share a dense field of stipple, flowers and small discs. An enormous freeform purple profile/sky shape curves under the UFO COMING title; tiny spacecraft and stars add fantasy context. The lower event text bends across a shallow wedge. Muted green-gray/ochre ground and limited yellow/purple ink refute an obligatory multicolor neon treatment."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2204",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2015HJ6432",
+          "copyright": "©Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "London",
+      "accession": "E.1704-1991",
+      "technique": "Silkscreen",
+      "native_resolution": {
+        "width": 568,
+        "height": 768
+      },
+      "sha256": "50bd16d03e6bdd0168076d80c6c60aa1ef4887ea0a42c782396ded2ff4c2610f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 568,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O129217",
+      "artifact_id": "vam-E.1708-1991",
+      "title": "The Move and Pink Floyd at UFO",
+      "creator": "English, Michael",
+      "source_url": "https://collections.vam.ac.uk/item/O129217/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006BC6491/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "An almost monochrome olive/white sunburst radiates from a central winged figure, with droplets, stars and flowing organic curls around it. Two upper corners hold orange-to-magenta swollen performer lettering. Fine stipple dissolves hard rays near the center. The radial geometry alone resembles optical work, while the figurative/organic collage and event lettering place it in a concert-poster context."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006BC6491",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2015HJ6434",
+          "copyright": "©Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "England",
+      "accession": "E.1708-1991",
+      "technique": "Silkscreen screenprint",
+      "native_resolution": {
+        "width": 512,
+        "height": 768
+      },
+      "sha256": "ffae1c0d8db1d79e97ab5b36a8f275614059286a7dea986a529f4cf950f0b13f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 512,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O129155",
+      "artifact_id": "vam-E.491-1997",
+      "title": "Live Give Love",
+      "creator": "Sharp, Martin",
+      "source_url": "https://collections.vam.ac.uk/item/O129155/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2008BT8921/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A complete broad black-and-white print collages engraved figures with dense floral, cellular and radiating contours around enormous puffy LIVE/GIVE/LOVE words. Dots and tiny outlines fill nearly all gaps. It demonstrates that psychedelic density can be monochrome, with line weight and collage rather than saturated color carrying the effect. The supplied 768px version leaves very fine line detail uncertain."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2008BT8921",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2008BT8915",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        },
+        {
+          "assetRef": "2006AY2223",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "England",
+      "accession": "E.491-1997",
+      "technique": "Lithograph reprint of silkscreen on silver metallic card",
+      "native_resolution": {
+        "width": 768,
+        "height": 570
+      },
+      "sha256": "c6e584ce8bf658ff29633d2e2b48ebc1c519ccc97ddda6cecb60cb744262efe0",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 768,
+        "height": 570
+      }
+    },
+    {
+      "record_id": "vam-O108961",
+      "artifact_id": "vam-E.422-2004",
+      "title": "Eric Burdon and the Animals",
+      "creator": "MacLean, Bonnie",
+      "source_url": "https://collections.vam.ac.uk/item/O108961/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2222/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Bonnie MacLean's Eric Burdon poster uses a large face, cascading red-brown hair and a fantastically swollen crown-like mass of pink lettering and flower fans. Black outlines contain several nested line systems while small peripheral lettering follows the hair/body contours. The palette is rose, red-brown and dark charcoal, with no obligatory yellow or green. Hand-shaped type and plume structure are transferable; the face is not a production asset."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2222",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "United States",
+      "accession": "E.422-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 521,
+        "height": 768
+      },
+      "sha256": "d37b872a41d19966566329c1a183a574c77039ee35d0ed859b676f5f0295b149",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 521,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O107088",
+      "artifact_id": "vam-E.379-2004",
+      "title": "\"Butterfield Blues Band...\"",
+      "creator": "Conklin, Lee",
+      "source_url": "https://collections.vam.ac.uk/item/O107088/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2900/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale surreal humanoid with exaggerated giant hands occupies the center between narrow magenta, stretched slab-like letters on intense blue. The upper BUTTERFIELD word bends around the head while supporting lines form irregular corner blocks. The lower conventional ticket strip remains readable. Angular compressed lettering, a blue/magenta pair and figurative distortion form an alternative to flower-filled circular designs."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2900",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1968",
+      "place": "San Francisco",
+      "accession": "E.379-2004",
+      "technique": "Colour lithograph",
+      "native_resolution": {
+        "width": 523,
+        "height": 768
+      },
+      "sha256": "c2082610d4079e2c3e05f7d3324617d7818c1ab78e4a6a6f842c1fbda80a40a7",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 523,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108984",
+      "artifact_id": "vam-E.527-2004",
+      "title": "Otis Rush. Grateful Dead",
+      "creator": "Wilson, Wes",
+      "source_url": "https://collections.vam.ac.uk/item/O108984/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2894/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Otis Rush/Grateful Dead uses pale pink, black and gray around a large isolated face profile; repeated undulating outline bands ripple from the profile through the page. Event names swell into the right-hand gaps and the bottom Fillmore line becomes a bending ribbon. The comparatively pale limited palette is important: psychedelic effect does not require fluorescent saturation. The same design may appear in Cooper Hewitt's contextual article; that page is not an additional counted work."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2894",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "United States",
+      "accession": "E.527-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 568,
+        "height": 768
+      },
+      "sha256": "6eec97ba6608399f57e736a1013129dafe7816915cb1fe47a89e59356a8f5384",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 568,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108987",
+      "artifact_id": "vam-E.503-2004",
+      "title": "Bola Sete",
+      "creator": "Wilson, Wes",
+      "source_url": "https://collections.vam.ac.uk/item/O108987/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2285/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The narrow Bola Sete poster uses acid green over lavender, a pale outlined figure and tightly stippled hair/background. Huge bulbous Bola Sete and Fillmore letters fill the top-left and bottom while smaller performer information compresses into irregular side pockets. The central hand is disproportionately large. The surface appears printed flat; the figure supplies an Art Nouveau-inflected structure rather than photorealism."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2285",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1966",
+      "place": "United States",
+      "accession": "E.503-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 439,
+        "height": 768
+      },
+      "sha256": "929a5c609fc430e5e18fcecb496be4d6a1157652c81b48d4e59b75856643c650",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 439,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108165",
+      "artifact_id": "vam-E.502-2004",
+      "title": "Young Rascals",
+      "creator": "Wilson, Wes",
+      "source_url": "https://collections.vam.ac.uk/item/O108165/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2292/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Young Rascals has a large pale pink figure with a wide lavender hair mass, dark repeated eye-like border symbols and curling ornament in a lower-right dark field. Very tall compressed lettering follows a curved pink lower-left panel; contrast is intentionally low in some text regions. The complete image supports contour, dense pattern and type-as-shape, not exact color/ink claims or universal legibility."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2292",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "United States",
+      "accession": "E.502-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 464,
+        "height": 768
+      },
+      "sha256": "eed5d0e99f8d10f38de46f9504a3235711fe29f29dabdd0f0292112c4e3e2072",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 464,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O1135545",
+      "artifact_id": "vam-S.2176-2009",
+      "title": "Hendrix",
+      "creator": "Sharp, Martin",
+      "source_url": "https://collections.vam.ac.uk/item/O1135545/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2016JN1959/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A central green guitarist silhouette and large red hair burst are nearly submerged in yellow, red, blue and pink radiating stipple, jagged strokes and cellular patterns. Small text is subordinate to the saturated all-over image and directional energy. Martin Sharp's illustrative approach differs from Wilson's large swollen title blocks. A fictional application can translate the radial density through abstract forms without reproducing Hendrix or a human silhouette."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2016JN1959",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "London",
+      "accession": "S.2176-2009",
+      "technique": "Printed ink on paper.",
+      "native_resolution": {
+        "width": 589,
+        "height": 768
+      },
+      "sha256": "0dbd221b10e9d9d0b9e16a80474f8c2b341f8287fd492ce7807c6e3f5c6406cf",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 589,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108149",
+      "artifact_id": "vam-E.395-2004",
+      "title": "Big Brother and the Holding Company",
+      "creator": "Griffin, Rick",
+      "source_url": "https://collections.vam.ac.uk/item/O108149/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2258/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Big Brother/Santana is an emblematic torch-and-heart design on blue, enclosed by electric yellow outlined lettering, zigzag side ribbons and hand-engraved crosshatching. A hand holds the torch, but most of the structure comes from heart, flame, banner and contoured word forms. The title arches over the emblem while secondary information follows lower ribbon curves. No literal photographic portrait is needed in this variant, and the hand remains research-only."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2258",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1968",
+      "place": "United States",
+      "accession": "E.395-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 503,
+        "height": 768
+      },
+      "sha256": "353e3ce978b761ec360b0795487f0ddac320cee5bf9aa3d560251b12879863ec",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 503,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108958",
+      "artifact_id": "vam-E.424-2004",
+      "title": "Martha and the Vandellas...",
+      "creator": "MacLean, Bonnie",
+      "source_url": "https://collections.vam.ac.uk/item/O108958/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2208/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Martha and the Vandellas combines a large central face and two side profiles inside elaborate blue linework on yellow. Hair, curled plumes, angular corner borders and orange hand-shaped lettering form a symmetrical ornamental structure. Top and bottom artist/venue labels bend around the head group. MacLean's fine engraved-looking framing differs from Wilson's mostly filled letter silhouettes, while sharing typographic density."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2208",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "San Francisco",
+      "accession": "E.424-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 483,
+        "height": 768
+      },
+      "sha256": "6b8173e6d35f301706f62ceb605d925772c591dd40336afdb3c588bc57aa20a7",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 483,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108159",
+      "artifact_id": "vam-E.398-2004",
+      "title": "Jim Kweskin",
+      "creator": "Griffin, Rick",
+      "source_url": "https://collections.vam.ac.uk/item/O108159/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2269/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Jim Kweskin uses white bubbling, nearly cloud-like lettering above a large clean rainbow arc on dark purple/blue. Cellular stipple, floating drops and dense orange-red lower event text create a layered landscape. The rainbow is an explicit banded form rather than a generic CSS background wash. A useful nonportrait route appears in the letter/arc/pattern relations, despite an eye-like detail at the left edge."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2269",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "United States",
+      "accession": "E.398-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 549,
+        "height": 768
+      },
+      "sha256": "791bc6a678bb6c51b24f1bd7d0a52bb6e8089dd45ff9bf7cf166337823af1d6b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 549,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O126428",
+      "artifact_id": "vam-E.433-2004",
+      "title": "Neon Rose #13",
+      "creator": "Moscoso, Victor",
+      "source_url": "https://collections.vam.ac.uk/item/O126428/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2015HL3669/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Neon Rose 13 encloses a visibly halftoned multicolor portrait in a large oval, with tight magenta title and border lettering against blue. Thin yellow and pink frames repeat around the edge. The overlaid red/green/purple photo separations create optical instability. Native museum resolution reveals the coarse screen but not a precise screen frequency; this is not evidence that all psychedelic work is screenprinted."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2015HL3669",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "San Francisco",
+      "accession": "E.433-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 576,
+        "height": 768
+      },
+      "sha256": "8b34e8d632dbb24f16a878a7630814d7eb130c380f83de8cd3753c9b8bef7605",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 576,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O108964",
+      "artifact_id": "vam-E.437-2004",
+      "title": "Neptune's Notion",
+      "creator": "Moscoso, Victor",
+      "source_url": "https://collections.vam.ac.uk/item/O108964/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006AY2215/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Neptune's Notion/Moby Grape shows a pink sea figure, a yellow fish wrapping around the center, blue water and repeated wave/sea-life motifs. Several title lines are woven into the fish/body and upper frame. Banded blue/pink border lines and a yellow header impose an overall rectangular structure around fluid imagery. Small footer text stays conventional; large decorative lettering is not the only information channel."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006AY2215",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "San Francisco",
+      "accession": "E.437-2004",
+      "technique": "Colour offset lithograph",
+      "native_resolution": {
+        "width": 547,
+        "height": 768
+      },
+      "sha256": "7fabfc7495e641ef8e1eb630dce75c77cc4e7750ea124552c86d2d79e375dee3",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 547,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "vam-O130092",
+      "artifact_id": "vam-E.433-2006",
+      "title": "Sunshine Superman",
+      "creator": "Sharp, Martin",
+      "source_url": "https://collections.vam.ac.uk/item/O130092/",
+      "media_url": "https://framemark.vam.ac.uk/collections/2006BC7338/full/full/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sunshine Superman surrounds a small intense-blue rectangular singer photograph with a nearly all-over black/white field of curling lines, bubble lettering, stars, rays and engraved fragments. The broad title curves behind the photo, and the outermost edge carries another line of lettering. Monochrome density plus one photographic color accent provides a distinct collage variant. The photograph is historical evidence only, not an application asset."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image is a production asset",
+      "rights": [
+        {
+          "assetRef": "2006BC7338",
+          "copyright": "© Victoria and Albert Museum, London",
+          "sensitiveImage": false
+        }
+      ],
+      "design_date": "1967",
+      "place": "Britain",
+      "accession": "E.433-2006",
+      "technique": "Offset lithograph",
+      "native_resolution": {
+        "width": 511,
+        "height": 768
+      },
+      "sha256": "6610627a57fe9cd3db37e1e6ed6a8b07f172ac785951bc45d7e0960023a9d3ca",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 511,
+        "height": 768
+      }
+    },
+    {
+      "record_id": "saam-36442",
+      "artifact_id": "saam-36442",
+      "title": "sopwith-camel-36442",
+      "creator": "Attribution pending primary page review",
+      "source_url": "https://americanart.si.edu/artwork/sopwith-camel-36442",
+      "media_url": "https://ids.si.edu/ids/deliveryService?id=SAAM-1998.72.3_1&max=1600",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "unavailable",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source image shipped",
+      "rights": "Smithsonian record and underlying artist rights; not cleared for production",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false,
+      "failure": "The requested museum delivery URL returned an HTML Request Rejected response rather than image bytes; not inspected and not counted."
+    },
+    {
+      "record_id": "saam-54527",
+      "artifact_id": "saam-54527",
+      "title": "chambers-brothers-54527",
+      "creator": "Attribution pending primary page review",
+      "source_url": "https://americanart.si.edu/artwork/chambers-brothers-54527",
+      "media_url": "https://ids.si.edu/ids/deliveryService?id=SAAM-2000.75.4_1&max=1600",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "unavailable",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source image shipped",
+      "rights": "Smithsonian record and underlying artist rights; not cleared for production",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false,
+      "failure": "The requested museum delivery URL returned an HTML Request Rejected response rather than image bytes; not inspected and not counted."
+    },
+    {
+      "record_id": "saam-36440",
+      "artifact_id": "saam-36440",
+      "title": "chambers-bros-36440",
+      "creator": "Attribution pending primary page review",
+      "source_url": "https://americanart.si.edu/artwork/chambers-bros-36440",
+      "media_url": "https://ids.si.edu/ids/deliveryService?id=SAAM-1998.72.1_1&max=1600",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "unavailable",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source image shipped",
+      "rights": "Smithsonian record and underlying artist rights; not cleared for production",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false,
+      "failure": "The requested museum delivery URL returned an HTML Request Rejected response rather than image bytes; not inspected and not counted."
+    },
+    {
+      "record_id": "saam-36441",
+      "artifact_id": "saam-36441",
+      "title": "big-brother-and-holding-company-36441",
+      "creator": "Attribution pending primary page review",
+      "source_url": "https://americanart.si.edu/artwork/big-brother-and-holding-company-36441",
+      "media_url": "https://ids.si.edu/ids/deliveryService?id=SAAM-1998.72.2_1&max=1600",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "unavailable",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source image shipped",
+      "rights": "Smithsonian record and underlying artist rights; not cleared for production",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false,
+      "failure": "The requested museum delivery URL returned an HTML Request Rejected response rather than image bytes; not inspected and not counted."
+    },
+    {
+      "record_id": "saam-81067",
+      "artifact_id": "saam-81067",
+      "title": "three-little-bares-moby-grape-canned-heatavalon-ballroom-san-francisco-california-81067",
+      "creator": "Attribution pending primary page review",
+      "source_url": "https://americanart.si.edu/artwork/three-little-bares-moby-grape-canned-heatavalon-ballroom-san-francisco-california-81067",
+      "media_url": "https://ids.si.edu/ids/deliveryService?id=SAAM-2007.27.19_1&max=1600",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "unavailable",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source image shipped",
+      "rights": "Smithsonian record and underlying artist rights; not cleared for production",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false,
+      "failure": "The requested museum delivery URL returned an HTML Request Rejected response rather than image bytes; not inspected and not counted."
+    },
+    {
+      "record_id": "saam-12067",
+      "artifact_id": "saam-12067",
+      "title": "pouring-vessel-miller-blues-band-lee-michaelsavalon-ballroom-san-francisco-california-12067",
+      "creator": "Attribution pending primary page review",
+      "source_url": "https://americanart.si.edu/artwork/pouring-vessel-miller-blues-band-lee-michaelsavalon-ballroom-san-francisco-california-12067",
+      "media_url": "https://ids.si.edu/ids/deliveryService?id=SAAM-2007.27.21_1&max=1600",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "unavailable",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source image shipped",
+      "rights": "Smithsonian record and underlying artist rights; not cleared for production",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false,
+      "failure": "The requested museum delivery URL returned an HTML Request Rejected response rather than image bytes; not inspected and not counted."
+    },
+    {
+      "record_id": "moma-5475",
+      "artifact_id": "moma-5475",
+      "title": "The Yardbirds, The Doors",
+      "creator": "Bonnie MacLean",
+      "source_url": "https://www.moma.org/collection/works/5475",
+      "media_url": "https://www.moma.org/media/W1siZiIsIjUyNzQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=e48e88e6e832c484",
+      "accession": "171.1993",
+      "design_date": "1967",
+      "technique": "Offset lithograph",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The complete tall Yardbirds/Doors poster divides into an enormous blue organic lettering mass on acid green at left and a large stippled green face at right. Orange/blue/pale plumes expand below the face into scalloped feather-like ovals; an orange contour cleaves the top center. Letter heights and widths vary radically to fill the available shape, while a small conventional ticket strip sits at the bottom. The 2000px museum image makes printed texture and fine outlines legible."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "MoMA/artist rights; museum requires permission for reproduction, not a production asset",
+      "sha256": "60b15e78c3c2dc250f7baa07ee8fc608bdf761974c97ee89d8a07dfc57257516",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1327,
+        "height": 2000
+      }
+    },
+    {
+      "record_id": "moma-133411",
+      "artifact_id": "moma-133411",
+      "title": "Pink Floyd, Lee Michaels, Clear Light",
+      "creator": "Bonnie MacLean",
+      "source_url": "https://www.moma.org/collection/works/133411",
+      "media_url": "https://www.moma.org/media/W1siZiIsIjE3MjUyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=025eae6d33a47675",
+      "accession": "P207.38",
+      "design_date": "1967",
+      "technique": "Lithograph; small-format print in museum catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Pink Floyd/Lee Michaels/Clear Light sets expanded rose-colored block letters in an irregular dark left region and a golden-haired illustrated figure at right. Dense gold/pink floral scrollwork fills the costume, with an even black/gold ornamental band down its center. The word blocks are swollen and curved rather than script. The complete small-format lithograph is inspected at a museum-served 2000px version; its catalogue dimensions should not be confused with the larger concert poster's dimensions."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "MoMA/artist rights; museum requires permission for reproduction, not a production asset",
+      "sha256": "a6b7ebe225ac691d8487f76892a360ef203be53dcd9ccb9df726773441eb4733",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1327,
+        "height": 2000
+      }
+    },
+    {
+      "record_id": "moma-133412",
+      "artifact_id": "moma-133412",
+      "title": "The Who, Loading Zone",
+      "creator": "Bonnie MacLean",
+      "source_url": "https://www.moma.org/collection/works/133412",
+      "media_url": "https://www.moma.org/media/W1siZiIsIjE3MjUyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6eb9c5ed5fe08606",
+      "accession": "P207.39",
+      "design_date": "1967",
+      "technique": "Lithograph; small-format print in museum catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The Who/Loading Zone uses only deep purple and yellow-orange to combine multiple mask-like faces, looping bands, circular crosshatched vortex forms and a diagonal bulging word island. Type grows within the irregular central island instead of floating over a generic gradient; surrounding curves and negative shapes pack the remaining page. The bottom ticket line and tiny next-week label form a conventional information layer. Individual faces remain research-only."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "MoMA/artist rights; museum requires permission for reproduction, not a production asset",
+      "sha256": "279540478dd8a48c5cd0cd0f52783a4d7cafed1860f7ca0d28d839bf63fa7a85",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1270,
+        "height": 2000
+      }
+    },
+    {
+      "record_id": "sfmoma-2024.17",
+      "artifact_id": "sfmoma-2024.17",
+      "title": "Sopwith Camel (NR5)",
+      "creator": "Victor Moscoso",
+      "source_url": "https://www.sfmoma.org/artwork/2024.17/",
+      "media_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/25180345/x2024.6024.131_01_P02-web.jpg",
+      "accession": "2024.17",
+      "design_date": "1967",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Sopwith Camel NR5 combines a blue/magenta camel-airplane hybrid with huge streaked letter shadows on an otherwise largely empty orange field. The entire event strip at the bottom shares the exaggerated diagonal shadow treatment. This challenges a compulsory all-over horror-vacui rule: high optical color contrast and illustrative/type deformation carry identity despite ample open orange space. Animal/vehicle imagery is historically useful context; no human figure appears."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image shipped",
+      "rights": "© Victor Moscoso; SFMOMA educational resource, reproduction requires permission",
+      "sha256": "d6e0018e5a3f117262f5eff2dd4d814d138fd38d282ce33584bb42b4773759ac",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 597,
+        "height": 850
+      }
+    },
+    {
+      "record_id": "sfmoma-2024.15",
+      "artifact_id": "sfmoma-2024.15",
+      "title": "The Miller Blues Band (NR2)",
+      "creator": "Victor Moscoso",
+      "source_url": "https://www.sfmoma.org/artwork/2024.15/",
+      "media_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/25233718/x2024.6024.113_01_P02-web.jpg",
+      "accession": "2024.15",
+      "design_date": "1967",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The Miller Blues Band NR2 uses repeated cyan/magenta undulating contour lines framing an orange/magenta photographed figure. A curved orange title band and tiny top event line follow the outer contour. The intense adjacent inks vibrate perceptually in a still image; there is no actual animation or measured pulse. Contour bands are useful formal evidence, while the human photograph will not be reused."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image shipped",
+      "rights": "© Victor Moscoso; SFMOMA educational resource, reproduction requires permission",
+      "sha256": "43cd6803f923adaf96d0a223ec684aa0c13294db92cf3025e5b01bbf2c2ea0ee",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 606,
+        "height": 850
+      }
+    },
+    {
+      "record_id": "sfmoma-2024.21",
+      "artifact_id": "sfmoma-2024.21",
+      "title": "Big Brother and the Holding Company (NR4)",
+      "creator": "Victor Moscoso",
+      "source_url": "https://www.sfmoma.org/artwork/2024.21/",
+      "media_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/25193823/x2024.6024.135_01_P02-web.jpg",
+      "accession": "2024.21",
+      "design_date": "1967",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Big Brother NR4 uses a green halftone figure and red/magenta photographic background, with large tightly fused red/orange title letters at upper left and wavy event text along the bottom. The vivid figure/ground separation is achieved through flat color screens rather than a liquid gradient. Surrounding rectangular window panes are part of the photographic image, not a universal grid requirement."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image shipped",
+      "rights": "© Victor Moscoso; SFMOMA educational resource, reproduction requires permission",
+      "sha256": "0de0d20dfbb753b930efb09ca9deadf4572214574b3f4b23ce4731bf6ce33aa3",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 595,
+        "height": 850
+      }
+    },
+    {
+      "record_id": "sfmoma-2024.19",
+      "artifact_id": "sfmoma-2024.19",
+      "title": "The Doors (NR10)",
+      "creator": "Victor Moscoso",
+      "source_url": "https://www.sfmoma.org/artwork/2024.19/",
+      "media_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/08/25194633/x2024.6024.133_01_P02-web.jpg",
+      "accession": "2024.19",
+      "design_date": "1967",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The Doors NR10 overlaps dense magenta/cyan nested arches and vertical rules with a dark photographic group, framed in orange. Event text stretches vertically along both side margins and horizontally at the bottom, causing reading direction and optical line pattern to compete. Native 850px height makes the coarse halftone and main contours legible, but tiny interior photographic details remain uncertain. The work links optical geometry and counterculture event content without supporting exact animation timing."
+        }
+      ],
+      "handling": "Private analytical inspection only; no museum image shipped",
+      "rights": "© Victor Moscoso; SFMOMA educational resource, reproduction requires permission",
+      "sha256": "c03976ef6e4aa8bb08f496a9f8d7391d3468764634189ba0af3b18b6104b4493",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 595,
+        "height": 850
+      }
+    }
+  ],
+  "failed_routes": [
+    {
+      "source": "Poster House Charlatans PH.5756",
+      "route": "https://posterhouse.emuseum.com/internal/media/dispatcher/7437",
+      "result": "403; no image inspected"
+    },
+    {
+      "source": "Whatcom Museum Bonnie MacLean exhibition",
+      "route": "https://www.whatcommuseum.org/exhibition/not-one-of-the-boys/",
+      "result": "Web text available; local HTML retrieval403; no individual images retrieved"
+    },
+    {
+      "source": "Cooper Hewitt Art of Noise",
+      "route": "https://www.cooperhewitt.org/art-of-noise-resources/",
+      "result": "Local catalogue request403; useful contextual text through web search only"
+    }
+  ],
+  "summary": {
+    "discovery_pool": "446 V&A search records, including weak matches, plus maker-specific lists and primary museum leads; not a thumbnail-inspection count",
+    "records": 39,
+    "full_media_inspections": 33,
+    "qualifying_unique_artifacts": 33,
+    "unavailable_image_records": 6,
+    "source_distribution": {
+      "vam": 26,
+      "moma": 3,
+      "sfmoma": 4
+    },
+    "motion_reference_count": 0,
+    "scope": "1966–68 poster/print-heavy study of British and San Francisco routes. V&A native full images are mostly768px high, sufficient for contours and major lettering but not exact ink/halftone metrics; MoMA full2000px and SFMOMA native850px complement them. Six Smithsonian image URLs returned rejected HTML and are excluded, with no claimed inspection. No poster frames/reposts counted twice. Dominated by museum-preserved music ephemera, not a survey of every psychedelic medium."
+  }
+}

@@ -9,7 +9,7 @@ aliases:
   - Mondrian style
   - The Style
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related:
   - bauhaus
   - suprematism
@@ -25,23 +25,23 @@ De Stijl is Dutch modernist abstraction organized by orthogonal line, pure plana
 
 ## 7-Dimension Profile
 
-**Palette**: Red, blue, yellow, black, white, and gray as unmixed planar absolutes. White often dominates, with primary accents placed as structural events.
+**Palette**: Limited planar color and neutrals, especially red, blue, yellow, black, white and gray. White often dominates, with one or several primary accents placed as structural events. Every primary need not appear; Van Doesburg also used softened hues.
 
-**Type**: Simple geometric sans, rectilinear lettering, and horizontal labels treated as blocks within the grid. Type should never become expressive calligraphy.
+**Type**: Journal typography treats lettering, scale and orientation as compositional material. Sans-serif title blocks, overlapping letters, horizontal and vertical labels are useful anchors. Particular covers also include serif text or a diagonal title; these are documented graphic variants rather than a universal prohibition on every nonhorizontal treatment.
 
-**Texture**: Flat matte surface, smooth paint, crisp print, and absence of illusionistic material depth. The plane itself is the surface.
+**Texture**: Flat painted and printed planes avoid illusionistic pictorial depth. Canvas, brushwork, paper and physical construction can remain visible; aging cracks and scan stains are not required decoration.
 
-**Shape**: Rectangles, orthogonal lines, grid partitions, unequal modules, and strict horizontal/vertical relations. Curves and diagonals generally break the system unless framed as later Elementarist tension.
+**Shape**: Rectangles, orthogonal lines, unequal modules and horizontal/vertical relations form the Neo-Plasticist core. A lozenge support may contain upright interior bars. Van Doesburg's later Elementarist counter-compositions introduce interior diagonals; distinguish this branch from Mondrian's rules rather than allowing arbitrary diagonal decoration.
 
-**Motion**: Minimal orthogonal reveal, sliding panel, or modular reconfiguration. Motion should feel measured and planar, not gestural or speedy.
+**Motion**: Stillness is valid. Inspected paintings, objects and covers do not establish digital easing or timing. Immediate modular reconfiguration or restrained orthogonal reveal can be contemporary translations, explicitly proposed rather than historical observations.
 
-**Spatial**: Asymmetrical grid, thick black separations, active white space, unequal rectangles, and equilibrium through relation rather than centering. No perspective or soft overlap.
+**Spatial**: Asymmetrical equilibrium through unequal planes, active intervals and off-center crossings. Black separations and large white areas are common, while dense early grids and directly adjoining color planes are also documented. Furniture and architecture extend planar relations into real space.
 
 **Cultural markers**: Mondrian’s mature grid paintings, Rietveld’s Red-Blue Chair and Schröder House, Van Doesburg’s De Stijl journal, and the tension around diagonal Elementarism.
 
 ## Non-Negotiables
 
-**Non-negotiables**: Orthogonal geometry, pure planar color, asymmetrical balance, and anti-ornamental abstraction must remain intact. If curves, texture, or decoration dominate, it is no longer De Stijl.
+**Non-negotiables**: Reduced geometric relations, planar color, asymmetrical equilibrium and historically situated anti-ornamental abstraction. Orthogonality defines the Neo-Plasticist route; explicitly distinguish later Elementarist diagonals. Arbitrary primary blocks, rounded blobs or dominant decorative illustration lose the identity.
 
 ## Connotation
 
@@ -61,11 +61,11 @@ Use CSS grid with explicit row/column spans, hard borders, flat primary tokens, 
 
 ## Typography / Fonts
 
-Use clean geometric sans or neutral sans families with restrained weights. Keep headings and labels rectilinear, horizontal, and grid-aligned. Avoid scripts, serif ornament, expressive distortion, and diagonal type treatments.
+Use clear sans-serif blocks and deliberate scale/position as a practical interface route. Horizontal and vertical alignment can create hierarchy without decorative distortion. Historic journal variants include serif text and a diagonal Aubette title; these do not justify arbitrary display effects or identifying an exact historic font without evidence.
 
 ## Cultural / Ethical Notes
 
-Low identity risk, but the movement is historically and philosophically specific. Avoid turning it into a novelty Mondrian skin for unrelated products, and avoid claiming universality in ways that erase context.
+The movement is historically and philosophically specific. Avoid turning it into a novelty Mondrian skin or claiming universality in ways that erase context. Credit Truus Schröder-Schräder's commissioning and collaborative role alongside Rietveld for the Schröder House. Distinguish the journal/group, Neo-Plasticism and the later Elementarist disagreement.
 
 ## Anti-Patterns
 

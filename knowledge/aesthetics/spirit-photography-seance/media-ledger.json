@@ -1,0 +1,1474 @@
+{
+  "media": [
+    {
+      "record_id": "spirit-01",
+      "artifact_id": "getty-84.XD.760.1.12",
+      "source_url": "https://www.getty.edu/art/collection/object/107N90",
+      "media_url": "https://media.getty.edu/iiif/image/4887722e-1357-4619-9073-e9296e13fb0c/full/!1200,1200/0/default.jpg",
+      "title": "[Child \"spirit\" with photograph and figurine on table]",
+      "creator": "Attributed to William H. Mumler (American, 1832 - 1884); or Possibly by Helen F. Stuart (American, active 1859 - 1867)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale child-shaped exposure occupies the left and center; a much darker cropped round table and small mounted photograph anchor the right. Yellow-brown image field has mottling and a broad rounded card border. No luminous digital outline."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "cc0c0333b36acf4f4838292a4965dfc012a531adabf26b8d593266fa7cb56945",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 748,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-02",
+      "artifact_id": "getty-84.XD.760.1.8",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8W",
+      "media_url": "https://media.getty.edu/iiif/image/cbe007ee-2ee4-4873-8107-cfba86f11a43/full/!1200,1200/0/default.jpg",
+      "title": "Mrs. French",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark seated dress and held book contrast with an almost white small standing apparition at left. The small figure sits within the same plain studio field rather than a separate frame; narrow light card margins remain visible."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "4d96c12f26ee459d8c0d677105a7669cba8267b43d8ef11d0cdc65fad6486f7a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 744,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-03",
+      "artifact_id": "getty-84.XD.760.1.22",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9A",
+      "media_url": "https://media.getty.edu/iiif/image/e155533e-a565-4082-9d1d-dba95609bac7/full/!1200,1200/0/default.jpg",
+      "title": "L.A. Bigelow",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Conventional bearded seated portrait with a faint pale horizontal trace on the jacket. No sufficiently legible separate apparition to treat as a defining spirit example; retain as album-format boundary evidence."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "500123a4abeae01f08cdf0a0d72a001025b30ef25ed38c9eba43bf054000d954",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 732,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-04",
+      "artifact_id": "getty-84.XD.760.1.35",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9R",
+      "media_url": "https://media.getty.edu/iiif/image/53771815-2a47-4f3f-9b5b-5c51f93c2200/full/!1200,1200/0/default.jpg",
+      "title": "Master Herrod",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Seated young person and curved chair are clear, with a large empty upper field. Any additional exposure is too faint to analyze confidently; exclude from qualifying spirit corpus."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "6bbc839eeda4b2b07552f0bc58b718db9bec6a28ff0fdb7519141912dab1ac2f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 734,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-05",
+      "artifact_id": "getty-84.XD.760.1.15",
+      "source_url": "https://www.getty.edu/art/collection/object/107N94",
+      "media_url": "https://media.getty.edu/iiif/image/7c01f950-5fba-4a1b-8152-6dac01fe409f/full/!1200,1200/0/default.jpg",
+      "title": "Mr. Tinkham and his spirit-wife recognised",
+      "creator": "Attributed to William H. Mumler (American, 1832 - 1884); or Possibly by Helen F. Stuart (American, active 1859 - 1867)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two pale overlapping faces and a draped tall body appear to the right of a dark table with an upright small portrait. The apparition continues down into a low-contrast floor; mounting corners are softly rounded and worn."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "19afb5c0f568e59ffca2390beca927034a0078aab87e5572c65ffd6b30b0e5d1",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 745,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-06",
+      "artifact_id": "getty-84.XD.760.1.26",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9E",
+      "media_url": "https://media.getty.edu/iiif/image/60b5971c-dc1a-4149-a547-978706926fbf/full/!1200,1200/0/default.jpg",
+      "title": "Mrs. A.L. Chamberlain",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A seated guitar player, diagonal strings and dress folds are legible, but no separate ghost image is sufficiently clear. Useful photographic prop/material counterexample, excluded from the qualifying count."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "3b2a9d7770ea7c4619c368a9044994d4f74674de766d45e94074dc4d5c986cd0",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 736,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-07",
+      "artifact_id": "getty-84.XD.760.1.23",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9C",
+      "media_url": "https://media.getty.edu/iiif/image/a83e3b4a-c83c-4e2e-92da-933e94b0627f/full/!1200,1200/0/default.jpg",
+      "title": "Mrs. H.B. Sawyer",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two large pale faces overlap the seated woman's head and shoulder. The second exposure crosses the dark torso and creates translucent pale planes rather than glow; the held card and rounded border stay crisp."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "d3e41821b188f0456472abebb1eafa8f6cebd0a22a87a92de0bf55c24be85459",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 738,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-08",
+      "artifact_id": "getty-84.XD.760.1.9",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8X",
+      "media_url": "https://media.getty.edu/iiif/image/93579e49-6087-41fd-a7bd-cc3ea0d939db/full/!1200,1200/0/default.jpg",
+      "title": "Charles H. Foster",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Seated mustached figure against a mottled light background, with a pale arc above the head. A distinct additional figure cannot be confidently read; exclude rather than infer a spirit from the album title."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "1a99fb7030e4f50ef8cb6e8111d679125506ac43c50f56e052dfb36acbd832ab",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 748,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-09",
+      "artifact_id": "getty-84.XD.760.1.36",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9S",
+      "media_url": "https://media.getty.edu/iiif/image/14eec7d9-0659-4b75-9fef-6d3b807dbae0/full/!1200,1200/0/default.jpg",
+      "title": "Henry Wilson",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Seated man with dark jacket, watch chain and broad blank upper background. No separate apparition is legible; retain only as a neighboring ordinary studio portrait."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "93df10fad8506f9046d06a30693e37f6ae99f9ee56edcf3f4057a38b98989abe",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 732,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-10",
+      "artifact_id": "getty-84.XD.760.1.3",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8R",
+      "media_url": "https://media.getty.edu/iiif/image/3f2ef92f-3e91-4bd1-b6c4-6dffa168926e/full/!1200,1200/0/default.jpg",
+      "title": "Mr. Chapin, oil merchant - & his spirit wife & babe recognized",
+      "creator": "Attributed to William H. Mumler (American, 1832 - 1884); or Possibly by Helen F. Stuart (American, active 1859 - 1867)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale adult and smaller child exposure fill the right two-thirds while a dark scalloped table supports a tiny mounted portrait at left. The added bodies fade toward the floor, with soft edges and no isolated halo."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "54846ec7fc2d15eb6c2047d3a497d398f68d5dff441ceda765933e4899c99be7",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 737,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-11",
+      "artifact_id": "getty-84.XD.760.1.13",
+      "source_url": "https://www.getty.edu/art/collection/object/107N91",
+      "media_url": "https://media.getty.edu/iiif/image/40c06cbd-f7f8-4cbe-961b-dd6d2187b54b/full/!1200,1200/0/default.jpg",
+      "title": "[Five \"spirits\" in background with a photograph at center of table with a doily]",
+      "creator": "Attributed to William H. Mumler (American, 1832 - 1884); or Possibly by Helen F. Stuart (American, active 1859 - 1867)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Five faint figures form a shallow upper semicircle around a centered small portrait on a sharply dark round table. The table leg and decorative apron provide strong tonal anchors inside a softly worn mount."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "364f89a3137ed227c9d134f9420fdb49d4860596b3519c7786843f177f5a84d5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 733,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-12",
+      "artifact_id": "getty-84.XD.760.1.10",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8Z",
+      "media_url": "https://media.getty.edu/iiif/image/bca84efb-4c5e-4358-b0f3-4b24cf6da892/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified man seated with female \"spirit\"]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "An oversized translucent female face overlaps the left of a dark seated man's head and torso. The overlapping areas retain underlying clothing detail; the image is skewed slightly within a worn rectangular card."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "4950732d22d72e89c7ddb174d34c0aaf72527d61f2f8d7b225575bbaf4e6da40",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 737,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-13",
+      "artifact_id": "getty-84.XD.760.1.21",
+      "source_url": "https://www.getty.edu/art/collection/object/107N99",
+      "media_url": "https://media.getty.edu/iiif/image/490a509e-da36-47bf-855b-6efe2c3e4dfd/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified balding man with a long white beard, seated]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Bearded seated man and carved chair, narrow cream mount and plain studio background. No distinct spirit is legible; an ordinary-portrait boundary, not qualifying spirit evidence."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "e099aeb8717674d77f31aded70a0cda149749c20cef5474e65b2129ba6729708",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 734,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-14",
+      "artifact_id": "getty-84.XD.760.1.27",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9G",
+      "media_url": "https://media.getty.edu/iiif/image/9bd4f002-d1dc-4abc-8277-a18e03b50582/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified woman wearing a white dress seated with a \"spirit\"]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "White-dressed seated woman with a held bag and pale studio backdrop. The claimed additional figure is insufficiently distinct for substantive exposure analysis at the inspected size; exclude."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "5c536f3c9d3523f51a802a2bd921dcb84bc0169c0cb081a9d3873abec7745acd",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 725,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-15",
+      "artifact_id": "getty-84.XD.760.1.34",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9Q",
+      "media_url": "https://media.getty.edu/iiif/image/77639c12-465c-4ab9-9f34-b4381c8d5c7e/full/!1200,1200/0/default.jpg",
+      "title": "Mrs. Swan",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two large pale heads hover above a sharply darker seated woman. A fine rounded rectangular rule is printed inside the light mount. The upper exposures soften into the same background instead of being cutout stickers."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "e1be1a616ec905e73c8a95c79baee2dd3cf01d01e576c2e78320677a3d79c112",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 736,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-16",
+      "artifact_id": "getty-84.XD.760.1.5",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8T",
+      "media_url": "https://media.getty.edu/iiif/image/5ae2103d-058c-4ba7-bc2f-8d5a2e9e54b2/full/!1200,1200/0/default.jpg",
+      "title": "Col. Cushman",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale tall apparition behind a seated man sends a translucent arm across his dark chest, creating visible overlap. The chair, hand and book remain dense foreground details; the outer mount has rounded corners."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "c67fbe1b3a4812d5cadc1cfdebddc4163dbdb939e4b8172fa8bb66592805a0a6",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 743,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-17",
+      "artifact_id": "getty-84.XD.760.1.29",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9K",
+      "media_url": "https://media.getty.edu/iiif/image/56384ee2-0800-4462-974a-930d1fb96c87/full/!1200,1200/0/default.jpg",
+      "title": "Mrs. Conant",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A large pale bearded male exposure occupies the upper left behind a dark seated woman. Its lower edge merges into her shoulder and plain backdrop; modest mount margins and a fine inner rule preserve the card anatomy."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "a37057de8169d2f7f8481a2033c543c5f11b0fdf0b75a3419fec2417a36262c6",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 733,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-18",
+      "artifact_id": "getty-84.XD.760.1.6",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8V",
+      "media_url": "https://media.getty.edu/iiif/image/d8834b9a-4ddb-4a9a-9026-e7b15a950709/full/!1200,1200/0/default.jpg",
+      "title": "John J. Glover",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale elderly male figure rises behind a darker younger seated man, with near-aligned heads at different heights. Broad neutral studio space and thin card rules frame the layered tonal contrast."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "321cc717ff318d262e13f3aed7aae70d2fcabc5462094232cbdc66c23e61d408",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 744,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-19",
+      "artifact_id": "getty-84.XD.760.1.4",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8S",
+      "media_url": "https://media.getty.edu/iiif/image/cf25d6ce-3249-40e8-8f59-67eb6dca23c4/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified woman with male \"spirit\" pointing upwards]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale standing male apparition at upper left raises an arm above a dark seated woman positioned lower right. The asymmetry and large quiet studio field differ from centered portrait arrangements."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "577100b75d5b74f09a363765565ffd837e5f91c0657249ca614db08302571ce4",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 744,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-20",
+      "artifact_id": "getty-84.XD.760.1.32",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9N",
+      "media_url": "https://media.getty.edu/iiif/image/57c66971-7106-4460-bb30-407b160058ef/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified balding, bearded man reading while seated]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A translucent female figure crosses the dark reader's torso; a pale extended arm and a small light flower-like cluster appear over the jacket. The open book provides a firm foreground rectangle."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "fb3c92a1811ef94ed4b37b4f1643b522bf81289e6850e2985167b1fd9cda2491",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 727,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-21",
+      "artifact_id": "getty-84.XD.760.1.28",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9H",
+      "media_url": "https://media.getty.edu/iiif/image/a4e0460b-2034-4b4f-8e45-6c4a9dbe601b/full/!1200,1200/0/default.jpg",
+      "title": "[William Lloyd Garrison]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A large pale human exposure fills the space behind a small darker seated man, almost encircling his head. The high empty background and overlapping shoulder/torso tones retain a single photographic plane."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "75f6d7bef96008b31de919730c9e04c490d69d129890bdb8b876b87afd8edb63",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 736,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-22",
+      "artifact_id": "getty-84.XD.760.1.30",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9J",
+      "media_url": "https://media.getty.edu/iiif/image/0bd20b93-e751-473e-a33e-5fef3c321245/full/!1200,1200/0/default.jpg",
+      "title": "Mr. Brown & His Spirit Sister Recognised",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A tall pale female exposure reaches toward a sharply darker framed oval portrait resting on an ornate table. Crossed dark frame corners and a rounded chair/table silhouette contrast with the low-contrast body."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "53eadb3a52f7e1ebe7d3eebfb8b9b2bc9daf0c7e3384b88e8aa753497585e610",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 727,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-23",
+      "artifact_id": "getty-84.XD.760.1.38",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9V",
+      "media_url": "https://media.getty.edu/iiif/image/1116cdd6-2057-4fa2-9c2d-32fb33f4ee13/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified bearded man seated, a female \"spirit\" in the background]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A seated bearded man occupies the lower left while a large translucent draped figure stands behind at upper right. The right edge shows a small chipped card area rather than decorative digital texture."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "f607ba454263bb52cd24213d591279cc694f4719969dcb4e9f74fa003cebf8b6",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 723,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-24",
+      "artifact_id": "getty-84.XD.760.1.14",
+      "source_url": "https://www.getty.edu/art/collection/object/107N93",
+      "media_url": "https://media.getty.edu/iiif/image/ecab8b8c-e55a-4c68-8225-01fd3c747a96/full/!1200,1200/0/default.jpg",
+      "title": "Ella Bonner",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale child with a radiating crown-like head treatment stands at left beside a crisp seated woman in profile. The apparition has soft edges and partial body transparency against a plain studio backdrop."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "c89d38c7faaa1f9c31329c85c10a6bf8a2efb4a0984bda2d0067e9692ec9ade2",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 729,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-25",
+      "artifact_id": "getty-84.XD.760.1.19",
+      "source_url": "https://www.getty.edu/art/collection/object/107N97",
+      "media_url": "https://media.getty.edu/iiif/image/294c49e8-3ae3-48e0-aa12-cfab1281f88e/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified elderly woman seated, three \"spirits\" in the background]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A prominent pale figure behind a seated elderly woman is joined by two much fainter faces. Uneven mottling and a slightly bowed photo edge are visible; no interface-like geometry occurs inside the photograph."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "6df32707d9173757662a9485e3ac6b35d8bda92ff813977115c928f9f1757996",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 713,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-26",
+      "artifact_id": "getty-84.XD.760.1.31",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9M",
+      "media_url": "https://media.getty.edu/iiif/image/99040bd5-5fb7-4d91-a08c-8d56c8c59fdb/full/!1200,1200/0/default.jpg",
+      "title": "Mrs. S.A. Floyd",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A seated woman at left is paired with a much larger pale draped figure leaning diagonally at right. A thin rounded rectangle rules the card mount; the composition is offset rather than universally centered."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "5c4f53f3967a42d8622da0474b926819fc3ab5c17b18fe4f7c8f8487bf51963c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 737,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-27",
+      "artifact_id": "getty-84.XD.760.1.1",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8P",
+      "media_url": "https://media.getty.edu/iiif/image/9ae00f04-0785-4fda-9b95-6aec9f890585/full/!1200,1200/0/default.jpg",
+      "title": "Robert Bonner",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A tall white apparition rises behind a seated bearded man, holding one arm upward. Its exposure partially covers the dark jacket; the image well is a simple rectangle with a lightly rounded outer card."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "65866e88997ad7fb7540b5cc61f0e4929add0d8a997f65a642eaf5ec616639a5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 736,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-28",
+      "artifact_id": "getty-84.XD.760.1.16",
+      "source_url": "https://www.getty.edu/art/collection/object/107N96",
+      "media_url": "https://media.getty.edu/iiif/image/a9a71082-78da-4565-9e51-be4f0a9eeb06/full/!1200,1200/0/default.jpg",
+      "title": "[Three \"spirits\" with a photograph on a table propped against a vase with flowers]",
+      "creator": "Attributed to William H. Mumler (American, 1832 - 1884); or Possibly by Helen F. Stuart (American, active 1859 - 1867)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three pale figures fill the upper image while a dark cropped round table at lower right carries a small upright photograph and vase. The added figures fade toward their lower bodies."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "77d46a2ed543600744f0f712a77efd9f31c2e4beeeec6a0f20be58414e6aebc1",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 734,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-29",
+      "artifact_id": "getty-84.XD.760.1.33",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9P",
+      "media_url": "https://media.getty.edu/iiif/image/46332f8a-d604-458e-abc6-4606c0c897f7/full/!1200,1200/0/default.jpg",
+      "title": "[Female \"spirit\" standing next to a table with a photograph propped against a vase with flowers]",
+      "creator": "Attributed to William H. Mumler (American, 1832 - 1884); or Possibly by Helen F. Stuart (American, active 1859 - 1867)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale standing female figure reaches to a white mounted photograph propped against a flower vase on a dark cropped table. The low-contrast lower body dissolves into a broad empty floor."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "bcc6b789e4910a190a38ac9bbae3e4afcf37ad8e77fded3d4ff609aea3c7c05c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 728,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-30",
+      "artifact_id": "getty-84.XD.760.1.24",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9D",
+      "media_url": "https://media.getty.edu/iiif/image/f84f12d3-af9f-4973-8d4a-15b883abcfeb/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified man with a long beard seated with three \"spirits\"]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Three pale heads and a smaller pale upper body are layered behind an unusually dark seated reader. The sideways chair and open book produce stronger diagonals and deeper interior shadow than most of the album."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "1481ff25eeaa4bb947c92e0a14eadf403c744dbe04208b7f73d9280a6517dfa2",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 735,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-31",
+      "artifact_id": "getty-84.XD.760.1.2",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8Q",
+      "media_url": "https://media.getty.edu/iiif/image/c6c226f2-6706-48c7-aedb-5cb1897ff819/full/!1200,1200/0/default.jpg",
+      "title": "Ella Bonner",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "An ordinary seated studio portrait with white dress, lace edging and a held hat. No legible additional exposure; excluded as a boundary even though the sitter has another photograph in this album."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "cc7440508975a9b0e84ef3922c8f176ca13d1edabc11a8ffbf7081583ed793d5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 732,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-32",
+      "artifact_id": "getty-84.XD.760.1.39",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9W",
+      "media_url": "https://media.getty.edu/iiif/image/cfeb1571-ce2a-4ad2-9f1d-6c5862df879a/full/!1200,1200/0/default.jpg",
+      "title": "Harry Gordon",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A sharply darker mustached man holding an object is overlapped by a large pale male exposure behind him. A fine rounded inner rule and broad light lower mount remain visible."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "bc9b2f891c36536fd37f60bbddcc587e049a7db1310c09d0942c0f438a7ff766",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 749,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-33",
+      "artifact_id": "getty-84.XD.760.1.25",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9F",
+      "media_url": "https://media.getty.edu/iiif/image/9075e5b5-d321-4491-926c-70b76413b4ec/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified woman seated with a female \"spirit\" in background]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A large pale crowned female exposure stands behind a dark seated woman with arms folded. Clear head-size contrast, overlapping arms and low-contrast fabric establish the layered image rather than a separate cutout."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "b0a59b5b66aa59eab44a479bcea0abb5b5430ba574ba3cf4ccaad9272361a076",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 735,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-34",
+      "artifact_id": "getty-84.XD.760.1.18",
+      "source_url": "https://www.getty.edu/art/collection/object/107N95",
+      "media_url": "https://media.getty.edu/iiif/image/c95fd59c-d587-45ee-a270-9fe8d400b472/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified man with muttonchops seated with arms crossed, a female \"spirit\" in the background]",
+      "creator": "Attributed to William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A faint large female face and shoulder float above a darker seated man with crossed arms. The body remains distinguishable at the inspected size; chipped top corners and a plain mount convey handling."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "f4128ba0d1a55a2a7179e394140e0de85d043004d5f065570603ab622ae8bb10",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 736,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-35",
+      "artifact_id": "getty-84.XD.760.1.20",
+      "source_url": "https://www.getty.edu/art/collection/object/107N98",
+      "media_url": "https://media.getty.edu/iiif/image/be376849-603e-420d-92b3-ee0496a84d37/full/!1200,1200/0/default.jpg",
+      "title": "[Female \"spirit\" with a carte-de-visite on a table propped against an album]",
+      "creator": "Attributed to William H. Mumler (American, 1832 - 1884); or Possibly by Helen F. Stuart (American, active 1859 - 1867)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale female figure occupies most of the left field with an extended hand toward a dark album and small card on a cropped table. Two star-like light marks appear above the head; no dark outer scene surrounds the apparition."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "25605a8e808070dc824be77e6b961be891bf4f58d895b8c46984ff0760fe88e7",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 761,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-36",
+      "artifact_id": "getty-84.XD.760.1.37",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9T",
+      "media_url": "https://media.getty.edu/iiif/image/6c8443cf-e643-4cda-8ea1-f9b9af1d49a3/full/!1200,1200/0/default.jpg",
+      "title": "[Female \"spirit\" with three male \"spirits\" next to table with a cabinet card propped against an album]",
+      "creator": "Attributed to William H. Mumler (American, 1832 - 1884); or Possibly by Helen F. Stuart (American, active 1859 - 1867)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale woman and three faint male heads occupy the upper left behind a cropped pedestal table supporting a small portrait and patterned album. The table is sharply dark while the exposure bodies fade toward the floor."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "a2b8f005b46c42f9d843069dca628ffc2087b4bdd9090516be563f478bbdbb5f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 743,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-37",
+      "artifact_id": "getty-84.XD.760.1.11",
+      "source_url": "https://www.getty.edu/art/collection/object/107N92",
+      "media_url": "https://media.getty.edu/iiif/image/90519d60-917c-470b-8151-07b16e855e8f/full/!1200,1200/0/default.jpg",
+      "title": "Bronson Murray",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A large pale male exposure stands behind a seated dark-coated man whose head tilts downward. Faint hands sit at the shoulders; texture and tonal overlap remain photographic rather than outlined."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "8337e737daa74a059e92a54941f963312a76fd3358d3a5fdf9404c28ac676a7e",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 735,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-38",
+      "artifact_id": "getty-84.XD.760.1.7",
+      "source_url": "https://www.getty.edu/art/collection/object/107N8Y",
+      "media_url": "https://media.getty.edu/iiif/image/630d4770-fc0f-4d3e-a0e3-fc2713fe4f8b/full/!1200,1200/0/default.jpg",
+      "title": "Mrs. Tinkham",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A small pale child stands at the right of a dark seated woman, one hand touching her sleeve. This is a low-positioned full-body apparition rather than the more frequent oversized upper-background figure."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "1a0af8968ebec10c0639609dff9a068c2aca5f200021a733489a55fe4ef23e0d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 729,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "spirit-39",
+      "artifact_id": "getty-84.XD.760.1.17",
+      "source_url": "https://www.getty.edu/art/collection/object/107N9B",
+      "media_url": "https://media.getty.edu/iiif/image/e58eabef-dfae-4642-8b2d-781190f09cf3/full/!1200,1200/0/default.jpg",
+      "title": "[Unidentified woman seated with arms of a \"spirit\" over her head]",
+      "creator": "William H. Mumler (American, 1832 - 1884)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two pale arms extend overhead and descend around a seated woman, with a faint face at upper left. The exposure crosses her dark clothing and broad plain backdrop; the mount is simple and light."
+        }
+      ],
+      "handling": "CC0 Open Content analytical download; no reference file shipped",
+      "rights": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "sha256": "d1bcb964b6e221f5d3692746fdc8629ffaa41d92ca7b608b7111cb6122b80f4b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 737,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "hope-couple",
+      "artifact_id": "smg-2002-5054-1",
+      "source_url": "https://collection.sciencemuseumgroup.org.uk/objects/co8228841",
+      "media_url": "https://coimages.sciencemuseumgroup.org.uk/156/860/large_51983_4.jpg",
+      "title": "Couple with a female ‘spirit’",
+      "creator": "William Hope, about 1920; Science Museum Group",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Two solid sitters occupy the lower half of a broad light mounted card; a floating female face in a dark draped hood sits between and above them against a curtained backdrop. A handwritten signature crosses the upper image. Deeper shadows and a white border differ from the pale Getty studio grounds."
+        }
+      ],
+      "handling": "Private analytical inspection only; linked record published, no source image shipped",
+      "rights": "© The Board of Trustees of the Science Museum; private analytical inspection only",
+      "sha256": "625bc3ae90d248442641164e471236c00b62faff84fac1fab299a6e4c6f7e8a4",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 988,
+        "height": 1536
+      }
+    },
+    {
+      "record_id": "aps-2",
+      "artifact_id": "aps-moses-dow-mumler",
+      "source_url": "https://www.amphilsoc.org/exhibits/spirits/mumler.htm",
+      "media_url": "https://www.amphilsoc.org/exhibits/spirits/images/mumler2.jpg",
+      "title": "Moses Dow and spirit, APS published example",
+      "creator": "William H. Mumler; private collection, reproduced by American Philosophical Society",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "thumbnail",
+      "review_status": "unresolved",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Small institutional published image has an oval image boundary enclosing a dark seated male portrait and a pale female head positioned above his left shoulder. It supports oval framing, scale contrast and overlap only; its small resolution does not support grain or precise exposure details."
+        }
+      ],
+      "handling": "Private analytical inspection only; linked record published, no source image shipped",
+      "rights": "Copyright/permission for republication not established; not shipped",
+      "sha256": "4d8e78c94817265ddce217ffd1426264f4f7c663ff2fee5d97d8ee69b3351de2",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 190,
+        "height": 295
+      }
+    },
+    {
+      "record_id": "aps-1",
+      "artifact_id": "aps-three-spirits-unresolved",
+      "source_url": "https://www.amphilsoc.org/exhibits/spirits/mumler.htm",
+      "media_url": "https://www.amphilsoc.org/exhibits/spirits/images/mumler1.jpg",
+      "title": "Three spirits and photograph, APS published example",
+      "creator": "William H. Mumler; private collection, reproduced by American Philosophical Society",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "thumbnail",
+      "review_status": "unresolved",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Small published image shows three pale figures around a dark table carrying a small portrait. Too little detail for confident cross-collection artifact disambiguation; exclude from count and retain as a contextual lead."
+        }
+      ],
+      "handling": "Private analytical inspection only; linked record published, no source image shipped",
+      "rights": "Copyright/permission for republication not established; not shipped",
+      "sha256": "8afd10e47ce284c9bc9e2442e182b0209c1bff785940628a5aa126ea3bcb8698",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 175,
+        "height": 300
+      }
+    }
+  ]
+}

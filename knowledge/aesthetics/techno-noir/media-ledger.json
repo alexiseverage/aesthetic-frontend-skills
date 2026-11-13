@@ -1,0 +1,2239 @@
+{
+  "media": [
+    {
+      "record_id": "br2049-lapd-k-s-spinner-1",
+      "artifact_id": "br2049-lapd-k-s-spinner",
+      "title": "LAPD: K's Spinner",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/09/TerritoryStudio_BR_KSP_0001.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The complete Spinner engine/navigation graphic combines a worn curved CRT border, cyan/green edge glow, yellow scan structures, black shadow, small red warnings and narrow monospaced numerics. An orange point-cloud terrain-like form rises behind four practical lower status modules and lateral scales. Visible scratches, chromatic separation and raster texture are part of the delivered design, not proof of an actual malfunction in this still. This and the following two boards are states of one cockpit-interface family, counted once."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "8894ce43909c7ddee5f3f0b86410b9d1d498889b579a1aea6cca013ceff1f1d6",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "br2049-lapd-k-s-spinner-2",
+      "artifact_id": "br2049-lapd-k-s-spinner",
+      "title": "LAPD: K's Spinner",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/09/TerritoryStudio_BR_KSP_0002.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The second Spinner board retains exactly the same worn CRT framing and palette but replaces the central scan with four rounded diagnostic plots, stepped traces, tick marks and four columns of engine figures. Bottom icon blocks and tiny captions organize practical status. It demonstrates a concrete alternate screen state within the same cockpit family, not another independent artifact. Exact data semantics and animation timing are not established by the still."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "c8a895abf1b048d8c37bada6527506aa0939bfcb72326a735ce2ecc9b4b0adbe",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1200
+      },
+      "duplicate_of": "br2049-lapd-k-s-spinner-1"
+    },
+    {
+      "record_id": "br2049-lapd-k-s-spinner-3",
+      "artifact_id": "br2049-lapd-k-s-spinner",
+      "title": "LAPD: K's Spinner",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/09/TerritoryStudio_BR_KSP_0005.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The third Spinner board shows an extensive blue-green point-cloud channel/terrain map crossed by long thin yellow vectors, a small central reticle, triangular markers and tiny bottom status readouts. The same CRT surface scratches, frame and icon language link it to the first cockpit board. Strong texture can overwhelm fine labels in this cinematic prop; modern application essentials should remain readable. One underlying cockpit system across these versions, no extra unique count."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "9399be6f6df39c536fa74f2469195e3fe7bcd0f7578cd9c40bea3fe0be2d76dd",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1200
+      },
+      "duplicate_of": "br2049-lapd-k-s-spinner-1"
+    },
+    {
+      "record_id": "br2049-lapd-k-s-spinner-navigation-and-pilotfish-1",
+      "artifact_id": "br2049-lapd-k-s-spinner-navigation-and-pilotfish",
+      "title": "LAPD: K's Spinner Navigation and Pilotfish",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/09/TerritoryStudio_BR_KSP_00014.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A large skewed wireframe interchange/grid floats behind a left vertical vehicle list and right code panel. Thin green-white linework, magenta channel offsets, circular node marks and scuffed glass make mapping feel optically mediated. Same navigation family across three boards, not three artifacts."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "d986f1c1c4513a7571dd3d75a45a7c146ab7235c517792f88318f9cfe3287286",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1199
+      }
+    },
+    {
+      "record_id": "br2049-lapd-k-s-spinner-navigation-and-pilotfish-2",
+      "artifact_id": "br2049-lapd-k-s-spinner-navigation-and-pilotfish",
+      "title": "LAPD: K's Spinner Navigation and Pilotfish",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/09/TerritoryStudio_BR_KSP_00015.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "An overhead dense city cluster occupies the center; duplicated translucent blocks, perspective grid and concentric interference bands sit behind the identical left list and right code panel. Same navigation family as previous, no new count."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "887bef9416e8df909f3057bbad8c0c8fdc6048e773ad8eba56b6f16e3fca35f3",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1199
+      },
+      "duplicate_of": "br2049-lapd-k-s-spinner-navigation-and-pilotfish-1"
+    },
+    {
+      "record_id": "br2049-lapd-k-s-spinner-navigation-and-pilotfish-3",
+      "artifact_id": "br2049-lapd-k-s-spinner-navigation-and-pilotfish",
+      "title": "LAPD: K's Spinner Navigation and Pilotfish",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/09/TerritoryStudio_BR_KSP_00016.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A yellow/cyan road network replaces the white wireframe with four triangular map markers, coordinates, bottom pictographic tools and a scratched cyan screen lip. Code panel is now left. Alternate screen within navigation family, not timing evidence."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "93d4acfd259ddbef9c23d2f61e7118e64cd5b30c6075025377eee31faa259475",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1200
+      },
+      "duplicate_of": "br2049-lapd-k-s-spinner-navigation-and-pilotfish-1"
+    },
+    {
+      "record_id": "br2049-lapd-joshi-s-office-1",
+      "artifact_id": "br2049-lapd-joshi-s-office",
+      "title": "LAPD: Joshi's Office",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_LJO_00019a.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "An extreme close view of a cyan face contour/biometric profile bends into horizontal bands on convex glass, with magenta glyph strip and physical white keys down the right. Framing blends bodily surveillance and an old appliance rather than a pristine virtual HUD. No person imagery will be reused; take the optical depth, hardware surround and uneven line intensity."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "e357e4a96396c9a44d74f8b9d9b3b3eafaebbcbc80d8b8b10c9365e21b3f96b5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1281
+      }
+    },
+    {
+      "record_id": "br2049-lapd-joshi-s-office-2",
+      "artifact_id": "br2049-lapd-joshi-s-office",
+      "title": "LAPD: Joshi's Office",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_LJO_00021.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "26de0963eeaa460f39c474569e57d632ace211221d2f75b96fbfa34e69f570af",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-lapd-joshi-s-office-3",
+      "artifact_id": "br2049-lapd-joshi-s-office",
+      "title": "LAPD: Joshi's Office",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_LJO_00020.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "2a59dfa48f0577907ac7c9f77177ca8f1872ec9e3b85d5b31df84cb6361a2eb1",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-lapd-baseline-scan-1",
+      "artifact_id": "br2049-lapd-baseline-scan",
+      "title": "LAPD: Baseline Scan",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_B_00028.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Soft teal biological-looking scan with scattered orange square detections, sparse central hexagonal reticle and fine grid border. A small timer and coordinate strip occupy edges, leaving most of the field ambiguous. Texture and under-resolved image challenge certainty; the still does not prove a scan animation."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "63a1519b28edc0bf5d6fc6d7ec04a10faae830cb60b4d19119f070d9cb2b0117",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1281
+      }
+    },
+    {
+      "record_id": "br2049-lapd-baseline-scan-2",
+      "artifact_id": "br2049-lapd-baseline-scan",
+      "title": "LAPD: Baseline Scan",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_B_00029.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "27bb18b82fb27237e677d53ddf7b6687f700a1eac0db3c7eda99fe79bbe8a68b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-lapd-baseline-scan-3",
+      "artifact_id": "br2049-lapd-baseline-scan",
+      "title": "LAPD: Baseline Scan",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_B_00030.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "0cc578ba83afaa305ffeb41ab7420d6b8cff8d77688d043cfcd703151b1c88cb",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-lapd-morgue-1",
+      "artifact_id": "br2049-lapd-morgue",
+      "title": "LAPD: Morgue",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_M_00034.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A pale green volumetric bone floats in a softly rounded dark grey CRT, upper-left technical values and lower-left code beneath. Large empty grey field and soft optical blur dominate rather than dense neon menus. Bodily reference only: translate to an original object scan."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "a76bf66ba0e56e539bb8da7c64bbad0a7d7ed60717a59b8b334e782105bd5546",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1280
+      }
+    },
+    {
+      "record_id": "br2049-lapd-morgue-2",
+      "artifact_id": "br2049-lapd-morgue",
+      "title": "LAPD: Morgue",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_M_00031.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "557cca88dfaf8f6cfe222e806b0d5ab3095514b5609f5e935b87bf68ec687de9",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-lapd-morgue-3",
+      "artifact_id": "br2049-lapd-morgue",
+      "title": "LAPD: Morgue",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_M_00032.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "59618bbc4abfbec7383ef01b5a41f2c0f116cbf6b8b94d9acb26d8aaf60c8be0",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-lapd-denabase-1",
+      "artifact_id": "br2049-lapd-denabase",
+      "title": "LAPD: Denabase",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_D_00036a.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "An inset rectangular glass screen inside a thick teal/black physical housing holds three dense pale columns separated by bright bars, a barcode region and a luminous foggy center. Deep side shadows and reflections obscure some text. This is one database display family, not every column a distinct artifact."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "69f507d666b4434684d972770a3f0349b5bcb2405c7af1a53359bf62d72765a8",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "record_id": "br2049-lapd-denabase-2",
+      "artifact_id": "br2049-lapd-denabase",
+      "title": "LAPD: Denabase",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_D_00038.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "b243048b69d80ba9c350b3c5a611b42283ee379f1a425cf0175321b3471c044f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-lapd-denabase-3",
+      "artifact_id": "br2049-lapd-denabase",
+      "title": "LAPD: Denabase",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_D_00037.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "5e81992f537ee00259507197318a92c96a1513bc6cb6b81a77e4f18335e6994e",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-market-1",
+      "artifact_id": "br2049-market",
+      "title": "Market",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_M_00040.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full-width dot-matrix signage uses yellow, cyan and magenta circles with coarse multilingual-looking character forms and overlapping ghosted bands. Top and bottom cyan lines frame the message. Printed screenshot footer identifies a discount LED movie but does not establish animation by itself. Avoid decorative unreadable copied scripts."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "078b4989ac15eb6df65a4b24c5df66bf685577b0225bae653bb8e05366f44534",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 658
+      }
+    },
+    {
+      "record_id": "br2049-market-2",
+      "artifact_id": "br2049-market",
+      "title": "Market",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_M_00043.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "4209f49321beb1690ce34c4213a1143040f943955ab0d3be89fef3b84e2a877a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-market-3",
+      "artifact_id": "br2049-market",
+      "title": "Market",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_M_00044.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "e420929160d45b85a413ef1547cb13ede7fd5ae4904d753a6ec93b953e9fa719",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-wallace-corp-limo-and-spinner-1",
+      "artifact_id": "br2049-wallace-corp-limo-and-spinner",
+      "title": "Wallace Corp: Limo and Spinner",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_WSp_00062.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A remarkably clean black display with thin white converging V-shaped lines, tiny alt/velocity/pitch values across the top, three solid triangular markers below and a narrow guidance footer. No scratches, neon or photoreal rendering: a strong counterexample to universal grime, saturation and high information density."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "68800db519bdb0a435be962f97ffa6f6f5ed086e27baa209e615cf29ba75b249",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "br2049-wallace-corp-limo-and-spinner-2",
+      "artifact_id": "br2049-wallace-corp-limo-and-spinner",
+      "title": "Wallace Corp: Limo and Spinner",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_WSp_00064.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "4e39610582fc1cb62f4b5bffdb0217416e1cb1d14863e988598f2dc293e6324b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-wallace-corp-limo-and-spinner-3",
+      "artifact_id": "br2049-wallace-corp-limo-and-spinner",
+      "title": "Wallace Corp: Limo and Spinner",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_WSp_00065.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "845ff56d3c0abb8627d69a1b3762ccff7c47f6a0ce77821166dceda5cf18967d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "br2049-las-vegas-deckard-s-penthouse-1",
+      "artifact_id": "br2049-las-vegas-deckard-s-penthouse",
+      "title": "Las Vegas: Deckard's Penthouse",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_DecAp_00071.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A physical desktop analyzer sits in amber haze: sloping inset screen carries pale horizontal traces and two bright round returns, with small illuminated rectangular keys and a lidded equipment case beside it. Practical black plastic housing and an obsolete desk lamp tie advanced analysis to everyday hardware; film frame is only one view of penthouse equipment."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "18815402a96bdc13dc2ed5536d807d9aff2c362bb0314cef218f2239c46aba32",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 780
+      }
+    },
+    {
+      "record_id": "br2049-las-vegas-deckard-s-penthouse-2",
+      "artifact_id": "br2049-las-vegas-deckard-s-penthouse",
+      "title": "Las Vegas: Deckard's Penthouse",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/TerritoryStudio_BR_DecAp_00072.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "6ec699a0479ff382918d9ea884db289cc3eb10bb027ed0168f1fff8777ff7951",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "gits-hologlobe-concepting-1",
+      "artifact_id": "gits-hologlobe-concepting",
+      "title": "Hologlobe concepting",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/ghost-in-the-shell/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/Film_GITS_L_HG_DS_008.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A close full board of a gigantic warm orange/yellow point-cloud face against cold cyan architectural haze. Tiny dotted samples and dark missing areas create incomplete virtual presence rather than a solid rendered surface. Count the hologlobe concept family once, do not reuse the face as a delivered asset."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "f5f6276b2f62694fa64c376054682b6d66c44691e6eba5f6dfe3e17d01a531d9",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "record_id": "gits-hologlobe-concepting-2",
+      "artifact_id": "gits-hologlobe-concepting",
+      "title": "Hologlobe concepting",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/ghost-in-the-shell/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/Film_GITS_L_HG_DS_006.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "07bc6c45581dba70e199303ab5c707105674867a57735ecff89e9f4195b2b8fd",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "gits-hanka-ui-1",
+      "artifact_id": "gits-hanka-ui",
+      "title": "Hanka UI",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/ghost-in-the-shell/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/Film_GITS_L_FS_001.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A very spare red-orange projected ruler/interface lies over the side of a head, crossed by a long bright white diagonal light strip. Dark blue surroundings and translucent fine red vertical lines contrast clinical technology with a vulnerable body. No copied head or corporate symbol; demonstrates sparse interface density."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "7b4ba9a9ef6a07640a5f2b4fb6db4098c486ce157fbaf0b0c4cf48a3a4eca19a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "record_id": "gits-hanka-ui-2",
+      "artifact_id": "gits-hanka-ui",
+      "title": "Hanka UI",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/ghost-in-the-shell/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/Film_GITS_L_HU_001.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "87b36819990101e0f4c463620ad40c5eb7af858e627b152622c04dd99c86cd4a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "gits-holographic-environments-1",
+      "artifact_id": "gits-holographic-environments",
+      "title": "Holographic Environments",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/ghost-in-the-shell/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/Film_GITS_L_HR_001-1.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The complete concept board presents four alternatives for one orange figure hologram: splintered dotted volume, diagonal wire mesh and cyan interference interrupting orange warmth. The four figures are versions of one holographic design family, counted once, not four independent examples. No actual duration established."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "34355281172824608eee94c2fb3279bfd99b8293cb092d28fc364caf24a122b8",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "record_id": "gits-holographic-environments-2",
+      "artifact_id": "gits-holographic-environments",
+      "title": "Holographic Environments",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/ghost-in-the-shell/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/Film_GITS_L_HR_004-1.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "0031e83beffb8f0965a084639afd006e00a559bcc266fde938a50405250cd6c0",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "gits-cityscape-street-scenes-1",
+      "artifact_id": "gits-cityscape-street-scenes",
+      "title": "Cityscape & Street Scenes",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/ghost-in-the-shell/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/Film_GITS_L_EA_012.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A daylight grey high-rise skyline carries enormous translucent commercial holograms, with stacked utility buildings and a dark water foreground. Huge media silhouettes dwarf an ordinary person. This is not a universally nocturnal or neon-saturated aesthetic: scale, control, corporate advertising and old/new layering are stronger signals."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "0b87eff99ff9a9b7f2d52477867197f60d82cf6ce9d2ae937adc745fbb1f5d6f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1600,
+        "height": 900
+      }
+    },
+    {
+      "record_id": "gits-cityscape-street-scenes-2",
+      "artifact_id": "gits-cityscape-street-scenes",
+      "title": "Cityscape & Street Scenes",
+      "creator": "Territory Studio and film production, see primary project credits",
+      "source_url": "https://territorystudio.com/project/ghost-in-the-shell/",
+      "media_url": "https://territorystudio.com/wp-content/uploads/2018/08/Film_GITS_L_EA_005.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "be36cf0b3c58dcbb07590e35a42588a1afb7b505db0c7b23bd0c8cb4f1c60183",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "gmunk-gfx-methodology-1",
+      "artifact_id": "gmunk-gfx-methodology",
+      "title": "GFX Methodology",
+      "creator": "GMUNK / Crater Lake Productions and credited graphics team",
+      "source_url": "https://gmunk.com/OBLIVION-GFX",
+      "media_url": "https://freight.cargo.site/t/original/i/e93902fc452250bc3ada30c50a7f0171ed759c2d5ae155cd7aedd514980525c6/01_OBLVN_Light_Table_UI_17br.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "fc7f3d386877f683c5825a60ac55e05960bf3d2ce4b7f7935558272b4ffba801",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "gmunk-light-table-ui-1",
+      "artifact_id": "gmunk-light-table-ui",
+      "title": "Light Table UI",
+      "creator": "GMUNK / Crater Lake Productions and credited graphics team",
+      "source_url": "https://gmunk.com/OBLIVION-GFX",
+      "media_url": "https://freight.cargo.site/t/original/i/82d595d6390737b6eb7e57ddcff37e13bcf33b6e7072ccd585b0d1366fb7980e/01_OBLVN_Light_Table_UI_01.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete cinematic light-table view shows orderly cyan/white diagnostic modules, terrain map, schematic robot view and repeated numeric channel panels inside clean metallic housing. GMUNK creator page identifies Oblivion graphics and practical storytelling constraints. Retained as adjacent HMI boundary: a blue high-tech operator display alone does not establish noir uncertainty, power or fatalism."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "df5385d8a9e21528e6b9e5a947475fbfb0ebcad68ca0456f792b62457b6bfd97",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "record_id": "gmunk-light-table-ui-2",
+      "artifact_id": "gmunk-light-table-ui",
+      "title": "Light Table UI",
+      "creator": "GMUNK / Crater Lake Productions and credited graphics team",
+      "source_url": "https://gmunk.com/OBLIVION-GFX",
+      "media_url": "https://freight.cargo.site/t/original/i/692c1d609429b35346f4c6d1b0fa6a56d2b1c4232907c8edc03df609c7e864f4/01_OBLVN_Light_Table_UI_02.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "3649392afbf27367add49f72d09c1745557029221ece903c23ba53ca3c5a31aa",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "gmunk-bubbleship-ui-1",
+      "artifact_id": "gmunk-bubbleship-ui",
+      "title": "Bubbleship UI",
+      "creator": "GMUNK / Crater Lake Productions and credited graphics team",
+      "source_url": "https://gmunk.com/OBLIVION-GFX",
+      "media_url": "https://freight.cargo.site/t/original/i/5528a7848bd0238c0e975bde760fc46c0ed22ee3251bbce6767398c82d438d90/02_OBLVN_Bubbleship_UI_01.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete cockpit film frame places extremely fine white/cyan heads-up numerals and trajectories over a battle landscape in warm firelight. A clear curved canopy and conventional control joystick contrast the data overlay. Retained as adjacent science-fiction HMI rather than automatically qualifying every sci-fi screen as techno-noir."
+        }
+      ],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "e3b53e42cc490721300ef46b301e85e36133998a6690026de24de25b6f03590f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count",
+      "resolution": {
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "record_id": "gmunk-bubbleship-ui-2",
+      "artifact_id": "gmunk-bubbleship-ui",
+      "title": "Bubbleship UI",
+      "creator": "GMUNK / Crater Lake Productions and credited graphics team",
+      "source_url": "https://gmunk.com/OBLIVION-GFX",
+      "media_url": "https://freight.cargo.site/t/original/i/b38c596bc0136c5ca897cbf4611e706b097b21fec0b88ea3d619f487127fe76f/02_OBLVN_Bubbleship_UI_02.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "57e992a69096debd1ebb78898b47fc257867b1812c1c9c03e37041ea9711ba67",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "gmunk-drone-and-scope-ui-1",
+      "artifact_id": "gmunk-drone-and-scope-ui",
+      "title": "Drone and Scope UI",
+      "creator": "GMUNK / Crater Lake Productions and credited graphics team",
+      "source_url": "https://gmunk.com/OBLIVION-GFX",
+      "media_url": "https://freight.cargo.site/t/original/i/53a723b6ef424b1bc27384ab2663bb7bcac759f40d569272175646713c06c8ec/03_OBLVN_HUD_GFX_01.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "db13c5f535655932191648537da2f4cd3d371dbf467301e4fb6910c17cf6c5ca",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "gmunk-drone-and-scope-ui-2",
+      "artifact_id": "gmunk-drone-and-scope-ui",
+      "title": "Drone and Scope UI",
+      "creator": "GMUNK / Crater Lake Productions and credited graphics team",
+      "source_url": "https://gmunk.com/OBLIVION-GFX",
+      "media_url": "https://freight.cargo.site/t/original/i/323bb71fc72f7ec3bee125373310a77f02ef4b78d35e954585a1d60e423bd9bc/03_OBLVN_HUD_GFX_04.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no source imagery, film frame or design shipped",
+      "rights": "Underlying film/design/photograph rights remain with owners; no production asset clearance",
+      "sha256": "ad43fba7f299ba204e219e34f8c9638c306d8d24c7744d2b05d690303629a6af",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "grouping": "Provisional set/interface family; review individual identity and variations before qualifying count"
+    },
+    {
+      "record_id": "sketchbook-police-spinner",
+      "artifact_id": "sketchbook-police-spinner",
+      "title": "Blade Runner production design: police-spinner (PDF page 8)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=8",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete heavy low police vehicle concept in perspective: enclosed high canopy, exaggerated wheel/fender masses and industrial warning-label panels. Page9 alternate wheel configuration, page10 annotated cockpit and page14 sleeker side variant grouped conservatively with the same spinner design family; no claim all variants appeared in the film."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "77e329f8321282520905b01534671578dfa38ce8dc438c89556420d3deafbda8"
+    },
+    {
+      "record_id": "sketchbook-police-motorcycle",
+      "artifact_id": "sketchbook-police-motorcycle",
+      "title": "Blade Runner production design: police-motorcycle (PDF page 16)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=16",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A complete side-profile motorcycle concept has a long wedge body, enclosed disc wheel, enormous 27 identifier and compressed mechanical cockpit. Dark architectural backdrop and hard cut light flatten the vehicle into black/white masses. Distinct motorcycle work, not another spinner view."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "a1ec24ea3f4ebe1c4260228e60787200991a85b5b45680303a519cfd20493320"
+    },
+    {
+      "record_id": "sketchbook-taxi",
+      "artifact_id": "sketchbook-taxi",
+      "title": "Blade Runner production design: taxi (PDF page 18)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=18",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A complete street taxi perspective uses a tall glazed rectangular cabin, checkerboard pillar, blunt bumper and giant circular headlamp. Backlit street opening and black silhouetted pedestrians create noir contrast around mundane paid transit. Not a modern UI template."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c661060e0762f0c1a08ada855615b9eec3e24eb002b5b66f900c3cc64ff34fc1"
+    },
+    {
+      "record_id": "sketchbook-rickshaw",
+      "artifact_id": "sketchbook-rickshaw",
+      "title": "Blade Runner production design: rickshaw (PDF page 20)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=20",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Two views of one street rickshaw/bicycle design: spoked wheels, open tubular frame, strapped boxes and patched upright seats. Hand construction lines expose a low-tech economic tier, challenging a uniformly advanced or polished future. Both views counted once."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "8496d5366760841a0933164b0d9889984e60ca3d7e2be6c5e65ed76fb3c834c1"
+    },
+    {
+      "record_id": "sketchbook-parking-meter",
+      "artifact_id": "sketchbook-parking-meter",
+      "title": "Blade Runner production design: parking-meter (PDF page 22)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=22",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Three perspective/plan studies of a tall cast payment pillar show a circular push dial, slot, divided register and robust angled cap. Legible handwritten notes describe tokens, coupons and cards and a time-paid dial. Page24 changed body/base/impact-jacket views remain the same parking-meter family, not another work."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "25d53ca89e711f2491098cf32651d5d1b10dea5f63805ea698722ad2f0981c47"
+    },
+    {
+      "record_id": "sketchbook-fire-hydrant",
+      "artifact_id": "sketchbook-fire-hydrant",
+      "title": "Blade Runner production design: fire-hydrant (PDF page 26)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=26",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Four alternatives for one utility hydrant family combine squat twin-cylinder and rounded rectangular castings, recessed ports, prominent screws and bolted plinths. Ordinary street hardware, functional seams and weight support retrofit material culture; no neon or digital screen required."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "2fe64649565d11ca4c9ff5132f936e6c73394e94408f6af245ce57acba7ed2b4"
+    },
+    {
+      "record_id": "sketchbook-blaster",
+      "artifact_id": "sketchbook-blaster",
+      "title": "Blade Runner production design: blaster (PDF page 30)",
+      "creator": "Paull; signed1980",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=30",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Two full side views of one handheld weapon concept combine an oversized angular shroud with a rounded textured grip and recessed cylinder/vents. High-contrast linework and a visible Paull80 signature; group both orientations as one design, with no real weapon functionality inferred."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "4ea1f2b1682566dcf82f85a6c1a4a81e7977a860cd8796d4afb706f3da9b8400"
+    },
+    {
+      "record_id": "sketchbook-costume-coat",
+      "artifact_id": "sketchbook-costume-coat",
+      "title": "Blade Runner production design: costume-coat (PDF page 50)",
+      "creator": "Charles Knode; signed1980",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=50",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete front/back costume concept pairs a dark fitted dress with an oversized fringed/feather-pattern coat and bag; visible Charles Knode80 signature. Archival fashion/noir context only; no human/garment figure carried to the delivered interface. Both views one design."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "1730f1e0c9deff5f9aa8b57787f556ff8907078896cce57aa2461658ddac47a8"
+    },
+    {
+      "record_id": "sketchbook-sidewalk-diner",
+      "artifact_id": "sketchbook-sidewalk-diner",
+      "title": "Blade Runner production design: sidewalk-diner (PDF page 60)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=60",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full elevation with seating plan of a retrofit sidewalk diner: dense exposed ducts, service boxes, tanks, layered badge and counter stools on a thick plinth. A scale figure contextualizes proportions. Explicit handwritten label ties it to a sidewalk diner; plan/elevation one set-design work."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c60fd55c4ed5a821aa341d8a259fdf7d3709af239209e8bc0e7e343be9de847a"
+    },
+    {
+      "record_id": "sketchbook-orgasmatron-mask",
+      "artifact_id": "sketchbook-orgasmatron-mask",
+      "title": "Blade Runner production design: orgasmatron-mask (PDF page 90)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=90",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A complete paired headwear concept labeled Orgasmatron mask combines visor, forehead module and ribbed breathing tube. Notes indicate face can be zero and primary visual is the console. Bodily/erotic prop reference only, not a delivered human character; both head views one work."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "54975e1d7c08488bfc76c5a5898650b4f8d2ac1a3b7e249997f55aa149f58f98"
+    },
+    {
+      "record_id": "sketchbook-street-signage-sheet",
+      "artifact_id": "sketchbook-street-signage-sheet",
+      "title": "Blade Runner production design: street-signage-sheet (PDF page 95)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=95",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "One complete graphic-design sheet combines a large rounded MAIL pictogram, stenciled taxi fare/payment instruction, police number panel and VID-PHON out-of-order lettering. Treat this composite sheet as one work, not each sign separately. Multilingual fictional-city graphics are contextual; avoid copied scripts or logos."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "6051c5632e4070d5c5f43e4276496f2bc1bf710751e82cd20433668e908acf2d"
+    },
+    {
+      "record_id": "sketchbook-deckard-apartment-entrance",
+      "artifact_id": "sketchbook-deckard-apartment-entrance",
+      "title": "Blade Runner production design: deckard-apartment-entrance (PDF page 34)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=34",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete perspective of the apartment entrance/lobby uses repeated deep square relief blocks, a tight door and dense directory/entry panel. A lone figure establishes scale. Heavy patterned architectural past and cramped access counter slick placeless sci-fi; page32 context identifies Ennis Brown house and security-controlled entry. No claim this monochrome reproduction establishes final colors."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "cc1d99eb0aaeaad43292db2ea7774b35827464a435d1413a1c0ac2f37d1020f0"
+    },
+    {
+      "record_id": "sketchbook-sentinel-kiosk",
+      "artifact_id": "sketchbook-sentinel-kiosk",
+      "title": "Blade Runner production design: sentinel-kiosk (PDF page 36)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=36",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A complete six-view security-kiosk concept sheet presents one tall freestanding scanner housing in several narrow and broad alternatives, beside scale figures. Recessed upper optics/display, angled mid panel, scratched lower casing and solid base feel cast or folded rather than weightless. Page32 text explains access surveillance; all alternatives counted as one kiosk design family."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "50869ae2ab539a05ddfd0ce1450af65231c3324d1643e2781dd06830a9203323"
+    },
+    {
+      "record_id": "sketchbook-ridleygram-hotel-street",
+      "artifact_id": "sketchbook-ridleygram-hotel-street",
+      "title": "Blade Runner production design: ridleygram-hotel-street (PDF page 64)",
+      "creator": "Ridley Scott; chapter attribution",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=64",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Two rough street-frame sketches and one costume figure form a single Ridleygram concept sheet: large foreground coated silhouettes, receding shop/hotel signs, dark wrapped columns and a narrow bright street opening. Written annotation locates more signs on glass; graphic scale and occluded viewpoint generate uncertainty. Count complete sheet once."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "952a2b505e66b97e6c90e6b9c3b5f12bd5c3c24429ab192bbc50e32bcc97840d"
+    },
+    {
+      "record_id": "sketchbook-holo-message-unit",
+      "artifact_id": "sketchbook-holo-message-unit",
+      "title": "Blade Runner production design: holo-message-unit (PDF page 68)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=68",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Two complete views of a compact faceted message appliance show stacked molded heads, a thick beveled case, dark inset panels and a printed receipt ribbon. Page66 text describes intended illuminated/moving lips, but still inspection supplies no actual timing. A polished jewelry-box counterexample to universal decay; no head imagery reused."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "e3b68b14979dba9b71d5c16116947c0240b97207f9778aafa620209b7dfb0de9"
+    },
+    {
+      "record_id": "sketchbook-tyrell-cryo-crypt",
+      "artifact_id": "sketchbook-tyrell-cryo-crypt",
+      "title": "Blade Runner production design: tyrell-cryo-crypt (PDF page 71)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=71",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full perspective of a cryogenic coffin places a rounded capsule between large triangular end pylons, with repeated ribs and heavy shadows. Page70 contextualizes corporate immortality and suspension over liquid nitrogen; page73 plan/section is the same crypt and adds no unique count. The monochrome reproduction cannot establish final colors or whether this planned set was filmed."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "7ae6bdea889ca817805443269556b5ae9e7c5f84afa1cbd54ffe4046a29118b1"
+    },
+    {
+      "record_id": "sketchbook-electronoscope",
+      "artifact_id": "sketchbook-electronoscope",
+      "title": "Blade Runner production design: electronoscope (PDF page 81)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=81",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete object concept explicitly labeled electronoscope/miniature electron diffraction shows paired vertical illuminated cylinders, an optical rectangular viewing surround, thick equipment base, rotary/paddle controls and a dense numbered keypad. Soft shadow and a massive black rear field contrast the illuminated apparatus. Original forensic-object interface inspiration, not a traced prop."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "sha256": "c13be8c9602fb08fd074c5bdcd882f7433c6b6c4131dba0232ab13a45735f171"
+    },
+    {
+      "record_id": "sketchbook-page-9",
+      "artifact_id": "sketchbook-police-spinner",
+      "title": "Blade Runner production design: police-spinner (PDF page 8)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=9",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An additional complete view of the same police-spinner design family. Complete heavy low police vehicle concept in perspective: enclosed high canopy, exaggerated wheel/fender masses and industrial warning-label panels. Page9 alternate wheel configuration, page10 annotated cockpit and page14 sleeker side variant grouped conservatively with the same spinner design family; no claim all variants appeared in the film. No extra independent count."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "sha256": "5958b62767d437bc6daa6e888641708b3d67312b0b592617f23c9afb489e70ff",
+      "duplicate_of": "sketchbook-police-spinner"
+    },
+    {
+      "record_id": "sketchbook-page-10",
+      "artifact_id": "sketchbook-police-spinner",
+      "title": "Blade Runner production design: police-spinner (PDF page 8)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=10",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An additional complete view of the same police-spinner design family. Complete heavy low police vehicle concept in perspective: enclosed high canopy, exaggerated wheel/fender masses and industrial warning-label panels. Page9 alternate wheel configuration, page10 annotated cockpit and page14 sleeker side variant grouped conservatively with the same spinner design family; no claim all variants appeared in the film. No extra independent count."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "sha256": "6816fc35eee2441704372bd92b19c0ab1bf739314c0d82c4c35a215cced92926",
+      "duplicate_of": "sketchbook-police-spinner"
+    },
+    {
+      "record_id": "sketchbook-page-14",
+      "artifact_id": "sketchbook-police-spinner",
+      "title": "Blade Runner production design: police-spinner (PDF page 8)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=14",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An additional complete view of the same police-spinner design family. Complete heavy low police vehicle concept in perspective: enclosed high canopy, exaggerated wheel/fender masses and industrial warning-label panels. Page9 alternate wheel configuration, page10 annotated cockpit and page14 sleeker side variant grouped conservatively with the same spinner design family; no claim all variants appeared in the film. No extra independent count."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "sha256": "a41ff15e669b163e31aff4771e4e6e146541f7965ebd47e109e24a383616812d",
+      "duplicate_of": "sketchbook-police-spinner"
+    },
+    {
+      "record_id": "sketchbook-page-24",
+      "artifact_id": "sketchbook-parking-meter",
+      "title": "Blade Runner production design: parking-meter (PDF page 22)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=24",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An additional complete view of the same parking-meter design family. Three perspective/plan studies of a tall cast payment pillar show a circular push dial, slot, divided register and robust angled cap. Legible handwritten notes describe tokens, coupons and cards and a time-paid dial. Page24 changed body/base/impact-jacket views remain the same parking-meter family, not another work. No extra independent count."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "sha256": "6ae5901392e2541b03b8098445da3a9d02cf17fa30261af12afc703f1bd199cc",
+      "duplicate_of": "sketchbook-parking-meter"
+    },
+    {
+      "record_id": "sketchbook-page-57",
+      "artifact_id": "sketchbook-sidewalk-diner",
+      "title": "Blade Runner production design: sidewalk-diner (PDF page 60)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=57",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An additional complete view of the same sidewalk-diner design family. Full elevation with seating plan of a retrofit sidewalk diner: dense exposed ducts, service boxes, tanks, layered badge and counter stools on a thick plinth. A scale figure contextualizes proportions. Explicit handwritten label ties it to a sidewalk diner; plan/elevation one set-design work. No extra independent count."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "sha256": "e67d30261d8493485c0970e75db36670b993a92bd311bcbd361adf4ca323a1f3",
+      "duplicate_of": "sketchbook-sidewalk-diner"
+    },
+    {
+      "record_id": "sketchbook-page-73",
+      "artifact_id": "sketchbook-tyrell-cryo-crypt",
+      "title": "Blade Runner production design: tyrell-cryo-crypt (PDF page 71)",
+      "creator": "Blade Runner production-art team credited in1982 book; individual attribution not asserted without signature",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=73",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "An additional complete view of the same tyrell-cryo-crypt design family. Full perspective of a cryogenic coffin places a rounded capsule between large triangular end pylons, with repeated ribs and heavy shadows. Page70 contextualizes corporate immortality and suspension over liquid nitrogen; page73 plan/section is the same crypt and adds no unique count. The monochrome reproduction cannot establish final colors or whether this planned set was filmed. No extra independent count."
+        }
+      ],
+      "rights": "Underlying1982 Blade Runner Partnership copyright; inspected May2008 fan PDF reproduction is not a license or publisher-native scan. Selected full concept artwork only; no reuse.",
+      "handling": "Private analytical download/render only; no source art shipped",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "sha256": "209d1ee46804d41d84e528397c847c9ebcc5a38cd83cbab1e750b2506fcd477b",
+      "duplicate_of": "sketchbook-tyrell-cryo-crypt"
+    },
+    {
+      "record_id": "sketchbook-unresolved-75",
+      "artifact_id": "sketchbook-unresolved-75",
+      "title": "Street concept, PDF page75",
+      "creator": "Blade Runner book-credited production team, individual attribution unresolved",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=75",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "unresolved",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A complete traditional street-facade elevation carries one large three-column bolted mechanical retrofit across upper windows. Reviewed for old/new layering but excluded from unique count because relation to the film street set and nearby city sketches is unresolved."
+        }
+      ],
+      "handling": "Private analytical inspection only",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "sketchbook-unresolved-77",
+      "artifact_id": "sketchbook-unresolved-77",
+      "title": "Street concept, PDF page77",
+      "creator": "Blade Runner book-credited production team, individual attribution unresolved",
+      "source_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf",
+      "media_url": "https://www.suturart.com/wp-content/uploads/2019/06/BorradoresBR.pdf#page=77",
+      "accessed_at": "2026-11-12",
+      "media_type": "artifact",
+      "inspection": "full-artifact",
+      "review_status": "unresolved",
+      "source_verified": true,
+      "detail_legible": true,
+      "resolution": {
+        "width": 1600,
+        "height": 1237
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A tilted bird-eye city scene shows a spinner and dense pedestrians under giant advertisement strips and deep architectural shadows. Reviewed but excluded from unique count to avoid splitting the previously counted vehicle and street-design families without secure separate work identity."
+        }
+      ],
+      "handling": "Private analytical inspection only",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "morgue-timed-playback",
+      "artifact_id": "br2049-lapd-morgue",
+      "title": "morgue creator-page interface animation",
+      "creator": "Territory Studio and credited Blade Runner2049 production",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://player.vimeo.com/video/470928015",
+      "accessed_at": "2026-11-12",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "duplicate_of": "br2049-lapd-morgue-1",
+      "source_verified": true,
+      "detail_legible": true,
+      "timestamps": [
+        "3.773\u20138.049s"
+      ],
+      "states": [
+        "Playing, sampled three times in intended public creator-page embed; muted; iframe1209x508"
+      ],
+      "resolution": {
+        "width": 1209,
+        "height": 508
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "texture",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Actual creator-page playback at3.773s shows cyan optical volume with a large circular rim and diagonal internal bar; at5.915s it has shifted/reframed into rounded concentric cavities; by8.049s the editorial reel cuts to the actors with two active CRTs behind. Texture persists while the scan changes, and the reel has a cinematic cut. This does not establish a universal slow scanline rate or easing."
+        }
+      ],
+      "handling": "Legitimate public embed playback only; analytical screenshots; no protected media stream downloaded or source asset shipped",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "denabase-timed-playback",
+      "artifact_id": "br2049-lapd-denabase",
+      "title": "denabase creator-page interface animation",
+      "creator": "Territory Studio and credited Blade Runner2049 production",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://player.vimeo.com/video/471319727",
+      "accessed_at": "2026-11-12",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "duplicate_of": "br2049-lapd-denabase-1",
+      "source_verified": true,
+      "detail_legible": true,
+      "timestamps": [
+        "2.104\u20136.572s"
+      ],
+      "states": [
+        "Playing, sampled three times in intended public creator-page embed; muted; iframe1209x508"
+      ],
+      "resolution": {
+        "width": 1209,
+        "height": 508
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "texture",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Actual creator-page playback at2.104s shows a broad blurred bright card between fine DNA-text columns; at4.336s two sharply defined columns slide into the central area; at6.572s a larger central text strip overlaps bright blurred side cards. The physical-card/microfiche metaphor moves and changes focus. Fine code is set dressing rather than essential readable UI."
+        }
+      ],
+      "handling": "Legitimate public embed playback only; analytical screenshots; no protected media stream downloaded or source asset shipped",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "spinner-timed-playback",
+      "artifact_id": "br2049-lapd-k-s-spinner",
+      "title": "spinner creator-page interface animation",
+      "creator": "Territory Studio and credited Blade Runner2049 production",
+      "source_url": "https://territorystudio.com/project/blade-runner-2049/",
+      "media_url": "https://player.vimeo.com/video/470553928",
+      "accessed_at": "2026-11-12",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "duplicate_of": "br2049-lapd-k-s-spinner-1",
+      "source_verified": true,
+      "detail_legible": true,
+      "timestamps": [
+        "2.102\u20134.348s; loop sampled again at1.244s"
+      ],
+      "states": [
+        "Playing, sampled three times in intended public creator-page embed; muted; iframe1209x508"
+      ],
+      "resolution": {
+        "width": 1209,
+        "height": 508
+      },
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "texture",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Actual creator-page playback shows the in-car dossier screen, not the engine-board artwork: a fingerprint strip runs across the top, paired frontal/profile records change, and fine horizontal fields switch between entries. At4.348s a different face/name record is visible than2.102s; by the next sample the5.380s clip has looped. Still/animation versions of the broader Spinner interface family are grouped conservatively, no extra unique artifact."
+        }
+      ],
+      "handling": "Legitimate public embed playback only; analytical screenshots; no protected media stream downloaded or source asset shipped",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false
+    }
+  ],
+  "failed_routes": [],
+  "unavailable_sources": [
+    {
+      "id": "ash",
+      "source_url": "https://ashthorp.com/total-recall",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "id": "gits-ash",
+      "source_url": "https://ashthorp.com/ghost-in-the-shell",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "book_provenance": "1982 Blade Runner Sketchbook, first edition June 1982 Blue Dolphin Enterprises, editor David Scroggy, design Jim Cornelius; inspected reproduction is May 2008 fan PDF hosted by Suturart, not publisher-native scan or a rights grant. Credits name Syd Mead, Mentor Huebner, Ridley Scott, Charles Knode and Michael Kaplan; individual unsigned pages remain book-credited team unless signature confirms. Selected full pages only, not an entire-book reading.",
+  "context_pages": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    40,
+    70,
+    80,
+    28,
+    32,
+    55,
+    62,
+    66
+  ],
+  "audit_reconciliation": {
+    "human_work_identity_count": 30,
+    "automated_url_group_count": 14,
+    "reason": "The helper strips PDF page fragments and merges all separately identified production-art works within one book URL. The manual count distinguishes17 named complete concept-design families, not17 arbitrary pages: vehicle orientations, alternative meter bodies, repeated set plans and comic-like panels of one sheet remain grouped. Keep both counts visible. A conservative container-level count is14; the30 count is a human work-identity judgment, not an automated target pass.",
+    "source_concentration": "13 Territory film interface/set families plus17 distinct1982 production-design works in one fan-reproduced book. Strong Blade Runner concentration; not representative of every techno-noir film, country or period."
+  }
+}
