@@ -1,0 +1,1411 @@
+{
+  "media": [
+    {
+      "record_id": "op-art-01",
+      "artifact_id": "artic-28890",
+      "source_url": "https://www.artic.edu/artworks/28890",
+      "media_url": "https://www.artic.edu/iiif/2/c44dbabd-ab24-673d-bbf3-60c39451c894/full/843,/0/default.jpg",
+      "title": "Ascending and Descending Hero",
+      "creator": "Bridget Riley",
+      "date": "1965",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Alternating black and pale horizontal bands narrow and widen toward central pinches, forming opposing triangular fields. The illusion comes from varying line thickness and slope on a flat rectangular surface, without depicted objects or physical rotation."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "76442ba51c4b2ee6e40729e61c22541ded372a0283a51b0c322aa35696bbdf48",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 559
+      }
+    },
+    {
+      "record_id": "op-art-02",
+      "artifact_id": "artic-198323",
+      "source_url": "https://www.artic.edu/artworks/198323",
+      "media_url": "https://www.artic.edu/iiif/2/7813b70c-3761-2941-06c2-41ec5639c05b/full/843,/0/default.jpg",
+      "title": "Print for Chicago 8, from Conspiracy, The Artist as Witness",
+      "creator": "Bridget Riley",
+      "date": "1971",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Repeated tall columns each hold adjacent lavender, turquoise and yellow ribbons whose boundaries bow gently. Broad pale margins separate the pattern from a small handwritten lower inscription; optical color interaction is not restricted to black and white."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "a04f891a56e032d36e96bc676cff7d849ee875218bb3d6a0f6bf2c1b868e2c5f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1109
+      }
+    },
+    {
+      "record_id": "op-art-03",
+      "artifact_id": "artic-158410",
+      "source_url": "https://www.artic.edu/artworks/158410",
+      "media_url": "https://www.artic.edu/iiif/2/a30420ee-6553-2c85-1a6e-493536045d86/full/843,/0/default.jpg",
+      "title": "Turquoise and Red Greys, Sequence Study",
+      "creator": "Bridget Riley",
+      "date": "1967",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Precisely repeated turquoise/red-gray zigzag bands sit over visible square graph paper. Saturation shifts down the sheet; penciled margin notes and a signature expose this as a color sequence study rather than a purely finished glossy pattern."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "66338ca9f8d4e6cbc48a742c73cf53b936941705a44fd2c99bc32b1a235a5c94",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1134
+      }
+    },
+    {
+      "record_id": "op-art-04",
+      "artifact_id": "artic-93880",
+      "source_url": "https://www.artic.edu/artworks/93880",
+      "media_url": "https://www.artic.edu/iiif/2/14cabde6-6925-bb75-0609-15ba015ed9df/full/843,/0/default.jpg",
+      "title": "Nineteen Greys",
+      "creator": "Bridget Riley",
+      "date": "1968",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A square blue-gray field contains a regular matrix of small tilted oval marks whose values darken into intersecting diagonal zones. Low overall contrast still creates directional fluctuation; a high-contrast black/white palette is not compulsory."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "851c5531577b1c75db8b780210fbd58297cc809b593fc1dffe29c22bfdf3d927",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 843
+      }
+    },
+    {
+      "record_id": "op-art-06",
+      "artifact_id": "artic-59973",
+      "source_url": "https://www.artic.edu/artworks/59973",
+      "media_url": "https://www.artic.edu/iiif/2/7a8d4264-5306-a4f9-49b0-1b995827cb9f/full/843,/0/default.jpg",
+      "title": "Zebres",
+      "creator": "Victor de Vasarely",
+      "date": "1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Broad black/cream wavy stripes interlock into opposing zebra-like profiles, with the image boundary dissolving into a radiating striped field. A representational source is translated through figure-ground ambiguity rather than excluded by a universal abstraction rule."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "747d0911fbf5ff9dff734eac70fc2c815d55b8c63a561ea1464a879d6d7270a3",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 930
+      }
+    },
+    {
+      "record_id": "op-art-07",
+      "artifact_id": "artic-29176",
+      "source_url": "https://www.artic.edu/artworks/29176",
+      "media_url": "https://www.artic.edu/iiif/2/a4d6fbf4-e2fc-3183-11af-31931251ffa8/full/843,/0/default.jpg",
+      "title": "Blue and Green",
+      "creator": "Victor de Vasarely",
+      "date": "n.d.",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A regular three-column array pairs circles, triangles and squares with adjacent green/blue color fields. Shape stays constant within a module while neighboring hue/value relationships change the apparent prominence of the interior forms."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "b97f9b26acceb9ee1a024388882e712a07371ec57e84a4cea24059f6fa93c024",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 844
+      }
+    },
+    {
+      "record_id": "op-art-08",
+      "artifact_id": "artic-23979",
+      "source_url": "https://www.artic.edu/artworks/23979",
+      "media_url": "https://www.artic.edu/iiif/2/ff7cad77-2c31-8f0d-94f6-ce1e980cb77d/full/843,/0/default.jpg",
+      "title": "Capella",
+      "creator": "Victor de Vasarely",
+      "date": "1964",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Thin horizontal pale bands interrupt a black field, stepping outward and changing width into a central oval distortion. The lower half reverses much of the figure-ground relation, creating tension without a material gradient."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "907480bdda77a9d481f02c23e2b1f082efa7cdc8f27bca86bd6ddb64dc52ef00",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1672
+      }
+    },
+    {
+      "record_id": "op-art-09",
+      "artifact_id": "artic-109835",
+      "source_url": "https://www.artic.edu/artworks/109835",
+      "media_url": "https://www.artic.edu/iiif/2/14e5879e-c6d1-b2e8-85f1-e181ee34198e/full/843,/0/default.jpg",
+      "title": "Untitled, from Constellation Suite",
+      "creator": "Victor de Vasarely",
+      "date": "n.d.",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A two-part print combines an upper circle and lower square whose edges are interrupted by horizontal alternating bands. Thin pale margins around the dark rectangular field isolate the perceptual image from inscriptions."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "813f71dee9b8823e7c156eee282dff7d7fb86bf58f014adb82514783684cf59b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1335
+      }
+    },
+    {
+      "record_id": "op-art-10",
+      "artifact_id": "artic-58232",
+      "source_url": "https://www.artic.edu/artworks/58232",
+      "media_url": "https://www.artic.edu/iiif/2/f87139d5-89ed-f22d-f7c6-73a395b47bea/full/843,/0/default.jpg",
+      "title": "Abstract Landscape",
+      "creator": "Victor de Vasarely",
+      "date": "1961",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Three large gray/white/black flat shapes suggest a horizon and landscape; no repeated optical field is present. Retain as a neighboring work by the same artist, not a qualifying optical-pattern example."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "afc15334b138df176660dc82e156b4499db64bd6387be20b9ca492eb10efafe4",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 843,
+        "height": 1052
+      }
+    },
+    {
+      "record_id": "op-art-11",
+      "artifact_id": "artic-58231",
+      "source_url": "https://www.artic.edu/artworks/58231",
+      "media_url": "https://www.artic.edu/iiif/2/81936aa9-9f97-765d-3495-5b7d4ba8d7f0/full/843,/0/default.jpg",
+      "title": "Composition with Abstract Figure",
+      "creator": "Victor de Vasarely",
+      "date": "1961",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Two large pale pink curving geometric planes sit on black and gray framing with apparent shallow relief. A related abstract composition, but insufficient optical repetition or interaction to count in this corpus."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "106df0aedefbdd4069f0576e5f467a0962328ace975765ec3583e3f4cd8bcb24",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 843,
+        "height": 1045
+      }
+    },
+    {
+      "record_id": "op-art-12",
+      "artifact_id": "artic-29137",
+      "source_url": "https://www.artic.edu/artworks/29137",
+      "media_url": "https://www.artic.edu/iiif/2/d37b8f2c-5911-48a3-f670-fd5932ebec18/full/843,/0/default.jpg",
+      "title": "Untitled, from Constellation Suite",
+      "creator": "Victor de Vasarely",
+      "date": "n.d.",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "unresolved",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Concentric circle and square panels resemble the two-part Constellation configuration in record 09, with a different line/interference state. Cross-record relationship is unresolved; exclude pending identification rather than assert a separate work or a confirmed duplicate."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "78f545b6dcacdbdb33c46a13b3ad78685bd9fb457a1bfc4e609259f3e39d3283",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 843,
+        "height": 1341
+      }
+    },
+    {
+      "record_id": "op-art-13",
+      "artifact_id": "artic-151197",
+      "source_url": "https://www.artic.edu/artworks/151197",
+      "media_url": "https://www.artic.edu/iiif/2/21338871-91db-6178-7710-1bd196673c9c/full/843,/0/default.jpg",
+      "title": "Vega, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A black/white checker field compresses toward one point and swells around a second point. Small detached circles and diamonds interrupt the edges, while a deep black mat isolates the warped rectangle."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "c7ba1954a6f48ea8327313a369ed2c9440aec35cb0f7c9c202b30623eea61f66",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 665
+      }
+    },
+    {
+      "record_id": "op-art-14",
+      "artifact_id": "artic-151207",
+      "source_url": "https://www.artic.edu/artworks/151207",
+      "media_url": "https://www.artic.edu/iiif/2/f2ae549e-a023-506c-7445-208360e4faf2/full/843,/0/default.jpg",
+      "title": "Markab, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Dense alternating vertical stripes expand into circles, diamonds, crosses and squared interruptions. Figure-ground changes along the height without a tonal gradient, producing multiple local focal points in a precisely bounded field."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "cdf79f296e2a0504e28bc1a4c7027cb3bf17babcf00126bdd6fbfc93eaf689ca",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 654
+      }
+    },
+    {
+      "record_id": "op-art-15",
+      "artifact_id": "artic-151202",
+      "source_url": "https://www.artic.edu/artworks/151202",
+      "media_url": "https://www.artic.edu/iiif/2/640d113d-1d76-d9b4-c350-fe573672c473/full/843,/0/default.jpg",
+      "title": "Altai, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Tall narrow black blades break at staggered heights across a white field, some ending in small angled points. Large black margins and discontinuous edge alignment emphasize rhythm rather than literal object depth."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "83a912adfde2da1647430f065d7794b35610f56f7922bedc2f59104245da4d07",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1088
+      }
+    },
+    {
+      "record_id": "op-art-16",
+      "artifact_id": "artic-151198",
+      "source_url": "https://www.artic.edu/artworks/151198",
+      "media_url": "https://www.artic.edu/iiif/2/f4e246b7-1a82-3c98-d7ea-7946d313f584/full/843,/0/default.jpg",
+      "title": "Cassiopée, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A matrix of black disks is altered by diagonal cuts into diamond-shaped voids. Two enlarged motifs above and one below the field show the relation between a module and the changing group pattern."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "a279d58fac09e85047fe6611977b6e8dad9143f2a5ab9480880578beecfcdd0e",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1096
+      }
+    },
+    {
+      "record_id": "op-art-17",
+      "artifact_id": "artic-151199",
+      "source_url": "https://www.artic.edu/artworks/151199",
+      "media_url": "https://www.artic.edu/iiif/2/67536f5d-acce-200f-f9fc-551ecb208e66/full/843,/0/default.jpg",
+      "title": "Gotha, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Three solid ovals above a horizontal striped field correspond to bulging and pinching distortions below. Black, gray and pale rectangular ground areas make the same stripe segments read at different depths."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "08923776a59d8c5529de09d3142787db58c457108215529af93a6fe59ad0e3b3",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1103
+      }
+    },
+    {
+      "record_id": "op-art-18",
+      "artifact_id": "artic-151203",
+      "source_url": "https://www.artic.edu/artworks/151203",
+      "media_url": "https://www.artic.edu/iiif/2/abdf3ec8-10d6-fb72-ad24-e98729381ad1/full/843,/0/default.jpg",
+      "title": "Umbriel, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Black circles, squares, semicircles and narrow connectors interlock with white negative forms. Changing module sizes down the print switch figure and ground, with no continuous shading or modeled material."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "235a2214f6b5976fb8395c8eb26d8ef7fd58ee76e3a6f5926256026c36676608",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1092
+      }
+    },
+    {
+      "record_id": "op-art-19",
+      "artifact_id": "artic-151421",
+      "source_url": "https://www.artic.edu/artworks/151421",
+      "media_url": "https://www.artic.edu/iiif/2/64b92bc8-a0f4-a29c-401c-eeb2f5b1bf09/full/843,/0/default.jpg",
+      "title": "Keiho, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A yellow-green planar construction has repeated short slanted slots with visible pale and dark edges. The slot angles reverse across a rectangular field, while large open squares above and projecting lower planes introduce actual shallow construction alongside optical pattern."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "1cf8b3c49593ca91c7b556e9ef6f01f9774f2ec2fdedc3de9cf3e25f3fe340d2",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1076
+      }
+    },
+    {
+      "record_id": "op-art-20",
+      "artifact_id": "artic-151205",
+      "source_url": "https://www.artic.edu/artworks/151205",
+      "media_url": "https://www.artic.edu/iiif/2/606d6023-5f5a-4dcd-1fa3-41d71cc62706/full/843,/0/default.jpg",
+      "title": "Betelgeuse, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A regular matrix of white disks on black narrows individual disks into ellipses along curved paths and into small squares at upper right. The gradual local changes imply surface deformation without shading."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "77c548f3b7bc62ffe594d71975dd8b4c24062d03736c038e74a4cdc41116e0e4",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 646
+      }
+    },
+    {
+      "record_id": "op-art-21",
+      "artifact_id": "artic-196132",
+      "source_url": "https://www.artic.edu/artworks/196132",
+      "media_url": "https://www.artic.edu/iiif/2/3c608128-5f7e-398a-71ec-1f5a9a106393/full/843,/0/default.jpg",
+      "title": "Untitled",
+      "creator": "Victor de Vasarely",
+      "date": "1940",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Overlapping rotated black and pale squares fill the sheet without a controlled repeat or strong perceptual distortion. A useful earlier geometric-abstraction boundary, not automatically an Op Art example because of its artist."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "ea0ca4c4c9e9001c6f43d87416051e0f9c595dbfed89324d1a7dbe0f19775a1c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 843,
+        "height": 884
+      }
+    },
+    {
+      "record_id": "op-art-22",
+      "artifact_id": "artic-151206",
+      "source_url": "https://www.artic.edu/artworks/151206",
+      "media_url": "https://www.artic.edu/iiif/2/ad310d5e-5514-e9c4-8bdf-e5fd74c99471/full/843,/0/default.jpg",
+      "title": "Procion, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "One large square cut by circular voids sits above nine circular modules with square holes. Useful module studies, but excluded as a low-information boundary for this optical-effect corpus rather than treating all geometry as Op Art."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "d824b7324a2cc79e24d544e63f6954bade2d674ca3fc8d77243c947efeab1cf9",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 843,
+        "height": 1091
+      }
+    },
+    {
+      "record_id": "op-art-23",
+      "artifact_id": "artic-151200",
+      "source_url": "https://www.artic.edu/artworks/151200",
+      "media_url": "https://www.artic.edu/iiif/2/f590f5a3-70e8-84ea-1c48-dd80f9ab6988/full/843,/0/default.jpg",
+      "title": "Oeta, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A central lattice of squares bends into sheared parallelograms and rotated clusters, while enlarged shapes repeat above and below. Black, white and gray swap roles across the composition, implying fractured depth."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "319b3274f3999e571189d96d0b418bfb739276051cbcb6dec69205749d6b9d0f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1079
+      }
+    },
+    {
+      "record_id": "op-art-24",
+      "artifact_id": "artic-151201",
+      "source_url": "https://www.artic.edu/artworks/151201",
+      "media_url": "https://www.artic.edu/iiif/2/c6eb6fd3-a908-51ec-11f0-da5db1319f18/full/843,/0/default.jpg",
+      "title": "Ixion, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "An oblique lattice of black and white cells is interrupted by angular cutouts and dislocated modules. Edges are crisp but the field is deliberately unstable, challenging a rule that all Op Art must use a perfectly regular unbroken grid."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "c33ba2410ee258a4f56edd0ef40d79aa9c000682f934e69dc00840c360cfebb5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1091
+      }
+    },
+    {
+      "record_id": "op-art-25",
+      "artifact_id": "artic-151422",
+      "source_url": "https://www.artic.edu/artworks/151422",
+      "media_url": "https://www.artic.edu/iiif/2/639a933a-4add-5a79-95de-61be4fb57613/full/843,/0/default.jpg",
+      "title": "Keiho, mylar overlay, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "The yellow slotted Keiho mylar layer repeats the same underlying square openings and slanted-slot field inspected in record 19, now isolated. Count the work once; retain this view for construction detail."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "82759f11d098c100339215df0d2a92cc31effa1313cb2debe4a7cbd91e70108a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "duplicate_of": "op-art-19",
+      "resolution": {
+        "width": 843,
+        "height": 1059
+      }
+    },
+    {
+      "record_id": "op-art-26",
+      "artifact_id": "artic-151204",
+      "source_url": "https://www.artic.edu/artworks/151204",
+      "media_url": "https://www.artic.edu/iiif/2/afc76680-37f1-087a-cc69-366cde536749/full/843,/0/default.jpg",
+      "title": "Bora, from Album I",
+      "creator": "Victor de Vasarely",
+      "date": "1955, published 1959",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Paired thin vertical pale lines step sideways and change width at staggered levels on black. Alternating continuity and breaks create small raised-looking rectangular zones without a smooth modeled gradient."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "366592a685602a91dcacb4123ea8e8e00509c4764f58fa8fba80367594ea558a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1080
+      }
+    },
+    {
+      "record_id": "op-art-27",
+      "artifact_id": "artic-94098",
+      "source_url": "https://www.artic.edu/artworks/94098",
+      "media_url": "https://www.artic.edu/iiif/2/a935c5f0-6e26-0b56-067b-0db0326a8baa/full/843,/0/default.jpg",
+      "title": "Red, White and Blue, from 1776 USA 1976: Bicentennial Prints",
+      "creator": "Richard Anuszkiewicz",
+      "date": "1975",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Concentric thin blue rectangular lines repeat over a large red field, enclosing a pale rectangular middle zone and a smaller blue center. Saturated adjacent hues intensify the apparent depth while broad margins keep the artwork bounded."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "95f2794e3f62137a823e6c8a356f31974ec48fa86586501d6626b7a82d2aa6fa",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1067
+      }
+    },
+    {
+      "record_id": "op-art-28",
+      "artifact_id": "artic-122556",
+      "source_url": "https://www.artic.edu/artworks/122556",
+      "media_url": "https://www.artic.edu/iiif/2/c6e16aac-85f1-18b6-f5af-cd12414e63f0/full/843,/0/default.jpg",
+      "title": "Diamond Chroma, from New York Ten",
+      "creator": "Richard Anuszkiewicz",
+      "date": "1965",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Thin green nested diamond lines and blue diagonal fan lines meet at common points over a red-orange field. Spacing compression at the corners creates directional depth; a green perimeter reinforces the color interaction."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "f6ce951b8127c23678290f6b06f7b395e8d34dafc50f37f6f2b27f2ad2fcab10",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1083
+      }
+    },
+    {
+      "record_id": "op-art-29",
+      "artifact_id": "artic-38094",
+      "source_url": "https://www.artic.edu/artworks/38094",
+      "media_url": "https://www.artic.edu/iiif/2/786fc9b3-03cd-de39-ae7f-80c9d421d9fa/full/843,/0/default.jpg",
+      "title": "Pénétrable de Chicago",
+      "creator": "Jesús Rafael Soto",
+      "date": "1971",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "An overhead rectangular frame suspends a dense curtain of vertical translucent rods or cords into a gallery. Visitors are partially occluded within the repeated field. This still documents physical depth and occlusion, not measured motion or a flat printed pattern."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "541382bf4c311ea6adca9b99bcd45b31aa6f34343e71087d8f1e2db7d818ea3f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 555
+      }
+    },
+    {
+      "record_id": "yale-01",
+      "artifact_id": "riley-movement-in-squares",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/1/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C01.png",
+      "title": "Movement in Squares",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Alternating black/white checker rows compress horizontally into a narrow crease right of center, then expand. Square cells become slender rectangles while row heights stay stable; no drawn shadow is needed for the apparent fold."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "14306762ea26d871f0621a094ebaf101d7d61e310e17140f220e358b043d01ee",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1839
+      }
+    },
+    {
+      "record_id": "yale-02",
+      "artifact_id": "riley-horizontal-vibration",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/2/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C02.jpg",
+      "title": "Horizontal Vibration",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A wide horizontal strip uses black bands that vary in thickness and gently undulate. Several compressed light/dark seams cross the field at different heights, creating wavering strata in an otherwise flat monochrome rectangle."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "f3e12c9af72fb5a0285349c638ef6d93ad5d7140cb0b76d21458ee33535a2c1c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2880,
+        "height": 899
+      }
+    },
+    {
+      "record_id": "yale-03",
+      "artifact_id": "riley-off",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/3/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C03.png",
+      "title": "Off",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Nested angular black/white chevrons converge toward a point at the right edge. Their elbows migrate diagonally and the bands narrow toward the point, creating directional compression without a centered radial tunnel."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "c855cbda49daff5b4b63f56b65c7dc6ca788b2d5fbad3971c0a379f698f27698",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1615
+      }
+    },
+    {
+      "record_id": "yale-04",
+      "artifact_id": "riley-uneasy-centre",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/4/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C04.png",
+      "title": "Uneasy Centre",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Black and white circular bands have displaced centers and strongly unequal spacing. Their pinched right-hand zone contrasts with broad left crescents; the outer boundary is roughly circular, but the apparent swirl is built into a stationary drawing."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "af76a719cc68a3a932ae199c26eff706854f1fa5158af227a17bf457f97a1c30",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1714
+      }
+    },
+    {
+      "record_id": "yale-05",
+      "artifact_id": "riley-broken-circle",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/5/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C05.jpg",
+      "title": "Broken Circle",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Thin circular outlines are broken at three radial seams and shifted into stepped sectors. Densely grouped lines alternate with wide white bands; the line clusters and discontinuities, rather than solid filled rings, destabilize the circular form."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "fbd7f2127072865ea4b67b6f1832c14ec93d4b7aca2f9913efc87a8d34cc21c2",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1905,
+        "height": 1920
+      }
+    },
+    {
+      "record_id": "yale-06",
+      "artifact_id": "riley-climax",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/6/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C06.png",
+      "title": "Climax",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Dense black/white zigzag lines fill a concave-sided vertical field. Zigzag elbows align into several wavy vertical seams; changing spacing and slope produces a stretched middle and flared ends without gradients."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "8df39cda14f3330ea5d2cbf3ae4bbffefb1fb6fd5b165b1be6f1a835b2fa17af",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1714
+      }
+    },
+    {
+      "record_id": "yale-07",
+      "artifact_id": "riley-shuttle-2",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/7/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C07.png",
+      "title": "Shuttle 2",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Diagonal stripe segments meet in zigzag seams across a broad convex-sided field. Seam spacing varies across the width, and several reverse directions near the edges; the perimeter also participates in the apparent bulging surface."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "9a4323f2561903dc987e91905e0e1589d249185d86eaf74636a0fce99acd1b83",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1916
+      }
+    },
+    {
+      "record_id": "yale-08",
+      "artifact_id": "riley-suspension",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/8/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C08.png",
+      "title": "Suspension",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "A roughly square field has opposing curved upper/lower boundaries and alternating diagonal black/white segments. Multiple zigzag seams pack tightly toward the lower edge, suggesting a suspended bowed surface while remaining flat."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "ea151ff2b750acecdb16c66032240cc69e06567af2e9903af44343fb504c063a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1919
+      }
+    },
+    {
+      "record_id": "yale-09",
+      "artifact_id": "riley-blaze-4",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/9/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C09.png",
+      "title": "Blaze 4",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Concentric angular bands form a circular field around an off-center low white opening. Alternating diagonal line directions create many sharp sawtooth seams and an apparent spiral; this differs from rotating symmetric plain rings."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "ecd9557ff4e59be0c24ab9e22ab205c0bfbbb6eac61f258a9b79739ad7813195",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1917
+      }
+    },
+    {
+      "record_id": "yale-10",
+      "artifact_id": "riley-current",
+      "source_url": "https://bridget-riley.publications.britishart.yale.edu/catalogue/10/",
+      "media_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/C10.png",
+      "title": "Current",
+      "creator": "Bridget Riley; Yale Center for British Art catalogue",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "spatial",
+            "texture"
+          ],
+          "observation": "Fine black/white vertical waves bend into tightly compressed horizontal zones near the upper middle and lower middle. The repeated lines continue through the bands, producing rippled apparent depth across an unframed rectangular field."
+        }
+      ],
+      "handling": "Private analytical inspection only; no reference image shipped",
+      "rights": "Artwork © Bridget Riley; publication rights retained",
+      "sha256": "67d288d289e089758025cc01dfde6974cf3429f532a4549a544b74057651e98a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1868,
+        "height": 1920
+      }
+    },
+    {
+      "record_id": "princeton-01",
+      "artifact_id": "cruz-diez-physichromie-1772",
+      "title": "Physichromie 1772",
+      "creator": "Carlos Cruz-Diez",
+      "date": "2012",
+      "source_url": "https://artmuseum.princeton.edu/art/collections/objects/138201",
+      "media_url": "https://media.artmuseum.princeton.edu/iiif/3/collection/PUAMOSE_64613/full/,1200/0/default.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "downloaded": true,
+      "generated": false,
+      "sha256": "876e2e75120efc4dc9e0fa636a859d657d8b0abc449c5a3650382d84b9fac434",
+      "rights": "© Estate of Carlos Cruz-Diez / Bridgeman Images; no image shipped",
+      "handling": "Private analytical inspection only",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "shape",
+            "texture",
+            "spatial"
+          ],
+          "observation": "A deep black square frame encloses a dense vertical sequence of colored fins. Teal, orange, red and dark narrow strips combine into broader subtle rectangular color zones; real relief and material spacing are visible. This single frontal photograph establishes construction, not the actual change with walking angle described by the museum."
+        }
+      ],
+      "resolution": {
+        "width": 1200,
+        "height": 1200
+      }
+    }
+  ],
+  "retrieval_failures": [
+    "HTTP Error 403: Forbidden"
+  ],
+  "summary": {
+    "full_media_inspections": 39,
+    "qualifying_unique_artifacts": 33,
+    "confirmed_duplicate_versions": 1,
+    "unresolved_versions": 1,
+    "boundary_examples": 4,
+    "unavailable_downloads": 1,
+    "scope": "Still photographs and reproductions only; no measured animation or live viewpoint sequence. Art Institute 22, Yale 10, Princeton 1 qualifying works; artist and collection concentration remains explicit."
+  }
+}

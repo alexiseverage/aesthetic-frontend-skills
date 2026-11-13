@@ -1,0 +1,1748 @@
+{
+  "media": [
+    {
+      "record_id": "emigre-3",
+      "artifact_id": "emigre-3",
+      "title": "emigre-3",
+      "creator": "Emigre; Publishers: Rudy VanderLans (art director and designer),",
+      "source_url": "https://www.emigre.com/Magazine/3",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre3Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The complete1985 issue3 cover combines an enormous narrow red outline-like masthead, green/black duotone portrait crop, giant issue number in a separate black rail, serif contributor block and tiny widely spaced label. The photograph/print has visible halftone; it is not a monochrome computer screen. Publisher credits digital type design/typesetting to Zuzana Licko, while the full cover still mixes photographic and conventional typographic production. People are analytical only, not application assets."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "184550ba50db0a8d179a58ea13fb0e4d3715e7072964450eaf0340d0d61bf541",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-4",
+      "artifact_id": "emigre-4",
+      "title": "emigre-4",
+      "creator": "Emigre; Publisher and art director: Rudy VanderLans;",
+      "source_url": "https://www.emigre.com/Magazine/4",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre4Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue4 uses orange/yellow with huge black EMIGRE masthead letters of deliberately unequal weight/width. A pink dither-like dotted sidebar holds widely spaced bitmap information and a diamond issue4 badge; a large framed geometric still-life photo dominates the lower right. Tiny engraved figures sit at the upper-left letter. Conventional and bitmapped type coexist, with hard rectangular collage. No actual menu or interaction can be established from this print cover."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "420f1901287a90e5ad762eb193b6f062432e9a539d1e10824ff57d9559e3ca24",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-5",
+      "artifact_id": "emigre-5",
+      "title": "emigre-5",
+      "creator": "Emigre; Publisher and art director: Rudy VanderLans.",
+      "source_url": "https://www.emigre.com/Magazine/5",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre5Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue5 has an orange header and green/black collage of drafting/craft tools, a photographed profile, blank paper rectangle and small scooter cutout. Large compressed smooth masthead letters contrast with a white stepped bitmap subtitle and crowded irregular type strips along the bottom. The hybrid collage connects design labor and digital experimentation; no rule requires all text to be pixelated or every surface to resemble a GUI. Source photographs remain protected research imagery."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "4f0c1a5a86a2b1afabe5534b7d73feeed95462c1a81d2f2d25f37766d431f37d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-6",
+      "artifact_id": "emigre-6",
+      "title": "emigre-6",
+      "creator": "Emigre; Publisher and art director: Rudy VanderLans.",
+      "source_url": "https://www.emigre.com/Magazine/6",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre6Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue6's complete cover is sparse: tan/brown textured paper appearance, a thin vertical rule through a central black/yellow divided disc, extremely narrow white masthead, a compact contributor list and a conspicuously stepped white pixel6. The small bitmap numeral coexists with extensive empty space and a controlled geometric composition. It challenges compulsory clutter or all-over dither. Paper color in a reproduction is not evidence that the original Mac display was beige."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "109540f35662fad5a93cc57b094d0f071b9d7c00998fd0b223201b05326530ca",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-7",
+      "artifact_id": "emigre-7",
+      "title": "emigre-7",
+      "creator": "Emigre; Rudy VanderLans and issue-credited contributors; see source colophon",
+      "source_url": "https://www.emigre.com/Magazine/7",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre7Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue7 uses large blue halftone texture over a pale background, a high-contrast cropped commercial traveler illustration at right and a black rectangular masthead with elongated white custom letters. A vertical left title, lower issue7 and small circular imprint complicate the page hierarchy. It shows scanned/printed dot texture and collage, rather than a strict monochrome GUI. Exact production of every element cannot be established from cover pixels alone."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "63334c9744b915e5625a4783eece3a200612a9095ae57defc304f8a8002e1075",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-8",
+      "artifact_id": "emigre-8",
+      "title": "emigre-8",
+      "creator": "Emigre; Rudy VanderLans and issue-credited contributors; see source colophon",
+      "source_url": "https://www.emigre.com/Magazine/8",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre8Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue8's complete front is almost entirely black, with one small yellow/orange disc and the slender familiar masthead near the upper-right. The paper/ink surface has subtle grain, and large negative space is a useful counterexample to mandatory maximalism. However this isolated cover supplies too little desktop-publishing-specific grammar to qualify independently merely because it belongs to Emigre; retained as a low-information boundary, not padded into the count."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "d9b77112c0e08aead7be024c308fff840032338bd4baf16595d98efda20bdd13",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-9",
+      "artifact_id": "emigre-9",
+      "title": "emigre-9",
+      "creator": "Emigre; Design and production: Rudy VanderLans.",
+      "source_url": "https://www.emigre.com/Magazine/9",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre9Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue9's orange/red cover layers photographic face fragments, two record shapes and a very large stepped9 under the familiar dark rectangular masthead. Black narrow irregular modular type lists4AD-related names in uneven stacked groups, alongside tiny conventional subtitles and a framed4AD mark. This is a hybrid music/design publication with bitmapped letter construction and paste-up layering, not an all-monochrome display. The exact title lettering is not assumed to be a system font."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "63b525c59059f4435aa5a750de3e12aee44bae950b16e8cae3f8cd20bef10c22",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-10",
+      "artifact_id": "emigre-10",
+      "title": "emigre-10",
+      "creator": "Emigre; Rudy VanderLans and issue-credited contributors; see source colophon",
+      "source_url": "https://www.emigre.com/Magazine/10",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre10Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue10's yellow/cream/purple composition mixes a smooth tall white masthead, bitmap-stepped cranbrook/design words, jagged italic labels, a huge X, clipped cup/airplane symbols and rectangular reversed text. The loose vertical hierarchy is deliberately eclectic but retains blocks of information and a small issue oval. Its print texture and broad color areas challenge a blanket one-bit-output rule. No exact software state or authoring gesture follows from this still cover."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "61ff3a2145e1706591ca2df40b62074dc8967185a7f964eed2533d420c28088b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-11",
+      "artifact_id": "emigre-11",
+      "title": "emigre-11",
+      "creator": "Emigre; Design and production: Rudy VanderLans.",
+      "source_url": "https://www.emigre.com/Magazine/11",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre11Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue11 explicitly labels Graphic Designers and the Macintosh Computer across a gray/orange halftone collage. Narrow slab-like modular letters make names/cities into long horizontal rows, with some city names reversed on dark rectangles. Large purple slender masthead and circled issue11 occupy the top, while a globe and scanned ornamental paper forms sit behind. Repeated letter modules and overlaid type/image make computer-assisted publishing visually explicit without copying a desktop window."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "99ac741186f76933736f89aa380ecc17e8f0c911ceda7bab01cd7c1aad35fd14",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-12",
+      "artifact_id": "emigre-12",
+      "title": "emigre-12",
+      "creator": "Emigre; Design and production: Rudy VanderLans.",
+      "source_url": "https://www.emigre.com/Magazine/12",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre12Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue12 layers dark red/black photographic print fragments, very coarse stair-stepped bitmap images, rotated snippets and tiny vertical text. A huge extremely narrow low-contrast masthead runs sideways across the entire page; widely spaced pale pixel letters sit near the bottom. This visually dense experimental route overlaps New Wave typography and is not evidence that every DTP document abandoned readability. Exact software, compositing order and ink values are unknown from the cover."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "78e0aa5247ef41c871ca73832febb5091630f29e59f7eba899f2151323663f8a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-13",
+      "artifact_id": "emigre-13",
+      "title": "emigre-13",
+      "creator": "Emigre; Design and production: Rudy VanderLans.",
+      "source_url": "https://www.emigre.com/Magazine/13",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre13Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue13 has a blue-gray photographed tropical-print shirt filling the page, a giant bright red masthead rotated90degrees, and a tiny black/cream modular bitmap re-designing stereotypes label beside a globe. A smaller narrow serif price/issue strip creates another scale. Photographic fabric, thin smooth display type and one sharply pixelated information label coexist; the output is more than a literal early-system window. The tiny secondary line is less legible than the main label."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "8d86a5ea63a7e6d7b79b3c9f916cc48075851457dce78101bea1bb5a7c1f34b6",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-14",
+      "artifact_id": "emigre-14",
+      "title": "emigre-14",
+      "creator": "Emigre; Design and production: Rudy VanderLans.",
+      "source_url": "https://www.emigre.com/Magazine/14",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre14Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Issue14 is a largely empty bright-red cover centered on a huge pale/black outline word heritage whose blackletter-like contours have conspicuous square stairs and one-pixel-looking bends. A small skewed black masthead oval floats above and a tiny price/number label projects from the left. This is a strong bitmap-letter-as-image artifact, not a generic game sprite. The serif/blackletter reference shows early digital forms reworking print history rather than only imitating system sans."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "e1e849639947203ecb2f8dcd39258724aa2a3a36c9d5de03420043c6ef729d76",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "emigre-15",
+      "artifact_id": "emigre-15",
+      "title": "emigre-15",
+      "creator": "Emigre; Design and production: Rudy VanderLans.",
+      "source_url": "https://www.emigre.com/Magazine/15",
+      "media_url": "https://www.emigre.com/assets/img/magazine/Emigre15Cover.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The complete1990 issue15 cover spreads very wide black lowercase question words down an olive field, with scattered small pale labels and a sharply halftoned hat. The familiar masthead sits in a slanted oval rather than a fixed header. Huge scale shifts, digital lettering and deliberately open layout form a type-special publication; not every early digital publication is a newspaper grid or dithered desktop. Exact face names require colophon evidence, not guesswork."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "85a6758b52e2dd6b0760421764010fe4c47093a745f4f9a0bc51a2156fb4c550",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 960,
+        "height": 1429
+      }
+    },
+    {
+      "record_id": "chm-pagemaker",
+      "artifact_id": "chm-pagemaker",
+      "title": "chm-pagemaker",
+      "creator": "Aldus Corporation; CHM object102680734",
+      "source_url": "https://www.computerhistory.org/revolution/personal-computers/17/306/1236",
+      "media_url": "https://images.computerhistory.org/revonline/images/102680734-06-01.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "unavailable",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "a982f83ba36ae93f85155f040406493fb497e9af4d62e9db2c6cc261e23d3cce",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false,
+      "unavailable_reason": "Unparameterized image URL returned HTML, not an image. Legitimate museum-linked w600 version inspected separately as a PC-package boundary."
+    },
+    {
+      "record_id": "lo-res",
+      "artifact_id": "lo-res",
+      "title": "lo-res",
+      "creator": "Zuzana Licko",
+      "source_url": "https://www.emigre.com/Fonts/Lo-Res",
+      "media_url": "https://www.emigre.com/assets/img/fonts/carousel/LoRes0.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The complete creator-served1440x720 current Lo-Res specimen uses cream rounded stair-step capitals on charcoal and segmented yellow/cream9s,10s,20s below. It shows a digital family derived from1985 bitmap designs and revised/reorganized in2001, not an untouched1985 screenshot or period palette. Rounded vector corners and antialiasing in this modern specimen must not be described as original one-bit raster. Count the whole family specimen once, not each resolution or older renamed family again."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "f56bc916a91ffb76989e0d5e863d2372703144d09e2fe08ba24a1c6781883dfb",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "specimen_context": "Current creator-served specimen of a1985–90 type design; Lo-Res includes2001 revision. The modern graphic/palette is not a period screen.",
+      "resolution": {
+        "width": 1440,
+        "height": 720
+      }
+    },
+    {
+      "record_id": "citizen",
+      "artifact_id": "citizen",
+      "title": "citizen",
+      "creator": "Zuzana Licko",
+      "source_url": "https://www.emigre.com/Fonts/Citizen",
+      "media_url": "https://www.emigre.com/assets/img/fonts/carousel/Citizen0.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The complete current Citizen specimen displays pale chunky low-resolution-derived letters on gray. Octagonal bowl transitions, uneven-looking lower-case joins and a widely spaced blocky i contrast with ordinary smooth type. Primary maker text dates the underlying Zuzana Licko family1986 and describes laser-printer smoothing experiments. This modern full-size digital specimen supports letter structure, not a claim that its current background color or rasterization is a1986 screen."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "7a885d26a1f1c4152d009178cfa3128fa4e9cd977938892584b903fb02b9784e",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "specimen_context": "Current creator-served specimen of a1985–90 type design; Lo-Res includes2001 revision. The modern graphic/palette is not a period screen.",
+      "resolution": {
+        "width": 1440,
+        "height": 720
+      }
+    },
+    {
+      "record_id": "journal",
+      "artifact_id": "journal",
+      "title": "journal",
+      "creator": "Zuzana Licko",
+      "source_url": "https://www.emigre.com/Fonts/Journal",
+      "media_url": "https://www.emigre.com/assets/img/fonts/carousel/Journal0.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The current Journal word specimen shows a warm pale/ochre serif on dark burgundy, with polygonal bowls, asymmetric serifs and deliberately irregular contours. The J and l are long but the word retains a readable text rhythm. Maker attribution dates Licko's design1990. Its coarse-looking geometry demonstrates exploration beyond Chicago-style system sans; this is a current digital rendering of a historic family, not proof that a whole original publication used it."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "992aafb4bcecefb289a6175105d7d2251ff4c7e0fabdf7413257886f5e41fff7",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "specimen_context": "Current creator-served specimen of a1985–90 type design; Lo-Res includes2001 revision. The modern graphic/palette is not a period screen.",
+      "resolution": {
+        "width": 1440,
+        "height": 720
+      }
+    },
+    {
+      "record_id": "modula",
+      "artifact_id": "modula",
+      "title": "modula",
+      "creator": "Zuzana Licko",
+      "source_url": "https://www.emigre.com/Fonts/Modula",
+      "media_url": "https://www.emigre.com/assets/img/fonts/carousel/Modula0.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The current Modula specimen uses extremely tall, narrow upright capitals, almost circular top curves and small block serifs, with pale offset side segments on a blue-gray field. Primary maker text identifies Licko's1985 high-resolution Macintosh headline design. This is a useful smooth-outline counterexample to a requirement that all DTP typography remain stepped. The present color/layout belongs to this marketing specimen and is not a sampled1985 GUI palette."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "7771fb08f6e599f41b0a5b80291bc7508f834c0d5aa2936cb1a1db318aad6d41",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "specimen_context": "Current creator-served specimen of a1985–90 type design; Lo-Res includes2001 revision. The modern graphic/palette is not a period screen.",
+      "resolution": {
+        "width": 1440,
+        "height": 720
+      }
+    },
+    {
+      "record_id": "variex",
+      "artifact_id": "variex",
+      "title": "variex",
+      "creator": "Rudy VanderLans and Zuzana Licko",
+      "source_url": "https://www.emigre.com/Fonts/Variex",
+      "media_url": "https://www.emigre.com/assets/img/fonts/carousel/Variex0.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The current Variex specimen varies stroke width dramatically across geometric lower-case letters: a broad angular v, circular a, narrow r, circular i dot, thin e and huge crossing x. Cream and dark brown alternate on orange. Maker text credits VanderLans/Licko1988 and efficient digital font construction. The display word is a complete independently designed specimen of one family, supporting modular geometric type rather than page layout, UI chrome or historic color."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "1bd624ba34f5761c287159372f8704c4fe677500fe441a5e4c36f144c3e8d681",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "specimen_context": "Current creator-served specimen of a1985–90 type design; Lo-Res includes2001 revision. The modern graphic/palette is not a period screen.",
+      "resolution": {
+        "width": 1440,
+        "height": 720
+      }
+    },
+    {
+      "record_id": "oblong",
+      "artifact_id": "oblong",
+      "title": "oblong",
+      "creator": "Rudy VanderLans and Zuzana Licko",
+      "source_url": "https://www.emigre.com/Fonts/Oblong",
+      "media_url": "https://www.emigre.com/assets/img/fonts/carousel/Oblong0.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The current Oblong specimen is a deep brown lowercase word on pink, made of broad rectangles and right-angle corners with small rectangular counters. Tall l and descending g turn the word into an interlocking block silhouette. Maker attribution credits VanderLans/Licko1988. It supports radically rectilinear digital lettering; it is not a font file licensed for implementation, a period screenshot or an additional work for every weight."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "18246696b78a2c681e6c452e01b09dfc0fe757ae12a4810a1731216584770903",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "specimen_context": "Current creator-served specimen of a1985–90 type design; Lo-Res includes2001 revision. The modern graphic/palette is not a period screen.",
+      "resolution": {
+        "width": 1440,
+        "height": 720
+      }
+    },
+    {
+      "record_id": "senator",
+      "artifact_id": "senator",
+      "title": "senator",
+      "creator": "Zuzana Licko",
+      "source_url": "https://www.emigre.com/Fonts/Senator",
+      "media_url": "https://www.emigre.com/assets/img/fonts/carousel/Senator0.png",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The current Senator specimen presents pale narrow slab-like serif letters on gray, combining nearly vertical curves with straight diagonals and firm baseline blocks. The a and n have distinctive angular joins. Maker text dates Licko's family1988 and connects it to an earlier bitmap design with the computer's geometric rendering. This smooth high-resolution reinterpretation is distinct from a fixed pixel-grid screen; the current specimen is one whole work, not an extra count for each glyph."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "sha256": "b9d2d35a0ec53dcd2220e83da902c3418ce25f270dbdd8e6fe94dc19c75839b2",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "specimen_context": "Current creator-served specimen of a1985–90 type design; Lo-Res includes2001 revision. The modern graphic/palette is not a period screen.",
+      "resolution": {
+        "width": 1440,
+        "height": 720
+      }
+    },
+    {
+      "record_id": "fontastic-1.0-manual-march-1985",
+      "artifact_id": "fontastic-1.0-manual-march-1985",
+      "title": "FONTastic 1.0 Package and Manual (March 1985)",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/fontastic-1.0-manual-march-1985",
+      "media_url": "https://archive.org/download/fontastic-1.0-manual-march-1985/FONTastic%201.0%20Package%20and%20Manual%20%28March%201985%29.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The scanned package/manual front has blue plastic edges, blue halftone ground, cream rounded panels and magenta outlined/shadowed FONTastic lettering above a gridded enlarged pixel glyph and drawn editing hand. Its visual hierarchy explicitly centers Macintosh font construction. Page10 of the same scan has plain monospaced typewriter-like instruction paragraphs, wide margins, bottom page2 and visible paper show-through. Package and instruction page are one document/artifact family; physical wear and the drawn hand remain research-only."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "58e8c560affdc33d841d44642a1de37686e008b361e78ea2346b53fac57b45a6",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "95fba9b2f85b92f869ba9b30d679af7e94bfd6d9a15620b611ecad8ad485c46a",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 1055,
+        "height": 1600
+      }
+    },
+    {
+      "record_id": "fontastic-brochure-late-1985",
+      "artifact_id": "fontastic-brochure-late-1985",
+      "title": "FONTastic Brochure (late 1985)",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/fontastic-brochure-late-1985",
+      "media_url": "https://archive.org/download/fontastic-brochure-late-1985/FONTastic%20Brochure%20%28late%201985%29.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The complete two-sided folded brochure combines a black/cream outlined italic serif logo, angular Altsys mark, order-form lines and postal panel on its outside. The inside uses three ruled column zones, rounded screenshot frames, crisp bitmap menus, font lists, glyph grid, large pixel A editor and conventional serif bullet lists. Insets demonstrate distinct screen states but count once for this brochure. It supplies concrete window/palette and readable instructional-grid evidence; the printed finger illustration is not reused."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "a8e401a036a669fbed6995831055449de6bc062a414dfb37c09dbb91a3823cb2",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "f8dafb94c1d452e83929d30229cbec25cda373f6757258a69c9f877be504a134",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 1600,
+        "height": 1230
+      }
+    },
+    {
+      "record_id": "fontastic-plus-flyer-1985_202408",
+      "artifact_id": "fontastic-plus-flyer-1985_202408",
+      "title": "FONTastic Plus Flyer (late 1985)",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/fontastic-plus-flyer-1985_202408",
+      "media_url": "https://archive.org/download/fontastic-plus-flyer-1985_202408/FONTastic%20Plus%20Flyer%20%281985%29.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "This two-sided blue/magenta flyer uses thin geometric rounded-stroke title lettering and scattered jigsaw pieces with smooth red letterforms, over a tiled puzzle ground. The reverse is a clear two-column sales document: broad serif text at left, three framed software screenshots at right showing a font list/sample, glyph grids and enlarged bitmapped characters. A ruled company/contact/price band closes the page. Smooth print title and pixelated screenshot coexist. The archive filename/date is a collector attribution; no release chronology is inferred solely from that filename."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "83adfa3cc604c5b3411d23a9e933b83db0fd545d9f28ab76f19a77ce7e17b495",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "7b6d0a058520c0560d38c53376a64f721fcdbd7f92b168de6da9b0cd0852d2c9",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 1237,
+        "height": 1600
+      }
+    },
+    {
+      "record_id": "altsys-announcement-late-1985_202408",
+      "artifact_id": "altsys-announcement-late-1985_202408",
+      "title": "Altsys Announcement (late 1985)",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-announcement-late-1985_202408",
+      "media_url": "https://archive.org/download/altsys-announcement-late-1985_202408/Altsys%20Announcement%20%28late%201985%29.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The product-bulletin opening page is restrained black/cream, centered Altsys letterhead and sans heading above conventional serif paragraphs. Sample page3 contrasts smooth type in several sizes, italic/outline/shadow/script samples and a large Fontographer beta screen dump: striped title bar, narrow tool strip, metric numbers, scrollbars, dotted guides and a script B with editable nodes. This directly connects monochrome screen construction and smoother output. Both pages form one announcement; exact rendering timing is unknown."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "02cfcda6b05181aa88979eff3153af63ceb6c633c27e6a19ec8804d29699ec8f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "7bc12e74d0b6cdc55c01894eb08762d6be66a1df0b60297defb381c844e3845c",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 1224,
+        "height": 1600
+      }
+    },
+    {
+      "record_id": "altsys-newsletter-vol-1-may-1986",
+      "artifact_id": "altsys-newsletter-vol-1-may-1986",
+      "title": "Altsys Newsletter Vol 1 (May 1986)",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-newsletter-vol-1-may-1986",
+      "media_url": "https://archive.org/download/altsys-newsletter-vol-1-may-1986/Altsys%20Newsletter%20Vol%201%20%28May%201986%29.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Volume1's complete first page uses two broad serif text columns, a large serif Newsletter title, a thin geometric corporate wordmark, a small engraving/glyph-grid header illustration and a strong double horizontal rule. The page explicitly states production in PageMaker1.124, LaserWriter output and custom Fontographer fonts, with Goudy NewStyle headline credit to Judy Sutcliffe. This is direct production evidence for a readable modest newsletter rather than mandatory visual chaos. The historical engraving includes a face and stays analytical only."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "52a30a54c912baa068c1a0df6b90f61409dea70f7fa59f36d1ce694bc6ec8d10",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "c3bf0bfe5ac48778dd8053c7d7bbdd64ab0d9861be47791115474cf2c8cdb741",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 1043,
+        "height": 1600
+      }
+    },
+    {
+      "record_id": "altsys-brochure-may-1986",
+      "artifact_id": "altsys-brochure-may-1986",
+      "title": "Altsys Brochure (May 1986)",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-brochure-may-1986",
+      "media_url": "https://archive.org/download/altsys-brochure-may-1986/Altsys%20Brochure%20%28May%201986%29.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The narrow brochure cover stacks receding black/gray floppy-disk silhouettes inside a large rounded rectangular frame, crossed by a heavy brand band. Halftone shading supplies depth in a monochrome printed commercial design. The complete reverse order panel uses conventional serif names/prices, dotted ornaments, ruled form fields, checkboxes and double-boxed disk-format choice. This is a separately designed promotional document with practical ordering hierarchy, not another view of the earlier FONTastic brochure. No current price or ordering claim is made."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "238cddeee235bec4b4c25386f067bccf0a4735404bb1ed1ecc8c73cc18f0be0c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "3800afcda0c69c7103dac1c1470ccf0c7b228bed07e1c55ae2272088f90f0892",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 777,
+        "height": 1600
+      }
+    },
+    {
+      "record_id": "altsys-newsletter-vol-2-early-1987",
+      "artifact_id": "altsys-newsletter-vol-2-early-1987",
+      "title": "Altsys Newsletter Vol 2 (early 1987)",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-newsletter-vol-2-early-1987",
+      "media_url": "https://archive.org/download/altsys-newsletter-vol-2-early-1987/Altsys%20Newsletter%20Vol%202%20%28early%201987%29.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Newsletter2 places a broad FONTastic Plus release heading and corporate mark above a double rule, then divides the page into two major halves, each containing narrower text columns. A staff photograph occupies the left upper panel; Company news and Fontographer headings structure the right. Serif text, vertical separator, hyphenated narrow columns and restrained black/cream printing support conventional newsletter geometry. A new issue/layout/content is counted once, not each column, image or paragraph; the photo is not a production asset."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "bf374e6e6a625b5435131e1c803acacacb93a7c9388bab757bf0e28d51f15fa9",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "9b8ed6fb30ccb10fb34204e8c1e19fcf06002b9e88b72ecc711e285743246180",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 1237,
+        "height": 1600
+      }
+    },
+    {
+      "record_id": "altsys-newsletter-vol-3-june-1988",
+      "artifact_id": "altsys-newsletter-vol-3-june-1988",
+      "title": "Altsys Newsletter Vol 3 June 1988",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-newsletter-vol-3-june-1988",
+      "media_url": "https://archive.org/download/altsys-newsletter-vol-3-june-1988/Altsys%20Newsletter%20Vol%203%20June%201988.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "June1988 Volume3 Number1 uses an enormous smooth italic Altsys News masthead, thick rule, compact issue/date line and full-width staff photograph, followed by a two-column text layout. A ruled contents block sits at lower left beneath the release story. Serif type and generous margins counter a requirement that digital output look jagged. Fold/print-through belong to the surviving copy. The current source scan documents a period publication, not a live interface or its timing."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "92b59d73d4b0adf9f5ba3aa2b281fb17c546b19a3030982cc6abf094171e265a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "cd56d2750d0b6c8f19f6b9b3c4353b1de251444f6d7faee863e5bf3ccd1215b4",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 1237,
+        "height": 1600
+      }
+    },
+    {
+      "record_id": "altsys-newsletter-vol-4-fall-1989",
+      "artifact_id": "altsys-newsletter-vol-4-fall-1989",
+      "title": "Fontasia, Altsys Newsletter Vol 4 Fall 1989",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-newsletter-vol-4-fall-1989",
+      "media_url": "https://archive.org/download/altsys-newsletter-vol-4-fall-1989/Altsys%20Newsletter%20Vol%204%20Fall%201989.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Fontasia Fall1989 changes to a blue/gray cover: huge thin rounded masthead with a shaded sphere as O, black spaced-letter strap, serif feature heading, globe illustration and curved product-name orbit. Page2 has an enormous pale drop cap/triangle banner, serif headline, framed package photo and three restrained body columns with bullet points. The outer illustrated cover and informational interior are one issue. Gradient/halftone depth is an observed period-print variant, not evidence that every early Mac screen had grayscale."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "65d16a7a07ee7b57fa968e28170cfc4f62a00eac44207cd1677001fe32a906ea",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "aa73c22351f2ec01db8c9ad4342c552d86e3613b0f13f2757cc51a6ca2b76cb9",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 1234,
+        "height": 1600
+      }
+    },
+    {
+      "record_id": "altsys-newsletter-vol-5-fall-1990",
+      "artifact_id": "altsys-newsletter-vol-5-fall-1990",
+      "title": "Fontasia, Altsys Newsletter Vol 5 Fall 1990",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-newsletter-vol-5-fall-1990",
+      "media_url": "https://archive.org/download/altsys-newsletter-vol-5-fall-1990/Altsys%20Newsletter%20Vol%205%20Fall%201990.pdf#page=1",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Fontasia Fall1990 uses a gold/gray geometric landscape, abstract building/trees/clouds and large starburst, with thin rounded masthead and bold lower feature list. Page2 uses a large bold sans product heading, pale tinted rectangular panel, conventional serif three-column text, drop cap and four framed software/outline examples. It preserves editorial hierarchy despite layered callouts and mixed type. This distinct issue is one design, with cover and interior grouped; smooth shading and outline typography challenge an all-1-bit output requirement."
+        }
+      ],
+      "handling": "Private analytical scan inspection only; no reproduction or font shipped",
+      "rights": "Original Altsys design remains with rights holders; collector scan not a production license",
+      "sha256": "f5a1aa05fde52e90401f7c018d372ef36bc099c69511fa3b88e49560cd84cb5a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "original_pdf_sha256": "407ee4b71c3ccfa8b318d46de65e6b7eee43aa051f167f25cfe4aa347b0b3236",
+      "scope": "One publication/design per record. Cover and sample interior pages grouped; no repeated panel/page counts.",
+      "resolution": {
+        "width": 1234,
+        "height": 1600
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Seven complete selected pages of Davis/Barry/Wiesenberg's1986 Desktop Publishing were inspected, counted conservatively as one documentation work. Page113 shows the complete MacPaint screenshot with a two-column tool palette, thickness choices, bottom bitmap fills and striped document title bar; page114 shows MacDraw's rulers, selected frame handles, page columns and gray patterned pasteboard. Page106's smaller PageMaker image shows three text columns, a picture block, top/left rulers and floating tool palette; fine document copy there is not legible. Page93 shows overlapping Finder windows, practical icons and gray patterned desktop. Page48's rough two-spread column sketches emphasize page planning; page39 reproduces a partially overlapped set of identified newspaper graphics but they are not counted as separate complete works. Page3 contrasts Lucida outline/solid/raster a. These pages establish screen/output distinctions and a readable instructional print grid; no complete-book reading, exact app timing or extra artwork count is claimed."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "record_id": "dtp-book-113",
+      "artifact_id": "dtp-book-1986",
+      "title": "Desktop Publishing1986, selected page113",
+      "creator": "Frederic E. Davis, John A. Barry, Michael Wiesenberg; Dow Jones-Irwin; screenshot rights Apple/Aldus as indicated",
+      "source_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf",
+      "media_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf#page=113",
+      "sha256": "6514ddf5924d79d62c131cabbcf6f95604e35b2066e2a79198e13558703ca7d6",
+      "resolution": {
+        "width": 1263,
+        "height": 1600
+      }
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Seven complete selected pages of Davis/Barry/Wiesenberg's1986 Desktop Publishing were inspected, counted conservatively as one documentation work. Page113 shows the complete MacPaint screenshot with a two-column tool palette, thickness choices, bottom bitmap fills and striped document title bar; page114 shows MacDraw's rulers, selected frame handles, page columns and gray patterned pasteboard. Page106's smaller PageMaker image shows three text columns, a picture block, top/left rulers and floating tool palette; fine document copy there is not legible. Page93 shows overlapping Finder windows, practical icons and gray patterned desktop. Page48's rough two-spread column sketches emphasize page planning; page39 reproduces a partially overlapped set of identified newspaper graphics but they are not counted as separate complete works. Page3 contrasts Lucida outline/solid/raster a. These pages establish screen/output distinctions and a readable instructional print grid; no complete-book reading, exact app timing or extra artwork count is claimed. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "dtp-book-3",
+      "artifact_id": "dtp-book-1986",
+      "title": "Desktop Publishing1986, selected page3",
+      "creator": "Frederic E. Davis, John A. Barry, Michael Wiesenberg; Dow Jones-Irwin; screenshot rights Apple/Aldus as indicated",
+      "source_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf",
+      "media_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf#page=3",
+      "sha256": "394db8960da013e6bde2404f614cc7f570881bca7444fd7bd350272e0ab2d190",
+      "resolution": {
+        "width": 1276,
+        "height": 1600
+      },
+      "duplicate_of": "dtp-book-113"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Seven complete selected pages of Davis/Barry/Wiesenberg's1986 Desktop Publishing were inspected, counted conservatively as one documentation work. Page113 shows the complete MacPaint screenshot with a two-column tool palette, thickness choices, bottom bitmap fills and striped document title bar; page114 shows MacDraw's rulers, selected frame handles, page columns and gray patterned pasteboard. Page106's smaller PageMaker image shows three text columns, a picture block, top/left rulers and floating tool palette; fine document copy there is not legible. Page93 shows overlapping Finder windows, practical icons and gray patterned desktop. Page48's rough two-spread column sketches emphasize page planning; page39 reproduces a partially overlapped set of identified newspaper graphics but they are not counted as separate complete works. Page3 contrasts Lucida outline/solid/raster a. These pages establish screen/output distinctions and a readable instructional print grid; no complete-book reading, exact app timing or extra artwork count is claimed. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "dtp-book-39",
+      "artifact_id": "dtp-book-1986",
+      "title": "Desktop Publishing1986, selected page39",
+      "creator": "Frederic E. Davis, John A. Barry, Michael Wiesenberg; Dow Jones-Irwin; screenshot rights Apple/Aldus as indicated",
+      "source_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf",
+      "media_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf#page=39",
+      "sha256": "2c99bbaf9191a73bdf95395cb7c818ca9f5fe856a193fe3d14e62ee005936060",
+      "resolution": {
+        "width": 1268,
+        "height": 1600
+      },
+      "duplicate_of": "dtp-book-113"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Seven complete selected pages of Davis/Barry/Wiesenberg's1986 Desktop Publishing were inspected, counted conservatively as one documentation work. Page113 shows the complete MacPaint screenshot with a two-column tool palette, thickness choices, bottom bitmap fills and striped document title bar; page114 shows MacDraw's rulers, selected frame handles, page columns and gray patterned pasteboard. Page106's smaller PageMaker image shows three text columns, a picture block, top/left rulers and floating tool palette; fine document copy there is not legible. Page93 shows overlapping Finder windows, practical icons and gray patterned desktop. Page48's rough two-spread column sketches emphasize page planning; page39 reproduces a partially overlapped set of identified newspaper graphics but they are not counted as separate complete works. Page3 contrasts Lucida outline/solid/raster a. These pages establish screen/output distinctions and a readable instructional print grid; no complete-book reading, exact app timing or extra artwork count is claimed. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "dtp-book-48",
+      "artifact_id": "dtp-book-1986",
+      "title": "Desktop Publishing1986, selected page48",
+      "creator": "Frederic E. Davis, John A. Barry, Michael Wiesenberg; Dow Jones-Irwin; screenshot rights Apple/Aldus as indicated",
+      "source_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf",
+      "media_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf#page=48",
+      "sha256": "354a7dbfa00c7f49c40d664b732df5bb15df01caae776af86516637b6fd68222",
+      "resolution": {
+        "width": 1268,
+        "height": 1600
+      },
+      "duplicate_of": "dtp-book-113"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Seven complete selected pages of Davis/Barry/Wiesenberg's1986 Desktop Publishing were inspected, counted conservatively as one documentation work. Page113 shows the complete MacPaint screenshot with a two-column tool palette, thickness choices, bottom bitmap fills and striped document title bar; page114 shows MacDraw's rulers, selected frame handles, page columns and gray patterned pasteboard. Page106's smaller PageMaker image shows three text columns, a picture block, top/left rulers and floating tool palette; fine document copy there is not legible. Page93 shows overlapping Finder windows, practical icons and gray patterned desktop. Page48's rough two-spread column sketches emphasize page planning; page39 reproduces a partially overlapped set of identified newspaper graphics but they are not counted as separate complete works. Page3 contrasts Lucida outline/solid/raster a. These pages establish screen/output distinctions and a readable instructional print grid; no complete-book reading, exact app timing or extra artwork count is claimed. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "dtp-book-93",
+      "artifact_id": "dtp-book-1986",
+      "title": "Desktop Publishing1986, selected page93",
+      "creator": "Frederic E. Davis, John A. Barry, Michael Wiesenberg; Dow Jones-Irwin; screenshot rights Apple/Aldus as indicated",
+      "source_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf",
+      "media_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf#page=93",
+      "sha256": "65f75eb7d8c0d820b7e1352212c7ec63a3316bbb298c9488b1b94b4e21bc6a17",
+      "resolution": {
+        "width": 1263,
+        "height": 1600
+      },
+      "duplicate_of": "dtp-book-113"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Seven complete selected pages of Davis/Barry/Wiesenberg's1986 Desktop Publishing were inspected, counted conservatively as one documentation work. Page113 shows the complete MacPaint screenshot with a two-column tool palette, thickness choices, bottom bitmap fills and striped document title bar; page114 shows MacDraw's rulers, selected frame handles, page columns and gray patterned pasteboard. Page106's smaller PageMaker image shows three text columns, a picture block, top/left rulers and floating tool palette; fine document copy there is not legible. Page93 shows overlapping Finder windows, practical icons and gray patterned desktop. Page48's rough two-spread column sketches emphasize page planning; page39 reproduces a partially overlapped set of identified newspaper graphics but they are not counted as separate complete works. Page3 contrasts Lucida outline/solid/raster a. These pages establish screen/output distinctions and a readable instructional print grid; no complete-book reading, exact app timing or extra artwork count is claimed. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "dtp-book-106",
+      "artifact_id": "dtp-book-1986",
+      "title": "Desktop Publishing1986, selected page106",
+      "creator": "Frederic E. Davis, John A. Barry, Michael Wiesenberg; Dow Jones-Irwin; screenshot rights Apple/Aldus as indicated",
+      "source_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf",
+      "media_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf#page=106",
+      "sha256": "143b680b71774726074262267b7c1fd442239a29e3754cbf17cae51908223d38",
+      "resolution": {
+        "width": 1271,
+        "height": 1600
+      },
+      "duplicate_of": "dtp-book-113"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Seven complete selected pages of Davis/Barry/Wiesenberg's1986 Desktop Publishing were inspected, counted conservatively as one documentation work. Page113 shows the complete MacPaint screenshot with a two-column tool palette, thickness choices, bottom bitmap fills and striped document title bar; page114 shows MacDraw's rulers, selected frame handles, page columns and gray patterned pasteboard. Page106's smaller PageMaker image shows three text columns, a picture block, top/left rulers and floating tool palette; fine document copy there is not legible. Page93 shows overlapping Finder windows, practical icons and gray patterned desktop. Page48's rough two-spread column sketches emphasize page planning; page39 reproduces a partially overlapped set of identified newspaper graphics but they are not counted as separate complete works. Page3 contrasts Lucida outline/solid/raster a. These pages establish screen/output distinctions and a readable instructional print grid; no complete-book reading, exact app timing or extra artwork count is claimed. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "dtp-book-114",
+      "artifact_id": "dtp-book-1986",
+      "title": "Desktop Publishing1986, selected page114",
+      "creator": "Frederic E. Davis, John A. Barry, Michael Wiesenberg; Dow Jones-Irwin; screenshot rights Apple/Aldus as indicated",
+      "source_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf",
+      "media_url": "https://vintageapple.org/macbooks/pdf/Desktop_Publishing_1986.pdf#page=114",
+      "sha256": "9b4655adb60a70e21d14f03b97e2389aaaabd7f2a3155b6918c819ce20b951b4",
+      "resolution": {
+        "width": 1267,
+        "height": 1600
+      },
+      "duplicate_of": "dtp-book-113"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The scanned package/manual front has blue plastic edges, blue halftone ground, cream rounded panels and magenta outlined/shadowed FONTastic lettering above a gridded enlarged pixel glyph and drawn editing hand. Its visual hierarchy explicitly centers Macintosh font construction. Page10 of the same scan has plain monospaced typewriter-like instruction paragraphs, wide margins, bottom page2 and visible paper show-through. Package and instruction page are one document/artifact family; physical wear and the drawn hand remain research-only. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "fontastic-1.0-manual-march-1985-page10",
+      "artifact_id": "fontastic-1.0-manual-march-1985",
+      "title": "FONTastic 1.0 Package and Manual (March 1985), page10",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/fontastic-1.0-manual-march-1985",
+      "media_url": "https://archive.org/download/fontastic-1.0-manual-march-1985/FONTastic%201.0%20Package%20and%20Manual%20%28March%201985%29.pdf#page=10",
+      "sha256": "ee296201acc1c2f7bf54e65b2716a838a5857711a23072b710947619a5484658",
+      "resolution": {
+        "width": 992,
+        "height": 1600
+      },
+      "duplicate_of": "fontastic-1.0-manual-march-1985"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The complete two-sided folded brochure combines a black/cream outlined italic serif logo, angular Altsys mark, order-form lines and postal panel on its outside. The inside uses three ruled column zones, rounded screenshot frames, crisp bitmap menus, font lists, glyph grid, large pixel A editor and conventional serif bullet lists. Insets demonstrate distinct screen states but count once for this brochure. It supplies concrete window/palette and readable instructional-grid evidence; the printed finger illustration is not reused. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "fontastic-brochure-late-1985-page2",
+      "artifact_id": "fontastic-brochure-late-1985",
+      "title": "FONTastic Brochure (late 1985), page2",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/fontastic-brochure-late-1985",
+      "media_url": "https://archive.org/download/fontastic-brochure-late-1985/FONTastic%20Brochure%20%28late%201985%29.pdf#page=2",
+      "sha256": "12eb6e1798e79abaa7ff2dc9fb6ee2b884906c2172a40a4d70a4846ea37657ae",
+      "resolution": {
+        "width": 1600,
+        "height": 1228
+      },
+      "duplicate_of": "fontastic-brochure-late-1985"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "This two-sided blue/magenta flyer uses thin geometric rounded-stroke title lettering and scattered jigsaw pieces with smooth red letterforms, over a tiled puzzle ground. The reverse is a clear two-column sales document: broad serif text at left, three framed software screenshots at right showing a font list/sample, glyph grids and enlarged bitmapped characters. A ruled company/contact/price band closes the page. Smooth print title and pixelated screenshot coexist. The archive filename/date is a collector attribution; no release chronology is inferred solely from that filename. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "fontastic-plus-flyer-1985_202408-page2",
+      "artifact_id": "fontastic-plus-flyer-1985_202408",
+      "title": "FONTastic Plus Flyer (late 1985), page2",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/fontastic-plus-flyer-1985_202408",
+      "media_url": "https://archive.org/download/fontastic-plus-flyer-1985_202408/FONTastic%20Plus%20Flyer%20%281985%29.pdf#page=2",
+      "sha256": "7f847c44ab631d93fa3e3a7f070a8b82e14a7bf8df218d240ab92953a3eb7b3f",
+      "resolution": {
+        "width": 1233,
+        "height": 1600
+      },
+      "duplicate_of": "fontastic-plus-flyer-1985_202408"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The narrow brochure cover stacks receding black/gray floppy-disk silhouettes inside a large rounded rectangular frame, crossed by a heavy brand band. Halftone shading supplies depth in a monochrome printed commercial design. The complete reverse order panel uses conventional serif names/prices, dotted ornaments, ruled form fields, checkboxes and double-boxed disk-format choice. This is a separately designed promotional document with practical ordering hierarchy, not another view of the earlier FONTastic brochure. No current price or ordering claim is made. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "altsys-brochure-may-1986-page2",
+      "artifact_id": "altsys-brochure-may-1986",
+      "title": "Altsys Brochure (May 1986), page2",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-brochure-may-1986",
+      "media_url": "https://archive.org/download/altsys-brochure-may-1986/Altsys%20Brochure%20%28May%201986%29.pdf#page=2",
+      "sha256": "955a08b6e79a75081407560f4a5a02b68b1cd76c08bd897dd37549aff0b0b2bd",
+      "resolution": {
+        "width": 777,
+        "height": 1600
+      },
+      "duplicate_of": "altsys-brochure-may-1986"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The product-bulletin opening page is restrained black/cream, centered Altsys letterhead and sans heading above conventional serif paragraphs. Sample page3 contrasts smooth type in several sizes, italic/outline/shadow/script samples and a large Fontographer beta screen dump: striped title bar, narrow tool strip, metric numbers, scrollbars, dotted guides and a script B with editable nodes. This directly connects monochrome screen construction and smoother output. Both pages form one announcement; exact rendering timing is unknown. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "altsys-announcement-late-1985_202408-page3",
+      "artifact_id": "altsys-announcement-late-1985_202408",
+      "title": "Altsys Announcement (late 1985), page3",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-announcement-late-1985_202408",
+      "media_url": "https://archive.org/download/altsys-announcement-late-1985_202408/Altsys%20Announcement%20%28late%201985%29.pdf#page=3",
+      "sha256": "28d13b9019b462b7274255d34624fc29087f91702df3c82d07477647f73b7063",
+      "resolution": {
+        "width": 1220,
+        "height": 1600
+      },
+      "duplicate_of": "altsys-announcement-late-1985_202408"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Fontasia Fall1989 changes to a blue/gray cover: huge thin rounded masthead with a shaded sphere as O, black spaced-letter strap, serif feature heading, globe illustration and curved product-name orbit. Page2 has an enormous pale drop cap/triangle banner, serif headline, framed package photo and three restrained body columns with bullet points. The outer illustrated cover and informational interior are one issue. Gradient/halftone depth is an observed period-print variant, not evidence that every early Mac screen had grayscale. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "altsys-newsletter-vol-4-fall-1989-page2",
+      "artifact_id": "altsys-newsletter-vol-4-fall-1989",
+      "title": "Fontasia, Altsys Newsletter Vol 4 Fall 1989, page2",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-newsletter-vol-4-fall-1989",
+      "media_url": "https://archive.org/download/altsys-newsletter-vol-4-fall-1989/Altsys%20Newsletter%20Vol%204%20Fall%201989.pdf#page=2",
+      "sha256": "5bb334d5a853ba6569be9bc8e9dc778af181b5dc32778d7c28a00a055be1d46f",
+      "resolution": {
+        "width": 1234,
+        "height": 1600
+      },
+      "duplicate_of": "altsys-newsletter-vol-4-fall-1989"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Fontasia Fall1990 uses a gold/gray geometric landscape, abstract building/trees/clouds and large starburst, with thin rounded masthead and bold lower feature list. Page2 uses a large bold sans product heading, pale tinted rectangular panel, conventional serif three-column text, drop cap and four framed software/outline examples. It preserves editorial hierarchy despite layered callouts and mixed type. This distinct issue is one design, with cover and interior grouped; smooth shading and outline typography challenge an all-1-bit output requirement. This record is an additional inspected page/version of the same publication and contributes zero additional unique works."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "altsys-newsletter-vol-5-fall-1990-page2",
+      "artifact_id": "altsys-newsletter-vol-5-fall-1990",
+      "title": "Fontasia, Altsys Newsletter Vol 5 Fall 1990, page2",
+      "creator": "Altsys Corporation",
+      "source_url": "https://archive.org/details/altsys-newsletter-vol-5-fall-1990",
+      "media_url": "https://archive.org/download/altsys-newsletter-vol-5-fall-1990/Altsys%20Newsletter%20Vol%205%20Fall%201990.pdf#page=2",
+      "sha256": "6782f4f73148674e6975679bcbad26969e553d8426c5f058dbff4e122c9f511f",
+      "resolution": {
+        "width": 1234,
+        "height": 1600
+      },
+      "duplicate_of": "altsys-newsletter-vol-5-fall-1990"
+    },
+    {
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "type",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "The museum's complete600px-wide1987 PageMaker package photograph shows antique typographic papers, a very large teal italic title, an inset PC user/workstation photograph and a blue/red Windows-included promotional sticker. This is an IBM-PC packaging variant, not the Macintosh application screenshot originally expected. It is useful commercial/production context but excluded from the qualifying early-Mac visual count. The museum owns this digital photograph's documented rights; no image or depicted person is reused."
+        }
+      ],
+      "handling": "Analytical download only; no historical image or font shipped",
+      "rights": "Underlying design and photograph rights remain with owners; no production reuse cleared",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "record_id": "chm-pagemaker-600",
+      "artifact_id": "chm-pagemaker-pc-package",
+      "title": "PageMaker IBM PC package,1987",
+      "creator": "Aldus Corporation; CHM object102680734",
+      "source_url": "https://www.computerhistory.org/revolution/personal-computers/17/306/1236",
+      "media_url": "https://images.computerhistory.org/revonline/images/102680734-06-01.jpg?w=600",
+      "sha256": "80bca4260810951026c8add9a9607c26792e4d3413861c2ef8045be5b46fdcf5",
+      "resolution": {
+        "width": 600,
+        "height": 671
+      }
+    }
+  ],
+  "failed_routes": [],
+  "summary": {
+    "records": 46,
+    "full_media_inspections": 45,
+    "qualifying_unique_artifacts": 30,
+    "duplicate_versions": 13,
+    "boundary_exclusions": 2,
+    "unavailable_nonimage_route": 1,
+    "source_distribution": {
+      "emigre_magazine_covers": 12,
+      "current_emigre_type_family_specimens": 7,
+      "period_altsys_publications": 10,
+      "period_documentation_book_counted_once": 1
+    },
+    "motion_reference_count": 0,
+    "scope": "Purposive1985–90 print/publication and authoring-language study; modern specimens are explicitly modern renderings of named historic type families, Lo-Res revised2001. Seven selected pages of one1986 book count once; Altsys cover/interiors grouped. One sparse Emigre cover and a PC-only PageMaker package excluded. No publication whole-book-reading, live software playback or animation claimed. Strong Emigre/Altsys and English-language concentration; book supplies concrete interface documentation."
+  }
+}

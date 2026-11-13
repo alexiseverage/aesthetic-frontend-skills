@@ -5,38 +5,38 @@ family: vernacular-commercial
 era: late 1970s-1990s home-video horror packaging
 aliases: ["horror VHS", "video-store slasher"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: []
 subsets: []
 ---
 
 # Slasher VHS Rental
 
-Slasher VHS Rental is character-first horror packaging inside a video-store inventory system: lurid painted cover art, black clamshell plastic, stacked spines, cassette windows, rental stickers, shelf codes, tiny billing blocks, magnetic-tape wear, and late-night fluorescent color. It must look rentable and handled, not like a modern dark modal with scanlines.
+Slasher VHS Rental combines horror sleeve hierarchy with physical home-video anatomy and a video-store inventory layer: emphatic titles, painted or photographic threats, repeated spines, cassette windows, rental stickers, catalogue codes and tiny billing blocks. Characters are common, while isolated objects and locations also carry menace. The composition should communicate a circulating media copy. See the [32-design research profile](../../../knowledge/aesthetics/slasher-vhs-rental.md) for evidence and limits.
 
 ## Scope
 
-Use it for media catalogs, recommendations, queues, releases, or fictional genre browsing. Build original fictional titles and characters, then anchor them in front/back/spine/cassette anatomy and store operations. Avoid safety-critical contexts and do not reproduce protected film posters, masks, performers, rating marks, studio logos, or retailer branding.
+Use it for media catalogs, recommendations, queues, releases, or fictional genre browsing. Build original fictional titles and cover art, including object/location routes, then anchor them in front/back/spine/cassette anatomy and store operations. Do not reproduce protected film posters, masks, performers, rating marks, studio logos, or retailer branding.
 
 ## 7-Dimension Profile
 
-**Palette**: Use black plastic, near-black shelf shadow, oxidized cream sticker paper, deep burgundy, and blood red. Add sodium yellow late-fee labels, hot pink or acid green staff picks, sickly cyan tracking highlights, and electric blue shelf tabs in small commercial bursts.
+**Palette**: Black/red and cream information panels are common. Blue wraps, pink/gray fronts, cream/green titles and pale cyan backs are documented variants. Use commercial label accents to distinguish stock/genre layers; a neon wash or one mandatory red-black palette is unnecessary.
 
-**Type**: Use condensed all-caps poster titles, heavy commercial sans stickers, mono shelf codes, tiny billing rows, barcode-like numerals, and slanted review/tagline strips. Keep synopses and controls readable.
+**Type**: Contrast a distinctive cover title with practical synopsis, edition and inventory text. Condensed caps and brush lettering coexist with rounded display, serif, slab-serif and script titles. Repeat identification on spines. Keep essential copy readable; tiny decorative billing is secondary.
 
-**Texture**: Show clamshell gloss, cassette ribs, reel-window translucency, adhesive residue, shelf dust, tracking noise, rubbed corners, sun-faded ink, photocopied labels, and loose magnetic tape. Texture should imply circulation.
+**Texture**: Printed paper, plastic gloss, cassette ribs/windows, rubbed folds and layered adhesive labels provide material/circulation cues. Slipcases, big boxes and clamshells vary; clean non-rental packaging is a related variant. Archive watermarks are not period texture. Paper wear does not establish video tracking noise.
 
-**Shape**: Use tall sleeve fronts, narrow spines, cassette rectangles, circular reels, clamshell hinges, shelf rails, barcode blocks, price stickers, return labels, and character-first painted portrait composition.
+**Shape**: Use tall sleeve fronts, narrow spines, information-rich reverses, cassette rectangles, circular hubs/windows, shelf rails and inventory labels. Painted portraits, photographic collages and isolated object/location threats are alternatives, not one compulsory composition.
 
-**Motion**: Use tracking drift, case flip, shelf pull, inventory scan, rewind progress, sticker stamp, or title jitter. Keep analog noise low-frequency; reduced motion shows the complete cover/cassette state.
+**Motion**: Intentional stillness suits printed packaging. Optional case inspection, stock changes or rewind actions are proposed digital behaviors; the still corpus establishes no exact timing, jitter or tracking effect. Keep state legible and honor reduced motion if animation is introduced.
 
-**Spatial**: Organize as late-night rental shelf, case inspector, front/back/spine comparison, or endcap. The cover character/title dominates; store labels and cassette evidence establish the artifact around it.
+**Spatial**: Organize as rental shelf, case inspector, front/back/spine comparison or endcap. Title and threat organize the front; synopsis, stills, credits and format rows organize the reverse. Store labels add a separate copy-history layer.
 
-**Cultural markers**: Markers include fictional slasher cover stars, lurid taglines, one-night rental, staff pick, cult horror, be kind rewind, late fees, shelf codes, run time, mono/stereo, inventory numbers, and fluorescent closing-time atmosphere.
+**Cultural markers**: Fictional genre titles/taglines, staff picks, horror labels, return/rewind requests, shelf codes, runtime/format and inventory numbers locate the media in circulation. Rental prices, release years and retail prices are edition/copy-specific. British “video nasty” history includes broader genres and is not synonymous with slasher.
 
 ## Non-Negotiables
 
-**Non-negotiables**: original character-first cover + VHS case/cassette anatomy + rental-store sticker/inventory system + analog handling/playback wear.
+**Non-negotiables**: original genre-specific sleeve hierarchy + recognizable VHS case/cassette anatomy + rental-store inventory/circulation grammar. A portrait, one palette, heavy wear or playback defect is not compulsory.
 
 ## Connotation
 
@@ -53,23 +53,23 @@ Use shelf browsing, cover inspection, front/back/spine/cassette views, genre tab
 ## CSS Translation
 
 - Roles: `--plastic`, `--case-red`, `--sticker`, `--late-fee`, `--staff-pick`, `--tracking`.
-- Use clamshell rims, cassette ribs/reels, adhesive residue, hard sticker shadows, scanlines, and localized chromatic offset.
+- Use sleeve/case rims, cassette ribs/reels and distinct paper label surfaces; add restrained copy wear where appropriate.
 - Mostly square case/label corners; circles belong to reels and adhesive dots.
 - Use dominant cover, spine shelf, cassette/return area, and sticker clusters.
-- Motion: steps-based tracking/case handling; reduced motion removes drift and preserves all labels.
+- Immediate manual inspection is valid. Optional motion uses clearly proposed timing and preserves complete states under reduced motion.
 
 ## Typography / Fonts
 
-Use condensed grotesque display, heavy sans labels, mono shelf codes, and tiny decorative billing rows. Do not use a generic novelty spooky font for every text layer.
+Choose a title treatment suited to the fictional edition: condensed grotesque, rough brush, rounded display or assertive serif. Use plain readable synopsis/labels and secondary billing. Do not use one novelty spooky font for every layer or claim an exact historic face without evidence.
 
 ## Cultural / Ethical Notes
 
-Keep characters and art original; do not copy movie titles, masks, costumes, posters, studio marks, performers, MPAA graphics, or rental brands. Provide content sensitivity and avoid explicit gore unless the context and audience support it.
+Keep titles and art original; do not copy masks, costumes, posters, studio marks, performers, classification graphics or rental brands. Historic sleeves may objectify women or frame disability, gender difference or Indigenous identity as menace; document that critically rather than repeating it. Provide suitable content sensitivity. An object-led interpretation can preserve genre specificity without a protected character or explicit gore.
 
 ## Anti-Patterns
 
 - Dark modal with a red title and scanlines.
 - Recognizable franchise killer, poster, costume, or logo.
 - VHS noise without case, cassette, shelf, or sticker anatomy.
-- Cover art where the threat is tiny or absent.
+- Generic spooky decoration without a clear genre title/threat and physical-media hierarchy.
 - Modern streaming cards relabeled as rentals.

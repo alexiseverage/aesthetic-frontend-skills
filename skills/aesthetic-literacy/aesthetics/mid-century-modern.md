@@ -5,7 +5,7 @@ family: historical-design-movements
 era: 1945–1970 postwar modernism, with later revivals
 aliases: ["MCM", "Mid-Century", "Midcentury Modern", "Atomic Ranch"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["prairie-school", "scandinavian-modern", "warm-minimalism", "atomic-age"]
 subsets: ["atomic-age"]
 ---
@@ -20,15 +20,15 @@ Use Mid-century Modern for furniture and interior-design commerce, architecture 
 
 ## 7-Dimension Profile
 
-**Palette**: warm wood tones, cream, charcoal, olive/avocado, mustard, burnt orange, teal, restrained postwar accents, black-and-white modernist neutrals, muted brick, concrete, and occasional brighter atomic colors. Palettes should be warm and optimistic, not cold or sterile.
+**Palette**: warm wood, pale/black shells, saturated upholstery, graphic multicolor textiles and restrained neutrals all occur. Cream, mustard, olive, orange and teal are useful revival choices, not a compulsory historic palette. Material contrast can carry the identity without a warm accent.
 
 **Type**: clean sans-serif display typography, modernist hierarchy, geometric or humanist sans systems, simple legible body type, and occasional playful graphic display forms; typography balances functional clarity with warmth.
 
 **Texture**: honest wood grain, molded fiberglass or plastic smoothness, matte painted surfaces, woven textiles, leather, stone, brick, glass, steel, and polished but not luxurious industrial finishes used without fake embellishment.
 
-**Shape**: clean lines, organic curves, tapered legs, biomorphic/kidney forms, low horizontal furniture, functional silhouettes, starbursts, boomerangs, abstract geometric motifs, and asymmetrical graphic forms stripped of fussy ornament.
+**Shape**: clean functional relations, curved shells, low horizontals, open structural supports, biomorphic silhouettes and asymmetrical graphics. Rectilinear modules, wire bases, continuous pedestals and slatted planes are equally useful variants. Tapered legs, kidney forms and starbursts are selective motifs, not requirements.
 
-**Motion**: gentle, optimistic, and fluid: subtle hover lifts, calm reveals, eased transitions, and lightness derived from furniture and architecture rather than aggression or spectacle.
+**Motion**: still object/print presentation is fully compatible. Gentle manual changes or restrained transitions are contemporary translations; furniture and textile stills establish no exact easing, hover lift or reveal behavior.
 
 **Spatial**: open plans, indoor-outdoor continuity, floor-to-ceiling glazing, floating furniture, asymmetrical balance, breathable modern domestic zones, modular room divisions, patios, conversation pits, and display shelves.
 
@@ -36,7 +36,7 @@ Use Mid-century Modern for furniture and interior-design commerce, architecture 
 
 ## Non-Negotiables
 
-**Non-negotiables**: clean functional lines + warm material tactility + open-plan spatial logic + selective bold color + ornament reduced to proportion, silhouette, and graphic clarity. If warmth disappears, the look drifts toward colder International/Swiss modernism; if novelty dominates, it becomes retro kitsch.
+**Non-negotiables**: clean functional relationships, legible material/construction, expressive proportion and silhouette, and modernist clarity. Use open spatial relations and selective graphic color where the content supports them. Wood, a warm palette, atomic ornaments and any single support shape are not universal requirements; novelty alone becomes retro kitsch.
 
 ## Connotation
 
@@ -45,7 +45,7 @@ Mid-century Modern coalesced after World War II as modernist principles met mass
 ## Related / Subsets
 
 - `prairie-school` is earlier, more regionally American, and more landscape-anchored.
-- `scandinavian-modern` shares warmth and functionalism but is paler, more democratic, and less atomic/graphic.
+- `scandinavian-modern` overlaps in functional clarity, craft and materials; its distinct regional histories should not be reduced to a paler palette or an unqualified claim of greater democracy.
 - `warm-minimalism` inherits MCM’s warmth-and-restraint lesson but removes most saturated accents, playful motifs, and postwar optimism.
 - `atomic-age` amplifies the futurist/starburst subset and can become louder, campier, or more space-race-coded than core MCM.
 - `atomic-age` is the only canonical subset link currently listed; diner/kitsch and Googie branches should be treated as internal variants unless promoted separately.
@@ -61,11 +61,11 @@ Compose screens like open rooms: breathable zones, floating cards, warm material
 - Radius language: rounded rectangles, biomorphic cards, tapered silhouettes, kidney/amoeba accents, and occasional starburst/boomerang motifs.
 - Effects: subtle wood/paper grain, matte color fields, light shadows that make cards float, and clean flat graphic blocks.
 - Layout: open-plan grids, indoor/outdoor sections, asymmetrical columns, conversation-pit groupings, display shelves, and generous negative space.
-- Motion: gentle hover lifts, ease-out reveals, slow scroll entrances, and reduced-motion static zoning.
+- Motion: immediate manual configuration or intentional stillness; optional restrained transitions need their own application rationale and reduced-motion handling.
 
 ## Typography / Fonts
 
-Use geometric and humanist sans-serifs for headings and navigation, readable serif/sans support for body, and occasional condensed or playful display type for poster-like moments. Avoid cold all-Helvetica austerity as the only voice, and avoid novelty retro fonts that turn the movement into costume.
+Use clear geometric/humanist sans or restrained grotesques for headings and navigation, readable serif/sans body support, and selective graphic display treatment. These are application choices, not fonts identified from the object corpus. Avoid novelty lettering that replaces proportion and material logic with costume.
 
 ## Cultural / Ethical Notes
 
@@ -79,4 +79,4 @@ Use geometric and humanist sans-serifs for headings and navigation, readable ser
 - Generic warm retro furniture with no modernist open-plan logic or material honesty.
 - Swiss/International cold minimalism with MCM colors pasted on.
 - Atomic or diner kitsch that overwhelms clean functional lines.
-- Heavy ornament, chrome nostalgia, or novelty fonts replacing proportion and materiality.
+- Heavy ornament or novelty fonts replacing proportion and materiality. Polished metal itself is a documented material, not an automatic anti-pattern.

@@ -5,7 +5,7 @@ family: material-print-craft
 era: Victorian and early photographic occult culture; contemporary archival quotation
 aliases: ["spirit photography", "seance cabinet card"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: []
 subsets: []
 ---
@@ -18,6 +18,8 @@ Spirit Photography Seance is an archival photographic system built from cabinet 
 
 Frame the interface as a sitting register, plate archive, contact file, or cabinet-card drawer. The photographed subject and the photographic process must remain distinct from interface decoration. Historical spiritualism involved sincere belief, grief, fraud, experimentation, and contested evidence; avoid mocking sitters or claiming fabricated images are authentic records.
 
+An object-only exposure comparison can be a contemporary explanatory application, clearly identified as fictional. It does not replace portraiture in the historical definition. The paired research profile audits 32 qualifying still photographs, predominantly one American album; do not generalize that album's appearance to every regional practice.
+
 ## 7-Dimension Profile
 
 **Palette**: Use tobacco sepia, oxidized cream, charcoal, silver gray, and dark walnut, with faded burgundy or blue-black annotation ink. Highlights should bloom softly while text sits on solid mount stock.
@@ -28,9 +30,9 @@ Frame the interface as a sitting register, plate archive, contact file, or cabin
 
 **Shape**: Build from portrait mounts, oval or rectangular image wells, evidence envelopes, plate tabs, negative sleeves, seal marks, and exposure registers. Corners are mounted or worn rather than app-rounded.
 
-**Motion**: Use slow exposure bloom, plate dissolve, contact-sheet reveal, drawer pull, or a subtle second-image registration shift. Reduced motion shows both exposure layers without pulsing opacity.
+**Motion**: Stillness supports close comparison. A manual exposure switch, plate reveal or registration adjustment is a proposed digital interaction, not an observed historical timing convention. Reduced motion preserves explicit A/B or composite states without pulsing opacity.
 
-**Spatial**: Center the portrait as evidence, with narrow metadata and annotation columns. Layer mounts, sleeves, and notes shallowly; do not bury the sitter under decorative ectoplasm.
+**Spatial**: Keep the photographic image legible beside metadata and annotation. Historical examples include centered portraits, strongly offset sitters and small photographs on tables surrounded by secondary exposures. Layer mounts, sleeves and notes shallowly; avoid making one fixed image/text ratio mandatory.
 
 **Cultural markers**: Markers include 19th-century studio dress, cabinet-card formats, photographer imprints, spiritualist sittings, double-exposed figures, séance tables, and archival catalog language. These require contextual, not sensational, treatment.
 
@@ -55,8 +57,8 @@ Use plate browsers, exposure A/B toggles, sitting records, negative IDs, annotat
 - Roles: `--mount-stock`, `--albumen-sepia`, `--plate-shadow`, `--annotation-ink`, `--silver-bloom`.
 - Use localized vignette, multiply overlays, edge foxing, subtle blur, and shallow mount shadows.
 - Use square/softly worn card corners and thin keylines; avoid glossy rounded panels.
-- Compose portrait-first with a 2:1 image-to-metadata balance.
-- Motion: 800-1600ms exposure dissolve; reduced motion uses a static composite or explicit A/B state.
+- Give the photographic study enough space for overlap and mount anatomy; stack annotations below it when narrow.
+- Prefer still comparison. Any dissolve duration is a proposed application value; reduced motion uses a static composite or explicit A/B state.
 
 ## Typography / Fonts
 

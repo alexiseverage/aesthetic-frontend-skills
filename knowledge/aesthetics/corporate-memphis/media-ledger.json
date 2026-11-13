@@ -1,0 +1,2679 @@
+{
+  "media": [
+    {
+      "record_id": "buck-20",
+      "artifact_id": "buck-20",
+      "title": "buck-20",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/bd506b033c50d518339624ff5bf1c4694232d1e1-1920x1200.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete Alegria hero combines a giant blue outlined Like symbol with five small-headed, long-limbed figures carrying, lifting and balancing. Pink, mint, yellow, blue and navy flat masses sit in large white space; restrained stippled patches occur within dark areas. A specific optimistic shared-action composition, not proof of generic facelessness or of inclusion by color alone. No people or Like mark will be reused."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "494e3033eedb8463df8658fa002324bc5167ad91e71da141e0410df1d7ef7ff9",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "buck-22",
+      "artifact_id": "alegria-style-guide",
+      "title": "buck-22",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/02f3fd9a83614e074e4a9402e791d31d94a1c634-1920x1200.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full photographed three-sheet style-guidance display compares capsule/hexagon/diamond construction, five line-drawn poses and texture annotations. Long limbs and reduced heads have deliberate geometry; outlines and textured highlights are documented, not a universal no-stroke/no-texture rule. Count the guidance material once, rather than individual figures or pages."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "d81210cfa592239230fbaadea1befe6f692a63314e75b048d1a608eede556586",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1920,
+        "height": 1200
+      }
+    },
+    {
+      "record_id": "buck-23",
+      "artifact_id": "alegria-style-guide",
+      "title": "buck-23",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/e8666a1d0f9f8f867c4c5456348c5fe3bd7e8cc5-2076x1186.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Another photograph of the same Alegria style-guide family shows body-proportion diagrams and an anatomy page partly cut at the right. Visible prose states eleven-and-a-half-head proportions for this particular system; that is not a genre-wide requirement. Repeated guide evidence, zero extra work; cut-off right page not treated as a complete independently inspected design."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "3d82cd1d5e003bf8ad60313ccb94d1fe1b5c44c4478e65881768483c75e355a0",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2076,
+        "height": 1186
+      },
+      "duplicate_of": "buck-22"
+    },
+    {
+      "record_id": "buck-24",
+      "artifact_id": "alegria-style-guide",
+      "title": "buck-24",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/616630c88504f481afbcfe15a0c1d9e03745e7f3-2076x1186.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full photographed guide spread shows body-width/height alternatives and eight expressive colored hands. Geometric limbs contrast irregular fingers, and body options retain a specific system limit rather than unlimited distortion. Part of the same Alegria guide, not eight independent assets."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "f2d05dc8fdf3531bfaa6ef01d822dd16601876d89a97f92675017454964d7944",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2076,
+        "height": 1186
+      },
+      "duplicate_of": "buck-22"
+    },
+    {
+      "record_id": "buck-25",
+      "artifact_id": "alegria-style-guide",
+      "title": "buck-25",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/0edeba400b62eb303342a3df7afd844b5a4a2281-2076x1186.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A complete photographic overview of many guide pages includes one legible landscape construction example: rounded triangular hills, cylindrical trunks, crescent fruit and thick rectangular limbs. Numerous tiny/cut pages are not individual full artworks. It supports modular shape grammar and contextual use, with no extra count beyond the same guide."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "a095a6b9e78f2354b996af29fb0ae2ff3fcdd280eadb5c67c62f3b21a61f64a1",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2076,
+        "height": 1186
+      },
+      "duplicate_of": "buck-22"
+    },
+    {
+      "record_id": "buck-26",
+      "artifact_id": "alegria-style-guide",
+      "title": "buck-26",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/39c4383f0652e65a5e7e34a429314fae7f1b3db2-2048x1170.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete photographed guide cover uses huge cropped blue/pink face, circular glasses containing a sunset/seascape and a mint leaf, with white Alegria Visual Guidelines type. Stippled print-like texture and a smiling face coexist with the clean flat palette. Same publication already counted, not another work."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "3216e8f9ad24e46beae3270605dc8fd1456d3dd964a0852a2d76b45c13c254b0",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2048,
+        "height": 1170
+      },
+      "duplicate_of": "buck-22"
+    },
+    {
+      "record_id": "buck-27",
+      "artifact_id": "alegria-style-guide",
+      "title": "buck-27",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/705d9e29710f0077094eb0b024df08f2c96adb82-1368x1368.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Same guide photograph shows broad role-based color scales beside a partly cropped character/dog example. Saturated and neutral/darker roles challenge a pastel-only requirement. Complete photograph but not separately complete underlying left illustration; counted within one guide."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "217de5cdb65346760969584dd2d5116fa5936808010a60f5654cd270094d9b84",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1368,
+        "height": 1368
+      },
+      "duplicate_of": "buck-22"
+    },
+    {
+      "record_id": "buck-28",
+      "artifact_id": "buck-28",
+      "title": "buck-28",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/c5e98c7cd2075951090ecc86f486b712fe0580b7-2048x646.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete wide mint field holds one leaping pink-skinned figure carrying an enormous bouquet of tools. A long dark-blue trouser curve stretches nearly edge-to-edge; tiny white shirt and head anchor it. Sparse flat colors, scalloped hair, white shoelace strokes and subtle grain produce a joyful gesture rather than general amorphous blobs."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "064955034729e9b144a1cb1259d7cccf35ee050248a4c6e17feb530b923a9d8b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2048,
+        "height": 646
+      }
+    },
+    {
+      "record_id": "buck-29",
+      "artifact_id": "buck-29",
+      "title": "buck-29",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/da1fac4c4c355853e4eee855788a849a14ef36be-990x918.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete creator-served two-bird spot uses yellow and bright blue elongated teardrop bodies, simple black eyes, thin pink/coral legs, white wing strokes and colored stipple patches. Native image itself has soft raster edges; it is not a search thumbnail. One paired-bird composition counts once, no implied motion."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "15406891fcf076d5c56e6545e17a985484ccb3768bc1318af4ad7b8e86f0f7e5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 990,
+        "height": 918
+      }
+    },
+    {
+      "record_id": "buck-30",
+      "artifact_id": "buck-30",
+      "title": "buck-30",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/eb95d57b1f0e94e43881d60177735bf756f25749-990x918.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete botanical spot groups long mint stems, dark-green angular leaves, small geometric blue/pink/orange blossoms and loose spiral buds on off-white. Sharp leaf cuts coexist with curved floral lobes, sparse contrasting veins and localized grain. This direct object/flora example supports translation beyond human figures without erasing their historical importance."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "2af17a64a37bd93707ba0ff465d077f97faa12013871ecf31ce24095c96aca54",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 990,
+        "height": 918
+      }
+    },
+    {
+      "record_id": "buck-31",
+      "artifact_id": "buck-31",
+      "title": "buck-31",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/a53f4764b233b8f0a7883fc60a4d8b2e67d1ac30-990x918.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete orange fox spot reduces a seated animal to a long curved trunk/tail, two pointed ears, minute black face marks and navy/yellow contour accents. Pink grain at the tail adds local depth while the background remains almost empty. One animal composition; no inference of human character proportions."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "bd26794440b7071a015a5bcbfdd766e0a68e8fb5da0baa7ff9d464f177f2f349",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 990,
+        "height": 918
+      }
+    },
+    {
+      "record_id": "buck-32",
+      "artifact_id": "buck-32",
+      "title": "buck-32",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/b4102138773f85cdbb026c7fef046962ccf6a725-1368x1268.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full photographed object/architecture sheet groups fruit, cakes, shoes, accessories and a bottom cityscape. Oval fruit, thick cake rectangles, long scarves and arch bridge openings share bright colors, fine contour accents and localized speckle. This is one complete asset-sheet artifact; the many small items are not each counted independently."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "b1a327e01e1884b8e66532eeff80a2d1066613c9388183890f55d58e3235fc7f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1368,
+        "height": 1268
+      }
+    },
+    {
+      "record_id": "buck-33",
+      "artifact_id": "buck-33",
+      "title": "buck-33",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/dc4a5afd167cd22f09de16988bd2eade68eef15b-990x912.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete paired transport spot contrasts a pink helicopter with a blue car, both reduced to round-ended silhouettes, thin blue landing/rotor linework, white window details and subtle noisy shadows. It is flat but not entirely without volume cues. Count this pair once, not each vehicle or wheel."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "9f9b1e7009cd9e2cbaaab0bff591cbd44ce760abb3886f0cd3cc56a4e236cb60",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 990,
+        "height": 912
+      }
+    },
+    {
+      "record_id": "buck-34",
+      "artifact_id": "buck-34",
+      "title": "buck-34",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/915090fcb4942bb42f63056a52c33dcc8e470c9d-2048x646.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete wide peach composition crops three friendly figures at waist height around a large bouquet. Lavender/pink skin, coral clothing, oversized hands and long angular/curved arms make a collaborative flower arrangement; sparse face lines and localized stipple preserve expression and depth. This is a separate scene from the isolated botanical spot, with recurring flora as a shared system motif."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "b9d3f75114f8dd58f8aa29ee182db80624e8970fe77e2327943e08afe0f73b00",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2048,
+        "height": 646
+      }
+    },
+    {
+      "record_id": "buck-35",
+      "artifact_id": "buck-35",
+      "title": "buck-35",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/8a688e51a3af8d194d678de08c59084ae36104b1-1600x590.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete cobalt-blue field isolates a floating prone headphone listener with very long pink trousers, yellow shirt, small orange head and an enormous negative-space silhouette. Thin white cable loops connect hands/player/headphones; outline accents and local orange grain add tactile detail. A separate listening scene, not a leaping-bouquet crop."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "d40ce593a916ce28e8497775cb7793d5b1c4e7807984e56f47d10683cc2afd45",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1600,
+        "height": 590
+      }
+    },
+    {
+      "record_id": "buck-36",
+      "artifact_id": "buck-36",
+      "title": "buck-36",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/3588f1368ff63ff5c00f73087fb6b26c4ed42078-2076x1268.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete construction/problem-solving scene treats a phone as an enormous open excavation with a ladder, two builders, traffic cones and floating patterned speech shapes. Muted blue-gray, mustard and burgundy plus more natural skin contrast the bright Alegria hero. Metaphorical scale, flat cut shapes and friendly teamwork link the grammar while disproving mandatory unnatural skin or one exact palette."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "82a16338debcd4c791729d9ee230890a8976b23c9c751790e105547605bb39dd",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2076,
+        "height": 1268
+      }
+    },
+    {
+      "record_id": "buck-37",
+      "artifact_id": "buck-37",
+      "title": "buck-37",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/10469736fa6d8eadc4e7c2df5b52fb05395534b4-1600x977.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A full laptop application mockup shows an actual recruitment page with clear black sans job title, dark APPLY control and a surrounding illustrated header of stacked blocks, arch, circles, plant and clock. The geometric object scene and readable product content coexist; the illustration is not the interface controls themselves. One webpage composition, not separate objects or a live interaction."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "8640b60b9394475a2cca4a85ac2eb1ee1f3bdda71716540799657d9061031744",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1600,
+        "height": 977
+      }
+    },
+    {
+      "record_id": "buck-38",
+      "artifact_id": "buck-38",
+      "title": "buck-38",
+      "creator": "BUCK and credited Alegria team",
+      "source_url": "https://buck.co/work/facebook-alegria",
+      "media_url": "https://cdn.sanity.io/images/uk7b627p/production/41fce8390848fead1042f47c5c892ee4481d849f-1438x2048.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full photographic smartphone mockup shows an AR heart-eye/arrow filter applied to a real face. It shares a client project but does not establish Corporate Memphis flat illustration grammar; excluded as adjacent AR/photo boundary. A still cannot establish filter timing or tracking. No photograph is reused."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "fa478e822560331bf14d0ce8028c85fe6eb02b674b1111d02d5dd24d6c5a0001",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1438,
+        "height": 2048
+      }
+    },
+    {
+      "record_id": "atlassian-26",
+      "artifact_id": "atlassian-26",
+      "title": "atlassian-26",
+      "creator": "Atlassian illustration team, see article",
+      "source_url": "https://www.atlassian.com/blog/inside-atlassian/designing-inclusive-illustrations-at-atlassian",
+      "media_url": "https://atlassianblog.wpengine.com/wp-content/uploads/2018/04/welcome-to-stride-7.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full Stride welcome composition shows six small stylized people, including a wheelchair user, around a giant rounded mint on-switch, with blue/yellow speech and idea balloons and small confetti. Flat bright shapes, deliberate metaphorical scale, optimistic cooperation and a white field align the broader corporate illustration system. Gradients/soft shadows disprove a strict no-depth rule."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "29fc3c166591b8b91a4291afff7a29c06518caf7e9521cfa8487e9b456db749d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2001,
+        "height": 1281
+      }
+    },
+    {
+      "record_id": "atlassian-27",
+      "artifact_id": "atlassian-27",
+      "title": "atlassian-27",
+      "creator": "Atlassian illustration team, see article",
+      "source_url": "https://www.atlassian.com/blog/inside-atlassian/designing-inclusive-illustrations-at-atlassian",
+      "media_url": "https://atlassianblog.wpengine.com/wp-content/uploads/2018/04/2012-1.jpg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full2012 five-role meeple strip uses glossy grey featureless ball heads, dark outlines, blue cone bodies and props. Clearly documented precursor, but skeuomorphic icon construction and neutral role tokens differ from later expressive narrative scenes. Excluded rather than backdating Corporate Memphis to every corporate icon."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "cddd86e934075f89109883aef1723231820e01affc9bd3b3d495626ffe4de764",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1920,
+        "height": 476
+      }
+    },
+    {
+      "record_id": "atlassian-28",
+      "artifact_id": "atlassian-28",
+      "title": "atlassian-28",
+      "creator": "Atlassian illustration team, see article",
+      "source_url": "https://www.atlassian.com/blog/inside-atlassian/designing-inclusive-illustrations-at-atlassian",
+      "media_url": "https://atlassianblog.wpengine.com/wp-content/uploads/2018/04/2013-2.jpg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full2013 strip uses uniform blue outline capsule people with a small selection of faces/hair and role props. Repeated diagrammatic icons and limited skin/gender options document the brand evolution, not mature narrative Corporate Memphis. Excluded precursor; article critically acknowledges representation limits."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "8c916c5d687f81fc29de6e305f162f611f0ea9603574ac7cfd5134d3407d6a8c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1920,
+        "height": 797
+      }
+    },
+    {
+      "record_id": "atlassian-29",
+      "artifact_id": "atlassian-29",
+      "title": "atlassian-29",
+      "creator": "Atlassian illustration team, see article",
+      "source_url": "https://www.atlassian.com/blog/inside-atlassian/designing-inclusive-illustrations-at-atlassian",
+      "media_url": "https://atlassianblog.wpengine.com/wp-content/uploads/2018/04/2014-3.jpg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full2014 icon sheet adds navy outlines, solid blue hair, white heads, tiny facial expressions and ringed occupational badges. Clear document of prior brand tokens, but little scene-based narrative or expressive scale. Excluded precursor; the article explicitly critiques the implied default whiteness/gender conventions rather than endorsing this as inclusive."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "86b99a64231442a894dcd4c475e4a9d81e27161897ad96615ab2659595b58c7e",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1920,
+        "height": 1081
+      }
+    },
+    {
+      "record_id": "atlassian-30",
+      "artifact_id": "atlassian-2015-meeple",
+      "title": "atlassian-30",
+      "creator": "Atlassian illustration team, see article",
+      "source_url": "https://www.atlassian.com/blog/inside-atlassian/designing-inclusive-illustrations-at-atlassian",
+      "media_url": "https://atlassianblog.wpengine.com/wp-content/uploads/2018/04/2015a-4.jpg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full2015 character strip introduces varied skin/hair and religious dress but retains uniform chest-up mascot proportions, navy contour and a single baseline. Useful transition/representation context; excluded as portrait-icon precursor rather than mature Corporate Memphis scene."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "de6f1d8bf595e7aff77da60f363a7440f8b59176bd22a353e32e164be66e3bc4",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1920,
+        "height": 476
+      }
+    },
+    {
+      "record_id": "atlassian-31",
+      "artifact_id": "atlassian-2015-meeple",
+      "title": "atlassian-31",
+      "creator": "Atlassian illustration team, see article",
+      "source_url": "https://www.atlassian.com/blog/inside-atlassian/designing-inclusive-illustrations-at-atlassian",
+      "media_url": "https://atlassianblog.wpengine.com/wp-content/uploads/2018/04/2015b-5.jpg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full2015 team-icon board arranges repeated chest-up characters inside turquoise/blue/yellow discs and at tables. Limited depth, navy outline and stereotyped apparel/skin simplifications are observable; related precursor whose repeated tokens are not counted as separate scene works."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "ad61d8ad98799088748eba83125125e022060109939232d8f5c4cab0c5b8b664",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1920,
+        "height": 1081
+      }
+    },
+    {
+      "record_id": "atlassian-32",
+      "artifact_id": "atlassian-32",
+      "title": "atlassian-32",
+      "creator": "Atlassian illustration team, see article",
+      "source_url": "https://www.atlassian.com/blog/inside-atlassian/designing-inclusive-illustrations-at-atlassian",
+      "media_url": "https://atlassianblog.wpengine.com/wp-content/uploads/2018/04/2017-6.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete2017 avatar sheet shows many distinct natural skin/hair/age/garment examples in bright circular backdrops, with detailed eyes/noses/mouths and modest tonal shading. Critical inclusion context, but primarily an avatar library rather than the exaggerated full-scene grammar being researched. Excluded boundary, not35 individually counted portraits."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "c8464d0171868416cfc45db4e4f0f60796342492b244cadd8bd3d16347c912d4",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2048,
+        "height": 1055
+      }
+    },
+    {
+      "record_id": "atlassian-33",
+      "artifact_id": "atlassian-33",
+      "title": "atlassian-33",
+      "creator": "Atlassian illustration team, see article",
+      "source_url": "https://www.atlassian.com/blog/inside-atlassian/designing-inclusive-illustrations-at-atlassian",
+      "media_url": "https://atlassianblog.wpengine.com/wp-content/uploads/2018/04/screenshot-2017-8.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete server-maintenance scene exaggerates a three-tier white/grey server into architecture, with two tiny natural-skinned workers, ladder and turquoise billowing ground. Flat cut massing coexists with gentle dimensional gradients and navy/yellow/blue workwear. Technological task made friendly through metaphorical scale; a useful object-rich variant."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "54650804b889b238fbc5e60f20e066550e7c50aa25961b7cb53fe0617c595f2c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1952,
+        "height": 1412
+      }
+    },
+    {
+      "record_id": "atlassian-34",
+      "artifact_id": "atlassian-34",
+      "title": "atlassian-34",
+      "creator": "Atlassian illustration team, see article",
+      "source_url": "https://www.atlassian.com/blog/inside-atlassian/designing-inclusive-illustrations-at-atlassian",
+      "media_url": "https://atlassianblog.wpengine.com/wp-content/uploads/2017/11/software-development_1@2x.png",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete software-development scene wraps oversized turquoise/blue browser/code panels into a loose figure-eight loop. Four small workers interact with notification, building block and play control; orange clothing and navy shadows mark task points. Perspective/depth and multiple states are illustrated, not live interface or motion evidence."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "91070d8732a7c8efd6814e494a7e6ea4a194754b96665764e8949ded9cec4541",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 992,
+        "height": 634
+      }
+    },
+    {
+      "record_id": "shopify-10",
+      "artifact_id": "shopify-10",
+      "title": "shopify-10",
+      "creator": "Credited brand/illustrator in Shopify article",
+      "source_url": "https://www.shopify.com/partners/blog/digital-illustration",
+      "media_url": "https://cdn.shopify.com/s/files/1/0533/2089/files/digital-illustration-dropbox-2017.png?v=1551118684",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "5b6e6dadb6460e0bd6020698a8060a657903804dff780f19c8ec1c9f232fd1ca",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "shopify-11",
+      "artifact_id": "shopify-11",
+      "title": "shopify-11",
+      "creator": "Credited brand/illustrator in Shopify article",
+      "source_url": "https://www.shopify.com/partners/blog/digital-illustration",
+      "media_url": "https://cdn.shopify.com/s/files/1/0533/2089/files/digital-illustration-dropbox-2019.png?v=1551118677",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "b9d53af5331f432d20f9a4c73cbba373c03b48442ffa8ed8d754d9228ffbd481",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "shopify-12",
+      "artifact_id": "shopify-12",
+      "title": "shopify-12",
+      "creator": "Credited brand/illustrator in Shopify article",
+      "source_url": "https://www.shopify.com/partners/blog/digital-illustration",
+      "media_url": "https://cdn.shopify.com/s/files/1/0533/2089/files/digital-illustration-intercom-2017.png?v=1551118701",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "3c32c58617cbd05a34c38780efe9dc4b38fece503b02c3533a39033bd5acd441",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "shopify-13",
+      "artifact_id": "shopify-13",
+      "title": "shopify-13",
+      "creator": "Credited brand/illustrator in Shopify article",
+      "source_url": "https://www.shopify.com/partners/blog/digital-illustration",
+      "media_url": "https://cdn.shopify.com/s/files/1/0533/2089/files/digital-illustration-intercom-2019.png?v=1551118720",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "f98a97220dc78d2f28423db547b3feeb548a24a5ed4432054b7fc2a67773a0aa",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "shopify-15",
+      "artifact_id": "shopify-15",
+      "title": "shopify-15",
+      "creator": "Credited brand/illustrator in Shopify article",
+      "source_url": "https://www.shopify.com/partners/blog/digital-illustration",
+      "media_url": "https://cdn.shopify.com/s/files/1/0533/2089/files/digital-illustration-slack-2019.png?v=1551118666",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "683aea83f6c92f57274f77aa04adc564cda8c4333382157f720ddb8d99781809",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "shopify-16",
+      "artifact_id": "shopify-16",
+      "title": "shopify-16",
+      "creator": "Credited brand/illustrator in Shopify article",
+      "source_url": "https://www.shopify.com/partners/blog/digital-illustration",
+      "media_url": "https://cdn.shopify.com/s/files/1/0533/2089/files/digital-illustration-shopify-2019.png?v=1551118664",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "8fb6eb72f8f8d6724eb515678a20fcb7a88b47dd2a1ee2ce20edb5bc78522049",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "shopify-17",
+      "artifact_id": "shopify-17",
+      "title": "shopify-17",
+      "creator": "Credited brand/illustrator in Shopify article",
+      "source_url": "https://www.shopify.com/partners/blog/digital-illustration",
+      "media_url": "https://cdn.shopify.com/s/files/1/0533/2089/files/digital-illustration-spar.png?v=1551118670",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "d7ad5113c1ad9072aa5dafd4636271b3eeae135ba0e6f36c53345bffac542f18",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "alice-1",
+      "artifact_id": "slack-university",
+      "title": "alice-1",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bedfbe32834e09e569ea94d_header_uni.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete transparent Slack University header shows four people around oversized stacked books, orange speech/book block, globe and plant. Warm brown skin and recognizable hair/glasses details coexist with angular stylized bodies. Saturated orange/yellow/green/turquoise/purple and dithered shadows are richer and more textured than a pastel blob stereotype. Native header950px wide; no fine type being inferred."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "996a2db3633f1a72d9861b50c35fa25391a6e3793730e23aa096f4f4281419e5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 949,
+        "height": 534
+      }
+    },
+    {
+      "record_id": "alice-2",
+      "artifact_id": "slack-tandem",
+      "title": "alice-2",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bfa004b512cb0776a126fef_header.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete large tandem-bicycle header places three riders and a dog under a huge patchwork flag. Long purple bicycle frame, transparent negative space, flat bright clothing, patterned dots and tiny naturalistic face details combine task metaphor and teamwork. Count the full scene once; recurring plant/figure components do not make every header identical."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "120d43b3fa2cc09823a3a9e096c37c9b1fc074b5178317d35fe65db1d66bbc2e",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 3360,
+        "height": 2030
+      }
+    },
+    {
+      "record_id": "alice-3",
+      "artifact_id": "alice-3",
+      "title": "alice-3",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bedfbe382d66add17ae7afb_icon_01.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete tiny native speech-bubble/house UI spot is only137x101 and has visible coarse raster/low-detail edges. It is a full original small spot, not a large work thumbnail, but too generic and limited to establish the style independently; excluded from qualifying count. No motion inferred."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "97f6b2c4794cbdc8a54c1c539faafe921358fdc15cf874b4527dec9a299fd4f4",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 137,
+        "height": 101
+      }
+    },
+    {
+      "record_id": "alice-7",
+      "artifact_id": "alice-7",
+      "title": "alice-7",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5c047d1df4cf11dd1acdcb55_dio%402x%20copy.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "A complete search illustration comparison presents a black outline sketch beside a brown-skinned person raising a green magnifier, integrated with a readable search-results UI fragment. The colored version uses turquoise brushed shirt edges and dotted green/yellow halos. Sketch/final are one design, counted once; purposeful framing around search challenges interchangeable stock decoration."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "9114566dd008cc5ddf1a93d199f84fe5f5e27a49ec0f7ce12e4bdb01818aaa68",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1674,
+        "height": 1134
+      }
+    },
+    {
+      "record_id": "alice-8",
+      "artifact_id": "alice-8",
+      "title": "alice-8",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bf76b204ae342346281ae60_footer%402x.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete potted-plant spot has an orange trapezoid pot with one yellow painterly band and long asymmetric green leaves on thin stems. Transparent ground and rough-edged layered color carry the cheerful grammar through an object/flora alone. No face or anthropomorphism, no motion; a distinct original spot rather than proof every plant icon qualifies."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "3d682a7d4ba2f3eca11b82a65ffb56fbd522c4054bd34103d4002bdb8d83e478",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 702,
+        "height": 904
+      }
+    },
+    {
+      "record_id": "alice-10",
+      "artifact_id": "alice-10",
+      "title": "alice-10",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bee129ff4d6bfabd80b56be_flying_bird.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete yellow/orange bird with raised elongated wing and a dotted grey flight-like trail uses simple overlapping masses, orange beak, tiny dark eye and a few colored dot clusters. Gesture is dynamic but the still establishes no actual movement or timing. Warm colors and visible brush/dither details depart from uniformly smooth vector claims."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "1adcc5bb1f92d8cd93b389656444d381fefa1d673b166e98c0f95622f8b2794d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1128,
+        "height": 604
+      }
+    },
+    {
+      "record_id": "alice-14",
+      "artifact_id": "slack-work-happens",
+      "title": "alice-14",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5c0478f675e85a0b5acfa7ff_homepage%402x.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete desktop homepage mockup places three gesturing people around an oversized Slack conversation/picture panel at left, with a large dark serif headline and purple CTA on the right. The roomless white field, saturated clothing, organic cut shapes and screen-as-stage are distinct from the tandem header. Visible still CTA is contextual evidence, not an interactive website inspection."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "1964579e1607e574ebd038a2e826992783396895eb8b3ecb9fd8fd0d8208b5ed",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2240,
+        "height": 1540
+      }
+    },
+    {
+      "record_id": "alice-16",
+      "artifact_id": "slack-about",
+      "title": "alice-16",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bfa004c4fac80b5a46cd691_header_about.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete About header arranges five people around stacked square/circle/diamond blocks, a giant plant, tablet and laptop. Yellow/green/turquoise/purple surfaces and stippled shadows create a warm staged workplace, with naturally varied skin and visible expressions rather than blank blue faces. Distinct complete composition; component reuse is part of the library, not an extra count for each person."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "aaf61b1da31a72c3e2ae56b6815d48e6941da946b2b54af4be1a45419255c1ef",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 3882,
+        "height": 1794
+      }
+    },
+    {
+      "record_id": "alice-18",
+      "artifact_id": "polaroid-spots",
+      "title": "alice-18",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bf316a74c28dd6a7c4878fb_letters_02.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete tilted white photo/card spot encloses one orange semicircle and a dotted turquoise diagonal landscape. Rough brushy edges and soft grey shadow are visible. Retained as a generic geometric spot boundary; insufficiently specific alone to qualify as Corporate Memphis."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "cf88bd11384d7576ca5b198fc42a6668e0e8031e5c0f0e502e72f4e5a08e991f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1466,
+        "height": 1092
+      }
+    },
+    {
+      "record_id": "alice-19",
+      "artifact_id": "polaroid-spots",
+      "title": "alice-19",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bf316394c28dd05894878d2_letters_01.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete pair of tilted photo/card spots uses a dotted turquoise quarter-circle and yellow stripe above, green rolling hill and yellow sun below. Same simple photo-spot family as previous; no separate qualification from recoloring/rearranging generic primitives. One sheet of two cards, not two scene works."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "b86273c5a2df2464503776ec2d8ad2dd5823d5449067c42eca0c6f8c87e0f287",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 965,
+        "height": 789
+      }
+    },
+    {
+      "record_id": "alice-20",
+      "artifact_id": "alice-20",
+      "title": "alice-20",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5c0481be9f4b6e97e6097951_status_03%402x.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": false,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete small native bus-in-speech-bubble spot uses yellow vehicle, turquoise windows and purple wheels. The268px original is a complete UI spot, not a search preview; nevertheless too generic and low-detail to independently establish the aesthetic. Excluded without inflating count."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "56c6eddf63eadba72e002c68cdc23354030e39b492214b5a94219b2814c52556",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 268,
+        "height": 192
+      }
+    },
+    {
+      "record_id": "alice-21",
+      "artifact_id": "alice-21",
+      "title": "alice-21",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bff5d5e0aa1b3fdf3e03832_why_slack.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete Why Slack sheet has one large creative-collaboration header and three related smaller product scenes. Camera, chart, flipbook, palette, giant paper trail and data cards make informational work tangible; natural skin, expressive faces, rough outlines, dots and orange/green/yellow/purple accents connect the collection. Count whole sheet once; smaller scenes not extracted to pad count."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "31cf61cc36d030a93c584540384ea850ce78e0c9827af3e8d2a7bc7d87a852ba",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 3063,
+        "height": 2653
+      }
+    },
+    {
+      "record_id": "alice-22",
+      "artifact_id": "alice-22",
+      "title": "alice-22",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bff5d5e52e01027b05ce0c9_homepage02.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete variant homepage scene places four people and a dog around oversized orange/yellow/green/purple notes carrying hand-drawn line/bar charts and a triangle. A flat white ground with dithered edges and upward overlaps stages a collaborative task. Independent composition from the screen/panel homepage even though both use the same library; one whole work."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "58c5f394e68c1a15b61bf0eae97cde66cd9c1fb116310638de871ec595f9a9b6",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2651,
+        "height": 2157
+      }
+    },
+    {
+      "record_id": "alice-23",
+      "artifact_id": "slack-work-happens",
+      "title": "alice-23",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bff5d5df9023cc455badd17_homepage01.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete illustration version of the Work Happens homepage has the same three gesturing people, large conversation/chart interface and dotted floor as the previously inspected webpage mockup, with changed costume coloring/arrangement. Grouped as one underlying homepage artwork/application; zero extra qualifying work."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "ef3f7c2d53727b9443c28b5b920b874dfba605d6a21c8b1b734cbc178e6f5b36",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2607,
+        "height": 1941
+      },
+      "duplicate_of": "alice-14"
+    },
+    {
+      "record_id": "alice-24",
+      "artifact_id": "slack-university",
+      "title": "alice-24",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bff5d5f34268fdbae7d231b_slack_university.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full University header-and-spots sheet repeats the already inspected four-person book/globe scene, adding two smaller educational spots. The main underlying composition matches alice1 exactly. Repeated full/sheet presentation adds contextual variants but no extra unique family count; smaller scenes are not cropped into separate works."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "dad188299e0310c49980041399f6b2eb5932d58056a3ffccfea4549d7b9c782a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2921,
+        "height": 2740
+      },
+      "duplicate_of": "alice-1"
+    },
+    {
+      "record_id": "alice-25",
+      "artifact_id": "slack-security",
+      "title": "alice-25",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bff5d5c3ff48d69d24c13a7_security.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete IT/Security sheet places a thinking worker and two seated colleagues under a maze of pipes connecting check, shield, lock and umbrella badges. Lower book/monitor spots repeat the protection idea. Turquoise/green/purple/yellow and dithered fills soften a technical subject; the diagram is illustrative, not a tested security architecture. One complete sheet."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "af1b41a6cf8c2dd4a334971cdf51919b6b853829ab9403b50b352f8e8883fd7c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2481,
+        "height": 2325
+      }
+    },
+    {
+      "record_id": "alice-26",
+      "artifact_id": "slack-security",
+      "title": "alice-26",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5c04880054fdeaa19521c52a_spots_02%402x.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete four-panel object strip includes yellow guidebook, purple lock book, identity booklet and syntax-colored terminal. The purple security book is the same protected-book spot included in the security sheet, and the other tiny library components are not treated as independent new scene families. This additional library version supplies type/object contrast but adds no count."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "d369c2c739a35ca21dca6c287efe1104dd5efc0ff8183a94fdb7ad7c007f4fba",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 7460,
+        "height": 1490
+      },
+      "duplicate_of": "alice-25"
+    },
+    {
+      "record_id": "alice-28",
+      "artifact_id": "slack-about",
+      "title": "alice-28",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bedfbe3bab9efa226ea1458_mobile_about.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete narrow mobile mockup uses the left two people and stacked circle/diamond/square from the About header, followed by serif statistics. It is the responsive application of the same artwork, grouped with alice16. Useful evidence that composition is adapted rather than merely uniformly scaled; still not a live responsive interaction."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "6a3498ff1539bea98b1c8bad710b771ca12c366c087099a9ca1fade95c42578b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 477,
+        "height": 963
+      },
+      "duplicate_of": "alice-16"
+    },
+    {
+      "record_id": "alice-29",
+      "artifact_id": "alice-29",
+      "title": "alice-29",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5c04822254fdea904c21c2c7_blobs.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete assorted-component sheet combines familiar plant/bird motifs with dot-textured blobs, ring, triangle and tilted dashes. Because many components repeat already inspected illustrations and the remaining simple shapes are generic, this sheet is retained as modular-system evidence without an extra independent qualifying work."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "88e20dd26f485849b6c9c9553ea8dd94e1effe49a25ceb0978aaabd5dbb20b9f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2621,
+        "height": 2338
+      }
+    },
+    {
+      "record_id": "alice-30",
+      "artifact_id": "alice-30",
+      "title": "alice-30",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5c0489ba90375e3d38528527_spots_03.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete UI-spot sheet repeats the previously inspected photo cards, tiny bus and house and adds envelope/doc/chart/speech symbols. Shared raster edges, dots, floating shallow shadows and warm accents are useful observations; do not count each stock-like symbol or the recombined library sheet as new independent work."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "a83aedf96e52ca794b64083383613db6e3ce2a9fa34c4572073e903b97a66073",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 3189,
+        "height": 1713
+      }
+    },
+    {
+      "record_id": "alice-31",
+      "artifact_id": "alice-31",
+      "title": "alice-31",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://byalicelee.webflow.io/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bee129da69edd4b12c57c0a_blob02.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "eb30040517c3ae98caf95330875394e11495d111ded5b691144436b1bc9df4c7",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "alice-32",
+      "artifact_id": "alice-32",
+      "title": "alice-32",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://byalicelee.webflow.io/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bee129d7867686cd070d6b6_blob06.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "02de397adad84043e502de4b93813d4625340739f16b6397255759a8008f0bf7",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "alice-33",
+      "artifact_id": "alice-33",
+      "title": "alice-33",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://byalicelee.webflow.io/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bee129cf4d6bfe9f90b56bc_blob03.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "f0b16a2f33afa446fa05f0e83ecc5f2d1c09b8d18ef5575274e75ee6ad60ea43",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "alice-34",
+      "artifact_id": "alice-34",
+      "title": "alice-34",
+      "creator": "Alice Lee, Slack2017 library; project credits Slack/Ueno",
+      "source_url": "https://www.byalicelee.com/slack",
+      "media_url": "https://cdn.prod.website-files.com/5bc8ec0a2f93635b4cb3d3cb/5bf31639aea4deb1a7f48485_spot_envelopes.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete envelope/postcard spot repeats exactly the yellow postcard and white envelope shown centrally in alice30. It confirms rough brush line and dotted shadow at larger detail, but remains a duplicate component view and adds zero qualifying works."
+        }
+      ],
+      "handling": "Private analytical inspection only; no production reuse",
+      "rights": "Underlying creator/brand copyright retained; no general reuse clearance inferred",
+      "sha256": "2566eaa250ff39838d12aeef83691b19d6b440aefbadb54e4dfcd69ca3123ec5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1604,
+        "height": 1304
+      }
+    },
+    {
+      "record_id": "humaaans-0",
+      "artifact_id": "humaaans-character-family",
+      "title": "Humaaans creator example 0",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c001deda8e61a2c3ad905e5_hero-4.svg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete inverted hero figure has long blue legs, pale turquoise flared coat, brown skin and a very small navy-haired head. Smooth unoutlined vector masses and limited tonal panels differ from textured Alegria; the dynamic pose is still, not timing evidence. The four hero figures are sampled components from one modular Humaaans family, conservatively counted once."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "7368cc58a3af7e6f18fde640acfc97bd79f39c4e97debb2e28479d87e4aaa57f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 1200,
+        "height": 1785
+      },
+      "render_note": "Complete native vector rasterized at1200px width for analytical inspection; this is not claimed to be native raster resolution."
+    },
+    {
+      "record_id": "humaaans-1",
+      "artifact_id": "humaaans-character-family",
+      "title": "Humaaans creator example 1",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c0080fe9e397d3325abcf93_hero-1.svg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete forward-striding figure has cobalt skirt, navy jacket, pale shirt, brown skin, small featureless face and large asymmetric dark hair. Angular coat planes and extremely simplified hands/feet emphasize gesture; one modular character family already counted, not a new work for hair/clothes/pose variation."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "4bf61328fc9bf414ba18a06f95f30776426574070d1eb13ca9edec2918ccc865",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1200,
+        "height": 1659
+      },
+      "render_note": "Complete native vector rasterized at1200px width for analytical inspection; this is not claimed to be native raster resolution.",
+      "duplicate_of": "humaaans-0"
+    },
+    {
+      "record_id": "humaaans-2",
+      "artifact_id": "humaaans-character-family",
+      "title": "Humaaans creator example 2",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c00fa3ad82b40e853c9952f_hero-3.svg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete walking figure has a curved orange jacket, broad pale-blue trousers, tiny brown head and streaming navy ponytail. Flat overlap and a darker pant plane create restrained depth, with white geometric shoes. Same modular family; no extra unique count or claim that all Corporate Memphis figures have blank faces."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "c5356c3123cd7f9e421bdae882efd59ee292dc275cd3a2622f07bc1670b85a15",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1200,
+        "height": 1533
+      },
+      "render_note": "Complete native vector rasterized at1200px width for analytical inspection; this is not claimed to be native raster resolution.",
+      "duplicate_of": "humaaans-0"
+    },
+    {
+      "record_id": "humaaans-3",
+      "artifact_id": "humaaans-character-family",
+      "title": "Humaaans creator example 3",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c00fa0eb8b0816e1a10dfe6_hero-2.svg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete running figure combines a wide light-grey coat, two massive red trouser shapes, tiny brown head and dark hair. White wedge shoes, simple mitten-like hands and one darker pant plane define the silhouette. Count with the same Humaaans modular family, not separately from recolored/reposed component examples."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "5d23b05de0de04f717347f129ba30c67c16e05650f6c30cac8c4c08c165470ad",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 1200,
+        "height": 1437
+      },
+      "render_note": "Complete native vector rasterized at1200px width for analytical inspection; this is not claimed to be native raster resolution.",
+      "duplicate_of": "humaaans-0"
+    },
+    {
+      "record_id": "humaaans-9",
+      "artifact_id": "humaaans-mobile-template-set",
+      "title": "Humaaans creator example 9",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c00a78fde536518e98f6ce3_example-mobile.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete three-phone onboarding/error/success template set pairs chunky navy serif headings and pill Continue controls with oversized flat figures, orange/yellow background discs and a teamwork scene including wheelchair. Simple grey UI chrome leaves a clear illustration/content hierarchy. Count whole template set once, not three screens; related template variants must be grouped."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "2d33ef39298441620a4dc67a83e20b1b1c9090bf26fdbc878dc04d29c2230a70",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2400,
+        "height": 1308
+      }
+    },
+    {
+      "record_id": "humaaans-10",
+      "artifact_id": "humaaans-marketing",
+      "title": "Humaaans creator example 10",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c008e767aefa4422c0f675d_example-marketing.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete laptop marketing mockup places huge navy serif Dope Design text and pill control beside a giant empty phone, with one red-trousered figure striding in front and a second person peeking behind. Grey tilted ground and minimal navy framing make object/figure scale playful. A separate full landing-page composition from the mobile template set, no actual CTA behavior inspected."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "1ce1c7fc0eee8e9cabb7ba0db2cfda862f5c7d9823ae9d44b9a0bef54a6dea18",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2400,
+        "height": 1308
+      }
+    },
+    {
+      "record_id": "humaaans-11",
+      "artifact_id": "humaaans-print-cards",
+      "title": "Humaaans creator example 11",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c00a7bb342cafeba2911603_example-print.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete two-card print mockup shows a floating figure carrying an oversized red heart and a second figure holding a huge beer, with scattered rectangular pastel confetti and chunky navy serif type. One paired-card composition counted once. It extends the corporate stock language to personal print, not a claim that every friendly vector image is corporate advertising."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "ef6c902ccbcb246c1068578c78aeea0e58e44ed01c649876f7caacab94613b79",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2400,
+        "height": 1308
+      }
+    },
+    {
+      "record_id": "humaaans-14",
+      "artifact_id": "humaaans-mobile-template-set",
+      "title": "Humaaans creator example 14",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c047dee75e85ada64cfab4d_Mobile%E2%80%94Success%20State.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete success-screen template places a cropped walking figure against a mint circle, then a large blue check, sans Well Done text and blue Continue bar. Distinct local state, but counted with the already inspected mobile-template family, not every message/recolored figure as a new work."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "568cba79593c8e502d592a865ff47b2e1ad6ed6287b27c9202d760c3abfc483d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 750,
+        "height": 1624
+      },
+      "duplicate_of": "humaaans-9"
+    },
+    {
+      "record_id": "humaaans-15",
+      "artifact_id": "humaaans-mobile-template-set",
+      "title": "Humaaans creator example 15",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c047dee54fdeaeec821bd9d_Mobile%E2%80%94Empty%20State.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete empty-state phone screen shows seated blue-clothed figure on a grey block against lavender/mint/pink blobs, black heading, long body copy and a large blue CTA. Essential text is outside the illustration. Same creator mobile-template family; untested still controls and no exact interaction timing."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "939220f937a30cb5e449376b28b726ed06f1c9003aa81e0bec40c8f6265df428",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 750,
+        "height": 1624
+      },
+      "duplicate_of": "humaaans-9"
+    },
+    {
+      "record_id": "humaaans-16",
+      "artifact_id": "humaaans-mobile-template-set",
+      "title": "Humaaans creator example 16",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c047deefc73fb4b94f7c9fc_Mobile%E2%80%94Onboarding.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete onboarding screen places a large turquoise-coated figure in pale botanical foliage, with simple sans message, pagination dots and blue CTA. Two-dimensional leaf planes and cropped enormous plant pot enrich the scene. Same mobile-template family, not another unique work merely because the foreground figure/background changes."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "e96d8a27240b0f33a938c2710906d9a1907a74e743961d033f4e2a1e57a7486d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 750,
+        "height": 1624
+      },
+      "duplicate_of": "humaaans-9"
+    },
+    {
+      "record_id": "humaaans-17",
+      "artifact_id": "humaaans-mobile-template-set",
+      "title": "Humaaans creator example 17",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c047dee42e49e8f470d2f34_Mobile%E2%80%94Quiz.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete quiz screen shows progress6/10, eight head/hair options and Continue. All heads share the same blank face and natural skin; hair shapes provide modular variety. A still cannot prove the selection works, and the eight components do not count as eight artworks. Group with one mobile-template family."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "eb5254c0f30a7d53b7d67c82d9b005b92fc709af75faa6e12dfb7fb72764ef34",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 750,
+        "height": 1624
+      },
+      "duplicate_of": "humaaans-9"
+    },
+    {
+      "record_id": "humaaans-18",
+      "artifact_id": "humaaans-biophilic-section",
+      "title": "Humaaans creator example 18",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c047dee42e49e81ba0d2f36_Web%E2%80%94Section%20Left.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete white web-section mockup places two huge flat figures exchanging a blue image card in front of a grey conversation panel, with pale botanical corners. Navy sans headline/body and a generous right text zone differ from the illustration. Red/blue clothing and friendly gesture make image exchange legible; illustrative Biophilic Design copy is not adopted as scientific evidence. An independently composed full scene, one work."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "a2972358c7a1d41f1ea408ef64e3460b98cffaf768e91caf8dab632c7ff05bec",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 2400,
+        "height": 1776
+      }
+    },
+    {
+      "record_id": "humaaans-19",
+      "artifact_id": "humaaans-marketing",
+      "title": "Humaaans creator example 19",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c047dee758853b7cd07f180_Web%E2%80%94Hero.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full hero webpage mockup reuses the large phone-and-two-figures marketing structure already inspected: navy heading, giant blue phone, small red-clothed person and larger figure emerging in front of a pale disc. Recolored/reposed library application grouped conservatively with the earlier marketing mockup. Fitts-law copy is illustrative text, not verified scientific guidance."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "5a8fd83771a790589bd6401247bd134188c1327c5fa81aafef6e710328cdd79a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2400,
+        "height": 1776
+      },
+      "duplicate_of": "humaaans-10"
+    },
+    {
+      "record_id": "humaaans-20",
+      "artifact_id": "humaaans-mobile-template-set",
+      "title": "Humaaans creator example 20",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c047dee74a7d62dc3066f1e_Web%E2%80%94Section%20Right.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full split white/cobalt web section stages a seated wheelchair user and standing gesturing person, related to the Team Work mobile example. Modern sans text and two faux choice buttons occupy the left; no real interaction inspected. Group the related teamwork template application rather than claiming a new work for a changed character wardrobe/crop."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "ff3e3e574ce984ce3fd64da90eee66fd046fdf279d6cbd94448b7c8d10bf4995",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2400,
+        "height": 1776
+      },
+      "duplicate_of": "humaaans-9"
+    },
+    {
+      "record_id": "humaaans-21",
+      "artifact_id": "humaaans-mobile-template-set",
+      "title": "Humaaans creator example 21",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c047dee42e49e37820d2f35_Web%E2%80%94Features.webp",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Full three-feature webpage section repeats the circular character treatment from the success template, now three variants above navy labels and body copy. Uncanny Valley and named robotics text is placeholder-like source content, not factual research evidence. Same template family; no separate count for three portraits."
+        }
+      ],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "c4fac9d017ef499198f382e5a9a9ba88336798cad31b108264a11d60c0221db6",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 2400,
+        "height": 1776
+      },
+      "duplicate_of": "humaaans-9"
+    },
+    {
+      "record_id": "humaaans-22",
+      "artifact_id": "humaaans-22",
+      "title": "Humaaans creator example 22",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c00621b7aefa4f9ee0f4303_wide-shot.svg",
+      "accessed_at": "2026-11-13",
+      "media_type": "still",
+      "inspection": "uninspected",
+      "review_status": "unresolved",
+      "source_verified": false,
+      "detail_legible": false,
+      "observations": [],
+      "handling": "Private analytical download/render only; no production reuse",
+      "rights": "Creator page offers CC0; research image not shipped",
+      "sha256": "28f27309347ea05d6b88149d0edd9ed2ba2aff4269e0e6b07412b605e345aee8",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "humaaans-playback-0",
+      "artifact_id": "humaaans-character-family",
+      "title": "Humaaans modular demonstration 1",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c006187d9549d3368158d3d_mixes.gif",
+      "accessed_at": "2026-11-13",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "duplicate_of": "humaaans-0",
+      "source_verified": true,
+      "detail_legible": true,
+      "timestamps": [
+        "Three browser samples at0.9-second wall-clock intervals after scroll/decode; GIF phase was already running and absolute source-frame timestamp unknown"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Complete wide animation holds a mint circular center and three figure placements while hair, coats, trousers, color and stride/body components switch between samples. The center person changes from white coat/standing to blue coat/bent-knee stride to orange coat/straight-leg stride. This is modular replacement, not evidence all illustrations gently bob or that the underlying source timing equals the sample interval."
+        }
+      ],
+      "handling": "Actual public GIF playback in creator page, private analytical screenshots only; no production reuse",
+      "rights": "Creator offers CC0; none shipped",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "humaaans-playback-1",
+      "artifact_id": "humaaans-character-family",
+      "title": "Humaaans modular demonstration 2",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c0061a47aefa4500f0f42d1_rotating-mixing-optimized.gif",
+      "accessed_at": "2026-11-13",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "duplicate_of": "humaaans-0",
+      "source_verified": true,
+      "detail_legible": true,
+      "timestamps": [
+        "Three samples at0.9-second wall-clock intervals; absolute source GIF phase unknown"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Actual browser playback of an editor-demonstration GIF keeps standing and seated figures in place, while an open Document Library menu and selection bounding box show the left body changing from navy jacket to orange hoodie to red turtleneck. This is recorded modular editing, not a live editable website state or universal character animation timing."
+        }
+      ],
+      "handling": "Actual public GIF playback in creator page, private analytical screenshots only; no production reuse",
+      "rights": "Creator offers CC0; none shipped",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false
+    },
+    {
+      "record_id": "humaaans-playback-2",
+      "artifact_id": "humaaans-mobile-template-set",
+      "title": "Humaaans modular demonstration 3",
+      "creator": "Pablo Stanley / Humaaans",
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5bff98f85ea7faf86504605e_scenes.gif",
+      "accessed_at": "2026-11-13",
+      "media_type": "video",
+      "inspection": "timed-playback",
+      "review_status": "duplicate",
+      "duplicate_of": "humaaans-9",
+      "source_verified": true,
+      "detail_legible": true,
+      "timestamps": [
+        "Three samples at0.9-second wall-clock intervals; absolute source GIF phase unknown"
+      ],
+      "observations": [
+        {
+          "dimensions": [
+            "motion",
+            "shape",
+            "spatial",
+            "cultural-markers"
+          ],
+          "observation": "Actual browser playback keeps the wheelchair user and standing colleague fixed while background changes from large botanical scenery to lamps/clock/plant interior to browser panels/charts and plants. The foreground is intentionally static across swaps; this demonstrates modular scenery changes rather than a continuously bobbing character."
+        }
+      ],
+      "handling": "Actual public GIF playback in creator page, private analytical screenshots only; no production reuse",
+      "rights": "Creator offers CC0; none shipped",
+      "downloaded": false,
+      "generated": false,
+      "qualifying_example": false
+    }
+  ],
+  "failed_routes": [
+    {
+      "source_url": "https://undraw.co/illustrations",
+      "reason": "Public page loaded but10 selected cdn.undraw.co illustration SVG routes returned HTTP403; no playback/inspection; not included in qualifying count."
+    }
+  ],
+  "motion_inspections": [
+    {
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c006187d9549d3368158d3d_mixes.gif",
+      "inspection": "timed-playback",
+      "interval": "Three browser samples at0.9-second wall-clock intervals after scroll/decode; GIF phase was already running and absolute source-frame timestamp unknown",
+      "observations": "Complete wide animation holds a mint circular center and three figure placements while hair, coats, trousers, color and stride/body components switch between samples. The center person changes from white coat/standing to blue coat/bent-knee stride to orange coat/straight-leg stride. This is modular replacement, not evidence all illustrations gently bob or that the underlying source timing equals the sample interval.",
+      "group": "humaaans-character-family",
+      "qualifying_extra_count": 0
+    },
+    {
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5c0061a47aefa4500f0f42d1_rotating-mixing-optimized.gif",
+      "inspection": "timed-playback",
+      "interval": "Three samples at0.9-second wall-clock intervals; absolute source GIF phase unknown",
+      "observations": "Actual browser playback of an editor-demonstration GIF keeps standing and seated figures in place, while an open Document Library menu and selection bounding box show the left body changing from navy jacket to orange hoodie to red turtleneck. This is recorded modular editing, not a live editable website state or universal character animation timing.",
+      "group": "humaaans-character-family",
+      "qualifying_extra_count": 0
+    },
+    {
+      "source_url": "https://www.humaaans.com/",
+      "media_url": "https://cdn.prod.website-files.com/5bff8886c3964a992e90d465/5bff98f85ea7faf86504605e_scenes.gif",
+      "inspection": "timed-playback",
+      "interval": "Three samples at0.9-second wall-clock intervals; absolute source GIF phase unknown",
+      "observations": "Actual browser playback keeps the wheelchair user and standing colleague fixed while background changes from large botanical scenery to lamps/clock/plant interior to browser panels/charts and plants. The foreground is intentionally static across swaps; this demonstrates modular scenery changes rather than a continuously bobbing character.",
+      "group": "humaaans-mobile-template-set",
+      "qualifying_extra_count": 0
+    }
+  ],
+  "summary": {
+    "records": 77,
+    "still_full_media_inspections": 63,
+    "qualifying_unique_artifacts": 30,
+    "source_distribution": {
+      "BUCK_Alegria": 12,
+      "Alice_Lee_Slack": 10,
+      "Atlassian": 3,
+      "Humaaans": 5
+    },
+    "timed_GIF_playbacks": 3,
+    "extra_motion_unique_count": 0,
+    "uninspected_downloaded_leads": 11,
+    "unDraw_failed_SVG_routes": 10,
+    "counting": "Full asset sheets/template sets count once; repeated guide pages, resized/mobile versions and reused components grouped; precursor icons, generic small spots and AR photograph excluded. Thirty audited independent qualifying works, not thirty people or crops."
+  }
+}

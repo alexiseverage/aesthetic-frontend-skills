@@ -1,0 +1,1638 @@
+{
+  "media": [
+    {
+      "record_id": "mid-century-modern-01",
+      "artifact_id": "artic-61579",
+      "source_url": "https://www.artic.edu/artworks/61579",
+      "media_url": "https://www.artic.edu/iiif/2/fb72b981-2cbd-3694-7611-b28635847454/full/843,/0/default.jpg",
+      "title": "Screen",
+      "creator": "Charles Eames",
+      "date": "1946/48",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A tall folding wood screen has repeated broad curved panels and pronounced vertical grain. The scalloped floor edge gives a severe rectangular object an organic rhythm; the adjacent chair is contextual and not an additional artifact count."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "73fb9f0116e2ef96e9886cf2cd3f33c1c88defbc2d2cc17a81c4b46bc4ab8471",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 655
+      }
+    },
+    {
+      "record_id": "mid-century-modern-02",
+      "artifact_id": "artic-154489",
+      "source_url": "https://www.artic.edu/artworks/154489",
+      "media_url": "https://www.artic.edu/iiif/2/559c1ce1-596a-0f77-08ee-e713c0578f4b/full/843,/0/default.jpg",
+      "title": "Lounge Chair and Ottoman",
+      "creator": "Charles Eames",
+      "date": "1956",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black tufted leather cushions sit inside separate warm-grained bent shells. The reclined chair and matching ottoman use dark five/four-point metal bases; soft upholstery, exposed wood edges and metal coexist rather than imposing a single natural material."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "501f7cd77bb76638d9dbef2ee9e96246776cef8d331119190184330fd634fa8d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 666
+      }
+    },
+    {
+      "record_id": "mid-century-modern-03",
+      "artifact_id": "artic-158242",
+      "source_url": "https://www.artic.edu/artworks/158242",
+      "media_url": "https://www.artic.edu/iiif/2/78e404de-bd54-3638-c0f9-dd84ba1d8c6d/full/843,/0/default.jpg",
+      "title": "Chaise",
+      "creator": "Charles Eames",
+      "date": "1968",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A very long low chaise uses a thin dark metal frame beneath several separate dark padded sections. One inclined end and two small raised cushions break its mostly horizontal profile; no wood or mustard/orange accent is visible."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "5cf216c4e222947e69bb7a89241385f13560b25efac4d62021c6fbaaa61816b3",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 704
+      }
+    },
+    {
+      "record_id": "mid-century-modern-04",
+      "artifact_id": "artic-51406",
+      "source_url": "https://www.artic.edu/artworks/51406",
+      "media_url": "https://www.artic.edu/iiif/2/9c88a1d8-44ca-1c26-0a64-cc1226997d98/full/843,/0/default.jpg",
+      "title": "Rocking Armchair (model RAR)",
+      "creator": "Charles Eames",
+      "date": "designed 1950",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale molded bucket seat with continuous arms rests on a thin triangulated black-wire frame and two warm wood rocking runners. Material contrasts and negative space beneath the seat make the structure visually light."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "540dd6ecfb559e951a3c3367afd4c63ea65e22a67ea524ac613d5954870f1c5d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 843
+      }
+    },
+    {
+      "record_id": "mid-century-modern-05",
+      "artifact_id": "artic-34080",
+      "source_url": "https://www.artic.edu/artworks/34080",
+      "media_url": "https://www.artic.edu/iiif/2/ea58e828-ffd2-c35b-2c06-5b2bf80710d6/full/843,/0/default.jpg",
+      "title": "Dining Chair (model DCW)",
+      "creator": "Charles Eames",
+      "date": "1946",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A molded wood chair separates rounded rectangular back and scooped seat on broad bent legs. Continuous honey-colored grain remains visible, with rounded edges and a slight outward splay rather than ornament."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "4d2ff07fb5d6001504f67239ed28283e8ea1ccb7395744904af4deb9a6f44ba2",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1098
+      }
+    },
+    {
+      "record_id": "mid-century-modern-06",
+      "artifact_id": "artic-196168",
+      "source_url": "https://www.artic.edu/artworks/196168",
+      "media_url": "https://www.artic.edu/iiif/2/c7f4dbf8-6e59-416a-bfe6-1224d6564d3e/full/843,/0/default.jpg",
+      "title": "Leg Splint",
+      "creator": "Charles Eames",
+      "date": "c. 1942",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A long molded wooden medical leg splint has large slotted openings and shaped edge cutouts. It helps explain a technical/material precursor, but is excluded from the domestic-aesthetic corpus rather than counted solely because it is by Eames."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "bb10c74a4312bcbf4674b949f4cd4c6b37ffa5d5594372a67127687672e55385",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "resolution": {
+        "width": 843,
+        "height": 2242
+      }
+    },
+    {
+      "record_id": "mid-century-modern-07",
+      "artifact_id": "artic-201743",
+      "source_url": "https://www.artic.edu/artworks/201743",
+      "media_url": "https://www.artic.edu/iiif/2/f9f14b41-2ee4-799d-8737-244a31fc6a77/full/843,/0/default.jpg",
+      "title": "Dining Chair (model DCW)",
+      "creator": "Charles Eames",
+      "date": "1946",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A second DCW example repeats the separate curved back/seat and bent legs, with changed grain and angle. Count this underlying chair design with record 05; different museum accessions do not create a new design."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "f1d69387d1b3e7db851dcb35e97eff90c6f1884495aeddbe5f76de58bfd0998a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "duplicate_of": "mid-century-modern-05",
+      "resolution": {
+        "width": 843,
+        "height": 1075
+      }
+    },
+    {
+      "record_id": "mid-century-modern-08",
+      "artifact_id": "artic-51402",
+      "source_url": "https://www.artic.edu/artworks/51402",
+      "media_url": "https://www.artic.edu/iiif/2/f438ea57-9d36-83aa-8b51-7c0f4e10c745/full/843,/0/default.jpg",
+      "title": "Side Chair (model DKR)",
+      "creator": "Charles Eames",
+      "date": "designed 1951; made 1951–1967",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A dark wire mesh chair shell and triangulated wire base are interrupted by one slim black seat pad. The regular grid and open edges carry industrial lightness; the silhouette stays curved without wood grain."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "cbf80a479c6cb40f898d67c72f7daccb35ca91f89f02f19fa2e4aefb951fa61c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 843
+      }
+    },
+    {
+      "record_id": "mid-century-modern-09",
+      "artifact_id": "artic-35305",
+      "source_url": "https://www.artic.edu/artworks/35305",
+      "media_url": "https://www.artic.edu/iiif/2/2340ba16-8262-cc12-b8f8-40579801f997/full/843,/0/default.jpg",
+      "title": "Lounge Chair (model LCW)",
+      "creator": "Charles Eames",
+      "date": "designed 1945; made 1946/49",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The low LCW lounge chair has a broad scooped seat, separate rounded back and bent splayed legs in visible warm wood. It is a separately identified lounge model from the taller dining DCW; the close design relationship is recorded rather than inferred from color."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "b7a047d30530c1e45ee6b5a4e36edd6f58cf9378916f45282ef87c23c5f6903e",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1082
+      }
+    },
+    {
+      "record_id": "mid-century-modern-10",
+      "artifact_id": "artic-93949",
+      "source_url": "https://www.artic.edu/artworks/93949",
+      "media_url": "https://www.artic.edu/iiif/2/98004dc1-7871-7543-2b30-7aa97ff416cf/full/843,/0/default.jpg",
+      "title": "Table (model LTR)",
+      "creator": "Charles Eames",
+      "date": "1952",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A low almost-square wood slab with rounded corners sits above a thin open metal-wire cross-braced base. The contrast between solid top and skeletal base creates lightness without a tapered wooden leg."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "aea0abb77abb17c41dff88dad18d5af85235c421fb59e3538cca4f74493fcf08",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 665
+      }
+    },
+    {
+      "record_id": "mid-century-modern-11",
+      "artifact_id": "artic-105108",
+      "source_url": "https://www.artic.edu/artworks/105108",
+      "media_url": "https://www.artic.edu/iiif/2/c0c1eac1-671f-372f-130d-ab25477d24ba/full/843,/0/default.jpg",
+      "title": "Coconut Chair",
+      "creator": "George Nelson",
+      "date": "1955",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A bright red upholstered triangular curved shell forms the seat and back as one concave wedge, supported on slender three-point metal legs with diagonal braces. Saturated color is concentrated in the functional body rather than used as arbitrary background decoration."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "f2d7ac3a8db21db2e5661310fcaf74a617813d44389f5ac50542ed81883a3f7d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1061
+      }
+    },
+    {
+      "record_id": "mid-century-modern-12",
+      "artifact_id": "artic-158243",
+      "source_url": "https://www.artic.edu/artworks/158243",
+      "media_url": "https://www.artic.edu/iiif/2/f9baca56-a807-2cf7-0be2-a6ea1270471e/full/843,/0/default.jpg",
+      "title": "Action Office Wall-Mounted Desk",
+      "creator": "George Nelson",
+      "date": "1964",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A wall-mounted desk combines two vertical rails, dark side panels, a shallow upper shelf and a projecting warm wood writing surface. Repeated rails and compact storage make modular organization visible; the object is rectilinear, not kidney-shaped."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "a72bc66b1acefff9a6a9517cd4a163e46e07c46dec3af718847ef055fbbe389e",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1051
+      }
+    },
+    {
+      "record_id": "mid-century-modern-13",
+      "artifact_id": "artic-236441",
+      "source_url": "https://www.artic.edu/artworks/236441",
+      "media_url": "https://www.artic.edu/iiif/2/cbb30a27-84ae-65cc-420a-5d0e5e4139a1/full/843,/0/default.jpg",
+      "title": "Basket Wall Clock (model no. 2215)",
+      "creator": "George Nelson",
+      "date": "designed 1952; manufactured 1952/60",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A large round woven basket-like clock face uses black dot hour markers, a dark center and contrasting pale hands. Visible open weave and concentric construction supply texture, while the time display avoids ornate numerals."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "ae5c6c1d1816b2ed7da99f34463289632c8fc51f1bb1bba27081348caa420f1c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 843
+      }
+    },
+    {
+      "record_id": "mid-century-modern-14",
+      "artifact_id": "artic-52273",
+      "source_url": "https://www.artic.edu/artworks/52273",
+      "media_url": "https://www.artic.edu/iiif/2/7c204e30-b4b3-1249-b1f9-f0a318bfb1c3/full/843,/0/default.jpg",
+      "title": "Platform Bench",
+      "creator": "George Nelson",
+      "date": "1946 (designed)\n1946/67 (manufactured)",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A long pale wood bench uses closely spaced parallel slats crossed by three broad braces. Two black rectangular open-frame supports lift it above the floor; repeated straight lines and strong material contrast dominate."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "e78d89dbf05ecddc08b49354a83cac9465db46a686299e45176247925c125360",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 422
+      }
+    },
+    {
+      "record_id": "mid-century-modern-15",
+      "artifact_id": "artic-105106",
+      "source_url": "https://www.artic.edu/artworks/105106",
+      "media_url": "https://www.artic.edu/iiif/2/752df4d2-664b-9a7b-b279-8e5e3efc932c/full/843,/0/default.jpg",
+      "title": "Table",
+      "creator": "George Nelson",
+      "date": "1967",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A transparent square glass tabletop with softened corners exposes a polished metal crossing framework below. Thin rods brace broader supports around a central joint; shiny industrial material is a legitimate variant of the warm wood stereotype."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "0214dfb5343e3cb82bbc303f3fae04b1c149420a5e35e824a19e346adc4f41d5",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 519
+      }
+    },
+    {
+      "record_id": "mid-century-modern-16",
+      "artifact_id": "artic-103349",
+      "source_url": "https://www.artic.edu/artworks/103349",
+      "media_url": "https://www.artic.edu/iiif/2/7ac12976-0d43-0703-77d7-60f4ddd2435e/full/843,/0/default.jpg",
+      "title": "Swag Leg Armchair",
+      "creator": "George Nelson",
+      "date": "designed 1956; made 1958/64",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two differently colored molded shell sections form an open-backed armchair. Pale seat and charcoal back have curved edges, while a central polished support divides into four bent legs; the open waist keeps the object light."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "cd2c70335c31d66dd7d07478774eea127b9e69d65383663d4bf9896b041d6e38",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1012
+      }
+    },
+    {
+      "record_id": "mid-century-modern-17",
+      "artifact_id": "artic-105107",
+      "source_url": "https://www.artic.edu/artworks/105107",
+      "media_url": "https://www.artic.edu/iiif/2/5b683211-9ed4-bd61-909f-cd2c3a52c058/full/843,/0/default.jpg",
+      "title": "Settee",
+      "creator": "George Nelson",
+      "date": "1967",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A deep blue rectangular upholstered settee has a straight long seat, slightly inclined back, one row of small buttons and thin polished legs. Large quiet planes and restrained details coexist with a saturated color field."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "6dcd1db8526b2428d63f01e63fc2fe58ed9e3261d24592482d4b3234f1fcd052",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 568
+      }
+    },
+    {
+      "record_id": "mid-century-modern-18",
+      "artifact_id": "artic-35665",
+      "source_url": "https://www.artic.edu/artworks/35665",
+      "media_url": "https://www.artic.edu/iiif/2/72b043b2-f922-bf9e-63db-fea0c7d12898/full/843,/0/default.jpg",
+      "title": "Tulip Armchair",
+      "creator": "Eero Saarinen",
+      "date": "1955/57",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A white continuous molded armchair shell narrows into a flared pedestal foot, with one round red patterned cushion. A matching side table appears beside it, but this record counts only the catalogued chair design."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "44913da3214b2dcb5003b8452b62f2c087dbab2c5d1f6dcdfc55e671df5dcc87",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 655
+      }
+    },
+    {
+      "record_id": "mid-century-modern-19",
+      "artifact_id": "artic-44924",
+      "source_url": "https://www.artic.edu/artworks/44924",
+      "media_url": "https://www.artic.edu/iiif/2/68294db9-c97a-0f4f-a704-f72f3be7512d/full/843,/0/default.jpg",
+      "title": "Womb Chair",
+      "creator": "Eero Saarinen",
+      "date": "1948",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A broad rounded armchair encloses separate seat/back cushions in brown-and-cream cowhide. Thin dark rod legs support the shell. Organic contour and animal-pattern upholstery challenge any claim of universally flat solid fabric."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "a87f1b6e1a345c6d240671d89d051f41e14cb1145ad40624a3c99d02575cb25a",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 833
+      }
+    },
+    {
+      "record_id": "mid-century-modern-20",
+      "artifact_id": "artic-105110",
+      "source_url": "https://www.artic.edu/artworks/105110",
+      "media_url": "https://www.artic.edu/iiif/2/a18ed059-8d23-3875-de6e-20b522517313/full/843,/0/default.jpg",
+      "title": "Table",
+      "creator": "Eero Saarinen",
+      "date": "1955/57",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A round pale marble tabletop joins a slender white central stem that broadens continuously into a disk foot. Veining gives the surface subtle irregularity; a single pedestal replaces multiple legs."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "aa3c5cd0dd5392ac92bbf74fa68ffd73e48e4141303ec28942e9a59e1beb1fad",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1049
+      }
+    },
+    {
+      "record_id": "mid-century-modern-21",
+      "artifact_id": "artic-51409",
+      "source_url": "https://www.artic.edu/artworks/51409",
+      "media_url": "https://www.artic.edu/iiif/2/9e07aafb-d18d-55fc-dcca-fb46e6855776/full/843,/0/default.jpg",
+      "title": "Stool (model 152)",
+      "creator": "Eero Saarinen",
+      "date": "designed 1956\nmade 1974",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A compact black circular upholstered stool sits on a white central stem and broad flared foot. The distinct stool function/model is retained; its shared pedestal vocabulary is not evidence for a second table design."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "883607c07180db26dfb4342e3acc8b111d222d1eed18ab64fc5cae242a01d888",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 972
+      }
+    },
+    {
+      "record_id": "mid-century-modern-22",
+      "artifact_id": "artic-51412",
+      "source_url": "https://www.artic.edu/artworks/51412",
+      "media_url": "https://www.artic.edu/iiif/2/5ed80e92-bb1d-5524-6321-f8ce2e3e74fd/full/843,/0/default.jpg",
+      "title": "Table (model 161 F)",
+      "creator": "Eero Saarinen",
+      "date": "Designed 1957; made 1957/76",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A warm wooden circular tabletop sits on the same continuous white pedestal vocabulary as record 20. Conservatively group this table-family material/size variant with the marble table rather than inflate distinct design counts."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "64f0fcc65fcd1588aad446b489fc68c678f44eda7213dab655634352c05b7adc",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "duplicate_of": "mid-century-modern-20",
+      "resolution": {
+        "width": 843,
+        "height": 820
+      }
+    },
+    {
+      "record_id": "mid-century-modern-23",
+      "artifact_id": "artic-158227",
+      "source_url": "https://www.artic.edu/artworks/158227",
+      "media_url": "https://www.artic.edu/iiif/2/c9906d24-7f15-7b7d-9531-e962a81c6ec6/full/843,/0/default.jpg",
+      "title": "Armchair",
+      "creator": "Eero Saarinen",
+      "date": "Designed 1948; manufactured 1948–72",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A black upholstered armchair has a continuous curving back/arm band, a separate round seat and a large open back gap. Four broad splayed legs and visible seams replace the tulip family's single pedestal."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "a976bb93522cfe6aeaddde8678158e09dceeb92134000bac56767bc87ab20ff3",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1088
+      }
+    },
+    {
+      "record_id": "mid-century-modern-24",
+      "artifact_id": "artic-105109",
+      "source_url": "https://www.artic.edu/artworks/105109",
+      "media_url": "https://www.artic.edu/iiif/2/acf31976-6778-aa8c-d10e-310617ac0438/full/843,/0/default.jpg",
+      "title": "Coffee Table",
+      "creator": "Isamu Noguchi",
+      "date": "Designed 1944; made 1965–67",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A low rounded triangular glass slab rests on two interlocking dark curved wood supports. The transparent top exposes sculptural negative spaces and the asymmetrical relation between supports, without a rectangular cabinet form."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "89fb3d02160362a86dbf657beacd96b51abab5fd89c6dbabed270a2a368bb216",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 491
+      }
+    },
+    {
+      "record_id": "mid-century-modern-25",
+      "artifact_id": "artic-51416",
+      "source_url": "https://www.artic.edu/artworks/51416",
+      "media_url": "https://www.artic.edu/iiif/2/28311fd9-e92b-4b28-532e-7610f7e570f5/full/843,/0/default.jpg",
+      "title": "Rocking Stool",
+      "creator": "Isamu Noguchi",
+      "date": "1955",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two shallow circular warm wood dishes form a stool's top and base. Numerous thin polished rods cross between them into a narrow waist; organic disks and a tense industrial lattice share one compact object."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "a23682d8f948af9d76b58a8a3f15e736d6b0f03b1b7f8e37d4fb5895e866ca3f",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 772
+      }
+    },
+    {
+      "record_id": "mid-century-modern-26",
+      "artifact_id": "artic-203128",
+      "source_url": "https://www.artic.edu/artworks/203128",
+      "media_url": "https://www.artic.edu/iiif/2/58225475-de61-f013-313d-e34efac629b4/full/843,/0/default.jpg",
+      "title": "Chess Table",
+      "creator": "Isamu Noguchi",
+      "date": "Designed 1944; made c. 1949",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A dark sculptural chess table has a softly indented square top, shallow side bowls and four broad flaring slab legs. Small inlaid points form the playing grid. Functional geometry and curving edges combine without a bright retro palette."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "5d8fccaf3309e19b6e861ed301451199031a59dd007341f064d018f7237700a2",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 633
+      }
+    },
+    {
+      "record_id": "mid-century-modern-27",
+      "artifact_id": "artic-94157",
+      "source_url": "https://www.artic.edu/artworks/94157",
+      "media_url": "https://www.artic.edu/iiif/2/0c1b55aa-884d-62fb-7191-1cc7d5ba215f/full/843,/0/default.jpg",
+      "title": "Ottoman",
+      "creator": "Paul McCobb",
+      "date": "1955",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A rectangular upholstered ottoman stands on a thin straight metal frame with low crossing braces. The monochrome photograph reveals coarse woven cloth, piped seams and slender feet; it cannot establish the original fabric hue."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "9a3937ca642bbefffac91cf2389f2e51eb03e2cd22118187772120539df81cc6",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 788
+      }
+    },
+    {
+      "record_id": "mid-century-modern-28",
+      "artifact_id": "artic-125653",
+      "source_url": "https://www.artic.edu/artworks/125653",
+      "media_url": "https://www.artic.edu/iiif/2/a19edff4-151c-4544-338e-eb47368b3d6b/full/843,/0/default.jpg",
+      "title": "Side Chair",
+      "creator": "Paul McCobb",
+      "date": "c. 1957",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A side chair uses thin splayed warm wood legs, one angular crown-like back rail and a pale simple seat pad. The back's two raised tips and central dip provide the expressive silhouette, with little ornament elsewhere."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "0505fcd708e8ade8ba80ad0cb2d7599e393354aae14e6548cfe995d7cb249929",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1073
+      }
+    },
+    {
+      "record_id": "mid-century-modern-29",
+      "artifact_id": "artic-125654",
+      "source_url": "https://www.artic.edu/artworks/125654",
+      "media_url": "https://www.artic.edu/iiif/2/3726df1e-8a8d-dcb2-6b97-6c3f91091b7e/full/843,/0/default.jpg",
+      "title": "Side Chair",
+      "creator": "Paul McCobb",
+      "date": "c. 1957",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "duplicate",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "The same McCobb side-chair design appears at a slightly different angle and with a different grain/wear pattern. Count the shared underlying model once despite separate accession records."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "d47f41ee9017f52ad2efa88d9abad8eb33907a321f95c5984a609891266c6b40",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": false,
+      "duplicate_of": "mid-century-modern-28",
+      "resolution": {
+        "width": 843,
+        "height": 1073
+      }
+    },
+    {
+      "record_id": "mid-century-modern-30",
+      "artifact_id": "artic-149426",
+      "source_url": "https://www.artic.edu/artworks/149426",
+      "media_url": "https://www.artic.edu/iiif/2/da4dd79a-e20f-230d-b6e0-584498538c78/full/843,/0/default.jpg",
+      "title": "Calyx (Dress or Furnishing Fabric)",
+      "creator": "Lucienne Day",
+      "date": "1951",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "On a dark blue textile, thin pale stems suspend irregular cups, half circles and small filled accents in white, pale gray and orange. Varied marks within repeated groups create an abstract botanical rhythm rather than a rigid grid."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "7ce0d509e3d44ea7d401644cf980cb2eb29c53378693f8eb30ba8a902978bb5c",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 525
+      }
+    },
+    {
+      "record_id": "mid-century-modern-31",
+      "artifact_id": "artic-156631",
+      "source_url": "https://www.artic.edu/artworks/156631",
+      "media_url": "https://www.artic.edu/iiif/2/b7ecfedf-e095-e2f5-1678-c239f1d20245/full/843,/0/default.jpg",
+      "title": "Linden (Furnishing Fabric)",
+      "creator": "Lucienne Day",
+      "date": "1960",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Large thin black leaf outlines repeat across pale fabric, overlaid with irregular yellow-olive rectangular blocks. Scratchy/dashed secondary leaf contours and off-center overlaps make texture and loose registration visible."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "ee55c8d272270c12a01c45f15c0f7ab09c2b6978bf91e3dbf9409d01c6d0150d",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1348
+      }
+    },
+    {
+      "record_id": "mid-century-modern-32",
+      "artifact_id": "artic-149427",
+      "source_url": "https://www.artic.edu/artworks/149427",
+      "media_url": "https://www.artic.edu/iiif/2/58f5c7d8-a5f3-dd63-d0e6-ae4c85d8cce5/full/843,/0/default.jpg",
+      "title": "Script (Fragment)",
+      "creator": "Lucienne Day",
+      "date": "1956",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Dark flowing script-like lines repeat horizontally over a pale gray textile, with small pale dash marks beneath. The selvage identifies Script by Lucienne Day. The language and meaning are not established here; do not extract this writing as meaningless exotic ornament."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "c44f33424058a3d160bacd678d30325ca697d400badaec3e58c48b61f45042aa",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 796
+      }
+    },
+    {
+      "record_id": "mid-century-modern-33",
+      "artifact_id": "artic-150853",
+      "source_url": "https://www.artic.edu/artworks/150853",
+      "media_url": "https://www.artic.edu/iiif/2/7a3b2e98-ec51-9217-9db5-3ced33e33557/full/843,/0/default.jpg",
+      "title": "Tarn (Furnishing Fabric)",
+      "creator": "Lucienne Day",
+      "date": "1958",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A rust-orange ground carries fine horizontal tonal striations, dotted pale clusters and sparse thin black angular reeds. One denser tangle interrupts the open area; lively drawn marks coexist with a restrained repeated field."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "b9f93a40dde0d51f7fb15edad7c4986f8e36f2dce2d585f32473fb0d96b5c55b",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1055
+      }
+    },
+    {
+      "record_id": "mid-century-modern-34",
+      "artifact_id": "artic-120201",
+      "source_url": "https://www.artic.edu/artworks/120201",
+      "media_url": "https://www.artic.edu/iiif/2/67a130cc-669b-4e67-477d-7cd0ea94fcc1/full/843,/0/default.jpg",
+      "title": "Herb Antony (Furnishing Fabric)",
+      "creator": "Lucienne Day",
+      "date": "1954",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Thin pale branching botanical structures repeat against near-black fabric. Tiny orange, yellow and blue pieces punctuate leaves and seed heads; open linework, fine hatch and sparse flat color are combined."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "3e506a6322d9f10735bbf60f3f642e9ef38ea3d95c98dee1616d0aa8724086f9",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 831
+      }
+    },
+    {
+      "record_id": "mid-century-modern-36",
+      "artifact_id": "artic-149429",
+      "source_url": "https://www.artic.edu/artworks/149429",
+      "media_url": "https://www.artic.edu/iiif/2/e219157b-9ea0-2f0b-ebf9-45332e6c75cb/full/843,/0/default.jpg",
+      "title": "Sequoia (Dress or Furnishing Fabric)",
+      "creator": "Lucienne Day",
+      "date": "1965/69",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Vertical panels alternate plain taupe/white with black irregular trunk-like lines and angular branches. The tree motifs stretch the full height and leave broad calm blocks; botanical reference need not mean small all-over flowers."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "c8b31551dbe6cb908ea37449e9256e66915dc7eb5283c4de37e14e5604165866",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 562
+      }
+    },
+    {
+      "record_id": "mid-century-modern-37",
+      "artifact_id": "artic-241411",
+      "source_url": "https://www.artic.edu/artworks/241411",
+      "media_url": "https://www.artic.edu/iiif/2/6af5d34e-46e3-5b70-c450-c9aa50d7f228/full/843,/0/default.jpg",
+      "title": "Baldric (Fragment)",
+      "creator": "Lucienne Day",
+      "date": "1965",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A narrow complete catalogued fabric fragment alternates olive, gray, cream and pale lilac bands with dense dark leafy silhouettes. Two repeated units are visible. The fragment supports pattern structure, not the scale or composition of an entire room."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "54ed2767b07581c82ea9d8c09be8ff9e0410cedd556fbb5db6ed3d8fa5b2b603",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 239
+      }
+    },
+    {
+      "record_id": "mid-century-modern-38",
+      "artifact_id": "artic-152750",
+      "source_url": "https://www.artic.edu/artworks/152750",
+      "media_url": "https://www.artic.edu/iiif/2/0d80f257-e74c-2d36-cde2-69c663dc7292/full/843,/0/default.jpg",
+      "title": "Coffeepot Museum Dinner Service",
+      "creator": "Eva Zeisel",
+      "date": "c. 1942–45",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A plain white glossy coffeepot has a pear-like body, long rising spout, thin open loop handle and small lid knob. Continuous curves and controlled asymmetry make the object expressive without applied color or angular starbursts."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "25b53c027d14c14c5cf0a65d9e21df3eaff4bd18a4f3bf9f35c37844b97b91ef",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 1084
+      }
+    },
+    {
+      "record_id": "mid-century-modern-39",
+      "artifact_id": "artic-120576",
+      "source_url": "https://www.artic.edu/artworks/120576",
+      "media_url": "https://www.artic.edu/iiif/2/5a91e53c-7e2b-8b0d-6da6-ce5050888e9b/full/843,/0/default.jpg",
+      "title": "Platter",
+      "creator": "Eva Zeisel",
+      "date": "c. 1953",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A pale glossy platter has an asymmetric ovoid outline with one gentle point. A fine central orbital/star-like line ornament is small relative to the broad quiet surface; this marker is a specific variant, not universal decoration."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "aff0417a7831614a64e80ab6deba5adb9fbe885091de92bb3230aa0b51454acb",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 596
+      }
+    },
+    {
+      "record_id": "mid-century-modern-40",
+      "artifact_id": "artic-120282",
+      "source_url": "https://www.artic.edu/artworks/120282",
+      "media_url": "https://www.artic.edu/iiif/2/d771fff6-2e90-3df6-4746-f6e7c1215f40/full/843,/0/default.jpg",
+      "title": "Pair of Grass Seated Chairs",
+      "creator": "George Nakashima",
+      "date": "c. 1945",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A wood chair combines a broad curved crest rail, few slender spindles, splayed turned legs and a tightly woven straw-colored seat. The exposed joinery and natural weave differ from molded plastic/metal variants while retaining structural economy."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "ae4e5cc04a1650ec0d59ec4335d94cf66c907b6a7dfd9a340b646cc3a22953e3",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 905
+      }
+    },
+    {
+      "record_id": "mid-century-modern-41",
+      "artifact_id": "artic-71164",
+      "source_url": "https://www.artic.edu/artworks/71164",
+      "media_url": "https://www.artic.edu/iiif/2/c7206aa0-9eac-5918-2b1b-9f019de4b677/full/843,/0/default.jpg",
+      "title": "April (Furnishing Fabric)",
+      "creator": "Alexander Girard",
+      "date": "c. 1960",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Small simplified flowers and leaves repeat densely over white fabric in orange, green, blue and pink. Individual blooms use varied geometric silhouettes; the pattern is multicolored and playful rather than limited to earth tones."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "722494fcff8ef57e3e8123bb670b2981d56cafee4be0d21f75dbe6422600a99e",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 577
+      }
+    },
+    {
+      "record_id": "mid-century-modern-42",
+      "artifact_id": "artic-71159",
+      "source_url": "https://www.artic.edu/artworks/71159",
+      "media_url": "https://www.artic.edu/iiif/2/16578d37-81b2-c8d1-80cd-75304f948a11/full/843,/0/default.jpg",
+      "title": "Fruit Trees (Furnishing Fabric)",
+      "creator": "Alexander Girard",
+      "date": "1960",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Black curving branches connect pink/orange circles, bowls and rectangles with small olive accents over white. Repeated tree-like units organize the abstract shapes without losing botanical association."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "25a0c04f03ae7961ea318aab517e9f2a893e3a6ce63f2ec8228d51145a05cd77",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 574
+      }
+    },
+    {
+      "record_id": "mid-century-modern-43",
+      "artifact_id": "artic-71128",
+      "source_url": "https://www.artic.edu/artworks/71128",
+      "media_url": "https://www.artic.edu/iiif/2/6e5c99d1-4add-7c5b-a54c-11fce4fcec8a/full/843,/0/default.jpg",
+      "title": "Rain (Furnishing Fabric)",
+      "creator": "Alexander Girard",
+      "date": "1953",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Loose clusters of solid red, blue, black and pink rectangles overlap small trapezoid/triangle marks on white. Staggered placement and negative gaps create an animated printed rhythm with no depicted furniture."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "4e89f71e733f494f45f9d8b000fd5d93a1942750af04c57050b7d1faaea0cec7",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 587
+      }
+    },
+    {
+      "record_id": "mid-century-modern-44",
+      "artifact_id": "artic-71180",
+      "source_url": "https://www.artic.edu/artworks/71180",
+      "media_url": "https://www.artic.edu/iiif/2/bee32af6-0211-f2f5-2a9c-78132dbc092c/full/843,/0/default.jpg",
+      "title": "Alphabet Stripe (Furnishing Fabric)",
+      "creator": "Alexander Girard",
+      "date": "1967",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A tightly repeated black-and-white alphabet forms horizontal strips and vertical columns of rounded condensed letters. The lettering becomes a woven-looking graphic field. This supports typographic ornament, not a universal interface font prescription."
+        }
+      ],
+      "handling": "Private analytical inspection cache only; no source image shipped",
+      "rights": "Copyright retained; linked analytical inspection only",
+      "sha256": "51e77e07943a296a9a909355c750f3876ef72aa96d64fcfb3ed8183e62a45c91",
+      "downloaded": true,
+      "generated": false,
+      "qualifying_example": true,
+      "resolution": {
+        "width": 843,
+        "height": 560
+      }
+    },
+    {
+      "record_id": "mari-apple",
+      "artifact_id": "mari-uno-la-mela-1963",
+      "title": "Uno, La Mela",
+      "creator": "Enzo Mari for Danese Milano; current edition photographed by Hato Press",
+      "date": "1963 design; current reproduction",
+      "source_url": "https://hatopress.net/products/uno-la-mela-by-enzo-mari-50-x-70",
+      "media_url": "https://cdn.shopify.com/s/files/1/0610/6805/0502/files/23-11-2021-HATO25621.jpg?v=1723715888",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "downloaded": true,
+      "generated": false,
+      "sha256": "317c2a7225262649f28bca8e9ac7c810d0f82d58df3dfc476eaf86e0f7320688",
+      "rights": "Artwork/design and photograph copyright retained; no publication permission claimed",
+      "handling": "Private analytical inspection only; no image shipped",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "A single large red apple silhouette and short dark stem occupy a pale upright sheet. Broad empty margins and tiny bottom credits give the everyday natural form monumental graphic clarity. This current edition documents a 1963 design; its present paper aging is not evidence of original print texture."
+        }
+      ],
+      "resolution": {
+        "width": 2401,
+        "height": 3000
+      }
+    },
+    {
+      "record_id": "yanagi-butterfly",
+      "artifact_id": "yanagi-butterfly-stool-1956",
+      "title": "Butterfly Stool",
+      "creator": "Sori Yanagi; current Vitra product photograph",
+      "date": "1956 design; current production photograph",
+      "source_url": "https://www.vitra.com/en-us/product/butterfly-stool",
+      "media_url": "https://static.vitra.com/media/asset/3046219/storage/v_fullbleed_1440x/42920265.jpg",
+      "accessed_at": "2026-11-12",
+      "media_type": "still",
+      "inspection": "full-size",
+      "review_status": "original",
+      "source_verified": true,
+      "detail_legible": true,
+      "qualifying_example": true,
+      "downloaded": true,
+      "generated": false,
+      "sha256": "f30ca9b9d07d1084c18b354538504b9e5e55a7d98b46811319735138743383af",
+      "rights": "Artwork/design and photograph copyright retained; no publication permission claimed",
+      "handling": "Private analytical inspection only; no image shipped",
+      "observations": [
+        {
+          "dimensions": [
+            "palette",
+            "texture",
+            "shape",
+            "spatial"
+          ],
+          "observation": "Two matching bent wood shells meet at a narrow central waist and flare outward into a saddle seat and two broad feet. Dark smooth grain and visible pale layered edges contrast with small brass fittings. The staged domestic setting supplies current presentation context, not a historical room reconstruction."
+        }
+      ],
+      "resolution": {
+        "width": 1440,
+        "height": 810
+      }
+    }
+  ],
+  "retrieval_failures": [
+    "HTTP Error 403: Forbidden"
+  ],
+  "summary": {
+    "full_media_inspections": 45,
+    "qualifying_unique_artifacts": 41,
+    "grouped_duplicate_or_family_versions": 3,
+    "boundary_examples": 1,
+    "unavailable_downloads": 1,
+    "scope": "Furniture, textiles, ceramics and one graphic print. 39 qualifying works via Art Institute, one via manufacturer Vitra, one via publisher/retailer Hato. Current reproductions distinguished from historical design dates; no motion inspected."
+  }
+}
