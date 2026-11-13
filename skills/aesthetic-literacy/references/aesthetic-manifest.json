@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 326,
+  "fullEntryCount": 332,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -504,6 +504,16 @@
       ]
     },
     {
+      "slug": "capsule-toy-display-walls",
+      "label": "Capsule Toy Display Walls",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Capsule vending display walls",
+        "Gashapon display walls"
+      ]
+    },
+    {
       "slug": "casino",
       "label": "Casino Neon Tableplay",
       "family": "vernacular-commercial",
@@ -603,6 +613,16 @@
       ]
     },
     {
+      "slug": "cigarette-pack-modernism",
+      "label": "Cigarette Pack Modernism",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Reduced cigarette-pack graphics",
+        "Geometric tobacco-pack graphics"
+      ]
+    },
+    {
       "slug": "city-pop",
       "label": "City Pop Visual Language",
       "family": "historical-design-movements",
@@ -643,6 +663,16 @@
       "aliases": [
         "school Halloween bulletin board",
         "classroom Halloween"
+      ]
+    },
+    {
+      "slug": "claw-machine-cabinets",
+      "label": "Claw Machine Cabinets",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Prize crane cabinets",
+        "Crane-game cabinet interfaces"
       ]
     },
     {
@@ -1290,6 +1320,16 @@
       ]
     },
     {
+      "slug": "gacha-banner-interfaces",
+      "label": "Gacha Banner Interfaces",
+      "family": "digital-internet-native",
+      "status": "canonical",
+      "aliases": [
+        "Summon banner interfaces",
+        "Recruitment campaign interfaces"
+      ]
+    },
+    {
       "slug": "gen-x-soft-club",
       "label": "Gen X Soft Club",
       "family": "digital-internet-native",
@@ -1625,6 +1665,16 @@
       "aliases": [
         "Hyperpop Graphics",
         "Hyper Pop Visuals"
+      ]
+    },
+    {
+      "slug": "infomercial-offer-screens",
+      "label": "Infomercial Offer Screens",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Direct-response TV offer graphics",
+        "DRTV offer screens"
       ]
     },
     {
@@ -3056,6 +3106,16 @@
         "Broadcast teletext",
         "Teletext design",
         "Ceefax-style teletext"
+      ]
+    },
+    {
+      "slug": "theatre-playbill-typography",
+      "label": "Theatre Playbill Typography",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Historic theatrical billing typography",
+        "Theatrical broadside typography"
       ]
     },
     {
