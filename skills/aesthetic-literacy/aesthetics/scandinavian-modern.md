@@ -20,23 +20,23 @@ Use Scandinavian Modern for clean product systems, lifestyle and wellness brands
 
 ## 7-Dimension Profile
 
-**Palette**: Warm white, cream, pale birch, light gray, muted sage, dusty blue, terracotta, charcoal, deeper forest accents, and daylight-oriented low contrast. Color should support calm domestic use, not dominate.
+**Palette**: Light natural wood, white, gray and muted earths coexist with red, pink, lime, mustard, black lacquer and colored glass. Calm utility comes from proportion and material relationships, not a compulsory beige or low-contrast palette.
 
 **Type**: Quiet humanist or geometric sans, restrained serif support, clean signage/editorial hierarchy, generous leading, and type that disappears into use. Novelty display or luxury drama is off-model.
 
-**Texture**: Birch, ash, beech, teak, wool, linen, matte ceramic, leather, brushed metal, paper, stone, and diffused natural light. High-gloss synthetic texture weakens the warmth.
+**Texture**: Bent or laminated wood, woven webbing, wool, lacquer, ceramic, glass, wicker and metal. Matte and polished finishes both occur; express material and construction honestly.
 
 **Shape**: Gentle rectilinear frames, softened corners, ergonomic curves, tapered legs, clean joinery, woven motifs, modest vessel forms, and organic minimal silhouettes. Nothing should feel aggressive or over-ornamented.
 
-**Motion**: Minimal, calm, useful fades or gentle slides with domestic breath. Motion should support orientation rather than perform; bounce, strobe, or theatrical spectacle disrupts the aesthetic.
+**Motion**: Object photographs establish no animation convention. Calm immediate changes or restrained orientation transitions are contemporary UI decisions; stable stillness is appropriate.
 
 **Spatial**: Uncluttered rooms, generous negative space, daylight orientation, modular shelving, open domestic zones, intimate object spacing, and asymmetry held in calm balance. Digital density should preserve breathing room.
 
-**Cultural markers**: Denmark, Sweden, Finland, Norway, Iceland, Kaare Klint, Arne Jacobsen, Alvar Aalto, Danish modern furniture, Nordic housewares, 1950s design culture, craft plus industry, and welfare-modernist democratic design.
+**Cultural markers**: Nordic functional modernism, craft with industry, domestic usefulness and social design ambitions. The catalog uses the broader Nordic sense, including Finnish work; Finland is not part of geographic Scandinavia. Avoid presenting one country or manufacturer as the whole region.
 
 ## Non-Negotiables
 
-**Non-negotiables**: daylight-oriented muted palette; natural material texture; functional restraint; humane spacing; gentle ergonomic shape; and craft/social context. Generic beige minimalism is not Scandinavian Modern.
+**Non-negotiables**: material-aware color; functional restraint; humane proportion; ergonomic shape; and craft/social context. Generic beige minimalism is not Scandinavian Modern.
 
 ## Connotation
 
@@ -72,6 +72,6 @@ Avoid flattening Scandinavian Modern into generic “Scandi” beige lifestyle b
 
 - Blank white minimalism with no warmth, material, or craft logic.
 - Luxury spa beige that erases democratic function.
-- Saturated retro MCM color pasted onto Nordic restraint.
+- Using color as a generic retro signal without functional proportion, material or construction logic.
 - Decorative hygge clichés detached from design history.
 - Overly sparse screens that sacrifice usability or human scale.

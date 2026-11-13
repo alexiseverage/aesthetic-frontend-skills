@@ -20,23 +20,23 @@ Use Punk Zine for independent music, zines, artist publishing, activist campaign
 
 ## 7-Dimension Profile
 
-**Palette**: Black, white, copier gray, and one violent accent such as red, yellow, or hot pink. The limited palette should feel like photocopy and cheap one- or two-color print economy, not refined branding.
+**Palette**: Black/white and economical colored inks or paper, including red, yellow, pink, blue, green and purple. Monochrome and multiple accent colors both occur; exactly one violent accent is not a defining rule.
 
-**Type**: Ransom-note assembly, cutout letters, mismatched sizes, rubber-stamp inserts, Letraset traces, crude monospaced scraps, and anti-professional hierarchy. Single-family consistency breaks the voice.
+**Type**: Handwriting, typewriter text, drawn mastheads, cutout collage, rub-down lettering and practical readable lists. Ransom-note assembly is one strand; a consistent typed page can still belong to DIY zine production.
 
 **Texture**: Xerox grain, banding, tape residue, torn paper, scissor marks, staple damage, marker scrawl, newsprint wear, and visible paste-up seams. Smooth high-resolution surfaces remove the medium.
 
 **Shape**: Crooked rectangles, ripped edges, pasted strips, badges, stars, safety-pin/stencil motifs, hard angles, and abrupt collage interruptions. Friendly rounded product cards are off-model.
 
-**Motion**: Hard cuts, snap-in collage reveals, step-based jitter, crude misregistration, flicker, and broken-photocopier transitions. Luxury easing or delight motion weakens the stance.
+**Motion**: The inspected printed sources are static. Stillness and immediate disclosure suit a web translation. Flicker and jitter are not historical requirements and should not interfere with reading.
 
-**Spatial**: Dense hand-assembled page logic, uneven margins, overlapping strips, tilted headlines, text running near or off edges, and collage over grid. Space is a battleground for attention rather than a calm framework.
+**Spatial**: Hand-assembled editorial pages, uneven margins, overlapping scraps, dense letters and readable practical spreads. DIY participation can be inviting and caring as well as confrontational.
 
 **Cultural markers**: Jamie Reid, Sex Pistols artwork, Sniffin’ Glue, Punk magazine, photocopied zines, safety-pin graphics, DIY publishing, anti-skill politics, and anti-authority visual address.
 
 ## Non-Negotiables
 
-**Non-negotiables**: visible DIY production; photocopy texture; black/white plus one accent; mismatched cutout or ransom-note typography; deliberate misalignment; and anti-polish politics. Generic distress is not Punk Zine.
+**Non-negotiables**: visible self-authored DIY production; economical print or paste-up logic; independent publishing and participation; and readable communication where the content requires it. Cutout type, one accent and photocopy damage are options rather than universal requirements.
 
 ## Connotation
 

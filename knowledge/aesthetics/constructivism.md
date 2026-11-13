@@ -2,10 +2,11 @@
 slug: constructivism
 label: Russian Constructivism
 first_researched: "2026-07-15"
-last_updated: "2026-07-15"
+last_updated: "2026-11-13"
 source: mixed text sources; no downloaded image corpus
-image_count: 0
+image_count: 11
 evidence_level: limited
+evidence_limitations: "Eleven captioned works from one institutional collection meet the minimum but not the 30-work target; Rodchenko and commercial printing dominate. Further artists and source collections are needed."
 new_aesthetic: false
 aliases: ['Constructivist', 'Soviet Constructivism', 'Russian avant-garde']
 ---
@@ -65,3 +66,42 @@ Cultural sensitivity assessment: Medium historical-context risk. The movement is
 
 - Promote aliases into future lookup tooling: Constructivist, Soviet Constructivism, Russian avant-garde.
 - Scope decision: `constructivism` is treated as a production dictionary entry rather than a subset of an existing aesthetic because duplicate checks found no existing exact or heavy-overlap entry.
+
+
+## 2026-11-13 — Direct artifact review and corrections
+
+This dated review supersedes incompatible universal rules in the earlier synthesis; historical research notes above remain as a record. 11 unique fully inspected artifacts passed source, legibility and observation review against a minimum of 10 and a working target of 30. Counts do not establish uniformly high confidence or complete historical coverage. Eleven captioned works from one institutional collection meet the minimum but not the 30-work target; Rodchenko and commercial printing dominate. Further artists and source collections are needed.
+
+The collection establishes functional commercial advertising, aviation routes, publishing, photomontage and industrial geometry alongside revolutionary politics. Orthogonal information structures and blue/orange/violet regions complicate a red-black-diagonal-only formula. Different colorways and cooking-oil maquette/print versions are grouped.
+
+### Inspected corpus
+
+Counts refer to underlying works, not thumbnails or download totals. Repeated crops, colorways and identity applications were grouped. Separate captioned works in a shared PDF were reviewed individually; the document URL is a container, not a single artwork.
+
+- [CO01] Plate 52, Industrialization of USSR (1925), 1927 — El Lissitzky. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=70). A dense informational photomontage combines black/white cut figures, orange and violet bars, a large date, assembly photographs and miniature quantitative charts; more than a single diagonal.
+- [CO02] Plate 53, Opposition Bloc (1926), 1927 — El Lissitzky. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=71). A black vertical slab and red circular group portrait organize newspaper fragments, a small graph and several photographic scales. Political propaganda context remains explicit.
+- [CO03] Plates 94–95, Dobrolet, 1923, colorways grouped — Alexander Rodchenko. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=92). A tilted airplane is counterbalanced by an enormous black exclamation mark, curved arrow and condensed uppercase copy. Teal and orange colorways are one composition, counted once.
+- [CO04] Plate 96, Dobrolet air routes, 1923 — Alexander Rodchenko. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=93). White airplane silhouettes follow dashed arcs between labeled red cities across a black/orange diagonal map; very large ticket lettering forms a functional footer.
+- [CO05] Plate 97, Dobrolet buy stocks, 1923 — Alexander Rodchenko. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=93). Black ground, gray airplane, vertical industrial skyline and tightly centered stacked lettering. The lower cream strip carries small practical information.
+- [CO06] Plate 98, Dobrolet shareholder list, 1923 — Alexander Rodchenko. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=93). A white/red airplane points across deep blue toward a globe and long angled list; condensed outlined text tracks the opposing edge. Blue is a substantial structural color.
+- [CO07] Plate 99, LEF subscription, 1924 — Alexander Rodchenko. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=94). Primarily orthogonal printed form: red rectangular border, giant black exclamation marks, bold central LEF and small tabulated subscription details.
+- [CO08] Plate 100, Young Guard publishing house, 1924 — Alexander Rodchenko. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=94). A red round catalogue arrangement mixes book covers, cropped photographs, condensed letter arcs and a rectangular black information footer.
+- [CO09] Plate 101, Rubber Trust camel advertisement, 1923 — Alexander Rodchenko. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=94). Black condensed lettering, yellow plane, red rule and exclamation mark frame a gray camel and oversized black galosh; commercial object symbolism rather than abstract geometry alone.
+- [CO10] Plate 102, Rubber Trust galoshes, 1923 — Alexander Rodchenko. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=94). Two outlined figures flank a triangular line of shoes; large red condensed VOSTOK and black blocks, a yellow band and blue baseline create a forceful product diagram.
+- [CO11] Plates 103–104, Cooking oil, c1923, related versions grouped — Alexander Rodchenko. [Source](https://mcbcollection.com/s/MCB-Early-Soviet-Posters-2019.pdf#page=95). A circle enclosing bottles interrupts red vertical stripes; bold black/cream text panels occupy corners. Single-bottle maquette and three-bottle print are grouped to avoid inflation.
+
+### Claim support and confidence
+
+| Dimension | Support and limit | Confidence |
+| --- | --- | --- |
+| Palette | Red/black/cream are prominent, alongside blue, orange, yellow and violet in advertising and exhibition work. Use economical hard color contrasts rather than treating one tricolor as universal. | Moderate within corpus; breadth caveat above |
+| Type | The listed full-artifact observations support the retained canonical guidance within the stated corpus scope. Exact fonts, measurements and population frequencies are not inferred. | Moderate within corpus; breadth caveat above |
+| Texture | The listed full-artifact observations support the retained canonical guidance within the stated corpus scope. Exact fonts, measurements and population frequencies are not inferred. | Moderate within corpus; breadth caveat above |
+| Shape | The listed full-artifact observations support the retained canonical guidance within the stated corpus scope. Exact fonts, measurements and population frequencies are not inferred. | Moderate within corpus; breadth caveat above |
+| Motion | All counted evidence is static; no source playback or live interaction timing was established. Stillness and any UI timing are application choices. | Unknown for historical timing |
+| Spatial | Asymmetrical force, scale contrast, montage, strong rules and industrial organization. Diagonals and orthogonal grids both occur; purposeful communication matters more than rotating every element. | Moderate within corpus; breadth caveat above |
+| Cultural markers | The listed full-artifact observations support the retained canonical guidance within the stated corpus scope. Exact fonts, measurements and population frequencies are not inferred. | Moderate within corpus; breadth caveat above |
+
+### Rights and remaining work
+
+Source media was viewed for analysis only. Copyright and trademark remain with credited creators and institutions; this review grants no redistribution or production-use clearance. No source artwork is bundled here. Exact pixel colors, typefaces, easing and durations are not established unless the cited creator explicitly documents them. Eleven captioned works from one institutional collection meet the minimum but not the 30-work target; Rodchenko and commercial printing dominate. Further artists and source collections are needed.
