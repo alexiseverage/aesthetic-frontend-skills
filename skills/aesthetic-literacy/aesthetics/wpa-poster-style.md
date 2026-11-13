@@ -23,23 +23,23 @@ WPA Poster Style is a graphic-design and poster-format aesthetic rooted in New D
 
 ## 7-Dimension Profile
 
-**Palette**: Aged paper, forest green, earth brown, rust red, navy, ochre, black, orange, and muted blue in 3–5 flat colors. The palette should preserve silkscreen economy and public legibility.
+**Palette**: Paper, forest green, earth brown, rust red, navy, ochre, black, orange, and muted blue in 3–5 flat colors. The palette should preserve silkscreen economy and public legibility.
 
-**Type**: Bold display faces, slab serifs, geometric deco lettering, centered titling, generous tracking, seals, banners, agency marks, and type integrated directly into the illustrated message.
+**Type**: Bold display faces, slab serifs, geometric deco lettering, declarative titling, selective tracking, seals, banners, agency marks, and type integrated directly into the illustrated message.
 
-**Texture**: Silkscreen grain, visible ink edges, slight misregistration, matte poster surfaces, yellowed paper, weathering, and woodblock-like simplification.
+**Texture**: Flat print regions, screenprint or lithographic economy, paper and selective grain. Aging in scans is reproduction evidence, not mandatory original weathering; clean flat work can be faithful.
 
 **Shape**: Simplified silhouettes, bordered layouts, emblematic figures, landscapes, flat color regions, large hero forms, seals, and poster-frame compositions designed for quick reading.
 
-**Motion**: Mostly static tableau. Digital motion should feel like a poster reveal, print pull, paper-layer transition, or restrained marquee title entrance.
+**Motion**: The inspected posters are still. Keep the image stable and use direct functional state changes; historical print implies no required scroll animation or timing.
 
-**Spatial**: Centered poster hierarchy, border framing, stacked depth planes, integrated image-title areas, badge or agency-mark placement, and declarative public-display composition.
+**Spatial**: Poster-scale hierarchy, strong figure/ground, layered landscape or civic subject, and clear practical information. Centered, asymmetric and text-led arrangements all occur; no one layout is mandatory.
 
 **Cultural markers**: New Deal, Works Progress Administration, Federal Art Project, national parks, “See America” travel logic, public-health announcements, theatre/music posters, labor relief, civic optimism, and American Scene subject matter.
 
 ## Non-Negotiables
 
-**Non-negotiables**: limited flat-print palette; silkscreen/poster texture; centered declarative hierarchy; simplified illustrative forms; explicit public-service or civic-print framing.
+**Non-negotiables**: limited flat-print palette; silkscreen/poster texture; declarative hierarchy; simplified illustrative forms; explicit public-service or civic-print framing.
 
 ## Connotation
 
@@ -48,7 +48,7 @@ WPA Poster Style is a graphic-design and poster-format aesthetic rooted in New D
 ## Related / Subsets
 
 - `art-deco` — typographic overlap through geometric display and simplification.
-- `constructivism` — shares flat color and mass communication intent, but WPA is more illustrative and centered while Constructivism is more diagonal and agitational.
+- `constructivism` — shares flat color and mass communication intent, but WPA is often more illustrative, while Constructivism emphasizes montage, industrial geometry and revolutionary context.
 - `polish-poster-school` — shares poster centrality, but Polish Poster is more metaphorical and painterly.
 - `streamline-moderne` — period-adjacent optimism, but more aerodynamic and object-design oriented.
 - Subsets include National Park poster style, Federal Art Project posters, and public-health WPA posters.

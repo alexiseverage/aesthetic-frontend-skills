@@ -24,7 +24,7 @@ Russian Constructivism is revolutionary avant-garde communication built from dia
 
 ## 7-Dimension Profile
 
-**Palette**: Red, black, white, off-white paper, occasional yellow, and steel blue-gray. Keep the palette limited and signal-driven; color is urgency, labor, and contrast.
+**Palette**: Red/black/cream are prominent, alongside blue, orange, yellow and violet in advertising and exhibition work. Use economical hard color contrasts rather than treating one tricolor as universal.
 
 **Type**: Bold condensed sans-serif, all-caps commands, angled headlines, numerals, captions, and typography as mass communication. Type should feel like a tool, placard, or megaphone.
 
@@ -32,15 +32,15 @@ Russian Constructivism is revolutionary avant-garde communication built from dia
 
 **Shape**: Diagonal wedges, triangles, bars, circles, arrows, rays, interlocking planes, and strong crops. The “red wedge” logic and geometric collision should be legible.
 
-**Motion**: Urgent diagonal thrust, collision, overlap, zoom, and directional command. Motion should move the eye through argument and mobilization, not entertainment.
+**Motion**: Printed diagonal force and montage imply energy but establish no animation timing. Intentional stillness or immediate functional state changes are appropriate web translations.
 
-**Spatial**: Depthless abstract field with overlapping planes, tilted axes, photomontage insertions, and strong diagonal hierarchy. Avoid calm centered symmetry.
+**Spatial**: Asymmetrical force, scale contrast, montage, strong rules and industrial organization. Diagonals and orthogonal grids both occur; purposeful communication matters more than rotating every element.
 
 **Cultural markers**: Lissitzky’s wedge logic, Rodchenko photomontage, ROSTA-style public messaging, Stenberg film-poster energy, industrial production, and art-as-social-instrument rhetoric.
 
 ## Non-Negotiables
 
-**Non-negotiables**: Diagonal command structure, limited revolutionary palette, propaganda-grade typography, and industrial/public-purpose framing are mandatory. Without them it becomes generic high-contrast modernism.
+**Non-negotiables**: Purposeful geometric construction, economical forceful color, mass-communication hierarchy, and industrial/social framing are defining. Without them it becomes generic high-contrast modernism.
 
 ## Connotation
 
@@ -48,7 +48,7 @@ Constructivism is historically tied to Soviet revolutionary politics, propaganda
 
 ## Related / Subsets
 
-Related: `die-neue-typographie` inherits asymmetry and sans-serif clarity but redirects them toward information design; `suprematism` shares Russian abstraction but is metaphysical and non-utilitarian; `wpa-poster-style` also serves public messaging but is more civic, illustrative, and centered.
+Related: `die-neue-typographie` inherits asymmetry and sans-serif clarity but redirects them toward information design; `suprematism` shares Russian abstraction but is metaphysical and non-utilitarian; `wpa-poster-style` also serves public messaging but is more civic and illustrative.
 
 ## Frontend / UI Guidance
 

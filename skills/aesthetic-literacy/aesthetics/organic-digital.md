@@ -22,27 +22,27 @@ The aesthetic is shape-led and biomorphic. Pastel gradients alone are not enough
 
 ## 7-Dimension Profile
 
-**Palette**: Soft ambient gradients, warm-cool transitions, peach, pink, violet, blue, mint, sand, lilac, sunrise blends, and nature-coded digital color fields. Avoid harsh grayscale or rigid primary blocks as the dominant screen language.
+**Palette**: Biomorphic forms may use ambient gradients, mint/lilac/peach, saturated yellow/green, dark microscopy-like fields or black/white. Soft pastels and gradients are optional treatments, not sufficient or necessary identifiers.
 
-**Type**: Rounded or humanist sans systems that read as friendly and breathable, slightly playful display accents, soft weight transitions, generous line spacing, and clear UI text.
+**Type**: Readable sans, humanist faces, expressive serif or variable organic lettering can contrast with biomorphic fields. No single font category is established across this heterogeneous corpus; keep a stable text hierarchy.
 
-**Texture**: Mesh gradients, soft glow, liquid color blending, low-friction atmospheric surfaces, translucent overlays, soft shadowing, and subtle grain kept subordinate to content.
+**Texture**: Smooth color, flat fills, soft gradients, grain, cellular macrotexture or wavy contour lines. Choose materials that reinforce the form vocabulary rather than applying every soft effect at once.
 
 **Shape**: Blobs, squircles, waves, rounded islands, biomorphic cutouts, flowing sectional edges, capsule controls, circular anchors, and asymmetric but smooth panels.
 
-**Motion**: Breathing morphs, slow drift, liquid transitions, gentle parallax, cursor-following glow, elastic reveals, and gradient movement. Motion should calm rather than agitate and must yield to reduced-motion preferences.
+**Motion**: Still biomorphic composition is valid. Creator text describes generative or responsive systems in some cases, but no source playback was inspected in this pass; exact easing, duration and interaction remain unknown.
 
 **Spatial**: Generous whitespace, floating organic fields, soft shape masses around content, layered hero bands, image islands, rounded section transitions, and stable reading planes inside or beside decorative forms.
 
-**Cultural markers**: Humane-tech messaging, biomorphic softness, “friendly future” branding, gradient blobs in product heroes, fintech/design-tool landing-page ambience, and soft-tech optimism.
+**Cultural markers**: Biomorphism translated into contemporary identity and interface framing, sometimes associated with humane technology, community or biology. These meanings depend on the project; the repository label is not a settled movement name.
 
 ## Non-Negotiables
 
 **Non-negotiables**:
 
 - Biomorphic shape language: blobs, waves, rounded islands, squircles, or flowing edges.
-- Soft gradient or liquid color fields that feel digital but not mechanical.
-- Gentle motion or implied fluidity, even when static.
+- A coherent organic form system; flat color, gradients or cellular texture can support it.
+- Deliberate relationship between biomorphic ornament and stable information.
 - Clear content structure; softness should frame usability rather than dissolve it.
 
 ## Connotation
@@ -76,7 +76,7 @@ A strong implementation pairs soft outer composition with precise inner UI: frie
 
 ## Typography / Fonts
 
-Use rounded humanist sans-serif families, variable-weight friendly sans, or soft grotesks with generous spacing. Avoid severe industrial grotesks or novelty bubble type that makes the system childish rather than humane.
+Use rounded humanist sans-serif families, variable-weight friendly sans, or soft grotesks with generous spacing. Technical or expressive display faces can contrast with fluid forms; preserve legibility and avoid claiming one font category is historical law.
 
 ## Cultural / Ethical Notes
 
@@ -87,5 +87,5 @@ Do not overclaim provenance for the exact “Organic Digital” label. When nami
 - Calling any pastel gradient “organic” without biomorphic geometry.
 - Putting key controls or dense tables on moving blobs or unstable color fields.
 - Overusing amorphous shapes until hierarchy disappears.
-- Hard mechanical panels, brutal borders, or rigid primary blocks as the dominant grammar.
+- Calling humane copy, rounded rectangles or pastel color sufficient evidence without biomorphic form.
 - Presenting the label as more historically settled than the evidence supports.

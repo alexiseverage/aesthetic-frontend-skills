@@ -3,7 +3,7 @@
   "$id": "https://github.com/alexiseverage/aesthetic-frontend-skills/blob/main/docs/schemas/aesthetic-profile.schema.json",
   "title": "Aesthetic Knowledge Profile",
   "description": "Validates the YAML frontmatter for aesthetic profiles in knowledge/aesthetics/<slug>.md. Version-stamped so skills can handle migrations when the shape evolves.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "object",
   "required": [
     "slug",
@@ -66,12 +66,12 @@
     },
     "image_count": {
       "type": "integer",
-      "description": "Total number of reference images collected across all research runs.",
+      "description": "Audited unique fully inspected reference artifacts in the current cumulative corpus; duplicates and generated assets do not count.",
       "minimum": 0
     },
     "evidence_level": {
       "type": "string",
-      "description": "standard = 10 or more images collected; limited = fewer than 10.",
+      "description": "standard requires at least 10 inspected artifacts and resolved defining traits. limited denotes insufficient count or explicitly documented coverage/identity limitations.",
       "enum": [
         "standard",
         "limited"
@@ -89,6 +89,12 @@
         "minLength": 1
       },
       "uniqueItems": true
+    },
+    "evidence_limitations": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "\\S",
+      "description": "Required when evidence remains limited despite image_count >= 10; state the concrete unresolved defining-trait, provenance or representative-coverage gap."
     }
   },
   "additionalProperties": true

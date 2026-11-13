@@ -2,10 +2,11 @@
 slug: web-2-gloss
 label: Web 2.0 Gloss
 first_researched: "2026-07-15"
-last_updated: "2026-07-15"
+last_updated: "2026-11-13"
 source: mixed
-image_count: 0
+image_count: 13
 evidence_level: limited
+evidence_limitations: "Thirteen unique archival artifacts include explicitly adjacent Aqua/software precursors. Direct 2004–2009 social-startup breadth and original live behavior remain incomplete."
 new_aesthetic: false
 aliases: ["Web 2.0 design", "beta aesthetic"]
 ---
@@ -64,3 +65,44 @@ Anti-patterns for implementation: using the label for every 2000s gradient, conf
 ## Research Updates
 
 - 2026-07-15 — Initial limited research profile created with an explicit naming-confidence warning. Future work should add direct archived examples from early consumer-web product pages and logo/button trend documentation.
+
+
+## 2026-11-13 — Direct artifact review and corrections
+
+This dated review supersedes incompatible universal rules in the earlier synthesis; historical research notes above remain as a record. 13 unique fully inspected artifacts passed source, legibility and observation review against a minimum of 10 and a working target of 30. Counts do not establish uniformly high confidence or complete historical coverage. Thirteen unique archival artifacts include explicitly adjacent Aqua/software precursors. Direct 2004–2009 social-startup breadth and original live behavior remain incomplete.
+
+Gloss lives in selected chrome, tabs, buttons and icons alongside plain reading surfaces. Silver, blue and white can dominate. A beta badge, starburst or mascot is optional; gloss does not certify honesty or useful functionality. Archived stills cannot establish hover or transition timing.
+
+### Inspected corpus
+
+Counts refer to underlying works, not thumbnails or download totals. Repeated crops, colorways and identity applications were grouped. Separate captioned works in a shared PDF were reviewed individually; the document URL is a container, not a single artwork.
+
+- [WG01] homepage.png — Apple web team; archived by Version Museum. [Source](https://www.versionmuseum.com/history-of/apple-website). Apple homepage 2000: silver raised tab row with concave top highlight, blue active-tab variant elsewhere, white main field and isolated product groups; early Aqua-related precursor.
+- [WG02] apple-store.png — Apple web team; archived by Version Museum. [Source](https://www.versionmuseum.com/history-of/apple-website). Apple store 2000: product grid plus stacked sidebar cards, silver tabs, inset white dividers and pill-shaped magenta account action. Separate retail composition.
+- [WG03] mac-os-x-beta.png — Apple web team; archived by Version Museum. [Source](https://www.versionmuseum.com/history-of/apple-website). Mac OS X beta product subsite 2000: blue active tab, silver stripe panel headings, rounded pill CTA and dimensional application icons. Complete archived page contains one originally broken image; inspected available UI, gap retained.
+- [WG07] homepage-july-new-design.png — Apple web team; archived by Version Museum. [Source](https://www.versionmuseum.com/history-of/apple-website). July 2007 Apple homepage redesign: continuous silver gradient navigation, inset search field, dark rounded product cards and glossy reflected hardware illustrations. New interface design, not an older-page mirror.
+- [WG08] store-redesign.png — Apple web team; archived by Version Museum. [Source](https://www.versionmuseum.com/history-of/apple-website). Apple store 2007 redesign: broad silver active nav, inset search pill, rounded category containers and compact glossy green/gray purchase pills. Different functional retail layout.
+- [WA02] microsoft-website^2007^homepage-zune.jpg — microsoft-website archive. [Source](https://www.versionmuseum.com/history-of/microsoft-website). Microsoft 2007: blue atmospheric header, dark glossy top bar, glass-like right rail, rounded/shadowed content tiles and a black inset news rail.
+- [WA03] microsoft-website^2009^homepage-windows7.jpg — microsoft-website archive. [Source](https://www.versionmuseum.com/history-of/microsoft-website). Microsoft 2009: a different horizontal silver navigation strip, green shaded campaign panel, glossy utility buttons and dimensional product icons.
+- [WA04] yahoo-website^2005^yahoo-answers.png — yahoo-website archive. [Source](https://www.versionmuseum.com/history-of/yahoo-website). Yahoo Answers 2005: lime and pale-green zones, glossy blue answer button and gold search button, separated social-content cards; gloss used on key actions, not every surface.
+- [WA05] yahoo-website^2007^homepage.jpg — yahoo-website archive. [Source](https://www.versionmuseum.com/history-of/yahoo-website). Yahoo portal 2007: pale blue metallic tabs/panel headings, gold search pill, dense but strongly boxed information; small shine cues coexist with link-heavy layout.
+- [WA07] internet-explorer^2006^ie-7.0-for-windows.png — internet-explorer archive. [Source](https://www.versionmuseum.com/history-of/internet-explorer). IE7/Softpedia 2006 full desktop screenshot: page itself has glossy round multicolor navigation medallions and red/green rounded content bars. Browser chrome and website separated in observation; count one site screenshot.
+- [WA08] itunes-app^2003^itunes-4-music-store.png — itunes-app archive. [Source](https://www.versionmuseum.com/history-of/itunes-app). iTunes Music Store 2003: brushed silver window, glassy blue selection/scrollbar, beveled tabs and rounded blue catalog blocks. Adjacent desktop-software precursor, not a Web2 website.
+- [WA09] mac-os-x^2001^10.0-cheetah-finder-column-view.jpg — mac-os-x archive. [Source](https://www.versionmuseum.com/history-of/mac-os-x). Mac OS X Finder Cheetah 2001: striped panel chrome, jelly red/gray controls, luminous blue folder/icons and simple column browsing. Adjacent Aqua precursor.
+- [WA10] mac-os-x^2001^10.0-cheetah-quicktime-player.jpg — mac-os-x archive. [Source](https://www.versionmuseum.com/history-of/mac-os-x). QuickTime Cheetah 2001: brushed metal oval player controls, rounded switch tabs and raised inset controls; independent desktop application, adjacent precursor.
+
+### Claim support and confidence
+
+| Dimension | Support and limit | Confidence |
+| --- | --- | --- |
+| Palette | The listed full-artifact observations support the retained canonical guidance within the stated corpus scope. Exact fonts, measurements and population frequencies are not inferred. | Moderate within corpus; breadth caveat above |
+| Type | Friendly readable sans, compact utility labels, larger promotional titles and selected white-on-color controls. Trebuchet/Lucida-like categories are useful proposals, not font identifications proven from archival pixels. | Moderate within corpus; breadth caveat above |
+| Texture | The listed full-artifact observations support the retained canonical guidance within the stated corpus scope. Exact fonts, measurements and population frequencies are not inferred. | Moderate within corpus; breadth caveat above |
+| Shape | The listed full-artifact observations support the retained canonical guidance within the stated corpus scope. Exact fonts, measurements and population frequencies are not inferred. | Moderate within corpus; breadth caveat above |
+| Motion | All counted evidence is static; no source playback or live interaction timing was established. Stillness and any UI timing are application choices. | Unknown for historical timing |
+| Spatial | Centered consumer pages, white reading fields, rounded modules and glossy navigation are common; dense sidebar and product-grid compositions also occur. Keep ornament concentrated around actual actions. | Moderate within corpus; breadth caveat above |
+| Cultural markers | The listed full-artifact observations support the retained canonical guidance within the stated corpus scope. Exact fonts, measurements and population frequencies are not inferred. | Moderate within corpus; breadth caveat above |
+
+### Rights and remaining work
+
+Source media was viewed for analysis only. Copyright and trademark remain with credited creators and institutions; this review grants no redistribution or production-use clearance. No source artwork is bundled here. Exact pixel colors, typefaces, easing and durations are not established unless the cited creator explicitly documents them. Thirteen unique archival artifacts include explicitly adjacent Aqua/software precursors. Direct 2004–2009 social-startup breadth and original live behavior remain incomplete.

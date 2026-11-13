@@ -8,7 +8,7 @@ aliases:
   - Tschichold's New Typography
   - Early Modernist Typography
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related:
   - constructivism
   - ulm-school
@@ -24,15 +24,15 @@ Die Neue Typographie is interwar typographic reform: asymmetrical, standardized,
 
 ## 7-Dimension Profile
 
-**Palette**: Black, white, and sparing red for hierarchy; gray and photo reproduction tones as support. Color remains subordinate to information order.
+**Palette**: High-contrast black and white with selective red, blue, orange or other functional accent. A red-black palette is recognizable but not mandatory; color supports information order.
 
-**Type**: Geometric sans-serif, lower-case preference, strong hierarchy, tabular alignment, standardized spacing, and type as information architecture. Serif, script, blackletter, and decorative display should not be the default voice.
+**Type**: Sans-serif preference, strong size/weight hierarchy, standardized formats and purposeful alignment. Lowercase experiments occur, alongside capitals and mixed case. Restrained serif boundary examples exist; functional hierarchy is more durable than a sans-only prohibition.
 
 **Texture**: Clean paper, photomechanical reproduction, thin rules, photo rectangles, and minimal surface interference. Texture should not distract from hierarchy.
 
 **Shape**: Rectangular text blocks, rules, columns, bars, photo frames, and geometry in service of reading order. Diagonal accents may appear through Constructivist influence, but content structure leads.
 
-**Motion**: Purposeful movement through hierarchy: scroll, reveal, or anchor jumps should clarify reading order. Avoid spectacle.
+**Motion**: The inspected printing is static. Use immediate, predictable information changes or anchor navigation as contemporary UI decisions, not historical animation claims.
 
 **Spatial**: Asymmetrical balance, generous margins, deliberate gutters, clear alignments, and photography placed as a structural element rather than wrapped decoration.
 
@@ -40,7 +40,7 @@ Die Neue Typographie is interwar typographic reform: asymmetrical, standardized,
 
 ## Non-Negotiables
 
-**Non-negotiables**: Hierarchy-first typography, asymmetrical grid logic, restrained palette, and sans-serif modernist discipline are mandatory. If decoration leads, the system has left this aesthetic.
+**Non-negotiables**: Hierarchy-first typography, asymmetrical grid logic, restrained palette, and functional modernist discipline are mandatory. If decoration leads, the system has left this aesthetic.
 
 ## Connotation
 
@@ -52,7 +52,7 @@ Related: `constructivism` supplies more political diagonal force; `ulm-school` e
 
 ## Frontend / UI Guidance
 
-Let typography do the work: clear left edges, asymmetric content blocks, strong scale jumps, rules, captions, and photo/text modules. Use red only to establish reading order or actionable emphasis. Prefer predictable information architecture over decorative theming.
+Let typography do the work: clear left edges, asymmetric content blocks, strong scale jumps, rules, captions, and photo/text modules. Use any accent purposefully to establish reading order or actionable emphasis. Prefer predictable information architecture over decorative theming.
 
 ## CSS Translation
 

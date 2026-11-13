@@ -76,7 +76,9 @@ def cross_field_errors(data: dict[str, Any]) -> list[str]:
         if evidence_level == "standard" and image_count < 10:
             errors.append("standard evidence requires image_count >= 10")
         if evidence_level == "limited" and image_count >= 10:
-            errors.append("limited evidence requires image_count < 10")
+            limitations = data.get("evidence_limitations")
+            if not isinstance(limitations, str) or not limitations.strip():
+                errors.append("limited evidence with image_count >= 10 requires explicit evidence_limitations")
 
     first_researched = parse_iso_date(data.get("first_researched"))
     last_updated = parse_iso_date(data.get("last_updated"))

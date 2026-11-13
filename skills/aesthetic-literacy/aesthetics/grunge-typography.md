@@ -26,17 +26,17 @@ Use Grunge Typography for editorial hero sections, band or artist pages, fashion
 
 **Texture**: Photocopy dirt, scan noise, abrasion, ink bleed, halftone roughness, torn edges, and digital distress that still feels print-born. Texture is authored and applied, not accidental grime.
 
-**Shape**: Anti-grid collage blocks, jagged tears, skewed frames, image-text collision, stairstep type, torn columns, and asymmetrical fragments. Calm rounded cards or centered geometric balance break the signal.
+**Shape**: Displaced type, awkward cropping, skewed blocks, collisions and fragmented alignment. Sparse compositions can concentrate the disruption in one display element; a page need not cover every surface in damage.
 
-**Motion**: Minimal but abrasive: staggered cut-ins, jitter, type degradation on scroll, progressive filter roughening, and stutter-like reveals. Motion should not turn legibility failure into an interaction requirement.
+**Motion**: Print evidence establishes no animation convention. Stillness is appropriate; any cut or reveal is a contemporary option, with stable readable controls and reduced-motion support.
 
-**Spatial**: Dense editorial-spread tension, overlapping photos and headlines, edge-breaking placement, uneven hierarchy, negative margins, and deliberate collision. The page behaves like a field of pressure rather than a neutral container.
+**Spatial**: Authored tension through unequal type scale, off-center placement, overlap or large interrupted empty fields. Dense editorial spreads are one expression, not a universal requirement.
 
 **Cultural markers**: David Carson, Ray Gun magazine, The End of Print, Emigre, Neville Brody, Carlos Segura, 1990s alternative music editorial culture, surf/skate spillover, and anti-modernist rebellion against Swiss cleanliness.
 
 ## Non-Negotiables
 
-**Non-negotiables**: distressed print/digital texture; deliberate typeface discordance; anti-grid composition; emotional rawness; and display-only deployment. Smooth edgy branding without typographic abrasion is not Grunge Typography.
+**Non-negotiables**: deliberate typographic disruption; authored compositional tension; print/editorial awareness; and stable readable functional information. Distress and mixed faces are strong tools, but a single displaced or damaged display element can carry the grammar.
 
 ## Connotation
 

@@ -5,30 +5,30 @@ family: historical-design-movements
 era: 1978–1989 (origin); 2010s–present (internet revival and visual codification)
 aliases: ["citypop", "City Pop aesthetic", "Hiroshi Nagai style"]
 status: canonical
-evidence_level: limited
+evidence_level: standard
 related: ["synthwave", "vaporwave", "konbini-utility"]
 subsets: []
 ---
 
 # City Pop Visual Language
 
-City Pop Visual Language translates late-1970s/1980s Japanese city-pop leisure imagery and its 2010s internet revival into sunlit, flat, album-cover-like interface art. It is not generic retro-'80s neon: its strongest signals are clear skies, pools, palms, clean metropolitan leisure, and warm Japanese bubble-era music packaging nostalgia.
+City Pop Visual Language translates late-1970s/1980s Japanese city-pop leisure imagery and its 2010s internet revival into daylight, sunset or nighttime album-cover-like interface art. It is not generic retro-'80s neon: its strongest signals are clear skies, pools, palms, clean metropolitan leisure, and warm Japanese bubble-era music packaging nostalgia.
 
 ## Scope
 
-Use City Pop for music artist pages, album-promo sites, travel and lifestyle editorial, boutique hospitality branding, illustrator portfolios, and aspirational product landing pages that can support a relaxed summer-day mood. Avoid it for dark-mode apps, urgent civic or medical interfaces, data dashboards, long-form utilitarian tools, or any project that reduces Japanese cultural context to decorative kana plus palm trees.
+Use City Pop for music artist pages, album-promo sites, travel and lifestyle editorial, boutique hospitality branding, illustrator portfolios, and aspirational product landing pages that can support a relaxed summer-day mood. Avoid it for urgent civic or medical interfaces, data dashboards, long-form utilitarian tools, or any project that reduces Japanese cultural context to decorative kana plus palm trees.
 
 ## 7-Dimension Profile
 
-**Palette**: Clear blue skies, pool cyan, sunset orange, coral, pink, lavender, and pastel architecture tones. Night-city neon exists as a variant, but the canonical signal is daylight optimism; dark cyberpunk palettes remove the City Pop register.
+**Palette**: Clear blue and pool cyan, sunset coral, orange, pink, lavender, deep violet and night-city contrasts. Day, sunset and night all occur in the inspected Nagai corpus; darkness alone does not turn a composition into Synthwave.
 
-**Type**: Clean Japanese/English commercial display type, rounded sanses, bilingual kanji/kana and English layouts, and airy album-cover titling. Use Noto Sans JP, Kosugi Maru, Zen Maru Gothic, M PLUS Rounded, Mochiy Pop One, Poppins, or Montserrat-like support faces with generous spacing.
+**Type**: Commercial Japanese/English album titling, clean sans, script and other display treatments; photographic sleeves also occur. No one rounded font family defines the music genre. Keep interface text readable and use real language with care.
 
 **Texture**: Flat illustrative surfaces, hard-edged shadows, low-noise airbrushed cleanliness, and occasional soft print grain from record-sleeve reproduction. Avoid VHS degradation, thick grunge distress, or heavy material texture.
 
 **Shape**: Palm silhouettes, rectangular pools, sports-car profiles, low-rise modernist architecture, circular suns, marinas, hotel balconies, and simplified geometric buildings. Forms should be distilled and poster-clean rather than cluttered.
 
-**Motion**: Stillness, slow horizon drift, lazy parallax between cityscape layers, and gentle sunlight or water shimmer. Fast chase motion and horror-surreal glitches push it toward Synthwave or Vaporwave instead.
+**Motion**: Still sleeve-like composition is sufficient. Slow drift or shimmer is an optional frontend interpretation; no exact timing is established by the inspected still paintings and covers.
 
 **Spatial**: Deep horizon compositions with pool/road foreground, city beyond, and open sky above; poster-like central scenes and album-cover framing translate well to hero sections. Preserve breathing room and a strong horizon line.
 
@@ -36,7 +36,7 @@ Use City Pop for music artist pages, album-promo sites, travel and lifestyle edi
 
 ## Non-Negotiables
 
-**Non-negotiables**: sunlit or sunset sky; pool/urban-leisure or resort-city imagery; flat clean illustration; warm Japanese music-packaging nostalgia; and a relaxed optimistic pace. A neon gradient alone is Synthwave-adjacent, not City Pop.
+**Non-negotiables**: grounded Japanese music-packaging context; composed urban/coastal leisure or album-art atmosphere; clear image/type hierarchy; and a relaxed aspirational register. Pools, palms and daylight belong to an important illustrative strand, not every city-pop record.
 
 ## Connotation
 
@@ -47,7 +47,7 @@ City Pop connotes affectionate nostalgic quotation: a contemporary reconstructio
 - `synthwave` shares some retro color memory, but Synthwave is nocturnal, neon, grid-driven, and speed-oriented where City Pop is daylight, resort-like, and relaxed.
 - `vaporwave` shares revival-era internet circulation, but Vaporwave adds irony, media degradation, Greco-Roman/consumer simulacra, and surreal voids.
 - `konbini-utility` is also Japan-linked, but it is operational retail clarity rather than aspirational leisure nostalgia.
-- Daytime City Pop is the Hiroshi Nagai pool/palm/sky core; Nighttime City Pop is a less canonical neon city variant; Future Funk is a revival/music crossover rather than a separate visual system.
+- Daytime City Pop is the Hiroshi Nagai pool/palm/sky core; Nighttime City Pop is an established strand in the inspected paintings; Future Funk is a revival/music crossover rather than a separate visual system.
 
 ## Frontend / UI Guidance
 
@@ -72,7 +72,7 @@ City Pop reuse can flatten a specific Japanese music and bubble-era leisure cont
 ## Anti-Patterns
 
 - Treating City Pop as just palms plus a neon gradient.
-- Turning it into dark Synthwave night-drive imagery.
+- Treating every night scene as Synthwave, or removing the music-packaging context in favor of generic neon grids.
 - Using decorative Japanese text without care, translation, or context.
 - Applying pastel-on-pastel treatment to functional copy or controls.
 - Replacing horizon calm with busy Vaporwave collage or grunge distress.

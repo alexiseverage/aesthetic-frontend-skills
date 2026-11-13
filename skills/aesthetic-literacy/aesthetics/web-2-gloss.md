@@ -22,21 +22,21 @@ Use Web 2.0 Gloss for nostalgic startup launches, beta microsites, community pla
 
 **Palette**: saturated greens, bright blues, energetic oranges, punchy pinks, clean whites, and optimistic mid-tone gradients. Dark palettes are rare; the style wants bright consumer friendliness.
 
-**Type**: large rounded sans-serifs, Trebuchet/Lucida/VAG Rounded-like warmth, high x-height labels, informal copy, and white text on saturated gradient buttons. Typography should signal approachability, not corporate authority.
+**Type**: Friendly readable sans, compact utility labels, larger promotional titles and selected white-on-color controls. Trebuchet/Lucida-like categories are useful proposals, not font identifications proven from archival pixels.
 
 **Texture**: glossy wet-table reflections, white highlight bands, inner glows, shiny badges, gradient strips, diagonal reflection pseudo-elements, and clean app chrome. It is shiny but not physically detailed enough to be full Skeuomorphism.
 
 **Shape**: aggressively rounded buttons, pill tags, rounded tabs, starburst badges, beta stamps, mascot containers, and inflated CTA forms. Corners commonly feel softer and larger than earlier Web 1.0 boxes.
 
-**Motion**: hover glow, accordion reveals, sliding panels, star-rating interactions, soft dropdowns, and friendly transitions. Motion should support interaction without becoming MySpace-style chaos.
+**Motion**: The inspected archive images are static. Hover, tab changes or disclosure can be contemporary functionality; do not infer duration, easing or live behavior from a screenshot.
 
-**Spatial**: fixed-width pages, generous whitespace, centered hero sections, large CTA blocks, rounded navigation tabs, and content-first layouts that reacted against dense table-crammed Web 1.0 pages.
+**Spatial**: Centered consumer pages, white reading fields, rounded modules and glossy navigation are common; dense sidebar and product-grid compositions also occur. Keep ornament concentrated around actual actions.
 
 **Cultural markers**: Flickr, early Twitter, Digg, Basecamp-like friendliness, early Facebook-era rounded tabs, beta badges, “Sign Up Now!” starbursts, mascot characters, informal launch copy, and social web participation rhetoric.
 
 ## Non-Negotiables
 
-**Non-negotiables**: glossy reflection gradient; rounded controls; cheerful saturated palette; beta/new/free badge language; and friendly consumer-web spaciousness. Gloss without rounded startup-interface friendliness is not Web 2.0 Gloss.
+**Non-negotiables**: glossy reflection gradient; rounded controls; cheerful saturated palette; selected dimensional chrome; and friendly consumer-web information hierarchy. Gloss without rounded startup-interface friendliness is not Web 2.0 Gloss.
 
 ## Connotation
 

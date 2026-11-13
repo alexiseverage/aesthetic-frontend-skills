@@ -28,11 +28,11 @@ Use 8-Bit / Pixel Aesthetic for indie-game sites, retro-tech storytelling, emula
 
 **Shape**: tile blocks, grid-aligned icons, square avatars, chunky hearts/stars/coins, stepped diagonals, isometric blocks, rigid HUD frames, and dialog boxes locked to integer increments.
 
-**Motion**: frame-stepped animation, sprite-sheet swaps, cursor blinks, coin-spin loops, and short state changes with `steps()` timing. Motion should feel discrete and hardware-constrained rather than smoothly interpolated.
+**Motion**: Discrete state changes and optional frame-stepped animation are useful contemporary translations. The inspected still cart labels establish no frame rate, blink period or easing; intentional stillness is valid. Respect reduced motion and avoid flashing.
 
 **Spatial**: HUD overlays, tile-map rhythm, inventory grids, status bars, boxed dialog windows, compartmentalized panels, and visible screen-density cadence based on fixed grid coordinates.
 
-**Cultural markers**: cartridge-era game UI, arcade cabinets, NES/Game Boy/8-bit references, sprites, scoreboards, chiptune-era visual economy, indie-game nostalgia, and constrained-screen literacy.
+**Cultural markers**: Hardware-constrained game construction and contemporary pixel communities, including fantasy consoles. Distinguish NES, Game Boy, CGA and PICO-8 constraints; PICO-8 is a modern platform with its own 128×128, 16-color specification, not original 1980s hardware.
 
 ## Non-Negotiables
 
@@ -68,7 +68,7 @@ Use bitmap or pixel-style faces such as Press Start 2P, VT323, Silkscreen, Pixel
 
 ## Cultural / Ethical Notes
 
-The profile is grounded in limited historical/technical sources rather than a dedicated image corpus. Keep claims conservative: visible pixels and hardware constraints are well supported, but exact console-era references should be accurate rather than casually mixing incompatible platforms. Accessibility is a primary concern because tiny bitmap type, flashing cursors, and patterned backgrounds can quickly become unreadable or fatiguing.
+The current corpus includes 31 contemporary PICO-8 cart labels; historical hardware coverage remains limited. Keep claims conservative: visible pixels and hardware constraints are well supported, but exact console-era references should be accurate rather than casually mixing incompatible platforms. Accessibility is a primary concern because tiny bitmap type, flashing cursors, and patterned backgrounds can quickly become unreadable or fatiguing.
 
 ## Anti-Patterns
 
