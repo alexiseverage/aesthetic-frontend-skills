@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 339,
+  "fullEntryCount": 340,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -3206,6 +3206,16 @@
       "status": "canonical",
       "aliases": [
         "Jouy Print"
+      ]
+    },
+    {
+      "slug": "toy-ooze-packaging",
+      "label": "Toy Ooze Packaging",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Slime toy package design",
+        "Play gel packaging"
       ]
     },
     {
