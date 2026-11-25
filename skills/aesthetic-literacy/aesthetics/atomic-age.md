@@ -52,6 +52,7 @@ Atomic Age / Space Age is the post-1945 consumer-futurist design language of ato
 - `futurism` — shares velocity rhetoric but is earlier, harsher, and avant-garde rather than consumer-commercial.
 - `cassette-futurism` — later channels techno-optimist product fantasy through electronics and tactile hardware.
 - Subsets include Googie roadside architecture, Populuxe consumer goods, Atompunk, and raygun gothic.
+- **Aluminum Christmas Tree Lighting** brings the appliance side of Space Age design into a seasonal display. Tiered foil fronds receive colored light from a segmented disc, a small revolving projector, or a lit stand. Reflective silver is common, with gold, pink, green and blue accents or finishes also documented. Accessory instructions use compact uppercase labels and diagrams. For an interface, let a manual dial or labeled buttons shift the highlights on a fixed metallic silhouette. Keep labels and comparison controls steady. [Research and object records](../../../knowledge/aesthetics/atomic-age.md#2026-11-25--aluminum-christmas-tree-lighting)
 
 ## Frontend / UI Guidance
 
