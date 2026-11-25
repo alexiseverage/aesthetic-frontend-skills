@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 341
+- Full entries: 345
 - Redirect entries: 1
 - Families: 8
 
@@ -163,6 +163,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `isotype` | Isotype | ISOTYPE, Vienna Method of Pictorial Statistics, Wiener Methode der Bildstatistik, International System of Typographic Picture Education |
 | `italian-radical-design` | Italian Radical Design | Radical Design, Anti-design, Superstudio, Archizoom |
 | `japanese-metabolism` | Japanese Metabolism | Metabolism, Metabolist architecture, Japanese Metabolist movement |
+| `lava-lamp-lighting` | Lava Lamp Lighting | Liquid motion lamp lighting, Wax motion lighting |
 | `light-and-space` | Light and Space | Light & Space, California Light and Space, Southern California Light and Space |
 | `ligne-claire` | Ligne Claire | Clear Line, Klare Lijn |
 | `memphis` | Memphis / Post-Modern | Memphis-Milano, Memphis Design, Memphis Group |
@@ -312,6 +313,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `european-heraldic-design` | European Heraldic Design | European armorial design |
 | `guilloche-security-printing` | Guilloché Security Printing | Guilloche security printing, Security-print guilloché, Banknote guilloché |
 | `high-performance-hmi` | High-performance HMI | HP HMI, High Performance SCADA, high-performance SCADA graphics, process-operator graphics, operator-centered industrial UI |
+| `interstellar-message-diagrams` | Interstellar Message Diagrams | Interstellar pictograms, Extraterrestrial message graphics |
 | `makeup-face-chart-studio` | Makeup Face-Chart Studio | makeup planning sheets, facechart studio |
 | `materia-medica-collections` | Materia Medica Collections | Materia medica cabinets, Pharmacognosy teaching collections, Materia medica teaching collections, Raw drug specimen collections |
 | `multisensory-room-design` | Multisensory Room Design | Multisensory environments, Sensory room interiors |
@@ -323,7 +325,9 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `spooky-science-lab` | Spooky Science Lab | Halloween science lab, spooky STEM |
 | `sports-scorebug` | Sports Scorebug | score bug, broadcast score overlay, sports broadcast graphics |
 | `teletext` | Teletext | Broadcast teletext, Teletext design, Ceefax-style teletext |
+| `winter-solstice-alignment-diagrams` | Winter Solstice Alignment Diagrams | Midwinter sun alignment diagrams, Solstice passage diagrams |
 | `wireframe-modeling-workbench` | Wireframe Modeling Workbench | 3D modeling workbench aesthetic, mesh editor interface aesthetic, wireframe modeling UI |
+| `zebra-stripe-identification` | Zebra Stripe Identification | Zebra flank matching, Zebra photo-identification |
 
 ## vernacular-commercial
 

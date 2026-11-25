@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 341,
+  "fullEntryCount": 345,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1729,6 +1729,16 @@
       ]
     },
     {
+      "slug": "interstellar-message-diagrams",
+      "label": "Interstellar Message Diagrams",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Interstellar pictograms",
+        "Extraterrestrial message graphics"
+      ]
+    },
+    {
       "slug": "isotype",
       "label": "Isotype",
       "family": "historical-design-movements",
@@ -1859,6 +1869,16 @@
       "aliases": [
         "Volcanic flow map design",
         "Lava extent atlas"
+      ]
+    },
+    {
+      "slug": "lava-lamp-lighting",
+      "label": "Lava Lamp Lighting",
+      "family": "historical-design-movements",
+      "status": "canonical",
+      "aliases": [
+        "Liquid motion lamp lighting",
+        "Wax motion lighting"
       ]
     },
     {
@@ -3522,6 +3542,16 @@
       ]
     },
     {
+      "slug": "winter-solstice-alignment-diagrams",
+      "label": "Winter Solstice Alignment Diagrams",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Midwinter sun alignment diagrams",
+        "Solstice passage diagrams"
+      ]
+    },
+    {
       "slug": "wireframe-modeling-workbench",
       "label": "Wireframe Modeling Workbench",
       "family": "technical-institutional",
@@ -3579,6 +3609,16 @@
       "aliases": [
         "Y2K Futurism",
         "Cyber Y2K"
+      ]
+    },
+    {
+      "slug": "zebra-stripe-identification",
+      "label": "Zebra Stripe Identification",
+      "family": "technical-institutional",
+      "status": "canonical",
+      "aliases": [
+        "Zebra flank matching",
+        "Zebra photo-identification"
       ]
     }
   ]

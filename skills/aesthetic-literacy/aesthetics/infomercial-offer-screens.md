@@ -44,6 +44,8 @@ Nostalgic quotation of direct-response sales graphics, expressed through a clear
 
 ## Related / Subsets
 
+**[Live Home Shopping Graphics](../../../knowledge/aesthetics/infomercial-offer-screens.md#live-home-shopping-graphics)** uses a persistent product code, current price and ordering region over a changing studio feed. Secondary price, payment, availability and timer fields update according to the active item. Place an item change within the same read order, and make every deadline or availability field attributable to its actual state.
+
 Sports Scorebug describes live game status, while an infomercial rail asks for a response to an offer. Web2 Gloss shares glossy buttons but not the demonstration/price/contact hierarchy. Konbini Utility shares commercial clarity with a different retail information architecture.
 
 ## Frontend / UI Guidance
