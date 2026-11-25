@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 338
+- Full entries: 339
 - Redirect entries: 1
 - Families: 8
 
@@ -263,6 +263,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `theatre-playbill-typography` | Theatre Playbill Typography | Historic theatrical billing typography, Theatrical broadside typography |
 | `toile-de-jouy` | Toile de Jouy | Jouy Print |
 | `tweed-trim-quilted-couture` | Tweed, Trim & Quilted Couture | tweed and trim couture |
+| `ufo-sighting-bulletins` | UFO Sighting Bulletins | UFO association newsletter, Flying saucer investigation bulletin |
 | `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
 | `vintage-halloween-postcard` | Vintage Halloween Postcard | Halloween postcard, antique Halloween postcard |
 | `whole-earth-catalog-editorial` | Whole Earth Catalog Editorial | Whole Earth editorial vernacular, Whole Earth tool-catalog design |

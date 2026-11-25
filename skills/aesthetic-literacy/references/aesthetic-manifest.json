@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 338,
+  "fullEntryCount": 339,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -3238,6 +3238,16 @@
       "status": "canonical",
       "aliases": [
         "tweed and trim couture"
+      ]
+    },
+    {
+      "slug": "ufo-sighting-bulletins",
+      "label": "UFO Sighting Bulletins",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "UFO association newsletter",
+        "Flying saucer investigation bulletin"
       ]
     },
     {
