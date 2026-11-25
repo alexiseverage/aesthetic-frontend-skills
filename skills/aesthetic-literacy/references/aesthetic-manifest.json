@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 336,
+  "fullEntryCount": 337,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -620,6 +620,16 @@
       "aliases": [
         "Chladni figures",
         "Chladni plate patterns"
+      ]
+    },
+    {
+      "slug": "christmas-wish-book-catalogs",
+      "label": "Christmas Wish Book Catalogs",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Department store Christmas catalog design",
+        "Christmas wishbook editorial"
       ]
     },
     {

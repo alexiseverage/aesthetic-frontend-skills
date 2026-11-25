@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 336
+- Full entries: 337
 - Redirect entries: 1
 - Families: 8
 
@@ -217,6 +217,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `balloon-twisting` | Balloon Twisting | Balloon modelling, Balloon sculpting |
 | `brazilian-cordel-woodcut` | Brazilian Cordel Woodcut | Cordel woodcut, Xilogravura de cordel |
 | `british-postwar-textile-abstraction` | British Postwar Textile Abstraction | British postwar abstract textiles |
+| `christmas-wish-book-catalogs` | Christmas Wish Book Catalogs | Department store Christmas catalog design, Christmas wishbook editorial |
 | `cigarette-pack-modernism` | Cigarette Pack Modernism | Reduced cigarette-pack graphics, Geometric tobacco-pack graphics |
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
 | `cut-rock-candy-lettering` | Cut-Rock Candy Lettering | Seaside rock lettering, Cut-rock candy design |
