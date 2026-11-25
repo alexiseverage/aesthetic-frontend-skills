@@ -2,9 +2,9 @@
 slug: infomercial-offer-screens
 label: Infomercial Offer Screens
 first_researched: "2026-11-13"
-last_updated: "2026-11-13"
+last_updated: "2026-11-25"
 source: linked institutional, maker and source-identified media records
-image_count: 30
+image_count: 41
 evidence_level: standard
 new_aesthetic: true
 ---
@@ -123,6 +123,42 @@ All exact CSS colors, dimensions, typography choices and modern control behavior
 
 Sports Scorebug describes live game status, while an infomercial rail asks for a response to an offer. Web2 Gloss shares glossy buttons but not the demonstration/price/contact hierarchy. Konbini Utility shares commercial clarity with a different retail information architecture.
 
+## Live Home Shopping Graphics
+
+The subset covers live television retail systems in which a code, price and order path identify the current item while the broadcaster cuts between presenter, product and demonstration. In a conventional infomercial the recurring offer usually belongs to one product or bundle. Live retail moves between offers within the program and reserves places for current-item fields and program-wide promotions.
+
+Early QVC and Home Shopping Club recordings use dark outlined lettering directly over the image or a simple ordering footer. Later examples use bounded, hierarchical rails with item code, exact price, installments and shipping. A comparison price can be replaced while the item code and primary price hold. A shallow strap can free space for product cards or demonstrations. Countdown appearance and removal occur independently from other fields. Product variant names and availability belong with the current item. A preserved HSN frame shows a diagonal sold-out flag over the existing offer stack, leaving the item code and event price visible. The still establishes the displayed state. The sampled broadcasts supply no numerical inventory transition.
+
+Maintain a fixed read order as items change. Label exact price, comparison price and installments separately. If a replay demonstrates the system, distinguish the recording position from the on-air clock and label products, price and availability as fictional where applicable. In live implementations, show status only when backed by current inventory and offer data.
+
+Ten QVC and HSN broadcasts qualify through timed playback. One additional HSN broadcast qualifies through a preserved full-frame still. The 1986 QVC opening, the early archive copies, the 2018 official HSN hours, and dated US live captures establish the era comparison. Multiple item presentations and frames within a broadcast count once. Some distributor clips carry only clean product video or promotional graphics and were excluded.
+
+- **HSN live heater demonstration**. Left offer card anchors the item number and special price while shots change from presenter hands to a wider set and back to a remote close-up. At 0:12 capture-relative time the offer contracts to a two-row ID/phone footer while a circular teaser appears. By 0:36 the full panel is back. The price remains fixed and the surrounding stack alternates installment and crossed-out comparison prices. No timer or stock count is visible in these samples. Observed intervals 00:00–00:12, 00:12–00:36, 00:36–01:06. 1280 × 720 public live feed, sampled every three seconds. Relative to the start of the 2026-11-25 capture, around 2:11 p.m. EST; frame sampling only bounds transitions. [Inspected broadcast](https://www.hsn.com/watch/live/)
+
+- **Vintage QVC necklace offer recording**. At 2:24 and 2:36 the left offer register lists the braid necklace, dimensions, retail value, offer and shipping. At 3:21 a membership-number promotion occupies that region while the separate introductory price and central product display persist. VHS interference shifts picture colors across frames, so the copy cannot establish an exact broadcast palette. Observed intervals 02:24–02:36, 02:36–03:21. Browser playback 960 × 720. Samples at 2:24, 2:36 and 3:21. Uploader estimates the 1990s; exact broadcast date is unverified. [Inspected broadcast](https://www.youtube.com/watch?v=xnX6agsLV4M)
+
+- **Early Home Shopping Club jewelry recording**. The host-name lower third at 0:47–1:10 gives way to order information with a wider studio view. At 10:31–10:51 a host shot cuts to a necklace close-up against deep blue. At 14:55 a yellow outlined product title, retail comparison, order phone and credit-card line sit around a close view of the chain. Observed intervals 00:47–01:10, 04:59–05:02, 10:31–10:51, 10:51–14:55. Archive playback. No legible countdown or numerical stock observed in the sampled intervals. [Inspected broadcast](https://www.youtube.com/watch?v=ds9ljGQNYB0)
+
+- **QVC main studio feed, item rotation**. At capture 0:59 the left offer lists a sponge item number, a 0:49 timer, comparison price, sale, installments and free shipping. By 2:20 the item header is for a sweater, while two presenters and the next product remain in the right-hand frame. By 3:11 the panel has changed to that displayed product with its own item code, sale, installments and free shipping. Observed intervals 00:59–02:20, 02:20–03:11. 960 × 540 on 2026-11-25. Relative player time. The sampled material verifies item rotation and timer presence. Numerical stock was not visible. [Inspected broadcast](https://www.qvc.com/content/shop-live-tv.html)
+
+- **Hi Tech Home, March 9 2018 04:00 broadcast**. The 604-154 pendant card is stacked at left over an object-only shot. At playback 0:00.9 a separate timer reads 0:03 and free shipping appears between price and installments. That shipping line and timer are absent around 0:02.6. At 6:01 a different product and special price appear in a shallow bottom card under a service explainer. Observed intervals 00:00–00:03, 06:00–06:02. 1280 × 720 publisher playback. Timed observation verifies display changes and later product replacement. It does not measure actual expiry or inventory. [Inspected broadcast](https://www.youtube.com/watch?v=fun9ru_2xsI)
+
+- **Great Gifts, November 22 2018 04:00 broadcast**. A full-frame magenta holiday opener at 0:05 becomes a magenta and blue holiday surround on live product footage. At 12:01 the waffle maker carries a new badge, item code, holiday price and installments at left. At 24:00 the card names an exclusive tablet with a different code, comparison and holiday prices. The holiday shipping and installment rails and the right-hand live label carry across the changes. Observed intervals 00:05–12:01, 12:01–24:01. 1280 × 720 publisher recording. The selected sample does not show a numerical inventory count. [Inspected broadcast](https://www.youtube.com/watch?v=zgk6bQ4T1zA)
+
+- **Beauty Celebration, July 3 2018 04:00 broadcast**. At 24:00 the recorded feed gives a clean full-frame shot to the product lineup. At 42:01 six hand and polish photos sit above a shallow horizontal offer with code, holiday price, installments and free shipping. Wide low treatment leaves the swatch names legible. Observed intervals 24:00–42:01. 1280 × 720 publisher recording. The comparison spans two product presentations within one show. [Inspected broadcast](https://www.youtube.com/watch?v=IA3lx5kacbQ)
+
+- **Memorial Day Weekend Special, May 27 2018 04:00 broadcast**. A textured sponge fills the central shot at 0:49 while a blue-and-white item and price stack sits at left. By 30:01 two presenters and air coolers replace the close-up, and the stack cycles to a different number, renamed offer and crossed-out shipping. Phone and installment positions are stable. Observed intervals 00:49–30:01. 1280 × 720 publisher recording with a previously recorded indicator in the later section. [Inspected broadcast](https://www.youtube.com/watch?v=P-EgbF4_AUk)
+
+- **Home Shopping Club Halloween shoes excerpt**. At 0:02 large outlined letters label three sneaker totes with retail and sale numerals in repeat tiers beside the objects. At 3:07 a product-wide title and sizes replace the earlier graphic. The shoe close-up keeps a stacked retailer identity and price to its left and an order phone below. Observed intervals 00:02–03:07. 640 × 480 archive copy. Date and original color fidelity are unverified. Numerical stock was not visible in these frames. [Inspected broadcast](https://www.youtube.com/watch?v=ywjwkqnCjrE)
+
+- **QVC’s first broadcast, November 24 1986**. At 0:14 a presenter introduces the first product in front of a physical network sign. At 0:45 a shower radio and its carton sit behind an overlaid product code, regular price, on-air price treatment and an ordering footer. By 1:18 the program has cut to a game segment and the product overlay has cleared. Observed intervals 00:14–00:46, 00:45–01:18. Digitized 4:3 framed in 1280 × 720. Surviving footage is short. Stock and the exact on-air price were not established from the sampled frames. [Inspected broadcast](https://www.youtube.com/watch?v=HKaIMdX6K7g)
+
+- **HSN American Dreams cleaning-kit sold-out frame**. A diagonal red label overlays the left offer stack during a three-presenter kitchen demonstration. The item code, event price and ordering strip remain visible. The 2667 × 1500 issuer slide preserves the full composition. The frame shows a sold-out state without establishing when the label appeared or how many units remained. Count the SEC copies and linked full program as one underlying broadcast. [Inspected issuer slide](https://ucarecdn.com/0658b7fc-e0c7-44c6-8712-faf13429d766/) · [Source record](https://wefunder.com/sunstate.laboratories).
+
 ## Research Updates
+
+### 2026-11-25
+
+Added the Live Home Shopping Graphics subset and its broadcast evidence.
 
 - **2026-11-13:** Completed source-linked full-media inspection, identity review and automated ledger audit; reached working target with scope and source concentration documented. Self-reviewed source support and defining traits. No independent review claimed.
