@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 334
+- Full entries: 335
 - Redirect entries: 1
 - Families: 8
 
@@ -219,6 +219,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `british-postwar-textile-abstraction` | British Postwar Textile Abstraction | British postwar abstract textiles |
 | `cigarette-pack-modernism` | Cigarette Pack Modernism | Reduced cigarette-pack graphics, Geometric tobacco-pack graphics |
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
+| `cut-rock-candy-lettering` | Cut-Rock Candy Lettering | Seaside rock lettering, Cut-rock candy design |
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
 | `dotwork-tattoo` | Dotwork Tattoo | dotwork tattoo graphics |
 | `dungeon-synth` | Dungeon Synth Sleeve Culture | dungeon synth sleeve aesthetic |

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 334,
+  "fullEntryCount": 335,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -831,6 +831,16 @@
       "aliases": [
         "classic office groupware",
         "legacy corporate groupware UI"
+      ]
+    },
+    {
+      "slug": "cut-rock-candy-lettering",
+      "label": "Cut-Rock Candy Lettering",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Seaside rock lettering",
+        "Cut-rock candy design"
       ]
     },
     {
