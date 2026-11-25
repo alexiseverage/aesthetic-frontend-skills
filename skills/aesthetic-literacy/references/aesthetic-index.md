@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 340
+- Full entries: 341
 - Redirect entries: 1
 - Families: 8
 
@@ -253,6 +253,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
 | `pochoir-fashion-plates` | Pochoir Fashion Plates | Pochoir fashion illustration, Gazette du Bon Ton fashion plates |
 | `pop-punk` | Pop-Punk | Pop-Punk Graphics, Pop-Punk Merch Design |
+| `postal-savings-stamp-cards` | Postal Savings Stamp Cards | Thrift stamp cards, Savings stamp albums |
 | `puffy-sticker-albums` | Puffy Sticker Albums | Puffy sticker books |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |

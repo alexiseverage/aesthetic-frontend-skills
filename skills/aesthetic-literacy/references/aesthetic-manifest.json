@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 340,
+  "fullEntryCount": 341,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -2547,6 +2547,16 @@
         "scavenged tech",
         "junkyard robotics",
         "wasteland tech"
+      ]
+    },
+    {
+      "slug": "postal-savings-stamp-cards",
+      "label": "Postal Savings Stamp Cards",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Thrift stamp cards",
+        "Savings stamp albums"
       ]
     },
     {
