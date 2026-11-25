@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 335,
+  "fullEntryCount": 336,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1969,6 +1969,16 @@
         "mecha kaiju",
         "mechanized kaiju",
         "giant robot monster"
+      ]
+    },
+    {
+      "slug": "mechanical-magic-lantern-slides",
+      "label": "Mechanical Magic Lantern Slides",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Magic lantern movement slides",
+        "Chromatrope slide design"
       ]
     },
     {

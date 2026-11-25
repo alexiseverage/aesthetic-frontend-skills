@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 335
+- Full entries: 336
 - Redirect entries: 1
 - Families: 8
 
@@ -239,6 +239,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `historic-dinosaur-paleoart` | Historic Dinosaur Paleoart | vintage dinosaur illustration, historical dinosaur reconstruction, classic dinosaur paleoart |
 | `japanese-tattoo-composition` | Japanese Tattoo Composition | Japanese bodysuit composition, horimono composition, wabori composition |
 | `klecksography-inkblot` | Klecksography / Inkblot Graphics | Klecksography, Folded inkblot graphics, Kleksographie, Klecksographie, Inkblot graphics |
+| `mechanical-magic-lantern-slides` | Mechanical Magic Lantern Slides | Magic lantern movement slides, Chromatrope slide design |
 | `millefiori-glass` | Millefiori Glass | Millefiori |
 | `ndebele-mural-art` | Ndebele Mural Art | Ndebele house painting, Southern Ndebele mural painting |
 | `origami` | Origami | Paper folding |
