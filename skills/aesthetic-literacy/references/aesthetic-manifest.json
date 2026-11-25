@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 337,
+  "fullEntryCount": 338,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1849,6 +1849,16 @@
         "Japanese convenience store utility",
         "konbini design",
         "convenience retail packaging utility"
+      ]
+    },
+    {
+      "slug": "lava-flow-cartography",
+      "label": "Lava Flow Cartography",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Volcanic flow map design",
+        "Lava extent atlas"
       ]
     },
     {
