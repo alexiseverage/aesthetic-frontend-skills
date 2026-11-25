@@ -4,7 +4,7 @@ label: Infomercial Offer Screens
 first_researched: "2026-11-13"
 last_updated: "2026-11-25"
 source: linked institutional, maker and source-identified media records
-image_count: 40
+image_count: 41
 evidence_level: standard
 new_aesthetic: true
 ---
@@ -127,11 +127,11 @@ Sports Scorebug describes live game status, while an infomercial rail asks for a
 
 The subset covers live television retail systems in which a code, price and order path identify the current item while the broadcaster cuts between presenter, product and demonstration. In a conventional infomercial the recurring offer usually belongs to one product or bundle. Live retail moves between offers within the program and reserves places for current-item fields and program-wide promotions.
 
-Early QVC and Home Shopping Club recordings use dark outlined lettering directly over the image or a simple ordering footer. Later examples use bounded, hierarchical rails with item code, exact price, installments and shipping. A comparison price can be replaced while the item code and primary price hold. A shallow strap can free space for product cards or demonstrations. Countdown appearance and removal occur independently from other fields. Product variant names and availability belong with the current item. Numerical inventory transitions were not established from the sampled broadcasts.
+Early QVC and Home Shopping Club recordings use dark outlined lettering directly over the image or a simple ordering footer. Later examples use bounded, hierarchical rails with item code, exact price, installments and shipping. A comparison price can be replaced while the item code and primary price hold. A shallow strap can free space for product cards or demonstrations. Countdown appearance and removal occur independently from other fields. Product variant names and availability belong with the current item. A preserved HSN frame shows a diagonal sold-out flag over the existing offer stack, leaving the item code and event price visible. The still establishes the displayed state. The sampled broadcasts supply no numerical inventory transition.
 
 Maintain a fixed read order as items change. Label exact price, comparison price and installments separately. If a replay demonstrates the system, distinguish the recording position from the on-air clock and label products, price and availability as fictional where applicable. In live implementations, show status only when backed by current inventory and offer data.
 
-10 separate QVC and HSN broadcasts qualify. The 1986 QVC opening, the early archive copies, the 2018 official HSN hours, and dated US live captures establish the era comparison. Multiple item presentations and frames within a broadcast count once. Some distributor clips carry only clean product video or promotional graphics and were excluded.
+Ten QVC and HSN broadcasts qualify through timed playback. One additional HSN broadcast qualifies through a preserved full-frame still. The 1986 QVC opening, the early archive copies, the 2018 official HSN hours, and dated US live captures establish the era comparison. Multiple item presentations and frames within a broadcast count once. Some distributor clips carry only clean product video or promotional graphics and were excluded.
 
 - **HSN live heater demonstration**. Left offer card anchors the item number and special price while shots change from presenter hands to a wider set and back to a remote close-up. At 0:12 capture-relative time the offer contracts to a two-row ID/phone footer while a circular teaser appears. By 0:36 the full panel is back. The price remains fixed and the surrounding stack alternates installment and crossed-out comparison prices. No timer or stock count is visible in these samples. Observed intervals 00:00–00:12, 00:12–00:36, 00:36–01:06. 1280 × 720 public live feed, sampled every three seconds. Relative to the start of the 2026-11-25 capture, around 2:11 p.m. EST; frame sampling only bounds transitions. [Inspected broadcast](https://www.hsn.com/watch/live/)
 
@@ -152,6 +152,8 @@ Maintain a fixed read order as items change. Label exact price, comparison price
 - **Home Shopping Club Halloween shoes excerpt**. At 0:02 large outlined letters label three sneaker totes with retail and sale numerals in repeat tiers beside the objects. At 3:07 a product-wide title and sizes replace the earlier graphic. The shoe close-up keeps a stacked retailer identity and price to its left and an order phone below. Observed intervals 00:02–03:07. 640 × 480 archive copy. Date and original color fidelity are unverified. Numerical stock was not visible in these frames. [Inspected broadcast](https://www.youtube.com/watch?v=ywjwkqnCjrE)
 
 - **QVC’s first broadcast, November 24 1986**. At 0:14 a presenter introduces the first product in front of a physical network sign. At 0:45 a shower radio and its carton sit behind an overlaid product code, regular price, on-air price treatment and an ordering footer. By 1:18 the program has cut to a game segment and the product overlay has cleared. Observed intervals 00:14–00:46, 00:45–01:18. Digitized 4:3 framed in 1280 × 720. Surviving footage is short. Stock and the exact on-air price were not established from the sampled frames. [Inspected broadcast](https://www.youtube.com/watch?v=HKaIMdX6K7g)
+
+- **HSN American Dreams cleaning-kit sold-out frame**. A diagonal red label overlays the left offer stack during a three-presenter kitchen demonstration. The item code, event price and ordering strip remain visible. The 2667 × 1500 issuer slide preserves the full composition. The frame shows a sold-out state without establishing when the label appeared or how many units remained. Count the SEC copies and linked full program as one underlying broadcast. [Inspected issuer slide](https://ucarecdn.com/0658b7fc-e0c7-44c6-8712-faf13429d766/) · [Source record](https://wefunder.com/sunstate.laboratories).
 
 ## Research Updates
 
