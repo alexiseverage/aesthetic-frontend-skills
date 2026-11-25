@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 332,
+  "fullEntryCount": 333,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -1528,6 +1528,16 @@
       "aliases": [
         "portable creature index UI",
         "creature field-guide interfaces"
+      ]
+    },
+    {
+      "slug": "hanukkah-lamp-metalwork",
+      "label": "Hanukkah Lamp Metalwork",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Hanukkah lamp design",
+        "Hanukkiah metalwork"
       ]
     },
     {

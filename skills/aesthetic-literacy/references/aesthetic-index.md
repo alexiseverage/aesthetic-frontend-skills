@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 332
+- Full entries: 333
 - Redirect entries: 1
 - Families: 8
 
@@ -232,6 +232,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `greek-black-figure` | Greek Black-Figure | Greek black-figure pottery, Black-figure vase painting |
 | `grosvenor-school-linocut` | Grosvenor School Colour Linocut | Grosvenor School linocuts, Grosvenor colour linocut |
 | `haeckelian-biological-plates` | Haeckelian Biological Plates | Haeckelian natural-history plates, Kunstformen-inspired biological plates |
+| `hanukkah-lamp-metalwork` | Hanukkah Lamp Metalwork | Hanukkah lamp design, Hanukkiah metalwork |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
 | `historic-dinosaur-paleoart` | Historic Dinosaur Paleoart | vintage dinosaur illustration, historical dinosaur reconstruction, classic dinosaur paleoart |
 | `japanese-tattoo-composition` | Japanese Tattoo Composition | Japanese bodysuit composition, horimono composition, wabori composition |
