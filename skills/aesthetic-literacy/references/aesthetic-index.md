@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 332
+- Full entries: 341
 - Redirect entries: 1
 - Families: 8
 
@@ -211,13 +211,16 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | --- | --- | --- |
 | `1970s-recipe-card-libraries` | 1970s Recipe Card Libraries | seventies recipe-card libraries, 1970s boxed recipe cards, 1970s cooking-card libraries |
 | `albarello-pharmacy-ceramics` | Albarello Pharmacy Ceramics | Albarelli pharmacy jars, Painted albarello vessels, Albarelli, Albarelo pharmacy ceramics |
+| `alchemical-emblem-books` | Alchemical Emblem Books | Alchemical emblem book design, Early modern alchemical emblems |
 | `anatomical-flap-atlases` | Anatomical Flap Atlases | Anatomical flap books, Anatomical fugitive sheets |
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
 | `balloon-twisting` | Balloon Twisting | Balloon modelling, Balloon sculpting |
 | `brazilian-cordel-woodcut` | Brazilian Cordel Woodcut | Cordel woodcut, Xilogravura de cordel |
 | `british-postwar-textile-abstraction` | British Postwar Textile Abstraction | British postwar abstract textiles |
+| `christmas-wish-book-catalogs` | Christmas Wish Book Catalogs | Department store Christmas catalog design, Christmas wishbook editorial |
 | `cigarette-pack-modernism` | Cigarette Pack Modernism | Reduced cigarette-pack graphics, Geometric tobacco-pack graphics |
 | `color-infrared-landscape` | Color-Infrared Landscape | Colour-infrared landscape, False-color infrared landscape, Aerochrome landscape photography |
+| `cut-rock-candy-lettering` | Cut-Rock Candy Lettering | Seaside rock lettering, Cut-rock candy design |
 | `cyanotype` | Cyanotype | cyanotype print, sun print, cyanotype photogram |
 | `dotwork-tattoo` | Dotwork Tattoo | dotwork tattoo graphics |
 | `dungeon-synth` | Dungeon Synth Sleeve Culture | dungeon synth sleeve aesthetic |
@@ -232,10 +235,13 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `greek-black-figure` | Greek Black-Figure | Greek black-figure pottery, Black-figure vase painting |
 | `grosvenor-school-linocut` | Grosvenor School Colour Linocut | Grosvenor School linocuts, Grosvenor colour linocut |
 | `haeckelian-biological-plates` | Haeckelian Biological Plates | Haeckelian natural-history plates, Kunstformen-inspired biological plates |
+| `hanukkah-lamp-metalwork` | Hanukkah Lamp Metalwork | Hanukkah lamp design, Hanukkiah metalwork |
 | `harm-reduction-zine` | Harm Reduction Zine | mutual aid health zine, safer use zine, community care handout |
 | `historic-dinosaur-paleoart` | Historic Dinosaur Paleoart | vintage dinosaur illustration, historical dinosaur reconstruction, classic dinosaur paleoart |
 | `japanese-tattoo-composition` | Japanese Tattoo Composition | Japanese bodysuit composition, horimono composition, wabori composition |
 | `klecksography-inkblot` | Klecksography / Inkblot Graphics | Klecksography, Folded inkblot graphics, Kleksographie, Klecksographie, Inkblot graphics |
+| `lava-flow-cartography` | Lava Flow Cartography | Volcanic flow map design, Lava extent atlas |
+| `mechanical-magic-lantern-slides` | Mechanical Magic Lantern Slides | Magic lantern movement slides, Chromatrope slide design |
 | `millefiori-glass` | Millefiori Glass | Millefiori |
 | `ndebele-mural-art` | Ndebele Mural Art | Ndebele house painting, Southern Ndebele mural painting |
 | `origami` | Origami | Paper folding |
@@ -247,6 +253,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `pichwai` | Pichwai | Pichhwai, Pichwai painting, Pichhwai temple hanging |
 | `pochoir-fashion-plates` | Pochoir Fashion Plates | Pochoir fashion illustration, Gazette du Bon Ton fashion plates |
 | `pop-punk` | Pop-Punk | Pop-Punk Graphics, Pop-Punk Merch Design |
+| `postal-savings-stamp-cards` | Postal Savings Stamp Cards | Thrift stamp cards, Savings stamp albums |
 | `puffy-sticker-albums` | Puffy Sticker Albums | Puffy sticker books |
 | `queer-nightlife-ephemera` | Queer Nightlife Ephemera | queer club ephemera, LGBTQ nightlife archive, queer event flyer archive |
 | `risograph` | Risograph | risography, riso print, riso-print, riso aesthetic, spot-color print |
@@ -257,6 +264,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `theatre-playbill-typography` | Theatre Playbill Typography | Historic theatrical billing typography, Theatrical broadside typography |
 | `toile-de-jouy` | Toile de Jouy | Jouy Print |
 | `tweed-trim-quilted-couture` | Tweed, Trim & Quilted Couture | tweed and trim couture |
+| `ufo-sighting-bulletins` | UFO Sighting Bulletins | UFO association newsletter, Flying saucer investigation bulletin |
 | `vintage-costume-pattern` | Vintage Costume Pattern | costume pattern, vintage sewing pattern |
 | `vintage-halloween-postcard` | Vintage Halloween Postcard | Halloween postcard, antique Halloween postcard |
 | `whole-earth-catalog-editorial` | Whole Earth Catalog Editorial | Whole Earth editorial vernacular, Whole Earth tool-catalog design |
@@ -380,6 +388,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | `sticker-bomb-slap` | Sticker-Bomb / Slap Materiality | sticker bombing, sticker art, slaps, sticker graffiti, sticker slapping |
 | `surf-crush` | Surf Crush | — |
 | `tiki-polynesian-pop` | Tiki / Polynesian Pop | Polynesian Pop, tiki bar Americana, mid-century tiki |
+| `toy-ooze-packaging` | Toy Ooze Packaging | Slime toy package design, Play gel packaging |
 | `trading-card-game-design` | Trading Card Game Design | TCG design, CCG frame design, collectible card UI |
 | `transparent-translucent-electronics` | Transparent / Translucent Electronics | clear electronics, see-through electronics, translucent hardware, clear-tech hardware |
 | `urbling` | UrBling | Urbling graphics |

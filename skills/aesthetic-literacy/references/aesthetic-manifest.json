@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 332,
+  "fullEntryCount": 341,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -124,6 +124,16 @@
         "Painted albarello vessels",
         "Albarelli",
         "Albarelo pharmacy ceramics"
+      ]
+    },
+    {
+      "slug": "alchemical-emblem-books",
+      "label": "Alchemical Emblem Books",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Alchemical emblem book design",
+        "Early modern alchemical emblems"
       ]
     },
     {
@@ -613,6 +623,16 @@
       ]
     },
     {
+      "slug": "christmas-wish-book-catalogs",
+      "label": "Christmas Wish Book Catalogs",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Department store Christmas catalog design",
+        "Christmas wishbook editorial"
+      ]
+    },
+    {
       "slug": "cigarette-pack-modernism",
       "label": "Cigarette Pack Modernism",
       "family": "material-print-craft",
@@ -821,6 +841,16 @@
       "aliases": [
         "classic office groupware",
         "legacy corporate groupware UI"
+      ]
+    },
+    {
+      "slug": "cut-rock-candy-lettering",
+      "label": "Cut-Rock Candy Lettering",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Seaside rock lettering",
+        "Cut-rock candy design"
       ]
     },
     {
@@ -1531,6 +1561,16 @@
       ]
     },
     {
+      "slug": "hanukkah-lamp-metalwork",
+      "label": "Hanukkah Lamp Metalwork",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Hanukkah lamp design",
+        "Hanukkiah metalwork"
+      ]
+    },
+    {
       "slug": "harm-reduction-zine",
       "label": "Harm Reduction Zine",
       "family": "material-print-craft",
@@ -1812,6 +1852,16 @@
       ]
     },
     {
+      "slug": "lava-flow-cartography",
+      "label": "Lava Flow Cartography",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Volcanic flow map design",
+        "Lava extent atlas"
+      ]
+    },
+    {
       "slug": "lcd-virtual-pet-toys",
       "label": "LCD Virtual Pet Toys",
       "family": "digital-internet-native",
@@ -1939,6 +1989,16 @@
         "mecha kaiju",
         "mechanized kaiju",
         "giant robot monster"
+      ]
+    },
+    {
+      "slug": "mechanical-magic-lantern-slides",
+      "label": "Mechanical Magic Lantern Slides",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Magic lantern movement slides",
+        "Chromatrope slide design"
       ]
     },
     {
@@ -2487,6 +2547,16 @@
         "scavenged tech",
         "junkyard robotics",
         "wasteland tech"
+      ]
+    },
+    {
+      "slug": "postal-savings-stamp-cards",
+      "label": "Postal Savings Stamp Cards",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Thrift stamp cards",
+        "Savings stamp albums"
       ]
     },
     {
@@ -3149,6 +3219,16 @@
       ]
     },
     {
+      "slug": "toy-ooze-packaging",
+      "label": "Toy Ooze Packaging",
+      "family": "vernacular-commercial",
+      "status": "canonical",
+      "aliases": [
+        "Slime toy package design",
+        "Play gel packaging"
+      ]
+    },
+    {
       "slug": "trading-card-game-design",
       "label": "Trading Card Game Design",
       "family": "vernacular-commercial",
@@ -3178,6 +3258,16 @@
       "status": "canonical",
       "aliases": [
         "tweed and trim couture"
+      ]
+    },
+    {
+      "slug": "ufo-sighting-bulletins",
+      "label": "UFO Sighting Bulletins",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "UFO association newsletter",
+        "Flying saucer investigation bulletin"
       ]
     },
     {
