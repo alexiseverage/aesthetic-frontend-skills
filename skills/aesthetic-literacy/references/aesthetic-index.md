@@ -4,7 +4,7 @@
 
 Skill-local lookup index for installed users. Use this file to find the canonical slug, then load `../aesthetics/<slug>.md` for the complete dictionary entry. Keep root `knowledge/aesthetics/` research profiles out of normal app-design workflows unless provenance, maintenance, or research detail is explicitly requested.
 
-- Full entries: 333
+- Full entries: 334
 - Redirect entries: 1
 - Families: 8
 
@@ -211,6 +211,7 @@ Skill-local lookup index for installed users. Use this file to find the canonica
 | --- | --- | --- |
 | `1970s-recipe-card-libraries` | 1970s Recipe Card Libraries | seventies recipe-card libraries, 1970s boxed recipe cards, 1970s cooking-card libraries |
 | `albarello-pharmacy-ceramics` | Albarello Pharmacy Ceramics | Albarelli pharmacy jars, Painted albarello vessels, Albarelli, Albarelo pharmacy ceramics |
+| `alchemical-emblem-books` | Alchemical Emblem Books | Alchemical emblem book design, Early modern alchemical emblems |
 | `anatomical-flap-atlases` | Anatomical Flap Atlases | Anatomical flap books, Anatomical fugitive sheets |
 | `autumn-field-guide-naturalism` | Autumn Field Guide Naturalism | fall field guide, naturalist autumn |
 | `balloon-twisting` | Balloon Twisting | Balloon modelling, Balloon sculpting |

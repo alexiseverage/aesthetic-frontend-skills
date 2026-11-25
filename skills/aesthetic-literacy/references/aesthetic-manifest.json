@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fullEntryCount": 333,
+  "fullEntryCount": 334,
   "redirectCount": 1,
   "familyCount": 8,
   "entries": [
@@ -124,6 +124,16 @@
         "Painted albarello vessels",
         "Albarelli",
         "Albarelo pharmacy ceramics"
+      ]
+    },
+    {
+      "slug": "alchemical-emblem-books",
+      "label": "Alchemical Emblem Books",
+      "family": "material-print-craft",
+      "status": "canonical",
+      "aliases": [
+        "Alchemical emblem book design",
+        "Early modern alchemical emblems"
       ]
     },
     {
